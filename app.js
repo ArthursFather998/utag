@@ -1,6 +1,6 @@
 "use strict";
 
-/* UTAG control center — read-only public front end over the UTAG database.
+/* UTAG control center: read-only public front end over the UTAG database.
    All reads go through PostgREST with the public anon key. */
 
 const cfg = window.UTAG_CONFIG || {};
@@ -237,7 +237,7 @@ function correctionList(rows) {
   return `<div class="timeline">` + rows.map(c => `
     <div class="timeline-item">
       <div class="t-head"><span>${esc(c.field)}</span><span>${fmtDate(c.created_at)}</span><span>via ${esc(c.source)}</span></div>
-      <div class="rationale">${esc(c.old_value || "∅")} → ${esc(c.new_value)}${c.note ? ` — ${esc(c.note)}` : ""}</div>
+      <div class="rationale">${esc(c.old_value || "∅")} → ${esc(c.new_value)}${c.note ? ` : ${esc(c.note)}` : ""}</div>
     </div>`).join("") + `</div>`;
 }
 
@@ -288,7 +288,7 @@ async function vRelease(id) {
     return `<div class="artcard">
       ${u ? `<img src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty">No art</span>`}
       <div class="artmeta">
-        <span>${esc(a.role)}${a.edition_label ? ` — ${esc(a.edition_label)}` : ""}</span>
+        <span>${esc(a.role)}${a.edition_label ? ` : ${esc(a.edition_label)}` : ""}</span>
         <span>${esc(a.source || "")}</span>
         ${stamp(a.confidence)}
       </div>

@@ -1,4 +1,4 @@
-// UTAG control center — public connection settings.
+// UTAG control center: public connection settings.
 // The anon key is a public, read-only key by design (row-level security
 // keeps writes locked to the service role). It is safe to ship in this file.
 window.UTAG_CONFIG = {

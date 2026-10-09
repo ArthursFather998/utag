@@ -407,7 +407,7 @@ async function vHermes() {
     try {
       const res = await fetch(FN, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${KEY}`, apikey: KEY },
         body: JSON.stringify({ password: pw, action: "chat_send", session_id: sessionId || undefined, content })
       });
       const data = await res.json().catch(() => ({}));

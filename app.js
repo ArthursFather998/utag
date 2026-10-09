@@ -131,6 +131,116 @@ function footer() {
   </footer>`;
 }
 
+/* --------------------------------------------------------------- editing */
+/* Manual edits go through the utag-control function (site password). Every
+   field change lands as a corrections row: a human ruling that outranks AI. */
+
+const CONF_OPTS = ["verified", "high_confidence", "needs_review", "conflicting", "unknown"];
+
+function fnPw() { return sessionStorage.getItem("utag_pw") || ""; }
+
+async function fnCall(payload) {
+  const res = await fetch(FN, {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Authorization: `Bearer ${KEY}`, apikey: KEY },
+    body: JSON.stringify({ password: fnPw(), ...payload })
+  });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok || !data.ok) throw new Error(data.error || `HTTP ${res.status}`);
+  return data;
+}
+
+function pwFieldHTML() {
+  return fnPw() ? "" : `<label class="ef-field ef-wide"><span>Site password (needed to save)</span><input type="password" data-pw autocomplete="current-password"></label>`;
+}
+
+function grabPw(root) {
+  const el = root.querySelector("[data-pw]");
+  if (el && el.value.trim()) sessionStorage.setItem("utag_pw", el.value.trim());
+}
+
+async function saveEdits(root, entityType, entityId, fields, conf) {
+  const status = root.querySelector("[data-status]");
+  grabPw(root);
+  if (status) status.textContent = "Saving…";
+  try {
+    let n = 0;
+    for (const f of fields) {
+      await fnCall({ action: "correct", entity_type: entityType, entity_id: entityId, field: f.name, new_value: f.value });
+      n++;
+    }
+    if (conf && conf.value !== conf.current) {
+      await fnCall({ action: "set_confidence", entity_type: entityType, entity_id: entityId, confidence: conf.value });
+      n++;
+    }
+    if (status) status.textContent = n ? `Saved ${n} change${n === 1 ? "" : "s"}. It is on record as your ruling.` : "Nothing changed.";
+    return true;
+  } catch (err) {
+    if (status) status.textContent = err.message === "Wrong password"
+      ? "That password was refused. Fix it above and save again."
+      : `Save failed: ${err.message}`;
+    if (err.message === "Wrong password") sessionStorage.removeItem("utag_pw");
+    return false;
+  }
+}
+
+function numOrNull(v) { const t = String(v ?? "").trim(); if (!t) return null; const n = Number(t); return Number.isNaN(n) ? null : n; }
+function durToMs(v) {
+  const t = String(v || "").trim(); if (!t) return null;
+  if (/^\d+$/.test(t)) return Number(t) * 1000;
+  const m = t.match(/^(\d+):([0-5]?\d)$/); return m ? (Number(m[1]) * 60 + Number(m[2])) * 1000 : null;
+}
+
+function collectFields(panel) {
+  return [...panel.querySelectorAll("[data-f]")].map(el => {
+    const kind = el.dataset.kind || "text";
+    let value;
+    if (kind === "num") value = numOrNull(el.value);
+    else if (kind === "ms") value = durToMs(el.value);
+    else if (kind === "array") value = el.value.split(",").map(s => s.trim()).filter(Boolean);
+    else if (kind === "nulltext") value = el.value.trim() ? el.value.trim() : null;
+    else value = el.value;
+    const norm = value === null || value === undefined ? "" : Array.isArray(value) ? JSON.stringify(value) : String(value);
+    return { name: el.dataset.f, value, changed: norm !== (el.dataset.cur || "") };
+  }).filter(f => f.changed);
+}
+
+function wireEditor(panel, entityType, entityId, onSaved) {
+  if (!panel) return;
+  const btn = panel.querySelector("[data-save]");
+  if (!btn) return;
+  btn.addEventListener("click", async () => {
+    const confEl = panel.querySelector("[data-conf]");
+    const ok = await saveEdits(panel, entityType, entityId, collectFields(panel),
+      confEl ? { value: confEl.value, current: confEl.dataset.cur } : null);
+    if (ok && onSaved) setTimeout(onSaved, 400);
+  });
+}
+
+function wireToggles() {
+  document.querySelectorAll("[data-toggle]").forEach(b => {
+    b.addEventListener("click", () => {
+      const t = document.getElementById(b.dataset.toggle);
+      if (t) t.hidden = !t.hidden;
+    });
+  });
+}
+
+function efInput(label, name, value, kind, wide) {
+  const norm = value === null || value === undefined ? "" : Array.isArray(value) ? JSON.stringify(value) : String(value);
+  const disp = Array.isArray(value) ? value.join(", ") : (value ?? "");
+  return `<label class="ef-field${wide ? " ef-wide" : ""}"><span>${esc(label)}</span><input data-f="${name}" data-kind="${kind || "text"}" data-cur="${esc(norm)}" value="${esc(disp)}"></label>`;
+}
+function efSelect(label, name, value, opts) {
+  return `<label class="ef-field"><span>${esc(label)}</span><select data-f="${name}" data-kind="text" data-cur="${esc(value ?? "")}">${opts.map(o => `<option value="${esc(o)}"${o === value ? " selected" : ""}>${esc(o)}</option>`).join("")}</select></label>`;
+}
+function efConf(current) {
+  return `<label class="ef-field"><span>Confidence</span><select data-conf data-cur="${esc(current || "unknown")}">${CONF_OPTS.map(c => `<option value="${c}"${c === current ? " selected" : ""}>${c.replace(/_/g, " ")}</option>`).join("")}</select></label>`;
+}
+function efSave() {
+  return `<div class="ef-actions"><button class="btn" type="button" data-save>Save changes</button><p class="empty-note" data-status></p></div>`;
+}
+
 /* ------------------------------------------------------------------ home */
 
 async function vHome() {
@@ -220,11 +330,33 @@ async function vArtist(id) {
     <h1>${esc(a.canonical_name)}</h1>
     <div class="chips" style="display:flex;gap:6px;margin-top:8px">${chip(a.confidence)}</div>
     <div class="facts">${facts.map(([k, v]) => `<div class="fact"><div class="k">${esc(k)}</div><div class="v">${esc(v)}</div></div>`).join("")}</div>
+    <div class="edit-zone">
+      <button class="mini-btn" type="button" data-toggle="artist-editor">Edit artist</button>
+      <div class="edit-panel" id="artist-editor" hidden>
+        <div class="ef-grid">
+          ${efInput("Canonical name", "canonical_name", a.canonical_name, "text", true)}
+          ${efInput("Aliases (comma separated)", "aliases", a.aliases || [], "array")}
+          ${efInput("Genres (comma separated)", "genres", a.genres || [], "array")}
+          ${efInput("Image URL", "image_url", a.image_url, "nulltext")}
+          ${efInput("Spotify ID", "spotify_id", a.spotify_id, "nulltext")}
+          ${efInput("Apple ID", "apple_id", a.apple_id, "nulltext")}
+          ${efInput("Deezer ID", "deezer_id", a.deezer_id, "nulltext")}
+          ${efInput("Discogs ID", "discogs_id", a.discogs_id, "nulltext")}
+          ${efInput("MusicBrainz ID", "mbid", a.mbid, "nulltext")}
+          ${efConf(a.confidence)}
+          ${pwFieldHTML()}
+        </div>
+        ${efSave()}
+      </div>
+    </div>
     ${sections || `<p class="empty-note">No releases on record yet.</p>`}
     <h2>Verification history</h2>
     ${refList(verifs)}
     ${corrections && corrections.length ? `<h2>Human rulings</h2>${refList(corrections)}` : ""}
     ${footer()}`;
+
+  wireToggles();
+  wireEditor(document.getElementById("artist-editor"), "artist", a.id, () => vArtist(id));
 }
 
 /* --------------------------------------------------------------- release */
@@ -256,7 +388,24 @@ async function vRelease(id) {
   const trackRows = (tracks || []).map(t => `
     <tr><td class="num">${t.disc_number > 1 ? `${t.disc_number}.` : ""}${esc(t.track_number || "")}</td>
     <td>${esc(t.title)}</td><td class="num">${fmtDur(t.duration_ms)}</td>
-    <td>${chip(t.confidence)}</td></tr>`).join("");
+    <td>${chip(t.confidence)}</td>
+    <td class="num"><button class="mini-btn" type="button" data-toggle="te-${esc(t.id)}">Edit</button></td></tr>
+    <tr class="tedit-row" id="te-${esc(t.id)}" hidden><td colspan="5">
+      <div class="ef-grid" data-track-panel="${esc(t.id)}">
+        ${efInput("Title", "title", t.title)}
+        ${efInput("Track no.", "track_number", t.track_number, "num")}
+        ${efInput("Disc no.", "disc_number", t.disc_number, "num")}
+        ${efInput("Length (m:ss)", "duration_ms", fmtDur(t.duration_ms), "ms")}
+        ${efInput("ISRC", "isrc", t.isrc, "nulltext")}
+        ${efInput("Spotify ID", "spotify_id", t.spotify_id, "nulltext")}
+        ${efInput("Apple ID", "apple_id", t.apple_id, "nulltext")}
+        ${efInput("Deezer ID", "deezer_id", t.deezer_id, "nulltext")}
+        ${efInput("MusicBrainz ID", "mbid", t.mbid, "nulltext")}
+        ${efConf(t.confidence)}
+        ${pwFieldHTML()}
+      </div>
+      ${efSave()}
+    </td></tr>`).join("");
   const gallery = (others || []).map(x => {
     const u = artUrl(x);
     return `<div class="gitem">
@@ -279,10 +428,53 @@ async function vRelease(id) {
       </div>
     </div>
 
-    <h2>Tracklist</h2>
-    ${tracks && tracks.length ? `<table class="tracks"><thead><tr><th>No.</th><th>Title</th><th>Length</th><th>Confidence</th></tr></thead><tbody>${trackRows}</tbody></table>` : `<p class="empty-note">No tracks recorded for this release yet.</p>`}
+    <div class="edit-zone">
+      <button class="mini-btn" type="button" data-toggle="rel-editor">Edit release</button>
+      <div class="edit-panel" id="rel-editor" hidden>
+        <div class="ef-grid">
+          ${efInput("Title", "title", r.title, "text", true)}
+          ${efSelect("Type", "release_type", r.release_type, ["album", "ep", "single", "compilation", "soundtrack", "other"])}
+          ${efSelect("Edition", "edition", r.edition, ["original", "remaster", "deluxe", "reissue", "regional", "anniversary", "other"])}
+          ${efInput("Release date (YYYY-MM-DD)", "release_date", r.release_date, "nulltext")}
+          ${efInput("Release year", "release_year", r.release_year, "num")}
+          ${efInput("Label", "label", r.label, "nulltext")}
+          ${efInput("Catalog no.", "catalog_number", r.catalog_number, "nulltext")}
+          ${efInput("Barcode", "barcode", r.barcode, "nulltext")}
+          ${efInput("Country", "country", r.country, "nulltext")}
+          ${efInput("Spotify ID", "spotify_id", r.spotify_id, "nulltext")}
+          ${efInput("Apple ID", "apple_id", r.apple_id, "nulltext")}
+          ${efInput("Deezer ID", "deezer_id", r.deezer_id, "nulltext")}
+          ${efInput("Discogs ID", "discogs_id", r.discogs_id, "nulltext")}
+          ${efInput("MusicBrainz ID", "mbid", r.mbid, "nulltext")}
+          ${efConf(r.confidence)}
+          ${pwFieldHTML()}
+        </div>
+        ${efSave()}
+      </div>
+    </div>
 
-    ${others.length ? `<h2>Artwork on record</h2><div class="gallery">${gallery}</div>` : ""}
+    <h2>Tracklist</h2>
+    ${tracks && tracks.length ? `<table class="tracks"><thead><tr><th>No.</th><th>Title</th><th>Length</th><th>Confidence</th><th></th></tr></thead><tbody>${trackRows}</tbody></table>` : `<p class="empty-note">No tracks recorded for this release yet.</p>`}
+
+    <h2>Cover art</h2>
+    <div class="artman" id="artman">
+      ${(art || []).length ? (art || []).map(x => { const u = artUrl(x); return `
+      <div class="artrow">
+        ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty"></span>`}
+        <span class="grow"><span class="t">${esc(x.role)}${x.edition_label ? `: ${esc(x.edition_label)}` : ""}</span>
+        <span class="s">${esc(x.source || "")}</span></span>
+        <span class="end">${chip(x.confidence)}</span>
+        ${x.role !== "canonical" ? `<button class="mini-btn" type="button" data-canonical="${esc(x.id)}">Make canonical</button>` : ""}
+        ${x.role !== "rejected" ? `<button class="mini-btn" type="button" data-reject="${esc(x.id)}">Reject</button>` : ""}
+      </div>`; }).join("") : `<p class="empty-note">No artwork on record for this release yet.</p>`}
+      <div class="ef-grid">
+        ${pwFieldHTML()}
+        <label class="ef-field ef-wide"><span>New artwork image URL</span><input id="art-url" placeholder="https://…"></label>
+        <label class="ef-field"><span>Edition label</span><input id="art-edlabel" placeholder="e.g. 2016 original pressing"></label>
+        <label class="ef-field"><span>Add as</span><select id="art-role"><option value="canonical">Canonical cover</option><option value="candidate">Candidate</option><option value="alternate">Alternate</option></select></label>
+      </div>
+      <div class="ef-actions"><button class="btn" type="button" id="art-add">Add artwork</button><p class="empty-note" id="art-status"></p></div>
+    </div>
 
     ${sameTitle.length ? `<h2>Other editions of this release</h2><div class="rows">${sameTitle.map(releaseRow).join("")}</div>` : ""}
 
@@ -290,6 +482,38 @@ async function vRelease(id) {
     ${refList(verifs)}
     ${corrections && corrections.length ? `<h2>Human rulings</h2>${refList(corrections)}` : ""}
     ${footer()}`;
+
+  wireToggles();
+  wireEditor(document.getElementById("rel-editor"), "release", r.id, () => vRelease(id));
+  document.querySelectorAll("[data-track-panel]").forEach(p =>
+    wireEditor(p.closest("td"), "track", p.dataset.trackPanel, () => vRelease(id)));
+
+  const artman = document.getElementById("artman");
+  if (artman) {
+    const artStatus = document.getElementById("art-status");
+    const artAction = async (btn, fn) => {
+      grabPw(artman);
+      btn.disabled = true;
+      try { await fn(); vRelease(id); }
+      catch (e) {
+        artStatus.textContent = e.message === "Wrong password" ? "That password was refused." : `Failed: ${e.message}`;
+        btn.disabled = false;
+      }
+    };
+    artman.querySelectorAll("[data-canonical]").forEach(b => b.addEventListener("click", () =>
+      artAction(b, () => fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.canonical, field: "role", new_value: "canonical" }))));
+    artman.querySelectorAll("[data-reject]").forEach(b => b.addEventListener("click", () =>
+      artAction(b, () => fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.reject, field: "role", new_value: "rejected" }))));
+    document.getElementById("art-add").addEventListener("click", async (e) => {
+      const url = document.getElementById("art-url").value.trim();
+      if (!url) { artStatus.textContent = "Paste an image URL first."; return; }
+      await artAction(e.currentTarget, async () => {
+        await fnCall({ action: "add_artwork", release_id: r.id, source_url: url,
+          role: document.getElementById("art-role").value,
+          edition_label: document.getElementById("art-edlabel").value.trim() || undefined });
+      });
+    });
+  }
 }
 
 /* ---------------------------------------------------------------- review */
@@ -301,20 +525,51 @@ async function vReview() {
     api("artists?select=id,canonical_name,confidence&confidence=in.(needs_review,conflicting)&order=canonical_name.asc&limit=100"),
     api("verifications?select=*&status=eq.needs_review&order=created_at.desc&limit=25")
   ]);
-  const artistRows = (arts || []).map(a => `
-    <a class="row" href="#/artist/${esc(a.id)}">
-      <span class="grow"><span class="t">${esc(a.canonical_name)}</span></span>
-      <span class="end">${chip(a.confidence)}</span></a>`).join("");
+  const qcBtns = (entity, eid, cur) => ["verified", "high_confidence", "conflicting"]
+    .filter(c => c !== cur)
+    .map(c => `<button class="mini-btn" type="button" data-qe="${entity}" data-qid="${esc(eid)}" data-qc="${c}">${c === "verified" ? "Verify" : c === "high_confidence" ? "High conf." : "Conflict"}</button>`).join("");
+  const relRowsQ = (rels || []).map(r => {
+    const a = (r.artwork || [])[0];
+    const u = artUrl(a);
+    const artist = (r.artists && r.artists.canonical_name) || "";
+    return `<div class="row review-row">
+      ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty"></span>`}
+      <a class="grow" href="#/release/${esc(r.id)}"><span class="t">${esc(r.title)}</span>
+      <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</span></a>
+      <span class="end">${editionChip(r.edition)}${chip(r.confidence)}</span>
+      <span class="qc">${qcBtns("release", r.id, r.confidence)}</span>
+    </div>`;
+  }).join("");
+  const artRowsQ = (arts || []).map(a => `
+    <div class="row review-row">
+      <a class="grow" href="#/artist/${esc(a.id)}"><span class="t">${esc(a.canonical_name)}</span></a>
+      <span class="end">${chip(a.confidence)}</span>
+      <span class="qc">${qcBtns("artist", a.id, a.confidence)}</span>
+    </div>`).join("");
   view.innerHTML = `
     <h1>Review queue</h1>
     <p class="sub">Records Hermes would not mark verified on the evidence he found.</p>
+    <p class="empty-note" id="review-status"></p>
     <h2>Releases</h2>
-    ${rels && rels.length ? `<div class="rows">${rels.map(releaseRow).join("")}</div>` : `<p class="empty-note">No releases are waiting on review.</p>`}
+    ${rels && rels.length ? `<div class="rows">${relRowsQ}</div>` : `<p class="empty-note">No releases are waiting on review.</p>`}
     <h2>Artists</h2>
-    ${arts && arts.length ? `<div class="rows">${artistRows}</div>` : `<p class="empty-note">No artists are waiting on review.</p>`}
+    ${arts && arts.length ? `<div class="rows">${artRowsQ}</div>` : `<p class="empty-note">No artists are waiting on review.</p>`}
     <h2>Open verification runs</h2>
     ${refList(verifs)}
     ${footer()}`;
+
+  document.querySelectorAll("[data-qc]").forEach(b => b.addEventListener("click", async () => {
+    const st = document.getElementById("review-status");
+    if (!fnPw()) { st.textContent = "Unlock with the site password in the Hermes tab first, then set confidence here."; return; }
+    b.disabled = true;
+    try {
+      await fnCall({ action: "set_confidence", entity_type: b.dataset.qe, entity_id: b.dataset.qid, confidence: b.dataset.qc });
+      vReview();
+    } catch (e) {
+      st.textContent = e.message === "Wrong password" ? "That password was refused." : `Failed: ${e.message}`;
+      b.disabled = false;
+    }
+  }));
 }
 
 /* ---------------------------------------------------------------- search */

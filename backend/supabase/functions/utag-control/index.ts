@@ -87,6 +87,23 @@ Deno.serve(async (req) => {
         return json({ ok: false, error: `Field not editable: ${field}` }, 400);
       }
       const entityId = String(body.entity_id || "");
+      const isArr = Array.isArray(body.new_value);
+      const corrValue = isArr ? JSON.stringify(body.new_value) : String(body.new_value ?? "");
+
+      // Promoting artwork to canonical: demote the release's current
+      // canonical first, or the one-canonical-per-release index rejects it.
+      if (entityType === "artwork" && field === "role" && body.new_value === "canonical") {
+        const { data: self } = await supabase
+          .from("artwork").select("release_id").eq("id", entityId).single();
+        if (self) {
+          await supabase.from("artwork")
+            .update({ role: "alternate" })
+            .eq("release_id", (self as { release_id: string }).release_id)
+            .eq("role", "canonical")
+            .neq("id", entityId);
+        }
+      }
+
       const { data: current, error: readErr } = await supabase
         .from(table).select(field).eq("id", entityId).single();
       if (readErr) throw readErr;
@@ -96,7 +113,7 @@ Deno.serve(async (req) => {
         entity_id: entityId,
         field,
         old_value: current ? String((current as Record<string, unknown>)[field] ?? "") : null,
-        new_value: String(body.new_value ?? ""),
+        new_value: corrValue,
         source: "manual",
         note: body.note ? String(body.note) : null,
       });
@@ -132,6 +149,46 @@ Deno.serve(async (req) => {
         .eq("id", String(body.verification_id || ""));
       if (error) throw error;
       return json({ ok: true, action, status });
+    }
+
+    if (action === "add_artwork") {
+      const releaseId = String(body.release_id || "");
+      const sourceUrl = String(body.source_url || "").trim();
+      const role = ["canonical", "candidate", "alternate"].includes(String(body.role))
+        ? String(body.role) : "candidate";
+      if (!releaseId || !sourceUrl) return json({ ok: false, error: "release_id and source_url required" }, 400);
+      const { data: rel, error: relErr } = await supabase
+        .from("releases").select("id").eq("id", releaseId).single();
+      if (relErr || !rel) return json({ ok: false, error: "Release not found" }, 404);
+      if (role === "canonical") {
+        const { data: old } = await supabase.from("artwork")
+          .select("id").eq("release_id", releaseId).eq("role", "canonical");
+        for (const row of (old || []) as { id: string }[]) {
+          await supabase.from("artwork").update({ role: "alternate" }).eq("id", row.id);
+          await supabase.from("corrections").insert({
+            entity_type: "artwork", entity_id: row.id, field: "role",
+            old_value: "canonical", new_value: "alternate", source: "manual",
+            note: "Replaced as canonical by a manual artwork add",
+          });
+        }
+      }
+      const { data: art, error: artErr } = await supabase.from("artwork").insert({
+        release_id: releaseId,
+        source_url: sourceUrl,
+        role,
+        edition_label: body.edition_label ? String(body.edition_label) : null,
+        source: "user",
+        confidence: "verified",
+        status: "verified",
+      }).select("id").single();
+      if (artErr) throw artErr;
+      const artId = (art as { id: string }).id;
+      await supabase.from("corrections").insert({
+        entity_type: "artwork", entity_id: artId, field: "source_url",
+        old_value: null, new_value: sourceUrl, source: "manual",
+        note: `Artwork added manually with role ${role}`,
+      });
+      return json({ ok: true, action, artwork_id: artId });
     }
 
     if (action === "chat_send") {

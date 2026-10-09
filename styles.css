@@ -419,6 +419,43 @@ table.tracks tr:last-child td { border-bottom: none; }
   .chat-shell.has-msgs .chat-form { bottom: 72px; }
 }
 
+/* --------------------------------------------------------------- editing --- */
+
+.edit-zone { margin: 14px 0 4px; }
+.mini-btn {
+  background: var(--raise); color: var(--text); border: 1px solid var(--line);
+  border-radius: 999px; padding: 5px 12px; font-family: inherit; font-size: 12px;
+  font-weight: 500; cursor: pointer;
+}
+.mini-btn:hover { background: #3a3a3a; }
+.mini-btn:disabled { opacity: .4; cursor: default; }
+
+.edit-panel, .artman {
+  background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+  padding: 16px; margin-top: 10px;
+}
+.ef-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px 14px; }
+.ef-field { display: grid; gap: 4px; }
+.ef-field.ef-wide { grid-column: 1 / -1; }
+.ef-field > span { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--faint); }
+.ef-field input, .ef-field select {
+  background: var(--bg); border: 1px solid var(--line); border-radius: 10px;
+  color: var(--text); font-family: inherit; font-size: 14px; padding: 9px 11px; width: 100%;
+}
+.ef-field input:focus, .ef-field select:focus { outline: 2px solid var(--dim); outline-offset: -1px; }
+.ef-actions { display: flex; align-items: center; gap: 12px; margin-top: 14px; flex-wrap: wrap; }
+.ef-actions .empty-note { margin: 0; }
+
+.tedit-row td { background: var(--card); }
+.tedit-row .ef-grid { padding: 6px 2px; }
+
+.artrow { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.artrow:last-of-type { border-bottom: none; }
+.artman .ef-grid { margin-top: 14px; }
+
+.row a.grow { color: inherit; text-decoration: none; }
+.qc { display: flex; gap: 6px; flex-wrap: wrap; }
+
 .btn {
   background: var(--text);
   color: #000;

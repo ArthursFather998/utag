@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>UTAG: Verified Music Metadata</title>
-<meta name="description" content="UTAG is a growing database of verified music metadata: artists, releases, editions, artwork, and the evidence behind every record.">
+<meta name="description" content="UTAG is a wiki-style database of verified music metadata: artists, releases, editions, artwork, and the evidence behind every record.">
 <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="stylesheet" href="styles.css">
@@ -12,35 +12,35 @@
 </head>
 <body>
 
-<header class="masthead">
-  <div class="masthead-inner">
+<div class="shell">
+  <aside class="sidebar">
     <a class="wordmark" href="#/">UTAG</a>
-    <nav class="mainnav" aria-label="Main">
-      <a href="#/" data-nav="dashboard">Ledger</a>
+    <nav class="sidenav" aria-label="Main">
+      <a href="#/" data-nav="home">Home</a>
       <a href="#/catalog" data-nav="catalog">Catalog</a>
       <a href="#/artists" data-nav="artists">Artists</a>
-      <a href="#/review" data-nav="review">Review Queue</a>
+      <a href="#/review" data-nav="review">Review</a>
+      <a href="#/hermes" data-nav="hermes">Hermes</a>
     </nav>
-    <form class="searchbox" id="search-form" role="search">
+    <form class="side-search" id="search-form" role="search">
       <label class="visually-hidden" for="search-input">Search artists and releases</label>
-      <input id="search-input" type="search" name="q" placeholder="Artist or release title" autocomplete="off">
-      <button type="submit">Search</button>
+      <input id="search-input" type="search" name="q" placeholder="Search artists, releases" autocomplete="off">
     </form>
-  </div>
-  <div class="masthead-rule"></div>
-</header>
+    <p class="side-note">Every record checked against independent sources before it is marked verified.</p>
+  </aside>
 
-<main id="view" class="view" tabindex="-1">
-  <p class="loading-note">Loading the ledger…</p>
-</main>
+  <main id="view" class="view" tabindex="-1">
+    <p class="loading-note">Loading…</p>
+  </main>
+</div>
 
-<footer class="sitefoot">
-  <span>UTAG: verified music metadata, checked against independent sources before it is stored.</span>
-  <span class="sitefoot-links">
-    <a href="privacy.html">Privacy</a>
-    <a href="terms.html">Terms</a>
-  </span>
-</footer>
+<nav class="tabbar" aria-label="Main">
+  <a href="#/" data-nav="home">Home</a>
+  <a href="#/catalog" data-nav="catalog">Catalog</a>
+  <a href="#/artists" data-nav="artists">Artists</a>
+  <a href="#/review" data-nav="review">Review</a>
+  <a href="#/hermes" data-nav="hermes">Hermes</a>
+</nav>
 
 <script src="app.js"></script>
 </body>

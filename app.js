@@ -345,23 +345,31 @@ async function vHermes() {
   setNav("hermes");
   const pw = sessionStorage.getItem("utag_pw") || "";
   view.innerHTML = `
-    <div class="chat-wrap">
-      <h1>Hermes</h1>
-      <p class="sub">Ask about anything in the database, or hand him a song to verify.</p>
+    <div class="chat-shell" id="chat-shell">
+      <div class="chat-log" id="chat-log"></div>
+      <div class="chat-hero" id="chat-hero">
+        <h1 class="chat-title">Good to see you.</h1>
+      </div>
       ${pw ? "" : `
-      <div class="ref" style="margin-bottom:14px">
+      <div class="ref chat-gate">
         <div class="rb">This tab talks to Hermes through the UTAG control function. Enter the site password once per visit.</div>
         <form class="pw-row" id="pw-form" style="margin-top:10px">
           <input type="password" id="pw-input" placeholder="Site password" autocomplete="current-password">
           <button class="btn" type="submit">Unlock</button>
         </form>
       </div>`}
-      <div class="chat-log" id="chat-log"></div>
       <form class="chat-form" id="chat-form">
+        <button class="chat-plus" type="button" id="chat-upload" title="Upload an audio file to UTAG" ${pw ? "" : "disabled"}>+</button>
+        <input type="file" id="chat-file" accept="audio/*" hidden>
         <input type="text" id="chat-input" placeholder="Ask Hermes…" autocomplete="off" ${pw ? "" : "disabled"}>
-        <button class="btn" type="submit" id="chat-send" ${pw ? "" : "disabled"}>Send</button>
+        <button class="chat-send" type="submit" id="chat-send" ${pw ? "" : "disabled"} aria-label="Send">&uarr;</button>
       </form>
-      <p class="empty-note" id="chat-status"></p>
+      <div class="chat-pills">
+        <button class="pill" type="button" data-prompt="What is in the UTAG database right now?">What&rsquo;s in the database?</button>
+        <button class="pill" type="button" data-prompt="What in the database still needs review?">What needs review?</button>
+        <button class="pill" type="button" data-prefill="Verify this song: ">Verify a song</button>
+      </div>
+      <p class="empty-note chat-status" id="chat-status"></p>
     </div>`;
 
   const pwForm = document.getElementById("pw-form");
@@ -376,17 +384,21 @@ async function vHermes() {
 
   const log = document.getElementById("chat-log");
   const status = document.getElementById("chat-status");
+  const shell = document.getElementById("chat-shell");
   const sessionId = localStorage.getItem("utag_chat_session") || "";
 
+  function renderMessages(msgs) {
+    const list = msgs || [];
+    shell.classList.toggle("has-msgs", list.length > 0);
+    log.innerHTML = list.map(m => `<div class="msg msg-${m.role === "user" ? "user" : "assistant"}">${esc(m.content)}</div>`).join("");
+    log.lastElementChild && log.lastElementChild.scrollIntoView({ block: "end" });
+  }
+
   async function refresh() {
-    if (!sessionId) { log.innerHTML = `<p class="empty-note">No conversation yet. Send the first message.</p>`; return; }
+    if (!sessionId) { renderMessages([]); return; }
     try {
       const msgs = await api(`chat_messages?select=role,content,created_at&session_id=eq.${encodeURIComponent(sessionId)}&order=created_at.asc&limit=200`);
-      log.innerHTML = (msgs || []).map(m => `
-        <div class="msg msg-${m.role === "user" ? "user" : "assistant"}">
-          <span class="who">${m.role === "user" ? "You" : "Hermes"}</span>${esc(m.content)}
-        </div>`).join("") || `<p class="empty-note">No messages yet.</p>`;
-      log.lastElementChild && log.lastElementChild.scrollIntoView({ block: "end" });
+      renderMessages(msgs);
     } catch (err) {
       status.textContent = "Could not load the conversation.";
     }
@@ -395,6 +407,50 @@ async function vHermes() {
   await refresh();
   clearInterval(chatTimer);
   chatTimer = setInterval(refresh, 4000);
+
+  /* ------------------------------------------------------------ uploads */
+  const fileInput = document.getElementById("chat-file");
+  const uploadBtn = document.getElementById("chat-upload");
+  uploadBtn.addEventListener("click", () => fileInput.click());
+  fileInput.addEventListener("change", async () => {
+    const file = fileInput.files && fileInput.files[0];
+    fileInput.value = "";
+    if (!file) return;
+    if (file.size > 50 * 1024 * 1024) { status.textContent = "That file is over the 50 MB upload limit."; return; }
+    status.textContent = `Uploading ${file.name}…`;
+    uploadBtn.disabled = true;
+    try {
+      const path = `site/${Date.now()}-${file.name.replace(/[^A-Za-z0-9._-]+/g, "_")}`;
+      const up = await fetch(`${BASEURL}/storage/v1/object/uploads/${encodeURIComponent(path)}`, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${KEY}`, apikey: KEY, "Content-Type": file.type || "audio/mpeg", "x-upsert": "false" },
+        body: file
+      });
+      if (!up.ok) throw new Error(`storage ${up.status}`);
+      const meta = await api("uploads", {
+        method: "POST",
+        body: { storage_path: path, file_name: file.name, file_size: file.size, content_type: file.type || null, status: "queued" }
+      }).catch(err => { throw new Error("meta"); });
+      if (meta && meta.error) throw new Error("meta");
+      status.textContent = `Uploaded ${file.name}. Hermes will pick it up from the queue.`;
+    } catch (err) {
+      status.textContent = err.message === "meta"
+        ? "The file went up but the queue entry failed. Tell Muse and he will sort it."
+        : "Upload failed. The uploads bucket may not be set up yet.";
+    } finally {
+      uploadBtn.disabled = false;
+    }
+  });
+
+  /* --------------------------------------------------------------- pills */
+  document.querySelectorAll(".chat-pills .pill").forEach(p => {
+    p.addEventListener("click", () => {
+      const formEl = document.getElementById("chat-form");
+      const inputEl = document.getElementById("chat-input");
+      if (p.dataset.prompt) { inputEl.value = p.dataset.prompt; formEl.requestSubmit(); }
+      else if (p.dataset.prefill) { inputEl.value = p.dataset.prefill; inputEl.focus(); }
+    });
+  });
 
   document.getElementById("chat-form").addEventListener("submit", async e => {
     e.preventDefault();

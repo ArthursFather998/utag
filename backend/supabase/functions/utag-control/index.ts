@@ -207,6 +207,112 @@ Deno.serve(async (req) => {
       return json({ ok: true, action, session_id: sessionId });
     }
 
+    if (action === "hermes_bridge") {
+      const { data, error } = await supabase.from("hermes_bridge")
+        .select("url,token,updated_at").eq("id", "utag").single();
+      if (error || !data || !(data as { url?: string }).url) {
+        return json({ ok: false, error: "Direct Hermes is not reporting yet" }, 404);
+      }
+      const row = data as { url: string; token: string; updated_at: string };
+      return json({ ok: true, action, url: row.url, token: row.token, updated_at: row.updated_at });
+    }
+
+    if (action === "proposal_approve" || action === "proposal_reject") {
+      const proposalId = String(body.proposal_id || "");
+      const { data: prop, error: pErr } = await supabase.from("hermes_proposals")
+        .select("id,job_id,title,status").eq("id", proposalId).single();
+      if (pErr || !prop) return json({ ok: false, error: "Proposal not found" }, 404);
+      const p = prop as { id: string; job_id: string; title: string; status: string };
+      if (p.status !== "pending") return json({ ok: false, error: `Proposal already ${p.status}` }, 409);
+      if (action === "proposal_approve") {
+        const { error } = await supabase.from("hermes_proposals")
+          .update({ status: "approved", decided_at: new Date().toISOString(), updated_at: new Date().toISOString() })
+          .eq("id", proposalId);
+        if (error) throw error;
+        await supabase.from("hermes_jobs")
+          .update({ status: "approved", updated_at: new Date().toISOString() }).eq("id", p.job_id);
+        await supabase.from("hermes_events").insert({
+          job_id: p.job_id, level: "info", event: "proposal_approved",
+          message: `You approved: ${p.title}`, details: {},
+        });
+        return json({ ok: true, action, proposal_id: proposalId });
+      }
+      const { error } = await supabase.from("hermes_proposals")
+        .update({ status: "rejected", decided_at: new Date().toISOString(), updated_at: new Date().toISOString() })
+        .eq("id", proposalId);
+      if (error) throw error;
+      const { data: jobRow } = await supabase.from("hermes_jobs")
+        .select("source_table,source_id").eq("id", p.job_id).single();
+      await supabase.from("hermes_jobs")
+        .update({ status: "rejected", finished_at: new Date().toISOString(), updated_at: new Date().toISOString() })
+        .eq("id", p.job_id);
+      const job = jobRow as { source_table?: string; source_id?: string } | null;
+      if (job && job.source_table === "submissions" && job.source_id) {
+        await supabase.from("submissions").update({ processed_at: new Date().toISOString() }).eq("id", job.source_id);
+      } else if (job && job.source_table === "uploads" && job.source_id) {
+        await supabase.from("uploads").update({ status: "rejected" }).eq("id", job.source_id);
+      }
+      await supabase.from("hermes_events").insert({
+        job_id: p.job_id, level: "warn", event: "proposal_rejected",
+        message: `You rejected: ${p.title}`, details: {},
+      });
+      return json({ ok: true, action, proposal_id: proposalId });
+    }
+
+    if (action === "job_retry" || action === "job_cancel") {
+      const jobId = String(body.job_id || "");
+      const { data: jobRow, error: jErr } = await supabase.from("hermes_jobs")
+        .select("id,status,source_table,source_id").eq("id", jobId).single();
+      if (jErr || !jobRow) return json({ ok: false, error: "Job not found" }, 404);
+      const job = jobRow as { id: string; status: string; source_table?: string; source_id?: string };
+      if (action === "job_retry") {
+        const { data: failedProp } = await supabase.from("hermes_proposals")
+          .select("id").eq("job_id", jobId).eq("status", "apply_failed").limit(1);
+        if (failedProp && failedProp.length) {
+          await supabase.from("hermes_proposals")
+            .update({ status: "approved", updated_at: new Date().toISOString() }).eq("job_id", jobId);
+          await supabase.from("hermes_jobs")
+            .update({ status: "approved", error: null, updated_at: new Date().toISOString() }).eq("id", jobId);
+        } else {
+          await supabase.from("hermes_jobs")
+            .update({ status: "queued", attempts: 0, error: null, updated_at: new Date().toISOString() }).eq("id", jobId);
+          if (job.source_table === "submissions" && job.source_id) {
+            await supabase.from("submissions").update({ processed_at: null }).eq("id", job.source_id);
+          } else if (job.source_table === "uploads" && job.source_id) {
+            await supabase.from("uploads").update({ status: "queued" }).eq("id", job.source_id);
+          }
+        }
+        await supabase.from("hermes_events").insert({
+          job_id: jobId, level: "info", event: "job_retry", message: "You sent this job back for another run", details: {},
+        });
+        return json({ ok: true, action, job_id: jobId });
+      }
+      if (job.status !== "queued") return json({ ok: false, error: "Only queued jobs can be cancelled" }, 409);
+      await supabase.from("hermes_jobs")
+        .update({ status: "skipped", finished_at: new Date().toISOString(), updated_at: new Date().toISOString() }).eq("id", jobId);
+      if (job.source_table === "submissions" && job.source_id) {
+        await supabase.from("submissions").update({ processed_at: new Date().toISOString() }).eq("id", job.source_id);
+      } else if (job.source_table === "uploads" && job.source_id) {
+        await supabase.from("uploads").update({ status: "rejected" }).eq("id", job.source_id);
+      }
+      await supabase.from("hermes_events").insert({
+        job_id: jobId, level: "warn", event: "job_cancelled", message: "You cancelled this queued job", details: {},
+      });
+      return json({ ok: true, action, job_id: jobId });
+    }
+
+    if (action === "queue_set_paused") {
+      const paused = Boolean(body.paused);
+      const { error } = await supabase.from("hermes_control")
+        .upsert({ id: "queue", paused, updated_at: new Date().toISOString() }, { onConflict: "id" });
+      if (error) throw error;
+      await supabase.from("hermes_events").insert({
+        job_id: null, level: "warn", event: paused ? "queue_paused" : "queue_resumed",
+        message: paused ? "You paused Hermes's queue" : "You resumed Hermes's queue", details: {},
+      });
+      return json({ ok: true, action, paused });
+    }
+
     return json({ ok: false, error: `Unknown action: ${action}` }, 400);
   } catch (err) {
     return json({ ok: false, error: err instanceof Error ? err.message : String(err) }, 500);

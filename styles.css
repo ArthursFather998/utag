@@ -513,3 +513,37 @@ table.tracks tr:last-child td { border-bottom: none; }
   h1 { font-size: 27px; }
   .grid { grid-template-columns: repeat(auto-fill, minmax(148px, 1fr)); }
 }
+
+/* -------------------------------------------------------------- activity --- */
+
+.stats { display: flex; gap: 10px; flex-wrap: wrap; margin: 14px 0 4px; }
+.act-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 12px 0 2px; }
+.act-dot { width: 10px; height: 10px; border-radius: 999px; background: var(--verified); flex: none; }
+.act-dot.down { background: var(--red); }
+.muted-note { color: var(--dim); font-size: 12px; }
+a.act-link { text-decoration: none; display: inline-block; }
+
+.chip.job-queued { color: var(--unknown); }
+.chip.job-running, .chip.job-applying { color: var(--high); }
+.chip.job-awaiting_approval, .chip.job-approved { color: var(--review); }
+.chip.job-done { color: var(--verified); }
+.chip.job-failed, .chip.job-rejected { color: var(--conflict); }
+.chip.job-skipped { color: var(--dim); }
+
+.act-card { margin-bottom: 10px; }
+.act-art { width: 84px; height: 84px; object-fit: cover; border-radius: 10px; margin-top: 8px; display: block; }
+.act-bits, .act-src { color: var(--dim); font-size: 12px; }
+.act-src a { color: var(--text); }
+.act-details summary { cursor: pointer; color: var(--dim); font-size: 12px; margin-top: 8px; }
+.act-json { background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 10px; font-size: 11px; overflow: auto; max-height: 320px; white-space: pre; }
+.act-job .act-err { color: var(--red); white-space: normal; }
+
+.act-loglist { display: grid; gap: 4px; }
+.act-ev { display: flex; gap: 8px; align-items: baseline; font-size: 12.5px; padding: 5px 8px; background: var(--card); border: 1px solid var(--line); border-radius: 8px; }
+.act-ev-dot { width: 7px; height: 7px; border-radius: 99px; background: var(--dim); flex: none; position: relative; top: -1px; }
+.act-ev.lvl-success .act-ev-dot { background: var(--verified); }
+.act-ev.lvl-error .act-ev-dot { background: var(--red); }
+.act-ev.lvl-warn .act-ev-dot { background: var(--review); }
+.act-ev-time { color: var(--faint); flex: none; font-variant-numeric: tabular-nums; }
+.act-ev-msg { white-space: pre-wrap; word-break: break-word; }
+.draft-dot { color: var(--dim); }

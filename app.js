@@ -10,6 +10,7 @@ const FN = (cfg.SUPABASE_URL || "").replace(/\/$/, "") + "/functions/v1/utag-con
 const KEY = cfg.ANON_KEY || "";
 const view = document.getElementById("view");
 let chatTimer = null;
+let activityTimer = null;
 
 const CONF_LABEL = {
   verified: "Verified",
@@ -594,9 +595,376 @@ async function vSearch(q) {
     ${footer()}`;
 }
 
+/* --------------------------------------------------------------- activity */
+
+const JOB_LABEL = { queued: "Queued", running: "Running", awaiting_approval: "Awaiting approval", approved: "Approved", applying: "Applying", done: "Done", failed: "Failed", rejected: "Rejected", skipped: "Skipped" };
+const KIND_LABEL = { ruling: "Owner ruling", miss: "Splotify miss", upload: "Upload", artwork: "Cover art", sweep_track: "Track re-check", sweep_release: "Release re-check", chat: "Direct chat", apply: "Apply" };
+
+function jobChip(s) { return `<span class="chip job-${esc(s)}">${esc(JOB_LABEL[s] || s)}</span>`; }
+function fmtTime(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  return isNaN(d) ? "" : d.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit", second: "2-digit" });
+}
+function agoText(iso) {
+  if (!iso) return "never";
+  const s = Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 1000));
+  if (s < 60) return `${s}s ago`;
+  if (s < 3600) return `${Math.floor(s / 60)}m ago`;
+  return `${Math.floor(s / 3600)}h ago`;
+}
+
+async function vActivity() {
+  setNav("activity");
+  view.innerHTML = `
+    <h1>Hermes activity</h1>
+    <p class="sub">Everything Hermes is doing, live. He researches and files proposals. Nothing lands in the catalog until you approve it.</p>
+    <p class="empty-note" id="act-status"></p>
+    <div class="act-head" id="act-head"></div>
+    <div class="stats" id="act-stats"></div>
+    <h2>Now working</h2>
+    <div id="act-now"><p class="empty-note">Loading…</p></div>
+    <h2>Awaiting your approval</h2>
+    <div id="act-approvals"><p class="empty-note">Loading…</p></div>
+    <h2>Jobs</h2>
+    <div id="act-jobs"><p class="empty-note">Loading…</p></div>
+    <h2>Live log</h2>
+    <div id="act-log"><p class="empty-note">Loading…</p></div>
+    ${footer()}`;
+
+  const statusEl = document.getElementById("act-status");
+  const setStatus = t => { statusEl.textContent = t || ""; };
+
+  async function actCall(payload, btn) {
+    if (!fnPw()) { setStatus("Unlock with the site password in the Hermes tab first, then come back to approve."); return; }
+    if (btn) btn.disabled = true;
+    try {
+      await fnCall(payload);
+      await update();
+    } catch (e) {
+      setStatus(e.message === "Wrong password" ? "That password was refused." : `That did not go through: ${e.message}`);
+      if (btn) btn.disabled = false;
+    }
+  }
+
+  function wireButtons(updateFn) {
+    document.querySelectorAll("[data-approve]").forEach(b => { b.onclick = () => actCall({ action: "proposal_approve", proposal_id: b.dataset.approve }, b); });
+    document.querySelectorAll("[data-reject]").forEach(b => { b.onclick = () => actCall({ action: "proposal_reject", proposal_id: b.dataset.reject }, b); });
+    document.querySelectorAll("[data-retry]").forEach(b => { b.onclick = () => actCall({ action: "job_retry", job_id: b.dataset.retry }, b); });
+    document.querySelectorAll("[data-cancel]").forEach(b => { b.onclick = () => actCall({ action: "job_cancel", job_id: b.dataset.cancel }, b); });
+    const pauseBtn = document.getElementById("act-pause");
+    if (pauseBtn) pauseBtn.onclick = () => actCall({ action: "queue_set_paused", paused: pauseBtn.dataset.paused !== "1" }, pauseBtn);
+  }
+
+  function proposalCard(p) {
+    const pr = p.proposal || {};
+    const art = pr.artwork || {};
+    const sources = (pr.sources || []).map(s => s.url
+      ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.source || "source")}</a>`
+      : esc(s.source || "source")).join(" · ");
+    const bits = [];
+    if ((pr.artist || {}).canonical_name) bits.push(`Artist: ${esc(pr.artist.canonical_name)}`);
+    if ((pr.release || {}).title) bits.push(`Release: ${esc(pr.release.title)}`);
+    if ((pr.tracks || []).length) bits.push(`${pr.tracks.length} track${pr.tracks.length === 1 ? "" : "s"}`);
+    if (art.source_url) bits.push(`Artwork: ${esc(art.role || "candidate")}`);
+    return `<div class="ref act-card">
+      <div class="rh">${chip(p.confidence || "needs_review")}<span>${esc(p.title)}</span><span>${fmtTime(p.created_at)}</span></div>
+      <div class="rb">${esc(p.summary || "")}</div>
+      ${bits.length ? `<div class="rb act-bits">${bits.join(" · ")}</div>` : ""}
+      ${art.source_url ? `<img class="act-art" src="${esc(art.source_url)}" alt="" loading="lazy">` : ""}
+      ${sources ? `<div class="rb act-src">Sources: ${sources}</div>` : ""}
+      <details class="act-details"><summary>Full proposal</summary><pre class="act-json">${esc(JSON.stringify(pr, null, 2))}</pre></details>
+      <div class="ef-actions">
+        <button class="btn" type="button" data-approve="${esc(p.id)}">Approve and apply</button>
+        <button class="mini-btn" type="button" data-reject="${esc(p.id)}">Reject</button>
+      </div>
+    </div>`;
+  }
+
+  async function update() {
+    if (!document.getElementById("act-log")) { clearInterval(activityTimer); activityTimer = null; return; }
+    let control, jobs, props, events;
+    try {
+      [control, jobs, props, events] = await Promise.all([
+        api("hermes_control?select=*&id=eq.queue"),
+        api("hermes_jobs?select=*&order=updated_at.desc&limit=80"),
+        api("hermes_proposals?select=*&order=created_at.desc&limit=40"),
+        api("hermes_events?select=*&order=created_at.desc&limit=80")
+      ]);
+    } catch (e) {
+      document.getElementById("act-now").innerHTML = `<p class="error-note">The activity backend is not installed yet. Run the 20261009_hermes_activity.sql migration in the Supabase SQL editor, and Hermes's work will show up here live.</p>`;
+      clearInterval(activityTimer); activityTimer = null;
+      return;
+    }
+    const ctrl = (control || [])[0] || {};
+    const stale = !ctrl.heartbeat_at || (Date.now() - new Date(ctrl.heartbeat_at).getTime() > 180000);
+    document.getElementById("act-head").innerHTML = `
+      <span class="act-dot ${stale ? "down" : "up"}"></span>
+      <span>${stale ? "Hermes stack looks down (no heartbeat). His workers may need a restart." : "Hermes is up."}</span>
+      <span class="muted-note">Heartbeat ${agoText(ctrl.heartbeat_at)}${ctrl.paused ? " · Queue paused by you" : ""}</span>
+      <button class="mini-btn" type="button" id="act-pause" data-paused="${ctrl.paused ? "1" : "0"}">${ctrl.paused ? "Resume queue" : "Pause queue"}</button>
+      <a class="mini-btn act-link" href="#/hermes">Talk to Hermes</a>`;
+
+    const pending = (props || []).filter(p => p.status === "pending");
+    const failed24 = (jobs || []).filter(j => j.status === "failed" && (Date.now() - new Date(j.updated_at).getTime() < 86400000)).length;
+    const doneToday = (jobs || []).filter(j => j.status === "done" && new Date(j.updated_at).toDateString() === new Date().toDateString()).length;
+    const queued = (jobs || []).filter(j => j.status === "queued").length;
+    document.getElementById("act-stats").innerHTML = `
+      <div class="stat"><div class="n">${pending.length}</div><div class="l">Awaiting approval</div></div>
+      <div class="stat"><div class="n">${queued}</div><div class="l">Queued</div></div>
+      <div class="stat"><div class="n">${doneToday}</div><div class="l">Finished today</div></div>
+      <div class="stat"><div class="n">${failed24}</div><div class="l">Failed in 24h</div></div>`;
+
+    const running = (jobs || []).find(j => j.status === "running" || j.status === "applying");
+    document.getElementById("act-now").innerHTML = running
+      ? `<div class="ref"><div class="rh">${jobChip(running.status)}<span>${esc(KIND_LABEL[running.kind] || running.kind)}</span><span>started ${agoText(running.started_at || running.updated_at)}</span></div><div class="rb">${esc(running.title)}</div></div>`
+      : `<p class="empty-note">Hermes is idle right now.</p>`;
+
+    const failedProps = (props || []).filter(p => p.status === "apply_failed");
+    document.getElementById("act-approvals").innerHTML =
+      (pending.length ? pending.map(proposalCard).join("") : `<p class="empty-note">Nothing is waiting on you.</p>`) +
+      failedProps.map(p => `<div class="ref act-card"><div class="rh"><span class="chip job-failed">Apply failed</span><span>${esc(p.title)}</span></div><div class="rb">You approved this, but the apply did not land. Send it back and Hermes will try again.</div><div class="ef-actions"><button class="btn" type="button" data-retry="${esc(p.job_id)}">Retry apply</button></div></div>`).join("");
+
+    document.getElementById("act-jobs").innerHTML = (jobs || []).length ? `<div class="rows">` + jobs.map(j => `
+      <div class="row act-job">
+        <span class="grow"><span class="t">${esc(j.title)}</span>
+        <span class="s">${esc(KIND_LABEL[j.kind] || j.kind)} · ${fmtDate(j.created_at)} ${fmtTime(j.created_at)}${j.attempts ? ` · attempt ${esc(j.attempts)}` : ""}</span>
+        ${j.error ? `<span class="s act-err">${esc(j.error)}</span>` : j.result ? `<span class="s">${esc(j.result)}</span>` : ""}</span>
+        <span class="end">${jobChip(j.status)}</span>
+        ${j.status === "failed" ? `<button class="mini-btn" type="button" data-retry="${esc(j.id)}">Retry</button>` : ""}
+        ${j.status === "queued" ? `<button class="mini-btn" type="button" data-cancel="${esc(j.id)}">Cancel</button>` : ""}
+      </div>`).join("") + `</div>` : `<p class="empty-note">No jobs yet.</p>`;
+
+    document.getElementById("act-log").innerHTML = (events || []).length ? `<div class="act-loglist">` + events.map(e => `
+      <div class="act-ev lvl-${esc(e.level)}"><span class="act-ev-dot"></span><span class="act-ev-time">${fmtTime(e.created_at)}</span><span class="act-ev-msg">${esc(e.message)}</span></div>`).join("") + `</div>` : `<p class="empty-note">No events yet.</p>`;
+
+    wireButtons(update);
+  }
+
+  await update();
+  clearInterval(activityTimer);
+  activityTimer = setInterval(update, 4000);
+}
+
+/* ----------------------------------------------------------- hermes direct */
+
+async function getBridge() {
+  try {
+    const raw = sessionStorage.getItem("utag_bridge");
+    if (raw) {
+      const b = JSON.parse(raw);
+      if (b && b.url && b.token && (Date.now() - (b.at || 0) < 600000)) return b;
+    }
+  } catch (e) { /* refetch below */ }
+  const d = await fnCall({ action: "hermes_bridge" });
+  const b = { url: String(d.url || "").replace(/\/$/, ""), token: d.token, at: Date.now() };
+  if (!b.url || !b.token) throw new Error("Direct Hermes is not reporting yet");
+  sessionStorage.setItem("utag_bridge", JSON.stringify(b));
+  return b;
+}
+
+async function vHermesDirect() {
+  setNav("hermes");
+  const pw = fnPw();
+  view.innerHTML = `
+    <div class="chat-shell" id="chat-shell">
+      <div class="chat-log" id="chat-log"></div>
+      <div class="chat-hero" id="chat-hero">
+        <h1 class="chat-title">Good to see you.</h1>
+      </div>
+      ${pw ? "" : `
+      <div class="ref chat-gate">
+        <div class="rb">This tab talks straight to Hermes, live. Enter the site password once per visit.</div>
+        <form class="pw-row" id="pw-form" style="margin-top:10px">
+          <input type="password" id="pw-input" placeholder="Site password" autocomplete="current-password">
+          <button class="btn" type="submit">Unlock</button>
+        </form>
+      </div>`}
+      <form class="chat-form" id="chat-form">
+        <button class="chat-plus" type="button" id="chat-upload" title="Upload an audio file to UTAG" ${pw ? "" : "disabled"}>+</button>
+        <input type="file" id="chat-file" accept="audio/*" hidden>
+        <input type="text" id="chat-input" placeholder="Ask Hermes…" autocomplete="off" ${pw ? "" : "disabled"}>
+        <button class="chat-send" type="submit" id="chat-send" ${pw ? "" : "disabled"} aria-label="Send">&uarr;</button>
+      </form>
+      <div class="chat-pills">
+        <button class="pill" type="button" data-prompt="What is in the UTAG database right now?">What&rsquo;s in the database?</button>
+        <button class="pill" type="button" data-prompt="What in the database still needs review?">What needs review?</button>
+        <button class="pill" type="button" data-prefill="Verify this song: ">Verify a song</button>
+        <button class="pill" type="button" id="chat-new">New chat</button>
+      </div>
+      <p class="empty-note chat-status" id="chat-status"></p>
+    </div>`;
+
+  const pwForm = document.getElementById("pw-form");
+  if (pwForm) {
+    pwForm.addEventListener("submit", e => {
+      e.preventDefault();
+      const v = document.getElementById("pw-input").value.trim();
+      if (v) { sessionStorage.setItem("utag_pw", v); vHermesDirect(); }
+    });
+    return;
+  }
+
+  const log = document.getElementById("chat-log");
+  const status = document.getElementById("chat-status");
+  const shell = document.getElementById("chat-shell");
+  const input = document.getElementById("chat-input");
+  const send = document.getElementById("chat-send");
+
+  let session = localStorage.getItem("utag_direct_session") || "";
+  if (!session) {
+    session = `web-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
+    localStorage.setItem("utag_direct_session", session);
+  }
+  const storeKey = () => `utag_direct_msgs_${session}`;
+  let msgs = [];
+  try { msgs = JSON.parse(localStorage.getItem(storeKey()) || "[]"); } catch (e) { msgs = []; }
+
+  function render(draft) {
+    const list = draft ? [...msgs, { role: "assistant", content: draft, draft: true }] : msgs;
+    shell.classList.toggle("has-msgs", list.length > 0);
+    log.innerHTML = list.map(m => `<div class="msg msg-${m.role === "user" ? "user" : "assistant"}">${esc(m.content)}${m.draft ? ` <span class="draft-dot">…</span>` : ""}</div>`).join("");
+    log.lastElementChild && log.lastElementChild.scrollIntoView({ block: "end" });
+  }
+  function save() {
+    try { localStorage.setItem(storeKey(), JSON.stringify(msgs.slice(-100))); } catch (e) { /* storage full */ }
+  }
+  render();
+
+  /* Bridge connection (fetched lazily on first send) */
+  let bridge = null;
+  async function ensureBridge() {
+    if (bridge) return bridge;
+    status.textContent = "Opening the direct line to Hermes…";
+    try {
+      bridge = await getBridge();
+      const h = await fetch(`${bridge.url}/health`);
+      if (!h.ok) throw new Error("bridge health check failed");
+      status.textContent = "Connected to Hermes directly. His work shows up in Activity.";
+      return bridge;
+    } catch (e) {
+      bridge = null;
+      status.textContent = /not reporting|404|Unknown action/i.test(e.message || "")
+        ? "Direct Hermes is not switched on yet. It needs the one-time backend update (new SQL plus the control function redeploy), then this tab talks to him live with nothing in between."
+        : `Could not reach Hermes directly: ${e.message}. Check the Activity tab for his status.`;
+      throw e;
+    }
+  }
+
+  /* Uploads still go to UTAG; they land in the queue as proposals. */
+  const fileInput = document.getElementById("chat-file");
+  const uploadBtn = document.getElementById("chat-upload");
+  uploadBtn.addEventListener("click", () => fileInput.click());
+  fileInput.addEventListener("change", async () => {
+    const file = fileInput.files && fileInput.files[0];
+    fileInput.value = "";
+    if (!file) return;
+    if (file.size > 50 * 1024 * 1024) { status.textContent = "That file is over the 50 MB upload limit."; return; }
+    status.textContent = `Uploading ${file.name}…`;
+    uploadBtn.disabled = true;
+    try {
+      const path = `site/${Date.now()}-${file.name.replace(/[^A-Za-z0-9._-]+/g, "_")}`;
+      const up = await fetch(`${(cfg.SUPABASE_URL || "").replace(/\/$/, "")}/storage/v1/object/uploads/${encodeURIComponent(path)}`, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${KEY}`, apikey: KEY, "Content-Type": file.type || "audio/mpeg", "x-upsert": "false" },
+        body: file
+      });
+      if (!up.ok) throw new Error(`storage ${up.status}`);
+      const meta = await api("uploads", {
+        method: "POST",
+        body: { storage_path: path, file_name: file.name, file_size: file.size, content_type: file.type || null, status: "queued" }
+      }).catch(() => { throw new Error("meta"); });
+      if (meta && meta.error) throw new Error("meta");
+      status.textContent = `Uploaded ${file.name}. Hermes will research it and file a proposal in Activity for your approval.`;
+    } catch (err) {
+      status.textContent = err.message === "meta"
+        ? "The file went up but the queue entry failed. Tell Muse and he will sort it."
+        : "Upload failed. The uploads bucket may not be set up yet.";
+    } finally {
+      uploadBtn.disabled = false;
+    }
+  });
+
+  document.querySelectorAll(".chat-pills .pill[data-prompt], .chat-pills .pill[data-prefill]").forEach(p => {
+    p.addEventListener("click", () => {
+      if (p.dataset.prompt) { input.value = p.dataset.prompt; document.getElementById("chat-form").requestSubmit(); }
+      else if (p.dataset.prefill) { input.value = p.dataset.prefill; input.focus(); }
+    });
+  });
+  document.getElementById("chat-new").addEventListener("click", () => {
+    session = `web-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
+    localStorage.setItem("utag_direct_session", session);
+    msgs = [];
+    render();
+    status.textContent = "Fresh conversation started.";
+    input.focus();
+  });
+
+  let running = false;
+  document.getElementById("chat-form").addEventListener("submit", async e => {
+    e.preventDefault();
+    const content = input.value.trim();
+    if (!content || running) return;
+    let b;
+    try { b = await ensureBridge(); } catch (err) { return; }
+    running = true;
+    send.disabled = true;
+    input.value = "";
+    msgs.push({ role: "user", content });
+    save();
+    let draft = "";
+    render(draft);
+    const t0 = Date.now();
+    clearInterval(chatTimer);
+    chatTimer = setInterval(() => {
+      const s = Math.round((Date.now() - t0) / 1000);
+      if (running) status.textContent = `Hermes is working… ${s}s`;
+    }, 1000);
+    try {
+      const res = await fetch(`${b.url}/chat/start`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${b.token}` },
+        body: JSON.stringify({ prompt: content, session })
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok || !data.run_id) throw new Error(data.error || `HTTP ${res.status}`);
+      await new Promise((resolve, reject) => {
+        const es = new EventSource(`${b.url}/chat/events/${data.run_id}?token=${encodeURIComponent(b.token)}`);
+        let settled = false;
+        const done = (err) => { if (!settled) { settled = true; es.close(); err ? reject(err) : resolve(); } };
+        es.onmessage = (ev) => {
+          let m;
+          try { m = JSON.parse(ev.data); } catch (err) { return; }
+          if (m.type === "text") { draft += m.text || ""; render(draft); }
+          else if (m.type === "tool_use") status.textContent = `Hermes is using ${m.name || "a tool"}…`;
+          else if (m.type === "tool_result" && m.is_error) status.textContent = `A tool hit an error (${m.name || "tool"}). Hermes is working around it…`;
+          else if (m.type === "error") { draft = draft || m.text || "Hermes hit an error."; done(new Error(m.text || "Hermes hit an error.")); }
+          else if (m.type === "result") { if (m.text) draft = m.text; done(); }
+        };
+        es.onerror = () => { if (draft) done(); else done(new Error("The direct line dropped before Hermes answered.")); };
+      });
+      msgs.push({ role: "assistant", content: draft || "(no answer)" });
+      save();
+      render();
+      status.textContent = "Hermes answered directly. His work also shows in Activity.";
+    } catch (err) {
+      msgs.push({ role: "assistant", content: draft ? `${draft}\n\n(${err.message})` : `Hermes could not answer: ${err.message}` });
+      save();
+      render();
+      status.textContent = err.message;
+    } finally {
+      running = false;
+      send.disabled = false;
+      clearInterval(chatTimer);
+      chatTimer = null;
+      input.focus();
+    }
+  });
+}
+
 /* ----------------------------------------------------------------- hermes */
 
-async function vHermes() {
+async function vHermesLegacy() {
   setNav("hermes");
   const pw = sessionStorage.getItem("utag_pw") || "";
   view.innerHTML = `
@@ -751,6 +1119,8 @@ function parseHash() {
 async function route() {
   clearInterval(chatTimer);
   chatTimer = null;
+  clearInterval(activityTimer);
+  activityTimer = null;
   if (!KEY || KEY === "PASTE_ANON_KEY_HERE") {
     view.innerHTML = `<h1>Setup</h1><p class="error-note">The public read key is not configured yet.</p>`;
     return;
@@ -764,8 +1134,9 @@ async function route() {
     else if (parts[0] === "artist" && parts[1]) await vArtist(parts[1]);
     else if (parts[0] === "release" && parts[1]) await vRelease(parts[1]);
     else if (parts[0] === "review") await vReview();
+    else if (parts[0] === "activity") await vActivity();
     else if (parts[0] === "search") await vSearch(params.get("q") || "");
-    else if (parts[0] === "hermes") await vHermes();
+    else if (parts[0] === "hermes") await vHermesDirect();
     else view.innerHTML = `<h1>Not found</h1><p class="empty-note">That page is not in UTAG.</p>${footer()}`;
   } catch (err) {
     view.innerHTML = `<h1>Read error</h1><p class="error-note">${esc(err.message || err)}</p>${footer()}`;

@@ -379,15 +379,16 @@ a.drow:hover .t, .drow a.grow:hover .t { color: var(--link-hi); text-decoration:
 .st.job-skipped { color: var(--dim); }
 
 /* Search suggestions */
-.mast-search, .portal-search { position: relative; }
+.mast-search, .portal-search { position: relative; z-index: 50; }
 .suggest {
   position: absolute; top: calc(100% + 6px); left: 0; right: 0; z-index: 60;
-  background: var(--paper); border: 1px solid var(--hair);
+  background: var(--raise); border: 1px solid var(--hair);
+  box-shadow: 0 16px 40px rgba(0,0,0,.55);
   max-height: 320px; overflow-y: auto; text-align: left;
 }
 .sg-item {
   display: flex; flex-direction: column; gap: 1px; width: 100%;
-  padding: 9px 14px; text-align: left; background: none; border: 0; cursor: pointer;
+  padding: 9px 14px; text-align: left; background: var(--raise); border: 0; cursor: pointer;
 }
 .sg-item + .sg-item { border-top: 1px solid var(--hair-soft); }
 .sg-item.on, .sg-item:hover { background: var(--surface); }

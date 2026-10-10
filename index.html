@@ -4,36 +4,43 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>UTAG: Verified Music Metadata</title>
-<meta name="description" content="UTAG is a wiki-style database of verified music metadata: artists, releases, editions, artwork, and the evidence behind every record.">
+<meta name="description" content="UTAG is the press of record for music metadata: artists, releases, editions, artwork, and the evidence behind every record.">
 <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
-<link rel="stylesheet" href="styles.css?v=20261010-typing1">
+<link rel="stylesheet" href="styles.css?v=20261010-press1">
 <script src="config.js"></script>
 </head>
 <body>
 
-<div class="shell">
-  <aside class="sidebar">
-    <a class="wordmark" href="#/">UTAG</a>
-    <nav class="sidenav" aria-label="Main">
+<header class="mast">
+  <div class="mast-top">
+    <a class="brand" href="#/" aria-label="UTAG home">
+      <span class="wordmark">UTAG<span class="mark-dot">.</span></span>
+      <span class="tagline">Verified music metadata</span>
+    </a>
+    <form class="mast-search top-search" id="search-form" role="search">
+      <label class="visually-hidden" for="search-input">Search artists and releases</label>
+      <input id="search-input" type="search" name="q" placeholder="Search artists, releases, editions" autocomplete="off">
+      <button class="go" type="submit" aria-label="Search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      </button>
+    </form>
+  </div>
+  <nav class="topnav" aria-label="Main">
+    <div class="topnav-inner">
       <a href="#/" data-nav="home">Home</a>
       <a href="#/catalog" data-nav="catalog">Catalog</a>
       <a href="#/artists" data-nav="artists">Artists</a>
       <a href="#/review" data-nav="review">Review</a>
       <a href="#/activity" data-nav="activity">Activity</a>
       <a href="#/hermes" data-nav="hermes">Hermes</a>
-    </nav>
-    <form class="side-search" id="search-form" role="search">
-      <label class="visually-hidden" for="search-input">Search artists and releases</label>
-      <input id="search-input" type="search" name="q" placeholder="Search artists, releases" autocomplete="off">
-    </form>
-    <p class="side-note">.</p>
-  </aside>
+    </div>
+  </nav>
+</header>
 
-  <main id="view" class="view" tabindex="-1">
-    <p class="loading-note">Loading…</p>
-  </main>
-</div>
+<main id="view" class="view" tabindex="-1">
+  <p class="loading-note">Loading…</p>
+</main>
 
 <nav class="tabbar" aria-label="Main">
   <a href="#/" data-nav="home">Home</a>
@@ -44,6 +51,6 @@
   <a href="#/hermes" data-nav="hermes">Hermes</a>
 </nav>
 
-<script src="app.js?v=20261010-chatfix1"></script>
+<script src="app.js?v=20261010-press1"></script>
 </body>
 </html>

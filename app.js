@@ -87,48 +87,43 @@ document.getElementById("search-form").addEventListener("submit", e => {
 
 /* ------------------------------------------------------------- fragments */
 
-function releaseCard(r) {
+function releaseRow(r, acts) {
   const a = (r.artwork || [])[0];
   const u = artUrl(a);
   const artist = (r.artists && r.artists.canonical_name) || "";
-  return `<a class="card" href="#/release/${esc(r.id)}">
-    ${u ? `<img class="art" src="${esc(u)}" alt="" loading="lazy">` : `<span class="art-empty">No art yet</span>`}
-    <div class="t">${esc(r.title)}</div>
-    <div class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}</div>
-    <div class="m">${editionChip(r.edition)}${chip(r.confidence)}</div>
-  </a>`;
-}
-
-function releaseRow(r) {
-  const a = (r.artwork || [])[0];
-  const u = artUrl(a);
-  const artist = (r.artists && r.artists.canonical_name) || "";
-  return `<a class="row" href="#/release/${esc(r.id)}">
-    ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty"></span>`}
+  return `<a class="drow" href="#/release/${esc(r.id)}">
+    ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty" aria-hidden="true"></span>`}
     <span class="grow">
       <span class="t">${esc(r.title)}</span>
       <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</span>
     </span>
     <span class="end">${editionChip(r.edition)}${chip(r.confidence)}</span>
+    ${acts ? `<span class="acts">${acts}</span>` : ""}
   </a>`;
 }
 
-function refList(rows, kind) {
+function crumbs(items) {
+  return `<nav class="crumbs" aria-label="Breadcrumb">` + items.map(([label, href], i) =>
+    (i ? `<span class="sep">/</span>` : "") +
+    (href ? `<a href="${href}">${esc(label)}</a>` : `<span aria-current="page">${esc(label)}</span>`)
+  ).join("") + `</nav>`;
+}
+
+function refList(rows) {
   if (!rows || !rows.length) return `<p class="empty-note">Nothing on record yet.</p>`;
-  return `<div class="refs">` + rows.map(v => `
-    <div class="ref">
-      <div class="rh">${chip(v.overall_confidence || v.confidence || "unknown")}
-        <span>${esc(v.model || v.source || "")}</span>
-        <span>${fmtDate(v.created_at)}</span></div>
-      <div class="rb">${esc(v.rationale || (v.field ? `${v.field}: ${v.old_value || "∅"} → ${v.new_value}` : "") || "")}</div>
-    </div>`).join("") + `</div>`;
+  return `<ol class="src-list">` + rows.map(v => `
+    <li><div>
+      ${chip(v.overall_confidence || v.confidence || "unknown")}
+      <div class="src-why">${esc(v.rationale || (v.field ? `${v.field}: ${v.old_value || "∅"} → ${v.new_value}` : "") || "")}</div>
+      <div class="src-meta">${esc(v.model || v.source || "")}${v.created_at ? ` · ${fmtDate(v.created_at)}` : ""}</div>
+    </div></li>`).join("") + `</ol>`;
 }
 
 function footer() {
   return `<footer class="sitefoot">
-    <span>UTAG: verified music metadata.</span>
-    <a href="privacy.html">Privacy</a>
-    <a href="terms.html">Terms</a>
+    <span class="foot-mark">UTAG.</span>
+    <span>Verified music metadata. Nothing is marked verified until independent sources agree.</span>
+    <span class="foot-note">Hermes researches the open web for every record. Human rulings outrank AI, permanently.</span>
   </footer>`;
 }
 
@@ -255,23 +250,65 @@ async function vHome() {
     api("releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&confidence=in.(needs_review,conflicting)&order=created_at.desc&limit=6"),
     api("verifications?select=id,entity_type,overall_confidence,model,created_by,created_at,rationale&order=created_at.desc&limit=5")
   ]);
+  const ico = (inner) => `<span class="reg-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg></span>`;
   view.innerHTML = `
-    <h1>UTAG</h1>
-    <p class="sub">A wiki of music metadata that only marks a record verified after independent sources agree.</p>
-    <div class="statline">
-      <div class="stat"><div class="n">${cArtists}</div><div class="l">Artists</div></div>
-      <div class="stat"><div class="n">${cReleases}</div><div class="l">Releases</div></div>
-      <div class="stat"><div class="n">${cTracks}</div><div class="l">Tracks</div></div>
-      <div class="stat"><div class="n">${cArtwork}</div><div class="l">Artwork</div></div>
-      <div class="stat"><div class="n">${cVerified}</div><div class="l">Verified releases</div></div>
+    <div class="portal">
+      <p class="kicker" style="justify-content:center">The verified music metadata system</p>
+      <p class="portal-mark">UTAG<span class="mark-dot">.</span></p>
+      <p class="portal-tag">Every record checked against independent sources. Nothing guessed.</p>
+      <form class="portal-search" id="portal-search-form" role="search">
+        <label class="visually-hidden" for="portal-search-input">Search the database</label>
+        <input id="portal-search-input" type="search" placeholder="Search artists, releases, editions" autocomplete="off">
+        <button type="submit">Search</button>
+      </form>
+      <div class="portal-stats">
+        <div class="pstat"><div class="n">${cArtists}</div><div class="l">Artists</div></div>
+        <div class="pstat"><div class="n">${cReleases}</div><div class="l">Releases</div></div>
+        <div class="pstat"><div class="n">${cTracks}</div><div class="l">Tracks</div></div>
+        <div class="pstat"><div class="n">${cArtwork}</div><div class="l">Artwork</div></div>
+        <div class="pstat"><div class="n">${cVerified}</div><div class="l">Verified</div></div>
+      </div>
+      <nav class="register" aria-label="Browse the system">
+        <a class="reg-item" href="#/catalog">
+          ${ico('<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.6"/>')}
+          <span><span class="reg-name">Catalog</span><span class="reg-desc">Every release on record, each edition kept separate.</span><span class="reg-count">${cReleases} releases</span></span>
+        </a>
+        <a class="reg-item" href="#/artists">
+          ${ico('<circle cx="12" cy="8" r="3.6"/><path d="M5 19.5c1.4-3.6 4-5.2 7-5.2s5.6 1.6 7 5.2"/>')}
+          <span><span class="reg-name">Artists</span><span class="reg-desc">Canonical names, aliases, and identifiers.</span><span class="reg-count">${cArtists} artists</span></span>
+        </a>
+        <a class="reg-item" href="#/review">
+          ${ico('<circle cx="12" cy="12" r="9"/><path d="M8.5 12.2l2.4 2.4 4.6-5"/>')}
+          <span><span class="reg-name">Review</span><span class="reg-desc">Records Hermes would not verify on the evidence. You decide.</span><span class="reg-count">${(review || []).length} waiting</span></span>
+        </a>
+        <a class="reg-item" href="#/activity">
+          ${ico('<path d="M3 12h4l2.5-6 4 12 2.5-6H21"/>')}
+          <span><span class="reg-name">Activity</span><span class="reg-desc">The live ledger: jobs, proposals, and everything Hermes does.</span><span class="reg-count">live</span></span>
+        </a>
+        <a class="reg-item" href="#/hermes">
+          ${ico('<path d="M4 5.5h16v10H9.5L4 19.5z"/>')}
+          <span><span class="reg-name">Hermes</span><span class="reg-desc">Talk to the researcher directly. Ask, verify, upload.</span><span class="reg-count">direct line</span></span>
+        </a>
+      </nav>
     </div>
-    <h2>Latest additions</h2>
-    <div class="grid">${(recent || []).map(releaseCard).join("")}</div>
-    <h2>Waiting on review</h2>
-    ${review && review.length ? `<div class="rows">${review.map(releaseRow).join("")}</div>` : `<p class="empty-note">Nothing is waiting on review.</p>`}
-    <h2>Recent verification work</h2>
-    ${refList(verifs)}
+    <div class="portal-section">
+      <h2>Latest additions</h2>
+      <div class="rows">${(recent || []).map(r => releaseRow(r)).join("")}</div>
+    </div>
+    <div class="portal-section">
+      <h2>Waiting on review</h2>
+      ${review && review.length ? `<div class="rows">${review.map(r => releaseRow(r)).join("")}</div>` : `<p class="empty-note">Nothing is waiting on review.</p>`}
+    </div>
+    <div class="portal-section">
+      <h2>Recent verification work</h2>
+      ${refList(verifs)}
+    </div>
     ${footer()}`;
+  document.getElementById("portal-search-form").addEventListener("submit", e => {
+    e.preventDefault();
+    const q = document.getElementById("portal-search-input").value.trim();
+    if (q) location.hash = `#/search?q=${encodeURIComponent(q)}`;
+  });
 }
 
 /* --------------------------------------------------------------- catalog */
@@ -279,9 +316,11 @@ async function vHome() {
 async function vCatalog() {
   setNav("catalog");
   const rows = await api("releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&order=created_at.desc&limit=300");
-  view.innerHTML = `<h1>Catalog</h1>
+  view.innerHTML = `
+    <p class="kicker">The database</p>
+    <h1>Catalog</h1>
     <p class="sub">${(rows || []).length} releases on record, every edition kept separate.</p>
-    <div class="grid">${(rows || []).map(releaseCard).join("")}</div>${footer()}`;
+    <div class="rows">${(rows || []).map(r => releaseRow(r)).join("")}</div>${footer()}`;
 }
 
 async function vArtists() {
@@ -293,14 +332,18 @@ async function vArtists() {
   const counts = {};
   (rels || []).forEach(r => { counts[r.artist_id] = (counts[r.artist_id] || 0) + 1; });
   const rowsHtml = (artists || []).map(a => `
-    <a class="row" href="#/artist/${esc(a.id)}">
+    <a class="drow" href="#/artist/${esc(a.id)}">
       <span class="grow">
         <span class="t">${esc(a.canonical_name)}</span>
         <span class="s">${esc((a.genres || []).join(", "))}</span>
       </span>
       <span class="end"><span class="chip chip-edition">${counts[a.id] || 0} releases</span>${chip(a.confidence)}</span>
     </a>`).join("");
-  view.innerHTML = `<h1>Artists</h1><div class="rows">${rowsHtml}</div>${footer()}`;
+  view.innerHTML = `
+    <p class="kicker">The database</p>
+    <h1>Artists</h1>
+    <p class="sub">${(artists || []).length} artists on record.</p>
+    <div class="rows">${rowsHtml}</div>${footer()}`;
 }
 
 /* ---------------------------------------------------------------- artist */
@@ -325,35 +368,49 @@ async function vArtist(id) {
   const sections = groups.map(([type, label]) => {
     const g = (releases || []).filter(r => r.release_type === type);
     if (!g.length) return "";
-    return `<h2>${label}</h2><div class="grid">${g.map(releaseCard).join("")}</div>`;
+    return `<h2>${label}</h2><div class="rows">${g.map(r => releaseRow(r)).join("")}</div>`;
   }).join("");
+  const idish = k => /id|mbid|barcode|isrc/i.test(k);
   view.innerHTML = `
-    <h1>${esc(a.canonical_name)}</h1>
-    <div class="chips" style="display:flex;gap:6px;margin-top:8px">${chip(a.confidence)}</div>
-    <div class="facts">${facts.map(([k, v]) => `<div class="fact"><div class="k">${esc(k)}</div><div class="v">${esc(v)}</div></div>`).join("")}</div>
-    <div class="edit-zone">
-      <button class="mini-btn" type="button" data-toggle="artist-editor">Edit artist</button>
-      <div class="edit-panel" id="artist-editor" hidden>
-        <div class="ef-grid">
-          ${efInput("Canonical name", "canonical_name", a.canonical_name, "text", true)}
-          ${efInput("Aliases (comma separated)", "aliases", a.aliases || [], "array")}
-          ${efInput("Genres (comma separated)", "genres", a.genres || [], "array")}
-          ${efInput("Image URL", "image_url", a.image_url, "nulltext")}
-          ${efInput("Spotify ID", "spotify_id", a.spotify_id, "nulltext")}
-          ${efInput("Apple ID", "apple_id", a.apple_id, "nulltext")}
-          ${efInput("Deezer ID", "deezer_id", a.deezer_id, "nulltext")}
-          ${efInput("Discogs ID", "discogs_id", a.discogs_id, "nulltext")}
-          ${efInput("MusicBrainz ID", "mbid", a.mbid, "nulltext")}
-          ${efConf(a.confidence)}
-          ${pwFieldHTML()}
-        </div>
-        ${efSave()}
-      </div>
+    ${crumbs([["UTAG", "#/"], ["Artists", "#/artists"], [a.canonical_name, null]])}
+    <div class="rec-head">
+      <p class="kicker">Artist</p>
+      <h1>${esc(a.canonical_name)}</h1>
+      <div class="rec-chips">${chip(a.confidence)}</div>
     </div>
-    ${sections || `<p class="empty-note">No releases on record yet.</p>`}
-    <h2>Verification history</h2>
-    ${refList(verifs)}
-    ${corrections && corrections.length ? `<h2>Human rulings</h2>${refList(corrections)}` : ""}
+    <div class="rec-grid">
+      <div class="rec-main">
+        <div class="edit-zone">
+          <button class="mini-btn" type="button" data-toggle="artist-editor">Edit artist</button>
+          <div class="edit-panel" id="artist-editor" hidden>
+            <div class="ef-grid">
+              ${efInput("Canonical name", "canonical_name", a.canonical_name, "text", true)}
+              ${efInput("Aliases (comma separated)", "aliases", a.aliases || [], "array")}
+              ${efInput("Genres (comma separated)", "genres", a.genres || [], "array")}
+              ${efInput("Image URL", "image_url", a.image_url, "nulltext")}
+              ${efInput("Spotify ID", "spotify_id", a.spotify_id, "nulltext")}
+              ${efInput("Apple ID", "apple_id", a.apple_id, "nulltext")}
+              ${efInput("Deezer ID", "deezer_id", a.deezer_id, "nulltext")}
+              ${efInput("Discogs ID", "discogs_id", a.discogs_id, "nulltext")}
+              ${efInput("MusicBrainz ID", "mbid", a.mbid, "nulltext")}
+              ${efConf(a.confidence)}
+              ${pwFieldHTML()}
+            </div>
+            ${efSave()}
+          </div>
+        </div>
+        ${sections || `<p class="empty-note">No releases on record yet.</p>`}
+        <h2>Verification history</h2>
+        ${refList(verifs)}
+        ${corrections && corrections.length ? `<h2>Human rulings</h2>${refList(corrections)}` : ""}
+      </div>
+      <aside class="infobox" aria-label="Artist facts">
+        ${a.image_url ? `<figure class="ib-art"><img src="${esc(a.image_url)}" alt="${esc(a.canonical_name)}" loading="lazy"></figure>` : ""}
+        <dl>
+          ${facts.length ? facts.map(([k, v]) => `<div class="ib-row"><dt>${esc(k)}</dt><dd${idish(k) ? ` class="mono"` : ""}>${esc(v)}</dd></div>`).join("") : `<div class="ib-row"><dt>Status</dt><dd>On record</dd></div>`}
+        </dl>
+      </aside>
+    </div>
     ${footer()}`;
 
   wireToggles();
@@ -416,19 +473,28 @@ async function vRelease(id) {
   }).join("");
   const sameTitle = (editions || []).filter(x => x.title.toLowerCase() === r.title.toLowerCase());
 
+  const idish = k => /id|mbid|barcode|isrc/i.test(k);
+  const ibRows = [
+    ["Artist", r.artists ? `<a href="#/artist/${esc(r.artists.id)}">${esc(artistName)}</a>` : ""],
+    ["Type", r.release_type], ["Edition", r.edition],
+    ["Released", r.release_date || r.release_year], ["Label", r.label],
+    ["Catalog no.", r.catalog_number], ["Barcode", r.barcode], ["Country", r.country],
+    ["Spotify", r.spotify_id], ["Apple", r.apple_id], ["Deezer", r.deezer_id],
+    ["Discogs", r.discogs_id], ["MusicBrainz", r.mbid]
+  ].filter(([, v]) => v !== null && v !== undefined && v !== "")
+    .map(([k, v]) => `<div class="ib-row"><dt>${esc(k)}</dt><dd${idish(k) ? ` class="mono"` : ""}>${k === "Artist" ? v : esc(v)}</dd></div>`).join("");
+
   view.innerHTML = `
-    <div class="wiki-head">
-      <div class="wiki-art">
-        ${cover ? `<img src="${esc(cover)}" alt="Cover art for ${esc(r.title)}">` : `<span class="art-empty" style="aspect-ratio:1">No canonical art yet</span>`}
-      </div>
-      <div class="wiki-title">
-        <h1>${esc(r.title)}</h1>
-        <p class="sub">${r.artists ? `<a href="#/artist/${esc(r.artists.id)}">${esc(artistName)}</a>` : ""}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</p>
-        <div class="chips">${editionChip(r.edition) || `<span class="chip chip-edition">Original</span>`}${chip(r.confidence)}</div>
-        <div class="facts">${facts.map(([k, v]) => `<div class="fact"><div class="k">${esc(k)}</div><div class="v">${esc(v)}</div></div>`).join("")}</div>
-      </div>
+    ${crumbs([["UTAG", "#/"], ["Catalog", "#/catalog"], ...(r.artists ? [[artistName, `#/artist/${r.artists.id}`]] : []), [r.title, null]])}
+    <div class="rec-head">
+      <p class="kicker">Release${r.release_type ? ` · ${esc(r.release_type)}` : ""}</p>
+      <h1>${esc(r.title)}</h1>
+      <p class="rec-byline">${r.artists ? `<a href="#/artist/${esc(r.artists.id)}">${esc(artistName)}</a>` : ""}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</p>
+      <div class="rec-chips">${editionChip(r.edition) || `<span class="chip chip-edition">Original</span>`}${chip(r.confidence)}</div>
     </div>
 
+    <div class="rec-grid">
+      <div class="rec-main">
     <div class="edit-zone">
       <button class="mini-btn" type="button" data-toggle="rel-editor">Edit release</button>
       <div class="edit-panel" id="rel-editor" hidden>
@@ -477,11 +543,19 @@ async function vRelease(id) {
       <div class="ef-actions"><button class="btn" type="button" id="art-add">Add artwork</button><p class="empty-note" id="art-status"></p></div>
     </div>
 
-    ${sameTitle.length ? `<h2>Other editions of this release</h2><div class="rows">${sameTitle.map(releaseRow).join("")}</div>` : ""}
+    ${sameTitle.length ? `<h2>Other editions of this release</h2><div class="rows">${sameTitle.map(x => releaseRow(x)).join("")}</div>` : ""}
 
     <h2>Sources and verification</h2>
     ${refList(verifs)}
     ${corrections && corrections.length ? `<h2>Human rulings</h2>${refList(corrections)}` : ""}
+      </div>
+      <aside class="infobox" aria-label="Release facts">
+        <figure class="ib-art">
+          ${cover ? `<img src="${esc(cover)}" alt="Cover art for ${esc(r.title)}">` : `<span class="art-empty">No canonical art yet</span>`}
+        </figure>
+        <dl>${ibRows}</dl>
+      </aside>
+    </div>
     ${footer()}`;
 
   wireToggles();
@@ -533,23 +607,24 @@ async function vReview() {
     const a = (r.artwork || [])[0];
     const u = artUrl(a);
     const artist = (r.artists && r.artists.canonical_name) || "";
-    return `<div class="row review-row">
-      ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty"></span>`}
+    return `<div class="drow">
+      ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty" aria-hidden="true"></span>`}
       <a class="grow" href="#/release/${esc(r.id)}"><span class="t">${esc(r.title)}</span>
-      <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</span></a>
+      <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}</span></a>
       <span class="end">${editionChip(r.edition)}${chip(r.confidence)}</span>
-      <span class="qc">${qcBtns("release", r.id, r.confidence)}</span>
+      <span class="acts qc">${qcBtns("release", r.id, r.confidence)}</span>
     </div>`;
   }).join("");
   const artRowsQ = (arts || []).map(a => `
-    <div class="row review-row">
-      <a class="grow" href="#/artist/${esc(a.id)}"><span class="t">${esc(a.canonical_name)}</span></a>
+    <div class="drow">
+      <a class="grow" href="#/artist/${esc(a.id)}"><span class="t">${esc(a.canonical_name)}</span><span class="s">Artist record</span></a>
       <span class="end">${chip(a.confidence)}</span>
-      <span class="qc">${qcBtns("artist", a.id, a.confidence)}</span>
+      <span class="acts qc">${qcBtns("artist", a.id, a.confidence)}</span>
     </div>`).join("");
   view.innerHTML = `
+    <p class="kicker">Your call</p>
     <h1>Review queue</h1>
-    <p class="sub">Records Hermes would not mark verified on the evidence he found.</p>
+    <p class="sub">Records Hermes would not mark verified on the evidence he found. Hover a row to rule on it.</p>
     <p class="empty-note" id="review-status"></p>
     <h2>Releases</h2>
     ${rels && rels.length ? `<div class="rows">${relRowsQ}</div>` : `<p class="empty-note">No releases are waiting on review.</p>`}
@@ -583,15 +658,17 @@ async function vSearch(q) {
     api(`releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&title=ilike.${like}&order=created_at.desc&limit=50`)
   ]);
   const artistRows = (artists || []).map(a => `
-    <a class="row" href="#/artist/${esc(a.id)}">
-      <span class="grow"><span class="t">${esc(a.canonical_name)}</span></span>
+    <a class="drow" href="#/artist/${esc(a.id)}">
+      <span class="grow"><span class="t">${esc(a.canonical_name)}</span><span class="s">Artist</span></span>
       <span class="end">${chip(a.confidence)}</span></a>`).join("");
   view.innerHTML = `
-    <h1>Search: ${esc(q)}</h1>
+    <p class="kicker">Search</p>
+    <h1>${esc(q)}</h1>
+    <p class="sub">${(artists || []).length + (releases || []).length} matching records.</p>
     <h2>Artists</h2>
     ${artists && artists.length ? `<div class="rows">${artistRows}</div>` : `<p class="empty-note">No matching artists.</p>`}
     <h2>Releases</h2>
-    ${releases && releases.length ? `<div class="grid">${releases.map(releaseCard).join("")}</div>` : `<p class="empty-note">No matching releases.</p>`}
+    ${releases && releases.length ? `<div class="rows">${releases.map(r => releaseRow(r)).join("")}</div>` : `<p class="empty-note">No matching releases.</p>`}
     ${footer()}`;
 }
 
@@ -617,11 +694,12 @@ function agoText(iso) {
 async function vActivity() {
   setNav("activity");
   view.innerHTML = `
+    <p class="kicker">Live ledger</p>
     <h1>Hermes activity</h1>
     <p class="sub">Everything Hermes is doing, live. He researches and files proposals. Nothing lands in the catalog until you approve it.</p>
     <p class="empty-note" id="act-status"></p>
     <div class="act-head" id="act-head"></div>
-    <div class="stats" id="act-stats"></div>
+    <div class="statband" id="act-stats"></div>
     <h2>Now working</h2>
     <div id="act-now"><p class="empty-note">Loading…</p></div>
     <h2>Awaiting your approval</h2>
@@ -710,10 +788,10 @@ async function vActivity() {
     const doneToday = (jobs || []).filter(j => j.status === "done" && new Date(j.updated_at).toDateString() === new Date().toDateString()).length;
     const queued = (jobs || []).filter(j => j.status === "queued").length;
     document.getElementById("act-stats").innerHTML = `
-      <div class="stat"><div class="n">${pending.length}</div><div class="l">Awaiting approval</div></div>
-      <div class="stat"><div class="n">${queued}</div><div class="l">Queued</div></div>
-      <div class="stat"><div class="n">${doneToday}</div><div class="l">Finished today</div></div>
-      <div class="stat"><div class="n">${failed24}</div><div class="l">Failed in 24h</div></div>`;
+      <div class="pstat"><div class="n">${pending.length}</div><div class="l">Awaiting approval</div></div>
+      <div class="pstat"><div class="n">${queued}</div><div class="l">Queued</div></div>
+      <div class="pstat"><div class="n">${doneToday}</div><div class="l">Finished today</div></div>
+      <div class="pstat"><div class="n">${failed24}</div><div class="l">Failed in 24h</div></div>`;
 
     const running = (jobs || []).find(j => j.status === "running" || j.status === "applying");
     document.getElementById("act-now").innerHTML = running
@@ -726,13 +804,12 @@ async function vActivity() {
       failedProps.map(p => `<div class="ref act-card"><div class="rh"><span class="chip job-failed">Apply failed</span><span>${esc(p.title)}</span></div><div class="rb">You approved this, but the apply did not land. Send it back and Hermes will try again.</div><div class="ef-actions"><button class="btn" type="button" data-retry="${esc(p.job_id)}">Retry apply</button></div></div>`).join("");
 
     document.getElementById("act-jobs").innerHTML = (jobs || []).length ? `<div class="rows">` + jobs.map(j => `
-      <div class="row act-job">
+      <div class="drow act-job">
         <span class="grow"><span class="t">${esc(j.title)}</span>
         <span class="s">${esc(KIND_LABEL[j.kind] || j.kind)} · ${fmtDate(j.created_at)} ${fmtTime(j.created_at)}${j.attempts ? ` · attempt ${esc(j.attempts)}` : ""}</span>
         ${j.error ? `<span class="s act-err">${esc(j.error)}</span>` : j.result ? `<span class="s">${esc(j.result)}</span>` : ""}</span>
         <span class="end">${jobChip(j.status)}</span>
-        ${j.status === "failed" ? `<button class="mini-btn" type="button" data-retry="${esc(j.id)}">Retry</button>` : ""}
-        ${j.status === "queued" ? `<button class="mini-btn" type="button" data-cancel="${esc(j.id)}">Cancel</button>` : ""}
+        ${(j.status === "failed" || j.status === "queued") ? `<span class="acts">${j.status === "failed" ? `<button class="mini-btn" type="button" data-retry="${esc(j.id)}">Retry</button>` : ""}${j.status === "queued" ? `<button class="mini-btn danger" type="button" data-cancel="${esc(j.id)}">Cancel</button>` : ""}</span>` : ""}
       </div>`).join("") + `</div>` : `<p class="empty-note">No jobs yet.</p>`;
 
     document.getElementById("act-log").innerHTML = (events || []).length ? `<div class="act-loglist">` + events.map(e => `
@@ -771,6 +848,7 @@ async function vHermesDirect() {
       <div class="chat-log" id="chat-log"></div>
       <div class="chat-hero" id="chat-hero">
         <h1 class="chat-title">Good to see you.</h1>
+        <p class="chat-sub">Ask about the database, hand him a song to verify, or upload audio with the + button.</p>
       </div>
       ${pw ? "" : `
       <div class="ref chat-gate">
@@ -1036,6 +1114,7 @@ async function vHermesLegacy() {
       <div class="chat-log" id="chat-log"></div>
       <div class="chat-hero" id="chat-hero">
         <h1 class="chat-title">Good to see you.</h1>
+        <p class="chat-sub">Ask about the database, hand him a song to verify, or upload audio with the + button.</p>
       </div>
       ${pw ? "" : `
       <div class="ref chat-gate">

@@ -254,8 +254,8 @@ async function vHome() {
       <p class="portal-sub">The verified encyclopedia of music metadata.</p>
       <div class="orbit">
         <div class="orbit-col left">
-          <a class="orbit-item" href="#/catalog"><span class="orbit-btn">Catalog</span><span class="o-desc">Release records</span></a>
-          <a class="orbit-item" href="#/artists"><span class="orbit-btn">Artists</span><span class="o-desc">Artist records</span></a>
+          <a class="orbit-item" href="#/catalog"><span class="o-name">Catalog</span><span class="o-desc">Release records</span></a>
+          <a class="orbit-item" href="#/artists"><span class="o-name">Artists</span><span class="o-desc">Artist records</span></a>
         </div>
         <div class="seal"><svg class="seal-svg" viewBox="0 0 180 180" role="img" aria-label="UTAG verification seal">
 <line x1="90.0" y1="38.0" x2="90.0" y2="16.0" stroke="#7aa2ec" stroke-width="2.4"/>
@@ -322,9 +322,9 @@ async function vHome() {
 <text x="90" y="107" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="50" font-weight="500" fill="#ece8de">U</text>
 </svg></div>
         <div class="orbit-col right">
-          <a class="orbit-item" href="#/review"><span class="orbit-btn">Review</span><span class="o-desc">Awaiting rulings</span></a>
-          <a class="orbit-item" href="#/activity"><span class="orbit-btn">Activity</span><span class="o-desc">Live ledger</span></a>
-          <a class="orbit-item" href="#/hermes"><span class="orbit-btn">Hermes</span><span class="o-desc">Metadata researcher</span></a>
+          <a class="orbit-item" href="#/review"><span class="o-name">Review</span><span class="o-desc">Awaiting rulings</span></a>
+          <a class="orbit-item" href="#/activity"><span class="o-name">Activity</span><span class="o-desc">Live ledger</span></a>
+          <a class="orbit-item" href="#/hermes"><span class="o-name">Hermes</span><span class="o-desc">Metadata researcher</span></a>
         </div>
       </div>
       <form class="portal-search" id="portal-search-form" role="search">
@@ -1350,7 +1350,7 @@ function attachSuggest(input) {
   input.addEventListener("input", () => {
     clearTimeout(timer);
     const q = input.value.trim();
-    if (q.length < 2) { close(); return; }
+    if (q.length < 1) { close(); return; }
     timer = setTimeout(() => run(q), 220);
   });
   input.addEventListener("keydown", e => {

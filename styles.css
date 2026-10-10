@@ -246,20 +246,13 @@ h3 {
 .orbit-col.left { padding-bottom: 56px; }
 .orbit-col.right { padding-top: 56px; }
 
-/* Perfectly round destination buttons; they swell smoothly on hover. */
-.orbit-item { display: flex; flex-direction: column; align-items: center; gap: 10px; }
-.orbit-btn {
-  width: 122px; height: 122px; border-radius: 50%;
-  border: 1px solid var(--hair);
-  display: flex; align-items: center; justify-content: center; text-align: center;
-  color: var(--text); font: 600 13.5px/1.35 var(--sans); letter-spacing: .03em;
-  padding: 0 14px;
-  transition: transform .38s cubic-bezier(.22,1,.36,1), border-color var(--t-med) var(--ease), color var(--t-med) var(--ease), background var(--t-med) var(--ease);
-}
-.orbit-item:hover .orbit-btn, .orbit-item:focus-visible .orbit-btn {
-  transform: scale(1.1); border-color: var(--link); color: var(--link); background: var(--surface);
-}
-.o-desc { display: block; color: var(--faint); font-size: 13px; text-align: center; max-width: 150px; }
+/* Destination links ring the seal in staggered columns, wrapping around
+   the middle the way the reference's language links ring the globe. */
+.orbit-item { display: block; text-align: center; max-width: 180px; transition: transform .38s cubic-bezier(.22,1,.36,1); }
+.orbit-item:hover, .orbit-item:focus-visible { transform: scale(1.07); }
+.o-name { display: block; color: var(--link); font-size: 16px; font-weight: 600; }
+.orbit-item:hover .o-name, .orbit-item:focus-visible .o-name { color: var(--link-hi); }
+.o-desc { display: block; color: var(--faint); font-size: 12.5px; margin-top: 2px; }
 
 .seal { width: 172px; }
 .seal-svg { width: 100%; height: auto; display: block; }
@@ -772,7 +765,6 @@ a.act-link { display: inline-block; }
   .orbit-col.right { padding-top: 0; }
   .orbit-col { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
   .seal { width: 140px; margin: 0 auto; order: -1; }
-  .orbit-btn { width: 104px; height: 104px; font-size: 12.5px; }
 }
 
 @media (max-width: 760px) {

@@ -1321,6 +1321,7 @@ async function route() {
     return;
   }
   const { parts, params } = parseHash();
+  document.body.classList.toggle("is-home", parts.length === 0);
   view.innerHTML = skeletonFor(parts);
   try {
     if (parts.length === 0) await vHome();

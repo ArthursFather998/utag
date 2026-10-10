@@ -111,6 +111,10 @@ img { max-width: 100%; }
 
 .mast { border-bottom: 1px solid var(--hair-soft); }
 
+/* The home portal is its own navigation (orbit links + search), like the
+   reference portal which carries no nav chrome. */
+.is-home .mast { display: none; }
+
 .mast-top {
   max-width: 1120px;
   margin: 0 auto;

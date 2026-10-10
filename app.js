@@ -28,12 +28,18 @@ function esc(s) {
 
 function chip(conf) {
   const c = CONF_LABEL[conf] ? conf : "unknown";
-  return `<span class="chip chip-${c}">${esc(CONF_LABEL[c])}</span>`;
+  return `<span class="st st-${c}"><i></i>${esc(CONF_LABEL[c])}</span>`;
 }
 
 function editionChip(ed) {
   if (!ed || ed === "original") return "";
-  return `<span class="chip chip-edition">${esc(ed)}</span>`;
+  return `<span class="st st-edition">${esc(ed)}</span>`;
+}
+
+/* Images fade in over a skeleton shimmer. The skeleton background shows
+   while the image loads; a broken image collapses silently to it. */
+function im(u, cls, alt) {
+  return `<img class="${cls} iv" src="${esc(u)}" alt="${esc(alt || "")}" loading="lazy" onload="this.classList.add('ld')" onerror="this.classList.add('err')">`;
 }
 
 function fmtDate(iso) {
@@ -92,7 +98,7 @@ function releaseRow(r, acts) {
   const u = artUrl(a);
   const artist = (r.artists && r.artists.canonical_name) || "";
   return `<a class="drow" href="#/release/${esc(r.id)}">
-    ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty" aria-hidden="true"></span>`}
+    ${u ? im(u, "thumb", r.title) : `<span class="thumb-empty" aria-hidden="true"></span>`}
     <span class="grow">
       <span class="t">${esc(r.title)}</span>
       <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</span>
@@ -120,11 +126,7 @@ function refList(rows) {
 }
 
 function footer() {
-  return `<footer class="sitefoot">
-    <span class="foot-mark">UTAG.</span>
-    <span>Verified music metadata. Nothing is marked verified until independent sources agree.</span>
-    <span class="foot-note">Hermes researches the open web for every record. Human rulings outrank AI, permanently.</span>
-  </footer>`;
+  return `<footer class="sitefoot"><span class="foot-mark">UTAG</span></footer>`;
 }
 
 /* --------------------------------------------------------------- editing */
@@ -241,67 +243,103 @@ function efSave() {
 
 async function vHome() {
   setNav("home");
-  const [cArtists, cReleases, cTracks, cArtwork, cVerified] = await Promise.all([
-    count("artists"), count("releases"), count("tracks"), count("artwork"),
-    count("releases", "&confidence=eq.verified")
-  ]);
   const [recent, review, verifs] = await Promise.all([
     api("releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&order=created_at.desc&limit=12"),
     api("releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&confidence=in.(needs_review,conflicting)&order=created_at.desc&limit=6"),
     api("verifications?select=id,entity_type,overall_confidence,model,created_by,created_at,rationale&order=created_at.desc&limit=5")
   ]);
-  const ico = (inner) => `<span class="reg-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg></span>`;
   view.innerHTML = `
     <div class="portal">
-      <p class="kicker" style="justify-content:center">The verified music metadata system</p>
-      <p class="portal-mark">UTAG<span class="mark-dot">.</span></p>
-      <p class="portal-tag">Every record checked against independent sources. Nothing guessed.</p>
+      <p class="portal-mark">UTAG</p>
+      <p class="portal-sub">The verified encyclopedia of music metadata.</p>
+      <div class="orbit">
+        <div class="orbit-col left">
+          <a class="orbit-item" href="#/catalog"><span class="o-name">Catalog</span><span class="o-desc">Release records</span></a>
+          <a class="orbit-item" href="#/artists"><span class="o-name">Artists</span><span class="o-desc">Artist records</span></a>
+        </div>
+        <div class="seal"><svg class="seal-svg" viewBox="0 0 180 180" role="img" aria-label="UTAG verification seal">
+<line x1="90.0" y1="38.0" x2="90.0" y2="16.0" stroke="#7aa2ec" stroke-width="2.4"/>
+<line x1="96.5" y1="28.3" x2="97.7" y2="16.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="102.9" y1="29.4" x2="105.4" y2="17.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="109.2" y1="31.0" x2="112.9" y2="19.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="115.2" y1="33.4" x2="120.1" y2="22.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="116.0" y1="45.0" x2="127.0" y2="25.9" stroke="#8a8578" stroke-width="2"/>
+<line x1="126.4" y1="39.8" x2="133.5" y2="30.1" stroke="#383d47" stroke-width="1.2"/>
+<line x1="131.5" y1="43.9" x2="139.5" y2="35.0" stroke="#383d47" stroke-width="1.2"/>
+<line x1="136.1" y1="48.5" x2="145.0" y2="40.5" stroke="#383d47" stroke-width="1.2"/>
+<line x1="140.2" y1="53.6" x2="149.9" y2="46.5" stroke="#383d47" stroke-width="1.2"/>
+<line x1="135.0" y1="64.0" x2="154.1" y2="53.0" stroke="#8a8578" stroke-width="2"/>
+<line x1="146.6" y1="64.8" x2="157.6" y2="59.9" stroke="#383d47" stroke-width="1.2"/>
+<line x1="149.0" y1="70.8" x2="160.4" y2="67.1" stroke="#383d47" stroke-width="1.2"/>
+<line x1="150.6" y1="77.1" x2="162.4" y2="74.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="151.7" y1="83.5" x2="163.6" y2="82.3" stroke="#383d47" stroke-width="1.2"/>
+<line x1="142.0" y1="90.0" x2="164.0" y2="90.0" stroke="#8a8578" stroke-width="2"/>
+<line x1="151.7" y1="96.5" x2="163.6" y2="97.7" stroke="#383d47" stroke-width="1.2"/>
+<line x1="150.6" y1="102.9" x2="162.4" y2="105.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="149.0" y1="109.2" x2="160.4" y2="112.9" stroke="#383d47" stroke-width="1.2"/>
+<line x1="146.6" y1="115.2" x2="157.6" y2="120.1" stroke="#383d47" stroke-width="1.2"/>
+<line x1="135.0" y1="116.0" x2="154.1" y2="127.0" stroke="#8a8578" stroke-width="2"/>
+<line x1="140.2" y1="126.4" x2="149.9" y2="133.5" stroke="#383d47" stroke-width="1.2"/>
+<line x1="136.1" y1="131.5" x2="145.0" y2="139.5" stroke="#383d47" stroke-width="1.2"/>
+<line x1="131.5" y1="136.1" x2="139.5" y2="145.0" stroke="#383d47" stroke-width="1.2"/>
+<line x1="126.4" y1="140.2" x2="133.5" y2="149.9" stroke="#383d47" stroke-width="1.2"/>
+<line x1="116.0" y1="135.0" x2="127.0" y2="154.1" stroke="#8a8578" stroke-width="2"/>
+<line x1="115.2" y1="146.6" x2="120.1" y2="157.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="109.2" y1="149.0" x2="112.9" y2="160.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="102.9" y1="150.6" x2="105.4" y2="162.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="96.5" y1="151.7" x2="97.7" y2="163.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="90.0" y1="142.0" x2="90.0" y2="164.0" stroke="#8a8578" stroke-width="2"/>
+<line x1="83.5" y1="151.7" x2="82.3" y2="163.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="77.1" y1="150.6" x2="74.6" y2="162.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="70.8" y1="149.0" x2="67.1" y2="160.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="64.8" y1="146.6" x2="59.9" y2="157.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="64.0" y1="135.0" x2="53.0" y2="154.1" stroke="#8a8578" stroke-width="2"/>
+<line x1="53.6" y1="140.2" x2="46.5" y2="149.9" stroke="#383d47" stroke-width="1.2"/>
+<line x1="48.5" y1="136.1" x2="40.5" y2="145.0" stroke="#383d47" stroke-width="1.2"/>
+<line x1="43.9" y1="131.5" x2="35.0" y2="139.5" stroke="#383d47" stroke-width="1.2"/>
+<line x1="39.8" y1="126.4" x2="30.1" y2="133.5" stroke="#383d47" stroke-width="1.2"/>
+<line x1="45.0" y1="116.0" x2="25.9" y2="127.0" stroke="#8a8578" stroke-width="2"/>
+<line x1="33.4" y1="115.2" x2="22.4" y2="120.1" stroke="#383d47" stroke-width="1.2"/>
+<line x1="31.0" y1="109.2" x2="19.6" y2="112.9" stroke="#383d47" stroke-width="1.2"/>
+<line x1="29.4" y1="102.9" x2="17.6" y2="105.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="28.3" y1="96.5" x2="16.4" y2="97.7" stroke="#383d47" stroke-width="1.2"/>
+<line x1="38.0" y1="90.0" x2="16.0" y2="90.0" stroke="#8a8578" stroke-width="2"/>
+<line x1="28.3" y1="83.5" x2="16.4" y2="82.3" stroke="#383d47" stroke-width="1.2"/>
+<line x1="29.4" y1="77.1" x2="17.6" y2="74.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="31.0" y1="70.8" x2="19.6" y2="67.1" stroke="#383d47" stroke-width="1.2"/>
+<line x1="33.4" y1="64.8" x2="22.4" y2="59.9" stroke="#383d47" stroke-width="1.2"/>
+<line x1="45.0" y1="64.0" x2="25.9" y2="53.0" stroke="#8a8578" stroke-width="2"/>
+<line x1="39.8" y1="53.6" x2="30.1" y2="46.5" stroke="#383d47" stroke-width="1.2"/>
+<line x1="43.9" y1="48.5" x2="35.0" y2="40.5" stroke="#383d47" stroke-width="1.2"/>
+<line x1="48.5" y1="43.9" x2="40.5" y2="35.0" stroke="#383d47" stroke-width="1.2"/>
+<line x1="53.6" y1="39.8" x2="46.5" y2="30.1" stroke="#383d47" stroke-width="1.2"/>
+<line x1="64.0" y1="45.0" x2="53.0" y2="25.9" stroke="#8a8578" stroke-width="2"/>
+<line x1="64.8" y1="33.4" x2="59.9" y2="22.4" stroke="#383d47" stroke-width="1.2"/>
+<line x1="70.8" y1="31.0" x2="67.1" y2="19.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="77.1" y1="29.4" x2="74.6" y2="17.6" stroke="#383d47" stroke-width="1.2"/>
+<line x1="83.5" y1="28.3" x2="82.3" y2="16.4" stroke="#383d47" stroke-width="1.2"/>
+<circle cx="90" cy="90" r="46" fill="none" stroke="#2a2e37" stroke-width="1"/>
+<text x="90" y="107" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="50" font-weight="500" fill="#ece8de">U</text>
+</svg></div>
+        <div class="orbit-col right">
+          <a class="orbit-item" href="#/review"><span class="o-name">Review</span><span class="o-desc">Awaiting rulings</span></a>
+          <a class="orbit-item" href="#/activity"><span class="o-name">Activity</span><span class="o-desc">Live ledger</span></a>
+          <a class="orbit-item" href="#/hermes"><span class="o-name">Hermes</span><span class="o-desc">Direct line</span></a>
+        </div>
+      </div>
       <form class="portal-search" id="portal-search-form" role="search">
         <label class="visually-hidden" for="portal-search-input">Search the database</label>
         <input id="portal-search-input" type="search" placeholder="Search artists, releases, editions" autocomplete="off">
         <button type="submit">Search</button>
       </form>
-      <div class="portal-stats">
-        <div class="pstat"><div class="n">${cArtists}</div><div class="l">Artists</div></div>
-        <div class="pstat"><div class="n">${cReleases}</div><div class="l">Releases</div></div>
-        <div class="pstat"><div class="n">${cTracks}</div><div class="l">Tracks</div></div>
-        <div class="pstat"><div class="n">${cArtwork}</div><div class="l">Artwork</div></div>
-        <div class="pstat"><div class="n">${cVerified}</div><div class="l">Verified</div></div>
+      <div class="portal-latest">
+        <h2>Latest additions</h2>
+        <div class="rows">${(recent || []).map(r => releaseRow(r)).join("")}</div>
+        <h2>Needs review</h2>
+        ${review && review.length ? `<div class="rows">${review.map(r => releaseRow(r)).join("")}</div>` : `<p class="empty-note">Nothing is waiting on review.</p>`}
+        <h2>Recent verification</h2>
+        ${refList(verifs)}
       </div>
-      <nav class="register" aria-label="Browse the system">
-        <a class="reg-item" href="#/catalog">
-          ${ico('<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.6"/>')}
-          <span><span class="reg-name">Catalog</span><span class="reg-desc">Every release on record, each edition kept separate.</span><span class="reg-count">${cReleases} releases</span></span>
-        </a>
-        <a class="reg-item" href="#/artists">
-          ${ico('<circle cx="12" cy="8" r="3.6"/><path d="M5 19.5c1.4-3.6 4-5.2 7-5.2s5.6 1.6 7 5.2"/>')}
-          <span><span class="reg-name">Artists</span><span class="reg-desc">Canonical names, aliases, and identifiers.</span><span class="reg-count">${cArtists} artists</span></span>
-        </a>
-        <a class="reg-item" href="#/review">
-          ${ico('<circle cx="12" cy="12" r="9"/><path d="M8.5 12.2l2.4 2.4 4.6-5"/>')}
-          <span><span class="reg-name">Review</span><span class="reg-desc">Records Hermes would not verify on the evidence. You decide.</span><span class="reg-count">${(review || []).length} waiting</span></span>
-        </a>
-        <a class="reg-item" href="#/activity">
-          ${ico('<path d="M3 12h4l2.5-6 4 12 2.5-6H21"/>')}
-          <span><span class="reg-name">Activity</span><span class="reg-desc">The live ledger: jobs, proposals, and everything Hermes does.</span><span class="reg-count">live</span></span>
-        </a>
-        <a class="reg-item" href="#/hermes">
-          ${ico('<path d="M4 5.5h16v10H9.5L4 19.5z"/>')}
-          <span><span class="reg-name">Hermes</span><span class="reg-desc">Talk to the researcher directly. Ask, verify, upload.</span><span class="reg-count">direct line</span></span>
-        </a>
-      </nav>
-    </div>
-    <div class="portal-section">
-      <h2>Latest additions</h2>
-      <div class="rows">${(recent || []).map(r => releaseRow(r)).join("")}</div>
-    </div>
-    <div class="portal-section">
-      <h2>Waiting on review</h2>
-      ${review && review.length ? `<div class="rows">${review.map(r => releaseRow(r)).join("")}</div>` : `<p class="empty-note">Nothing is waiting on review.</p>`}
-    </div>
-    <div class="portal-section">
-      <h2>Recent verification work</h2>
-      ${refList(verifs)}
     </div>
     ${footer()}`;
   document.getElementById("portal-search-form").addEventListener("submit", e => {
@@ -317,9 +355,7 @@ async function vCatalog() {
   setNav("catalog");
   const rows = await api("releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&order=created_at.desc&limit=300");
   view.innerHTML = `
-    <p class="kicker">The database</p>
     <h1>Catalog</h1>
-    <p class="sub">${(rows || []).length} releases on record, every edition kept separate.</p>
     <div class="rows">${(rows || []).map(r => releaseRow(r)).join("")}</div>${footer()}`;
 }
 
@@ -337,12 +373,10 @@ async function vArtists() {
         <span class="t">${esc(a.canonical_name)}</span>
         <span class="s">${esc((a.genres || []).join(", "))}</span>
       </span>
-      <span class="end"><span class="chip chip-edition">${counts[a.id] || 0} releases</span>${chip(a.confidence)}</span>
+      <span class="end"><span class="st st-edition">${counts[a.id] || 0} releases</span>${chip(a.confidence)}</span>
     </a>`).join("");
   view.innerHTML = `
-    <p class="kicker">The database</p>
     <h1>Artists</h1>
-    <p class="sub">${(artists || []).length} artists on record.</p>
     <div class="rows">${rowsHtml}</div>${footer()}`;
 }
 
@@ -374,9 +408,8 @@ async function vArtist(id) {
   view.innerHTML = `
     ${crumbs([["UTAG", "#/"], ["Artists", "#/artists"], [a.canonical_name, null]])}
     <div class="rec-head">
-      <p class="kicker">Artist</p>
       <h1>${esc(a.canonical_name)}</h1>
-      <div class="rec-chips">${chip(a.confidence)}</div>
+      <div class="rec-meta">${chip(a.confidence)}</div>
     </div>
     <div class="rec-grid">
       <div class="rec-main">
@@ -467,7 +500,7 @@ async function vRelease(id) {
   const gallery = (others || []).map(x => {
     const u = artUrl(x);
     return `<div class="gitem">
-      ${u ? `<img src="${esc(u)}" alt="" loading="lazy">` : `<span class="art-empty" style="height:148px">No art</span>`}
+      ${u ? im(u, "", "Artwork") : `<span class="art-empty" style="height:148px">No art</span>`}
       <div class="gm"><span>${esc(x.role)}${x.edition_label ? `: ${esc(x.edition_label)}` : ""}</span>
       <span>${esc(x.source || "")}</span>${chip(x.confidence)}</div></div>`;
   }).join("");
@@ -487,10 +520,9 @@ async function vRelease(id) {
   view.innerHTML = `
     ${crumbs([["UTAG", "#/"], ["Catalog", "#/catalog"], ...(r.artists ? [[artistName, `#/artist/${r.artists.id}`]] : []), [r.title, null]])}
     <div class="rec-head">
-      <p class="kicker">Release${r.release_type ? ` · ${esc(r.release_type)}` : ""}</p>
       <h1>${esc(r.title)}</h1>
       <p class="rec-byline">${r.artists ? `<a href="#/artist/${esc(r.artists.id)}">${esc(artistName)}</a>` : ""}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</p>
-      <div class="rec-chips">${editionChip(r.edition) || `<span class="chip chip-edition">Original</span>`}${chip(r.confidence)}</div>
+      <div class="rec-meta">${editionChip(r.edition) || `<span class="st st-edition">Original</span>`}${chip(r.confidence)}</div>
     </div>
 
     <div class="rec-grid">
@@ -527,7 +559,7 @@ async function vRelease(id) {
     <div class="artman" id="artman">
       ${(art || []).length ? (art || []).map(x => { const u = artUrl(x); return `
       <div class="artrow">
-        ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty"></span>`}
+        ${u ? im(u, "thumb", `${x.role} artwork`) : `<span class="thumb-empty"></span>`}
         <span class="grow"><span class="t">${esc(x.role)}${x.edition_label ? `: ${esc(x.edition_label)}` : ""}</span>
         <span class="s">${esc(x.source || "")}</span></span>
         <span class="end">${chip(x.confidence)}</span>
@@ -551,7 +583,7 @@ async function vRelease(id) {
       </div>
       <aside class="infobox" aria-label="Release facts">
         <figure class="ib-art">
-          ${cover ? `<img src="${esc(cover)}" alt="Cover art for ${esc(r.title)}">` : `<span class="art-empty">No canonical art yet</span>`}
+          ${cover ? im(cover, "", `Cover art for ${r.title}`) : `<span class="art-empty">No canonical art yet</span>`}
         </figure>
         <dl>${ibRows}</dl>
       </aside>
@@ -622,9 +654,7 @@ async function vReview() {
       <span class="acts qc">${qcBtns("artist", a.id, a.confidence)}</span>
     </div>`).join("");
   view.innerHTML = `
-    <p class="kicker">Your call</p>
     <h1>Review queue</h1>
-    <p class="sub">Records Hermes would not mark verified on the evidence he found. Hover a row to rule on it.</p>
     <p class="empty-note" id="review-status"></p>
     <h2>Releases</h2>
     ${rels && rels.length ? `<div class="rows">${relRowsQ}</div>` : `<p class="empty-note">No releases are waiting on review.</p>`}
@@ -662,9 +692,7 @@ async function vSearch(q) {
       <span class="grow"><span class="t">${esc(a.canonical_name)}</span><span class="s">Artist</span></span>
       <span class="end">${chip(a.confidence)}</span></a>`).join("");
   view.innerHTML = `
-    <p class="kicker">Search</p>
     <h1>${esc(q)}</h1>
-    <p class="sub">${(artists || []).length + (releases || []).length} matching records.</p>
     <h2>Artists</h2>
     ${artists && artists.length ? `<div class="rows">${artistRows}</div>` : `<p class="empty-note">No matching artists.</p>`}
     <h2>Releases</h2>
@@ -677,7 +705,7 @@ async function vSearch(q) {
 const JOB_LABEL = { queued: "Queued", running: "Running", awaiting_approval: "Awaiting approval", approved: "Approved", applying: "Applying", done: "Done", failed: "Failed", rejected: "Rejected", skipped: "Skipped" };
 const KIND_LABEL = { ruling: "Owner ruling", miss: "Splotify miss", upload: "Upload", artwork: "Cover art", sweep_track: "Track re-check", sweep_release: "Release re-check", chat: "Direct chat", apply: "Apply" };
 
-function jobChip(s) { return `<span class="chip job-${esc(s)}">${esc(JOB_LABEL[s] || s)}</span>`; }
+function jobChip(s) { return `<span class="st job-${esc(s)}"><i></i>${esc(JOB_LABEL[s] || s)}</span>`; }
 function fmtTime(iso) {
   if (!iso) return "";
   const d = new Date(iso);
@@ -694,20 +722,17 @@ function agoText(iso) {
 async function vActivity() {
   setNav("activity");
   view.innerHTML = `
-    <p class="kicker">Live ledger</p>
     <h1>Hermes activity</h1>
-    <p class="sub">Everything Hermes is doing, live. He researches and files proposals. Nothing lands in the catalog until you approve it.</p>
     <p class="empty-note" id="act-status"></p>
     <div class="act-head" id="act-head"></div>
-    <div class="statband" id="act-stats"></div>
     <h2>Now working</h2>
-    <div id="act-now"><p class="empty-note">Loading…</p></div>
+    <div id="act-now"></div>
     <h2>Awaiting your approval</h2>
-    <div id="act-approvals"><p class="empty-note">Loading…</p></div>
+    <div id="act-approvals"></div>
     <h2>Jobs</h2>
-    <div id="act-jobs"><p class="empty-note">Loading…</p></div>
+    <div id="act-jobs" aria-hidden="true"><div class="rows"><div class="drow skel-row"><span class="skel skel-thumb"></span><span class="grow"><span class="skel skel-line" style="width:44%"></span><span class="skel skel-line dim" style="width:62%"></span></span></div><div class="drow skel-row"><span class="skel skel-thumb"></span><span class="grow"><span class="skel skel-line" style="width:38%"></span><span class="skel skel-line dim" style="width:58%"></span></span></div></div></div>
     <h2>Live log</h2>
-    <div id="act-log"><p class="empty-note">Loading…</p></div>
+    <div id="act-log" aria-hidden="true"><div class="skel skel-block" style="width:96%"></div><div class="skel skel-block" style="width:88%"></div><div class="skel skel-block" style="width:92%"></div></div>
     ${footer()}`;
 
   const statusEl = document.getElementById("act-status");
@@ -749,7 +774,7 @@ async function vActivity() {
       <div class="rh">${chip(p.confidence || "needs_review")}<span>${esc(p.title)}</span><span>${fmtTime(p.created_at)}</span></div>
       <div class="rb">${esc(p.summary || "")}</div>
       ${bits.length ? `<div class="rb act-bits">${bits.join(" · ")}</div>` : ""}
-      ${art.source_url ? `<img class="act-art" src="${esc(art.source_url)}" alt="" loading="lazy">` : ""}
+      ${art.source_url ? im(art.source_url, "act-art", "Proposed artwork") : ""}
       ${sources ? `<div class="rb act-src">Sources: ${sources}</div>` : ""}
       <details class="act-details"><summary>Full proposal</summary><pre class="act-json">${esc(JSON.stringify(pr, null, 2))}</pre></details>
       <div class="ef-actions">
@@ -784,14 +809,6 @@ async function vActivity() {
       <a class="mini-btn act-link" href="#/hermes">Talk to Hermes</a>`;
 
     const pending = (props || []).filter(p => p.status === "pending");
-    const failed24 = (jobs || []).filter(j => j.status === "failed" && (Date.now() - new Date(j.updated_at).getTime() < 86400000)).length;
-    const doneToday = (jobs || []).filter(j => j.status === "done" && new Date(j.updated_at).toDateString() === new Date().toDateString()).length;
-    const queued = (jobs || []).filter(j => j.status === "queued").length;
-    document.getElementById("act-stats").innerHTML = `
-      <div class="pstat"><div class="n">${pending.length}</div><div class="l">Awaiting approval</div></div>
-      <div class="pstat"><div class="n">${queued}</div><div class="l">Queued</div></div>
-      <div class="pstat"><div class="n">${doneToday}</div><div class="l">Finished today</div></div>
-      <div class="pstat"><div class="n">${failed24}</div><div class="l">Failed in 24h</div></div>`;
 
     const running = (jobs || []).find(j => j.status === "running" || j.status === "applying");
     document.getElementById("act-now").innerHTML = running
@@ -801,7 +818,7 @@ async function vActivity() {
     const failedProps = (props || []).filter(p => p.status === "apply_failed");
     document.getElementById("act-approvals").innerHTML =
       (pending.length ? pending.map(proposalCard).join("") : `<p class="empty-note">Nothing is waiting on you.</p>`) +
-      failedProps.map(p => `<div class="ref act-card"><div class="rh"><span class="chip job-failed">Apply failed</span><span>${esc(p.title)}</span></div><div class="rb">You approved this, but the apply did not land. Send it back and Hermes will try again.</div><div class="ef-actions"><button class="btn" type="button" data-retry="${esc(p.job_id)}">Retry apply</button></div></div>`).join("");
+      failedProps.map(p => `<div class="ref act-card"><div class="rh"><span class="st job-failed"><i></i>Apply failed</span><span>${esc(p.title)}</span></div><div class="rb">You approved this, but the apply did not land. Send it back and Hermes will try again.</div><div class="ef-actions"><button class="btn" type="button" data-retry="${esc(p.job_id)}">Retry apply</button></div></div>`).join("");
 
     document.getElementById("act-jobs").innerHTML = (jobs || []).length ? `<div class="rows">` + jobs.map(j => `
       <div class="drow act-job">
@@ -848,11 +865,10 @@ async function vHermesDirect() {
       <div class="chat-log" id="chat-log"></div>
       <div class="chat-hero" id="chat-hero">
         <h1 class="chat-title">Good to see you.</h1>
-        <p class="chat-sub">Ask about the database, hand him a song to verify, or upload audio with the + button.</p>
       </div>
       ${pw ? "" : `
       <div class="ref chat-gate">
-        <div class="rb">This tab talks straight to Hermes, live. Enter the site password once per visit.</div>
+        <div class="rb">Enter the site password to unlock.</div>
         <form class="pw-row" id="pw-form" style="margin-top:10px">
           <input type="password" id="pw-input" placeholder="Site password" autocomplete="current-password">
           <button class="btn" type="submit">Unlock</button>
@@ -1114,11 +1130,10 @@ async function vHermesLegacy() {
       <div class="chat-log" id="chat-log"></div>
       <div class="chat-hero" id="chat-hero">
         <h1 class="chat-title">Good to see you.</h1>
-        <p class="chat-sub">Ask about the database, hand him a song to verify, or upload audio with the + button.</p>
       </div>
       ${pw ? "" : `
       <div class="ref chat-gate">
-        <div class="rb">This tab talks to Hermes through the UTAG control function. Enter the site password once per visit.</div>
+        <div class="rb">Enter the site password to unlock.</div>
         <form class="pw-row" id="pw-form" style="margin-top:10px">
           <input type="password" id="pw-input" placeholder="Site password" autocomplete="current-password">
           <button class="btn" type="submit">Unlock</button>
@@ -1251,6 +1266,43 @@ async function vHermesLegacy() {
   });
 }
 
+/* Skeleton placeholders mirror the layout being loaded, so content never
+   jumps when data lands. Shimmer disables itself under reduced-motion. */
+function skelRows(n) {
+  let s = "";
+  for (let i = 0; i < n; i++) {
+    s += `<div class="drow skel-row" aria-hidden="true"><span class="skel skel-thumb"></span><span class="grow"><span class="skel skel-line" style="width:${36 + ((i * 17) % 28)}%"></span><span class="skel skel-line dim" style="width:${52 + ((i * 11) % 24)}%"></span></span></div>`;
+  }
+  return `<div class="rows">${s}</div>`;
+}
+
+function skeletonFor(parts) {
+  const r = parts[0] || "home";
+  if (r === "artist" || r === "release") {
+    return `<div class="skel skel-crumbs" aria-hidden="true"></div>
+      <div class="skel skel-title" aria-hidden="true"></div>
+      <div class="rec-grid"><div class="rec-main">
+        <div class="skel skel-block" style="width:95%"></div>
+        <div class="skel skel-block" style="width:88%"></div>
+        <div class="skel skel-block" style="width:92%"></div>
+        <div class="skel skel-block" style="width:70%"></div>
+      </div><div class="skel" style="height:340px" aria-hidden="true"></div></div>`;
+  }
+  if (r === "hermes") {
+    return `<div class="chat-shell"><div class="chat-hero"><div class="skel skel-title" style="margin:0 auto"></div></div>
+      <div class="skel" style="height:52px" aria-hidden="true"></div></div>`;
+  }
+  if (r === "home") {
+    return `<div class="portal" aria-hidden="true">
+      <div class="skel skel-mark"></div>
+      <div class="skel skel-seal" style="margin-top:40px"></div>
+      <div class="skel skel-search"></div>
+    </div>
+    <div class="portal-latest">${skelRows(5)}</div>`;
+  }
+  return `<div class="skel skel-title" style="width:32%" aria-hidden="true"></div>` + skelRows(8);
+}
+
 /* ----------------------------------------------------------------- router */
 
 function parseHash() {
@@ -1268,8 +1320,8 @@ async function route() {
     view.innerHTML = `<h1>Setup</h1><p class="error-note">The public read key is not configured yet.</p>`;
     return;
   }
-  view.innerHTML = `<p class="loading-note">Loading…</p>`;
   const { parts, params } = parseHash();
+  view.innerHTML = skeletonFor(parts);
   try {
     if (parts.length === 0) await vHome();
     else if (parts[0] === "catalog") await vCatalog();

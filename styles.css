@@ -136,21 +136,7 @@ img { max-width: 100%; }
   line-height: 1;
 }
 
-.topnav { max-width: 1120px; margin: 0 auto; padding: 0 32px; }
 
-.topnav-inner { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; }
-.topnav-inner::-webkit-scrollbar { display: none; }
-
-.topnav a {
-  color: var(--link);
-  font-size: 14px;
-  font-weight: 500;
-  padding: 10px 13px 14px;
-  white-space: nowrap;
-}
-.topnav a:hover { color: var(--link-hi); text-decoration: underline; text-underline-offset: 4px; }
-.topnav a.active { color: var(--text); cursor: default; }
-.topnav a.active:hover { text-decoration: none; }
 
 .view { max-width: 1120px; margin: 0 auto; padding: 36px 32px 90px; min-width: 0; }
 .view:focus { outline: none; }
@@ -234,22 +220,37 @@ h3 {
   margin: 12px 0 0;
 }
 
-.orbit {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  gap: 48px;
-  align-items: center;
-  margin: 44px 0 0;
+/* Compass: the five destinations ring the seal in a true circle, each at
+   a compass point, like the reference's language links around the globe. */
+.compass {
+  position: relative;
+  width: min(620px, 94vw);
+  aspect-ratio: 1 / 1;
+  margin: 36px auto 0;
 }
+.compass .seal {
+  position: absolute;
+  left: 50%; top: 50%;
+  width: 168px; margin: 0;
+  transform: translate(-50%, -50%);
+}
+.compass .orbit-item {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  max-width: 180px;
+  transition: transform .38s cubic-bezier(.22,1,.36,1);
+}
+.compass .orbit-item:hover, .compass .orbit-item:focus-visible {
+  transform: translate(-50%, -50%) scale(1.08);
+}
+.pos-top { left: 50%; top: 11%; }
+.pos-ur  { left: 87%; top: 38%; }
+.pos-lr  { left: 73%; top: 81%; }
+.pos-ll  { left: 27%; top: 81%; }
+.pos-ul  { left: 13%; top: 38%; }
 
-.orbit-col { display: grid; gap: 38px; align-content: center; justify-items: center; }
-.orbit-col.left { padding-bottom: 56px; }
-.orbit-col.right { padding-top: 56px; }
-
-/* Destination links ring the seal in staggered columns, wrapping around
-   the middle the way the reference's language links ring the globe. */
-.orbit-item { display: block; text-align: center; max-width: 180px; transition: transform .38s cubic-bezier(.22,1,.36,1); }
-.orbit-item:hover, .orbit-item:focus-visible { transform: scale(1.07); }
+.orbit-item { display: block; }
 .o-name { display: block; color: var(--link); font-size: 16px; font-weight: 600; }
 .orbit-item:hover .o-name, .orbit-item:focus-visible .o-name { color: var(--link-hi); }
 .o-desc { display: block; color: var(--faint); font-size: 12.5px; margin-top: 2px; }
@@ -280,7 +281,7 @@ h3 {
 }
 .portal-search input::placeholder { color: var(--faint); }
 .portal-search input:focus { outline: none; }
-.portal-search button {
+.portal-search button[type="submit"] {
   background: var(--link);
   border: none;
   color: #0a0d13;
@@ -291,7 +292,7 @@ h3 {
   cursor: pointer;
   transition: background var(--t-fast) var(--ease);
 }
-.portal-search button:hover { background: var(--link-hi); }
+.portal-search button[type="submit"]:hover { background: var(--link-hi); }
 
 .portal-latest { text-align: left; margin-top: 64px; max-width: 860px; margin-left: auto; margin-right: auto; }
 .portal-latest h2 { margin-top: 0; }
@@ -760,19 +761,16 @@ a.act-link { display: inline-block; }
   .rec-grid { grid-template-columns: 1fr; gap: 28px; }
   .infobox { max-width: 560px; }
   .dir { grid-template-columns: 1fr 1fr; }
-  .orbit { grid-template-columns: 1fr; gap: 28px; }
-  .orbit-col.left { padding-bottom: 0; }
-  .orbit-col.right { padding-top: 0; }
-  .orbit-col { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
-  .seal { width: 140px; margin: 0 auto; order: -1; }
+  .compass { display: flex; flex-direction: column; align-items: center; gap: 24px; width: auto; aspect-ratio: auto; }
+  .compass .seal { position: static; transform: none; order: -1; width: 140px; }
+  .compass .orbit-item { position: static; transform: none; }
+  .compass .orbit-item:hover, .compass .orbit-item:focus-visible { transform: scale(1.06); }
 }
 
 @media (max-width: 760px) {
   .mast-top { padding: 16px 18px 10px; flex-wrap: wrap; }
   .wordmark { font-size: 21px; }
   .top-search { flex: 1 1 100%; order: 3; }
-  .topnav { padding: 0 12px; }
-  .topnav a { padding: 10px 10px 12px; font-size: 13px; }
   .view { padding: 26px 18px 120px; }
   .drow { gap: 12px; padding: 10px 4px; }
   .drow .acts { opacity: 1; transform: none; }

@@ -252,11 +252,7 @@ async function vHome() {
     <div class="portal">
       <p class="portal-mark">UTAG</p>
       <p class="portal-sub">The verified encyclopedia of music metadata.</p>
-      <div class="orbit">
-        <div class="orbit-col left">
-          <a class="orbit-item" href="#/catalog"><span class="o-name">Catalog</span><span class="o-desc">Release records</span></a>
-          <a class="orbit-item" href="#/artists"><span class="o-name">Artists</span><span class="o-desc">Artist records</span></a>
-        </div>
+      <div class="compass">
         <div class="seal"><svg class="seal-svg" viewBox="0 0 180 180" role="img" aria-label="UTAG verification seal">
 <line x1="90.0" y1="38.0" x2="90.0" y2="16.0" stroke="#7aa2ec" stroke-width="2.4"/>
 <line x1="96.5" y1="28.3" x2="97.7" y2="16.4" stroke="#383d47" stroke-width="1.2"/>
@@ -321,11 +317,11 @@ async function vHome() {
 <circle cx="90" cy="90" r="46" fill="none" stroke="#2a2e37" stroke-width="1"/>
 <text x="90" y="107" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="50" font-weight="500" fill="#ece8de">U</text>
 </svg></div>
-        <div class="orbit-col right">
-          <a class="orbit-item" href="#/review"><span class="o-name">Review</span><span class="o-desc">Awaiting rulings</span></a>
-          <a class="orbit-item" href="#/activity"><span class="o-name">Activity</span><span class="o-desc">Live ledger</span></a>
-          <a class="orbit-item" href="#/hermes"><span class="o-name">Hermes</span><span class="o-desc">Metadata researcher</span></a>
-        </div>
+        <a class="orbit-item pos-top" href="#/catalog"><span class="o-name">Catalog</span><span class="o-desc">Release records</span></a>
+        <a class="orbit-item pos-ur" href="#/artists"><span class="o-name">Artists</span><span class="o-desc">Artist records</span></a>
+        <a class="orbit-item pos-lr" href="#/review"><span class="o-name">Review</span><span class="o-desc">Awaiting rulings</span></a>
+        <a class="orbit-item pos-ll" href="#/activity"><span class="o-name">Activity</span><span class="o-desc">Live ledger</span></a>
+        <a class="orbit-item pos-ul" href="#/hermes"><span class="o-name">Hermes</span><span class="o-desc">Metadata researcher</span></a>
       </div>
       <form class="portal-search" id="portal-search-form" role="search">
         <label class="visually-hidden" for="portal-search-input">Search the database</label>

@@ -208,13 +208,29 @@ Deno.serve(async (req) => {
     }
 
     if (action === "hermes_bridge") {
+      // Direct chat rides a Supabase Realtime channel: the bridge dials out
+      // to it from the sandbox (public tunnels do not survive the egress
+      // proxy) and the site joins the same channel. This action mints a
+      // short-lived ticket, HMAC-signed with the bridge token, after the
+      // password check above. The bridge verifies it before running.
       const { data, error } = await supabase.from("hermes_bridge")
         .select("url,token,updated_at").eq("id", "utag").single();
       if (error || !data || !(data as { url?: string }).url) {
         return json({ ok: false, error: "Direct Hermes is not reporting yet" }, 404);
       }
       const row = data as { url: string; token: string; updated_at: string };
-      return json({ ok: true, action, url: row.url, token: row.token, updated_at: row.updated_at });
+      const room = String(body.room || "web").replace(/[^A-Za-z0-9_-]+/g, "-").slice(0, 48).replace(/^-+|-+$/g, "") || "web";
+      const exp = Math.floor(Date.now() / 1000) + 600;
+      const key = await crypto.subtle.importKey(
+        "raw", new TextEncoder().encode(row.token),
+        { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+      const sigBuf = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(`${room}.${exp}`));
+      const sig = btoa(String.fromCharCode(...new Uint8Array(sigBuf)))
+        .replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+      return json({
+        ok: true, action, channel: row.url, room,
+        ticket: `${room}.${exp}.${sig}`, exp, updated_at: row.updated_at,
+      });
     }
 
     if (action === "proposal_approve" || action === "proposal_reject") {

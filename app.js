@@ -820,19 +820,55 @@ async function vHermesDirect() {
   let msgs = [];
   try { msgs = JSON.parse(localStorage.getItem(storeKey()) || "[]"); } catch (e) { msgs = []; }
 
-  function render(draft, typing = false) {
-    const list = draft ? [...msgs, { role: "assistant", content: draft, draft: true }] : [...msgs];
-    if (typing && !draft) list.push({ role: "assistant", typing: true });
-    shell.classList.toggle("has-msgs", list.length > 0);
-    log.innerHTML = list.map(m => m.typing
-      ? `<div class="msg msg-assistant msg-typing" role="status" aria-label="Hermes is typing"><span class="typing-dots" aria-hidden="true"><span></span><span></span><span></span></span></div>`
-      : `<div class="msg msg-${m.role === "user" ? "user" : "assistant"}">${esc(m.content)}${m.draft ? ` <span class="draft-dot">…</span>` : ""}</div>`).join("");
-    log.lastElementChild && log.lastElementChild.scrollIntoView({ block: "end" });
+  function msgHTML(m) {
+    return `<div class="msg msg-${m.role === "user" ? "user" : "assistant"}">${esc(m.content)}</div>`;
   }
-  function save() {
-    try { localStorage.setItem(storeKey(), JSON.stringify(msgs.slice(-100))); } catch (e) { /* storage full */ }
+  const typingHTML = `<div class="msg msg-assistant msg-typing" role="status" aria-label="Hermes is typing"><span class="typing-dots" aria-hidden="true"><span></span><span></span><span></span></span></div>`;
+  function nearBottom() {
+    const el = document.documentElement;
+    return (window.innerHeight + window.scrollY) >= (el.scrollHeight - 96);
   }
-  render();
+  let scrollQueued = false;
+  function stickToBottom() {
+    if (scrollQueued) return;
+    scrollQueued = true;
+    requestAnimationFrame(() => {
+      scrollQueued = false;
+      if (nearBottom()) window.scrollTo(0, document.documentElement.scrollHeight);
+    });
+  }
+  /* Full rebuild, used only for structural changes (load, message sent,
+     message finished, new chat). Streaming updates go through
+     upsertDraft/setTyping below so the log does not flicker and the
+     user's scroll position is never yanked while reading. */
+  function renderAll() {
+    shell.classList.toggle("has-msgs", msgs.length > 0);
+    log.innerHTML = msgs.map(msgHTML).join("");
+    window.scrollTo(0, document.documentElement.scrollHeight);
+  }
+  function upsertDraft(draft) {
+    const t = log.querySelector(":scope > .msg-typing");
+    if (t) t.remove();
+    let bubble = log.querySelector(":scope > .msg-draft");
+    if (draft) {
+      if (!bubble) {
+        bubble = document.createElement("div");
+        bubble.className = "msg msg-assistant msg-draft";
+        log.appendChild(bubble);
+      }
+      if (bubble.textContent !== draft) bubble.textContent = draft;
+      shell.classList.add("has-msgs");
+      stickToBottom();
+    } else if (bubble) {
+      bubble.remove();
+    }
+  }
+  function setTyping(on) {
+    const t = log.querySelector(":scope > .msg-typing");
+    if (on && !t) { log.insertAdjacentHTML("beforeend", typingHTML); stickToBottom(); }
+    else if (!on && t) t.remove();
+  }
+  renderAll();
 
   /* Direct line: this tab holds a live WebSocket to the UTAG relay and
      Hermes answers through it in real time (no tunnel, no middleman
@@ -921,7 +957,7 @@ async function vHermesDirect() {
     session = `web-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
     localStorage.setItem("utag_direct_session", session);
     msgs = [];
-    render();
+    renderAll();
     status.textContent = "Fresh conversation started.";
     input.focus();
   });
@@ -940,7 +976,8 @@ async function vHermesDirect() {
     save();
     let draft = "";
     status.textContent = "";
-    render(draft, true);
+    renderAll();
+    setTyping(true);
     clearInterval(chatTimer);
     chatTimer = null;
     try {
@@ -958,9 +995,9 @@ async function vHermesDirect() {
         }, 600000);
         activeRun = (m) => {
           if (!m) return;
-          if (m.type === "text") { draft += m.text || ""; render(draft); }
-          else if (m.type === "tool_use") { if (!draft) render(draft, true); }
-          else if (m.type === "tool_result" && m.is_error) { if (!draft) render(draft, true); }
+          if (m.type === "text") { draft += m.text || ""; upsertDraft(draft); }
+          else if (m.type === "tool_use") { if (!draft) setTyping(true); }
+          else if (m.type === "tool_result" && m.is_error) { if (!draft) setTyping(true); }
           else if (m.type === "error") { draft = draft || m.text || "Hermes hit an error."; done(new Error(m.text || "Hermes hit an error.")); }
           else if (m.type === "result") { if (m.text) draft = m.text; done(); }
         };
@@ -972,12 +1009,12 @@ async function vHermesDirect() {
       });
       msgs.push({ role: "assistant", content: draft || "(no answer)" });
       save();
-      render();
+      renderAll();
       status.textContent = "";
     } catch (err) {
       msgs.push({ role: "assistant", content: draft ? `${draft}\n\n(${err.message})` : `Hermes could not answer: ${err.message}` });
       save();
-      render();
+      renderAll();
       status.textContent = err.message;
     } finally {
       running = false;

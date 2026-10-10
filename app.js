@@ -90,6 +90,7 @@ document.getElementById("search-form").addEventListener("submit", e => {
   const q = document.getElementById("search-input").value.trim();
   if (q) location.hash = `#/search?q=${encodeURIComponent(q)}`;
 });
+attachSuggest(document.getElementById("search-input"));
 
 /* ------------------------------------------------------------- fragments */
 
@@ -103,7 +104,7 @@ function releaseRow(r, acts) {
       <span class="t">${esc(r.title)}</span>
       <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</span>
     </span>
-    <span class="end">${editionChip(r.edition)}${chip(r.confidence)}</span>
+    <span class="end">${editionChip(r.edition)}</span>
     ${acts ? `<span class="acts">${acts}</span>` : ""}
   </a>`;
 }
@@ -243,10 +244,9 @@ function efSave() {
 
 async function vHome() {
   setNav("home");
-  const [recent, review, verifs] = await Promise.all([
+  const [recent, review] = await Promise.all([
     api("releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&order=created_at.desc&limit=12"),
-    api("releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&confidence=in.(needs_review,conflicting)&order=created_at.desc&limit=6"),
-    api("verifications?select=id,entity_type,overall_confidence,model,created_by,created_at,rationale&order=created_at.desc&limit=5")
+    api("releases?select=id,title,edition,release_year,confidence,artists(canonical_name),artwork(source_url,stored_path,role)&artwork.role=eq.canonical&confidence=in.(needs_review,conflicting)&order=created_at.desc&limit=6")
   ]);
   view.innerHTML = `
     <div class="portal">
@@ -254,8 +254,8 @@ async function vHome() {
       <p class="portal-sub">The verified encyclopedia of music metadata.</p>
       <div class="orbit">
         <div class="orbit-col left">
-          <a class="orbit-item" href="#/catalog"><span class="o-name">Catalog</span><span class="o-desc">Release records</span></a>
-          <a class="orbit-item" href="#/artists"><span class="o-name">Artists</span><span class="o-desc">Artist records</span></a>
+          <a class="orbit-item" href="#/catalog"><span class="orbit-btn">Catalog</span><span class="o-desc">Release records</span></a>
+          <a class="orbit-item" href="#/artists"><span class="orbit-btn">Artists</span><span class="o-desc">Artist records</span></a>
         </div>
         <div class="seal"><svg class="seal-svg" viewBox="0 0 180 180" role="img" aria-label="UTAG verification seal">
 <line x1="90.0" y1="38.0" x2="90.0" y2="16.0" stroke="#7aa2ec" stroke-width="2.4"/>
@@ -322,9 +322,9 @@ async function vHome() {
 <text x="90" y="107" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="50" font-weight="500" fill="#ece8de">U</text>
 </svg></div>
         <div class="orbit-col right">
-          <a class="orbit-item" href="#/review"><span class="o-name">Review</span><span class="o-desc">Awaiting rulings</span></a>
-          <a class="orbit-item" href="#/activity"><span class="o-name">Activity</span><span class="o-desc">Live ledger</span></a>
-          <a class="orbit-item" href="#/hermes"><span class="o-name">Hermes</span><span class="o-desc">Direct line</span></a>
+          <a class="orbit-item" href="#/review"><span class="orbit-btn">Review</span><span class="o-desc">Awaiting rulings</span></a>
+          <a class="orbit-item" href="#/activity"><span class="orbit-btn">Activity</span><span class="o-desc">Live ledger</span></a>
+          <a class="orbit-item" href="#/hermes"><span class="orbit-btn">Hermes</span><span class="o-desc">Metadata researcher</span></a>
         </div>
       </div>
       <form class="portal-search" id="portal-search-form" role="search">
@@ -337,8 +337,6 @@ async function vHome() {
         <div class="rows">${(recent || []).map(r => releaseRow(r)).join("")}</div>
         <h2>Needs review</h2>
         ${review && review.length ? `<div class="rows">${review.map(r => releaseRow(r)).join("")}</div>` : `<p class="empty-note">Nothing is waiting on review.</p>`}
-        <h2>Recent verification</h2>
-        ${refList(verifs)}
       </div>
     </div>
     ${footer()}`;
@@ -347,6 +345,7 @@ async function vHome() {
     const q = document.getElementById("portal-search-input").value.trim();
     if (q) location.hash = `#/search?q=${encodeURIComponent(q)}`;
   });
+  attachSuggest(document.getElementById("portal-search-input"));
 }
 
 /* --------------------------------------------------------------- catalog */
@@ -373,7 +372,7 @@ async function vArtists() {
         <span class="t">${esc(a.canonical_name)}</span>
         <span class="s">${esc((a.genres || []).join(", "))}</span>
       </span>
-      <span class="end"><span class="st st-edition">${counts[a.id] || 0} releases</span>${chip(a.confidence)}</span>
+      <span class="end"><span class="st st-edition">${counts[a.id] || 0} releases</span></span>
     </a>`).join("");
   view.innerHTML = `
     <h1>Artists</h1>
@@ -409,7 +408,6 @@ async function vArtist(id) {
     ${crumbs([["UTAG", "#/"], ["Artists", "#/artists"], [a.canonical_name, null]])}
     <div class="rec-head">
       <h1>${esc(a.canonical_name)}</h1>
-      <div class="rec-meta">${chip(a.confidence)}</div>
     </div>
     <div class="rec-grid">
       <div class="rec-main">
@@ -479,9 +477,8 @@ async function vRelease(id) {
   const trackRows = (tracks || []).map(t => `
     <tr><td class="num">${t.disc_number > 1 ? `${t.disc_number}.` : ""}${esc(t.track_number || "")}</td>
     <td>${esc(t.title)}</td><td class="num">${fmtDur(t.duration_ms)}</td>
-    <td>${chip(t.confidence)}</td>
     <td class="num"><button class="mini-btn" type="button" data-toggle="te-${esc(t.id)}">Edit</button></td></tr>
-    <tr class="tedit-row" id="te-${esc(t.id)}" hidden><td colspan="5">
+    <tr class="tedit-row" id="te-${esc(t.id)}" hidden><td colspan="4">
       <div class="ef-grid" data-track-panel="${esc(t.id)}">
         ${efInput("Title", "title", t.title)}
         ${efInput("Track no.", "track_number", t.track_number, "num")}
@@ -510,6 +507,7 @@ async function vRelease(id) {
   const ibRows = [
     ["Artist", r.artists ? `<a href="#/artist/${esc(r.artists.id)}">${esc(artistName)}</a>` : ""],
     ["Type", r.release_type], ["Edition", r.edition],
+    ...(r.confidence && r.confidence !== "verified" ? [["Verification", CONF_LABEL[r.confidence] || r.confidence]] : []),
     ["Released", r.release_date || r.release_year], ["Label", r.label],
     ["Catalog no.", r.catalog_number], ["Barcode", r.barcode], ["Country", r.country],
     ["Spotify", r.spotify_id], ["Apple", r.apple_id], ["Deezer", r.deezer_id],
@@ -522,7 +520,7 @@ async function vRelease(id) {
     <div class="rec-head">
       <h1>${esc(r.title)}</h1>
       <p class="rec-byline">${r.artists ? `<a href="#/artist/${esc(r.artists.id)}">${esc(artistName)}</a>` : ""}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</p>
-      <div class="rec-meta">${editionChip(r.edition) || `<span class="st st-edition">Original</span>`}${chip(r.confidence)}</div>
+      <div class="rec-meta">${editionChip(r.edition) || `<span class="st st-edition">Original</span>`}</div>
     </div>
 
     <div class="rec-grid">
@@ -553,7 +551,7 @@ async function vRelease(id) {
     </div>
 
     <h2>Tracklist</h2>
-    ${tracks && tracks.length ? `<table class="tracks"><thead><tr><th>No.</th><th>Title</th><th>Length</th><th>Confidence</th><th></th></tr></thead><tbody>${trackRows}</tbody></table>` : `<p class="empty-note">No tracks recorded for this release yet.</p>`}
+    ${tracks && tracks.length ? `<table class="tracks"><thead><tr><th>No.</th><th>Title</th><th>Length</th><th></th></tr></thead><tbody>${trackRows}</tbody></table>` : `<p class="empty-note">No tracks recorded for this release yet.</p>`}
 
     <h2>Cover art</h2>
     <div class="artman" id="artman">
@@ -640,17 +638,16 @@ async function vReview() {
     const u = artUrl(a);
     const artist = (r.artists && r.artists.canonical_name) || "";
     return `<div class="drow">
-      ${u ? `<img class="thumb" src="${esc(u)}" alt="" loading="lazy">` : `<span class="thumb-empty" aria-hidden="true"></span>`}
+      ${u ? im(u, "thumb", r.title) : `<span class="thumb-empty" aria-hidden="true"></span>`}
       <a class="grow" href="#/release/${esc(r.id)}"><span class="t">${esc(r.title)}</span>
       <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}</span></a>
-      <span class="end">${editionChip(r.edition)}${chip(r.confidence)}</span>
+      <span class="end">${editionChip(r.edition)}</span>
       <span class="acts qc">${qcBtns("release", r.id, r.confidence)}</span>
     </div>`;
   }).join("");
   const artRowsQ = (arts || []).map(a => `
     <div class="drow">
       <a class="grow" href="#/artist/${esc(a.id)}"><span class="t">${esc(a.canonical_name)}</span><span class="s">Artist record</span></a>
-      <span class="end">${chip(a.confidence)}</span>
       <span class="acts qc">${qcBtns("artist", a.id, a.confidence)}</span>
     </div>`).join("");
   view.innerHTML = `
@@ -689,8 +686,7 @@ async function vSearch(q) {
   ]);
   const artistRows = (artists || []).map(a => `
     <a class="drow" href="#/artist/${esc(a.id)}">
-      <span class="grow"><span class="t">${esc(a.canonical_name)}</span><span class="s">Artist</span></span>
-      <span class="end">${chip(a.confidence)}</span></a>`).join("");
+      <span class="grow"><span class="t">${esc(a.canonical_name)}</span><span class="s">Artist</span></span></a>`).join("");
   view.innerHTML = `
     <h1>${esc(q)}</h1>
     <h2>Artists</h2>
@@ -1301,6 +1297,67 @@ function skeletonFor(parts) {
     <div class="portal-latest">${skelRows(5)}</div>`;
   }
   return `<div class="skel skel-title" style="width:32%" aria-hidden="true"></div>` + skelRows(8);
+}
+
+/* Search suggestions: a dropdown of matching artists and releases as you
+   type. Arrow keys move, Enter opens, Esc closes. */
+function attachSuggest(input) {
+  if (!input || input.dataset.suggest) return;
+  input.dataset.suggest = "1";
+  const wrap = input.form || input.parentElement;
+  const dd = document.createElement("div");
+  dd.className = "suggest";
+  dd.hidden = true;
+  wrap.appendChild(dd);
+  let items = [], active = -1, timer = 0;
+  const close = () => { dd.hidden = true; active = -1; };
+  const go = it => {
+    close();
+    location.hash = it.kind === "artist" ? `#/artist/${it.id}` : `#/release/${it.id}`;
+  };
+  const paint = () => {
+    dd.innerHTML = items.map((it, i) =>
+      `<button type="button" class="sg-item${i === active ? " on" : ""}" data-i="${i}"><span class="sg-t">${esc(it.label)}</span><span class="sg-s">${esc(it.sub)}</span></button>`
+    ).join("");
+    dd.querySelectorAll(".sg-item").forEach(b => {
+      b.addEventListener("mousedown", e => { e.preventDefault(); go(items[+b.dataset.i]); });
+      b.addEventListener("mouseenter", () => { active = +b.dataset.i; paint(); });
+    });
+  };
+  const run = async q => {
+    try {
+      const pat = `ilike.*${encodeURIComponent(q)}*`;
+      const [as, rs] = await Promise.all([
+        api(`artists?select=id,canonical_name&canonical_name=${pat}&order=canonical_name&limit=5`),
+        api(`releases?select=id,title,release_year,artists(canonical_name)&title=${pat}&order=title&limit=5`)
+      ]);
+      items = [
+        ...(as || []).map(a => ({ kind: "artist", id: a.id, label: a.canonical_name, sub: "Artist" })),
+        ...(rs || []).map(r => ({ kind: "release", id: r.id, label: r.title, sub: `${(r.artists && r.artists.canonical_name) || ""}${r.release_year ? ` · ${r.release_year}` : ""}`.trim() || "Release" }))
+      ];
+      active = -1;
+      paint();
+      dd.hidden = items.length === 0;
+    } catch { close(); }
+  };
+  input.addEventListener("input", () => {
+    clearTimeout(timer);
+    const q = input.value.trim();
+    if (q.length < 2) { close(); return; }
+    timer = setTimeout(() => run(q), 220);
+  });
+  input.addEventListener("keydown", e => {
+    if (dd.hidden || !items.length) return;
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault();
+      active = (active + (e.key === "ArrowDown" ? 1 : -1) + items.length) % items.length;
+      paint();
+    } else if (e.key === "Enter" && active >= 0) {
+      e.preventDefault();
+      go(items[active]);
+    } else if (e.key === "Escape") close();
+  });
+  input.addEventListener("blur", () => setTimeout(close, 150));
 }
 
 /* ----------------------------------------------------------------- router */

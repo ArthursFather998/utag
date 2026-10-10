@@ -749,6 +749,49 @@ async function vActivity() {
     document.querySelectorAll("[data-cancel]").forEach(b => { b.onclick = () => actCall({ action: "job_cancel", job_id: b.dataset.cancel }, b); });
     const pauseBtn = document.getElementById("act-pause");
     if (pauseBtn) pauseBtn.onclick = () => actCall({ action: "queue_set_paused", paused: pauseBtn.dataset.paused !== "1" }, pauseBtn);
+    const rebootBtn = document.getElementById("act-reboot");
+    if (rebootBtn) rebootBtn.onclick = () => stackReboot(rebootBtn);
+  }
+
+  /* Manual stack reboot: sends a signed command through the relay; the
+     bridge verifies the ticket (password-gated, same as chat) and runs
+     start-stack.sh, reporting back over the relay. */
+  async function stackReboot(btn) {
+    const st = document.getElementById("act-status");
+    if (!fnPw()) { st.textContent = "Unlock with the site password in the Hermes tab first, then reboot."; return; }
+    btn.disabled = true;
+    st.textContent = "Rebooting the stack…";
+    let ws = null;
+    try {
+      const t = await fnCall({ action: "hermes_bridge", room: "stack" });
+      if (!t.ticket || !t.channel) throw new Error("The bridge is not reporting. It may be fully down.");
+      const base = String(t.channel).replace(/^http/, "ws").replace(/\/$/, "");
+      ws = new WebSocket(`${base}/ws`);
+      const done = await new Promise((resolve, reject) => {
+        const to = setTimeout(() => reject(new Error("The bridge did not answer. It may be fully down and unable to hear the command.")), 90000);
+        ws.onopen = () => {
+          ws.send(JSON.stringify({ type: "auth", room: "stack", ticket: t.ticket }));
+          ws.send(JSON.stringify({ type: "chat_start", text: "reboot", ticket: t.ticket }));
+        };
+        ws.onmessage = (ev) => {
+          let m;
+          try { m = JSON.parse(ev.data); } catch (e) { return; }
+          if (m && m.room === "stack" && m.data) {
+            const d = m.data;
+            if (d.type === "status") st.textContent = d.text || "Rebooting…";
+            else if (d.type === "result") { clearTimeout(to); resolve(d.text); }
+            else if (d.type === "error") { clearTimeout(to); reject(new Error(d.text)); }
+          }
+        };
+        ws.onerror = () => { clearTimeout(to); reject(new Error("The relay connection hit an error.")); };
+      });
+      st.textContent = done || "Stack rebooted.";
+    } catch (e) {
+      st.textContent = `Reboot failed: ${e.message}`;
+    } finally {
+      btn.disabled = false;
+      if (ws) { try { ws.close(); } catch (e) {} }
+    }
   }
 
   function proposalCard(p) {
@@ -798,6 +841,7 @@ async function vActivity() {
       <span>${stale ? "Hermes stack looks down (no heartbeat). His workers may need a restart." : "Hermes is up."}</span>
       <span class="muted-note">Heartbeat ${agoText(ctrl.heartbeat_at)}${ctrl.paused ? " · Queue paused by you" : ""}</span>
       <button class="mini-btn" type="button" id="act-pause" data-paused="${ctrl.paused ? "1" : "0"}">${ctrl.paused ? "Resume queue" : "Pause queue"}</button>
+      <button class="mini-btn" type="button" id="act-reboot">Reboot stack</button>
       <a class="mini-btn act-link" href="#/hermes">Talk to Hermes</a>`;
 
     const pending = (props || []).filter(p => p.status === "pending");

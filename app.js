@@ -1317,13 +1317,20 @@ function attachSuggest(input) {
   };
   const paint = () => {
     dd.innerHTML = items.map((it, i) =>
-      `<button type="button" class="sg-item${i === active ? " on" : ""}" data-i="${i}"><span class="sg-t">${esc(it.label)}</span><span class="sg-s">${esc(it.sub)}</span></button>`
+      `<button type="button" class="sg-item" data-i="${i}"><span class="sg-t">${esc(it.label)}</span><span class="sg-s">${esc(it.sub)}</span></button>`
     ).join("");
     dd.querySelectorAll(".sg-item").forEach(b => {
-      b.addEventListener("mousedown", e => { e.preventDefault(); go(items[+b.dataset.i]); });
-      b.addEventListener("mouseenter", () => { active = +b.dataset.i; paint(); });
+      b.addEventListener("click", () => go(items[+b.dataset.i]));
+      b.addEventListener("mouseenter", () => { active = +b.dataset.i; mark(); });
     });
+    mark();
   };
+  const mark = () => {
+    dd.querySelectorAll(".sg-item").forEach((b, i) => b.classList.toggle("on", i === active));
+  };
+  /* Keep focus in the input while interacting with the dropdown, so a
+     mousedown never blurs (and the click always lands). */
+  dd.addEventListener("mousedown", e => e.preventDefault());
   const run = async q => {
     try {
       const pat = `ilike.*${encodeURIComponent(q)}*`;
@@ -1351,7 +1358,7 @@ function attachSuggest(input) {
     if (e.key === "ArrowDown" || e.key === "ArrowUp") {
       e.preventDefault();
       active = (active + (e.key === "ArrowDown" ? 1 : -1) + items.length) % items.length;
-      paint();
+      mark();
     } else if (e.key === "Enter" && active >= 0) {
       e.preventDefault();
       go(items[active]);

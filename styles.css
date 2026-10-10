@@ -360,6 +360,21 @@ table.tracks tr:last-child td { border-bottom: none; }
 }
 .msg-user { background: var(--raise); justify-self: end; }
 .msg-assistant { background: transparent; justify-self: stretch; max-width: 100%; padding: 2px 4px; }
+.msg-typing { min-height: 24px; display: flex; align-items: center; }
+.typing-dots { display: inline-flex; align-items: center; gap: 5px; padding: 3px 1px; }
+.typing-dots span {
+  width: 7px; height: 7px; border-radius: 999px; background: var(--dim);
+  opacity: .35; animation: typing-dot 1.15s ease-in-out infinite;
+}
+.typing-dots span:nth-child(2) { animation-delay: .14s; }
+.typing-dots span:nth-child(3) { animation-delay: .28s; }
+@keyframes typing-dot {
+  0%, 60%, 100% { transform: translateY(0); opacity: .35; }
+  30% { transform: translateY(-4px); opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .typing-dots span { animation: none; opacity: .6; }
+}
 
 .chat-form {
   display: flex;

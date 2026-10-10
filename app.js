@@ -820,10 +820,13 @@ async function vHermesDirect() {
   let msgs = [];
   try { msgs = JSON.parse(localStorage.getItem(storeKey()) || "[]"); } catch (e) { msgs = []; }
 
-  function render(draft) {
-    const list = draft ? [...msgs, { role: "assistant", content: draft, draft: true }] : msgs;
+  function render(draft, typing = false) {
+    const list = draft ? [...msgs, { role: "assistant", content: draft, draft: true }] : [...msgs];
+    if (typing && !draft) list.push({ role: "assistant", typing: true });
     shell.classList.toggle("has-msgs", list.length > 0);
-    log.innerHTML = list.map(m => `<div class="msg msg-${m.role === "user" ? "user" : "assistant"}">${esc(m.content)}${m.draft ? ` <span class="draft-dot">…</span>` : ""}</div>`).join("");
+    log.innerHTML = list.map(m => m.typing
+      ? `<div class="msg msg-assistant msg-typing" role="status" aria-label="Hermes is typing"><span class="typing-dots" aria-hidden="true"><span></span><span></span><span></span></span></div>`
+      : `<div class="msg msg-${m.role === "user" ? "user" : "assistant"}">${esc(m.content)}${m.draft ? ` <span class="draft-dot">…</span>` : ""}</div>`).join("");
     log.lastElementChild && log.lastElementChild.scrollIntoView({ block: "end" });
   }
   function save() {
@@ -840,7 +843,7 @@ async function vHermesDirect() {
   let activeRun = null;
   async function ensureRelay() {
     if (rtSocket && rtSocket.readyState === 1 && rtTicket && rtTicket.exp * 1000 - Date.now() > 60000) return rtTicket;
-    status.textContent = "Opening the direct line to Hermes…";
+    status.textContent = "";
     try {
       const t = await getRelayTicket(session);
       rtTicket = t;
@@ -855,21 +858,21 @@ async function vHermesDirect() {
         };
         rtSocket.onclose = () => { rtSocket = null; };
         await new Promise((resolve, reject) => {
-          const to = setTimeout(() => reject(new Error("The direct line timed out. Try again.")), 15000);
+          const to = setTimeout(() => reject(new Error("The connection timed out. Try again.")), 15000);
           rtSocket.onopen = () => {
             clearTimeout(to);
             rtSocket.send(JSON.stringify({ type: "auth", room: session, ticket: t.ticket }));
             resolve();
           };
-          rtSocket.onerror = () => { clearTimeout(to); reject(new Error("The direct line hit an error. Try again.")); };
+          rtSocket.onerror = () => { clearTimeout(to); reject(new Error("The connection hit an error. Try again.")); };
         });
       }
-      status.textContent = "Connected to Hermes directly. His work shows up in Activity.";
+      status.textContent = "";
       return t;
     } catch (e) {
       status.textContent = /not reporting|404|Unknown action/i.test(e.message || "")
         ? "Direct Hermes is not switched on yet. It needs the one-time backend update (new SQL plus the control function redeploy), then this tab talks to him live with nothing in between."
-        : `Could not reach Hermes directly: ${e.message}. Check the Activity tab for his status.`;
+        : `Could not reach Hermes: ${e.message}. Check the Activity tab for his status.`;
       throw e;
     }
   }
@@ -936,13 +939,10 @@ async function vHermesDirect() {
     msgs.push({ role: "user", content });
     save();
     let draft = "";
-    render(draft);
-    const t0 = Date.now();
+    status.textContent = "";
+    render(draft, true);
     clearInterval(chatTimer);
-    chatTimer = setInterval(() => {
-      const s = Math.round((Date.now() - t0) / 1000);
-      if (running) status.textContent = `Hermes is working… ${s}s`;
-    }, 1000);
+    chatTimer = null;
     try {
       await new Promise((resolve, reject) => {
         let settled = false;
@@ -959,21 +959,21 @@ async function vHermesDirect() {
         activeRun = (m) => {
           if (!m) return;
           if (m.type === "text") { draft += m.text || ""; render(draft); }
-          else if (m.type === "tool_use") status.textContent = `Hermes is using ${m.name || "a tool"}…`;
-          else if (m.type === "tool_result" && m.is_error) status.textContent = `A tool hit an error (${m.name || "tool"}). Hermes is working around it…`;
+          else if (m.type === "tool_use") { if (!draft) render(draft, true); }
+          else if (m.type === "tool_result" && m.is_error) { if (!draft) render(draft, true); }
           else if (m.type === "error") { draft = draft || m.text || "Hermes hit an error."; done(new Error(m.text || "Hermes hit an error.")); }
           else if (m.type === "result") { if (m.text) draft = m.text; done(); }
         };
         try {
           rtSocket.send(JSON.stringify({ type: "chat_start", text: content, ticket: ticket.ticket }));
         } catch (e) {
-          done(new Error(`The direct line could not send that: ${e.message}`));
+          done(new Error(`That message could not send: ${e.message}`));
         }
       });
       msgs.push({ role: "assistant", content: draft || "(no answer)" });
       save();
       render();
-      status.textContent = "Hermes answered directly. His work also shows in Activity.";
+      status.textContent = "";
     } catch (err) {
       msgs.push({ role: "assistant", content: draft ? `${draft}\n\n(${err.message})` : `Hermes could not answer: ${err.message}` });
       save();

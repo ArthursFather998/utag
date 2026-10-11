@@ -62,19 +62,28 @@ function artUrl(a) {
 }
 
 async function api(path, opts = {}) {
-  const headers = { apikey: KEY, Authorization: `Bearer ${KEY}`, Accept: "application/json" };
+  const userTok = (authSession() || {}).access_token;
+  const headers = { apikey: KEY, Authorization: `Bearer ${userTok || KEY}`, Accept: "application/json" };
   if (opts.count) {
     headers.Prefer = "count=exact";
     headers.Range = "0-0";
     headers["Range-Unit"] = "items";
   }
-  const res = await fetch(`${BASE}/${path}`, { headers });
-  if (!res.ok) throw new Error(`Database read failed (${res.status})`);
+  const fetchOpts = { headers };
+  if (opts.method) {
+    fetchOpts.method = opts.method;
+    headers["Content-Type"] = "application/json";
+    if (opts.body !== undefined) fetchOpts.body = JSON.stringify(opts.body);
+    if (opts.method === "POST") headers.Prefer = "return=representation";
+  }
+  const res = await fetch(`${BASE}/${path}`, fetchOpts);
+  if (!res.ok) throw new Error(`Database ${opts.method || "read"} failed (${res.status})`);
   if (opts.count) {
     const total = parseInt((res.headers.get("content-range") || "").split("/")[1], 10);
     return isNaN(total) ? 0 : total;
   }
-  return res.json();
+  const text = await res.text();
+  return text ? JSON.parse(text) : null;
 }
 
 const count = (table, filter = "") => api(`${table}?select=id${filter}`, { count: true });
@@ -138,11 +147,72 @@ const CONF_OPTS = ["verified", "high_confidence", "needs_review", "conflicting",
 
 function fnPw() { return sessionStorage.getItem("utag_pw") || ""; }
 
+/* --------------------------------------------------------------- auth */
+/* Admin sign-in via Supabase Auth. The session persists in localStorage,
+   so there is no password to re-enter: you are signed in or you are not,
+   and the UI always shows which. */
+
+const AUTH_KEY = "utag_admin_session";
+
+async function authSignIn(email, password) {
+  const res = await fetch(`${cfg.SUPABASE_URL}/auth/v1/token?grant_type=password`, {
+    method: "POST",
+    headers: { apikey: KEY, "Content-Type": "application/json" },
+    body: JSON.stringify({ email, password }),
+  });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(data.error_description || data.msg || "Sign in failed");
+  localStorage.setItem(AUTH_KEY, JSON.stringify({
+    access_token: data.access_token,
+    refresh_token: data.refresh_token,
+    expires_at: Date.now() + (data.expires_in * 1000),
+    email: (data.user && data.user.email) || email,
+  }));
+  return data;
+}
+
+function authSession() {
+  try { return JSON.parse(localStorage.getItem(AUTH_KEY) || "null"); }
+  catch (e) { return null; }
+}
+
+function isAuthed() { return !!authSession(); }
+
+function authSignOut() { localStorage.removeItem(AUTH_KEY); }
+
+/* Returns a fresh access token, refreshing the session when needed.
+   Returns null when not signed in. */
+async function authEnsure() {
+  const s = authSession();
+  if (!s) return null;
+  if (s.expires_at - Date.now() > 60000) return s.access_token;
+  try {
+    const res = await fetch(`${cfg.SUPABASE_URL}/auth/v1/token?grant_type=refresh_token`, {
+      method: "POST",
+      headers: { apikey: KEY, "Content-Type": "application/json" },
+      body: JSON.stringify({ refresh_token: s.refresh_token }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error("refresh failed");
+    localStorage.setItem(AUTH_KEY, JSON.stringify({
+      access_token: data.access_token,
+      refresh_token: data.refresh_token,
+      expires_at: Date.now() + (data.expires_in * 1000),
+      email: s.email,
+    }));
+    return data.access_token;
+  } catch (e) {
+    localStorage.removeItem(AUTH_KEY);
+    return null;
+  }
+}
+
 async function fnCall(payload) {
+  const token = await authEnsure();
   const res = await fetch(FN, {
     method: "POST",
     headers: { "Content-Type": "application/json", Authorization: `Bearer ${KEY}`, apikey: KEY },
-    body: JSON.stringify({ password: fnPw(), ...payload })
+    body: JSON.stringify({ auth_token: token || undefined, ...payload })
   });
   const data = await res.json().catch(() => ({}));
   if (!res.ok || !data.ok) throw new Error(data.error || `HTTP ${res.status}`);
@@ -150,12 +220,11 @@ async function fnCall(payload) {
 }
 
 function pwFieldHTML() {
-  return fnPw() ? "" : `<label class="ef-field ef-wide"><span>Site password (needed to save)</span><input type="password" data-pw autocomplete="current-password"></label>`;
+  return "";
 }
 
 function grabPw(root) {
-  const el = root.querySelector("[data-pw]");
-  if (el && el.value.trim()) sessionStorage.setItem("utag_pw", el.value.trim());
+  /* No-op: admin auth is a persistent sign-in now, not a per-form password. */
 }
 
 async function saveEdits(root, entityType, entityId, fields, conf) {
@@ -659,7 +728,7 @@ async function vReview() {
 
   document.querySelectorAll("[data-qc]").forEach(b => b.addEventListener("click", async () => {
     const st = document.getElementById("review-status");
-    if (!fnPw()) { st.textContent = "Unlock with the site password in the Hermes tab first, then set confidence here."; return; }
+    if (!isAuthed()) { st.textContent = "Sign in on the Hermes tab first, then set confidence here."; return; }
     b.disabled = true;
     try {
       await fnCall({ action: "set_confidence", entity_type: b.dataset.qe, entity_id: b.dataset.qid, confidence: b.dataset.qc });
@@ -731,7 +800,7 @@ async function vActivity() {
   const setStatus = t => { statusEl.textContent = t || ""; };
 
   async function actCall(payload, btn) {
-    if (!fnPw()) { setStatus("Unlock with the site password in the Hermes tab first, then come back to approve."); return; }
+    if (!isAuthed()) { setStatus("Sign in on the Hermes tab first, then come back to approve."); return; }
     if (btn) btn.disabled = true;
     try {
       await fnCall(payload);
@@ -758,7 +827,7 @@ async function vActivity() {
      start-stack.sh, reporting back over the relay. */
   async function stackReboot(btn) {
     const st = document.getElementById("act-status");
-    if (!fnPw()) { st.textContent = "Unlock with the site password in the Hermes tab first, then reboot."; return; }
+    if (!isAuthed()) { st.textContent = "Sign in on the Hermes tab first, then reboot."; return; }
     btn.disabled = true;
     st.textContent = "Rebooting the stack…";
     let ws = null;
@@ -895,26 +964,33 @@ async function getRelayTicket(room) {
 
 async function vHermesDirect() {
   setNav("hermes");
-  const pw = fnPw();
+  const authed = isAuthed();
+  const sess = authSession();
   view.innerHTML = `
     <div class="chat-shell" id="chat-shell">
       <div class="chat-log" id="chat-log"></div>
       <div class="chat-hero" id="chat-hero">
         <h1 class="chat-title">Good to see you.</h1>
       </div>
-      ${pw ? "" : `
+      ${authed ? `
+      <details class="thread-drawer" id="thread-drawer">
+        <summary><span>Chats</span><span class="muted-note" id="thread-count"></span><span class="thread-signout"><button class="mini-btn" type="button" id="auth-signout">Sign out${sess && sess.email ? ` (${esc(sess.email)})` : ""}</button></span></summary>
+        <div class="thread-list" id="thread-list"><p class="empty-note">Loading…</p></div>
+      </details>` : `
       <div class="ref chat-gate">
-        <div class="rb">Enter the site password to unlock.</div>
-        <form class="pw-row" id="pw-form" style="margin-top:10px">
-          <input type="password" id="pw-input" placeholder="Site password" autocomplete="current-password">
-          <button class="btn" type="submit">Unlock</button>
+        <div class="rb">Sign in as admin to talk to Hermes.</div>
+        <form class="pw-row" id="auth-form" style="margin-top:10px">
+          <input type="email" id="auth-email" placeholder="Email" autocomplete="username">
+          <input type="password" id="auth-pass" placeholder="Password" autocomplete="current-password">
+          <button class="btn" type="submit">Sign in</button>
         </form>
+        <p class="empty-note" id="auth-status"></p>
       </div>`}
       <form class="chat-form" id="chat-form">
-        <button class="chat-plus" type="button" id="chat-upload" title="Upload an audio file to UTAG" ${pw ? "" : "disabled"}>+</button>
+        <button class="chat-plus" type="button" id="chat-upload" title="Upload an audio file to UTAG" ${authed ? "" : "disabled"}>+</button>
         <input type="file" id="chat-file" accept="audio/*" hidden>
-        <input type="text" id="chat-input" placeholder="Ask Hermes…" autocomplete="off" ${pw ? "" : "disabled"}>
-        <button class="chat-send" type="submit" id="chat-send" ${pw ? "" : "disabled"} aria-label="Send">&uarr;</button>
+        <input type="text" id="chat-input" placeholder="Ask Hermes…" autocomplete="off" ${authed ? "" : "disabled"}>
+        <button class="chat-send" type="submit" id="chat-send" ${authed ? "" : "disabled"} aria-label="Send">&uarr;</button>
       </form>
       <div class="chat-pills">
         <button class="pill" type="button" data-prompt="What is in the UTAG database right now?">What&rsquo;s in the database?</button>
@@ -925,12 +1001,21 @@ async function vHermesDirect() {
       <p class="empty-note chat-status" id="chat-status"></p>
     </div>`;
 
-  const pwForm = document.getElementById("pw-form");
-  if (pwForm) {
-    pwForm.addEventListener("submit", e => {
+  const authForm = document.getElementById("auth-form");
+  if (authForm) {
+    authForm.addEventListener("submit", async e => {
       e.preventDefault();
-      const v = document.getElementById("pw-input").value.trim();
-      if (v) { sessionStorage.setItem("utag_pw", v); vHermesDirect(); }
+      const st = document.getElementById("auth-status");
+      st.textContent = "Signing in…";
+      try {
+        await authSignIn(
+          document.getElementById("auth-email").value.trim(),
+          document.getElementById("auth-pass").value
+        );
+        vHermesDirect();
+      } catch (err) {
+        st.textContent = `Sign in failed: ${err.message}`;
+      }
     });
     return;
   }
@@ -941,14 +1026,14 @@ async function vHermesDirect() {
   const input = document.getElementById("chat-input");
   const send = document.getElementById("chat-send");
 
-  let session = localStorage.getItem("utag_direct_session") || "";
-  if (!session) {
-    session = `web-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
-    localStorage.setItem("utag_direct_session", session);
-  }
-  const storeKey = () => `utag_direct_msgs_${session}`;
+  document.getElementById("auth-signout").addEventListener("click", () => {
+    authSignOut();
+    vHermesDirect();
+  });
+
+  /* ------------------------- threads ------------------------- */
+  let threadId = localStorage.getItem("utag_thread_id") || "";
   let msgs = [];
-  try { msgs = JSON.parse(localStorage.getItem(storeKey()) || "[]"); } catch (e) { msgs = []; }
 
   function msgHTML(m) {
     return `<div class="msg msg-${m.role === "user" ? "user" : "assistant"}">${esc(m.content)}</div>`;
@@ -998,12 +1083,69 @@ async function vHermesDirect() {
     if (on && !t) { log.insertAdjacentHTML("beforeend", typingHTML); stickToBottom(); }
     else if (!on && t) t.remove();
   }
-  renderAll();
+
+  async function loadThreads() {
+    const list = document.getElementById("thread-list");
+    const count = document.getElementById("thread-count");
+    try {
+      const rows = await api("hermes_threads?select=id,title,updated_at&order=updated_at.desc&limit=50");
+      count.textContent = rows.length ? `${rows.length}` : "";
+      list.innerHTML = rows.length ? rows.map(t => `
+        <button class="thread-row${t.id === threadId ? " active" : ""}" type="button" data-thread="${esc(t.id)}">
+          <span class="t">${esc(t.title || "New chat")}</span>
+          <span class="s">${esc(fmtDate(t.updated_at))}</span>
+        </button>`).join("") : `<p class="empty-note">No chats yet.</p>`;
+      list.querySelectorAll("[data-thread]").forEach(b => {
+        b.onclick = () => openThread(b.dataset.thread);
+      });
+      return rows;
+    } catch (e) {
+      list.innerHTML = `<p class="empty-note">Could not load chats.</p>`;
+      return [];
+    }
+  }
+
+  async function openThread(id) {
+    threadId = id;
+    localStorage.setItem("utag_thread_id", id);
+    try {
+      msgs = await api(`hermes_messages?select=role,content&thread_id=eq.${id}&order=created_at.asc&limit=200`);
+    } catch (e) { msgs = []; }
+    renderAll();
+    loadThreads();
+    document.getElementById("thread-drawer").open = false;
+    input.focus();
+  }
+
+  async function newThread() {
+    try {
+      const rows = await api("hermes_threads", { method: "POST", body: { title: "New chat" } });
+      const t = rows && rows[0];
+      if (!t) throw new Error("no row");
+      await openThread(t.id);
+      status.textContent = "Fresh conversation started.";
+    } catch (e) {
+      status.textContent = "Could not start a new chat.";
+    }
+  }
+
+  async function saveMsg(role, content) {
+    if (!threadId) return;
+    try {
+      await api("hermes_messages", { method: "POST", body: { thread_id: threadId, role, content } });
+      const patch = { updated_at: new Date().toISOString() };
+      if (role === "user" && msgs.filter(m => m.role === "user").length <= 1) {
+        patch.title = content.slice(0, 60);
+      }
+      await api(`hermes_threads?id=eq.${threadId}`, { method: "PATCH", body: patch });
+    } catch (e) { /* history is best-effort; the chat itself matters more */ }
+  }
 
   /* Direct line: this tab holds a live WebSocket to the UTAG relay and
      Hermes answers through it in real time (no tunnel, no middleman
      queue). The control function hands out a short-lived signed ticket
-     per room after the password check. */
+     per room after the admin check. The room is the thread id, so the
+     bridge keeps one agent session per thread. */
   let rtSocket = null;
   let rtTicket = null;
   let activeRun = null;
@@ -1011,7 +1153,7 @@ async function vHermesDirect() {
     if (rtSocket && rtSocket.readyState === 1 && rtTicket && rtTicket.exp * 1000 - Date.now() > 60000) return rtTicket;
     status.textContent = "";
     try {
-      const t = await getRelayTicket(session);
+      const t = await getRelayTicket(threadId);
       rtTicket = t;
       if (!rtSocket || rtSocket.readyState !== 1) {
         const base = String(t.channel || "").replace(/^http/, "ws").replace(/\/$/, "");
@@ -1020,14 +1162,14 @@ async function vHermesDirect() {
         rtSocket.onmessage = (ev) => {
           let m;
           try { m = JSON.parse(ev.data); } catch (err) { return; }
-          if (m && m.room === session && activeRun) activeRun(m.data);
+          if (m && m.room === threadId && activeRun) activeRun(m.data);
         };
         rtSocket.onclose = () => { rtSocket = null; };
         await new Promise((resolve, reject) => {
           const to = setTimeout(() => reject(new Error("The connection timed out. Try again.")), 15000);
           rtSocket.onopen = () => {
             clearTimeout(to);
-            rtSocket.send(JSON.stringify({ type: "auth", room: session, ticket: t.ticket }));
+            rtSocket.send(JSON.stringify({ type: "auth", room: threadId, ticket: t.ticket }));
             resolve();
           };
           rtSocket.onerror = () => { clearTimeout(to); reject(new Error("The connection hit an error. Try again.")); };
@@ -1037,7 +1179,7 @@ async function vHermesDirect() {
       return t;
     } catch (e) {
       status.textContent = /not reporting|404|Unknown action/i.test(e.message || "")
-        ? "Direct Hermes is not switched on yet. It needs the one-time backend update (new SQL plus the control function redeploy), then this tab talks to him live with nothing in between."
+        ? "Direct Hermes is not switched on yet. Check the Activity tab for his status."
         : `Could not reach Hermes: ${e.message}. Check the Activity tab for his status.`;
       throw e;
     }
@@ -1083,30 +1225,25 @@ async function vHermesDirect() {
       else if (p.dataset.prefill) { input.value = p.dataset.prefill; input.focus(); }
     });
   });
-  document.getElementById("chat-new").addEventListener("click", () => {
-    session = `web-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
-    localStorage.setItem("utag_direct_session", session);
-    msgs = [];
-    renderAll();
-    status.textContent = "Fresh conversation started.";
-    input.focus();
-  });
+  document.getElementById("chat-new").addEventListener("click", newThread);
 
   let running = false;
   document.getElementById("chat-form").addEventListener("submit", async e => {
     e.preventDefault();
     const content = input.value.trim();
     if (!content || running) return;
+    if (!threadId) await newThread();
+    if (!threadId) return;
     let ticket;
     try { ticket = await ensureRelay(); } catch (err) { return; }
     running = true;
     send.disabled = true;
     input.value = "";
     msgs.push({ role: "user", content });
-    save();
+    renderAll();
+    saveMsg("user", content);
     let draft = "";
     status.textContent = "";
-    renderAll();
     setTyping(true);
     clearInterval(chatTimer);
     chatTimer = null;
@@ -1138,13 +1275,13 @@ async function vHermesDirect() {
         }
       });
       msgs.push({ role: "assistant", content: draft || "(no answer)" });
-      save();
       renderAll();
+      saveMsg("assistant", draft || "(no answer)");
       status.textContent = "";
     } catch (err) {
       msgs.push({ role: "assistant", content: draft ? `${draft}\n\n(${err.message})` : `Hermes could not answer: ${err.message}` });
-      save();
       renderAll();
+      saveMsg("assistant", draft ? `${draft}\n\n(${err.message})` : `Hermes could not answer: ${err.message}`);
       status.textContent = err.message;
     } finally {
       running = false;
@@ -1152,9 +1289,21 @@ async function vHermesDirect() {
       clearInterval(chatTimer);
       chatTimer = null;
       input.focus();
+      loadThreads();
     }
   });
+
+  /* Boot: load threads, open the last one (or start fresh). */
+  const threads = await loadThreads();
+  if (threadId && threads.some(t => t.id === threadId)) {
+    await openThread(threadId);
+  } else if (threads.length) {
+    await openThread(threads[0].id);
+  } else {
+    await newThread();
+  }
 }
+
 
 /* ----------------------------------------------------------------- hermes */
 

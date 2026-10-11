@@ -1,14 +1,16 @@
 // UTAG control-center write path (Supabase Edge Function)
 //
 // The public site is read-only (anon key + RLS). Every write from the
-// control center goes through this function, gated by a site password
-// held in the SITE_PASSWORD function secret. Writes use the service role,
-// which Supabase injects automatically as SUPABASE_SERVICE_ROLE_KEY.
+// control center goes through this function, gated by admin auth:
+// either a Supabase Auth JWT for a user whose user_metadata has
+// is_admin=true, or the SITE_PASSWORD function secret as a fallback.
+// Writes use the service role, which Supabase injects automatically
+// as SUPABASE_SERVICE_ROLE_KEY.
 //
-// Deploy (dashboard): Edge Functions -> Create function "utag-control",
-// paste this file, set the SITE_PASSWORD secret, deploy.
+// Deploy (dashboard): Edge Functions -> open "utag-control", paste this
+// file, keep the SITE_PASSWORD secret set, deploy.
 //
-// Request: POST JSON { password, action, ... }
+// Request: POST JSON { auth_token?, password?, action, ... }
 // Actions:
 //   correct          { entity_type, entity_id, field, new_value, note? }
 //                    -> inserts a corrections row (human ruling) and applies
@@ -17,6 +19,11 @@
 //                    -> sets confidence (and status) on the entity.
 //   resolve_verification { verification_id, status }
 //                    -> marks a verification run verified / needs_review / conflicting.
+//   hermes_bridge    { room }
+//                    -> mints a short-lived relay ticket (HMAC with the bridge
+//                       token from the hermes_bridge table).
+//   proposal_approve / proposal_reject / job_retry / job_cancel / queue_set_paused
+//                    -> Activity tab controls.
 // Response: JSON { ok: true, ... } or { ok: false, error }
 
 import { createClient } from "jsr:@supabase/supabase-js@2";
@@ -66,8 +73,30 @@ Deno.serve(async (req) => {
   }
 
   const sitePassword = Deno.env.get("SITE_PASSWORD") || "";
-  if (!sitePassword || body.password !== sitePassword) {
-    return json({ ok: false, error: "Wrong password" }, 401);
+
+  // Admin gate: a Supabase Auth JWT for an is_admin user, or the site
+  // password as a fallback. The JWT is verified against the Auth API so
+  // a stolen anon key alone is never enough.
+  async function checkAdmin(): Promise<boolean> {
+    if (sitePassword && body.password === sitePassword) return true;
+    const token = String(body.auth_token || "");
+    if (!token) return false;
+    try {
+      const url = Deno.env.get("SUPABASE_URL")!;
+      const key = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
+      const res = await fetch(`${url}/auth/v1/user`, {
+        headers: { apikey: key, Authorization: `Bearer ${token}` },
+      });
+      if (!res.ok) return false;
+      const user = await res.json();
+      return user?.user_metadata?.is_admin === true;
+    } catch {
+      return false;
+    }
+  }
+
+  if (!(await checkAdmin())) {
+    return json({ ok: false, error: "Not signed in as admin" }, 401);
   }
 
   const supabase = createClient(

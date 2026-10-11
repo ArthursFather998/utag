@@ -24,6 +24,9 @@
 //                       token from the hermes_bridge table).
 //   proposal_approve / proposal_reject / job_retry / job_cancel / queue_set_paused
 //                    -> Activity tab controls.
+//   delete_upload    { upload_id }
+//                    -> deletes an uploaded audio file (storage + row).
+//                      Refused while Hermes is processing it.
 // Response: JSON { ok: true, ... } or { ok: false, error }
 
 import { createClient } from "jsr:@supabase/supabase-js@2";
@@ -356,6 +359,22 @@ Deno.serve(async (req) => {
         message: paused ? "You paused Hermes's queue" : "You resumed Hermes's queue", details: {},
       });
       return json({ ok: true, action, paused });
+    }
+
+    if (action === "delete_upload") {
+      const uploadId = String(body.upload_id || "");
+      if (!uploadId) return json({ ok: false, error: "Missing upload_id" }, 400);
+      const { data: row, error: readErr } = await supabase
+        .from("uploads").select("id, storage_path, file_name, status").eq("id", uploadId).single();
+      if (readErr || !row) return json({ ok: false, error: "Upload not found" }, 404);
+      if (row.status === "processing") {
+        return json({ ok: false, error: "Hermes is working on this file right now. Try again in a minute." }, 409);
+      }
+      const { error: storErr } = await supabase.storage.from("uploads").remove([row.storage_path]);
+      if (storErr) throw storErr;
+      const { error: delErr } = await supabase.from("uploads").delete().eq("id", uploadId);
+      if (delErr) throw delErr;
+      return json({ ok: true, action, file_name: row.file_name });
     }
 
     return json({ ok: false, error: `Unknown action: ${action}` }, 400);

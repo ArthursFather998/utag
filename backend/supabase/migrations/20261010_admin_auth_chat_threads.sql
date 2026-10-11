@@ -41,3 +41,9 @@ create policy "admin all" on hermes_messages for all
 
 create index if not exists hermes_messages_thread_idx
   on hermes_messages(thread_id, created_at);
+
+-- Admins can list uploaded audio files (for Files & documents).
+drop policy if exists "admin can read uploads" on public.uploads;
+create policy "admin can read uploads"
+  on public.uploads for select
+  using ((auth.jwt() -> 'user_metadata' ->> 'is_admin') = 'true');

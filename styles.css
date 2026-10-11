@@ -668,6 +668,68 @@ img.iv.err { opacity: 0; }
 .thread-row .t { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .thread-row .s { font-family: var(--mono); font-size: 11px; color: var(--dim); flex-shrink: 0; }
 
+/* Hermes sidebar layout */
+.chat-layout { display: flex; gap: 0; align-items: stretch; }
+.chat-side {
+  width: 264px; flex-shrink: 0;
+  border-right: 1px solid var(--hair);
+  display: flex; flex-direction: column;
+  min-height: 60vh; max-height: calc(100vh - 140px);
+  position: sticky; top: 12px;
+}
+.side-top { display: flex; gap: 8px; padding: 4px 12px 12px 0; align-items: center; }
+.side-new { flex: 1; }
+.side-toggle {
+  background: none; border: 1px solid var(--hair); color: var(--dim);
+  width: 30px; height: 30px; cursor: pointer; font-size: 15px; line-height: 1;
+  flex-shrink: 0;
+}
+.side-toggle:hover { color: var(--ink); border-color: var(--dim); }
+.side-open {
+  position: absolute; left: 0; top: 0; z-index: 5;
+}
+.chat-main { flex: 1; min-width: 0; position: relative; padding-left: 24px; }
+.chat-layout.side-collapsed .chat-side { display: none; }
+.chat-layout.side-collapsed .chat-main { padding-left: 40px; }
+.side-section { padding: 12px 12px 12px 0; border-top: 1px solid var(--hair); }
+.side-section h3 {
+  font-family: var(--mono); font-size: 11px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--dim); margin: 0 0 10px; font-weight: 500;
+}
+.side-chats { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+.side-chats .thread-list { overflow-y: auto; }
+.thread-drawer { display: none; }
+.file-list { display: grid; gap: 6px; margin-top: 10px; }
+.file-row {
+  display: flex; align-items: baseline; gap: 8px;
+  border: 1px solid var(--hair-soft); background: var(--surface);
+  padding: 8px 10px; font-size: 13px;
+}
+.file-row .t { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.file-row .s { font-family: var(--mono); font-size: 10px; color: var(--dim); flex-shrink: 0; }
+.file-del {
+  background: none; border: 0; color: var(--dim); cursor: pointer;
+  font-size: 16px; line-height: 1; padding: 2px 4px; flex-shrink: 0;
+}
+.file-del:hover { color: #b00; }
+.side-account {
+  border-top: 1px solid var(--hair); padding: 12px 12px 4px 0;
+  display: flex; align-items: center; gap: 10px;
+}
+.side-email {
+  flex: 1; font-size: 12px; color: var(--dim);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+@media (max-width: 760px) {
+  .chat-side {
+    position: fixed; left: 0; top: 0; bottom: 0; z-index: 40;
+    background: var(--paper); max-height: none; min-height: 0;
+    padding: 12px; box-shadow: 4px 0 24px rgba(0,0,0,0.12);
+  }
+  .chat-layout.side-collapsed .chat-side { display: none; }
+  .chat-main, .chat-layout.side-collapsed .chat-main { padding-left: 0; }
+}
+
 .chat-log { display: grid; gap: 16px; margin: 20px 0 24px; }
 
 .msg {

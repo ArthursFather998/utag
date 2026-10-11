@@ -966,39 +966,59 @@ async function vHermesDirect() {
   setNav("hermes");
   const authed = isAuthed();
   const sess = authSession();
+  const sideCollapsed = localStorage.getItem("utag_side_collapsed") === "1";
   view.innerHTML = `
-    <div class="chat-shell" id="chat-shell">
-      <div class="chat-log" id="chat-log"></div>
-      <div class="chat-hero" id="chat-hero">
-        <h1 class="chat-title">Good to see you.</h1>
-      </div>
+    <div class="chat-layout${sideCollapsed ? " side-collapsed" : ""}" id="chat-layout">
       ${authed ? `
-      <details class="thread-drawer" id="thread-drawer">
-        <summary><span>Chats</span><span class="muted-note" id="thread-count"></span><span class="thread-signout"><button class="mini-btn" type="button" id="auth-signout">Sign out${sess && sess.email ? ` (${esc(sess.email)})` : ""}</button></span></summary>
-        <div class="thread-list" id="thread-list"><p class="empty-note">Loading…</p></div>
-      </details>` : `
-      <div class="ref chat-gate">
-        <div class="rb">Sign in as admin to talk to Hermes.</div>
-        <form class="pw-row" id="auth-form" style="margin-top:10px">
-          <input type="email" id="auth-email" placeholder="Email" autocomplete="username">
-          <input type="password" id="auth-pass" placeholder="Password" autocomplete="current-password">
-          <button class="btn" type="submit">Sign in</button>
-        </form>
-        <p class="empty-note" id="auth-status"></p>
-      </div>`}
-      <form class="chat-form" id="chat-form">
-        <button class="chat-plus" type="button" id="chat-upload" title="Upload an audio file to UTAG" ${authed ? "" : "disabled"}>+</button>
-        <input type="file" id="chat-file" accept="audio/*" hidden>
-        <input type="text" id="chat-input" placeholder="Ask Hermes…" autocomplete="off" ${authed ? "" : "disabled"}>
-        <button class="chat-send" type="submit" id="chat-send" ${authed ? "" : "disabled"} aria-label="Send">&uarr;</button>
-      </form>
-      <div class="chat-pills">
-        <button class="pill" type="button" data-prompt="What is in the UTAG database right now?">What&rsquo;s in the database?</button>
-        <button class="pill" type="button" data-prompt="What in the database still needs review?">What needs review?</button>
-        <button class="pill" type="button" data-prefill="Verify this song: ">Verify a song</button>
-        <button class="pill" type="button" id="chat-new">New chat</button>
+      <aside class="chat-side" id="chat-side" aria-label="Chats and files">
+        <div class="side-top">
+          <button class="btn side-new" type="button" id="side-new">New chat</button>
+          <button class="side-toggle" type="button" id="side-toggle" title="Close sidebar" aria-label="Close sidebar">&laquo;</button>
+        </div>
+        <div class="side-section">
+          <h3>Files &amp; documents</h3>
+          <button class="mini-btn" type="button" id="side-upload">Upload audio</button>
+          <input type="file" id="chat-file" accept="audio/*" hidden>
+          <div class="file-list" id="file-list"><p class="empty-note">Loading…</p></div>
+        </div>
+        <div class="side-section side-chats">
+          <h3>My chats</h3>
+          <div class="thread-list" id="thread-list"><p class="empty-note">Loading…</p></div>
+        </div>
+        <div class="side-account">
+          <span class="side-email" title="${esc(sess && sess.email || "")}">${esc(sess && sess.email || "")}</span>
+          <button class="mini-btn" type="button" id="auth-signout">Sign out</button>
+        </div>
+      </aside>` : ""}
+      <div class="chat-main">
+        ${authed ? `<button class="side-toggle side-open" type="button" id="side-open" title="Open sidebar" aria-label="Open sidebar" ${sideCollapsed ? "" : "hidden"}>&raquo;</button>` : ""}
+        <div class="chat-shell" id="chat-shell">
+          <div class="chat-log" id="chat-log"></div>
+          <div class="chat-hero" id="chat-hero">
+            <h1 class="chat-title">Good to see you.</h1>
+          </div>
+          ${authed ? "" : `
+          <div class="ref chat-gate">
+            <div class="rb">Sign in as admin to talk to Hermes.</div>
+            <form class="pw-row" id="auth-form" style="margin-top:10px">
+              <input type="email" id="auth-email" placeholder="Email" autocomplete="username">
+              <input type="password" id="auth-pass" placeholder="Password" autocomplete="current-password">
+              <button class="btn" type="submit">Sign in</button>
+            </form>
+            <p class="empty-note" id="auth-status"></p>
+          </div>`}
+          <form class="chat-form" id="chat-form">
+            <input type="text" id="chat-input" placeholder="Ask Hermes…" autocomplete="off" ${authed ? "" : "disabled"}>
+            <button class="chat-send" type="submit" id="chat-send" ${authed ? "" : "disabled"} aria-label="Send">&uarr;</button>
+          </form>
+          <div class="chat-pills">
+            <button class="pill" type="button" data-prompt="What is in the UTAG database right now?">What&rsquo;s in the database?</button>
+            <button class="pill" type="button" data-prompt="What in the database still needs review?">What needs review?</button>
+            <button class="pill" type="button" data-prefill="Verify this song: ">Verify a song</button>
+          </div>
+          <p class="empty-note chat-status" id="chat-status"></p>
+        </div>
       </div>
-      <p class="empty-note chat-status" id="chat-status"></p>
     </div>`;
 
   const authForm = document.getElementById("auth-form");
@@ -1025,6 +1045,18 @@ async function vHermesDirect() {
   const shell = document.getElementById("chat-shell");
   const input = document.getElementById("chat-input");
   const send = document.getElementById("chat-send");
+  const layout = document.getElementById("chat-layout");
+
+  /* Sidebar collapse */
+  const sideToggle = document.getElementById("side-toggle");
+  const sideOpen = document.getElementById("side-open");
+  function setCollapsed(c) {
+    localStorage.setItem("utag_side_collapsed", c ? "1" : "0");
+    layout.classList.toggle("side-collapsed", c);
+    if (sideOpen) sideOpen.hidden = !c;
+  }
+  if (sideToggle) sideToggle.addEventListener("click", () => setCollapsed(true));
+  if (sideOpen) sideOpen.addEventListener("click", () => setCollapsed(false));
 
   document.getElementById("auth-signout").addEventListener("click", () => {
     authSignOut();
@@ -1086,10 +1118,8 @@ async function vHermesDirect() {
 
   async function loadThreads() {
     const list = document.getElementById("thread-list");
-    const count = document.getElementById("thread-count");
     try {
       const rows = await api("hermes_threads?select=id,title,updated_at&order=updated_at.desc&limit=50");
-      count.textContent = rows.length ? `${rows.length}` : "";
       list.innerHTML = rows.length ? rows.map(t => `
         <button class="thread-row${t.id === threadId ? " active" : ""}" type="button" data-thread="${esc(t.id)}">
           <span class="t">${esc(t.title || "New chat")}</span>
@@ -1113,7 +1143,6 @@ async function vHermesDirect() {
     } catch (e) { msgs = []; }
     renderAll();
     loadThreads();
-    document.getElementById("thread-drawer").open = false;
     input.focus();
   }
 
@@ -1140,6 +1169,75 @@ async function vHermesDirect() {
       await api(`hermes_threads?id=eq.${threadId}`, { method: "PATCH", body: patch });
     } catch (e) { /* history is best-effort; the chat itself matters more */ }
   }
+
+  /* --------------------- files & documents --------------------- */
+  function fmtSize(n) {
+    n = Number(n) || 0;
+    if (n >= 1048576) return `${(n / 1048576).toFixed(1)} MB`;
+    if (n >= 1024) return `${Math.round(n / 1024)} KB`;
+    return `${n} B`;
+  }
+  async function loadFiles() {
+    const list = document.getElementById("file-list");
+    try {
+      const rows = await api("uploads?select=id,file_name,file_size,status,created_at&order=created_at.desc&limit=30");
+      list.innerHTML = rows.length ? rows.map(f => `
+        <div class="file-row">
+          <span class="t" title="${esc(f.file_name)}">${esc(f.file_name)}</span>
+          <span class="s">${esc(fmtSize(f.file_size))} · ${esc(f.status)}</span>
+          <button class="file-del" type="button" data-del="${esc(f.id)}" title="Delete this file" aria-label="Delete ${esc(f.file_name)}">×</button>
+        </div>`).join("") : `<p class="empty-note">Nothing uploaded yet.</p>`;
+      list.querySelectorAll("[data-del]").forEach(b => {
+        b.onclick = async () => {
+          const name = b.getAttribute("aria-label") || "this file";
+          if (!confirm(`Delete ${name}? This removes the file and its queue entry.`)) return;
+          b.disabled = true;
+          try {
+            await fnCall({ action: "delete_upload", upload_id: b.dataset.del });
+            status.textContent = "File deleted.";
+          } catch (e) {
+            status.textContent = `Could not delete: ${e.message}`;
+          }
+          loadFiles();
+        };
+      });
+    } catch (e) {
+      list.innerHTML = `<p class="empty-note">Could not load files.</p>`;
+    }
+  }
+
+  async function uploadFile(file) {
+    if (file.size > 50 * 1024 * 1024) { status.textContent = "That file is over the 50 MB upload limit."; return; }
+    status.textContent = `Uploading ${file.name}…`;
+    try {
+      const path = `site/${Date.now()}-${file.name.replace(/[^A-Za-z0-9._-]+/g, "_")}`;
+      const up = await fetch(`${(cfg.SUPABASE_URL || "").replace(/\/$/, "")}/storage/v1/object/uploads/${encodeURIComponent(path)}`, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${KEY}`, apikey: KEY, "Content-Type": file.type || "audio/mpeg", "x-upsert": "false" },
+        body: file
+      });
+      if (!up.ok) throw new Error(`storage ${up.status}`);
+      const meta = await api("uploads", {
+        method: "POST",
+        body: { storage_path: path, file_name: file.name, file_size: file.size, content_type: file.type || null, status: "queued" }
+      }).catch(() => { throw new Error("meta"); });
+      if (meta && meta.error) throw new Error("meta");
+      status.textContent = `Uploaded ${file.name}. Hermes will research it and file a proposal in Activity for your approval.`;
+      loadFiles();
+    } catch (err) {
+      status.textContent = err.message === "meta"
+        ? "The file went up but the queue entry failed. Tell Muse and he will sort it."
+        : "Upload failed. The uploads bucket may not be set up yet.";
+    }
+  }
+
+  const fileInput = document.getElementById("chat-file");
+  document.getElementById("side-upload").addEventListener("click", () => fileInput.click());
+  fileInput.addEventListener("change", () => {
+    const file = fileInput.files && fileInput.files[0];
+    fileInput.value = "";
+    if (file) uploadFile(file);
+  });
 
   /* Direct line: this tab holds a live WebSocket to the UTAG relay and
      Hermes answers through it in real time (no tunnel, no middleman
@@ -1185,47 +1283,13 @@ async function vHermesDirect() {
     }
   }
 
-  /* Uploads still go to UTAG; they land in the queue as proposals. */
-  const fileInput = document.getElementById("chat-file");
-  const uploadBtn = document.getElementById("chat-upload");
-  uploadBtn.addEventListener("click", () => fileInput.click());
-  fileInput.addEventListener("change", async () => {
-    const file = fileInput.files && fileInput.files[0];
-    fileInput.value = "";
-    if (!file) return;
-    if (file.size > 50 * 1024 * 1024) { status.textContent = "That file is over the 50 MB upload limit."; return; }
-    status.textContent = `Uploading ${file.name}…`;
-    uploadBtn.disabled = true;
-    try {
-      const path = `site/${Date.now()}-${file.name.replace(/[^A-Za-z0-9._-]+/g, "_")}`;
-      const up = await fetch(`${(cfg.SUPABASE_URL || "").replace(/\/$/, "")}/storage/v1/object/uploads/${encodeURIComponent(path)}`, {
-        method: "POST",
-        headers: { Authorization: `Bearer ${KEY}`, apikey: KEY, "Content-Type": file.type || "audio/mpeg", "x-upsert": "false" },
-        body: file
-      });
-      if (!up.ok) throw new Error(`storage ${up.status}`);
-      const meta = await api("uploads", {
-        method: "POST",
-        body: { storage_path: path, file_name: file.name, file_size: file.size, content_type: file.type || null, status: "queued" }
-      }).catch(() => { throw new Error("meta"); });
-      if (meta && meta.error) throw new Error("meta");
-      status.textContent = `Uploaded ${file.name}. Hermes will research it and file a proposal in Activity for your approval.`;
-    } catch (err) {
-      status.textContent = err.message === "meta"
-        ? "The file went up but the queue entry failed. Tell Muse and he will sort it."
-        : "Upload failed. The uploads bucket may not be set up yet.";
-    } finally {
-      uploadBtn.disabled = false;
-    }
-  });
-
   document.querySelectorAll(".chat-pills .pill[data-prompt], .chat-pills .pill[data-prefill]").forEach(p => {
     p.addEventListener("click", () => {
       if (p.dataset.prompt) { input.value = p.dataset.prompt; document.getElementById("chat-form").requestSubmit(); }
       else if (p.dataset.prefill) { input.value = p.dataset.prefill; input.focus(); }
     });
   });
-  document.getElementById("chat-new").addEventListener("click", newThread);
+  document.getElementById("side-new").addEventListener("click", newThread);
 
   let running = false;
   document.getElementById("chat-form").addEventListener("submit", async e => {
@@ -1293,7 +1357,8 @@ async function vHermesDirect() {
     }
   });
 
-  /* Boot: load threads, open the last one (or start fresh). */
+  /* Boot: files, threads, then open the last thread (or start fresh). */
+  loadFiles();
   const threads = await loadThreads();
   if (threadId && threads.some(t => t.id === threadId)) {
     await openThread(threadId);
@@ -1303,6 +1368,7 @@ async function vHermesDirect() {
     await newThread();
   }
 }
+
 
 
 /* ----------------------------------------------------------------- hermes */

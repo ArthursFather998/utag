@@ -612,7 +612,346 @@ async function vCatalog() {
   const rows = (await libCatalog()).releases.slice(0, 300);
   view.innerHTML = `
     <h1>Catalog</h1>
+    <p><button class="mini-btn" type="button" id="cat-upload-audio">Upload audio</button></p>
     <div class="rows">${(rows || []).map(r => releaseRow(r)).join("")}</div>${footer()}`;
+  document.getElementById("cat-upload-audio").onclick = () => fixerPick();
+  wireFixerModal();
+}
+
+/* ------------------------------------------------------- catalog fixer
+   Upload audio → read its tags in-browser → show file name + current
+   metadata → confirm → audit against open catalogs (no AI) → review
+   proposals → apply: fixed file downloads, records added to the library.
+   Every step is logged to the Activity tab. */
+const fixerState = { file: null, info: null, audit: null, jobId: null };
+
+function loadScript(src) {
+  return new Promise((res, rej) => {
+    if (document.querySelector(`script[data-fx="${src}"]`)) return res();
+    const s = document.createElement("script");
+    s.src = src;
+    s.dataset.fx = src;
+    s.onload = res;
+    s.onerror = () => rej(new Error("Could not load " + src));
+    document.head.appendChild(s);
+  });
+}
+async function ensureFixerLibs() {
+  await loadScript("vendor/mm.js");
+  await loadScript("fixer.js");
+  await loadScript("vendor/id3-writer.js");
+}
+async function ensureFingerprintLib() {
+  await loadScript("vendor/chromaprint-shim.js");
+}
+
+function wireFixerModal() {
+  if (document.getElementById("fixer-overlay")) return;
+  const ov = document.createElement("div");
+  ov.id = "fixer-overlay";
+  ov.className = "modal-overlay";
+  ov.hidden = true;
+  ov.innerHTML = `<div class="modal" role="dialog" aria-modal="true" id="fixer-modal"></div>`;
+  document.body.appendChild(ov);
+}
+function fixerModal(html) {
+  wireFixerModal();
+  const m = document.getElementById("fixer-modal");
+  m.innerHTML = html;
+  document.getElementById("fixer-overlay").hidden = false;
+  return m;
+}
+function closeFixerModal() {
+  const ov = document.getElementById("fixer-overlay");
+  if (ov) ov.hidden = true;
+  fixerState.file = null; fixerState.info = null; fixerState.audit = null; fixerState.jobId = null;
+}
+
+async function fixerLog(op, data) {
+  try { await fnCall({ action: "fixer_log", op, job_id: fixerState.jobId, ...(data || {}) }); }
+  catch (e) { /* logging is best-effort; never break the flow */ }
+}
+
+function fixerPick() {
+  const inp = document.createElement("input");
+  inp.type = "file";
+  inp.accept = "audio/*,.mp3,.m4a,.flac,.ogg,.wav,.aac";
+  inp.onchange = () => {
+    const f = inp.files && inp.files[0];
+    if (f) fixerOnFile(f);
+  };
+  inp.click();
+}
+
+async function fixerOnFile(file) {
+  const m = fixerModal(`<h2>Reading tags…</h2><p class="lede">${esc(file.name)}</p><p class="fx-progress">Reading…</p>`);
+  try {
+    await ensureFixerLibs();
+  } catch (e) {
+    m.innerHTML = `<h2>Could not start</h2><p class="lede">The tag reader failed to load. Check your connection and try again.</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  let info;
+  try {
+    info = await window.UtagFixer.parseFile(file);
+  } catch (e) {
+    m.innerHTML = `<h2>Could not read</h2><p class="lede">${esc(file.name)} — the tags could not be read.</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  fixerState.file = file;
+  fixerState.info = info;
+  fixerInfoScreen();
+}
+
+function fxMetaRows(info) {
+  const rows = [
+    ["Title", info.title],
+    ["Artist", info.artist],
+    ["Album", info.album],
+    ["Year", info.year],
+    ["Genre", info.genre],
+    ["Track", info.trackNo ? `${info.trackNo}${info.discNo > 1 ? " · disc " + info.discNo : ""}` : ""],
+    ["Length", window.UtagFixer.fmtDur(info.duration)],
+  ];
+  return rows.map(([k, v]) => `<tr><th>${k}</th><td>${esc(v || "—")}</td></tr>`).join("");
+}
+
+function fixerInfoScreen() {
+  const { file, info } = fixerState;
+  const m = fixerModal(`
+    <h2>Upload audio</h2>
+    <p class="lede">${esc(file.name)} · ${(file.size / 1048576).toFixed(1)} MB</p>
+    <table class="fx-meta">${fxMetaRows(info)}</table>
+    <details class="fx-keys">
+      <summary>Catalog API keys (optional, stored only on this device)</summary>
+      <label for="fx-key-acoustid">AcoustID key — enables audio fingerprinting</label>
+      <input id="fx-key-acoustid" type="password" autocomplete="off" value="${esc(window.UtagFixer.getKey("acoustid"))}" placeholder="AcoustID client key">
+      <label for="fx-key-fanart">fanart.tv key — extra artwork source</label>
+      <input id="fx-key-fanart" type="password" autocomplete="off" value="${esc(window.UtagFixer.getKey("fanart"))}" placeholder="fanart.tv API key">
+      <p class="fx-note">Keys never leave this device except to query those two services. Apple Music, Deezer and MusicBrainz need no key.</p>
+    </details>
+    <div class="btn-row">
+      <button class="mini-btn" type="button" data-fx="fix">Fix tags &amp; add to library</button>
+      <button class="mini-btn" type="button" data-fx="cancel">Cancel</button>
+    </div>`);
+  const saveKeys = () => {
+    window.UtagFixer.setKey("acoustid", m.querySelector("#fx-key-acoustid").value);
+    window.UtagFixer.setKey("fanart", m.querySelector("#fx-key-fanart").value);
+  };
+  m.querySelector('[data-fx="fix"]').onclick = () => { saveKeys(); fixerConfirmFix(); };
+  m.querySelector('[data-fx="cancel"]').onclick = () => { saveKeys(); fixerConfirmCancel(); };
+}
+
+function fixerConfirmFix() {
+  const { file } = fixerState;
+  const m = fixerModal(`
+    <h2>Are you sure?</h2>
+    <p class="lede">${esc(file.name)}</p>
+    <div class="fx-risk">
+      <strong>Fix tags &amp; add to library will:</strong><br>
+      · Look this song up on Apple Music, Deezer, MusicBrainz${window.UtagFixer.getKey("acoustid") ? ", and AcoustID (audio fingerprint)" : ""} to identify it.<br>
+      · <strong>Rewrite this file's tags</strong> with the corrected metadata. The original tags will be lost — keep a backup copy if they matter to you.<br>
+      · Add the artist, release and track to your UTAG library (skipping anything already there).<br>
+      · A wrong catalog match means wrong metadata. You will get to review every change before anything is applied.
+    </div>
+    <div class="btn-row">
+      <button class="mini-btn" type="button" data-fx="yes">Yes, fix it</button>
+      <button class="mini-btn" type="button" data-fx="back">Go back</button>
+    </div>`);
+  m.querySelector('[data-fx="yes"]').onclick = () => fixerRunAudit();
+  m.querySelector('[data-fx="back"]').onclick = () => fixerInfoScreen();
+}
+
+function fixerConfirmCancel() {
+  const { file } = fixerState;
+  const m = fixerModal(`
+    <h2>Are you sure?</h2>
+    <p class="lede">${esc(file.name)}</p>
+    <div class="fx-risk">
+      <strong>Cancel will discard this file and its scan.</strong><br>
+      · Nothing will be fixed.<br>
+      · Nothing will be added to your library.<br>
+      · You can re-upload it any time.
+    </div>
+    <div class="btn-row">
+      <button class="mini-btn" type="button" data-fx="yes">Yes, discard</button>
+      <button class="mini-btn" type="button" data-fx="back">Go back</button>
+    </div>`);
+  m.querySelector('[data-fx="yes"]').onclick = () => { closeFixerModal(); };
+  m.querySelector('[data-fx="back"]').onclick = () => fixerInfoScreen();
+}
+
+async function fixerRunAudit() {
+  const { file, info } = fixerState;
+  const m = fixerModal(`
+    <h2>Fixing tags</h2>
+    <p class="lede">${esc(file.name)}</p>
+    <p class="fx-progress" id="fx-prog">Starting…</p>`);
+  const prog = t => { const el = document.getElementById("fx-prog"); if (el) el.textContent = t; };
+
+  /* Activity: open a job row. */
+  try {
+    const j = await fnCall({ action: "fixer_log", op: "start", title: `Fixer: ${file.name}`, file_name: file.name });
+    fixerState.jobId = j.job_id;
+  } catch (e) {}
+  const log = (level, event, message) => fixerLog("event", { level, event, message });
+
+  await log("info", "fixer:upload", `Uploaded ${file.name} (${(file.size / 1048576).toFixed(1)} MB).`);
+  if (window.UtagFixer.getKey("acoustid")) {
+    try { await ensureFingerprintLib(); }
+    catch (e) { await log("warn", "fixer:fingerprint", "Fingerprint engine failed to load; skipping AcoustID."); }
+  }
+
+  let roster = [];
+  try {
+    const cat = await libCatalog();
+    roster = (cat.artists || []).map(a => ({ name: a.canonical_name }));
+  } catch (e) {}
+
+  let audit;
+  try {
+    audit = await window.UtagFixer.auditFile(info, roster, async t => {
+      prog(t);
+      if (/Apple|Deezer|MusicBrainz|Fingerprint/i.test(t)) await log("info", "fixer:audit", `Querying ${t.replace("…", "")} for ${file.name}.`);
+    });
+  } catch (e) {
+    await log("error", "fixer:audit", `Audit failed: ${e.message || e}`);
+    await fixerLog("done", { status: "failed", error: String(e.message || e) });
+    m.innerHTML = `<h2>Audit failed</h2><p class="lede">${esc(String(e.message || e))}</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  fixerState.audit = audit;
+  for (const p of audit.proposals) {
+    await log("info", "fixer:proposal", `${p.field}: "${p.from}" → "${p.to}" (${p.source}, ${Math.round(p.confidence * 100)}%).`);
+  }
+  if (!audit.proposals.length && !audit.art) {
+    await log("info", "fixer:nomatch", `No catalog recognized ${file.name}. Nothing to fix.`);
+    await fixerLog("done", { status: "done", result: "No match found." });
+    m.innerHTML = `<h2>No match</h2><p class="lede">None of the catalogs recognized <strong>${esc(file.name)}</strong>. Its tags were left untouched and nothing was added to the library.</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  fixerReviewScreen();
+}
+
+function fixerReviewScreen() {
+  const { file, info, audit } = fixerState;
+  const props = audit.proposals;
+  const fldLabel = { title: "Title", artist: "Artist", album: "Album", genre: "Genre", year: "Year", trackNo: "Track #" };
+  const listHtml = props.length ? props.map((p, i) => `
+    <label class="fx-prop">
+      <input type="checkbox" data-fx-prop="${i}" checked>
+      <span class="fld">${fldLabel[p.field] || p.field}</span>
+      <span class="from">${esc(p.from || "—")}</span>
+      <span class="arrow">→</span>
+      <span class="to">${esc(p.to || "—")}</span>
+      <span class="src">${esc(p.source)} · ${Math.round(p.confidence * 100)}%</span>
+    </label>`).join("") : `<p class="lede">The tags already match the catalogs. Nothing to change.</p>`;
+  const artHtml = audit.art
+    ? `<p class="fx-note">Artwork found via ${esc(audit.art.source)} — it will be embedded in the fixed file and saved with the release.</p>`
+    : (info.art ? `<p class="fx-note">Keeping the artwork already embedded in the file.</p>` : `<p class="fx-note">No artwork found.</p>`);
+  const m = fixerModal(`
+    <h2>Review fixes</h2>
+    <p class="lede">${esc(file.name)} — untick anything you do not want applied.</p>
+    <div class="fx-props">${listHtml}</div>
+    ${artHtml}
+    <div class="btn-row">
+      <button class="mini-btn" type="button" data-fx="apply">Apply &amp; add to library</button>
+      <button class="mini-btn" type="button" data-fx="back">Go back</button>
+    </div>
+    <p class="fx-note">Applying rewrites the file's tags and downloads the fixed file, then adds the records to your library.</p>`);
+  m.querySelector('[data-fx="back"]').onclick = () => fixerInfoScreen();
+  m.querySelector('[data-fx="apply"]').onclick = () => {
+    const checked = [...m.querySelectorAll("[data-fx-prop]:checked")].map(c => props[+c.dataset.fxProp]);
+    fixerApply(checked);
+  };
+}
+
+async function fixerApply(approved) {
+  const { file, info, audit } = fixerState;
+  const m = fixerModal(`<h2>Applying…</h2><p class="lede">${esc(file.name)}</p><p class="fx-progress" id="fx-prog">Rewriting tags…</p>`);
+  const prog = t => { const el = document.getElementById("fx-prog"); if (el) el.textContent = t; };
+  const log = (level, event, message) => fixerLog("event", { level, event, message });
+
+  /* Final tag values: approved proposals win, otherwise keep the file's. */
+  const final = {
+    title: info.title, artist: info.artist, album: info.album,
+    genre: info.genre, year: info.year,
+    trackNo: info.trackNo, discNo: info.discNo,
+  };
+  for (const p of approved) {
+    if (p.field === "trackNo") final.trackNo = parseInt(p.to, 10) || final.trackNo;
+    else final[p.field] = p.to;
+  }
+
+  /* 1. Rewrite the file's ID3 tags in-browser and download it. */
+  let fixedUrl = null;
+  try {
+    const buf = await file.arrayBuffer();
+    const writer = new ID3Writer(buf);
+    if (final.title && final.title !== "Unknown Title") writer.setFrame("TIT2", final.title);
+    if (final.artist && final.artist !== "Unknown Artist") writer.setFrame("TPE1", [final.artist]);
+    if (final.album && final.album !== "Unknown Album") writer.setFrame("TALB", final.album);
+    if (final.genre) writer.setFrame("TCON", [final.genre]);
+    if (final.year) writer.setFrame("TYER", final.year);
+    if (final.trackNo) writer.setFrame("TRCK", String(final.trackNo));
+    const artBlob = (audit.art && audit.art.blob) || info.art;
+    if (artBlob) {
+      try { writer.setFrame("APIC", { type: 3, data: await artBlob.arrayBuffer(), description: "" }); }
+      catch (e) {}
+    }
+    writer.addTag();
+    const blob = writer.getBlob();
+    fixedUrl = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = fixedUrl;
+    a.download = file.name.replace(/\.[a-z0-9]{2,5}$/i, "") + " [fixed]" + (file.name.match(/\.[a-z0-9]{2,5}$/i) || [""])[0];
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    await log("success", "fixer:file", `Tags rewritten for ${file.name}; fixed file downloaded.`);
+  } catch (e) {
+    await log("error", "fixer:file", `Tag rewrite failed: ${e.message || e}`);
+  }
+
+  /* 2. Add to the library. */
+  prog("Adding to library…");
+  let saved = null, saveErr = null;
+  try {
+    saved = await fnCall({
+      action: "fixer_save",
+      artist: final.artist, title: final.title, album: final.album,
+      year: final.year, genre: final.genre,
+      track_no: final.trackNo, disc_no: final.discNo,
+      duration_ms: info.duration ? Math.round(info.duration * 1000) : null,
+      verified: !!audit.verified,
+      art_url: (audit.art && audit.art.url) || "",
+      art_source: (audit.art && audit.art.source) || "",
+    });
+    const parts = [];
+    if (!saved.existed.artist) parts.push("artist");
+    if (!saved.existed.release) parts.push("release");
+    if (!saved.existed.track) parts.push("track");
+    await log("success", "fixer:library", parts.length
+      ? `Added to library: ${parts.join(", ")} for "${final.title}" by ${final.artist}.`
+      : `"${final.title}" by ${final.artist} was already in the library.`);
+  } catch (e) {
+    saveErr = e.message || String(e);
+    await log("error", "fixer:library", `Library save failed: ${saveErr}`);
+  }
+
+  await fixerLog("done", { status: saveErr ? "failed" : "done", result: saveErr || `Fixed ${approved.length} field(s); library updated.`, error: saveErr });
+  const link = saved ? `<a href="#/release/${esc(saved.release_id)}">View in library</a>` : "";
+  m.innerHTML = `
+    <h2>Done</h2>
+    <p class="lede"><strong>${esc(final.title)}</strong> — ${esc(final.artist)}</p>
+    ${approved.length ? `<p class="lede">Fixed ${approved.length} field${approved.length === 1 ? "" : "s"}${fixedUrl ? " and downloaded the fixed file" : ""}.</p>` : `<p class="lede">Tags already matched; ${fixedUrl ? "file re-downloaded unchanged" : "nothing rewritten"}.</p>`}
+    ${saveErr ? `<p class="error-note">Library save failed: ${esc(saveErr)}</p>` : `<p class="lede">${link}</p>`}
+    <div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+  m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
 }
 
 async function vArtists() {

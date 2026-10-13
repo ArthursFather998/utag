@@ -925,3 +925,47 @@ a.act-link { display: inline-block; }
 }
 .lib-toast[hidden] { display: none; }
 .lib-toast .mini-btn { margin: 0; }
+
+/* Fixer modal (catalog upload flow). */
+.modal-overlay {
+  position: fixed; inset: 0; z-index: 300;
+  background: rgba(8, 9, 12, 0.72);
+  display: flex; align-items: flex-start; justify-content: center;
+  padding: 8vh 16px 16px; overflow-y: auto;
+}
+.modal-overlay[hidden] { display: none; }
+.modal {
+  background: #14161b; color: #ece8de;
+  border: 1px solid #2a2e37;
+  max-width: 620px; width: 100%;
+  padding: 28px 30px;
+}
+.modal h2 { margin: 0 0 6px; font-size: 24px; }
+.modal .lede { color: var(--dim); font-size: 14px; margin: 0 0 18px; }
+.fx-meta { width: 100%; border-collapse: collapse; margin: 0 0 18px; font-size: 14px; }
+.fx-meta th, .fx-meta td { text-align: left; padding: 7px 10px 7px 0; border-bottom: 1px solid #23262e; vertical-align: top; }
+.fx-meta th { color: var(--faint); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.07em; width: 130px; }
+.fx-meta td { color: #ece8de; word-break: break-word; }
+.fx-props { margin: 0 0 18px; }
+.fx-prop {
+  display: flex; align-items: baseline; gap: 10px;
+  padding: 9px 0; border-bottom: 1px solid #23262e; font-size: 14px;
+}
+.fx-prop .fld { color: var(--faint); font-size: 11px; text-transform: uppercase; letter-spacing: 0.07em; width: 74px; flex: none; }
+.fx-prop .from { color: var(--conflict); text-decoration: line-through; }
+.fx-prop .arrow { color: var(--faint); flex: none; }
+.fx-prop .to { color: var(--verified); font-weight: 600; }
+.fx-prop .src { margin-left: auto; font-size: 11px; color: var(--faint); white-space: nowrap; }
+.fx-prop input[type="checkbox"] { flex: none; width: 16px; height: 16px; accent-color: var(--accent); }
+.fx-risk {
+  border: 1px solid #3a3e47; background: #1a1d24;
+  padding: 14px 16px; margin: 0 0 20px; font-size: 14px; line-height: 1.55;
+}
+.fx-risk strong { color: #ece8de; }
+.fx-keys { margin: 0 0 18px; border-top: 1px solid #23262e; padding-top: 14px; }
+.fx-keys summary { cursor: pointer; color: var(--dim); font-size: 13px; margin-bottom: 10px; }
+.fx-keys label { display: block; font-size: 12px; color: var(--faint); margin: 8px 0 4px; }
+.fx-keys input { width: 100%; box-sizing: border-box; }
+.modal .btn-row { display: flex; gap: 12px; margin-top: 6px; flex-wrap: wrap; }
+.fx-progress { font-size: 14px; color: var(--dim); margin: 12px 0; min-height: 22px; }
+.fx-note { font-size: 13px; color: var(--faint); margin: 10px 0 0; }

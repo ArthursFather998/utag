@@ -351,6 +351,147 @@ Deno.serve(async (req) => {
       return json({ ok: true, action, artwork_id: artId, repo_sync: repoSync });
     }
 
+    if (action === "fixer_save") {
+      /* Save a fixed song to the library: ensure artist → release → track,
+         add artwork if a URL came back, sync every touched row to the repo. */
+      const artistName = String(body.artist || "").trim();
+      const title = String(body.title || "").trim();
+      if (!artistName || !title) return json({ ok: false, error: "artist and title required" }, 400);
+      const escLike = (s: string) => s.replace(/[%_\\]/g, "\\$&");
+      const normTitle = title.toLowerCase();
+
+      let artistId: string, artistExisted = true;
+      {
+        const { data } = await supabase.from("artists").select("id")
+          .ilike("canonical_name", escLike(artistName)).limit(1).maybeSingle();
+        if (data) artistId = (data as { id: string }).id;
+        else {
+          const { data: ins, error } = await supabase.from("artists")
+            .insert({ canonical_name: artistName }).select("id").single();
+          if (error) throw error;
+          artistId = (ins as { id: string }).id;
+          artistExisted = false;
+        }
+      }
+
+      const album = String(body.album || "").trim();
+      const releaseTitle = album || title;
+      const releaseType = album ? "album" : "single";
+      const year = body.year ? parseInt(String(body.year), 10) : null;
+      let releaseId: string, releaseExisted = true;
+      {
+        let q = supabase.from("releases").select("id").eq("artist_id", artistId)
+          .ilike("title", escLike(releaseTitle)).limit(1);
+        if (year) q = q.eq("release_year", year);
+        const { data } = await q.maybeSingle();
+        if (data) releaseId = (data as { id: string }).id;
+        else {
+          const { data: ins, error } = await supabase.from("releases").insert({
+            artist_id: artistId,
+            title: releaseTitle,
+            release_type: releaseType,
+            release_year: year || null,
+            confidence: body.verified ? "high_confidence" : "needs_review",
+            status: body.verified ? "high_confidence" : "needs_review",
+          }).select("id").single();
+          if (error) throw error;
+          releaseId = (ins as { id: string }).id;
+          releaseExisted = false;
+        }
+      }
+
+      const trackNo = body.track_no ? parseInt(String(body.track_no), 10) : null;
+      const discNo = body.disc_no ? parseInt(String(body.disc_no), 10) : 1;
+      const durationMs = body.duration_ms ? Math.round(Number(body.duration_ms)) : null;
+      let trackId: string, trackExisted = true;
+      {
+        const { data } = await supabase.from("tracks").select("id")
+          .eq("release_id", releaseId).ilike("title", escLike(title)).limit(1).maybeSingle();
+        if (data) trackId = (data as { id: string }).id;
+        else {
+          const { data: ins, error } = await supabase.from("tracks").insert({
+            release_id: releaseId,
+            artist_id: artistId,
+            title,
+            track_number: trackNo || null,
+            disc_number: discNo || 1,
+            duration_ms: durationMs,
+            confidence: body.verified ? "high_confidence" : "needs_review",
+            status: body.verified ? "high_confidence" : "needs_review",
+          }).select("id").single();
+          if (error) throw error;
+          trackId = (ins as { id: string }).id;
+          trackExisted = false;
+        }
+      }
+
+      let artworkId: string | null = null;
+      const artUrl = String(body.art_url || "").trim();
+      if (artUrl && !releaseExisted) {
+        const { data: ins } = await supabase.from("artwork").insert({
+          release_id: releaseId,
+          source_url: artUrl,
+          role: "candidate",
+          source: String(body.art_source || "fixer"),
+          confidence: body.verified ? "high_confidence" : "needs_review",
+          status: body.verified ? "high_confidence" : "needs_review",
+        }).select("id").single();
+        if (ins) artworkId = (ins as { id: string }).id;
+      }
+
+      const synced: string[] = [];
+      if (!artistExisted) { await syncRowToRepo("artists", artistId); synced.push("artists"); }
+      if (!releaseExisted) { await syncRowToRepo("releases", releaseId); synced.push("releases"); }
+      if (!trackExisted) { await syncRowToRepo("tracks", trackId); synced.push("tracks"); }
+      if (artworkId) { await syncRowToRepo("artwork", artworkId); synced.push("artwork"); }
+      return json({
+        ok: true, action, artist_id: artistId, release_id: releaseId,
+        track_id: trackId, artwork_id: artworkId,
+        existed: { artist: artistExisted, release: releaseExisted, track: trackExisted },
+        repo_sync: synced.length ? "ok" : "skipped",
+      });
+    }
+
+    if (action === "fixer_log") {
+      /* Activity-tab logging for the fixer (client-side audit). op:
+         start → new job row; event → live-log row; done → close the job. */
+      const op = String(body.op || "");
+      if (op === "start") {
+        const { data, error } = await supabase.from("hermes_jobs").insert({
+          kind: "upload",
+          title: String(body.title || "Fixer").slice(0, 200),
+          payload: { fixer: true, file_name: String(body.file_name || "") },
+          status: "running",
+          started_at: new Date().toISOString(),
+        }).select("id").single();
+        if (error) throw error;
+        return json({ ok: true, action, job_id: (data as { id: string }).id });
+      }
+      if (op === "event") {
+        const { error } = await supabase.from("hermes_events").insert({
+          job_id: body.job_id ? String(body.job_id) : null,
+          level: ["info", "success", "warn", "error"].includes(String(body.level)) ? String(body.level) : "info",
+          event: String(body.event || "fixer").slice(0, 120),
+          message: String(body.message || "").slice(0, 500),
+          details: { fixer: true },
+        });
+        if (error) throw error;
+        return json({ ok: true, action });
+      }
+      if (op === "done") {
+        const status = ["done", "failed"].includes(String(body.status)) ? String(body.status) : "done";
+        const { error } = await supabase.from("hermes_jobs").update({
+          status,
+          result: body.result ? String(body.result).slice(0, 500) : null,
+          error: body.error ? String(body.error).slice(0, 500) : null,
+          finished_at: new Date().toISOString(),
+        }).eq("id", String(body.job_id || ""));
+        if (error) throw error;
+        return json({ ok: true, action });
+      }
+      return json({ ok: false, error: "Unknown fixer_log op" }, 400);
+    }
+
     if (action === "delete_track") {
       const trackId = String(body.track_id || "");
       if (!trackId) return json({ ok: false, error: "Missing track_id" }, 400);

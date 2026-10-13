@@ -719,7 +719,7 @@ function fixerPick() {
   inp.click();
 }
 
-const ZIP_MAX = 1024 * 1024 * 1024; /* 1 GB — browser memory is the ceiling */
+const ZIP_MAX = 2 * 1024 * 1024 * 1024; /* 2 GB — browser memory is the ceiling */
 const AUDIO_EXT = /\.(mp3|m4a|flac|ogg|oga|wav|aac|opus|wma)$/i;
 
 async function fixerOnFile(file) {
@@ -755,14 +755,13 @@ async function fixerOnZip(file) {
     m.innerHTML = `<h2>Could not read ZIP</h2><p class="lede">${esc(msg)}</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
     m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
   };
-  if (file.size > ZIP_MAX) { fail(`This ZIP is ${(file.size / 1073741824).toFixed(2)} GB — the limit is 1 GB (browser memory). Split it into smaller ZIPs.`); return; }
+  if (file.size > ZIP_MAX) { fail(`This ZIP is ${(file.size / 1073741824).toFixed(2)} GB — the limit is 2 GB (browser memory). Split it into smaller ZIPs.`); return; }
   try { await ensureFixerLibs(); await loadScript("vendor/jszip.min.js"); }
   catch (e) { fail("The ZIP reader failed to load. Check your connection and try again."); return; }
   prog("Parsing ZIP…");
   let zip;
   try {
-    const buf = await file.arrayBuffer();
-    zip = await window.JSZip.loadAsync(buf);
+    zip = await window.JSZip.loadAsync(file);
   } catch (e) { fail("This file could not be parsed as a ZIP."); return; }
   const names = [];
   zip.forEach((path, entry) => {

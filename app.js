@@ -62,7 +62,10 @@ function artUrl(a) {
 }
 
 async function api(path, opts = {}) {
-  const userTok = (authSession() || {}).access_token;
+  /* authEnsure() refreshes the admin session when the access token has
+     expired, and drops back to the public anon key when signed out or
+     when the refresh fails — so a stale token can never 401 every read. */
+  const userTok = await authEnsure();
   const headers = { apikey: KEY, Authorization: `Bearer ${userTok || KEY}`, Accept: "application/json" };
   if (opts.count) {
     headers.Prefer = "count=exact";

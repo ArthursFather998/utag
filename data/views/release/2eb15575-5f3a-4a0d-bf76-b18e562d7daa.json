@@ -1,0 +1,73 @@
+{
+  "artists": {
+    "canonical_name": "Frank Ocean",
+    "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-08T22:52:25.515772+00:00",
+      "edition_label": "original",
+      "height": null,
+      "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
+      "phash": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "role": "canonical",
+      "source": "wikipedia",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+    "barcode": "862160000302",
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": null,
+    "created_at": "2026-10-08T22:52:24.63726+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+    "label": "Boys Don't Cry",
+    "mbid": null,
+    "release_date": "2016-08-20",
+    "release_type": "album",
+    "release_year": 2016,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Blonde",
+    "updated_at": "2026-10-08T22:52:24.63726+00:00"
+  },
+  "tracks": [],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-08T22:52:26.133685+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "label": "Boys Don't Cry",
+        "release_date": "2016-08-20",
+        "title": "Blonde"
+      },
+      "entity_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "a275fcfb-e6a0-40bf-b6c7-db74865c8233",
+      "input": {
+        "album": "Blonde",
+        "artist": "Frank Ocean",
+        "year": "2016"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "Cross-referenced Wikipedia, Apple Music, Spotify, and Discogs. Confirmed release date and original label. Verified artwork as the 'shower' photo by Wolfgang Tillmans.",
+      "status": "verified"
+    }
+  ]
+}

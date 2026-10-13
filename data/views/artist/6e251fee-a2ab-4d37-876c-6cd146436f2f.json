@@ -1,0 +1,84 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": "1168567308",
+    "canonical_name": "Conan Gray",
+    "confidence": "verified",
+    "created_at": "2026-10-10T00:42:38.286434+00:00",
+    "deezer_id": null,
+    "discogs_id": "6897153",
+    "genres": [
+      "Pop"
+    ],
+    "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+    "image_url": null,
+    "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+    "spotify_id": "4Uc8Dsxct0oMqx0P6i60ea",
+    "status": "verified",
+    "updated_at": "2026-10-10T16:55:04.741905+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.conangray.com/cdn/shop/products/Superache_Cover_1000x1000.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:55:14.666118+00:00",
+      "edition": "original",
+      "id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Superache"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c4ca4c73-9e84-4aa4-a30f-3ae780bd6379/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:43:17.695363+00:00",
+      "edition": "original",
+      "id": "4c84401c-e997-4055-a4ca-0f2e3234e5cc",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Found Heaven"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://tse4.mm.bing.net/th/id/OIP.EzrvyRsMOIOgCxqmTvsprwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:59:35.509655+00:00",
+      "edition": "anniversary",
+      "id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Kid Krow, Decomposed (5 Year Anniversary)"
+    }
+  ],
+  "verifications": []
+}

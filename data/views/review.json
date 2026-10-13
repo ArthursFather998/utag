@@ -1,0 +1,330 @@
+{
+  "artists": [
+    {
+      "canonical_name": "Skyler Green",
+      "confidence": "needs_review",
+      "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
+    }
+  ],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/listen-before-i-go.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:58.529848+00:00",
+      "edition": "original",
+      "id": "2f31b4b2-03d6-4fbc-81d8-696e8960adc5",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "listen before i go (Cover)"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/forever-unreleased.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:51.072183+00:00",
+      "edition": "original",
+      "id": "65b084b4-a646-457d-9c28-c9d220b83dfa",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Forever"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/im-in-love.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:45.020218+00:00",
+      "edition": "original",
+      "id": "6eab752c-7733-4404-9308-451345bbda55",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Im In Love"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/dancing-through-the-end-of-the-world.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:39.155902+00:00",
+      "edition": "original",
+      "id": "0afa0de7-b25b-43da-baaa-01fdf8966132",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Dancing Through The End Of The World"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/cold-in-the-summer.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:33.001157+00:00",
+      "edition": "original",
+      "id": "b21b1a4d-8a95-4b55-9352-8874a50ee283",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Cold In The Summer"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/celeste-unreleased.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:26.990934+00:00",
+      "edition": "original",
+      "id": "9afc6f2d-7798-436e-8cf7-a70177ae322b",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Celeste"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Your_Eyes.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:58.796989+00:00",
+      "edition": "original",
+      "id": "6263b76d-c003-44b6-8c71-f50fc7620320",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Your Eyes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Feel.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:53.036222+00:00",
+      "edition": "original",
+      "id": "a1018b80-48c4-4617-844b-d9edc8b241fd",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Feel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Retarded.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:47.699862+00:00",
+      "edition": "original",
+      "id": "c31f4e3f-f136-4269-84f7-4b035faaae13",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Retarded"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Drain.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:42.296899+00:00",
+      "edition": "original",
+      "id": "af1b11c6-8f52-490c-8918-35eefdde46f7",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Drain"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Stargazing.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:12.105814+00:00",
+      "edition": "original",
+      "id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+      "label": "7450315 Records DK",
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Stargazing - (Bonus Track)"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T20:55:30.03094+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "applied_values": {
+          "label": "7450315 Records DK",
+          "release_date": "2026-09-28"
+        },
+        "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+        "release_id": "8b172cef-e19e-4c9a-99a4-643d55f33f23"
+      },
+      "entity_id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "23fb59b0-7278-4443-a2db-aaf3a69d5354",
+      "input": {
+        "artist": {
+          "canonical_name": "Skyler Green"
+        },
+        "artwork": {
+          "source_url": "https://static.qobuz.com/images/covers/ny/c5/jpoey2f4ec5ny_230.jpg"
+        },
+        "release": {
+          "label": "7450315 Records DK",
+          "title": "Stargazing - (Bonus Track)"
+        },
+        "tracks": [
+          {
+            "title": "Stargazing - (Bonus Track)"
+          }
+        ]
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "needs_review",
+      "rationale": "OWNER-APPROVED PROPOSAL (ID: 460b99ca-9bed-40e8-a2de-bc2f1dad7e51). The release is found on Qobuz with matching title and artist. Added label and duration. Artwork found on the release page is marked as candidate as it has not been cross-referenced against a second independent source.",
+      "status": "needs_review"
+    },
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T01:21:17.233488+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "role": "candidate",
+        "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg"
+      },
+      "entity_id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+      "entity_type": "artwork",
+      "field_confidence": null,
+      "id": "fc3277cf-a7b1-4b7b-a4c8-920aaeee75c1",
+      "input": {
+        "release_id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+        "title": "One-X / Live at the Palace 2008"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "needs_review",
+      "rationale": "Confirmed the release as Discogs 3328203 (catalog 88697-35992-2, Jive/Zomba, 2008). Direct extraction of the official image from Discogs failed due to bot protection. Found a matching cover on Last.fm. The existing MusicBrainz candidate was found to be for the 2003 debut album and is incorrect for this edition.",
+      "status": "needs_review"
+    },
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T01:07:18.037445+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "role": "candidate"
+      },
+      "entity_id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+      "entity_type": "artwork",
+      "field_confidence": null,
+      "id": "c1566a08-1145-4e0d-ad96-97dacbb55f41",
+      "input": {
+        "album": "One-X / Live at the Palace 2008"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "needs_review",
+      "rationale": "Could not find a distinct cover for the combined CD/DVD edition; applied the canonical One-X cover as a candidate for review.",
+      "status": "needs_review"
+    },
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T00:52:14.580263+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "role": "none"
+      },
+      "entity_id": "faf29dfc-a819-4ac2-a7e7-8d4181f7a34e",
+      "entity_type": "artwork",
+      "field_confidence": null,
+      "id": "3cff0e53-0ac3-4d20-8bf5-a61788ca12fd",
+      "input": {
+        "release_id": "faf29dfc-a819-4ac2-a7e7-8d4181f7a34e"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "needs_review",
+      "rationale": "Searched MusicBrainz, Last.fm, and general web. This is a bootleg remix release. No unique canonical artwork was found for this specific edition, and no verified image URL exists. Stored as none to avoid using the original album art for a separate remix edition.",
+      "status": "needs_review"
+    }
+  ]
+}

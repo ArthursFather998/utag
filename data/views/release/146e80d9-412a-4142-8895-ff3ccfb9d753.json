@@ -1,0 +1,467 @@
+{
+  "artists": {
+    "canonical_name": "Skyler Green",
+    "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-09T05:43:03.8857+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "057fac53-2300-4301-9fd2-2a247b5d7956",
+      "phash": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "role": "canonical",
+      "source": "user",
+      "source_url": "https://cdn.corenexis.com/f/pim5Ma5NC1a.png",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Your_Eyes.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:58.796989+00:00",
+      "edition": "original",
+      "id": "6263b76d-c003-44b6-8c71-f50fc7620320",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Your Eyes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Stargazing.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:12.105814+00:00",
+      "edition": "original",
+      "id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+      "label": "7450315 Records DK",
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Stargazing - (Bonus Track)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Intervals.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:35.614009+00:00",
+      "edition": "original",
+      "id": "908b53fd-cd51-44e5-9a89-9cf3999387c9",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Intervals"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Feel.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:53.036222+00:00",
+      "edition": "original",
+      "id": "a1018b80-48c4-4617-844b-d9edc8b241fd",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Feel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Drain.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:42.296899+00:00",
+      "edition": "original",
+      "id": "af1b11c6-8f52-490c-8918-35eefdde46f7",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Drain"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Retarded.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:47.699862+00:00",
+      "edition": "original",
+      "id": "c31f4e3f-f136-4269-84f7-4b035faaae13",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Retarded"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Tired.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:29.982364+00:00",
+      "edition": "original",
+      "id": "c3f68326-6069-4842-b2cc-d156a77926c0",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Tired"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://m.media-amazon.com/images/I/514Qg0g8tML._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
+          "stored_path": "import/Hiraeth.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:23.901011+00:00",
+      "edition": "original",
+      "id": "d1f4560d-26ec-4a0f-9ddd-dd3fe607a73e",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Hiraeth"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Harlot.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:18.088646+00:00",
+      "edition": "original",
+      "id": "d4c5e05e-f620-4c51-8e8a-d1f6b8bb8fb5",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Harlot"
+    }
+  ],
+  "release": {
+    "apple_id": "6813683280",
+    "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": null,
+    "created_at": "2026-10-09T03:27:04.453903+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_type": "album",
+    "release_year": 2026,
+    "spotify_id": "1cw8HD5gWc1Fi2lvpmA4Qa",
+    "status": "needs_review",
+    "title": "I Left The Roses Out Too Long",
+    "updated_at": "2026-10-09T05:13:36.91598+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:05.682376+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 168000,
+      "id": "2554e76a-3273-40f1-93b3-a21c2b79cf60",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Revived",
+      "track_number": 1,
+      "updated_at": "2026-10-09T03:27:05.682376+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:07.097574+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 140000,
+      "id": "3d2198fa-8e0c-4a00-be40-33d85cabe3d4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Hiraeth",
+      "track_number": 2,
+      "updated_at": "2026-10-09T03:27:07.097574+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:08.233511+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 92000,
+      "id": "2db72627-3483-429d-ac66-c84666bb9fa0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Your Eyes",
+      "track_number": 3,
+      "updated_at": "2026-10-09T03:27:08.233511+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:09.42961+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 83000,
+      "id": "edbf4584-7bb6-46da-a112-04fb3007eaf7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Cloey",
+      "track_number": 4,
+      "updated_at": "2026-10-09T03:27:09.42961+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:10.647056+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 61000,
+      "id": "c7929433-b611-41e2-9dd3-3ed69040e53a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": "2GiQAn97tqwaVBG5I0dQQk",
+      "status": "verified",
+      "title": "Always",
+      "track_number": 5,
+      "updated_at": "2026-10-09T03:27:10.647056+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:11.710707+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 166000,
+      "id": "95b519d1-e5b8-4ea1-acce-aa13d30a1d5d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Feel",
+      "track_number": 6,
+      "updated_at": "2026-10-09T03:27:11.710707+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:12.912847+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 168000,
+      "id": "2f1c0f75-105f-4ce0-8b3d-0e81bfd14d98",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Retarded",
+      "track_number": 7,
+      "updated_at": "2026-10-09T03:27:12.912847+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:14.07904+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 235000,
+      "id": "71e1e93c-7e46-44b3-b497-7ce632cf6720",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Actress",
+      "track_number": 8,
+      "updated_at": "2026-10-09T03:27:14.07904+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:15.159684+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 100000,
+      "id": "d48c1116-2ae4-44bb-89b7-d762af910b4a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Tired",
+      "track_number": 9,
+      "updated_at": "2026-10-09T03:27:15.159684+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:16.585267+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 174000,
+      "id": "0fbba8ed-fb37-4681-84f5-14241e376156",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Loser",
+      "track_number": 10,
+      "updated_at": "2026-10-09T03:27:16.585267+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:17.847228+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 99000,
+      "id": "d3a914ab-a0b8-4d28-91e2-eda239e3b29e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Throwaway",
+      "track_number": 11,
+      "updated_at": "2026-10-09T03:27:17.847228+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:19.070633+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 75000,
+      "id": "d74a8da1-cc04-4fde-83d8-57f674d34bf3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Drain",
+      "track_number": 12,
+      "updated_at": "2026-10-09T03:27:19.070633+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-09T03:27:22.928918+00:00",
+      "created_by": "import",
+      "decision": {
+        "imported": true
+      },
+      "entity_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "29847c94-4087-4b05-ad27-858e5b230956",
+      "input": {
+        "source": "utag-knowledge-import"
+      },
+      "model": "utag-import",
+      "overall_confidence": "verified",
+      "rationale": "Imported from the UTAG queue candidate prepared 2026-10-08. Track order and durations from the BandLab album page (observed 2026-09-16) and Apple collection 6813683280 (checked 2026-10-03). Skyler's own discography is ground truth in UTAG. Features: Revived (feat. J3REMIAH); Retarded (feat. Vesson).",
+      "status": "verified"
+    }
+  ]
+}

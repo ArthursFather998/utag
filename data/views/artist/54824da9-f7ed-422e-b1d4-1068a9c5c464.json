@@ -1,0 +1,42 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Radiohead",
+    "confidence": "verified",
+    "created_at": "2026-10-10T00:36:09.825236+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+    "image_url": null,
+    "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "spotify_id": null,
+    "status": "verified",
+    "updated_at": "2026-10-10T00:36:09.825236+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Radiohead"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/e9b0f69e-ee3d-36ed-8c12-f8ee65f87e45/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:36:13.93458+00:00",
+      "edition": "original",
+      "id": "a2f6a7ea-ec72-4c6a-9d1b-6b038cc2a153",
+      "label": "XL Recordings",
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "In Rainbows"
+    }
+  ],
+  "verifications": []
+}

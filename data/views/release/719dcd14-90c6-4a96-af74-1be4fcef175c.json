@@ -1,0 +1,113 @@
+{
+  "artists": {
+    "canonical_name": "Harry Styles",
+    "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T14:54:32.634041+00:00",
+      "edition_label": "Standard",
+      "height": null,
+      "id": "c1ff9bea-59e8-4dff-abf8-2b68cfe4211f",
+      "phash": null,
+      "release_id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
+      "role": "canonical",
+      "source": "Discogs",
+      "source_url": "https://www.discogs.com/release/23330279-Harry-Styles-Harrys-House/image/SW1hZ2U6Nzg0NjA3MzA=?ev=item-vc",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Harry Styles"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.discogs.com/release/36690721-Harry-Styles-Kiss-All-The-Time-Disco-Occasionally",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:27:12.694297+00:00",
+      "edition": "original",
+      "id": "a2a37c43-215e-418a-9462-ac5dfc458c29",
+      "label": "Erskine, Columbia",
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Kiss All The Time. Disco, Occasionally."
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": "UK",
+    "created_at": "2026-10-10T14:54:25.321436+00:00",
+    "deezer_id": null,
+    "discogs_id": "2640143",
+    "edition": "original",
+    "id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
+    "label": "Columbia / Erskine Records",
+    "mbid": "d712ba0e-25fa-4c03-aecd-ec0c100deba5",
+    "release_date": "2022-05-20",
+    "release_type": "album",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Harry's House",
+    "updated_at": "2026-10-10T14:54:25.321436+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561",
+      "confidence": "verified",
+      "created_at": "2026-10-10T14:54:29.445099+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 166000,
+      "id": "011812fe-494e-4fdb-b7dd-388612bf1520",
+      "isrc": "USSM12200612",
+      "mbid": null,
+      "release_id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "As It Was",
+      "track_number": 4,
+      "updated_at": "2026-10-10T14:54:29.445099+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T14:54:41.505338+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "artist_id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561",
+        "release_id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
+        "track_id": "011812fe-494e-4fdb-b7dd-388612bf1520"
+      },
+      "entity_id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "b4f533e7-4f4a-4e45-a959-0ace8f3b5c18",
+      "input": {
+        "artist": "Harry Styles",
+        "release": "Harry's House",
+        "track": "As It Was"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "Applied owner-approved proposal 4d051c89-4e56-499e-8f60-41ea28b9eb2b verbatim. Verified the track 'As It Was' as the 4th track of the album 'Harry's House' (2022).",
+      "status": "verified"
+    }
+  ]
+}

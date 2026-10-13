@@ -1,0 +1,89 @@
+{
+  "artists": {
+    "canonical_name": "Harry Styles",
+    "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:27:18.662962+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "edae4607-f653-471f-b785-77a99f5849f5",
+      "phash": null,
+      "release_id": "a2a37c43-215e-418a-9462-ac5dfc458c29",
+      "role": "canonical",
+      "source": "discogs",
+      "source_url": "https://www.discogs.com/release/36690721-Harry-Styles-Kiss-All-The-Time-Disco-Occasionally",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Harry Styles"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.discogs.com/release/23330279-Harry-Styles-Harrys-House/image/SW1hZ2U6Nzg0NjA3MzA=?ev=item-vc",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T14:54:25.321436+00:00",
+      "edition": "original",
+      "id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
+      "label": "Columbia / Erskine Records",
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Harry's House"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": null,
+    "created_at": "2026-10-10T01:27:12.694297+00:00",
+    "deezer_id": null,
+    "discogs_id": "4153480",
+    "edition": "original",
+    "id": "a2a37c43-215e-418a-9462-ac5dfc458c29",
+    "label": "Erskine, Columbia",
+    "mbid": "8676b232-108c-4229-be09-f1b09b0ec5f6",
+    "release_date": "2026-03-06",
+    "release_type": "album",
+    "release_year": 2026,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Kiss All The Time. Disco, Occasionally.",
+    "updated_at": "2026-10-10T01:27:12.694297+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561",
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:27:15.58127+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 311000,
+      "id": "a39eb5dd-4143-44cb-81d1-5abe948bed31",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a2a37c43-215e-418a-9462-ac5dfc458c29",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Aperture",
+      "track_number": 1,
+      "updated_at": "2026-10-10T01:27:15.58127+00:00"
+    }
+  ],
+  "verifications": []
+}

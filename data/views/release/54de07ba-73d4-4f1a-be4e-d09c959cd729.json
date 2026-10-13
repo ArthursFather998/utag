@@ -1,0 +1,68 @@
+{
+  "artists": {
+    "canonical_name": "Ed Sheeran",
+    "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:33:03.476066+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "6df35919-9bbf-4129-a72b-930a363d64d3",
+      "phash": null,
+      "release_id": "54de07ba-73d4-4f1a-be4e-d09c959cd729",
+      "role": "canonical",
+      "source": "musicbrainz-caa",
+      "source_url": "https://archive.org/download/mbid-4f90bd0a-0e62-455e-93a2-4253cfe296bd/mbid-4f90bd0a-0e62-455e-93a2-4253cfe296bd-28103815770.jpg",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "3041e74e-4543-430c-add6-fb8d4e4dd085",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": null,
+    "created_at": "2026-10-10T00:03:19.751543+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "54de07ba-73d4-4f1a-be4e-d09c959cd729",
+    "label": "Asylum / Atlantic",
+    "mbid": "f71e953b-ac64-4b74-8897-2092439d54e8",
+    "release_date": "2020-12-21",
+    "release_type": "single",
+    "release_year": 2020,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Afterglow",
+    "updated_at": "2026-10-10T00:03:19.751543+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3041e74e-4543-430c-add6-fb8d4e4dd085",
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:03:20.58217+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 185000,
+      "id": "35000012-fd4c-439a-a465-c6ec93af11b1",
+      "isrc": "GBAHS2001193",
+      "mbid": null,
+      "release_id": "54de07ba-73d4-4f1a-be4e-d09c959cd729",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Afterglow",
+      "track_number": 1,
+      "updated_at": "2026-10-10T00:34:49.205195+00:00"
+    }
+  ],
+  "verifications": []
+}

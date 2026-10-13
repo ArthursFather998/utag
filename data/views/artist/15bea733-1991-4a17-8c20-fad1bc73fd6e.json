@@ -1,0 +1,83 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Kendrick Lamar",
+    "confidence": "verified",
+    "created_at": "2026-10-10T00:45:04.761875+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e",
+    "image_url": null,
+    "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+    "spotify_id": null,
+    "status": "verified",
+    "updated_at": "2026-10-10T00:45:04.761875+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Kendrick Lamar"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://archive.org/download/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc-37147953292.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:45:18.035903+00:00",
+      "edition": "other",
+      "id": "faf29dfc-a819-4ac2-a7e7-8d4181f7a34e",
+      "label": "ChopNotSlop Ent.",
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "To Chop a Butterfly (Chopped Not Slopped)"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T00:49:11.709516+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "canonical_name": "Kendrick Lamar",
+        "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077"
+      },
+      "entity_id": "15bea733-1991-4a17-8c20-fad1bc73fd6e",
+      "entity_type": "artist",
+      "field_confidence": null,
+      "id": "4a2abed0-11e6-41ea-92ce-5de7380ef237",
+      "input": {
+        "artist": "Kendrick Lamar"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "Verified via MusicBrainz and general web consensus.",
+      "status": "verified"
+    },
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T00:46:00.254601+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "canonical_name": "Kendrick Lamar",
+        "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077"
+      },
+      "entity_id": "15bea733-1991-4a17-8c20-fad1bc73fd6e",
+      "entity_type": "artist",
+      "field_confidence": null,
+      "id": "69f33897-f620-47a5-a1d6-d088f1bcfb43",
+      "input": {
+        "artist": "Kendrick Lamar"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "Verified via MusicBrainz and multiple web sources. Standard canonical name for the artist.",
+      "status": "verified"
+    }
+  ]
+}

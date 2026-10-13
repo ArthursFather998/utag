@@ -1,0 +1,109 @@
+{
+  "artists": {
+    "canonical_name": "Conan Gray",
+    "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:43:48.587278+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "8662e3ea-fad9-48ca-8a2f-b13e99284511",
+      "phash": null,
+      "release_id": "4c84401c-e997-4055-a4ca-0f2e3234e5cc",
+      "role": "canonical",
+      "source": "musicbrainz-caa",
+      "source_url": "https://coverartarchive.org/release/c4ca4c73-9e84-4aa4-a30f-3ae780bd6379/front",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://tse4.mm.bing.net/th/id/OIP.EzrvyRsMOIOgCxqmTvsprwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:59:35.509655+00:00",
+      "edition": "anniversary",
+      "id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Kid Krow, Decomposed (5 Year Anniversary)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.conangray.com/cdn/shop/products/Superache_Cover_1000x1000.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:55:14.666118+00:00",
+      "edition": "original",
+      "id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Superache"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": null,
+    "created_at": "2026-10-10T00:43:17.695363+00:00",
+    "deezer_id": null,
+    "discogs_id": "3447671",
+    "edition": "original",
+    "id": "4c84401c-e997-4055-a4ca-0f2e3234e5cc",
+    "label": "Republic Records",
+    "mbid": "c4ca4c73-9e84-4aa4-a30f-3ae780bd6379",
+    "release_date": "2024-04-05",
+    "release_type": "album",
+    "release_year": 2024,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Found Heaven",
+    "updated_at": "2026-10-10T00:43:43.825895+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:43:24.441099+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ae5dd2c2-d93a-4f16-8b4a-7c7bcdf5ad1e",
+      "isrc": "USUM72400701",
+      "mbid": null,
+      "release_id": "4c84401c-e997-4055-a4ca-0f2e3234e5cc",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Alley Rose",
+      "track_number": 5,
+      "updated_at": "2026-10-10T00:43:24.441099+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,45 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Brian McKnight",
+    "confidence": "verified",
+    "created_at": "2026-10-10T20:57:20.556281+00:00",
+    "deezer_id": null,
+    "discogs_id": "97515",
+    "genres": [
+      "R&B",
+      "Soul"
+    ],
+    "id": "061d89cb-5fac-4e8d-811e-aa08a92edb19",
+    "image_url": null,
+    "mbid": "bf75ef89-7b4c-4771-ac43-4d5c10617190",
+    "spotify_id": null,
+    "status": "verified",
+    "updated_at": "2026-10-10T20:57:20.556281+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Brian McKnight"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://i.discogs.com/veAqJKWq0mCyiki-dhFHrkNnZSP_vFwu7VC_r6nf6mI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTg4/MzAtMTM4NDk5ODI2/Mi0zNzEyLmpwZWc.jpeg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:57:30.453634+00:00",
+      "edition": "original",
+      "id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2",
+      "label": "Motown",
+      "release_type": "album",
+      "release_year": 1999,
+      "title": "Back at One"
+    }
+  ],
+  "verifications": []
+}

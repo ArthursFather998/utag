@@ -1,0 +1,68 @@
+{
+  "artists": {
+    "canonical_name": "Radiohead",
+    "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:36:38.051343+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "5437f3e3-878a-4183-a340-d776e6b767d5",
+      "phash": null,
+      "release_id": "a2f6a7ea-ec72-4c6a-9d1b-6b038cc2a153",
+      "role": "canonical",
+      "source": "musicbrainz-caa",
+      "source_url": "https://coverartarchive.org/release/e9b0f69e-ee3d-36ed-8c12-f8ee65f87e45/front",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+    "barcode": "634904032425",
+    "catalog_number": "XLCD 324",
+    "confidence": "verified",
+    "country": "Europe",
+    "created_at": "2026-10-10T00:36:13.93458+00:00",
+    "deezer_id": null,
+    "discogs_id": "1184135",
+    "edition": "original",
+    "id": "a2f6a7ea-ec72-4c6a-9d1b-6b038cc2a153",
+    "label": "XL Recordings",
+    "mbid": "e9b0f69e-ee3d-36ed-8c12-f8ee65f87e45",
+    "release_date": "2007-12-31",
+    "release_type": "album",
+    "release_year": 2007,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "In Rainbows",
+    "updated_at": "2026-10-10T00:36:13.93458+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:36:16.458366+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 229000,
+      "id": "e5bbb052-ae4d-4e74-97fc-40499b530930",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a2f6a7ea-ec72-4c6a-9d1b-6b038cc2a153",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "All I Need",
+      "track_number": 5,
+      "updated_at": "2026-10-10T00:36:16.458366+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,100 @@
+{
+  "artists": {
+    "canonical_name": "Malcolm Todd",
+    "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:54:08.649474+00:00",
+      "edition_label": "deluxe",
+      "height": null,
+      "id": "5d840f06-56f5-4c8e-bcd2-91ed1f88c52b",
+      "phash": null,
+      "release_id": "e1506c41-9f7d-4ef9-8e08-7aad742028f6",
+      "role": "canonical",
+      "source": "musick.com.au",
+      "source_url": "https://cdn-images.dzcdn.net/images/cover/38f1aac7d6b5b0e84ef0a02b4cad77fc/1000x1000-000000-80-0-0.jpg",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": "1830287206",
+    "artist_id": "8fd944d0-486b-4f90-934e-09121d9e0ac2",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": "US",
+    "created_at": "2026-10-10T16:54:02.636476+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "deluxe",
+    "id": "e1506c41-9f7d-4ef9-8e08-7aad742028f6",
+    "label": "Columbia Records",
+    "mbid": null,
+    "release_date": "2025-08-08",
+    "release_type": "album",
+    "release_year": 2025,
+    "spotify_id": "2kxdruQ1hg4Kt4mZSRR7I6",
+    "status": "verified",
+    "title": "Malcolm Todd (still)",
+    "updated_at": "2026-10-10T16:54:02.636476+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "8fd944d0-486b-4f90-934e-09121d9e0ac2",
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:54:05.278732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 113000,
+      "id": "d9f895ed-195d-4778-8912-084a17e2b5e0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e1506c41-9f7d-4ef9-8e08-7aad742028f6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Attention",
+      "track_number": 15,
+      "updated_at": "2026-10-10T16:54:05.278732+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T16:54:18.000084+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "artist_id": "8fd944d0-486b-4f90-934e-09121d9e0ac2",
+        "release_id": "e1506c41-9f7d-4ef9-8e08-7aad742028f6",
+        "track_id": "d9f895ed-195d-4778-8912-084a17e2b5e0"
+      },
+      "entity_id": "e1506c41-9f7d-4ef9-8e08-7aad742028f6",
+      "entity_type": "release",
+      "field_confidence": {
+        "artist.canonical_name": "verified",
+        "release.label": "verified",
+        "release.release_date": "verified",
+        "release.title": "verified",
+        "tracks[0].duration_ms": "verified",
+        "tracks[0].title": "verified",
+        "tracks[0].track_number": "verified"
+      },
+      "id": "90ad5cef-1428-4f3e-a8da-52cd7e0e4b32",
+      "input": {
+        "artist": "Malcolm Todd",
+        "release": "Malcolm Todd (still)",
+        "track": "Attention"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "OWNER-APPROVED PROPOSAL: The song Attention is verified as track 15 on the deluxe edition Malcolm Todd (still) released 2025-08-08. The artist, album title, and track length (1:53) are consistent across official streaming platforms and encyclopedic sources. The artwork is tied to the deluxe edition specific tracklist.",
+      "status": "verified"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Billie Eilish",
+    "confidence": "verified",
+    "created_at": "2026-10-09T03:27:57.352403+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "verified",
+    "updated_at": "2026-10-09T06:20:54.355597+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Billie Eilish"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/43031198460.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T05:09:14.949007+00:00",
+      "edition": "original",
+      "id": "0f054fe9-015c-4e07-afbd-dff545961622",
+      "label": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "When We All Fall Asleep, Where Do We Go?"
+    }
+  ],
+  "verifications": []
+}

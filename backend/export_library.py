@@ -92,14 +92,164 @@ def table_count(table):
         return -1
 
 
+def art_entry(a):
+    return {
+        "source_url": a.get("source_url"),
+        "stored_path": a.get("stored_path"),
+        "role": a.get("role"),
+    }
+
+
+def catalog_release(r, artist_name, canonical_art):
+    """Release shaped like the old PostgREST embed so releaseRow() works unchanged."""
+    return {
+        "id": r["id"],
+        "title": r["title"],
+        "edition": r.get("edition"),
+        "release_type": r.get("release_type"),
+        "release_year": r.get("release_year"),
+        "label": r.get("label"),
+        "confidence": r.get("confidence"),
+        "created_at": r.get("created_at"),
+        "artists": {"canonical_name": artist_name},
+        "artwork": [art_entry(canonical_art)] if canonical_art else [],
+    }
+
+
+NEEDS = ("needs_review", "conflicting")
+
+
+def build_views(rows, data_dir):
+    """Derived view files the site reads instead of PostgREST."""
+    vdir = os.path.join(data_dir, "views")
+    os.makedirs(vdir, exist_ok=True)
+
+    artists = rows["artists"]
+    releases = rows["releases"]
+    tracks = rows["tracks"]
+    artwork = rows["artwork"]
+    verifs = rows["verifications"]
+    corrections = rows["corrections"]
+
+    artist_name = {a["id"]: a["canonical_name"] for a in artists}
+    canonical_art = {}
+    for a in artwork:
+        if a.get("role") == "canonical" and a.get("release_id"):
+            canonical_art[a["release_id"]] = a
+
+    def rel_verifs(etype, eid, limit):
+        vs = [v for v in verifs
+              if v.get("entity_type") == etype and v.get("entity_id") == eid]
+        vs.sort(key=lambda v: v.get("created_at") or "", reverse=True)
+        return vs[:limit]
+
+    def rel_corrections(etype, eid, limit):
+        cs = [c for c in corrections
+              if c.get("entity_type") == etype and c.get("entity_id") == eid]
+        cs.sort(key=lambda c: c.get("created_at") or "", reverse=True)
+        return cs[:limit]
+
+    # ---- catalog.json: everything list/search pages need in one fetch ----
+    rel_count = {}
+    for r in releases:
+        aid = r.get("artist_id")
+        rel_count[aid] = rel_count.get(aid, 0) + 1
+    cat_artists = [
+        {
+            "id": a["id"],
+            "canonical_name": a["canonical_name"],
+            "aliases": a.get("aliases") or [],
+            "genres": a.get("genres") or [],
+            "confidence": a.get("confidence"),
+            "image_url": a.get("image_url"),
+            "release_count": rel_count.get(a["id"], 0),
+        }
+        for a in artists
+    ]
+    cat_artists.sort(key=lambda a: (a["canonical_name"] or "").lower())
+    cat_releases = [
+        catalog_release(r, artist_name.get(r.get("artist_id"), ""),
+                        canonical_art.get(r["id"]))
+        for r in releases
+    ]
+    cat_releases.sort(key=lambda r: r.get("created_at") or "", reverse=True)
+    with open(os.path.join(vdir, "catalog.json"), "w") as f:
+        json.dump({"artists": cat_artists, "releases": cat_releases}, f,
+                  indent=2, sort_keys=True, ensure_ascii=False)
+        f.write("\n")
+    print(f"  views/catalog.json: {len(cat_artists)} artists, {len(cat_releases)} releases")
+
+    # ---- review.json ----
+    with open(os.path.join(vdir, "review.json"), "w") as f:
+        need_verifs = [v for v in verifs if v.get("status") == "needs_review"]
+        need_verifs.sort(key=lambda v: v.get("created_at") or "", reverse=True)
+        json.dump({
+            "releases": [r for r in cat_releases if r.get("confidence") in NEEDS],
+            "artists": [
+                {"id": a["id"], "canonical_name": a["canonical_name"],
+                 "confidence": a.get("confidence")}
+                for a in cat_artists if a.get("confidence") in NEEDS
+            ],
+            "verifications": need_verifs[:25],
+        }, f, indent=2, sort_keys=True, ensure_ascii=False)
+        f.write("\n")
+    print("  views/review.json")
+
+    # ---- per-artist pages ----
+    adir = os.path.join(vdir, "artist")
+    os.makedirs(adir, exist_ok=True)
+    for a in artists:
+        arels = [catalog_release(r, a["canonical_name"], canonical_art.get(r["id"]))
+                 for r in releases if r.get("artist_id") == a["id"]]
+        arels.sort(key=lambda r: r.get("release_year") or 0)
+        with open(os.path.join(adir, f'{a["id"]}.json'), "w") as f:
+            json.dump({
+                "artist": a,
+                "releases": arels,
+                "verifications": rel_verifs("artist", a["id"], 10),
+                "corrections": rel_corrections("artist", a["id"], 10),
+            }, f, indent=2, sort_keys=True, ensure_ascii=False)
+            f.write("\n")
+    print(f"  views/artist/: {len(artists)} files")
+
+    # ---- per-release pages ----
+    rdir = os.path.join(vdir, "release")
+    os.makedirs(rdir, exist_ok=True)
+    for r in releases:
+        rid = r["id"]
+        rtracks = [t for t in tracks if t.get("release_id") == rid]
+        rtracks.sort(key=lambda t: (t.get("disc_number") or 1,
+                                    t.get("track_number")
+                                    if t.get("track_number") is not None else 10**9))
+        rart = [x for x in artwork if x.get("release_id") == rid]
+        rart.sort(key=lambda x: x.get("created_at") or "")
+        aid = r.get("artist_id")
+        more = [catalog_release(o, artist_name.get(aid, ""), canonical_art.get(o["id"]))
+                for o in releases if o.get("artist_id") == aid and o["id"] != rid]
+        with open(os.path.join(rdir, f"{rid}.json"), "w") as f:
+            json.dump({
+                "release": r,
+                "artists": {"id": aid,
+                            "canonical_name": artist_name.get(aid, "")},
+                "tracks": rtracks,
+                "artwork": rart,
+                "verifications": rel_verifs("release", rid, 15),
+                "corrections": rel_corrections("release", rid, 15),
+                "more_from_artist": more,
+            }, f, indent=2, sort_keys=True, ensure_ascii=False)
+            f.write("\n")
+    print(f"  views/release/: {len(releases)} files")
+
+
 def main():
     print(f"Exporting UTAG library -> {DATA_DIR}")
+    rows = {}
     counts = {}
     for table in TABLES:
-        rows = fetch_all(table)
+        rows[table] = fetch_all(table)
         tdir = os.path.join(DATA_DIR, table)
         os.makedirs(tdir, exist_ok=True)
-        for row in rows:
+        for row in rows[table]:
             rid = row.get("id")
             if not rid:
                 print(f"  !! {table}: row without id, skipping", file=sys.stderr)
@@ -107,8 +257,10 @@ def main():
             with open(os.path.join(tdir, f"{rid}.json"), "w") as f:
                 json.dump(row, f, indent=2, sort_keys=True, ensure_ascii=False)
                 f.write("\n")
-        counts[table] = len(rows)
-        print(f"  {table}: {len(rows)} rows -> {tdir}")
+        counts[table] = len(rows[table])
+        print(f"  {table}: {len(rows[table])} rows -> {tdir}")
+
+    build_views(rows, DATA_DIR)
 
     # Verification: server-side counts vs files written.
     ok = True

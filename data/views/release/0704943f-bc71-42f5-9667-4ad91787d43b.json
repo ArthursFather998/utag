@@ -1,0 +1,68 @@
+{
+  "artists": {
+    "canonical_name": "Elton John",
+    "id": "02e3e418-564d-4fef-8a05-f262466b4956"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:29:36.665091+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "9db1e5a5-dda0-4ca5-a55f-9ffebc6c5a5b",
+      "phash": null,
+      "release_id": "0704943f-bc71-42f5-9667-4ad91787d43b",
+      "role": "canonical",
+      "source": "apple",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/100x100bb.jpg",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "02e3e418-564d-4fef-8a05-f262466b4956",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": null,
+    "created_at": "2026-10-10T00:01:04.870059+00:00",
+    "deezer_id": null,
+    "discogs_id": "26401634",
+    "edition": "original",
+    "id": "0704943f-bc71-42f5-9667-4ad91787d43b",
+    "label": "EMI / Interscope",
+    "mbid": "78b65cee-4a6d-49c8-a98e-9159bf147cd1",
+    "release_date": "2021-10-22",
+    "release_type": "album",
+    "release_year": 2021,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "The Lockdown Sessions",
+    "updated_at": "2026-10-10T00:01:04.870059+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "02e3e418-564d-4fef-8a05-f262466b4956",
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:01:05.896481+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 208000,
+      "id": "5e883f8d-c2db-430b-96b0-a675cd723233",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0704943f-bc71-42f5-9667-4ad91787d43b",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "After All",
+      "track_number": 4,
+      "updated_at": "2026-10-10T00:01:05.896481+00:00"
+    }
+  ],
+  "verifications": []
+}

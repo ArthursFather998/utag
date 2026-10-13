@@ -1,0 +1,42 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Elvis Presley",
+    "confidence": "verified",
+    "created_at": "2026-10-10T01:37:23.085061+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "verified",
+    "updated_at": "2026-10-10T01:37:23.085061+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.elvisoncd.com/EIGENECD_a-z/import/T/thecompleteburbanksess21.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-10T01:37:56.175406+00:00",
+      "edition": "original",
+      "id": "5fe029ce-219e-41e2-9499-1184c8e7ba22",
+      "label": "Audifon",
+      "release_type": "album",
+      "release_year": 1990,
+      "title": "The Complete Burbank Sessions, Volume 2"
+    }
+  ],
+  "verifications": []
+}

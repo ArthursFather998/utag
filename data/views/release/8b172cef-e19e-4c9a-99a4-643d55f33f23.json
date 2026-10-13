@@ -1,0 +1,303 @@
+{
+  "artists": {
+    "canonical_name": "Skyler Green",
+    "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:15.872719+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "dd5280f5-7f6e-4f81-8ad7-bc2e685a2565",
+      "phash": null,
+      "release_id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+      "role": "canonical",
+      "source": "user",
+      "source_url": null,
+      "status": "verified",
+      "stored_path": "import/Stargazing.jpg",
+      "width": null
+    },
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-10T20:55:28.817534+00:00",
+      "edition_label": "original",
+      "height": null,
+      "id": "1612077b-3afa-42fc-9d13-36f4d7ef2544",
+      "phash": null,
+      "release_id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+      "role": "candidate",
+      "source": "qobuz",
+      "source_url": "https://static.qobuz.com/images/covers/ny/c5/jpoey2f4ec5ny_230.jpg",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://cdn.corenexis.com/f/pim5Ma5NC1a.png",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:04.453903+00:00",
+      "edition": "original",
+      "id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "label": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "I Left The Roses Out Too Long"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Your_Eyes.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:58.796989+00:00",
+      "edition": "original",
+      "id": "6263b76d-c003-44b6-8c71-f50fc7620320",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Your Eyes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Intervals.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:35.614009+00:00",
+      "edition": "original",
+      "id": "908b53fd-cd51-44e5-9a89-9cf3999387c9",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Intervals"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Feel.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:53.036222+00:00",
+      "edition": "original",
+      "id": "a1018b80-48c4-4617-844b-d9edc8b241fd",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Feel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Drain.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:42.296899+00:00",
+      "edition": "original",
+      "id": "af1b11c6-8f52-490c-8918-35eefdde46f7",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Drain"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Retarded.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:47.699862+00:00",
+      "edition": "original",
+      "id": "c31f4e3f-f136-4269-84f7-4b035faaae13",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Retarded"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Tired.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:29.982364+00:00",
+      "edition": "original",
+      "id": "c3f68326-6069-4842-b2cc-d156a77926c0",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Tired"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://m.media-amazon.com/images/I/514Qg0g8tML._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
+          "stored_path": "import/Hiraeth.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:23.901011+00:00",
+      "edition": "original",
+      "id": "d1f4560d-26ec-4a0f-9ddd-dd3fe607a73e",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Hiraeth"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Harlot.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:18.088646+00:00",
+      "edition": "original",
+      "id": "d4c5e05e-f620-4c51-8e8a-d1f6b8bb8fb5",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Harlot"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-09T03:26:12.105814+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+    "label": "7450315 Records DK",
+    "mbid": null,
+    "release_date": "2026-09-28",
+    "release_type": "single",
+    "release_year": 2026,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Stargazing - (Bonus Track)",
+    "updated_at": "2026-10-10T20:55:27.712796+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:13.450975+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 151000,
+      "id": "650b1f1d-98d8-4201-a15f-17ee3ab9fe29",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Stargazing - (Bonus Track)",
+      "track_number": 1,
+      "updated_at": "2026-10-10T20:55:35.668481+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T20:55:30.03094+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "applied_values": {
+          "label": "7450315 Records DK",
+          "release_date": "2026-09-28"
+        },
+        "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+        "release_id": "8b172cef-e19e-4c9a-99a4-643d55f33f23"
+      },
+      "entity_id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "23fb59b0-7278-4443-a2db-aaf3a69d5354",
+      "input": {
+        "artist": {
+          "canonical_name": "Skyler Green"
+        },
+        "artwork": {
+          "source_url": "https://static.qobuz.com/images/covers/ny/c5/jpoey2f4ec5ny_230.jpg"
+        },
+        "release": {
+          "label": "7450315 Records DK",
+          "title": "Stargazing - (Bonus Track)"
+        },
+        "tracks": [
+          {
+            "title": "Stargazing - (Bonus Track)"
+          }
+        ]
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "needs_review",
+      "rationale": "OWNER-APPROVED PROPOSAL (ID: 460b99ca-9bed-40e8-a2de-bc2f1dad7e51). The release is found on Qobuz with matching title and artist. Added label and duration. Artwork found on the release page is marked as candidate as it has not been cross-referenced against a second independent source.",
+      "status": "needs_review"
+    }
+  ]
+}

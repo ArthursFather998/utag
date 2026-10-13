@@ -1,0 +1,137 @@
+{
+  "artists": {
+    "canonical_name": "Conan Gray",
+    "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:55:22.703827+00:00",
+      "edition_label": "Standard",
+      "height": null,
+      "id": "49fd588f-27ba-4138-82fd-12004765bef1",
+      "phash": null,
+      "release_id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+      "role": "canonical",
+      "source": "Official Store",
+      "source_url": "https://www.conangray.com/cdn/shop/products/Superache_Cover_1000x1000.jpg",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://tse4.mm.bing.net/th/id/OIP.EzrvyRsMOIOgCxqmTvsprwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:59:35.509655+00:00",
+      "edition": "anniversary",
+      "id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Kid Krow, Decomposed (5 Year Anniversary)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c4ca4c73-9e84-4aa4-a30f-3ae780bd6379/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:43:17.695363+00:00",
+      "edition": "original",
+      "id": "4c84401c-e997-4055-a4ca-0f2e3234e5cc",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Found Heaven"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+    "barcode": "00602445796786",
+    "catalog_number": "00602445796786",
+    "confidence": "verified",
+    "country": "US",
+    "created_at": "2026-10-10T16:55:14.666118+00:00",
+    "deezer_id": null,
+    "discogs_id": "23744051",
+    "edition": "original",
+    "id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+    "label": "Republic Records",
+    "mbid": "b6b9de5b-462d-4919-a0d4-cb46ee945604",
+    "release_date": "2022-06-24",
+    "release_type": "album",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Superache",
+    "updated_at": "2026-10-10T16:55:14.666118+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:55:18.748822+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 243000,
+      "id": "f00e71b4-d913-43d0-99bf-8941376eee73",
+      "isrc": "USUM72208367",
+      "mbid": "da1ae1a0-c38a-4f7f-aa51-7d59386be307",
+      "release_id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Astronomy",
+      "track_number": 5,
+      "updated_at": "2026-10-10T16:55:18.748822+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T16:55:31.431983+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "artist": "Conan Gray",
+        "release": "Superache",
+        "track": "Astronomy"
+      },
+      "entity_id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+      "entity_type": "release",
+      "field_confidence": {
+        "artist.canonical_name": "verified",
+        "release.release_date": "verified",
+        "release.title": "verified",
+        "tracks[0].isrc": "high_confidence",
+        "tracks[0].track_number": "verified"
+      },
+      "id": "4da001b4-04db-4d82-8bfa-7f93a14a83aa",
+      "input": {
+        "proposal_id": "bd9e3304-d548-4a2d-bc00-8c651ee8e563"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "Applied owner-approved proposal bd9e3304-d548-4a2d-bc00-8c651ee8e563 verbatim. The song is track 5 of the album Superache. Verified across Wikipedia, Discogs, MusicBrainz, and official store.",
+      "status": "verified"
+    }
+  ]
+}

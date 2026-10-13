@@ -1,0 +1,68 @@
+{
+  "artists": {
+    "canonical_name": "Tyler, The Creator",
+    "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:39:38.01074+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "145aae2b-8d64-4dee-a2ac-d5e3a09a508b",
+      "phash": null,
+      "release_id": "87340af2-8f7b-4b4d-8813-6c276b66fc04",
+      "role": "canonical",
+      "source": "musicbrainz-caa",
+      "source_url": "https://coverartarchive.org/release/8fc14822-33d9-4541-94e5-b5fedc7810ed",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": null,
+    "created_at": "2026-10-10T01:39:36.615039+00:00",
+    "deezer_id": null,
+    "discogs_id": "1591877",
+    "edition": "original",
+    "id": "87340af2-8f7b-4b4d-8813-6c276b66fc04",
+    "label": "Columbia",
+    "mbid": "4603cee3-ece6-435c-b0b7-7d9eb1842d36",
+    "release_date": "2019-05-17",
+    "release_type": "album",
+    "release_year": 2019,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "IGOR",
+    "updated_at": "2026-10-10T01:39:36.615039+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:39:37.270178+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6d251667-66f3-4b5c-b220-8e7c59c14fcc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "87340af2-8f7b-4b4d-8813-6c276b66fc04",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "ARE WE STILL FRIENDS",
+      "track_number": 12,
+      "updated_at": "2026-10-10T01:39:37.270178+00:00"
+    }
+  ],
+  "verifications": []
+}

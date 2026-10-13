@@ -1,0 +1,66 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Three Days Grace",
+    "confidence": "verified",
+    "created_at": "2026-10-10T01:06:02.498523+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",
+    "image_url": null,
+    "mbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
+    "spotify_id": null,
+    "status": "verified",
+    "updated_at": "2026-10-10T01:06:02.498523+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:06:06.190727+00:00",
+      "edition": "original",
+      "id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+      "label": "Jive / Zomba",
+      "release_type": "album",
+      "release_year": 2008,
+      "title": "One-X / Live at the Palace 2008"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T01:06:32.192869+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "canonical_name": "Three Days Grace",
+        "mbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d"
+      },
+      "entity_id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",
+      "entity_type": "artist",
+      "field_confidence": null,
+      "id": "7acf57d7-8bd6-4ee7-8461-7afd9a090b5a",
+      "input": {
+        "album": "One-X / Live at the Palace 2008",
+        "artist": "Three Days Grace",
+        "fileName": "Three Days Grace - Animal I Have Become.mp3",
+        "title": "Animal I Have Become"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "Verified via MusicBrainz and Wikipedia.",
+      "status": "verified"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "artists": {
+    "canonical_name": "Mena Massoud & Naomi Scott",
+    "id": "fbd750a8-6d37-472c-9408-98dc67a5f22c"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:24:48.077018+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "b16914f8-794f-4c07-b605-b86096e4e721",
+      "phash": null,
+      "release_id": "80a8b7c5-93ae-40e4-aa04-baebf7c9c9a4",
+      "role": "canonical",
+      "source": "musicbrainz-caa",
+      "source_url": "https://archive.org/download/mbid-ebdfd9d2-ca95-459a-a273-384978d2b458/mbid-ebdfd9d2-ca95-459a-a273-384978d2b458-44713565778.jpg",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "fbd750a8-6d37-472c-9408-98dc67a5f22c",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": null,
+    "created_at": "2026-10-09T23:57:45.196351+00:00",
+    "deezer_id": null,
+    "discogs_id": "14948623",
+    "edition": "original",
+    "id": "80a8b7c5-93ae-40e4-aa04-baebf7c9c9a4",
+    "label": "Walt Disney Records",
+    "mbid": "ebdfd9d2-ca95-459a-a273-384978d2b458",
+    "release_date": "2019-05-22",
+    "release_type": "soundtrack",
+    "release_year": 2019,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Aladdin (Original Motion Picture Soundtrack)",
+    "updated_at": "2026-10-10T00:24:49.323404+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "fbd750a8-6d37-472c-9408-98dc67a5f22c",
+      "confidence": "verified",
+      "created_at": "2026-10-09T23:57:46.035063+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "0c6e7359-0005-4abf-a0eb-888b68566dee",
+      "isrc": "USWD11993111",
+      "mbid": null,
+      "release_id": "80a8b7c5-93ae-40e4-aa04-baebf7c9c9a4",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "A Whole New World",
+      "track_number": null,
+      "updated_at": "2026-10-09T23:57:46.035063+00:00"
+    }
+  ],
+  "verifications": []
+}

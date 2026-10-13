@@ -1,0 +1,1281 @@
+{
+  "artists": [
+    {
+      "aliases": [],
+      "canonical_name": "Aaliyah",
+      "confidence": "verified",
+      "genres": [],
+      "id": "603ed3ae-7d77-4703-966c-fb4e8dcf1481",
+      "image_url": null,
+      "release_count": 0
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Arctic Monkeys",
+      "confidence": "verified",
+      "genres": [],
+      "id": "d2c0c42a-6243-4543-bf0f-fbe30d70244f",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "ASTN",
+      "confidence": "verified",
+      "genres": [],
+      "id": "cfb41b7f-1135-456e-aec6-7fa37900a2c9",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Billie Eilish",
+      "confidence": "verified",
+      "genres": [],
+      "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Brent Faiyaz",
+      "confidence": "verified",
+      "genres": [
+        "R&B",
+        "alternative R&B",
+        "DMV hip-hop"
+      ],
+      "id": "8751b493-8c5b-41a3-a591-40848132500d",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Brian McKnight",
+      "confidence": "verified",
+      "genres": [
+        "R&B",
+        "Soul"
+      ],
+      "id": "061d89cb-5fac-4e8d-811e-aa08a92edb19",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Britney Spears",
+      "confidence": "verified",
+      "genres": [
+        "Pop",
+        "Teen Pop",
+        "Dance-Pop"
+      ],
+      "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Charlie Puth",
+      "confidence": "verified",
+      "genres": [],
+      "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11",
+      "image_url": null,
+      "release_count": 0
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Conan Gray",
+      "confidence": "verified",
+      "genres": [
+        "Pop"
+      ],
+      "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "image_url": null,
+      "release_count": 3
+    },
+    {
+      "aliases": [],
+      "canonical_name": "d4vd",
+      "confidence": "verified",
+      "genres": [],
+      "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
+      "image_url": "https://cdn.corenexis.com/f/piK0sFn2CJj.png",
+      "release_count": 6
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Daniel Caesar",
+      "confidence": "verified",
+      "genres": [],
+      "id": "d25772f8-61ce-414a-86ce-2068f839528f",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dean Lewis",
+      "confidence": "verified",
+      "genres": [
+        "Pop"
+      ],
+      "id": "52bcafcf-8112-4eaf-a801-d6fa4e8d4de3",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ed Sheeran",
+      "confidence": "verified",
+      "genres": [],
+      "id": "3041e74e-4543-430c-add6-fb8d4e4dd085",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Elton John",
+      "confidence": "verified",
+      "genres": [],
+      "id": "02e3e418-564d-4fef-8a05-f262466b4956",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Elvis Presley",
+      "confidence": "verified",
+      "genres": [],
+      "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "EsDeeKid",
+      "confidence": "verified",
+      "genres": [],
+      "id": "0889a421-b231-46b9-9ab5-c82502170e11",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Frank Ocean",
+      "confidence": "verified",
+      "genres": [],
+      "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Harry Styles",
+      "confidence": "verified",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561",
+      "image_url": null,
+      "release_count": 2
+    },
+    {
+      "aliases": [],
+      "canonical_name": "J3REMIAH",
+      "confidence": "high_confidence",
+      "genres": [],
+      "id": "fc20eac2-8ab2-45f1-9ab8-c1f3382a4787",
+      "image_url": null,
+      "release_count": 0
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Kendrick Lamar",
+      "confidence": "verified",
+      "genres": [],
+      "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Malcolm Todd",
+      "confidence": "verified",
+      "genres": [
+        "Alternative",
+        "Soul-pop"
+      ],
+      "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mena Massoud",
+      "confidence": "verified",
+      "genres": [],
+      "id": "b97dbaea-06e7-4e5b-bb10-9712816c8ab5",
+      "image_url": null,
+      "release_count": 0
+    },
+    {
+      "aliases": [
+        "Mena Massoud, Naomi Scott"
+      ],
+      "canonical_name": "Mena Massoud & Naomi Scott",
+      "confidence": "verified",
+      "genres": [],
+      "id": "fbd750a8-6d37-472c-9408-98dc67a5f22c",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Naomi Scott",
+      "confidence": "verified",
+      "genres": [],
+      "id": "a5ea353f-bbcf-4092-9f21-d5db472e072b",
+      "image_url": null,
+      "release_count": 0
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Paramore",
+      "confidence": "verified",
+      "genres": [],
+      "id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Queen",
+      "confidence": "verified",
+      "genres": [],
+      "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Radiohead",
+      "confidence": "verified",
+      "genres": [],
+      "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Skyler Green",
+      "confidence": "needs_review",
+      "genres": [
+        "Soul",
+        "Funk",
+        "R&B"
+      ],
+      "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+      "image_url": null,
+      "release_count": 10
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Steve Lacy",
+      "confidence": "verified",
+      "genres": [
+        "R&B",
+        "Synth-pop",
+        "Bedroom pop",
+        "Alt-pop"
+      ],
+      "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Three Days Grace",
+      "confidence": "verified",
+      "genres": [],
+      "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tyler, The Creator",
+      "confidence": "verified",
+      "genres": [],
+      "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "ugly",
+      "confidence": "verified",
+      "genres": [],
+      "id": "06c837f2-679f-4711-a2cb-57e783d01002",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Various Artists",
+      "confidence": "verified",
+      "genres": [],
+      "id": "503aceba-cd2e-494b-8dbc-b843c6f1251b",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vesson",
+      "confidence": "high_confidence",
+      "genres": [],
+      "id": "3f63f844-cd8a-4cfb-a984-3152d268ebe4",
+      "image_url": null,
+      "release_count": 0
+    },
+    {
+      "aliases": [
+        "Jahseh Onfroy",
+        "XXXTentacion"
+      ],
+      "canonical_name": "XXXTENTACION",
+      "confidence": "verified",
+      "genres": [
+        "Pop Rap",
+        "Trap",
+        "Lofi Hip Hop",
+        "Emo"
+      ],
+      "id": "ce736950-b03b-4374-99a4-28d48942462d",
+      "image_url": null,
+      "release_count": 1
+    }
+  ],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T21:00:39.442156+00:00",
+      "edition": "original",
+      "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "label": "RCA Records",
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Gemini Rights"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://tse4.mm.bing.net/th/id/OIP.EzrvyRsMOIOgCxqmTvsprwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:59:35.509655+00:00",
+      "edition": "anniversary",
+      "id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Kid Krow, Decomposed (5 Year Anniversary)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Brent Faiyaz"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://music.apple.com/us/album/apple-music-live-brent-faiyaz/1717111895",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:58:34.259362+00:00",
+      "edition": "original",
+      "id": "586c570c-e056-4f5a-84d6-153a640e6c27",
+      "label": "ISO Supremacy",
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Apple Music Live: Brent Faiyaz"
+    },
+    {
+      "artists": {
+        "canonical_name": "Brian McKnight"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://i.discogs.com/veAqJKWq0mCyiki-dhFHrkNnZSP_vFwu7VC_r6nf6mI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTg4/MzAtMTM4NDk5ODI2/Mi0zNzEyLmpwZWc.jpeg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:57:30.453634+00:00",
+      "edition": "original",
+      "id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2",
+      "label": "Motown",
+      "release_type": "album",
+      "release_year": 1999,
+      "title": "Back at One"
+    },
+    {
+      "artists": {
+        "canonical_name": "Dean Lewis"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://i.discogs.com/8XY7pswThZjpGCIQ1YwnBdu-UdL_7D_5QpmsLqB40Co/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMx/NTAyLTE1MzcwOTc0/ODctOTMxOC5qcGVn.jpeg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:56:21.787502+00:00",
+      "edition": "original",
+      "id": "d1e232fe-a7c5-4dcf-858b-db7f188946bb",
+      "label": "Island Records Australia",
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "Be Alright"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.conangray.com/cdn/shop/products/Superache_Cover_1000x1000.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:55:14.666118+00:00",
+      "edition": "original",
+      "id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Superache"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/38f1aac7d6b5b0e84ef0a02b4cad77fc/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:54:02.636476+00:00",
+      "edition": "deluxe",
+      "id": "e1506c41-9f7d-4ef9-8e08-7aad742028f6",
+      "label": "Columbia Records",
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Malcolm Todd (still)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Britney Spears"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/..._Baby_One_More_Time_%28album%29.png",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:53:05.977053+00:00",
+      "edition": "deluxe",
+      "id": "d708a4f3-40ba-4ffd-9e67-72acb9ffda72",
+      "label": "Jive",
+      "release_type": "album",
+      "release_year": 1999,
+      "title": "...Baby One More Time"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/XXXTentacion_-_SKINS.png/2289px-XXXTentacion_-_SKINS.png",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:49:44.849762+00:00",
+      "edition": "original",
+      "id": "7c98f847-381e-4e71-bc22-a0e75394746c",
+      "label": "Bad Vibes Forever, Empire",
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "SKINS"
+    },
+    {
+      "artists": {
+        "canonical_name": "Harry Styles"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.discogs.com/release/23330279-Harry-Styles-Harrys-House/image/SW1hZ2U6Nzg0NjA3MzA=?ev=item-vc",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T14:54:25.321436+00:00",
+      "edition": "original",
+      "id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
+      "label": "Columbia / Erskine Records",
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Harry's House"
+    },
+    {
+      "artists": {
+        "canonical_name": "Various Artists"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.discogs.com/master/78443-Various-Dr-Dolittle-The-Album/image/SW1hZ2U6MzA1ODAyNzU=",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:42:16.024408+00:00",
+      "edition": "original",
+      "id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
+      "label": "Atlantic",
+      "release_type": "soundtrack",
+      "release_year": 1998,
+      "title": "Dr. Dolittle: The Album"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/8fc14822-33d9-4541-94e5-b5fedc7810ed",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:39:36.615039+00:00",
+      "edition": "original",
+      "id": "87340af2-8f7b-4b4d-8813-6c276b66fc04",
+      "label": "Columbia",
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "IGOR"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.elvisoncd.com/EIGENECD_a-z/import/T/thecompleteburbanksess21.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-10T01:37:56.175406+00:00",
+      "edition": "original",
+      "id": "5fe029ce-219e-41e2-9499-1184c8e7ba22",
+      "label": "Audifon",
+      "release_type": "album",
+      "release_year": 1990,
+      "title": "The Complete Burbank Sessions, Volume 2"
+    },
+    {
+      "artists": {
+        "canonical_name": "Harry Styles"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.discogs.com/release/36690721-Harry-Styles-Kiss-All-The-Time-Disco-Occasionally",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:27:12.694297+00:00",
+      "edition": "original",
+      "id": "a2a37c43-215e-418a-9462-ac5dfc458c29",
+      "label": "Erskine, Columbia",
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Kiss All The Time. Disco, Occasionally."
+    },
+    {
+      "artists": {
+        "canonical_name": "Queen"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a1f4041b-eac0-4e28-b315-e7b599c8fa06/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:22:26.766996+00:00",
+      "edition": "remaster",
+      "id": "539674b6-013a-485b-863d-a4584ee8fdbc",
+      "label": "Island Records",
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "The Game"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:06:06.190727+00:00",
+      "edition": "original",
+      "id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+      "label": "Jive / Zomba",
+      "release_type": "album",
+      "release_year": 2008,
+      "title": "One-X / Live at the Palace 2008"
+    },
+    {
+      "artists": {
+        "canonical_name": "ugly"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://images.genius.com/b4a1289825b44db20ed7e4c5ba4cdaac.500x500x1.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:03:27.322004+00:00",
+      "edition": "original",
+      "id": "8c68071e-a25a-4e03-a50c-bb7ea23ee8fc",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "always stranger"
+    },
+    {
+      "artists": {
+        "canonical_name": "Daniel Caesar"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/9844eaad-b637-4bc2-9634-d4ec4e58afd6",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:01:42.49727+00:00",
+      "edition": "deluxe",
+      "id": "d0eeb8cd-7d6a-4761-948c-fe43ad54c500",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "NEVER ENOUGH (Bonus Version)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Kendrick Lamar"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://archive.org/download/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc-37147953292.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:45:18.035903+00:00",
+      "edition": "other",
+      "id": "faf29dfc-a819-4ac2-a7e7-8d4181f7a34e",
+      "label": "ChopNotSlop Ent.",
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "To Chop a Butterfly (Chopped Not Slopped)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c4ca4c73-9e84-4aa4-a30f-3ae780bd6379/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:43:17.695363+00:00",
+      "edition": "original",
+      "id": "4c84401c-e997-4055-a4ca-0f2e3234e5cc",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Found Heaven"
+    },
+    {
+      "artists": {
+        "canonical_name": "Paramore"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/2b2caf1d-fef7-4afb-b26a-19ac1155b8ae/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:38:56.339262+00:00",
+      "edition": "original",
+      "id": "9f4a5ca4-4f0f-498c-9d0a-05e1a5c3d77e",
+      "label": "Fueled By Ramen",
+      "release_type": "album",
+      "release_year": 2009,
+      "title": "Brand New Eyes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/e9b0f69e-ee3d-36ed-8c12-f8ee65f87e45/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:36:13.93458+00:00",
+      "edition": "original",
+      "id": "a2f6a7ea-ec72-4c6a-9d1b-6b038cc2a153",
+      "label": "XL Recordings",
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "In Rainbows"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://archive.org/download/mbid-4f90bd0a-0e62-455e-93a2-4253cfe296bd/mbid-4f90bd0a-0e62-455e-93a2-4253cfe296bd-28103815770.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:03:19.751543+00:00",
+      "edition": "original",
+      "id": "54de07ba-73d4-4f1a-be4e-d09c959cd729",
+      "label": "Asylum / Atlantic",
+      "release_type": "single",
+      "release_year": 2020,
+      "title": "Afterglow"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elton John"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/100x100bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:01:04.870059+00:00",
+      "edition": "original",
+      "id": "0704943f-bc71-42f5-9667-4ad91787d43b",
+      "label": "EMI / Interscope",
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "The Lockdown Sessions"
+    },
+    {
+      "artists": {
+        "canonical_name": "Arctic Monkeys"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://archive.org/download/mbid-0b66d93c-176c-3c2d-aede-477063d613e0/mbid-0b66d93c-176c-3c2d-aede-477063d613e0-13155717323.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T23:59:41.058208+00:00",
+      "edition": "original",
+      "id": "2bef43a7-194e-4d68-842e-4fa5b4455e80",
+      "label": "Domino",
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "Favourite Worst Nightmare"
+    },
+    {
+      "artists": {
+        "canonical_name": "Mena Massoud & Naomi Scott"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://archive.org/download/mbid-ebdfd9d2-ca95-459a-a273-384978d2b458/mbid-ebdfd9d2-ca95-459a-a273-384978d2b458-44713565778.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T23:57:45.196351+00:00",
+      "edition": "original",
+      "id": "80a8b7c5-93ae-40e4-aa04-baebf7c9c9a4",
+      "label": "Walt Disney Records",
+      "release_type": "soundtrack",
+      "release_year": 2019,
+      "title": "Aladdin (Original Motion Picture Soundtrack)"
+    },
+    {
+      "artists": {
+        "canonical_name": "EsDeeKid"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/3f/42/483f423c-56c3-597f-90ab-f1c875af89de/5034644741581.jpg/600x600bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T05:57:15.268743+00:00",
+      "edition": "original",
+      "id": "0440f942-0e75-4494-975c-23cdaa097004",
+      "label": "XV Records / Lizzy Records",
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Rebel"
+    },
+    {
+      "artists": {
+        "canonical_name": "ASTN"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://images.genius.com/f5c4349fd355804a455e29bfe186bc52.1000x1000x1",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T05:30:42.556537+00:00",
+      "edition": "original",
+      "id": "de83ad38-c66e-49ce-919e-90fe8721f8c1",
+      "label": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Archive 001"
+    },
+    {
+      "artists": {
+        "canonical_name": "Billie Eilish"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/43031198460.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T05:09:14.949007+00:00",
+      "edition": "original",
+      "id": "0f054fe9-015c-4e07-afbd-dff545961622",
+      "label": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "When We All Fall Asleep, Where Do We Go?"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/listen-before-i-go.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:58.529848+00:00",
+      "edition": "original",
+      "id": "2f31b4b2-03d6-4fbc-81d8-696e8960adc5",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "listen before i go (Cover)"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/forever-unreleased.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:51.072183+00:00",
+      "edition": "original",
+      "id": "65b084b4-a646-457d-9c28-c9d220b83dfa",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Forever"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/im-in-love.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:45.020218+00:00",
+      "edition": "original",
+      "id": "6eab752c-7733-4404-9308-451345bbda55",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Im In Love"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/dancing-through-the-end-of-the-world.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:39.155902+00:00",
+      "edition": "original",
+      "id": "0afa0de7-b25b-43da-baaa-01fdf8966132",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Dancing Through The End Of The World"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/cold-in-the-summer.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:33.001157+00:00",
+      "edition": "original",
+      "id": "b21b1a4d-8a95-4b55-9352-8874a50ee283",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Cold In The Summer"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/celeste-unreleased.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:26.990934+00:00",
+      "edition": "original",
+      "id": "9afc6f2d-7798-436e-8cf7-a70177ae322b",
+      "label": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Celeste"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://cdn.corenexis.com/f/pim5Ma5NC1a.png",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:27:04.453903+00:00",
+      "edition": "original",
+      "id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+      "label": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "I Left The Roses Out Too Long"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Your_Eyes.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:58.796989+00:00",
+      "edition": "original",
+      "id": "6263b76d-c003-44b6-8c71-f50fc7620320",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Your Eyes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Feel.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:53.036222+00:00",
+      "edition": "original",
+      "id": "a1018b80-48c4-4617-844b-d9edc8b241fd",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Feel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Retarded.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:47.699862+00:00",
+      "edition": "original",
+      "id": "c31f4e3f-f136-4269-84f7-4b035faaae13",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Retarded"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Drain.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:42.296899+00:00",
+      "edition": "original",
+      "id": "af1b11c6-8f52-490c-8918-35eefdde46f7",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Drain"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Intervals.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:35.614009+00:00",
+      "edition": "original",
+      "id": "908b53fd-cd51-44e5-9a89-9cf3999387c9",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Intervals"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Tired.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:29.982364+00:00",
+      "edition": "original",
+      "id": "c3f68326-6069-4842-b2cc-d156a77926c0",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Tired"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://m.media-amazon.com/images/I/514Qg0g8tML._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
+          "stored_path": "import/Hiraeth.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:23.901011+00:00",
+      "edition": "original",
+      "id": "d1f4560d-26ec-4a0f-9ddd-dd3fe607a73e",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Hiraeth"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Harlot.jpg"
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-09T03:26:18.088646+00:00",
+      "edition": "original",
+      "id": "d4c5e05e-f620-4c51-8e8a-d1f6b8bb8fb5",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Harlot"
+    },
+    {
+      "artists": {
+        "canonical_name": "Skyler Green"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/Stargazing.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:26:12.105814+00:00",
+      "edition": "original",
+      "id": "8b172cef-e19e-4c9a-99a4-643d55f33f23",
+      "label": "7450315 Records DK",
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Stargazing - (Bonus Track)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-08T22:52:24.63726+00:00",
+      "edition": "original",
+      "id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "label": "Boys Don't Cry",
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Blonde"
+    }
+  ]
+}

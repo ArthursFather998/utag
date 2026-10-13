@@ -1,0 +1,90 @@
+{
+  "artists": {
+    "canonical_name": "Brian McKnight",
+    "id": "061d89cb-5fac-4e8d-811e-aa08a92edb19"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:57:38.31508+00:00",
+      "edition_label": "Standard",
+      "height": null,
+      "id": "92d5b8c2-990e-4f00-a986-0412fb77e8db",
+      "phash": null,
+      "release_id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2",
+      "role": "canonical",
+      "source": "Discogs",
+      "source_url": "https://i.discogs.com/veAqJKWq0mCyiki-dhFHrkNnZSP_vFwu7VC_r6nf6mI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTg4/MzAtMTM4NDk5ODI2/Mi0zNzEyLmpwZWc.jpeg",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "061d89cb-5fac-4e8d-811e-aa08a92edb19",
+    "barcode": "316141070000",
+    "catalog_number": "MOTD-3708",
+    "confidence": "verified",
+    "country": "US",
+    "created_at": "2026-10-10T20:57:30.453634+00:00",
+    "deezer_id": null,
+    "discogs_id": "5118830",
+    "edition": "original",
+    "id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2",
+    "label": "Motown",
+    "mbid": "494c2e84-6c7b-349c-a009-7e3f0bc9a4d0",
+    "release_date": "1999-09-21",
+    "release_type": "album",
+    "release_year": 1999,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Back at One",
+    "updated_at": "2026-10-10T20:57:30.453634+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "061d89cb-5fac-4e8d-811e-aa08a92edb19",
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:57:34.580804+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 263000,
+      "id": "0b7f8749-3e77-40c2-8c52-3ac1e5dcee5e",
+      "isrc": "USMO19900016",
+      "mbid": null,
+      "release_id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Back at One",
+      "track_number": 1,
+      "updated_at": "2026-10-10T20:57:34.580804+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T20:57:47.722047+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "artist_id": "061d89cb-5fac-4e8d-811e-aa08a92edb19",
+        "release_id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2"
+      },
+      "entity_id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "940b5d8c-e436-40f4-80e6-0122f395f4ee",
+      "input": {
+        "artist": "Brian McKnight",
+        "title": "Back at One"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "OWNER-APPROVED PROPOSAL: a011efaa-9a10-4ffc-832f-74f62013c36d. The song is the title track of the 1999 album Back at One. Artist MBID and Release Group MBID were verified via MusicBrainz and Wikidata. The US release (Motown MOTD-3708) was matched using Discogs for catalog number and barcode. ISRC and duration were verified via external metadata sources.",
+      "status": "verified"
+    }
+  ]
+}

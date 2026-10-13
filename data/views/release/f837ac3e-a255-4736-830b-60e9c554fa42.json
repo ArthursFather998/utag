@@ -1,0 +1,112 @@
+{
+  "artists": {
+    "canonical_name": "Steve Lacy",
+    "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T21:00:45.521985+00:00",
+      "edition_label": "Standard",
+      "height": null,
+      "id": "0fcf2745-7faa-40df-a777-41b8c52fe3c0",
+      "phash": null,
+      "release_id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "role": "alternate",
+      "source": "musicbrainz-caa",
+      "source_url": "https://coverartarchive.org/release/b6782fa5-d657-4116-96fd-d0175277b7bf",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    },
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-13T20:38:49.219089+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
+      "phash": null,
+      "release_id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "role": "canonical",
+      "source": "user",
+      "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+    "barcode": "725752902631",
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": "US",
+    "created_at": "2026-10-10T21:00:39.442156+00:00",
+    "deezer_id": null,
+    "discogs_id": "24709877",
+    "edition": "original",
+    "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+    "label": "RCA Records",
+    "mbid": "b6782fa5-d657-4116-96fd-d0175277b7bf",
+    "release_date": "2022-07-15",
+    "release_type": "album",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Gemini Rights",
+    "updated_at": "2026-10-10T21:00:39.442156+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "verified",
+      "created_at": "2026-10-10T21:00:43.02719+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 232000,
+      "id": "7b7517b1-d312-4c4a-a7c8-a43989f3658b",
+      "isrc": "USRC12202615",
+      "mbid": null,
+      "release_id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Bad Habit",
+      "track_number": 5,
+      "updated_at": "2026-10-10T21:00:43.02719+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T21:00:51.879298+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+        "release_id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+        "track_id": "7b7517b1-d312-4c4a-a7c8-a43989f3658b"
+      },
+      "entity_id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "entity_type": "release",
+      "field_confidence": {
+        "artist": "verified",
+        "artwork": "verified",
+        "release": "verified",
+        "track": "verified"
+      },
+      "id": "8a8c4264-b27f-47e7-b4e2-95c59421d4d8",
+      "input": {
+        "artist": "Steve Lacy",
+        "release": "Gemini Rights",
+        "track": "Bad Habit"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "Applied owner-approved proposal dce31a03-b87b-45ad-a761-8b972904b446 verbatim.",
+      "status": "verified"
+    }
+  ]
+}

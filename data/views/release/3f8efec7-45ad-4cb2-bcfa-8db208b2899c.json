@@ -1,0 +1,154 @@
+{
+  "artists": {
+    "canonical_name": "Conan Gray",
+    "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
+  },
+  "artwork": [
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:59:42.581193+00:00",
+      "edition_label": "5 Year Anniversary",
+      "height": null,
+      "id": "a8004fa4-2411-4954-be6c-737292db3db6",
+      "phash": null,
+      "release_id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+      "role": "alternate",
+      "source": "Official Artist Store",
+      "source_url": "https://www.conangray.com/products/kid-krow-decomposed-5-year-anniversary-lp",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    },
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-13T20:39:32.441629+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "033b9bff-dcdf-413e-aa13-1c7e3c765944",
+      "phash": null,
+      "release_id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+      "role": "canonical",
+      "source": "user",
+      "source_url": "https://tse4.mm.bing.net/th/id/OIP.EzrvyRsMOIOgCxqmTvsprwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c4ca4c73-9e84-4aa4-a30f-3ae780bd6379/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:43:17.695363+00:00",
+      "edition": "original",
+      "id": "4c84401c-e997-4055-a4ca-0f2e3234e5cc",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Found Heaven"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://www.conangray.com/cdn/shop/products/Superache_Cover_1000x1000.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:55:14.666118+00:00",
+      "edition": "original",
+      "id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+      "label": "Republic Records",
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Superache"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "verified",
+    "country": "US",
+    "created_at": "2026-10-10T20:59:35.509655+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "anniversary",
+    "id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+    "label": "Republic Records",
+    "mbid": "ef1802f9-ec3e-4f99-a21e-48a4172b4efc",
+    "release_date": "2025-03-21",
+    "release_type": "album",
+    "release_year": 2025,
+    "spotify_id": null,
+    "status": "verified",
+    "title": "Kid Krow, Decomposed (5 Year Anniversary)",
+    "updated_at": "2026-10-10T20:59:35.509655+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:59:38.60176+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": 257000,
+      "id": "05f7e9db-fe85-4f6c-8ea4-b07ea461c8f8",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+      "spotify_id": "7fnrjy0Sd6Lj1IBalr424v",
+      "status": "verified",
+      "title": "Bed Rest",
+      "track_number": 1,
+      "updated_at": "2026-10-10T20:59:38.60176+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-10T20:59:48.941892+00:00",
+      "created_by": "hermes",
+      "decision": {
+        "status": "applied"
+      },
+      "entity_id": "3f8efec7-45ad-4cb2-bcfa-8db208b2899c",
+      "entity_type": "release",
+      "field_confidence": {
+        "artist.canonical_name": "verified",
+        "artist.mbid": "verified",
+        "artwork.role": "verified",
+        "release.label": "verified",
+        "release.mbid": "verified",
+        "release.release_date": "verified",
+        "release.title": "verified",
+        "tracks[0].title": "verified",
+        "tracks[0].track_number": "verified"
+      },
+      "id": "2ee684aa-8574-49a4-a9ad-6866a3b9ae9b",
+      "input": {
+        "proposal_id": "06f8fcfe-8053-46b1-ac0d-3e69e8cddb72"
+      },
+      "model": "hermes/gemma4:cloud",
+      "overall_confidence": "verified",
+      "rationale": "Owner-approved proposal. Verified track and release via official artist store, label page, and MusicBrainz. The song Bed Rest is explicitly listed as the first track of the Kid Krow, Decomposed (5 Year Anniversary) edition. The artwork is a unique hand-drawn version tied to this specific 2025 anniversary release.",
+      "status": "verified"
+    }
+  ]
+}

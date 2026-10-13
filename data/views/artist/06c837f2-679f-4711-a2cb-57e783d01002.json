@@ -1,0 +1,42 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "ugly",
+    "confidence": "verified",
+    "created_at": "2026-10-10T01:03:19.522305+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "06c837f2-679f-4711-a2cb-57e783d01002",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "verified",
+    "updated_at": "2026-10-10T01:03:19.522305+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "ugly"
+      },
+      "artwork": [
+        {
+          "role": "canonical",
+          "source_url": "https://images.genius.com/b4a1289825b44db20ed7e4c5ba4cdaac.500x500x1.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:03:27.322004+00:00",
+      "edition": "original",
+      "id": "8c68071e-a25a-4e03-a50c-bb7ea23ee8fc",
+      "label": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "always stranger"
+    }
+  ],
+  "verifications": []
+}

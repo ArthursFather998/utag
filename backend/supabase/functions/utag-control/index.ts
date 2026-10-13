@@ -136,6 +136,19 @@ Deno.serve(async (req) => {
      JSON file to the repo so the file library tracks Supabase on every edit.
      A GitHub Action rebuilds the derived views on each such push. Supabase is
      the source of truth — a failed commit never fails the save itself. */
+  /* Best-effort activity log: every library write appears in the Activity tab. */
+  async function logActivity(event: string, message: string, level = "info") {
+    try {
+      await supabase.from("hermes_events").insert({
+        job_id: null,
+        level,
+        event,
+        message: message.slice(0, 500),
+        details: {},
+      });
+    } catch { /* never break the write for logging */ }
+  }
+
   async function syncRowToRepo(table: string, id: string): Promise<"ok" | "skipped" | "failed"> {
     const token = Deno.env.get("GITHUB_REPO_TOKEN") || "";
     if (!token) return "skipped";
@@ -276,6 +289,7 @@ Deno.serve(async (req) => {
       });
       if (corrErr) throw corrErr;
       const repoSync = await syncRowsToRepo(table, [entityId, ...demotedIds]);
+      await logActivity("edit", `Edited ${entityType} ${field}: "${String(corrValue).slice(0, 80)}"`);
       return json({ ok: true, action, entity_id: entityId, field, repo_sync: repoSync });
     }
 
@@ -293,6 +307,7 @@ Deno.serve(async (req) => {
         .eq("id", entityId);
       if (error) throw error;
       const repoSync = await syncRowToRepo(table, entityId);
+      await logActivity("edit", `Set ${entityType} confidence to ${confidence}`);
       return json({ ok: true, action, confidence, repo_sync: repoSync });
     }
 
@@ -348,6 +363,7 @@ Deno.serve(async (req) => {
         note: `Artwork added manually with role ${role}`,
       });
       const repoSync = await syncRowsToRepo("artwork", [artId, ...demotedIds]);
+      await logActivity("edit", `Added artwork (${role}) to release`);
       return json({ ok: true, action, artwork_id: artId, repo_sync: repoSync });
     }
 
@@ -509,6 +525,7 @@ Deno.serve(async (req) => {
       const removed: [string, string][] = [["tracks", trackId]];
       for (const v of (verifs || []) as { id: string }[]) removed.push(["verifications", v.id]);
       const repoSync = await deleteRowsFromRepo(removed);
+      await logActivity("edit", `Removed track ${trackId}`);
       return json({ ok: true, action, track_id: trackId, repo_sync: repoSync });
     }
 

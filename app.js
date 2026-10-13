@@ -1327,7 +1327,7 @@ function agoText(iso) {
 async function vActivity() {
   setNav("activity");
   view.innerHTML = `
-    <h1>Hermes activity</h1>
+    <h1>Activity</h1>
     <p class="empty-note" id="act-status"></p>
     <div class="act-head" id="act-head"></div>
     <h2>Now working</h2>
@@ -1443,7 +1443,7 @@ async function vActivity() {
         api("hermes_events?select=*&order=created_at.desc&limit=80")
       ]);
     } catch (e) {
-      document.getElementById("act-now").innerHTML = `<p class="error-note">The activity backend is not installed yet. Run the 20261009_hermes_activity.sql migration in the Supabase SQL editor, and Hermes's work will show up here live.</p>`;
+      document.getElementById("act-now").innerHTML = `<p class="error-note">The activity backend is not installed yet. Run the 20261009_hermes_activity.sql migration in the Supabase SQL editor, and activity will show up here live.</p>`;
       clearInterval(activityTimer); activityTimer = null;
       return;
     }

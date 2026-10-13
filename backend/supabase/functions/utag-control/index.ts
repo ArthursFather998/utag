@@ -358,7 +358,6 @@ Deno.serve(async (req) => {
       const title = String(body.title || "").trim();
       if (!artistName || !title) return json({ ok: false, error: "artist and title required" }, 400);
       const escLike = (s: string) => s.replace(/[%_\\]/g, "\\$&");
-      const normTitle = title.toLowerCase();
 
       let artistId: string, artistExisted = true;
       {

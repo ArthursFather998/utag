@@ -639,7 +639,6 @@ function loadScript(src) {
 async function ensureFixerLibs() {
   await loadScript("vendor/mm.js");
   await loadScript("fixer.js");
-  await loadScript("vendor/id3-writer.js");
 }
 async function ensureFingerprintLib() {
   await loadScript("vendor/chromaprint-shim.js");
@@ -752,9 +751,9 @@ function fixerConfirmFix() {
     <div class="fx-risk">
       <strong>Fix tags &amp; add to library will:</strong><br>
       · Look this song up on Apple Music, Deezer, MusicBrainz${window.UtagFixer.getKey("acoustid") ? ", and AcoustID (audio fingerprint)" : ""} to identify it.<br>
-      · <strong>Rewrite this file's tags</strong> with the corrected metadata. The original tags will be lost — keep a backup copy if they matter to you.<br>
-      · Add the artist, release and track to your UTAG library (skipping anything already there).<br>
-      · A wrong catalog match means wrong metadata. You will get to review every change before anything is applied.
+      · Save the corrected metadata to your UTAG library as new artist, release and track records (skipping anything already there).<br>
+      · The audio file itself is only read for its tags — it is never uploaded, kept, or downloaded back. Your original file stays exactly as it is.<br>
+      · A wrong catalog match means wrong metadata. You will get to review every change before anything is saved.
     </div>
     <div class="btn-row">
       <button class="mini-btn" type="button" data-fx="yes">Yes, fix it</button>
@@ -851,18 +850,18 @@ function fixerReviewScreen() {
       <span class="src">${esc(p.source)} · ${Math.round(p.confidence * 100)}%</span>
     </label>`).join("") : `<p class="lede">The tags already match the catalogs. Nothing to change.</p>`;
   const artHtml = audit.art
-    ? `<p class="fx-note">Artwork found via ${esc(audit.art.source)} — it will be embedded in the fixed file and saved with the release.</p>`
-    : (info.art ? `<p class="fx-note">Keeping the artwork already embedded in the file.</p>` : `<p class="fx-note">No artwork found.</p>`);
+    ? `<p class="fx-note">Artwork found via ${esc(audit.art.source)} — it will be saved with the release.</p>`
+    : `<p class="fx-note">No artwork found.</p>`;
   const m = fixerModal(`
     <h2>Review fixes</h2>
     <p class="lede">${esc(file.name)} — untick anything you do not want applied.</p>
     <div class="fx-props">${listHtml}</div>
     ${artHtml}
     <div class="btn-row">
-      <button class="mini-btn" type="button" data-fx="apply">Apply &amp; add to library</button>
+      <button class="mini-btn" type="button" data-fx="apply">Save to library</button>
       <button class="mini-btn" type="button" data-fx="back">Go back</button>
     </div>
-    <p class="fx-note">Applying rewrites the file's tags and downloads the fixed file, then adds the records to your library.</p>`);
+    <p class="fx-note">Saving writes the corrected metadata to your library as artist, release and track records. The audio file itself is discarded — it is never uploaded or kept.</p>`);
   m.querySelector('[data-fx="back"]').onclick = () => fixerInfoScreen();
   m.querySelector('[data-fx="apply"]').onclick = () => {
     const checked = [...m.querySelectorAll("[data-fx-prop]:checked")].map(c => props[+c.dataset.fxProp]);
@@ -872,11 +871,11 @@ function fixerReviewScreen() {
 
 async function fixerApply(approved) {
   const { file, info, audit } = fixerState;
-  const m = fixerModal(`<h2>Applying…</h2><p class="lede">${esc(file.name)}</p><p class="fx-progress" id="fx-prog">Rewriting tags…</p>`);
+  const m = fixerModal(`<h2>Saving…</h2><p class="lede">${esc(file.name)}</p><p class="fx-progress" id="fx-prog">Saving to library…</p>`);
   const prog = t => { const el = document.getElementById("fx-prog"); if (el) el.textContent = t; };
   const log = (level, event, message) => fixerLog("event", { level, event, message });
 
-  /* Final tag values: approved proposals win, otherwise keep the file's. */
+  /* Final metadata values: approved proposals win, otherwise keep the file's. */
   const final = {
     title: info.title, artist: info.artist, album: info.album,
     genre: info.genre, year: info.year,
@@ -887,38 +886,9 @@ async function fixerApply(approved) {
     else final[p.field] = p.to;
   }
 
-  /* 1. Rewrite the file's ID3 tags in-browser and download it. */
-  let fixedUrl = null;
-  try {
-    const buf = await file.arrayBuffer();
-    const writer = new ID3Writer(buf);
-    if (final.title && final.title !== "Unknown Title") writer.setFrame("TIT2", final.title);
-    if (final.artist && final.artist !== "Unknown Artist") writer.setFrame("TPE1", [final.artist]);
-    if (final.album && final.album !== "Unknown Album") writer.setFrame("TALB", final.album);
-    if (final.genre) writer.setFrame("TCON", [final.genre]);
-    if (final.year) writer.setFrame("TYER", final.year);
-    if (final.trackNo) writer.setFrame("TRCK", String(final.trackNo));
-    const artBlob = (audit.art && audit.art.blob) || info.art;
-    if (artBlob) {
-      try { writer.setFrame("APIC", { type: 3, data: await artBlob.arrayBuffer(), description: "" }); }
-      catch (e) {}
-    }
-    writer.addTag();
-    const blob = writer.getBlob();
-    fixedUrl = URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = fixedUrl;
-    a.download = file.name.replace(/\.[a-z0-9]{2,5}$/i, "") + " [fixed]" + (file.name.match(/\.[a-z0-9]{2,5}$/i) || [""])[0];
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    await log("success", "fixer:file", `Tags rewritten for ${file.name}; fixed file downloaded.`);
-  } catch (e) {
-    await log("error", "fixer:file", `Tag rewrite failed: ${e.message || e}`);
-  }
-
-  /* 2. Add to the library. */
-  prog("Adding to library…");
+  /* Save to the library. The audio file was only ever read in-browser —
+     it is discarded here: never uploaded, never kept, never downloaded. */
+  prog("Saving to library…");
   let saved = null, saveErr = null;
   try {
     saved = await fnCall({
@@ -948,8 +918,10 @@ async function fixerApply(approved) {
   m.innerHTML = `
     <h2>Done</h2>
     <p class="lede"><strong>${esc(final.title)}</strong> — ${esc(final.artist)}</p>
-    ${approved.length ? `<p class="lede">Fixed ${approved.length} field${approved.length === 1 ? "" : "s"}${fixedUrl ? " and downloaded the fixed file" : ""}.</p>` : `<p class="lede">Tags already matched; ${fixedUrl ? "file re-downloaded unchanged" : "nothing rewritten"}.</p>`}
-    ${saveErr ? `<p class="error-note">Library save failed: ${esc(saveErr)}</p>` : `<p class="lede">${link}</p>`}
+    ${saveErr
+      ? `<p class="error-note">Library save failed: ${esc(saveErr)}</p>`
+      : `<p class="lede">${approved.length ? `Saved with ${approved.length} corrected field${approved.length === 1 ? "" : "s"}.` : "Saved to the library."} ${link}</p>
+         <p class="fx-note">The audio file was discarded — only its corrected metadata was kept.</p>`}
     <div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
   m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
 }

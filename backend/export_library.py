@@ -108,6 +108,7 @@ def catalog_release(r, artist_name, canonical_art):
         "title": r["title"],
         "edition": r.get("edition"),
         "release_type": r.get("release_type"),
+        "release_date": r.get("release_date"),
         "release_year": r.get("release_year"),
         "label": r.get("label"),
         "confidence": r.get("confidence"),

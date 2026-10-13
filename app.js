@@ -631,11 +631,25 @@ async function vArtist(id) {
     ["Discogs", a.discogs_id], ["MusicBrainz", a.mbid]
   ].filter(([, v]) => v);
   const groups = [["album", "Albums"], ["ep", "EPs"], ["single", "Singles"], ["compilation", "Compilations"], ["soundtrack", "Soundtracks"], ["other", "Other releases"]];
-  const sections = groups.map(([type, label]) => {
-    const g = (releases || []).filter(r => r.release_type === type);
-    if (!g.length) return "";
-    return `<h2>${label}</h2><div class="rows">${g.map(r => releaseRow(r)).join("")}</div>`;
-  }).join("");
+  /* Released vs unreleased, checked automatically from dates: a future date,
+     or no date and no year at all, means unreleased. Released always first. */
+  const today = new Date().toISOString().slice(0, 10);
+  const isReleased = (r) => {
+    if (r.release_date && r.release_date > today) return false;
+    if (!r.release_date && !r.release_year) return false;
+    return true;
+  };
+  const sectionFor = (label, list) => {
+    if (!list.length) return "";
+    return `<h2>${label}</h2><div class="rows">${list.map(r => releaseRow(r)).join("")}</div>`;
+  };
+  const releasedSections = groups.map(([type, label]) =>
+    sectionFor(label, (releases || []).filter(r => r.release_type === type && isReleased(r)))).join("");
+  const unreleasedSections = groups.map(([type, label]) =>
+    sectionFor(label, (releases || []).filter(r => r.release_type === type && !isReleased(r)))).join("");
+  const sections = releasedSections +
+    (releasedSections && unreleasedSections ? `<div class="unreleased-div" aria-label="Unreleased"><span>Unreleased</span></div>` : "") +
+    unreleasedSections;
   const idish = k => /id|mbid|barcode|isrc/i.test(k);
   view.innerHTML = `
     ${crumbs([["UTAG", "#/"], ["Artists", "#/artists"], [a.canonical_name, null]])}

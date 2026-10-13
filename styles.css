@@ -185,6 +185,28 @@ h3 {
   margin: 28px 0 10px;
 }
 
+/* Divider between released and unreleased groups on artist pages. */
+.unreleased-div {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 44px 0 6px;
+  color: var(--dim);
+  font-family: var(--sans);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+.unreleased-div::before,
+.unreleased-div::after {
+  content: "";
+  height: 1px;
+  background: var(--hair);
+}
+.unreleased-div::before { width: 28px; }
+.unreleased-div::after { flex: 1; }
+
 .loading-note, .empty-note { color: var(--dim); font-size: 14px; }
 .muted-note { color: var(--faint); font-size: 12.5px; }
 

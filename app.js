@@ -700,6 +700,7 @@ function closeFixerModal() {
   const ov = document.getElementById("fixer-overlay");
   if (ov) ov.hidden = true;
   fixerState.file = null; fixerState.info = null; fixerState.audit = null; fixerState.jobId = null;
+  fixerState.zipFile = null; fixerState.zip = null; fixerState.zipNames = null; fixerState.zipTracks = null;
 }
 
 async function fixerLog(op, data) {
@@ -710,7 +711,7 @@ async function fixerLog(op, data) {
 function fixerPick() {
   const inp = document.createElement("input");
   inp.type = "file";
-  inp.accept = "audio/*,.mp3,.m4a,.flac,.ogg,.wav,.aac";
+  inp.accept = "audio/*,.mp3,.m4a,.flac,.ogg,.wav,.aac,.opus,.wma,.zip";
   inp.onchange = () => {
     const f = inp.files && inp.files[0];
     if (f) fixerOnFile(f);
@@ -718,7 +719,12 @@ function fixerPick() {
   inp.click();
 }
 
+const ZIP_MAX = 1024 * 1024 * 1024; /* 1 GB — browser memory is the ceiling */
+const AUDIO_EXT = /\.(mp3|m4a|flac|ogg|oga|wav|aac|opus|wma)$/i;
+
 async function fixerOnFile(file) {
+  const isZip = /\.zip$/i.test(file.name) || file.type === "application/zip" || file.type === "application/x-zip-compressed";
+  if (isZip) { fixerOnZip(file); return; }
   const m = fixerModal(`<h2>Reading tags…</h2><p class="lede">${esc(file.name)}</p><p class="fx-progress">Reading…</p>`);
   try {
     await ensureFixerLibs();
@@ -738,6 +744,270 @@ async function fixerOnFile(file) {
   fixerState.file = file;
   fixerState.info = info;
   fixerInfoScreen();
+}
+
+/* ---------------------------------------------------------- ZIP import */
+
+async function fixerOnZip(file) {
+  const m = fixerModal(`<h2>Reading ZIP…</h2><p class="lede">${esc(file.name)} · ${(file.size / 1048576).toFixed(1)} MB</p><p class="fx-progress" id="fx-prog">Loading…</p>`);
+  const prog = t => { const el = document.getElementById("fx-prog"); if (el) el.textContent = t; };
+  const fail = msg => {
+    m.innerHTML = `<h2>Could not read ZIP</h2><p class="lede">${esc(msg)}</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+  };
+  if (file.size > ZIP_MAX) { fail(`This ZIP is ${(file.size / 1073741824).toFixed(2)} GB — the limit is 1 GB (browser memory). Split it into smaller ZIPs.`); return; }
+  try { await ensureFixerLibs(); await loadScript("vendor/jszip.min.js"); }
+  catch (e) { fail("The ZIP reader failed to load. Check your connection and try again."); return; }
+  prog("Parsing ZIP…");
+  let zip;
+  try {
+    const buf = await file.arrayBuffer();
+    zip = await window.JSZip.loadAsync(buf);
+  } catch (e) { fail("This file could not be parsed as a ZIP."); return; }
+  const names = [];
+  zip.forEach((path, entry) => {
+    if (!entry.dir && AUDIO_EXT.test(path)) names.push(path);
+  });
+  if (!names.length) { fail("No audio files found in this ZIP."); return; }
+  names.sort();
+  fixerState.zipFile = file;
+  fixerState.zip = zip;
+  fixerState.zipNames = names;
+  fixerState.zipTracks = [];
+  fixerZipInfoScreen();
+}
+
+function fixerZipInfoScreen() {
+  const { zipFile, zipNames } = fixerState;
+  const shown = zipNames.slice(0, 20).map(n => `<tr><td>${esc(n.split("/").pop())}</td></tr>`).join("");
+  const more = zipNames.length > 20 ? `<p class="fx-note">…and ${zipNames.length - 20} more.</p>` : "";
+  const m = fixerModal(`
+    <h2>Upload audio</h2>
+    <p class="lede">${esc(zipFile.name)} · ${(zipFile.size / 1048576).toFixed(1)} MB · ${zipNames.length} audio file${zipNames.length === 1 ? "" : "s"}</p>
+    <table class="fx-meta">${shown}</table>
+    ${more}
+    <details class="fx-keys">
+      <summary>Catalog API keys (optional, stored only on this device)</summary>
+      <label for="fx-key-acoustid">AcoustID key — enables audio fingerprinting</label>
+      <input id="fx-key-acoustid" type="password" autocomplete="off" value="${esc(window.UtagFixer.getKey("acoustid"))}" placeholder="AcoustID client key">
+      <label for="fx-key-fanart">fanart.tv key — extra artwork source</label>
+      <input id="fx-key-fanart" type="password" autocomplete="off" value="${esc(window.UtagFixer.getKey("fanart"))}" placeholder="fanart.tv API key">
+      <p class="fx-note">Keys never leave this device except to query those two services. Apple Music, Deezer and MusicBrainz need no key.</p>
+    </details>
+    <div class="btn-row">
+      <button class="mini-btn" type="button" data-fx="fix">Fix tags &amp; add to library</button>
+      <button class="mini-btn" type="button" data-fx="cancel">Cancel</button>
+    </div>`);
+  const saveKeys = () => {
+    window.UtagFixer.setKey("acoustid", m.querySelector("#fx-key-acoustid").value);
+    window.UtagFixer.setKey("fanart", m.querySelector("#fx-key-fanart").value);
+  };
+  m.querySelector('[data-fx="fix"]').onclick = () => { saveKeys(); fixerZipConfirmFix(); };
+  m.querySelector('[data-fx="cancel"]').onclick = () => { saveKeys(); fixerZipConfirmCancel(); };
+}
+
+function fixerZipConfirmFix() {
+  const { zipFile, zipNames } = fixerState;
+  const m = fixerModal(`
+    <h2>Are you sure?</h2>
+    <p class="lede">${esc(zipFile.name)} · ${zipNames.length} audio file${zipNames.length === 1 ? "" : "s"}</p>
+    <div class="fx-risk">
+      <strong>Fix tags &amp; add to library will:</strong><br>
+      · Look each song up on Apple Music, Deezer, MusicBrainz${window.UtagFixer.getKey("acoustid") ? ", and AcoustID (audio fingerprint)" : ""} to identify it.<br>
+      · Save the corrected metadata to your UTAG library as new artist, release and track records (skipping anything already there).<br>
+      · The audio files are only read for their tags — never uploaded, kept, or downloaded back. Your originals stay exactly as they are.<br>
+      · A wrong catalog match means wrong metadata. You will get to review every change before anything is saved.
+    </div>
+    <div class="btn-row">
+      <button class="mini-btn" type="button" data-fx="yes">Yes, fix them</button>
+      <button class="mini-btn" type="button" data-fx="back">Go back</button>
+    </div>`);
+  m.querySelector('[data-fx="yes"]').onclick = () => fixerZipAudit();
+  m.querySelector('[data-fx="back"]').onclick = () => fixerZipInfoScreen();
+}
+
+function fixerZipConfirmCancel() {
+  const { zipFile } = fixerState;
+  const m = fixerModal(`
+    <h2>Are you sure?</h2>
+    <p class="lede">${esc(zipFile.name)}</p>
+    <div class="fx-risk">
+      <strong>Cancel will discard this ZIP and its scan.</strong><br>
+      · Nothing will be fixed.<br>
+      · Nothing will be added to your library.<br>
+      · You can re-upload it any time.
+    </div>
+    <div class="btn-row">
+      <button class="mini-btn" type="button" data-fx="yes">Yes, discard</button>
+      <button class="mini-btn" type="button" data-fx="back">Go back</button>
+    </div>`);
+  m.querySelector('[data-fx="yes"]').onclick = () => { closeFixerModal(); };
+  m.querySelector('[data-fx="back"]').onclick = () => fixerZipInfoScreen();
+}
+
+async function fixerZipAudit() {
+  const { zipFile, zip, zipNames } = fixerState;
+  const m = fixerModal(`
+    <h2>Fixing tags</h2>
+    <p class="lede">${esc(zipFile.name)} · ${zipNames.length} files</p>
+    <p class="fx-progress" id="fx-prog">Starting…</p>`);
+  const prog = t => { const el = document.getElementById("fx-prog"); if (el) el.textContent = t; };
+
+  try {
+    const j = await fnCall({ action: "fixer_log", op: "start", title: `Fixer: ${zipFile.name} (${zipNames.length} files)`, file_name: zipFile.name });
+    fixerState.jobId = j.job_id;
+  } catch (e) {}
+  const log = (level, event, message) => fixerLog("event", { level, event, message });
+  await log("info", "fixer:upload", `Uploaded ${zipFile.name} (${zipNames.length} audio files).`);
+
+  if (window.UtagFixer.getKey("acoustid")) {
+    try { await ensureFingerprintLib(); }
+    catch (e) { await log("warn", "fixer:fingerprint", "Fingerprint engine failed to load; skipping AcoustID."); }
+  }
+
+  let roster = [];
+  try {
+    const cat = await libCatalog();
+    roster = (cat.artists || []).map(a => ({ name: a.canonical_name }));
+  } catch (e) {}
+
+  const tracks = [];
+  for (let i = 0; i < zipNames.length; i++) {
+    const name = zipNames[i];
+    const base = name.split("/").pop();
+    prog(`Auditing ${i + 1} of ${zipNames.length}: ${base}`);
+    try {
+      const blob = await zip.file(name).async("blob");
+      const f = new File([blob], base, { type: blob.type });
+      const info = await window.UtagFixer.parseFile(f);
+      info.fileName = base;
+      const audit = await window.UtagFixer.auditFile(info, roster, () => {});
+      info.file = null;
+      tracks.push({ name: base, info, audit });
+      const n = audit.proposals.length;
+      if (n) await log("info", "fixer:proposal", `${base}: ${n} fix${n === 1 ? "" : "es"} proposed.`);
+    } catch (e) {
+      await log("warn", "fixer:skip", `${base}: could not be read (${e.message || e}).`);
+      tracks.push({ name: base, info: null, audit: null, error: String(e.message || e) });
+    }
+  }
+  fixerState.zipTracks = tracks;
+  const withFixes = tracks.filter(t => t.audit && t.audit.proposals.length).length;
+  await log("info", "fixer:audit", `Audit complete: ${withFixes} of ${tracks.length} files have proposed fixes.`);
+  if (!withFixes) {
+    await fixerLog("done", { status: "done", result: "No fixes proposed." });
+    m.innerHTML = `<h2>No fixes</h2><p class="lede">None of the ${tracks.length} files matched the catalogs with anything to correct. Nothing was added to the library.</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  fixerZipReview();
+}
+
+function fixerZipReview() {
+  const { zipFile, zipTracks } = fixerState;
+  const fldLabel = { title: "Title", artist: "Artist", album: "Album", genre: "Genre", year: "Year", trackNo: "Track #" };
+  const flat = [];
+  zipTracks.forEach(t => { if (t.audit) t.audit.proposals.forEach(p => flat.push({ track: t, p })); });
+  let pi = 0;
+  const sections = zipTracks.map(t => {
+    if (!t.audit || !t.audit.proposals.length) return "";
+    const rows = t.audit.proposals.map(p => {
+      const idx = pi++;
+      return `
+      <label class="fx-prop">
+        <input type="checkbox" data-fx-zprop="${idx}" checked>
+        <span class="fld">${fldLabel[p.field] || p.field}</span>
+        <span class="from">${esc(p.from || "—")}</span>
+        <span class="arrow">→</span>
+        <span class="to">${esc(p.to || "—")}</span>
+        <span class="src">${esc(p.source)} · ${Math.round(p.confidence * 100)}%</span>
+      </label>`;
+    }).join("");
+    return `<h3 style="margin:18px 0 4px;font-size:15px;">${esc(t.name)}</h3><div class="fx-props">${rows}</div>`;
+  }).join("");
+
+  const m = fixerModal(`
+    <h2>Review fixes</h2>
+    <p class="lede">${esc(zipFile.name)} — untick anything you do not want applied.</p>
+    ${sections}
+    <div class="btn-row">
+      <button class="mini-btn" type="button" data-fx="apply">Save to library</button>
+      <button class="mini-btn" type="button" data-fx="back">Go back</button>
+    </div>
+    <p class="fx-note">Saving writes the corrected metadata to your library. The audio files are discarded.</p>`);
+  m.querySelector('[data-fx="back"]').onclick = () => fixerZipInfoScreen();
+  m.querySelector('[data-fx="apply"]').onclick = () => {
+    const approved = [];
+    m.querySelectorAll("[data-fx-zprop]:checked").forEach(c => approved.push(flat[+c.dataset.fxZprop]));
+    fixerZipApply(approved);
+  };
+}
+
+async function fixerZipApply(approved) {
+  const { zipFile, zipTracks } = fixerState;
+  const m = fixerModal(`<h2>Saving…</h2><p class="lede">${esc(zipFile.name)}</p><p class="fx-progress" id="fx-prog">Saving…</p>`);
+  const prog = t => { const el = document.getElementById("fx-prog"); if (el) el.textContent = t; };
+  const log = (level, event, message) => fixerLog("event", { level, event, message });
+
+  const byTrack = new Map();
+  for (const { track, p } of approved) {
+    if (!byTrack.has(track)) byTrack.set(track, []);
+    byTrack.get(track).push(p);
+  }
+
+  let saved = 0, failed = 0, i = 0;
+  for (const track of zipTracks) {
+    if (!track.info || !track.audit) continue;
+    i++;
+    prog(`Saving ${i} of ${zipTracks.length}: ${track.name}`);
+    const info = track.info, audit = track.audit;
+    const final = {
+      title: info.title, artist: info.artist, album: info.album,
+      genre: info.genre, year: info.year,
+      trackNo: info.trackNo, discNo: info.discNo,
+    };
+    for (const p of (byTrack.get(track) || [])) {
+      if (p.field === "trackNo") final.trackNo = parseInt(p.to, 10) || final.trackNo;
+      else final[p.field] = p.to;
+    }
+    try {
+      const res = await fnCall({
+        action: "fixer_save",
+        artist: final.artist, title: final.title, album: final.album,
+        year: final.year, genre: final.genre,
+        track_no: final.trackNo, disc_no: final.discNo,
+        duration_ms: info.duration ? Math.round(info.duration * 1000) : null,
+        verified: !!audit.verified,
+        art_url: (audit.art && audit.art.url) || "",
+        art_source: (audit.art && audit.art.source) || "",
+      });
+      saved++;
+      const parts = [];
+      if (!res.existed.artist) parts.push("artist");
+      if (!res.existed.release) parts.push("release");
+      if (!res.existed.track) parts.push("track");
+      await log("success", "fixer:library", parts.length
+        ? `"${final.title}": added ${parts.join(", ")}.`
+        : `"${final.title}" was already in the library.`);
+    } catch (e) {
+      failed++;
+      await log("error", "fixer:library", `"${track.name}": save failed (${e.message || e}).`);
+    }
+  }
+
+  await fixerLog("done", {
+    status: failed && !saved ? "failed" : "done",
+    result: `Saved ${saved} track${saved === 1 ? "" : "s"}${failed ? `, ${failed} failed` : ""}.`,
+    error: failed && !saved ? "All saves failed." : null,
+  });
+  if (!failed) awaitLibraryUpdate();
+  m.innerHTML = `
+    <h2>Done</h2>
+    <p class="lede">${esc(zipFile.name)}</p>
+    <p class="lede">Saved ${saved} track${saved === 1 ? "" : "s"} to the library${failed ? ` (${failed} failed — see Activity).` : "."}</p>
+    <p class="fx-note">The audio files were discarded — only their corrected metadata was kept.</p>
+    <div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+  m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
 }
 
 function fxMetaRows(info) {

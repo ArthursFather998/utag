@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T21:00:51.879298+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+    "release_id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+    "track_id": "7b7517b1-d312-4c4a-a7c8-a43989f3658b"
+  },
+  "entity_id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+  "entity_type": "release",
+  "field_confidence": {
+    "artist": "verified",
+    "artwork": "verified",
+    "release": "verified",
+    "track": "verified"
+  },
+  "id": "8a8c4264-b27f-47e7-b4e2-95c59421d4d8",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Gemini Rights",
+    "track": "Bad Habit"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "verified",
+  "rationale": "Applied owner-approved proposal dce31a03-b87b-45ad-a761-8b972904b446 verbatim.",
+  "status": "verified"
+}

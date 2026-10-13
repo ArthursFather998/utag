@@ -1,0 +1,21 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T20:53:31.094445+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+    "release_id": "d1f4560d-26ec-4a0f-9ddd-dd3fe607a73e"
+  },
+  "entity_id": "d1f4560d-26ec-4a0f-9ddd-dd3fe607a73e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "94ad9cab-1682-4659-b42b-dfe263a2286b",
+  "input": {
+    "artist": "Skyler Green",
+    "title": "Hiraeth"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "verified",
+  "rationale": "Owner-approved proposal d366c15b-5980-47bb-84a0-f48be5ccd3d2 applied verbatim.",
+  "status": "verified"
+}

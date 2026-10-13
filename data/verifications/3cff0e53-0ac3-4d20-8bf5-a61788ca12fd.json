@@ -1,0 +1,19 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T00:52:14.580263+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "role": "none"
+  },
+  "entity_id": "faf29dfc-a819-4ac2-a7e7-8d4181f7a34e",
+  "entity_type": "artwork",
+  "field_confidence": null,
+  "id": "3cff0e53-0ac3-4d20-8bf5-a61788ca12fd",
+  "input": {
+    "release_id": "faf29dfc-a819-4ac2-a7e7-8d4181f7a34e"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "needs_review",
+  "rationale": "Searched MusicBrainz, Last.fm, and general web. This is a bootleg remix release. No unique canonical artwork was found for this specific edition, and no verified image URL exists. Stored as none to avoid using the original album art for a separate remix edition.",
+  "status": "needs_review"
+}

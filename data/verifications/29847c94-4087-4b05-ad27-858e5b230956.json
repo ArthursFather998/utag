@@ -1,0 +1,19 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-09T03:27:22.928918+00:00",
+  "created_by": "import",
+  "decision": {
+    "imported": true
+  },
+  "entity_id": "146e80d9-412a-4142-8895-ff3ccfb9d753",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "29847c94-4087-4b05-ad27-858e5b230956",
+  "input": {
+    "source": "utag-knowledge-import"
+  },
+  "model": "utag-import",
+  "overall_confidence": "verified",
+  "rationale": "Imported from the UTAG queue candidate prepared 2026-10-08. Track order and durations from the BandLab album page (observed 2026-09-16) and Apple collection 6813683280 (checked 2026-10-03). Skyler's own discography is ground truth in UTAG. Features: Revived (feat. J3REMIAH); Retarded (feat. Vesson).",
+  "status": "verified"
+}

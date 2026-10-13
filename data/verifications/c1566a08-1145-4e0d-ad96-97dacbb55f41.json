@@ -1,0 +1,19 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T01:07:18.037445+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "role": "candidate"
+  },
+  "entity_id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+  "entity_type": "artwork",
+  "field_confidence": null,
+  "id": "c1566a08-1145-4e0d-ad96-97dacbb55f41",
+  "input": {
+    "album": "One-X / Live at the Palace 2008"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "needs_review",
+  "rationale": "Could not find a distinct cover for the combined CD/DVD edition; applied the canonical One-X cover as a candidate for review.",
+  "status": "needs_review"
+}

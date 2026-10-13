@@ -1,0 +1,33 @@
+{
+  "candidates": [
+    {
+      "source": "Genius",
+      "url": "https://images.genius.com/f5c4349fd355804a455e29bfe186bc52.1000x1000x1",
+      "year": 2025
+    },
+    {
+      "source": "Crownnote",
+      "url": "https://assets.crownnote.com/s3fs-public/2025-06/IMG_0327.jpeg",
+      "year": 2025
+    }
+  ],
+  "created_at": "2026-10-10T00:16:56.508529+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "role": "canonical",
+    "selected_url": "https://images.genius.com/f5c4349fd355804a455e29bfe186bc52.1000x1000x1"
+  },
+  "entity_id": "2dc8fedc-b5fb-428e-9fe0-0e3536439c9f",
+  "entity_type": "artwork",
+  "field_confidence": null,
+  "id": "d45193a2-157b-4ce7-a0fb-279db341e7f4",
+  "input": {
+    "artist": "ASTN",
+    "release_id": "de83ad38-c66e-49ce-919e-90fe8721f8c1",
+    "title": "Archive 001"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "verified",
+  "rationale": "The release Archive 001 by ASTN was identified as a 2025 digital album with 7 tracks across multiple independent sources (Genius, Shazam, iHeart, Crownnote). The artwork from Genius matches the edition (year, track count) and is the highest quality available. Verified against multiple independent sources.",
+  "status": "verified"
+}

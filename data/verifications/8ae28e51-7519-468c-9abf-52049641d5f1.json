@@ -1,0 +1,23 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T01:42:25.342289+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "album": "Dr. Dolittle: The Album",
+    "artist": "Aaliyah",
+    "track_number": 3
+  },
+  "entity_id": "ec5dab7d-8ef1-4ebf-b103-dbf4e89f9b92",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ae28e51-7519-468c-9abf-52049641d5f1",
+  "input": {
+    "album": "Timbaland Instrumentals",
+    "artist": "Aaliyah",
+    "title": "Are You That Somebody"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "verified",
+  "rationale": "The submission mentions Timbaland Instrumentals, but this is a non-official release or mislabeled. The song is a verified hit from the 1998 Dr. Dolittle soundtrack. Cross-referenced Wikipedia and Discogs. The artwork is matched to the correct 1998 Atlantic release (Catalog 83113).",
+  "status": "verified"
+}

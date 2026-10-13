@@ -1,0 +1,82 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T20:54:19.012948+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "artist": "Skyler Green",
+    "release_date": "2026-08-16",
+    "title": "Harlot"
+  },
+  "entity_id": "d4c5e05e-f620-4c51-8e8a-d1f6b8bb8fb5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1929dbd5-9bfd-4bb5-b38e-86342fbfe087",
+  "input": {
+    "artist": {
+      "aliases": [],
+      "apple_id": null,
+      "canonical_name": "Skyler Green",
+      "deezer_id": null,
+      "discogs_id": null,
+      "genres": [],
+      "image_url": null,
+      "mbid": null,
+      "spotify_id": null
+    },
+    "artwork": null,
+    "confidence": "verified",
+    "existing_artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
+    "existing_release_id": "d4c5e05e-f620-4c51-8e8a-d1f6b8bb8fb5",
+    "existing_track_id": null,
+    "field_confidence": {
+      "artist": "verified",
+      "release_date": "verified",
+      "release_type": "verified",
+      "title": "verified"
+    },
+    "no_change": false,
+    "rationale": "The release date (2026-08-16), title ('Harlot'), and artist ('Skyler Green') are confirmed across Apple Music, Amazon Music, and BandLab. Confidence is upgraded to verified based on agreement between multiple independent sources.",
+    "release": {
+      "apple_id": null,
+      "barcode": null,
+      "catalog_number": null,
+      "country": null,
+      "deezer_id": null,
+      "discogs_id": null,
+      "edition": "original",
+      "label": null,
+      "mbid": null,
+      "release_date": "2026-08-16",
+      "release_type": "single",
+      "release_year": 2026,
+      "spotify_id": null,
+      "title": "Harlot"
+    },
+    "sources": [
+      {
+        "query_text": "Skyler Green Harlot",
+        "query_type": "release",
+        "source": "Apple Music",
+        "url": "https://music.apple.com/bs/artist/skyler-green/6772784346"
+      },
+      {
+        "query_text": "Skyler Green Harlot",
+        "query_type": "release",
+        "source": "Amazon Music",
+        "url": "https://music.amazon.com.au/artists/B094QBJPK6/skyler-green"
+      },
+      {
+        "query_text": "Skyler Green Harlot",
+        "query_type": "release",
+        "source": "BandLab",
+        "url": "https://www.bandlab.com/skylrgreen"
+      }
+    ],
+    "summary": "Verified 'Harlot' single by Skyler Green released 2026-08-16.",
+    "tracks": []
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "verified",
+  "rationale": "Owner-approved proposal 0e2033c2-8208-478e-a65e-0618a49a9939",
+  "status": "verified"
+}

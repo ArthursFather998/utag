@@ -1,0 +1,21 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T01:21:17.233488+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "role": "candidate",
+    "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg"
+  },
+  "entity_id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+  "entity_type": "artwork",
+  "field_confidence": null,
+  "id": "fc3277cf-a7b1-4b7b-a4c8-920aaeee75c1",
+  "input": {
+    "release_id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+    "title": "One-X / Live at the Palace 2008"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "needs_review",
+  "rationale": "Confirmed the release as Discogs 3328203 (catalog 88697-35992-2, Jive/Zomba, 2008). Direct extraction of the official image from Discogs failed due to bot protection. Found a matching cover on Last.fm. The existing MusicBrainz candidate was found to be for the 2003 debut album and is incorrect for this edition.",
+  "status": "needs_review"
+}

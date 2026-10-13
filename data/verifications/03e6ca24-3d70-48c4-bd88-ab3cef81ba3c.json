@@ -1,0 +1,29 @@
+{
+  "candidates": {
+    "album": "Kiss All The Time. Disco, Occasionally.",
+    "artist": "Harry Styles",
+    "track": "Aperture"
+  },
+  "created_at": "2026-10-10T01:27:21.927265+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "album": "Kiss All The Time. Disco, Occasionally.",
+    "artist": "Harry Styles",
+    "label": "Erskine, Columbia",
+    "release_date": "2026-03-06",
+    "track": "Aperture"
+  },
+  "entity_id": "a39eb5dd-4143-44cb-81d1-5abe948bed31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03e6ca24-3d70-48c4-bd88-ab3cef81ba3c",
+  "input": {
+    "album": "Kiss All The Time. Disco, Occasionally.",
+    "artist": "Harry Styles",
+    "title": "Aperture"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "verified",
+  "rationale": "Verified via Wikipedia, Discogs, and Apple Music. All sources agree on the album title, artist, tracklist, and release date.",
+  "status": "verified"
+}

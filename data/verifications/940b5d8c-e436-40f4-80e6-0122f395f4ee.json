@@ -1,0 +1,21 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T20:57:47.722047+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "artist_id": "061d89cb-5fac-4e8d-811e-aa08a92edb19",
+    "release_id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2"
+  },
+  "entity_id": "7bd7a923-1a25-4d1b-ab75-75bdde0fe2d2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "940b5d8c-e436-40f4-80e6-0122f395f4ee",
+  "input": {
+    "artist": "Brian McKnight",
+    "title": "Back at One"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "verified",
+  "rationale": "OWNER-APPROVED PROPOSAL: a011efaa-9a10-4ffc-832f-74f62013c36d. The song is the title track of the 1999 album Back at One. Artist MBID and Release Group MBID were verified via MusicBrainz and Wikidata. The US release (Motown MOTD-3708) was matched using Discogs for catalog number and barcode. ISRC and duration were verified via external metadata sources.",
+  "status": "verified"
+}

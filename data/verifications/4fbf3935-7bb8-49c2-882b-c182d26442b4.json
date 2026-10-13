@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-10T01:38:07.682771+00:00",
+  "created_by": "hermes",
+  "decision": {
+    "artist": "Elvis Presley",
+    "catalog_number": "AFNCD 627968",
+    "label": "Audifon",
+    "release_title": "The Complete Burbank Sessions, Volume 2",
+    "track_number": 6,
+    "year": 1990
+  },
+  "entity_id": "5fe029ce-219e-41e2-9499-1184c8e7ba22",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4fbf3935-7bb8-49c2-882b-c182d26442b4",
+  "input": {
+    "album": "The Complete Burbank Sessions, Volume 2",
+    "artist": "Elvis Presley",
+    "title": "Are You Lonesome Tonight"
+  },
+  "model": "hermes/gemma4:cloud",
+  "overall_confidence": "high_confidence",
+  "rationale": "Identified as track 6 of the bootleg release The Complete Burbank Sessions, Volume 2. Verified via multiple independent sources (elvisoncd.com, hessa.eu, musicmoz.org) agreeing on the title, label (Audifon), catalog number (AFNCD 627968), and release year (1990). Artwork verified against the same edition markers.",
+  "status": "high_confidence"
+}

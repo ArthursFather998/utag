@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-10-09T03:27:25.277657+00:00",
+  "entity_id": null,
+  "entity_type": "track",
+  "field": "curated_fix",
+  "id": "bbc46b7b-0399-427d-aae5-8e749a652d0a",
+  "new_value": "artist=d4vd | title=Celeste",
+  "note": "Curated fix ruling imported from Splotify custom_meta.json. Outranks AI decisions.",
+  "old_value": "artist=Celeste (Demo | title=Unfinished)",
+  "source": "import"
+}

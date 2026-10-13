@@ -179,6 +179,43 @@ Deno.serve(async (req) => {
     return sawOk ? "ok" : "skipped";
   }
 
+  async function deleteRowFromRepo(table: string, id: string): Promise<"ok" | "skipped" | "failed"> {
+    const token = Deno.env.get("GITHUB_REPO_TOKEN") || "";
+    if (!token) return "skipped";
+    try {
+      const path = `data/${table}/${id}.json`;
+      const api = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`;
+      const headers = {
+        Authorization: `Bearer ${token}`,
+        Accept: "application/vnd.github+json",
+        "Content-Type": "application/json",
+      };
+      const cur = await fetch(api, { headers });
+      if (cur.status === 404) return "ok";
+      if (!cur.ok) return "failed";
+      const sha = (await cur.json()).sha;
+      const res = await fetch(api, {
+        method: "DELETE",
+        headers,
+        body: JSON.stringify({ message: `Remove ${table}/${id} via utag-control`, sha }),
+      });
+      return res.ok ? "ok" : "failed";
+    } catch {
+      return "failed";
+    }
+  }
+
+  async function deleteRowsFromRepo(pairs: [string, string][]): Promise<"ok" | "skipped" | "failed"> {
+    let sawOk = false, sawFailed = false;
+    for (const [table, id] of pairs) {
+      const r = await deleteRowFromRepo(table, id);
+      if (r === "ok") sawOk = true;
+      if (r === "failed") sawFailed = true;
+    }
+    if (sawFailed) return "failed";
+    return sawOk ? "ok" : "skipped";
+  }
+
   const action = String(body.action || "");
 
   try {
@@ -309,6 +346,27 @@ Deno.serve(async (req) => {
       });
       const repoSync = await syncRowsToRepo("artwork", [artId, ...demotedIds]);
       return json({ ok: true, action, artwork_id: artId, repo_sync: repoSync });
+    }
+
+    if (action === "delete_track") {
+      const trackId = String(body.track_id || "");
+      if (!trackId) return json({ ok: false, error: "Missing track_id" }, 400);
+      const { data: trackRow, error: tErr } = await supabase
+        .from("tracks").select("id").eq("id", trackId).single();
+      if (tErr || !trackRow) return json({ ok: false, error: "Track not found" }, 404);
+      const { data: verifs } = await supabase.from("verifications")
+        .select("id").eq("entity_type", "track").eq("entity_id", trackId);
+      // Delete the track and its verifications (meaningless without it).
+      // Corrections stay as the history of your rulings.
+      const { error: vDelErr } = await supabase.from("verifications")
+        .delete().eq("entity_type", "track").eq("entity_id", trackId);
+      if (vDelErr) throw vDelErr;
+      const { error: delErr } = await supabase.from("tracks").delete().eq("id", trackId);
+      if (delErr) throw delErr;
+      const removed: [string, string][] = [["tracks", trackId]];
+      for (const v of (verifs || []) as { id: string }[]) removed.push(["verifications", v.id]);
+      const repoSync = await deleteRowsFromRepo(removed);
+      return json({ ok: true, action, track_id: trackId, repo_sync: repoSync });
     }
 
     if (action === "chat_send") {

@@ -469,8 +469,22 @@ function efSelect(label, name, value, opts) {
 function efConf(current) {
   return `<label class="ef-field"><span>Confidence</span><select data-conf data-cur="${esc(current || "unknown")}">${CONF_OPTS.map(c => `<option value="${c}"${c === current ? " selected" : ""}>${c.replace(/_/g, " ")}</option>`).join("")}</select></label>`;
 }
-function efSave() {
-  return `<div class="ef-actions"><button class="btn" type="button" data-save>Save changes</button><p class="empty-note" data-status></p></div>`;
+function efSave(extra) {
+  return `<div class="ef-actions"><button class="btn" type="button" data-save>Save changes</button>${extra || ""}<p class="empty-note" data-status></p></div>`;
+}
+
+/* Remove a track id from every cached "tracks" array so a deleted track
+   vanishes from the re-rendered page instead of looking restored. */
+function removeTrackFromCache(trackId) {
+  const strip = (o) => {
+    if (!o || typeof o !== "object") return;
+    if (Array.isArray(o)) { for (const x of o) strip(x); return; }
+    for (const [k, v] of Object.entries(o)) {
+      if (k === "tracks" && Array.isArray(v)) o[k] = v.filter(t => t.id !== trackId);
+      else strip(v);
+    }
+  };
+  for (const d of Object.values(libData)) strip(d);
 }
 
 /* ------------------------------------------------------------------ home */
@@ -706,7 +720,7 @@ async function vRelease(id) {
         ${efConf(t.confidence)}
         ${pwFieldHTML()}
       </div>
-      ${efSave()}
+      ${efSave(`<button class="mini-btn danger" type="button" data-remove-track="${esc(t.id)}" data-track-title="${esc(t.title)}">Remove track</button>`)}
     </td></tr>`).join("");
   const gallery = (others || []).map(x => {
     const u = artUrl(x);
@@ -806,6 +820,24 @@ async function vRelease(id) {
   wireEditor(document.getElementById("rel-editor"), "release", r.id, () => vRelease(id));
   document.querySelectorAll("[data-track-panel]").forEach(p =>
     wireEditor(p.closest("td"), "track", p.dataset.trackPanel, () => vRelease(id)));
+  document.querySelectorAll("[data-remove-track]").forEach(b => b.addEventListener("click", async () => {
+    const tid = b.dataset.removeTrack, title = b.dataset.trackTitle || "this track";
+    if (!confirm(`Remove "${title}" from this release? This can't be undone.`)) return;
+    const status = b.closest(".ef-actions").querySelector("[data-status]");
+    b.disabled = true;
+    if (status) status.textContent = "Removing…";
+    try {
+      const res = await fnCall({ action: "delete_track", track_id: tid });
+      if (status) status.textContent = res && res.repo_sync === "failed"
+        ? "Removed, but the repo sync failed — it will retry on your next save."
+        : "Track removed.";
+      removeTrackFromCache(tid);
+      setTimeout(() => vRelease(id), 400);
+    } catch (e) {
+      if (status) status.textContent = `Remove failed: ${e.message}`;
+      b.disabled = false;
+    }
+  }));
 
   const artman = document.getElementById("artman");
   if (artman) {

@@ -508,6 +508,7 @@ table.tracks td:nth-child(2) { font-weight: 500; }
 a.mini-btn { display: inline-block; color: var(--dim); }
 .mini-btn:hover { color: var(--text); border-color: var(--faint); background: var(--raise); }
 .mini-btn:disabled { opacity: 0.4; cursor: default; }
+.mini-btn.danger { color: var(--conflict); }
 .mini-btn.danger:hover { color: var(--conflict); border-color: var(--conflict); }
 .mini-btn.go:hover { color: var(--verified); border-color: var(--verified); }
 

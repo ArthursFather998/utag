@@ -262,6 +262,13 @@ def main():
                 f.write("\n")
         counts[table] = len(rows[table])
         print(f"  {table}: {len(rows[table])} rows -> {tdir}")
+        # Prune orphan files left by deleted rows so the file tree converges
+        # with the database (the function deletes them too; this is the net).
+        live_ids = {row.get("id") for row in rows[table] if row.get("id")}
+        for fname in os.listdir(tdir):
+            if fname.endswith(".json") and fname[:-5] not in live_ids:
+                os.remove(os.path.join(tdir, fname))
+                print(f"  {table}: pruned orphan {fname}")
 
     build_views(rows, DATA_DIR)
 

@@ -96,13 +96,14 @@ const count = (table, filter = "") => api(`${table}?select=id${filter}`, { count
    backend/export_library.py. These reads never touch Supabase: the library
    stays available even if every backend service is down. */
 const libCache = {};
+const libData = {}; /* path -> resolved JSON, for optimistic patches after writes */
 function libURL(path) { return new URL(path, document.baseURI).toString(); }
 async function libFile(path) {
   if (!libCache[path]) {
     libCache[path] = fetch(libURL(path)).then(r => {
       if (!r.ok) throw new Error(`Library read failed (${r.status})`);
       return r.json();
-    });
+    }).then(d => { libData[path] = d; return d; });
   }
   return libCache[path];
 }
@@ -163,8 +164,53 @@ async function doLibRefresh() {
     if (r.ok) stamp = (await r.json()).exported_at || null;
   } catch { /* keep the old stamp */ }
   for (const k of Object.keys(libCache)) delete libCache[k];
+  for (const k of Object.keys(libData)) delete libData[k];
   if (stamp) libStamp = stamp;
   await route();
+}
+
+/* After a successful write the file cache is stale until the next export.
+   Patch the cached copies immediately so the re-rendered page shows the
+   just-saved values instead of looking reverted. */
+function optimisticPatch(entityType, entityId, changes) {
+  const vals = {};
+  for (const f of changes) vals[f.name] = f.value;
+  const patchOne = (o) => {
+    if (!o || typeof o !== "object" || Array.isArray(o)) return;
+    if (o.id === entityId) {
+      for (const k of Object.keys(vals)) o[k] = vals[k];
+    }
+    if (entityType === "artist" && vals.canonical_name !== undefined) {
+      const aid = o.artist_id || (o.artists && o.artists.id);
+      if (aid === entityId && o.artists && typeof o.artists === "object") {
+        o.artists.canonical_name = vals.canonical_name;
+      }
+    }
+    for (const v of Object.values(o)) {
+      if (Array.isArray(v)) v.forEach(patchOne);
+      else patchOne(v);
+    }
+  };
+  for (const d of Object.values(libData)) patchOne(d);
+}
+
+/* Keep a release's slim catalog/artwork copies consistent after an artwork
+   role change or add (the full rows are patched by optimisticPatch). */
+function syncReleaseArtwork(releaseId) {
+  const rv = libData[`data/views/release/${releaseId}.json`];
+  const cat = libData["data/views/catalog.json"];
+  if (!rv || !rv.artwork || !cat) return;
+  const canon = rv.artwork.find(x => x.role === "canonical");
+  const slim = canon ? [{ id: canon.id, source_url: canon.source_url, stored_path: canon.stored_path, role: "canonical" }] : [];
+  const cr = cat.releases.find(x => x.id === releaseId);
+  if (cr) cr.artwork = slim;
+  for (const d of Object.values(libData)) {
+    const rels = d && d.releases;
+    if (Array.isArray(rels)) {
+      const m = rels.find(x => x.id === releaseId);
+      if (m) m.artwork = slim;
+    }
+  }
 }
 
 async function checkLibUpdate() {
@@ -355,6 +401,9 @@ async function saveEdits(root, entityType, entityId, fields, conf) {
       n++;
     }
     if (status) status.textContent = n ? `Saved ${n} change${n === 1 ? "" : "s"}. It is on record as your ruling.` : "Nothing changed.";
+    const applied = fields.map(f => ({ name: f.name, value: f.value }));
+    if (conf && conf.value !== conf.current) applied.push({ name: "confidence", value: conf.value });
+    if (applied.length) optimisticPatch(entityType, entityId, applied);
     return true;
   } catch (err) {
     if (status) status.textContent = err.message === "Wrong password"
@@ -769,16 +818,40 @@ async function vRelease(id) {
       }
     };
     artman.querySelectorAll("[data-canonical]").forEach(b => b.addEventListener("click", () =>
-      artAction(b, () => fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.canonical, field: "role", new_value: "canonical" }))));
+      artAction(b, async () => {
+        await fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.canonical, field: "role", new_value: "canonical" });
+        const rv = libData[`data/views/release/${r.id}.json`];
+        if (rv && rv.artwork) for (const x of rv.artwork) {
+          if (x.role === "canonical" && x.id !== b.dataset.canonical) x.role = "alternate";
+        }
+        optimisticPatch("artwork", b.dataset.canonical, [{ name: "role", value: "canonical" }]);
+        syncReleaseArtwork(r.id);
+      })));
     artman.querySelectorAll("[data-reject]").forEach(b => b.addEventListener("click", () =>
-      artAction(b, () => fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.reject, field: "role", new_value: "rejected" }))));
+      artAction(b, async () => {
+        await fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.reject, field: "role", new_value: "rejected" });
+        optimisticPatch("artwork", b.dataset.reject, [{ name: "role", value: "rejected" }]);
+        syncReleaseArtwork(r.id);
+      })));
     document.getElementById("art-add").addEventListener("click", async (e) => {
       const url = document.getElementById("art-url").value.trim();
       if (!url) { artStatus.textContent = "Paste an image URL first."; return; }
       await artAction(e.currentTarget, async () => {
-        await fnCall({ action: "add_artwork", release_id: r.id, source_url: url,
-          role: document.getElementById("art-role").value,
-          edition_label: document.getElementById("art-edlabel").value.trim() || undefined });
+        const role = document.getElementById("art-role").value;
+        const edlabel = document.getElementById("art-edlabel").value.trim() || null;
+        const res = await fnCall({ action: "add_artwork", release_id: r.id, source_url: url,
+          role, edition_label: edlabel || undefined });
+        const rv = libData[`data/views/release/${r.id}.json`];
+        if (rv && rv.artwork) {
+          if (role === "canonical") for (const x of rv.artwork) {
+            if (x.role === "canonical") x.role = "alternate";
+          }
+          rv.artwork.push({ id: res.artwork_id, release_id: r.id, source_url: url,
+            stored_path: null, phash: null, width: null, height: null, source: "user",
+            role, edition_label: edlabel, confidence: "verified", status: "verified",
+            created_at: new Date().toISOString() });
+        }
+        syncReleaseArtwork(r.id);
       });
     });
   }
@@ -827,6 +900,7 @@ async function vReview() {
     b.disabled = true;
     try {
       await fnCall({ action: "set_confidence", entity_type: b.dataset.qe, entity_id: b.dataset.qid, confidence: b.dataset.qc });
+      optimisticPatch(b.dataset.qe, b.dataset.qid, [{ name: "confidence", value: b.dataset.qc }]);
       vReview();
     } catch (e) {
       st.textContent = e.message === "Wrong password" ? "That password was refused." : `Failed: ${e.message}`;

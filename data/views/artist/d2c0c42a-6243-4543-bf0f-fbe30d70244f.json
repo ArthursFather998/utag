@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Arctic Monkeys"
+        "canonical_name": "Arctic Monkeys",
+        "id": "d2c0c42a-6243-4543-bf0f-fbe30d70244f"
       },
       "artwork": [
         {
+          "id": "88d1e9c0-522e-4128-b6bf-2032457bd9d0",
           "role": "canonical",
           "source_url": "https://archive.org/download/mbid-0b66d93c-176c-3c2d-aede-477063d613e0/mbid-0b66d93c-176c-3c2d-aede-477063d613e0-13155717323.jpg",
           "stored_path": null

@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Elvis Presley"
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
       },
       "artwork": [
         {
+          "id": "9958438c-3a92-4d3b-9bdf-321edda10aa4",
           "role": "canonical",
           "source_url": "https://www.elvisoncd.com/EIGENECD_a-z/import/T/thecompleteburbanksess21.jpg",
           "stored_path": null

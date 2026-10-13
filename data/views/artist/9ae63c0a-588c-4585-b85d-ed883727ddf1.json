@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Frank Ocean"
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
       "artwork": [
         {
+          "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
           "role": "canonical",
           "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
           "stored_path": null

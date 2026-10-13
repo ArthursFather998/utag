@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Ed Sheeran"
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
       },
       "artwork": [
         {
+          "id": "6df35919-9bbf-4129-a72b-930a363d64d3",
           "role": "canonical",
           "source_url": "https://archive.org/download/mbid-4f90bd0a-0e62-455e-93a2-4253cfe296bd/mbid-4f90bd0a-0e62-455e-93a2-4253cfe296bd-28103815770.jpg",
           "stored_path": null

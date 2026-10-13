@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "ugly"
+        "canonical_name": "ugly",
+        "id": "06c837f2-679f-4711-a2cb-57e783d01002"
       },
       "artwork": [
         {
+          "id": "506e3abd-3374-4a97-9af8-b06cde761b00",
           "role": "canonical",
           "source_url": "https://images.genius.com/b4a1289825b44db20ed7e4c5ba4cdaac.500x500x1.jpg",
           "stored_path": null

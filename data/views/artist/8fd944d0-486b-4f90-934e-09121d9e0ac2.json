@@ -22,10 +22,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Malcolm Todd"
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
       "artwork": [
         {
+          "id": "5d840f06-56f5-4c8e-bcd2-91ed1f88c52b",
           "role": "canonical",
           "source_url": "https://cdn-images.dzcdn.net/images/cover/38f1aac7d6b5b0e84ef0a02b4cad77fc/1000x1000-000000-80-0-0.jpg",
           "stored_path": null

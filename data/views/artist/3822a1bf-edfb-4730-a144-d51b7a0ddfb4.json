@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Billie Eilish"
+        "canonical_name": "Billie Eilish",
+        "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
       "artwork": [
         {
+          "id": "4131f77b-e9c0-4e68-a45b-66af69197c9b",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/43031198460.jpg",
           "stored_path": null

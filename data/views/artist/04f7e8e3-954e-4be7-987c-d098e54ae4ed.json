@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Three Days Grace"
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
       },
       "artwork": [
         {
+          "id": "e78269f3-085c-47e0-bcad-385e137f66c0",
           "role": "canonical",
           "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg",
           "stored_path": null

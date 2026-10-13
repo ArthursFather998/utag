@@ -23,10 +23,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Britney Spears"
+        "canonical_name": "Britney Spears",
+        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
       },
       "artwork": [
         {
+          "id": "36b15833-c19f-4bf0-930e-2cda30dd6583",
           "role": "canonical",
           "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/..._Baby_One_More_Time_%28album%29.png",
           "stored_path": null

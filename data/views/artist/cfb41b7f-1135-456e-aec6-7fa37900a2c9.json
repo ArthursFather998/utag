@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "ASTN"
+        "canonical_name": "ASTN",
+        "id": "cfb41b7f-1135-456e-aec6-7fa37900a2c9"
       },
       "artwork": [
         {
+          "id": "2dc8fedc-b5fb-428e-9fe0-0e3536439c9f",
           "role": "canonical",
           "source_url": "https://images.genius.com/f5c4349fd355804a455e29bfe186bc52.1000x1000x1",
           "stored_path": null

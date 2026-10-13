@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Daniel Caesar"
+        "canonical_name": "Daniel Caesar",
+        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
       },
       "artwork": [
         {
+          "id": "8477bf70-077b-44af-85c7-cc5242c291a9",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/9844eaad-b637-4bc2-9634-d4ec4e58afd6",
           "stored_path": null

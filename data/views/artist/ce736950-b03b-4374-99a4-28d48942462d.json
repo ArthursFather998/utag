@@ -27,10 +27,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "XXXTENTACION"
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
       "artwork": [
         {
+          "id": "d503bd03-5f76-41f8-88ab-27f67fa850c0",
           "role": "canonical",
           "source_url": "https://th.bing.com/th/id/R.703552c0d52f1135f3c49e0102ccc595?rik=Izd1gLVbDZOICg&pid=ImgRaw&r=0",
           "stored_path": null

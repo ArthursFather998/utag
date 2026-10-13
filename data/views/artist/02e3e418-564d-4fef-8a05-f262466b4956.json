@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Elton John"
+        "canonical_name": "Elton John",
+        "id": "02e3e418-564d-4fef-8a05-f262466b4956"
       },
       "artwork": [
         {
+          "id": "9db1e5a5-dda0-4ca5-a55f-9ffebc6c5a5b",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/100x100bb.jpg",
           "stored_path": null

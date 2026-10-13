@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Kendrick Lamar"
+        "canonical_name": "Kendrick Lamar",
+        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
       },
       "artwork": [
         {
+          "id": "94f58c40-a472-4efe-8d2b-0a0754cdb07f",
           "role": "canonical",
           "source_url": "https://archive.org/download/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc-37147953292.jpg",
           "stored_path": null

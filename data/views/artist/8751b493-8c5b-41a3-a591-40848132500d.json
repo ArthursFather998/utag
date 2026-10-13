@@ -23,10 +23,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Brent Faiyaz"
+        "canonical_name": "Brent Faiyaz",
+        "id": "8751b493-8c5b-41a3-a591-40848132500d"
       },
       "artwork": [
         {
+          "id": "ed04242a-46dd-4f92-947e-102162ff0650",
           "role": "canonical",
           "source_url": "https://m.media-amazon.com/images/I/41uDTyyiHfL._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
           "stored_path": null

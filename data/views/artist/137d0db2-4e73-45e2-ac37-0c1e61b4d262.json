@@ -24,10 +24,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Steve Lacy"
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
       "artwork": [
         {
+          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
           "role": "canonical",
           "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
           "stored_path": null

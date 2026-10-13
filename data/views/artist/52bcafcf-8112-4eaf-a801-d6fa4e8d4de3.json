@@ -21,10 +21,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Dean Lewis"
+        "canonical_name": "Dean Lewis",
+        "id": "52bcafcf-8112-4eaf-a801-d6fa4e8d4de3"
       },
       "artwork": [
         {
+          "id": "6b8dfe15-e6de-4925-a23c-3f9d79ec1202",
           "role": "canonical",
           "source_url": "https://i.discogs.com/8XY7pswThZjpGCIQ1YwnBdu-UdL_7D_5QpmsLqB40Co/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMx/NTAyLTE1MzcwOTc0/ODctOTMxOC5qcGVn.jpeg",
           "stored_path": null

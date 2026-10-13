@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Paramore"
+        "canonical_name": "Paramore",
+        "id": "28af6bb4-6a92-4274-86ac-2c4144933aa3"
       },
       "artwork": [
         {
+          "id": "35e9c891-4b55-40a7-94f8-72c318bd6d8f",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/2b2caf1d-fef7-4afb-b26a-19ac1155b8ae/front",
           "stored_path": null

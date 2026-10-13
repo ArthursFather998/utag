@@ -7,7 +7,7 @@
       "genres": [],
       "id": "603ed3ae-7d77-4703-966c-fb4e8dcf1481",
       "image_url": null,
-      "release_count": 0
+      "release_count": 1
     },
     {
       "aliases": [],
@@ -327,7 +327,7 @@
       "genres": [],
       "id": "503aceba-cd2e-494b-8dbc-b843c6f1251b",
       "image_url": null,
-      "release_count": 1
+      "release_count": 0
     },
     {
       "aliases": [],
@@ -356,14 +356,16 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-13T20:54:58.359420+00:00",
+  "exported_at": "2026-10-13T21:02:50.186003+00:00",
   "releases": [
     {
       "artists": {
-        "canonical_name": "Steve Lacy"
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
       "artwork": [
         {
+          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
           "role": "canonical",
           "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
           "stored_path": null
@@ -380,10 +382,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Conan Gray"
+        "canonical_name": "Conan Gray",
+        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
       },
       "artwork": [
         {
+          "id": "033b9bff-dcdf-413e-aa13-1c7e3c765944",
           "role": "canonical",
           "source_url": "https://tse4.mm.bing.net/th/id/OIP.EzrvyRsMOIOgCxqmTvsprwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
           "stored_path": null
@@ -400,10 +404,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Brent Faiyaz"
+        "canonical_name": "Brent Faiyaz",
+        "id": "8751b493-8c5b-41a3-a591-40848132500d"
       },
       "artwork": [
         {
+          "id": "ed04242a-46dd-4f92-947e-102162ff0650",
           "role": "canonical",
           "source_url": "https://m.media-amazon.com/images/I/41uDTyyiHfL._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
           "stored_path": null
@@ -420,10 +426,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Brian McKnight"
+        "canonical_name": "Brian McKnight",
+        "id": "061d89cb-5fac-4e8d-811e-aa08a92edb19"
       },
       "artwork": [
         {
+          "id": "92d5b8c2-990e-4f00-a986-0412fb77e8db",
           "role": "canonical",
           "source_url": "https://i.discogs.com/veAqJKWq0mCyiki-dhFHrkNnZSP_vFwu7VC_r6nf6mI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTg4/MzAtMTM4NDk5ODI2/Mi0zNzEyLmpwZWc.jpeg",
           "stored_path": null
@@ -440,10 +448,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Dean Lewis"
+        "canonical_name": "Dean Lewis",
+        "id": "52bcafcf-8112-4eaf-a801-d6fa4e8d4de3"
       },
       "artwork": [
         {
+          "id": "6b8dfe15-e6de-4925-a23c-3f9d79ec1202",
           "role": "canonical",
           "source_url": "https://i.discogs.com/8XY7pswThZjpGCIQ1YwnBdu-UdL_7D_5QpmsLqB40Co/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMx/NTAyLTE1MzcwOTc0/ODctOTMxOC5qcGVn.jpeg",
           "stored_path": null
@@ -460,10 +470,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Conan Gray"
+        "canonical_name": "Conan Gray",
+        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
       },
       "artwork": [
         {
+          "id": "43e30a08-dd07-4054-81c6-efbac206bfd9",
           "role": "canonical",
           "source_url": "https://tse4.mm.bing.net/th/id/OIP.IJSqd25s-NC8XF1yBEEuFwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
           "stored_path": null
@@ -480,10 +492,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Malcolm Todd"
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
       "artwork": [
         {
+          "id": "5d840f06-56f5-4c8e-bcd2-91ed1f88c52b",
           "role": "canonical",
           "source_url": "https://cdn-images.dzcdn.net/images/cover/38f1aac7d6b5b0e84ef0a02b4cad77fc/1000x1000-000000-80-0-0.jpg",
           "stored_path": null
@@ -500,10 +514,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Britney Spears"
+        "canonical_name": "Britney Spears",
+        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
       },
       "artwork": [
         {
+          "id": "36b15833-c19f-4bf0-930e-2cda30dd6583",
           "role": "canonical",
           "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/..._Baby_One_More_Time_%28album%29.png",
           "stored_path": null
@@ -520,10 +536,12 @@
     },
     {
       "artists": {
-        "canonical_name": "XXXTENTACION"
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
       "artwork": [
         {
+          "id": "d503bd03-5f76-41f8-88ab-27f67fa850c0",
           "role": "canonical",
           "source_url": "https://th.bing.com/th/id/R.703552c0d52f1135f3c49e0102ccc595?rik=Izd1gLVbDZOICg&pid=ImgRaw&r=0",
           "stored_path": null
@@ -540,10 +558,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Harry Styles"
+        "canonical_name": "Harry Styles",
+        "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
       },
       "artwork": [
         {
+          "id": "765bc821-684c-4368-971c-5350b5aee4f0",
           "role": "canonical",
           "source_url": "https://tse3.mm.bing.net/th/id/OIP.goSH0qzNiLrYvrfC2gj4cgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
           "stored_path": null
@@ -560,10 +580,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Various Artists"
+        "canonical_name": "Aaliyah",
+        "id": "603ed3ae-7d77-4703-966c-fb4e8dcf1481"
       },
       "artwork": [
         {
+          "id": "4556e09d-5932-4ca0-83f9-57ae643500f7",
           "role": "canonical",
           "source_url": "https://th.bing.com/th/id/R.15c06794e6479a785d6cf3de7404d1b2?rik=QOz5JnmlVluG1A&riu=http%3a%2f%2fwww.playthishiphop.com%2fwp-content%2fuploads%2f2013%2f03%2fAaliyah-I-Care-4-U.jpg%3fx34382&ehk=8eB%2f%2fqvubN4g6GM5gk49bqkXJ44LSqLmvpajXT1Sey4%3d&risl=&pid=ImgRaw&r=0",
           "stored_path": null
@@ -580,10 +602,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Tyler, The Creator"
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
       "artwork": [
         {
+          "id": "d4be92ab-2d74-4ad7-83cd-62e5fd195df3",
           "role": "canonical",
           "source_url": "https://tse1.mm.bing.net/th/id/OIP.Zt-mtYE82VNEnJaIhTPCgAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
           "stored_path": null
@@ -600,10 +624,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Elvis Presley"
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
       },
       "artwork": [
         {
+          "id": "9958438c-3a92-4d3b-9bdf-321edda10aa4",
           "role": "canonical",
           "source_url": "https://www.elvisoncd.com/EIGENECD_a-z/import/T/thecompleteburbanksess21.jpg",
           "stored_path": null
@@ -620,10 +646,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Harry Styles"
+        "canonical_name": "Harry Styles",
+        "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
       },
       "artwork": [
         {
+          "id": "444b91a8-4703-4c9b-85e9-b70e1045f3f8",
           "role": "canonical",
           "source_url": "https://th.bing.com/th?id=OIF.efkDjpzQ3WUI6bw%2fXqC9KQ&r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
           "stored_path": null
@@ -640,10 +668,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Queen"
+        "canonical_name": "Queen",
+        "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
       },
       "artwork": [
         {
+          "id": "3d178b4a-2a86-4402-b425-d39218c4d8fc",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/a1f4041b-eac0-4e28-b315-e7b599c8fa06/front",
           "stored_path": null
@@ -660,10 +690,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Three Days Grace"
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
       },
       "artwork": [
         {
+          "id": "e78269f3-085c-47e0-bcad-385e137f66c0",
           "role": "canonical",
           "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg",
           "stored_path": null
@@ -680,10 +712,12 @@
     },
     {
       "artists": {
-        "canonical_name": "ugly"
+        "canonical_name": "ugly",
+        "id": "06c837f2-679f-4711-a2cb-57e783d01002"
       },
       "artwork": [
         {
+          "id": "506e3abd-3374-4a97-9af8-b06cde761b00",
           "role": "canonical",
           "source_url": "https://images.genius.com/b4a1289825b44db20ed7e4c5ba4cdaac.500x500x1.jpg",
           "stored_path": null
@@ -700,10 +734,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Daniel Caesar"
+        "canonical_name": "Daniel Caesar",
+        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
       },
       "artwork": [
         {
+          "id": "8477bf70-077b-44af-85c7-cc5242c291a9",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/9844eaad-b637-4bc2-9634-d4ec4e58afd6",
           "stored_path": null
@@ -720,10 +756,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Kendrick Lamar"
+        "canonical_name": "Kendrick Lamar",
+        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
       },
       "artwork": [
         {
+          "id": "94f58c40-a472-4efe-8d2b-0a0754cdb07f",
           "role": "canonical",
           "source_url": "https://archive.org/download/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc-37147953292.jpg",
           "stored_path": null
@@ -740,10 +778,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Conan Gray"
+        "canonical_name": "Conan Gray",
+        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
       },
       "artwork": [
         {
+          "id": "8662e3ea-fad9-48ca-8a2f-b13e99284511",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/c4ca4c73-9e84-4aa4-a30f-3ae780bd6379/front",
           "stored_path": null
@@ -760,10 +800,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Paramore"
+        "canonical_name": "Paramore",
+        "id": "28af6bb4-6a92-4274-86ac-2c4144933aa3"
       },
       "artwork": [
         {
+          "id": "35e9c891-4b55-40a7-94f8-72c318bd6d8f",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/2b2caf1d-fef7-4afb-b26a-19ac1155b8ae/front",
           "stored_path": null
@@ -780,10 +822,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Radiohead"
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
       },
       "artwork": [
         {
+          "id": "5437f3e3-878a-4183-a340-d776e6b767d5",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/e9b0f69e-ee3d-36ed-8c12-f8ee65f87e45/front",
           "stored_path": null
@@ -800,10 +844,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Ed Sheeran"
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
       },
       "artwork": [
         {
+          "id": "6df35919-9bbf-4129-a72b-930a363d64d3",
           "role": "canonical",
           "source_url": "https://archive.org/download/mbid-4f90bd0a-0e62-455e-93a2-4253cfe296bd/mbid-4f90bd0a-0e62-455e-93a2-4253cfe296bd-28103815770.jpg",
           "stored_path": null
@@ -820,10 +866,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Elton John"
+        "canonical_name": "Elton John",
+        "id": "02e3e418-564d-4fef-8a05-f262466b4956"
       },
       "artwork": [
         {
+          "id": "9db1e5a5-dda0-4ca5-a55f-9ffebc6c5a5b",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/100x100bb.jpg",
           "stored_path": null
@@ -840,10 +888,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Arctic Monkeys"
+        "canonical_name": "Arctic Monkeys",
+        "id": "d2c0c42a-6243-4543-bf0f-fbe30d70244f"
       },
       "artwork": [
         {
+          "id": "88d1e9c0-522e-4128-b6bf-2032457bd9d0",
           "role": "canonical",
           "source_url": "https://archive.org/download/mbid-0b66d93c-176c-3c2d-aede-477063d613e0/mbid-0b66d93c-176c-3c2d-aede-477063d613e0-13155717323.jpg",
           "stored_path": null
@@ -860,10 +910,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Mena Massoud & Naomi Scott"
+        "canonical_name": "Mena Massoud & Naomi Scott",
+        "id": "fbd750a8-6d37-472c-9408-98dc67a5f22c"
       },
       "artwork": [
         {
+          "id": "b16914f8-794f-4c07-b605-b86096e4e721",
           "role": "canonical",
           "source_url": "https://archive.org/download/mbid-ebdfd9d2-ca95-459a-a273-384978d2b458/mbid-ebdfd9d2-ca95-459a-a273-384978d2b458-44713565778.jpg",
           "stored_path": null
@@ -880,10 +932,12 @@
     },
     {
       "artists": {
-        "canonical_name": "EsDeeKid"
+        "canonical_name": "EsDeeKid",
+        "id": "0889a421-b231-46b9-9ab5-c82502170e11"
       },
       "artwork": [
         {
+          "id": "183ff735-86e2-4ba5-83cb-77945e5d191c",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/3f/42/483f423c-56c3-597f-90ab-f1c875af89de/5034644741581.jpg/600x600bb.jpg",
           "stored_path": null
@@ -900,10 +954,12 @@
     },
     {
       "artists": {
-        "canonical_name": "ASTN"
+        "canonical_name": "ASTN",
+        "id": "cfb41b7f-1135-456e-aec6-7fa37900a2c9"
       },
       "artwork": [
         {
+          "id": "2dc8fedc-b5fb-428e-9fe0-0e3536439c9f",
           "role": "canonical",
           "source_url": "https://images.genius.com/f5c4349fd355804a455e29bfe186bc52.1000x1000x1",
           "stored_path": null
@@ -920,10 +976,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Billie Eilish"
+        "canonical_name": "Billie Eilish",
+        "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
       "artwork": [
         {
+          "id": "4131f77b-e9c0-4e68-a45b-66af69197c9b",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/43031198460.jpg",
           "stored_path": null
@@ -940,10 +998,12 @@
     },
     {
       "artists": {
-        "canonical_name": "d4vd"
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [
         {
+          "id": "01ecab3d-aed2-467e-afc1-5dfc38d71e19",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/listen-before-i-go.jpg"
@@ -960,10 +1020,12 @@
     },
     {
       "artists": {
-        "canonical_name": "d4vd"
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [
         {
+          "id": "5b6a61cc-3b0e-4515-9e84-e21c5d0e9003",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/forever-unreleased.jpg"
@@ -980,10 +1042,12 @@
     },
     {
       "artists": {
-        "canonical_name": "d4vd"
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [
         {
+          "id": "1d5dede2-4cc8-4577-bccb-8269b6a58dde",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/im-in-love.jpg"
@@ -1000,10 +1064,12 @@
     },
     {
       "artists": {
-        "canonical_name": "d4vd"
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [
         {
+          "id": "b53349ba-e9d3-474e-b706-a51e099ad2b1",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/dancing-through-the-end-of-the-world.jpg"
@@ -1020,10 +1086,12 @@
     },
     {
       "artists": {
-        "canonical_name": "d4vd"
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [
         {
+          "id": "318ce17f-eddc-4f0b-9d15-ea72c8968df6",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/cold-in-the-summer.jpg"
@@ -1040,10 +1108,12 @@
     },
     {
       "artists": {
-        "canonical_name": "d4vd"
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [
         {
+          "id": "10723ba1-1014-4a12-a80d-ccd5583d1712",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/celeste-unreleased.jpg"
@@ -1060,10 +1130,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "057fac53-2300-4301-9fd2-2a247b5d7956",
           "role": "canonical",
           "source_url": "https://cdn.corenexis.com/f/pim5Ma5NC1a.png",
           "stored_path": null
@@ -1080,10 +1152,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "85105214-f684-4dbf-bb05-885d98251af1",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/Your_Eyes.jpg"
@@ -1100,10 +1174,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "64740109-569c-4ae4-89c4-18f825bfe564",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/Feel.jpg"
@@ -1120,10 +1196,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "6ec00ed1-f658-4f16-b705-c0b039742959",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/Retarded.jpg"
@@ -1140,10 +1218,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "5ad7e58a-f191-4bc7-ad7b-b5aa49907a91",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/Drain.jpg"
@@ -1160,10 +1240,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "f7143804-f30a-4f2d-8433-cf072b7a3d95",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/Intervals.jpg"
@@ -1180,10 +1262,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "c7eb4055-e452-4cb6-b51d-275deb50661d",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/Tired.jpg"
@@ -1200,10 +1284,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "0e53b59e-b547-42db-a3ca-da8301e8a23c",
           "role": "canonical",
           "source_url": "https://m.media-amazon.com/images/I/514Qg0g8tML._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
           "stored_path": "import/Hiraeth.jpg"
@@ -1220,10 +1306,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "91b113ae-9ecf-47bb-a6ea-aaa0ff3ce79b",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/Harlot.jpg"
@@ -1240,10 +1328,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Skyler Green"
+        "canonical_name": "Skyler Green",
+        "id": "facc8bc9-a047-45a2-83d9-43c30b443ef2"
       },
       "artwork": [
         {
+          "id": "dd5280f5-7f6e-4f81-8ad7-bc2e685a2565",
           "role": "canonical",
           "source_url": null,
           "stored_path": "import/Stargazing.jpg"
@@ -1260,10 +1350,12 @@
     },
     {
       "artists": {
-        "canonical_name": "Frank Ocean"
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
       "artwork": [
         {
+          "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
           "role": "canonical",
           "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
           "stored_path": null

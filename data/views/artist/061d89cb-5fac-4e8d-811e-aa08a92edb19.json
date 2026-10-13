@@ -22,10 +22,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Brian McKnight"
+        "canonical_name": "Brian McKnight",
+        "id": "061d89cb-5fac-4e8d-811e-aa08a92edb19"
       },
       "artwork": [
         {
+          "id": "92d5b8c2-990e-4f00-a986-0412fb77e8db",
           "role": "canonical",
           "source_url": "https://i.discogs.com/veAqJKWq0mCyiki-dhFHrkNnZSP_vFwu7VC_r6nf6mI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTg4/MzAtMTM4NDk5ODI2/Mi0zNzEyLmpwZWc.jpeg",
           "stored_path": null

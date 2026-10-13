@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Queen"
+        "canonical_name": "Queen",
+        "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
       },
       "artwork": [
         {
+          "id": "3d178b4a-2a86-4402-b425-d39218c4d8fc",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/a1f4041b-eac0-4e28-b315-e7b599c8fa06/front",
           "stored_path": null

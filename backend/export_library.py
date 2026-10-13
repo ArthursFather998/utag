@@ -94,6 +94,7 @@ def table_count(table):
 
 def art_entry(a):
     return {
+        "id": a.get("id"),
         "source_url": a.get("source_url"),
         "stored_path": a.get("stored_path"),
         "role": a.get("role"),
@@ -111,7 +112,7 @@ def catalog_release(r, artist_name, canonical_art):
         "label": r.get("label"),
         "confidence": r.get("confidence"),
         "created_at": r.get("created_at"),
-        "artists": {"canonical_name": artist_name},
+        "artists": {"id": r.get("artist_id"), "canonical_name": artist_name},
         "artwork": [art_entry(canonical_art)] if canonical_art else [],
     }
 

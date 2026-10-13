@@ -19,10 +19,12 @@
   "releases": [
     {
       "artists": {
-        "canonical_name": "Tyler, The Creator"
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
       "artwork": [
         {
+          "id": "d4be92ab-2d74-4ad7-83cd-62e5fd195df3",
           "role": "canonical",
           "source_url": "https://tse1.mm.bing.net/th/id/OIP.Zt-mtYE82VNEnJaIhTPCgAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
           "stored_path": null

@@ -54,10 +54,12 @@
   "more_from_artist": [
     {
       "artists": {
-        "canonical_name": "Harry Styles"
+        "canonical_name": "Harry Styles",
+        "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
       },
       "artwork": [
         {
+          "id": "765bc821-684c-4368-971c-5350b5aee4f0",
           "role": "canonical",
           "source_url": "https://tse3.mm.bing.net/th/id/OIP.goSH0qzNiLrYvrfC2gj4cgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
           "stored_path": null

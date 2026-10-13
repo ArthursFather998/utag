@@ -42,7 +42,7 @@ const ENTITY_TABLE: Record<string, string> = {
 // Fields a human ruling may change, per entity. Anything else is rejected.
 const EDITABLE: Record<string, string[]> = {
   artist: ["canonical_name", "aliases", "genres", "image_url", "mbid", "spotify_id", "apple_id", "deezer_id", "discogs_id"],
-  release: ["title", "release_type", "edition", "release_date", "release_year", "label", "catalog_number", "barcode", "country", "mbid", "spotify_id", "apple_id", "deezer_id", "discogs_id"],
+  release: ["title", "release_type", "edition", "release_date", "release_year", "release_status", "label", "catalog_number", "barcode", "country", "mbid", "spotify_id", "apple_id", "deezer_id", "discogs_id"],
   track: ["title", "track_number", "disc_number", "isrc", "duration_ms", "mbid", "spotify_id", "apple_id", "deezer_id"],
   artwork: ["role", "edition_label", "source_url"],
 };
@@ -229,7 +229,10 @@ Deno.serve(async (req) => {
       }
       const entityId = String(body.entity_id || "");
       const isArr = Array.isArray(body.new_value);
-      const corrValue = isArr ? JSON.stringify(body.new_value) : String(body.new_value ?? "");
+      // "auto" release status stores as null (date-checked).
+      const storedValue = (entityType === "release" && field === "release_status" && body.new_value === "auto")
+        ? null : body.new_value;
+      const corrValue = isArr ? JSON.stringify(storedValue) : String(storedValue ?? "");
 
       // Promoting artwork to canonical: demote the release's current
       // canonical first, or the one-canonical-per-release index rejects it.
@@ -257,7 +260,7 @@ Deno.serve(async (req) => {
 
       // Apply the change FIRST, then record the ruling. If the update fails
       // (e.g. unique-name clash), no phantom correction is left behind.
-      const patch: Record<string, unknown> = { [field]: body.new_value };
+      const patch: Record<string, unknown> = { [field]: storedValue };
       if (entityType !== "artwork") patch.updated_at = new Date().toISOString();
       const { error: updErr } = await supabase.from(table).update(patch).eq("id", entityId);
       if (updErr) throw updErr;

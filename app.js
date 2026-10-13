@@ -36,6 +36,21 @@ function editionChip(ed) {
   return `<span class="st st-edition">${esc(ed)}</span>`;
 }
 
+/* Effective release status: a manual release_status always wins; otherwise
+   it's checked automatically from dates (a future date, or no date and no
+   year at all, means unreleased). */
+function releaseStatus(r) {
+  if (r.release_status === "unreleased") return "unreleased";
+  if (r.release_status === "released") return "released";
+  const today = new Date().toISOString().slice(0, 10);
+  if (r.release_date && r.release_date > today) return "unreleased";
+  if (!r.release_date && !r.release_year) return "unreleased";
+  return "released";
+}
+function unreleasedTag(r) {
+  return releaseStatus(r) === "unreleased" ? `<span class="st st-unreleased"><i></i>Unreleased</span>` : "";
+}
+
 /* Images fade in over a skeleton shimmer. The skeleton background shows
    while the image loads; a broken image collapses silently to it. */
 function im(u, cls, alt) {
@@ -264,7 +279,7 @@ function releaseRow(r, acts) {
       <span class="t">${esc(r.title)}</span>
       <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</span>
     </span>
-    <span class="end">${editionChip(r.edition)}</span>
+    <span class="end">${editionChip(r.edition)}${unreleasedTag(r)}</span>
     ${acts ? `<span class="acts">${acts}</span>` : ""}
   </a>`;
 }
@@ -631,22 +646,14 @@ async function vArtist(id) {
     ["Discogs", a.discogs_id], ["MusicBrainz", a.mbid]
   ].filter(([, v]) => v);
   const groups = [["album", "Albums"], ["ep", "EPs"], ["single", "Singles"], ["compilation", "Compilations"], ["soundtrack", "Soundtracks"], ["other", "Other releases"]];
-  /* Released vs unreleased, checked automatically from dates: a future date,
-     or no date and no year at all, means unreleased. Released always first. */
-  const today = new Date().toISOString().slice(0, 10);
-  const isReleased = (r) => {
-    if (r.release_date && r.release_date > today) return false;
-    if (!r.release_date && !r.release_year) return false;
-    return true;
-  };
   const sectionFor = (label, list) => {
     if (!list.length) return "";
     return `<h2>${label}</h2><div class="rows">${list.map(r => releaseRow(r)).join("")}</div>`;
   };
   const releasedSections = groups.map(([type, label]) =>
-    sectionFor(label, (releases || []).filter(r => r.release_type === type && isReleased(r)))).join("");
+    sectionFor(label, (releases || []).filter(r => r.release_type === type && releaseStatus(r) === "released"))).join("");
   const unreleasedSections = groups.map(([type, label]) =>
-    sectionFor(label, (releases || []).filter(r => r.release_type === type && !isReleased(r)))).join("");
+    sectionFor(label, (releases || []).filter(r => r.release_type === type && releaseStatus(r) === "unreleased"))).join("");
   const sections = releasedSections +
     (releasedSections && unreleasedSections ? `<div class="unreleased-div" aria-label="Unreleased"><span>Unreleased</span></div>` : "") +
     unreleasedSections;
@@ -762,7 +769,7 @@ async function vRelease(id) {
     <div class="rec-head">
       <h1>${esc(r.title)}</h1>
       <p class="rec-byline">${r.artists ? `<a href="#/artist/${esc(r.artists.id)}">${esc(artistName)}</a>` : ""}${r.release_year ? ` · ${esc(r.release_year)}` : ""}${r.label ? ` · ${esc(r.label)}` : ""}</p>
-      <div class="rec-meta">${editionChip(r.edition) || `<span class="st st-edition">Original</span>`}</div>
+      <div class="rec-meta">${editionChip(r.edition) || `<span class="st st-edition">Original</span>`}${unreleasedTag(r)}</div>
     </div>
 
     <div class="rec-grid">
@@ -773,6 +780,7 @@ async function vRelease(id) {
         <div class="ef-grid">
           ${efInput("Title", "title", r.title, "text", true)}
           ${efSelect("Type", "release_type", r.release_type, ["album", "ep", "single", "compilation", "soundtrack", "other"])}
+          ${efSelect("Release status", "release_status", r.release_status || "auto", ["auto", "released", "unreleased"])}
           ${efSelect("Edition", "edition", r.edition, ["original", "remaster", "deluxe", "reissue", "regional", "anniversary", "other"])}
           ${efInput("Release date (YYYY-MM-DD)", "release_date", r.release_date, "nulltext")}
           ${efInput("Release year", "release_year", r.release_year, "num")}
@@ -931,7 +939,7 @@ async function vReview() {
       ${u ? im(u, "thumb", r.title) : `<span class="thumb-empty" aria-hidden="true"></span>`}
       <a class="grow" href="#/release/${esc(r.id)}"><span class="t">${esc(r.title)}</span>
       <span class="s">${esc(artist)}${r.release_year ? ` · ${esc(r.release_year)}` : ""}</span></a>
-      <span class="end">${editionChip(r.edition)}</span>
+      <span class="end">${editionChip(r.edition)}${unreleasedTag(r)}</span>
       <span class="acts qc">${qcBtns("release", r.id, r.confidence)}</span>
     </div>`;
   }).join("");

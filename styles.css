@@ -392,6 +392,7 @@ a.drow:hover .t, .drow a.grow:hover .t { color: var(--link-hi); text-decoration:
 .st-unknown { color: var(--unknown); }
 .st-edition { color: var(--faint); }
 .st-edition i { display: none; }
+.st-unreleased { color: var(--review); }
 
 .st.job-queued { color: var(--unknown); }
 .st.job-running, .st.job-applying { color: var(--high); }

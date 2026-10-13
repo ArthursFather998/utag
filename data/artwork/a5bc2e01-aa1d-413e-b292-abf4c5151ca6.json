@@ -1,15 +1,15 @@
 {
-  "confidence": "high_confidence",
-  "created_at": "2026-10-13T23:24:45.976509+00:00",
-  "edition_label": null,
-  "height": null,
   "id": "a5bc2e01-aa1d-413e-b292-abf4c5151ca6",
-  "phash": null,
   "release_id": "3ea07952-2c0f-4fb9-a105-98275fe89c27",
-  "role": "canonical",
-  "source": "Apple Music",
   "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/0c/82/4e0c82e8-7970-25f5-bfd6-6f0faec83dcb/22UMGIM94151.rgb.jpg/1200x1200bb.jpg",
-  "status": "high_confidence",
   "stored_path": null,
-  "width": null
+  "phash": null,
+  "width": null,
+  "height": null,
+  "source": "Apple Music",
+  "role": "canonical",
+  "edition_label": null,
+  "confidence": "high_confidence",
+  "status": "high_confidence",
+  "created_at": "2026-10-13T23:24:45.976509+00:00"
 }

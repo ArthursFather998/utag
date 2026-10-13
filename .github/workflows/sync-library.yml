@@ -1,0 +1,48 @@
+# Rebuilds the derived library views whenever the raw data files change.
+#
+# Trigger: utag-control commits data/<table>/<id>.json after every manual
+# edit (event-driven — no schedule). This job runs the full export from
+# Supabase, which normalizes the raw file and rebuilds catalog.json,
+# review.json, and the per-record views, then pushes the result.
+#
+# Loop guard: the push below carries [skip ci], which the `if:` condition
+# honors, so the Action never re-triggers itself.
+
+name: Sync library views
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**"]
+
+concurrency:
+  group: sync-library
+  cancel-in-progress: true
+
+jobs:
+  rebuild:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Re-export library from Supabase
+        run: python3 backend/export_library.py
+
+      - name: Commit rebuilt views
+        run: |
+          git config user.name "utag-sync"
+          git config user.email "utag-sync@users.noreply.github.com"
+          git add -A data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Sync library views [skip ci]"
+            git push
+          else
+            echo "No view changes to commit."
+          fi

@@ -1,15 +1,15 @@
 {
-  "confidence": "verified",
-  "created_at": "2026-10-13T21:47:49.086849+00:00",
-  "edition_label": null,
-  "height": null,
   "id": "59ad5918-f322-41e3-a76b-1e88717ced18",
-  "phash": null,
   "release_id": "d0eeb8cd-7d6a-4761-948c-fe43ad54c500",
-  "role": "canonical",
-  "source": "user",
   "source_url": "https://tse1.mm.bing.net/th/id/OIP.zmzIjt_dxMHvd0_W_2yy4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-  "status": "verified",
   "stored_path": null,
-  "width": null
+  "phash": null,
+  "width": null,
+  "height": null,
+  "source": "user",
+  "role": "alternate",
+  "edition_label": null,
+  "confidence": "verified",
+  "status": "verified",
+  "created_at": "2026-10-13T21:47:49.086849+00:00"
 }

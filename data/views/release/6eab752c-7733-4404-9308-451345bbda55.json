@@ -75,7 +75,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "a5bc2e01-aa1d-413e-b292-abf4c5151ca6",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/0c/82/4e0c82e8-7970-25f5-bfd6-6f0faec83dcb/22UMGIM94151.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-13T23:24:45.823571+00:00",
       "edition": "original",

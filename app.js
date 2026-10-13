@@ -391,16 +391,18 @@ async function saveEdits(root, entityType, entityId, fields, conf) {
   grabPw(root);
   if (status) status.textContent = "Saving…";
   try {
-    let n = 0;
+    let n = 0, syncFailed = false;
+    const noteSync = (res) => { if (res && res.repo_sync === "failed") syncFailed = true; };
     for (const f of fields) {
-      await fnCall({ action: "correct", entity_type: entityType, entity_id: entityId, field: f.name, new_value: f.value });
+      noteSync(await fnCall({ action: "correct", entity_type: entityType, entity_id: entityId, field: f.name, new_value: f.value }));
       n++;
     }
     if (conf && conf.value !== conf.current) {
-      await fnCall({ action: "set_confidence", entity_type: entityType, entity_id: entityId, confidence: conf.value });
+      noteSync(await fnCall({ action: "set_confidence", entity_type: entityType, entity_id: entityId, confidence: conf.value }));
       n++;
     }
-    if (status) status.textContent = n ? `Saved ${n} change${n === 1 ? "" : "s"}. It is on record as your ruling.` : "Nothing changed.";
+    if (status) status.textContent = (n ? `Saved ${n} change${n === 1 ? "" : "s"}. It is on record as your ruling.` : "Nothing changed.")
+      + (syncFailed ? " (Repo sync failed — it will retry on your next save.)" : "");
     const applied = fields.map(f => ({ name: f.name, value: f.value }));
     if (conf && conf.value !== conf.current) applied.push({ name: "confidence", value: conf.value });
     if (applied.length) optimisticPatch(entityType, entityId, applied);
@@ -811,7 +813,13 @@ async function vRelease(id) {
     const artAction = async (btn, fn) => {
       grabPw(artman);
       btn.disabled = true;
-      try { await fn(); vRelease(id); }
+      try {
+        const res = await fn();
+        artStatus.textContent = res && res.repo_sync === "failed"
+          ? "Saved, but the repo sync failed — it will retry on your next save."
+          : "Done.";
+        vRelease(id);
+      }
       catch (e) {
         artStatus.textContent = e.message === "Wrong password" ? "That password was refused." : `Failed: ${e.message}`;
         btn.disabled = false;
@@ -819,19 +827,21 @@ async function vRelease(id) {
     };
     artman.querySelectorAll("[data-canonical]").forEach(b => b.addEventListener("click", () =>
       artAction(b, async () => {
-        await fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.canonical, field: "role", new_value: "canonical" });
+        const res = await fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.canonical, field: "role", new_value: "canonical" });
         const rv = libData[`data/views/release/${r.id}.json`];
         if (rv && rv.artwork) for (const x of rv.artwork) {
           if (x.role === "canonical" && x.id !== b.dataset.canonical) x.role = "alternate";
         }
         optimisticPatch("artwork", b.dataset.canonical, [{ name: "role", value: "canonical" }]);
         syncReleaseArtwork(r.id);
+        return res;
       })));
     artman.querySelectorAll("[data-reject]").forEach(b => b.addEventListener("click", () =>
       artAction(b, async () => {
-        await fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.reject, field: "role", new_value: "rejected" });
+        const res = await fnCall({ action: "correct", entity_type: "artwork", entity_id: b.dataset.reject, field: "role", new_value: "rejected" });
         optimisticPatch("artwork", b.dataset.reject, [{ name: "role", value: "rejected" }]);
         syncReleaseArtwork(r.id);
+        return res;
       })));
     document.getElementById("art-add").addEventListener("click", async (e) => {
       const url = document.getElementById("art-url").value.trim();
@@ -852,6 +862,7 @@ async function vRelease(id) {
             created_at: new Date().toISOString() });
         }
         syncReleaseArtwork(r.id);
+        return res;
       });
     });
   }

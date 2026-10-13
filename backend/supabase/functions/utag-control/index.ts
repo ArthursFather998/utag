@@ -122,6 +122,63 @@ Deno.serve(async (req) => {
     Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!,
   );
 
+  const REPO_OWNER = "ArthursFather998";
+  const REPO_NAME = "utag";
+
+  function toB64(s: string): string {
+    const bytes = new TextEncoder().encode(s);
+    let bin = "";
+    for (const b of bytes) bin += String.fromCharCode(b);
+    return btoa(bin);
+  }
+
+  /* Event-driven repo sync: after a library write, commit the changed row's
+     JSON file to the repo so the file library tracks Supabase on every edit.
+     A GitHub Action rebuilds the derived views on each such push. Supabase is
+     the source of truth — a failed commit never fails the save itself. */
+  async function syncRowToRepo(table: string, id: string): Promise<"ok" | "skipped" | "failed"> {
+    const token = Deno.env.get("GITHUB_REPO_TOKEN") || "";
+    if (!token) return "skipped";
+    try {
+      const { data: row, error } = await supabase.from(table).select("*").eq("id", id).single();
+      if (error || !row) return "failed";
+      const path = `data/${table}/${id}.json`;
+      const api = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`;
+      const headers = {
+        Authorization: `Bearer ${token}`,
+        Accept: "application/vnd.github+json",
+        "Content-Type": "application/json",
+      };
+      let sha: string | undefined;
+      const cur = await fetch(api, { headers });
+      if (cur.ok) {
+        sha = (await cur.json()).sha;
+      } else if (cur.status !== 404) {
+        return "failed";
+      }
+      const putBody: Record<string, unknown> = {
+        message: `Sync ${table}/${id} via utag-control`,
+        content: toB64(JSON.stringify(row, null, 2) + "\n"),
+      };
+      if (sha) putBody.sha = sha;
+      const res = await fetch(api, { method: "PUT", headers, body: JSON.stringify(putBody) });
+      return res.ok ? "ok" : "failed";
+    } catch {
+      return "failed";
+    }
+  }
+
+  async function syncRowsToRepo(table: string, ids: string[]): Promise<"ok" | "skipped" | "failed"> {
+    let sawOk = false, sawFailed = false;
+    for (const id of ids) {
+      const r = await syncRowToRepo(table, id);
+      if (r === "ok") sawOk = true;
+      if (r === "failed") sawFailed = true;
+    }
+    if (sawFailed) return "failed";
+    return sawOk ? "ok" : "skipped";
+  }
+
   const action = String(body.action || "");
 
   try {
@@ -139,10 +196,16 @@ Deno.serve(async (req) => {
 
       // Promoting artwork to canonical: demote the release's current
       // canonical first, or the one-canonical-per-release index rejects it.
+      const demotedIds: string[] = [];
       if (entityType === "artwork" && field === "role" && body.new_value === "canonical") {
         const { data: self } = await supabase
           .from("artwork").select("release_id").eq("id", entityId).single();
         if (self) {
+          const { data: others } = await supabase.from("artwork").select("id")
+            .eq("release_id", (self as { release_id: string }).release_id)
+            .eq("role", "canonical")
+            .neq("id", entityId);
+          for (const o of (others || []) as { id: string }[]) demotedIds.push(o.id);
           await supabase.from("artwork")
             .update({ role: "alternate" })
             .eq("release_id", (self as { release_id: string }).release_id)
@@ -172,7 +235,8 @@ Deno.serve(async (req) => {
         note: body.note ? String(body.note) : null,
       });
       if (corrErr) throw corrErr;
-      return json({ ok: true, action, entity_id: entityId, field });
+      const repoSync = await syncRowsToRepo(table, [entityId, ...demotedIds]);
+      return json({ ok: true, action, entity_id: entityId, field, repo_sync: repoSync });
     }
 
     if (action === "set_confidence") {
@@ -181,23 +245,27 @@ Deno.serve(async (req) => {
       const confidence = String(body.confidence || "");
       if (!table) return json({ ok: false, error: "Unknown entity_type" }, 400);
       if (!CONFIDENCE.includes(confidence)) return json({ ok: false, error: "Unknown confidence" }, 400);
+      const entityId = String(body.entity_id || "");
       const patch: Record<string, unknown> = { confidence, status: confidence };
       if (entityType !== "artwork") patch.updated_at = new Date().toISOString();
       const { error } = await supabase.from(table)
         .update(patch)
-        .eq("id", String(body.entity_id || ""));
+        .eq("id", entityId);
       if (error) throw error;
-      return json({ ok: true, action, confidence });
+      const repoSync = await syncRowToRepo(table, entityId);
+      return json({ ok: true, action, confidence, repo_sync: repoSync });
     }
 
     if (action === "resolve_verification") {
       const status = String(body.status || "");
       if (!CONFIDENCE.includes(status)) return json({ ok: false, error: "Unknown status" }, 400);
+      const verificationId = String(body.verification_id || "");
       const { error } = await supabase.from("verifications")
         .update({ status })
-        .eq("id", String(body.verification_id || ""));
+        .eq("id", verificationId);
       if (error) throw error;
-      return json({ ok: true, action, status });
+      const repoSync = await syncRowToRepo("verifications", verificationId);
+      return json({ ok: true, action, status, repo_sync: repoSync });
     }
 
     if (action === "add_artwork") {
@@ -209,10 +277,12 @@ Deno.serve(async (req) => {
       const { data: rel, error: relErr } = await supabase
         .from("releases").select("id").eq("id", releaseId).single();
       if (relErr || !rel) return json({ ok: false, error: "Release not found" }, 404);
+      const demotedIds: string[] = [];
       if (role === "canonical") {
         const { data: old } = await supabase.from("artwork")
           .select("id").eq("release_id", releaseId).eq("role", "canonical");
         for (const row of (old || []) as { id: string }[]) {
+          demotedIds.push(row.id);
           await supabase.from("artwork").update({ role: "alternate" }).eq("id", row.id);
           await supabase.from("corrections").insert({
             entity_type: "artwork", entity_id: row.id, field: "role",
@@ -237,7 +307,8 @@ Deno.serve(async (req) => {
         old_value: null, new_value: sourceUrl, source: "manual",
         note: `Artwork added manually with role ${role}`,
       });
-      return json({ ok: true, action, artwork_id: artId });
+      const repoSync = await syncRowsToRepo("artwork", [artId, ...demotedIds]);
+      return json({ ok: true, action, artwork_id: artId, repo_sync: repoSync });
     }
 
     if (action === "chat_send") {

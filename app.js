@@ -113,9 +113,11 @@ const count = (table, filter = "") => api(`${table}?select=id${filter}`, { count
 const libCache = {};
 const libData = {}; /* path -> resolved JSON, for optimistic patches after writes */
 function libURL(path) { return new URL(path, document.baseURI).toString(); }
+let libFreshFetch = false; /* when true, libFile bypasses browser/CDN caches */
 async function libFile(path) {
   if (!libCache[path]) {
-    libCache[path] = fetch(libURL(path)).then(r => {
+    const url = libURL(path) + (libFreshFetch ? "?t=" + Date.now() : "");
+    libCache[path] = fetch(url).then(r => {
       if (!r.ok) throw new Error(`Library read failed (${r.status})`);
       return r.json();
     }).then(d => { libData[path] = d; return d; });
@@ -181,7 +183,40 @@ async function doLibRefresh() {
   for (const k of Object.keys(libCache)) delete libCache[k];
   for (const k of Object.keys(libData)) delete libData[k];
   if (stamp) libStamp = stamp;
-  await route();
+  /* Bypass browser/CDN caches for this reload — the rebuilt views may not
+     have propagated to edge caches yet under their normal URLs. */
+  libFreshFetch = true;
+  try { await route(); }
+  finally { libFreshFetch = false; }
+}
+
+/* After a local write, watch for the rebuilt export and refresh the moment
+   it lands — the page never sits on stale data waiting for the 60s poll. */
+let awaitUpdateTimer = null;
+function awaitLibraryUpdate() {
+  const preStamp = libStamp;
+  if (awaitUpdateTimer) clearInterval(awaitUpdateTimer);
+  let tries = 0;
+  const tick = async () => {
+    tries++;
+    if (tries > 18) { clearInterval(awaitUpdateTimer); awaitUpdateTimer = null; return; }
+    try {
+      const r = await fetch(libURL("data/index.json") + "?t=" + Date.now());
+      if (!r.ok) return;
+      const idx = await r.json();
+      if (idx.exported_at && idx.exported_at !== preStamp) {
+        clearInterval(awaitUpdateTimer); awaitUpdateTimer = null;
+        if (!document.querySelector(".edit-panel:not([hidden])")) {
+          await doLibRefresh();
+          showLibToast("Library updated.");
+        } else {
+          showLibToast("The library was updated.", true);
+        }
+      }
+    } catch { /* try again next tick */ }
+  };
+  awaitUpdateTimer = setInterval(tick, 10000);
+  tick();
 }
 
 /* After a successful write the file cache is stale until the next export.
@@ -421,6 +456,7 @@ async function saveEdits(root, entityType, entityId, fields, conf) {
     const applied = fields.map(f => ({ name: f.name, value: f.value }));
     if (conf && conf.value !== conf.current) applied.push({ name: "confidence", value: conf.value });
     if (applied.length) optimisticPatch(entityType, entityId, applied);
+    awaitLibraryUpdate(); /* refresh the moment the rebuilt export lands */
     return true;
   } catch (err) {
     if (status) status.textContent = err.message === "Wrong password"
@@ -914,6 +950,7 @@ async function fixerApply(approved) {
   }
 
   await fixerLog("done", { status: saveErr ? "failed" : "done", result: saveErr || `Fixed ${approved.length} field(s); library updated.`, error: saveErr });
+  if (!saveErr) awaitLibraryUpdate(); /* refresh the moment the rebuilt export lands */
   const link = saved ? `<a href="#/release/${esc(saved.release_id)}">View in library</a>` : "";
   m.innerHTML = `
     <h2>Done</h2>
@@ -1183,6 +1220,7 @@ async function vRelease(id) {
         artStatus.textContent = res && res.repo_sync === "failed"
           ? "Saved, but the repo sync failed — it will retry on your next save."
           : "Done.";
+        awaitLibraryUpdate();
         vRelease(id);
       }
       catch (e) {
@@ -1277,6 +1315,7 @@ async function vReview() {
     try {
       await fnCall({ action: "set_confidence", entity_type: b.dataset.qe, entity_id: b.dataset.qid, confidence: b.dataset.qc });
       optimisticPatch(b.dataset.qe, b.dataset.qid, [{ name: "confidence", value: b.dataset.qc }]);
+      awaitLibraryUpdate();
       vReview();
     } catch (e) {
       st.textContent = e.message === "Wrong password" ? "That password was refused." : `Failed: ${e.message}`;

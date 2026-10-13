@@ -890,3 +890,14 @@ a.act-link { display: inline-block; }
   .act-dot.up { animation: none; }
   html { scroll-behavior: auto; }
 }
+
+/* ================================================== library update notice */
+
+.lib-toast {
+  position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%);
+  display: flex; align-items: center; gap: 12px;
+  background: #14161b; color: #ece8de; border: 1px solid #2a2e37;
+  padding: 10px 16px; font-size: 13px; z-index: 200; white-space: nowrap;
+}
+.lib-toast[hidden] { display: none; }
+.lib-toast .mini-btn { margin: 0; }

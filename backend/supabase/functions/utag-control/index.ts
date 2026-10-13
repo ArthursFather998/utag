@@ -54,6 +54,21 @@ function json(body: unknown, status = 200): Response {
   });
 }
 
+/* Turn any thrown value — including raw PostgREST error objects, which are
+   NOT Error instances — into a readable message. Never "[object Object]". */
+function errText(err: unknown): string {
+  const o = err as { message?: string; code?: string; details?: string; hint?: string } | null;
+  if (o && typeof o.message === "string" && o.message) {
+    if (o.code === "23505") {
+      return "That value is already taken by another record — merge the records instead of renaming.";
+    }
+    const extra = [o.code, o.details, o.hint].filter(Boolean).join(" ");
+    return extra ? `${o.message} (${extra})` : o.message;
+  }
+  if (err instanceof Error) return err.message;
+  return String(err);
+}
+
 // Browser calls are cross-origin (GitHub Pages -> Supabase): the function
 // must answer CORS preflights itself and carry the headers on every
 // response, or the browser blocks the call before it lands.
@@ -140,6 +155,13 @@ Deno.serve(async (req) => {
         .from(table).select(field).eq("id", entityId).single();
       if (readErr) throw readErr;
 
+      // Apply the change FIRST, then record the ruling. If the update fails
+      // (e.g. unique-name clash), no phantom correction is left behind.
+      const patch: Record<string, unknown> = { [field]: body.new_value };
+      if (entityType !== "artwork") patch.updated_at = new Date().toISOString();
+      const { error: updErr } = await supabase.from(table).update(patch).eq("id", entityId);
+      if (updErr) throw updErr;
+
       const { error: corrErr } = await supabase.from("corrections").insert({
         entity_type: entityType,
         entity_id: entityId,
@@ -150,11 +172,6 @@ Deno.serve(async (req) => {
         note: body.note ? String(body.note) : null,
       });
       if (corrErr) throw corrErr;
-
-      const patch: Record<string, unknown> = { [field]: body.new_value };
-      if (entityType !== "artwork") patch.updated_at = new Date().toISOString();
-      const { error: updErr } = await supabase.from(table).update(patch).eq("id", entityId);
-      if (updErr) throw updErr;
       return json({ ok: true, action, entity_id: entityId, field });
     }
 
@@ -379,6 +396,6 @@ Deno.serve(async (req) => {
 
     return json({ ok: false, error: `Unknown action: ${action}` }, 400);
   } catch (err) {
-    return json({ ok: false, error: err instanceof Error ? err.message : String(err) }, 500);
+    return json({ ok: false, error: errText(err) }, 500);
   }
 });

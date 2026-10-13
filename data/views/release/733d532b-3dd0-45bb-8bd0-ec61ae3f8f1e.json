@@ -27,15 +27,75 @@
       "id": "2ce02bd3-c7a2-460c-a066-5936c442ff89",
       "phash": null,
       "release_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
-      "role": "canonical",
+      "role": "alternate",
       "source": "Discogs",
       "source_url": "https://www.discogs.com/master/78443-Various-Dr-Dolittle-The-Album/image/SW1hZ2U6MzA1ODAyNzU=",
       "status": "verified",
       "stored_path": null,
       "width": null
+    },
+    {
+      "confidence": "verified",
+      "created_at": "2026-10-13T20:45:22.316527+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "4556e09d-5932-4ca0-83f9-57ae643500f7",
+      "phash": null,
+      "release_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
+      "role": "canonical",
+      "source": "user",
+      "source_url": "https://th.bing.com/th/id/R.15c06794e6479a785d6cf3de7404d1b2?rik=QOz5JnmlVluG1A&riu=http%3a%2f%2fwww.playthishiphop.com%2fwp-content%2fuploads%2f2013%2f03%2fAaliyah-I-Care-4-U.jpg%3fx34382&ehk=8eB%2f%2fqvubN4g6GM5gk49bqkXJ44LSqLmvpajXT1Sey4%3d&risl=&pid=ImgRaw&r=0",
+      "status": "verified",
+      "stored_path": null,
+      "width": null
     }
   ],
-  "corrections": [],
+  "corrections": [
+    {
+      "created_at": "2026-10-13T20:48:25.873303+00:00",
+      "entity_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
+      "entity_type": "release",
+      "field": "title",
+      "id": "d223ab62-43ce-495b-b6a6-9f3acfd6f325",
+      "new_value": "I care 4 u",
+      "note": null,
+      "old_value": "i care 4 u",
+      "source": "manual"
+    },
+    {
+      "created_at": "2026-10-13T20:46:15.320107+00:00",
+      "entity_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
+      "entity_type": "release",
+      "field": "release_year",
+      "id": "47197988-539a-4344-9cbf-67acda48ea49",
+      "new_value": "2002",
+      "note": null,
+      "old_value": "1998",
+      "source": "manual"
+    },
+    {
+      "created_at": "2026-10-13T20:46:14.615364+00:00",
+      "entity_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
+      "entity_type": "release",
+      "field": "release_date",
+      "id": "eea19ce4-cd90-482e-bd09-9b17f7c0e398",
+      "new_value": "2002-12-10",
+      "note": null,
+      "old_value": "1998-06-16",
+      "source": "manual"
+    },
+    {
+      "created_at": "2026-10-13T20:46:13.79874+00:00",
+      "entity_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
+      "entity_type": "release",
+      "field": "title",
+      "id": "6af3962e-9ea4-4ab4-9720-f50ca4a3e9e7",
+      "new_value": "i care 4 u",
+      "note": null,
+      "old_value": "Dr. Dolittle: The Album",
+      "source": "manual"
+    }
+  ],
   "more_from_artist": [],
   "release": {
     "apple_id": null,
@@ -51,13 +111,13 @@
     "id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
     "label": "Atlantic",
     "mbid": null,
-    "release_date": "1998-06-16",
+    "release_date": "2002-12-10",
     "release_type": "soundtrack",
-    "release_year": 1998,
+    "release_year": 2002,
     "spotify_id": null,
     "status": "verified",
-    "title": "Dr. Dolittle: The Album",
-    "updated_at": "2026-10-10T01:42:16.024408+00:00"
+    "title": "I care 4 u",
+    "updated_at": "2026-10-13T20:48:25.936216+00:00"
   },
   "tracks": [
     {

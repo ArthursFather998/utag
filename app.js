@@ -106,10 +106,92 @@ async function libFile(path) {
   }
   return libCache[path];
 }
-const libCatalog = () => libFile("data/views/catalog.json");
+async function libCatalog() {
+  const c = await libFile("data/views/catalog.json");
+  if (!libStamp && c.exported_at) libStamp = c.exported_at;
+  return c;
+}
 const libReview = () => libFile("data/views/review.json");
 const libArtist = id => libFile(`data/views/artist/${encodeURIComponent(id)}.json`);
 const libRelease = id => libFile(`data/views/release/${encodeURIComponent(id)}.json`);
+
+/* ------------------------------------------------- library auto-updater */
+/* The library files are regenerated whenever the data changes. This watcher
+   polls data/index.json once a minute and refreshes the page data the moment
+   a newer export lands — no manual reload needed. */
+let libStamp = null;
+let libWatchStarted = false;
+
+function libToastEl() {
+  let t = document.getElementById("lib-toast");
+  if (!t) {
+    t = document.createElement("div");
+    t.id = "lib-toast";
+    t.className = "lib-toast";
+    t.hidden = true;
+    document.body.appendChild(t);
+  }
+  return t;
+}
+function hideLibToast() {
+  const t = document.getElementById("lib-toast");
+  if (t) t.hidden = true;
+}
+function showLibToast(msg, withRefresh) {
+  const t = libToastEl();
+  t.innerHTML = "";
+  const s = document.createElement("span");
+  s.textContent = msg;
+  t.appendChild(s);
+  if (withRefresh) {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "mini-btn";
+    b.textContent = "Refresh now";
+    b.addEventListener("click", async () => { hideLibToast(); await doLibRefresh(); });
+    t.appendChild(b);
+  }
+  t.hidden = false;
+  clearTimeout(showLibToast._t);
+  if (!withRefresh) showLibToast._t = setTimeout(hideLibToast, 5000);
+}
+
+async function doLibRefresh() {
+  let stamp = null;
+  try {
+    const r = await fetch(libURL("data/index.json") + "?t=" + Date.now());
+    if (r.ok) stamp = (await r.json()).exported_at || null;
+  } catch { /* keep the old stamp */ }
+  for (const k of Object.keys(libCache)) delete libCache[k];
+  if (stamp) libStamp = stamp;
+  await route();
+}
+
+async function checkLibUpdate() {
+  if (document.hidden) return;
+  let idx;
+  try {
+    const r = await fetch(libURL("data/index.json") + "?t=" + Date.now());
+    if (!r.ok) return;
+    idx = await r.json();
+  } catch { return; }
+  if (!idx || !idx.exported_at) return;
+  if (!libStamp) { libStamp = idx.exported_at; return; }
+  if (idx.exported_at === libStamp) return;
+  /* A newer export landed. Don't yank the page out from under an open editor. */
+  if (document.querySelector(".edit-panel:not([hidden])")) {
+    showLibToast("The library was updated.", true);
+    return;
+  }
+  await doLibRefresh();
+  showLibToast("Library updated.");
+}
+
+function startLibWatcher() {
+  if (libWatchStarted) return;
+  libWatchStarted = true;
+  setInterval(checkLibUpdate, 60000);
+}
 
 function setNav(name) {
   document.querySelectorAll("[data-nav]").forEach(a => {
@@ -238,7 +320,15 @@ async function fnCall(payload) {
     body: JSON.stringify({ auth_token: token || undefined, ...payload })
   });
   const data = await res.json().catch(() => ({}));
-  if (!res.ok || !data.ok) throw new Error(data.error || `HTTP ${res.status}`);
+  if (!res.ok || !data.ok) {
+    /* The function sometimes returns a structured error object (e.g. a raw
+       database error). Stringify it usefully instead of "[object Object]". */
+    const e = data.error;
+    const msg = typeof e === "string" && e ? e
+      : e && typeof e.message === "string" ? (e.code ? `${e.message} (${e.code})` : e.message)
+      : `HTTP ${res.status}`;
+    throw new Error(msg);
+  }
   return data;
 }
 
@@ -1665,3 +1755,4 @@ async function route() {
 
 window.addEventListener("hashchange", route);
 route();
+startLibWatcher();

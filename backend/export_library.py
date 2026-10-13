@@ -173,8 +173,10 @@ def build_views(rows, data_dir):
         for r in releases
     ]
     cat_releases.sort(key=lambda r: r.get("created_at") or "", reverse=True)
+    stamp = datetime.datetime.now(datetime.timezone.utc).isoformat()
     with open(os.path.join(vdir, "catalog.json"), "w") as f:
-        json.dump({"artists": cat_artists, "releases": cat_releases}, f,
+        json.dump({"exported_at": stamp, "artists": cat_artists,
+                   "releases": cat_releases}, f,
                   indent=2, sort_keys=True, ensure_ascii=False)
         f.write("\n")
     print(f"  views/catalog.json: {len(cat_artists)} artists, {len(cat_releases)} releases")

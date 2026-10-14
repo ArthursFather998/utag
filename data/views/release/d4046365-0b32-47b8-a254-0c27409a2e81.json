@@ -35,7 +35,52 @@
       "width": null
     }
   ],
-  "corrections": [],
+  "corrections": [
+    {
+      "created_at": "2026-10-14T02:38:53.98366+00:00",
+      "entity_id": "d4046365-0b32-47b8-a254-0c27409a2e81",
+      "entity_type": "release",
+      "field": "release_year",
+      "id": "51c26c36-7eff-49a4-84a9-175479620321",
+      "new_value": "",
+      "note": null,
+      "old_value": "1999",
+      "source": "manual"
+    },
+    {
+      "created_at": "2026-10-14T02:38:52.218979+00:00",
+      "entity_id": "d4046365-0b32-47b8-a254-0c27409a2e81",
+      "entity_type": "release",
+      "field": "release_status",
+      "id": "a5eb9e0b-3704-40a2-aa20-51447be2b6d5",
+      "new_value": "unreleased",
+      "note": null,
+      "old_value": "",
+      "source": "manual"
+    },
+    {
+      "created_at": "2026-10-14T02:38:50.365354+00:00",
+      "entity_id": "d4046365-0b32-47b8-a254-0c27409a2e81",
+      "entity_type": "release",
+      "field": "release_type",
+      "id": "d63a9803-7e30-4feb-b6c9-1a6b8d6196c4",
+      "new_value": "single",
+      "note": null,
+      "old_value": "album",
+      "source": "manual"
+    },
+    {
+      "created_at": "2026-10-14T02:38:48.678394+00:00",
+      "entity_id": "d4046365-0b32-47b8-a254-0c27409a2e81",
+      "entity_type": "release",
+      "field": "title",
+      "id": "3b7a2237-fd64-4fd8-a18e-293e2813d068",
+      "new_value": "home",
+      "note": null,
+      "old_value": "Dysfunction",
+      "source": "manual"
+    }
+  ],
   "more_from_artist": [
     {
       "artists": {
@@ -708,7 +753,7 @@
     "artist_id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
     "barcode": null,
     "catalog_number": null,
-    "confidence": "high_confidence",
+    "confidence": "verified",
     "country": null,
     "created_at": "2026-10-14T01:02:46.35192+00:00",
     "deezer_id": null,
@@ -718,13 +763,13 @@
     "label": null,
     "mbid": null,
     "release_date": null,
-    "release_status": null,
-    "release_type": "album",
-    "release_year": 1999,
+    "release_status": "unreleased",
+    "release_type": "single",
+    "release_year": null,
     "spotify_id": null,
-    "status": "high_confidence",
-    "title": "Dysfunction",
-    "updated_at": "2026-10-14T02:30:42.287136+00:00"
+    "status": "verified",
+    "title": "home",
+    "updated_at": "2026-10-14T02:38:55.75713+00:00"
   },
   "tracks": [
     {

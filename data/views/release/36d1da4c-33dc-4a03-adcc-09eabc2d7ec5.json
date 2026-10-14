@@ -1,0 +1,425 @@
+{
+  "artists": {
+    "canonical_name": "d4vd",
+    "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:23.747304+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "c89f091c-69c3-4317-8876-92ad1b269475",
+      "phash": null,
+      "release_id": "36d1da4c-33dc-4a03-adcc-09eabc2d7ec5",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/69/d0/1d69d050-7f60-69c3-5407-28ee6618942b/22UM1IM08611.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:02:05.991517+00:00",
+      "edition": "original",
+      "id": "02735943-0fdc-4950-97d5-35e984003aa3",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "WITHERED"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:18.047565+00:00",
+      "edition": "original",
+      "id": "05a2278f-fbf0-40e9-9061-acc7d7b490a2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Locked & Loaded (Official Fortnite Anthem) - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "bfd67194-9fe0-40c0-b669-4bd5cfb447fa",
+          "role": "canonical",
+          "source_url": "https://i1.sndcdn.com/artworks-MPL9YBXYnuageP0f-U4WSig-t1080x1080.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:39.155902+00:00",
+      "edition": "original",
+      "id": "0afa0de7-b25b-43da-baaa-01fdf8966132",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Dancing Through The End Of The World"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "01ecab3d-aed2-467e-afc1-5dfc38d71e19",
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/listen-before-i-go.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:58.529848+00:00",
+      "edition": "original",
+      "id": "2f31b4b2-03d6-4fbc-81d8-696e8960adc5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "listen before i go (Cover)"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "a5bc2e01-aa1d-413e-b292-abf4c5151ca6",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/0c/82/4e0c82e8-7970-25f5-bfd6-6f0faec83dcb/22UMGIM94151.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-13T23:24:45.823571+00:00",
+      "edition": "original",
+      "id": "3ea07952-2c0f-4fb9-a105-98275fe89c27",
+      "label": null,
+      "release_date": null,
+      "release_status": "released",
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Romantic Homicide"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:18.443717+00:00",
+      "edition": "original",
+      "id": "4fc02009-7f16-47eb-ba48-22f3fd789000",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "5b6a61cc-3b0e-4515-9e84-e21c5d0e9003",
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/forever-unreleased.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:51.072183+00:00",
+      "edition": "original",
+      "id": "65b084b4-a646-457d-9c28-c9d220b83dfa",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Forever"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "1d5dede2-4cc8-4577-bccb-8269b6a58dde",
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/im-in-love.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:45.020218+00:00",
+      "edition": "original",
+      "id": "6eab752c-7733-4404-9308-451345bbda55",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Im In Love"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:09.351065+00:00",
+      "edition": "original",
+      "id": "82e3ce16-4a2a-495a-bdae-fa5ae63bdf13",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "The Lost Petals - EP"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "10723ba1-1014-4a12-a80d-ccd5583d1712",
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/celeste-unreleased.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:26.990934+00:00",
+      "edition": "original",
+      "id": "9afc6f2d-7798-436e-8cf7-a70177ae322b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Celeste"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:31.902487+00:00",
+      "edition": "original",
+      "id": "a43f12b6-1450-45b0-a38c-e479705e3e6a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "WITHERED"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:49.978416+00:00",
+      "edition": "original",
+      "id": "a4616f40-0999-4c9d-a159-e244e2bc9205",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "Run Away - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "514fbe00-62c0-4421-b8bb-004c4715b307",
+          "role": "canonical",
+          "source_url": "https://i1.sndcdn.com/artworks-lyhEUhnDrMEu19sk-Lz5CJg-t500x500.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:33.001157+00:00",
+      "edition": "original",
+      "id": "b21b1a4d-8a95-4b55-9352-8874a50ee283",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "Cold In The Summer"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:44.962189+00:00",
+      "edition": "original",
+      "id": "b7ae95a5-99d4-40c9-ac7c-51df4398eea2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Romantic Homicide (Live Version) - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:02:25.801072+00:00",
+      "edition": "original",
+      "id": "c930edc5-3d91-449d-af33-a1cc8ef93fc1",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Withering - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:40.53214+00:00",
+      "edition": "original",
+      "id": "da9e7a3b-a0d7-48fe-82ba-b4e3f77642a6",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Petals to Thorns"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:54.807327+00:00",
+      "edition": "original",
+      "id": "eaf0db36-99a8-4653-81af-bbf5a8119b7e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Separate - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:27.755659+00:00",
+      "edition": "original",
+      "id": "f50e6dc2-e82f-44e4-b514-94047b3e66a4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "NEVER AGAIN - Single"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T01:01:23.599908+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "36d1da4c-33dc-4a03-adcc-09eabc2d7ec5",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "More Than Just Friends - Single",
+    "updated_at": "2026-10-14T01:01:23.599908+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:23.703623+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ee9f46a1-e248-47a6-ad57-e6b2b3b90307",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "36d1da4c-33dc-4a03-adcc-09eabc2d7ec5",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "More Than Just Friends",
+      "track_number": 1,
+      "updated_at": "2026-10-14T01:01:23.703623+00:00"
+    }
+  ],
+  "verifications": []
+}

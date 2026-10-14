@@ -11,7 +11,7 @@
     "artist_id": "17d48220-77d9-472d-86f4-c02efb797ce4",
     "barcode": null,
     "catalog_number": null,
-    "confidence": "needs_review",
+    "confidence": "high_confidence",
     "country": null,
     "created_at": "2026-10-14T00:42:38.029748+00:00",
     "deezer_id": null,
@@ -23,11 +23,11 @@
     "release_date": null,
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 1999,
     "spotify_id": null,
-    "status": "needs_review",
-    "title": "Unknown Album",
-    "updated_at": "2026-10-14T00:42:38.029748+00:00"
+    "status": "high_confidence",
+    "title": "Operation: Doomsday",
+    "updated_at": "2026-10-14T01:26:37.87095+00:00"
   },
   "tracks": [
     {

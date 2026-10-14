@@ -3,7 +3,7 @@
   "artist_id": "ca8f1abe-2e68-490d-98bd-890dfaab7675",
   "barcode": null,
   "catalog_number": null,
-  "confidence": "needs_review",
+  "confidence": "high_confidence",
   "country": null,
   "created_at": "2026-10-14T00:40:25.827922+00:00",
   "deezer_id": null,
@@ -14,10 +14,10 @@
   "mbid": null,
   "release_date": null,
   "release_status": null,
-  "release_type": "album",
-  "release_year": null,
+  "release_type": "mixtape",
+  "release_year": 2015,
   "spotify_id": null,
-  "status": "needs_review",
-  "title": "Unknown Album",
-  "updated_at": "2026-10-14T00:40:25.827922+00:00"
+  "status": "high_confidence",
+  "title": "Live Forever",
+  "updated_at": "2026-10-14T01:26:37.87095+00:00"
 }

@@ -88,7 +88,7 @@
       "genres": [],
       "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4",
       "image_url": null,
-      "release_count": 8
+      "release_count": 7
     },
     {
       "aliases": [],
@@ -1033,7 +1033,7 @@
     },
     {
       "aliases": [],
-      "canonical_name": "The Mar├нas",
+      "canonical_name": "The Marías",
       "confidence": "unknown",
       "genres": [],
       "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
@@ -1175,7 +1175,7 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T01:21:13.787483+00:00",
+  "exported_at": "2026-10-14T01:27:00.565176+00:00",
   "releases": [
     {
       "artists": {
@@ -1370,16 +1370,16 @@
         "id": "4cd0665b-b358-47ed-baba-c52a7cfb5f83"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:36.201145+00:00",
       "edition": "original",
       "id": "9b301704-2c48-432f-95d4-f1b5d387f02e",
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_type": "ep",
+      "release_year": 2023,
+      "title": "Petals to Thorns"
     },
     {
       "artists": {
@@ -1455,16 +1455,16 @@
         "id": "d6630309-60b3-4bdc-b61c-88d45857118c"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:13.860311+00:00",
       "edition": "original",
       "id": "56412f0a-c8b1-4066-868e-32f14e14cbda",
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "Always Love"
     },
     {
       "artists": {
@@ -1472,7 +1472,7 @@
         "id": "11622230-3fb7-498c-a1ac-15700d796cf7"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:09.00203+00:00",
       "edition": "original",
       "id": "3deda100-f9e1-41f7-85c3-68b72741f356",
@@ -1480,8 +1480,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 2025,
+      "title": "FUNNY little FEARS"
     },
     {
       "artists": {
@@ -1608,7 +1608,7 @@
         "id": "a88e520a-b947-4dc9-aff4-f8952a1ea40d"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:57.819388+00:00",
       "edition": "original",
       "id": "df8be520-7504-405d-bd49-335742accca5",
@@ -1616,8 +1616,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 2021,
+      "title": "lately I feel EVERYTHING"
     },
     {
       "artists": {
@@ -1859,7 +1859,7 @@
     },
     {
       "artists": {
-        "canonical_name": "The Mar├нas",
+        "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
       "artwork": [],
@@ -2033,7 +2033,7 @@
         "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:58.454914+00:00",
       "edition": "original",
       "id": "648a2394-ddb1-44b1-b6d3-2a263f5ee340",
@@ -2041,8 +2041,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 2011,
+      "title": "The Game (Deluxe Remastered Version)"
     },
     {
       "artists": {
@@ -2101,16 +2101,16 @@
         "id": "6843fff2-c9d4-450e-b7aa-a12e08809507"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:35.814846+00:00",
       "edition": "original",
       "id": "b6d82d80-c0bb-441a-9274-e584f553dcdb",
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "That's Not How This Works (Sabrina's Version)"
     },
     {
       "artists": {
@@ -2216,20 +2216,20 @@
     },
     {
       "artists": {
-        "canonical_name": "The Mar├нas",
+        "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:59.11777+00:00",
       "edition": "original",
       "id": "91eba2c6-2d2a-4c22-a757-a4f4774f4aa8",
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_type": "ep",
+      "release_year": 2018,
+      "title": "Superclean Vol. II"
     },
     {
       "artists": {
@@ -2250,7 +2250,7 @@
     },
     {
       "artists": {
-        "canonical_name": "The Mar├нas",
+        "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
       "artwork": [],
@@ -2267,7 +2267,7 @@
     },
     {
       "artists": {
-        "canonical_name": "The Mar├нas",
+        "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
       "artwork": [],
@@ -2424,16 +2424,16 @@
         "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:54.228251+00:00",
       "edition": "original",
       "id": "1fe514a1-47dd-4418-b340-28fb8974426e",
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_type": "single",
+      "release_year": 2015,
+      "title": "let's pretend we're numb"
     },
     {
       "artists": {
@@ -2475,7 +2475,7 @@
         "id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:40.020088+00:00",
       "edition": "original",
       "id": "bf5bac0e-3c5e-4901-bfbe-7a3be0260795",
@@ -2483,8 +2483,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 2026,
+      "title": "Sick of Nostalgia"
     },
     {
       "artists": {
@@ -2662,7 +2662,7 @@
         "id": "17d48220-77d9-472d-86f4-c02efb797ce4"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:38.029748+00:00",
       "edition": "original",
       "id": "104e9d4c-04b6-4bcd-bc1d-1e10501dba94",
@@ -2670,8 +2670,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 1999,
+      "title": "Operation: Doomsday"
     },
     {
       "artists": {
@@ -2747,7 +2747,7 @@
         "id": "7c923996-2abe-48e2-8079-56173be0531f"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:11.406222+00:00",
       "edition": "original",
       "id": "9de33b19-df90-411d-8936-55bddb56e171",
@@ -2755,8 +2755,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 2019,
+      "title": "No.6 Collaborations Project"
     },
     {
       "artists": {
@@ -2985,7 +2985,7 @@
         "id": "70b2c9fe-24a9-402b-8046-4064fd902e19"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:52.303533+00:00",
       "edition": "original",
       "id": "87b9ad53-fa96-4369-8b08-ef73595f4ba0",
@@ -2993,8 +2993,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 2025,
+      "title": "MUSIC"
     },
     {
       "artists": {
@@ -3070,16 +3070,16 @@
         "id": "ca8f1abe-2e68-490d-98bd-890dfaab7675"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:25.827922+00:00",
       "edition": "original",
       "id": "1b8f81b5-ef6a-410a-9dd3-5deaa191e3f1",
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_type": "mixtape",
+      "release_year": 2015,
+      "title": "Live Forever"
     },
     {
       "artists": {
@@ -3087,7 +3087,7 @@
         "id": "cd07feb2-c1be-40d5-be30-8bef76ecd416"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:21.465552+00:00",
       "edition": "original",
       "id": "31b70502-5a98-4d8f-9159-8ee9b0954cd2",
@@ -3095,8 +3095,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 1999,
+      "title": "J.E. Heartbreak"
     },
     {
       "artists": {
@@ -3461,23 +3461,6 @@
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
       "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:38:30.681625+00:00",
-      "edition": "original",
-      "id": "41aaaccb-bda0-48c5-baf4-b70f61e8495a",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
-    },
-    {
-      "artists": {
-        "canonical_name": "Billie Eilish",
-        "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
-      },
-      "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:25.909266+00:00",
       "edition": "original",
@@ -3631,7 +3614,7 @@
         "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:37.896401+00:00",
       "edition": "original",
       "id": "86d1e28f-e3b2-4dcc-bfab-6996cbaff5f2",
@@ -3639,8 +3622,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 2005,
+      "title": "From Under the Cork Tree"
     },
     {
       "artists": {
@@ -3954,7 +3937,7 @@
         "id": "c242683f-76b8-442c-a75b-60b4c4c6388e"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:52.828301+00:00",
       "edition": "original",
       "id": "7fd0fbb4-7e30-4f90-8283-8b2d2dd1fe45",
@@ -3962,8 +3945,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
+      "release_year": 2018,
+      "title": "Come Over When You're Sober, Pt. 2"
     },
     {
       "artists": {
@@ -4209,7 +4192,7 @@
         "id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21"
       },
       "artwork": [],
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:30.581556+00:00",
       "edition": "original",
       "id": "cfa53c63-518a-477d-8d8e-801bd70b5dcc",
@@ -4217,8 +4200,8 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": 2022,
-      "title": "Unknown Album"
+      "release_year": 2024,
+      "title": "Angel Face (Club Deluxe)"
     },
     {
       "artists": {

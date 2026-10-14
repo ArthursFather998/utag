@@ -11,7 +11,7 @@
     "artist_id": "d6630309-60b3-4bdc-b61c-88d45857118c",
     "barcode": null,
     "catalog_number": null,
-    "confidence": "needs_review",
+    "confidence": "high_confidence",
     "country": null,
     "created_at": "2026-10-14T01:01:13.860311+00:00",
     "deezer_id": null,
@@ -22,12 +22,12 @@
     "mbid": null,
     "release_date": null,
     "release_status": null,
-    "release_type": "album",
-    "release_year": null,
+    "release_type": "single",
+    "release_year": 2025,
     "spotify_id": null,
-    "status": "needs_review",
-    "title": "Unknown Album",
-    "updated_at": "2026-10-14T01:01:13.860311+00:00"
+    "status": "high_confidence",
+    "title": "Always Love",
+    "updated_at": "2026-10-14T01:26:37.87095+00:00"
   },
   "tracks": [
     {
@@ -44,9 +44,9 @@
       "release_id": "56412f0a-c8b1-4066-868e-32f14e14cbda",
       "spotify_id": null,
       "status": "needs_review",
-      "title": "Always Love featuring Hyunjin (Stray Kids)",
+      "title": "Always Love",
       "track_number": null,
-      "updated_at": "2026-10-14T01:01:13.973008+00:00"
+      "updated_at": "2026-10-14T01:26:37.87095+00:00"
     }
   ],
   "verifications": []

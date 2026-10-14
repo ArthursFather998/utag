@@ -11,7 +11,7 @@
     "artist_id": "6843fff2-c9d4-450e-b7aa-a12e08809507",
     "barcode": null,
     "catalog_number": null,
-    "confidence": "needs_review",
+    "confidence": "high_confidence",
     "country": null,
     "created_at": "2026-10-14T00:45:35.814846+00:00",
     "deezer_id": null,
@@ -22,12 +22,12 @@
     "mbid": null,
     "release_date": null,
     "release_status": null,
-    "release_type": "album",
-    "release_year": null,
+    "release_type": "single",
+    "release_year": 2023,
     "spotify_id": null,
-    "status": "needs_review",
-    "title": "Unknown Album",
-    "updated_at": "2026-10-14T00:45:35.814846+00:00"
+    "status": "high_confidence",
+    "title": "That's Not How This Works (Sabrina's Version)",
+    "updated_at": "2026-10-14T01:26:37.87095+00:00"
   },
   "tracks": [
     {
@@ -44,9 +44,9 @@
       "release_id": "b6d82d80-c0bb-441a-9274-e584f553dcdb",
       "spotify_id": null,
       "status": "needs_review",
-      "title": "ThatтАЩs Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - SabrinaтАЩs Version",
+      "title": "That's Not How This Works (Sabrina's Version)",
       "track_number": null,
-      "updated_at": "2026-10-14T00:45:35.874234+00:00"
+      "updated_at": "2026-10-14T01:26:37.87095+00:00"
     }
   ],
   "verifications": []

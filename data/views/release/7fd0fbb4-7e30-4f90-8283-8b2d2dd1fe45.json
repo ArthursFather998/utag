@@ -11,7 +11,7 @@
     "artist_id": "c242683f-76b8-442c-a75b-60b4c4c6388e",
     "barcode": null,
     "catalog_number": null,
-    "confidence": "needs_review",
+    "confidence": "high_confidence",
     "country": null,
     "created_at": "2026-10-14T00:35:52.828301+00:00",
     "deezer_id": null,
@@ -23,11 +23,11 @@
     "release_date": null,
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 2018,
     "spotify_id": null,
-    "status": "needs_review",
-    "title": "Unknown Album",
-    "updated_at": "2026-10-14T00:35:52.828301+00:00"
+    "status": "high_confidence",
+    "title": "Come Over When You're Sober, Pt. 2",
+    "updated_at": "2026-10-14T01:26:37.87095+00:00"
   },
   "tracks": [
     {
@@ -44,9 +44,9 @@
       "release_id": "7fd0fbb4-7e30-4f90-8283-8b2d2dd1fe45",
       "spotify_id": null,
       "status": "needs_review",
-      "title": "Falling Down - Bonus Track",
+      "title": "Falling Down",
       "track_number": null,
-      "updated_at": "2026-10-14T00:35:53.023805+00:00"
+      "updated_at": "2026-10-14T01:26:37.87095+00:00"
     }
   ],
   "verifications": []

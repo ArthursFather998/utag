@@ -3,7 +3,7 @@
   "artist_id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21",
   "barcode": null,
   "catalog_number": null,
-  "confidence": "needs_review",
+  "confidence": "high_confidence",
   "country": null,
   "created_at": "2026-10-14T00:34:30.581556+00:00",
   "deezer_id": null,
@@ -15,9 +15,9 @@
   "release_date": null,
   "release_status": null,
   "release_type": "album",
-  "release_year": 2022,
+  "release_year": 2024,
   "spotify_id": null,
-  "status": "needs_review",
-  "title": "Unknown Album",
-  "updated_at": "2026-10-14T00:34:30.581556+00:00"
+  "status": "high_confidence",
+  "title": "Angel Face (Club Deluxe)",
+  "updated_at": "2026-10-14T01:26:37.87095+00:00"
 }

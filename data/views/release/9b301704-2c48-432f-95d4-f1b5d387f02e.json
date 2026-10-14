@@ -11,7 +11,7 @@
     "artist_id": "4cd0665b-b358-47ed-baba-c52a7cfb5f83",
     "barcode": null,
     "catalog_number": null,
-    "confidence": "needs_review",
+    "confidence": "high_confidence",
     "country": null,
     "created_at": "2026-10-14T01:01:36.201145+00:00",
     "deezer_id": null,
@@ -22,12 +22,12 @@
     "mbid": null,
     "release_date": null,
     "release_status": null,
-    "release_type": "album",
-    "release_year": null,
+    "release_type": "ep",
+    "release_year": 2023,
     "spotify_id": null,
-    "status": "needs_review",
-    "title": "Unknown Album",
-    "updated_at": "2026-10-14T01:01:36.201145+00:00"
+    "status": "high_confidence",
+    "title": "Petals to Thorns",
+    "updated_at": "2026-10-14T01:26:37.87095+00:00"
   },
   "tracks": [
     {

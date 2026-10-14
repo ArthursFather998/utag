@@ -22,23 +22,6 @@
         "canonical_name": "Queen",
         "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
       },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:45:58.454914+00:00",
-      "edition": "original",
-      "id": "648a2394-ddb1-44b1-b6d3-2a263f5ee340",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
-    },
-    {
-      "artists": {
-        "canonical_name": "Queen",
-        "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
-      },
       "artwork": [
         {
           "id": "3d178b4a-2a86-4402-b425-d39218c4d8fc",
@@ -57,6 +40,23 @@
       "release_type": "album",
       "release_year": 2011,
       "title": "The Game"
+    },
+    {
+      "artists": {
+        "canonical_name": "Queen",
+        "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:58.454914+00:00",
+      "edition": "original",
+      "id": "648a2394-ddb1-44b1-b6d3-2a263f5ee340",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "The Game (Deluxe Remastered Version)"
     }
   ],
   "verifications": []

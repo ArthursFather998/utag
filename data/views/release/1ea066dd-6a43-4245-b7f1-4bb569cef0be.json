@@ -12,7 +12,7 @@
       "id": "a1c2f58d-d7f7-4635-be4b-29361192d204",
       "phash": null,
       "release_id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
-      "role": "candidate",
+      "role": "canonical",
       "source": "Apple Music",
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/1200x1200bb.jpg",
       "status": "high_confidence",
@@ -27,7 +27,14 @@
         "canonical_name": "Olivia Rodrigo",
         "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d67ba79e-863e-40cb-b366-6b090f1dd46b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:15.474296+00:00",
       "edition": "original",

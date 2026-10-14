@@ -22,7 +22,14 @@
         "canonical_name": "sign crushes motorist",
         "id": "5d415fd9-db59-42a4-99ba-38ed7f9ef331"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6e2c9d37-66ff-4965-9753-47a8fba1b5e3",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/03/fb/1f/03fb1f21-e97e-ec7a-5a05-7609134e27a7/5063011871446_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:32.626983+00:00",
       "edition": "original",

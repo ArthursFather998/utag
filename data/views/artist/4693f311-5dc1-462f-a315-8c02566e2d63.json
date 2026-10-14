@@ -22,7 +22,14 @@
         "canonical_name": "Glass Animals",
         "id": "4693f311-5dc1-462f-a315-8c02566e2d63"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "383da204-377c-4cf2-a99d-4d8fd9957055",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:38.00577+00:00",
       "edition": "original",

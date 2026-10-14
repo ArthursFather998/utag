@@ -22,7 +22,14 @@
         "canonical_name": "Mitski",
         "id": "108ce558-adbc-4ca7-9974-29c9e66f8d3b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "f38bf8c0-8a3d-4520-9ee9-c922166d3971",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/11/65/bf116592-f8eb-fbed-4255-f43b4b09e651/37052.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:26.197773+00:00",
       "edition": "original",
@@ -39,7 +46,14 @@
         "canonical_name": "Mitski",
         "id": "108ce558-adbc-4ca7-9974-29c9e66f8d3b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "cb0e4836-ea38-44b9-a122-4e47e3bade7f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/4b/40/8f4b4044-d02b-dc25-7d01-7d9d225fdce4/40240.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:01.365226+00:00",
       "edition": "original",

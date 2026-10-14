@@ -24,7 +24,14 @@
         "canonical_name": "Conan Gray",
         "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6fd40e82-315a-44c5-9b2e-221968b5f8ed",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/bf/20/1cbf205d-e764-cd6a-6b1b-21b2f94c7bd1/21UMGIM35011.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:52.981498+00:00",
       "edition": "original",

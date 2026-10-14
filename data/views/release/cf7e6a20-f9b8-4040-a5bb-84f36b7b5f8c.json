@@ -12,7 +12,7 @@
       "id": "e9f25828-8258-4b08-ad2a-81222d37ff62",
       "phash": null,
       "release_id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
-      "role": "candidate",
+      "role": "canonical",
       "source": "Apple Music",
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/fe/a3/0cfea324-57c1-d530-5248-9bb591bbd7bf/074643574525.jpg/1200x1200bb.jpg",
       "status": "high_confidence",
@@ -27,7 +27,14 @@
         "canonical_name": "Michael Jackson",
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "cfedcd20-7dcd-452d-aaf4-a839444dcbdb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/0b/fb/b5/0bfbb592-e2ce-065a-a098-09f55cee22db/dj.iziroksp.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:41.20701+00:00",
       "edition": "original",

@@ -68,7 +68,14 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "da8b1c1a-a68e-4b19-9bee-243ff2c84ddb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:27.99351+00:00",
       "edition": "original",

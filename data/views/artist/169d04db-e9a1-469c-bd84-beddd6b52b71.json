@@ -22,7 +22,14 @@
         "canonical_name": "Zann",
         "id": "169d04db-e9a1-469c-bd84-beddd6b52b71"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "0f9add3d-3ef5-4e46-ac4f-3b2da184a797",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/95/36/d79536f5-b049-3eca-d79a-129ac3c601de/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:45.246216+00:00",
       "edition": "original",

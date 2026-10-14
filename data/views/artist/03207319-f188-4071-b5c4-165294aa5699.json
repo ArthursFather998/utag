@@ -22,7 +22,14 @@
         "canonical_name": "Bryant Barnes",
         "id": "03207319-f188-4071-b5c4-165294aa5699"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "340acef5-8e7b-41fe-af9f-88cba15e3f61",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/6b/1f/2c6b1f7e-6760-16b8-d415-6c64ae5b9b12/24UMGIM70289.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:02.813803+00:00",
       "edition": "original",

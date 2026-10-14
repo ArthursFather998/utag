@@ -22,7 +22,14 @@
         "canonical_name": "Corey Hommel",
         "id": "2630ac53-a271-479c-8602-73610066bd5c"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ebbb05b1-370b-4903-ac37-1f346e110646",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/d3/13/9dd313ea-6ede-00c2-43df-b05e2b750eef/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:25.457812+00:00",
       "edition": "original",

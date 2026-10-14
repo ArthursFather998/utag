@@ -22,7 +22,14 @@
         "canonical_name": "Panic! At The Disco",
         "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8c5ba320-5815-45d6-9b75-423d63440652",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/d8/5e/07d85ee0-bb20-606f-8da3-523b4bb4a8d3/mzi.stmeokws.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:33:52.878434+00:00",
       "edition": "original",

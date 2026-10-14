@@ -22,7 +22,14 @@
         "canonical_name": "Hotel Ugly",
         "id": "9206580d-76c0-4ea6-91d3-87e5ad3eab64"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "a1c49fc2-514e-4191-b8e0-df50dedffafc",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/11/1b/63111b50-00ce-2734-e09f-94fb791c9dee/0d6bb465-1f3e-457c-99e5-a786f63c3fbb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:34.493335+00:00",
       "edition": "original",

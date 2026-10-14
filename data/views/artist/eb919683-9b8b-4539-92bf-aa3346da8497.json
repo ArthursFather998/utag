@@ -22,7 +22,14 @@
         "canonical_name": "Lord Huron",
         "id": "eb919683-9b8b-4539-92bf-aa3346da8497"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "183c1287-923e-453c-b21e-f1e4c4cc7a40",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:37.491256+00:00",
       "edition": "original",

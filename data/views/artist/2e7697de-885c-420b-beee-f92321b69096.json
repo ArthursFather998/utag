@@ -22,7 +22,14 @@
         "canonical_name": "unperro andaluz",
         "id": "2e7697de-885c-420b-beee-f92321b69096"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "194f1984-22ce-419e-926b-5d5e28568858",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/64/fb/4164fbc7-8c5f-1a4f-1389-9a252262408a/197773525813_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:46.327865+00:00",
       "edition": "original",

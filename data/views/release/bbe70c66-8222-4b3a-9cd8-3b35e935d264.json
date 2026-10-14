@@ -42,7 +42,14 @@
         "canonical_name": "Three Days Grace",
         "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d040afa8-99c4-4942-b93c-f8c727bee320",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/cf/b4/5f/mzi.vgwnjneb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:34.014881+00:00",
       "edition": "original",

@@ -22,7 +22,14 @@
         "canonical_name": "Nafeesisboujee",
         "id": "7c5bc152-50c9-41c8-bdbf-4a501b6dfcf9"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1ae47299-7c08-4e19-85cb-2408b04006b7",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/ea55a70c-f3a7-45db-ba03-251d057f08cc/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:44:32.146886+00:00",
       "edition": "original",

@@ -22,7 +22,14 @@
         "canonical_name": "Lana Del Rey",
         "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "19cb9c94-1947-48a9-8d8f-fd4a6c5da756",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/d9/63/5fd96387-45fa-6b94-afd8-7b2c4a24a93b/11UMGIM38959.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:17.549706+00:00",
       "edition": "original",
@@ -39,7 +46,14 @@
         "canonical_name": "Lana Del Rey",
         "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "96eb97d7-9b9b-4dde-9b47-de93055b6be8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/20/8e/b2208e82-df49-5897-139d-39f4cdbc91a9/23UMGIM48049.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:21.889203+00:00",
       "edition": "original",

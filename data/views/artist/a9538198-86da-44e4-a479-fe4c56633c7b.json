@@ -22,7 +22,14 @@
         "canonical_name": "USHER",
         "id": "a9538198-86da-44e4-a479-fe4c56633c7b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "bef146f7-bcbe-4377-a64b-9007b4b78b09",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/ff/a3/3fffa34f-4699-a646-c175-c936446fc540/dj.rxuxuefh.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:35.739338+00:00",
       "edition": "original",

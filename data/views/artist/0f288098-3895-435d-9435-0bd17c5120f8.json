@@ -22,7 +22,14 @@
         "canonical_name": "Creed",
         "id": "0f288098-3895-435d-9435-0bd17c5120f8"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "76055a22-cc7f-42e3-bb92-16e500771b1e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/b4/ef/d5b4ef8a-a68f-223b-df91-16294395ffce/00601501410321.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:14.447151+00:00",
       "edition": "original",

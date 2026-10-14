@@ -12,7 +12,7 @@
       "id": "ba7c0c93-cde4-4f5f-8689-49e36ca6514e",
       "phash": null,
       "release_id": "89a8b1ba-0038-4bad-afb7-4b824abd108a",
-      "role": "candidate",
+      "role": "canonical",
       "source": "Apple Music",
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/1a/7b/8d1a7b44-316f-7c7f-4380-935673fb697a/5056167175650.jpg/1200x1200bb.jpg",
       "status": "high_confidence",
@@ -27,7 +27,14 @@
         "canonical_name": "JVKE",
         "id": "f835a288-a8b1-4ee0-a093-34d87857ee87"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d534d6cc-2286-4ed2-a813-d79b56d813c0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/26/61/db2661d8-8df7-0cb1-a1cd-2662455d4c8d/198391807879.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:16.30607+00:00",
       "edition": "original",
@@ -44,7 +51,14 @@
         "canonical_name": "JVKE",
         "id": "f835a288-a8b1-4ee0-a093-34d87857ee87"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d184c138-382e-4b88-8cce-0e3e6034341f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fa/f1/cd/faf1cd7c-9e3d-ddf4-8e26-e279fecae59a/197188326906.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:12.447325+00:00",
       "edition": "original",

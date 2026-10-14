@@ -22,7 +22,14 @@
         "canonical_name": "Lesley Gore",
         "id": "cfa024ff-0de0-480c-a6a8-d8b254b98d72"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "87701baa-53e1-40d4-ae3b-c1e696ea273d",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/fe2d8614-5bdc-42e9-a050-6e9ae607d28e/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:40:30.110624+00:00",
       "edition": "original",

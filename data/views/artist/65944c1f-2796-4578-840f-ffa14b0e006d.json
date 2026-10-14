@@ -22,7 +22,14 @@
         "canonical_name": "Keane",
         "id": "65944c1f-2796-4578-840f-ffa14b0e006d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "fe2cca3e-af9f-491f-bc09-2475197fd302",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/a6/f7/89a6f7be-a0e0-2524-a13b-6b5df7b7534a/06UMGIM24399.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:04.233475+00:00",
       "edition": "original",

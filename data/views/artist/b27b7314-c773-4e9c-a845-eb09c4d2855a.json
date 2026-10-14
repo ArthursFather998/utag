@@ -22,7 +22,14 @@
         "canonical_name": "Beach Bunny",
         "id": "b27b7314-c773-4e9c-a845-eb09c4d2855a"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "4fea2771-6267-4d47-8b4a-db92334bc2e2",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/0c/c4/390cc45e-4a1e-9821-4d14-2ce487d918fd/112177.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:58.647087+00:00",
       "edition": "original",

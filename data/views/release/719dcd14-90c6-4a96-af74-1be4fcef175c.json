@@ -66,7 +66,14 @@
         "canonical_name": "Harry Styles",
         "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1198e0a5-9e8b-483e-b790-8158c16b108c",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:20.884313+00:00",
       "edition": "original",

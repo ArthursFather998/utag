@@ -12,7 +12,7 @@
       "id": "81a727be-eda6-461b-bae0-2f4ac66e2277",
       "phash": null,
       "release_id": "5556ad63-b971-484c-ac1f-690a51cff02e",
-      "role": "candidate",
+      "role": "canonical",
       "source": "Apple Music",
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fa/7e/e6/fa7ee63a-a56c-9e3e-d04a-d4472cd1acf9/075679839497.jpg/1200x1200bb.jpg",
       "status": "high_confidence",
@@ -27,7 +27,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6203a633-f888-4a08-929a-327a215c6feb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/7f/06/7c/7f067c7b-b798-8e64-70d4-3d32b4456f82/075679906649.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:54.040898+00:00",
       "edition": "original",
@@ -44,7 +51,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "297df495-e4ab-40ea-b67e-f4fa6d7324bc",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/12/ed/3f12edd3-4f41-6e62-b7e5-9a219ee9703c/075679644206.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:54.730945+00:00",
       "edition": "original",
@@ -61,7 +75,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2a4b8588-c415-4009-85fa-466f8d6c00cd",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:50.327028+00:00",
       "edition": "original",
@@ -78,7 +99,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c2fc8527-8c10-47bf-a2a1-0b513250b182",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8e/d3/71/8ed3710d-2dfc-55ef-b579-d2cb494f176d/075679815538.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:49.895579+00:00",
       "edition": "original",
@@ -95,7 +123,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "f3abac96-dd83-486b-93c9-497f6027a3ac",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:31.074894+00:00",
       "edition": "original",

@@ -27,7 +27,14 @@
         "canonical_name": "Ed Sheeran",
         "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e53459b0-0e2b-4971-9129-fbdc10123c86",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:26.036226+00:00",
       "edition": "original",
@@ -44,7 +51,14 @@
         "canonical_name": "Ed Sheeran",
         "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "98774c5c-8ce3-4cdb-a7f0-b0916059a148",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/de/9d/c7de9dd4-a44c-59a6-0c5f-ac5aba2daf9a/190295046828.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:13.761979+00:00",
       "edition": "original",

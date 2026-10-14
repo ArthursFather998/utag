@@ -12,7 +12,7 @@
       "id": "87166775-8fc9-4813-93f1-c32efba56914",
       "phash": null,
       "release_id": "2e3d5861-50cd-4acd-886f-d37ef31b9446",
-      "role": "candidate",
+      "role": "canonical",
       "source": "Apple Music",
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/f0/ec/0af0ec0a-6899-496d-7b6b-690bbf82bff6/196874338292.jpg/1200x1200bb.jpg",
       "status": "high_confidence",
@@ -27,7 +27,14 @@
         "canonical_name": "The Kid LAROI",
         "id": "a0eb50bd-b9b8-423a-b973-989560f0844b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1776e633-0894-4ecd-830a-05435f82e5cf",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/94/4a/02/944a0295-40d0-b7ff-993f-0e6e1f2327f8/196589089922.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:20.507169+00:00",
       "edition": "original",

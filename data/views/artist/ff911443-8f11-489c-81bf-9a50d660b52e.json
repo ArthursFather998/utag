@@ -22,7 +22,14 @@
         "canonical_name": "Justin Bieber",
         "id": "ff911443-8f11-489c-81bf-9a50d660b52e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9cb9280e-773b-48cd-bba3-4f00d5571165",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/11/84/751184b0-77df-1eff-bb20-dac03247425d/15UMGIM59808.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:30.672483+00:00",
       "edition": "original",

@@ -22,7 +22,14 @@
         "canonical_name": "Jason Aldean",
         "id": "2e72b048-73b6-4c7e-b005-ecf7a5b30461"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e6c729b7-51c1-420c-bdb0-9fff1eca36a4",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/0d/4d/4e0d4da8-151e-73be-10e0-1ea4fa76446d/0884977769418.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:33:47.284976+00:00",
       "edition": "original",

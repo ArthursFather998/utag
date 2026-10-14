@@ -22,7 +22,14 @@
         "canonical_name": "Fleetwood Mac",
         "id": "ae1582e0-ca5d-4241-a83e-5d1834b829dc"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "b9f995b6-292c-4ffc-98d7-77e5c859da18",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:09.543147+00:00",
       "edition": "original",

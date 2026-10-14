@@ -22,7 +22,14 @@
         "canonical_name": "Laufey",
         "id": "81373cf3-1546-4731-80ce-c4d01ef169d2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1874017f-df6a-4553-adb1-e620be564da8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/8b/20/8b8b2083-c8a3-a1a6-1f9e-a4da5bf45d5d/197188679637.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:07.081052+00:00",
       "edition": "original",

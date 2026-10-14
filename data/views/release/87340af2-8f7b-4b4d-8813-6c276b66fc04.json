@@ -42,7 +42,14 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "97f4eaa5-5a7a-496a-a68c-13a756805e45",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/2b/93/9e2b93b7-43a9-e814-e0ae-c55a1b7e17d6/196873463513.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:17.160569+00:00",
       "edition": "original",
@@ -59,7 +66,14 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "cb1bc885-66bb-4616-a11a-cd5f61f24aae",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/8fec8853-7f22-4d55-8705-97dae226f37c/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:40:02.173819+00:00",
       "edition": "original",
@@ -76,7 +90,14 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "68b9d2c5-850c-40ee-8925-e07a0aa76450",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/88/46/2c884679-3a9e-0cb6-779d-559ebfd23781/196873735177.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:35.070889+00:00",
       "edition": "original",

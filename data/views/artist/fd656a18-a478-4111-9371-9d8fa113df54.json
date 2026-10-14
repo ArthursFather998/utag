@@ -22,7 +22,14 @@
         "canonical_name": "SZA",
         "id": "fd656a18-a478-4111-9371-9d8fa113df54"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2b6a88e6-5ec6-4660-9a67-819a963f0264",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/93/13/6293132e-20ff-67ab-3d1f-96bb6797a6ba/196589564955.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:07.548909+00:00",
       "edition": "original",

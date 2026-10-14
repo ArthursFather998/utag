@@ -22,7 +22,14 @@
         "canonical_name": "Doja Cat",
         "id": "5d01ffe5-f863-471a-b886-98a89cff81df"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9b7f437b-3c52-46a0-b36c-34a1ac51a372",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/f3/6c/aff36c0a-404d-18e5-882b-74fca1d5fa2b/886447274965.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:24.720954+00:00",
       "edition": "original",

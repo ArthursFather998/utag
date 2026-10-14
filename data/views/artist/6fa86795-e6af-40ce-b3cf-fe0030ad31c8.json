@@ -22,7 +22,14 @@
         "canonical_name": "Ethan Bortnick",
         "id": "6fa86795-e6af-40ce-b3cf-fe0030ad31c8"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "5eb8a901-2c7c-41ee-acdb-ee2e47a7f4ee",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/00/82/ac0082eb-4c18-a0db-ecfc-00b81fcd7978/196589229519.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:50.652687+00:00",
       "edition": "original",

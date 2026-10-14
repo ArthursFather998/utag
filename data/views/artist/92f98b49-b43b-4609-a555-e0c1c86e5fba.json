@@ -22,7 +22,14 @@
         "canonical_name": "Hinder",
         "id": "92f98b49-b43b-4609-a555-e0c1c86e5fba"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9e3a9e2d-ffb1-44bc-9e2e-9bae4c36535a",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/96/19/c9/9619c963-3b81-6f84-4839-6fafdbfd5927/06UMGIM25825.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:09.384863+00:00",
       "edition": "original",

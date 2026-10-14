@@ -22,7 +22,14 @@
         "canonical_name": "Surf Curse",
         "id": "a595894a-7cde-442b-ac9a-15c496378fde"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "5b3e165b-bfda-4eb3-8239-a5cd6fc6fa7f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ec/cb/b3/eccbb387-6215-299f-a753-9e24faaea3de/075679780850.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:32.185766+00:00",
       "edition": "original",

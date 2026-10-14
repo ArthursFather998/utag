@@ -12,7 +12,7 @@
       "id": "283b6bf7-8fe9-4b18-a813-031effe5be35",
       "phash": null,
       "release_id": "363b360f-f095-47d1-b6bb-7c475450edda",
-      "role": "candidate",
+      "role": "canonical",
       "source": "Apple Music",
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/c0/20/d3c02098-76d0-e40f-0217-157620f9a6d8/23UM1IM32723.rgb.jpg/1200x1200bb.jpg",
       "status": "high_confidence",
@@ -27,7 +27,14 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e8a69c70-c0eb-4986-9a4c-cdf303049d16",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/fe/7a/22fe7a31-534a-58d8-eb80-fd08fdb9274d/22UMGIM63573.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:07.85872+00:00",
       "edition": "original",
@@ -44,7 +51,14 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ae753d65-9cb2-40a8-b3b7-1d7bce13e9c5",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c6/58/aec6589c-f5cf-0d81-2727-bc8775e34049/25UMGIM76990.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:14.944044+00:00",
       "edition": "original",
@@ -61,7 +75,14 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "03477542-b483-45dd-9e28-175b51e426c0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:26.000004+00:00",
       "edition": "original",

@@ -22,7 +22,14 @@
         "canonical_name": "Lil Tecca",
         "id": "880493f7-6067-4683-b19c-b14240756176"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "f92ea771-7b7e-4d8c-8c8c-df3a3155c143",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/35/11/923511fa-3849-9670-d030-0500d391e818/25UMGIM81030.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:21.602721+00:00",
       "edition": "original",

@@ -22,7 +22,14 @@
         "canonical_name": "Radiohead",
         "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "dba90924-ea53-4eef-8772-242696c119f4",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:15.360867+00:00",
       "edition": "original",

@@ -22,7 +22,14 @@
         "canonical_name": "My Chemical Romance",
         "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "85729509-983f-47d0-bc91-c1f8fadc6bde",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:20.956352+00:00",
       "edition": "original",

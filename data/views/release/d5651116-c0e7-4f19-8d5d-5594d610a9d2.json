@@ -12,7 +12,7 @@
       "id": "ee9e91d4-997c-4b6a-a402-ae6b195eddfd",
       "phash": null,
       "release_id": "d5651116-c0e7-4f19-8d5d-5594d610a9d2",
-      "role": "candidate",
+      "role": "canonical",
       "source": "Apple Music",
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/76/c8/9d76c885-4623-00b2-46ba-956bd95a00fc/199806735428.jpg/1200x1200bb.jpg",
       "status": "high_confidence",
@@ -27,7 +27,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "058286d1-c9c4-4008-8d38-4b3f634a0521",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/6a/ae/556aae7b-07c0-7eaa-7620-4485a5ab3d46/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:31.588248+00:00",
       "edition": "original",
@@ -44,7 +51,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ec7d9326-f5af-44a4-a9f9-2240abf4fb0b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/27/72/422772bd-41a2-7a06-47b2-4377f50e68fb/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:40.499522+00:00",
       "edition": "original",
@@ -61,7 +75,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "267acd65-79af-4bf6-8591-9fe337b79c40",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/0d/ef/e90def6c-8ac9-f1d0-9ae6-0a19827663ea/887158040009.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:41.870377+00:00",
       "edition": "original",
@@ -78,7 +99,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e4df82ce-07a6-44cd-b700-eecbea24cda3",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/00/f2/c600f233-9d36-17f4-b307-6bb9f72f4551/197187248193.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:18.598184+00:00",
       "edition": "original",
@@ -112,7 +140,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "216d7739-8ed9-40d1-b1ed-2cf21aeb1125",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/3e/af/503eaf3b-c7b6-bf20-0373-4504792d6218/656465448651_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:10.042315+00:00",
       "edition": "original",
@@ -129,7 +164,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "3c266fe4-9bee-4d28-8b9b-b3dbab858760",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/78/91/0e789149-3c5b-965f-6e5e-c749ddb5ac80/mzi.ppxxlnja.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:46.35192+00:00",
       "edition": "original",
@@ -146,7 +188,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "619a6f7d-f29e-4ea0-822a-acff69d950fd",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/03/d1/7a03d161-638c-fdc7-cdbf-3ff46c559264/19UMGIM01492.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:36.047484+00:00",
       "edition": "original",
@@ -163,7 +212,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e972a57c-78c3-41b5-a37e-be7c24c09610",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/da/d4/a9dad4d2-d59a-ae30-b204-847c36e39419/859743075796_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:50.763659+00:00",
       "edition": "original",
@@ -180,7 +236,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ab09d94f-fdfc-4e61-99c0-fb019ab7b6b0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/fa/0c/40fa0c25-70b9-2dc4-d0d5-e4f2eb192db6/7316481842033.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:23.3699+00:00",
       "edition": "original",
@@ -197,7 +260,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "309da0bf-7c55-4e54-af97-b76ef1be3208",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/a9/e0/70/mzi.arqxvqoy.tif/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:14.534122+00:00",
       "edition": "original",

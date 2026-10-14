@@ -22,7 +22,14 @@
         "canonical_name": "Destiny s Child",
         "id": "340c1495-27b6-4e9f-b879-b07e0dcc64d6"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "77e908bd-daee-4953-b082-8e7d1429da23",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/29/74/c92974ce-2bdd-4b86-a261-01adc901bb65/mzi.cmambura.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:20.80415+00:00",
       "edition": "original",

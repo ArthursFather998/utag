@@ -22,7 +22,14 @@
         "canonical_name": "The Neighbourhood",
         "id": "ba9171c4-71ac-4295-bd74-df5ed3e3c93b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ac502cf8-2582-4d30-93cb-cbe4b692b5cf",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:44.415659+00:00",
       "edition": "original",

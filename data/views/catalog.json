@@ -1184,14 +1184,21 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T01:38:56.601333+00:00",
+  "exported_at": "2026-10-14T01:43:43.597599+00:00",
   "releases": [
     {
       "artists": {
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e972a57c-78c3-41b5-a37e-be7c24c09610",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/da/d4/a9dad4d2-d59a-ae30-b204-847c36e39419/859743075796_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:50.763659+00:00",
       "edition": "original",
@@ -1208,7 +1215,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "3c266fe4-9bee-4d28-8b9b-b3dbab858760",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/78/91/0e789149-3c5b-965f-6e5e-c749ddb5ac80/mzi.ppxxlnja.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:46.35192+00:00",
       "edition": "original",
@@ -1225,7 +1239,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "267acd65-79af-4bf6-8591-9fe337b79c40",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/0d/ef/e90def6c-8ac9-f1d0-9ae6-0a19827663ea/887158040009.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:41.870377+00:00",
       "edition": "original",
@@ -1259,7 +1280,14 @@
         "canonical_name": "Justin Bieber",
         "id": "ff911443-8f11-489c-81bf-9a50d660b52e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9cb9280e-773b-48cd-bba3-4f00d5571165",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/11/84/751184b0-77df-1eff-bb20-dac03247425d/15UMGIM59808.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:30.672483+00:00",
       "edition": "original",
@@ -1276,7 +1304,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2920c248-5e6a-4f51-9f77-3f10d3874ce7",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/2c/ee/eb2cee8c-1067-65c1-3ac3-0e320ca08f55/24UMGIM11497.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:25.801072+00:00",
       "edition": "original",
@@ -1293,7 +1328,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "0771971b-631d-416c-8657-89ea4af521f4",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/fe/e8/82fee869-1ff3-028b-45ea-39bd00eeae61/25UMGIM01021.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:02:05.991517+00:00",
       "edition": "original",
@@ -1310,7 +1352,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6810d780-d0ec-4350-9f02-220c4379be04",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ac/c7/4a/acc74a75-5e2a-b3e7-af6c-97ea3b5cec6e/22UM1IM08610.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:54.807327+00:00",
       "edition": "original",
@@ -1327,7 +1376,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ec23ca0b-741a-4157-998e-7cbd28a478c5",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0a/bc/9c/0abc9c52-e49d-deb1-2bc6-094704eee12e/22UM1IM08614.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:49.978416+00:00",
       "edition": "original",
@@ -1344,7 +1400,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "3a67dee9-1dc8-4a18-a0c5-e9bd5fe29a38",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/7f/13/767f134e-da40-47b8-a5a3-3d3866d954fa/23UM1IM61681.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:44.962189+00:00",
       "edition": "original",
@@ -1361,7 +1424,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "a8133d96-69a3-4887-a003-fc1ded2d8ac8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/83/1a/d6831a94-4e8f-5b23-df44-a313eb358257/23UMGIM33457.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:40.53214+00:00",
       "edition": "original",
@@ -1395,7 +1465,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "4b3e538f-40be-43f9-80f3-f4d2a2a41f80",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/fe/e8/82fee869-1ff3-028b-45ea-39bd00eeae61/25UMGIM01021.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:31.902487+00:00",
       "edition": "original",
@@ -1412,7 +1489,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "68931c53-aae7-47dd-9228-ea8ea25a9caf",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c2/9c/7e/c29c7e8d-d801-296c-7fc5-8b5db844e6c4/22UM1IM08609.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:27.755659+00:00",
       "edition": "original",
@@ -1429,7 +1513,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c89f091c-69c3-4317-8876-92ad1b269475",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/69/d0/1d69d050-7f60-69c3-5407-28ee6618942b/22UM1IM08611.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:23.599908+00:00",
       "edition": "original",
@@ -1446,7 +1537,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "61f3ab4d-ea61-4a32-8905-10f4ca61cf9a",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/69/8a/fd698a80-d823-db79-9268-05bad440d186/25UM1IM20508.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:18.047565+00:00",
       "edition": "original",
@@ -1497,7 +1595,14 @@
         "canonical_name": "Bryant Barnes",
         "id": "03207319-f188-4071-b5c4-165294aa5699"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "340acef5-8e7b-41fe-af9f-88cba15e3f61",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/6b/1f/2c6b1f7e-6760-16b8-d415-6c64ae5b9b12/24UMGIM70289.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:02.813803+00:00",
       "edition": "original",
@@ -1514,7 +1619,14 @@
         "canonical_name": "Ed Sheeran",
         "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e53459b0-0e2b-4971-9129-fbdc10123c86",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:26.036226+00:00",
       "edition": "original",
@@ -1531,7 +1643,14 @@
         "canonical_name": "Navyug, CORBAL & Shiloh Dynasty",
         "id": "9c4ff40b-65ce-4425-8772-742a04b4b427"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "80648f45-637d-4725-9528-13248c683535",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/6f/4f/496f4fc9-5af8-accd-d5cf-ae5b213961b5/cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:20.841437+00:00",
       "edition": "original",
@@ -1548,7 +1667,14 @@
         "canonical_name": "JVKE",
         "id": "f835a288-a8b1-4ee0-a093-34d87857ee87"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d534d6cc-2286-4ed2-a813-d79b56d813c0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/26/61/db2661d8-8df7-0cb1-a1cd-2662455d4c8d/198391807879.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:16.30607+00:00",
       "edition": "original",
@@ -1565,7 +1691,14 @@
         "canonical_name": "JVKE",
         "id": "f835a288-a8b1-4ee0-a093-34d87857ee87"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d184c138-382e-4b88-8cce-0e3e6034341f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fa/f1/cd/faf1cd7c-9e3d-ddf4-8e26-e279fecae59a/197188326906.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:12.447325+00:00",
       "edition": "original",
@@ -1582,7 +1715,14 @@
         "canonical_name": "JVKE",
         "id": "f835a288-a8b1-4ee0-a093-34d87857ee87"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ba7c0c93-cde4-4f5f-8689-49e36ca6514e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/1a/7b/8d1a7b44-316f-7c7f-4380-935673fb697a/5056167175650.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:07.124897+00:00",
       "edition": "original",
@@ -1599,7 +1739,14 @@
         "canonical_name": "beabadoobee",
         "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "19f4ac41-52e1-47c6-a294-7826bb2c8223",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/34/72/61347250-fc5e-41f3-76f8-aeceb76350d9/196922537851_Cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:48:02.672184+00:00",
       "edition": "original",
@@ -1633,7 +1780,14 @@
         "canonical_name": "Alek Olsen",
         "id": "157bc37a-d4d8-4490-bddc-9761a36359e4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c9910ae2-b4ce-48a9-b1b2-42352740ce97",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/63/06/f4630609-7507-a02f-d2da-28b3a84cee85/128415.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:52.031148+00:00",
       "edition": "original",
@@ -1650,7 +1804,14 @@
         "canonical_name": "unperro andaluz",
         "id": "2e7697de-885c-420b-beee-f92321b69096"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "194f1984-22ce-419e-926b-5d5e28568858",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/64/fb/4164fbc7-8c5f-1a4f-1389-9a252262408a/197773525813_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:46.327865+00:00",
       "edition": "original",
@@ -1667,7 +1828,14 @@
         "canonical_name": "LOVELI LORI, ovg!",
         "id": "4f581128-39c8-48a9-ad10-9a96b1b99186"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8da37080-2a2d-4bda-8a47-208d20c0464f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/5d/e5/225de547-4df6-6cce-5a74-4decdd2ae6e5/054391265692.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:40.707181+00:00",
       "edition": "original",
@@ -1684,7 +1852,14 @@
         "canonical_name": "sign crushes motorist",
         "id": "5d415fd9-db59-42a4-99ba-38ed7f9ef331"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6e2c9d37-66ff-4965-9753-47a8fba1b5e3",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/03/fb/1f/03fb1f21-e97e-ec7a-5a05-7609134e27a7/5063011871446_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:32.626983+00:00",
       "edition": "original",
@@ -1701,7 +1876,14 @@
         "canonical_name": "malik.",
         "id": "af544351-68c4-4ea9-b3e9-412d0309f2f6"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6028213c-e968-47f6-8a46-0415208ab9d7",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/26/0b/85260b3e-38ad-ea62-61a6-ad5496eec6c6/198085095841_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:26.395376+00:00",
       "edition": "original",
@@ -1718,7 +1900,14 @@
         "canonical_name": "girl in red",
         "id": "5a4f6153-bfcc-476f-9d43-e590ca71ab15"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ccad6b22-61d6-4245-9cd7-ea6aab306296",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/53/08/c35308ff-7946-7612-ec72-ede771acc570/5054960920149_1.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:20.826056+00:00",
       "edition": "original",
@@ -1735,7 +1924,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d2086746-8015-4b56-897a-43dcadac97d8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/c6/3f/13c63f4e-7cc9-767d-5007-79546f8fe29f/23UMGIM53372.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:15.736335+00:00",
       "edition": "original",
@@ -1752,7 +1948,14 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "283b6bf7-8fe9-4b18-a813-031effe5be35",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/c0/20/d3c02098-76d0-e40f-0217-157620f9a6d8/23UM1IM32723.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:11.794815+00:00",
       "edition": "original",
@@ -1769,7 +1972,14 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e8a69c70-c0eb-4986-9a4c-cdf303049d16",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/fe/7a/22fe7a31-534a-58d8-eb80-fd08fdb9274d/22UMGIM63573.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:07.85872+00:00",
       "edition": "original",
@@ -1786,7 +1996,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c74a9425-5d76-4298-a557-d0babd213783",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:02.986998+00:00",
       "edition": "original",
@@ -1803,7 +2020,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2baa47dd-afea-4152-97b7-4fc25e113b70",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:56.284877+00:00",
       "edition": "original",
@@ -1820,7 +2044,14 @@
         "canonical_name": "Ethan Bortnick",
         "id": "6fa86795-e6af-40ce-b3cf-fe0030ad31c8"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "5eb8a901-2c7c-41ee-acdb-ee2e47a7f4ee",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/00/82/ac0082eb-4c18-a0db-ecfc-00b81fcd7978/196589229519.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:50.652687+00:00",
       "edition": "original",
@@ -1837,7 +2068,14 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c63dde28-eed6-420d-bc86-511969919d89",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:46.474274+00:00",
       "edition": "original",
@@ -1912,7 +2150,14 @@
         "canonical_name": "Kendrick Lamar",
         "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d7d2a455-ff7e-400e-a6d5-ceeecace2d19",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:30.890999+00:00",
       "edition": "original",
@@ -1929,7 +2174,14 @@
         "canonical_name": "Corey Hommel",
         "id": "2630ac53-a271-479c-8602-73610066bd5c"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ebbb05b1-370b-4903-ac37-1f346e110646",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/d3/13/9dd313ea-6ede-00c2-43df-b05e2b750eef/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:25.457812+00:00",
       "edition": "original",
@@ -1946,7 +2198,14 @@
         "canonical_name": "Destiny s Child",
         "id": "340c1495-27b6-4e9f-b879-b07e0dcc64d6"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "77e908bd-daee-4953-b082-8e7d1429da23",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/29/74/c92974ce-2bdd-4b86-a261-01adc901bb65/mzi.cmambura.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:20.80415+00:00",
       "edition": "original",
@@ -2031,7 +2290,14 @@
         "canonical_name": "Mitski",
         "id": "108ce558-adbc-4ca7-9974-29c9e66f8d3b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "cb0e4836-ea38-44b9-a122-4e47e3bade7f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/4b/40/8f4b4044-d02b-dc25-7d01-7d9d225fdce4/40240.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:01.365226+00:00",
       "edition": "original",
@@ -2065,7 +2331,14 @@
         "canonical_name": "Falling In Reverse",
         "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "671410ea-6a88-4e26-87c0-d51a06f18e23",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/e4/44/70e444ff-910e-274f-b441-88732f7c70b4/0045778714766.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:50.42461+00:00",
       "edition": "original",
@@ -2082,7 +2355,14 @@
         "canonical_name": "Falling In Reverse",
         "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "219ed591-946b-46ab-93d3-2189137e52f9",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/1e76209b-199d-47cd-9ee7-01d9c30fea0d/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:45:46.268945+00:00",
       "edition": "original",
@@ -2099,7 +2379,14 @@
         "canonical_name": "Alicia Keys",
         "id": "1a8b15f0-42dc-4387-b797-882691ab4814"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "bfb9dc91-b8a0-416c-a5e4-2767fbd93e45",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/a3/2d/7da32df5-bec0-99fa-1431-5df4d6fd930a/196871575188.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:41.906058+00:00",
       "edition": "original",
@@ -2133,7 +2420,14 @@
         "canonical_name": "Tommy Richman",
         "id": "b057baf5-01df-4028-a086-2845d07f6f5c"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6f6bb342-8b6a-4ee5-a014-59756efc5a42",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/21/79/8a217972-c174-a29c-3e53-60359a797124/24CRGIM45582.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:30.48433+00:00",
       "edition": "original",
@@ -2150,7 +2444,14 @@
         "canonical_name": "The Kid LAROI",
         "id": "a0eb50bd-b9b8-423a-b973-989560f0844b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "87166775-8fc9-4813-93f1-c32efba56914",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/f0/ec/0af0ec0a-6899-496d-7b6b-690bbf82bff6/196874338292.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:25.88202+00:00",
       "edition": "original",
@@ -2167,7 +2468,14 @@
         "canonical_name": "The Kid LAROI",
         "id": "a0eb50bd-b9b8-423a-b973-989560f0844b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1776e633-0894-4ecd-830a-05435f82e5cf",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/94/4a/02/944a0295-40d0-b7ff-993f-0e6e1f2327f8/196589089922.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:20.507169+00:00",
       "edition": "original",
@@ -2184,7 +2492,14 @@
         "canonical_name": "THE ANXIETY, WILLOW, Tyler Cole",
         "id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8e4b770a-670b-41b8-b4f0-a6507bc93956",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7c/f3/5f/7cf35fde-8160-eaef-7284-480a6541f826/20UMGIM13326.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:15.466109+00:00",
       "edition": "original",
@@ -2201,7 +2516,14 @@
         "canonical_name": "Malcolm Todd",
         "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "f9274bb7-5b51-4492-a714-ce7ce257484a",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/67/a8/e467a893-a409-5cdf-ab04-07ed36498c8f/196871385459.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:07.432718+00:00",
       "edition": "original",
@@ -2218,7 +2540,14 @@
         "canonical_name": "Malcolm Todd",
         "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "df96773a-7ef8-49e1-b230-78345d3ad660",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/06/1f/d0061f04-bcae-f9a1-8126-830c04fa32db/196871971188.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:02.528713+00:00",
       "edition": "original",
@@ -2252,7 +2581,14 @@
         "canonical_name": "Conan Gray",
         "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6fd40e82-315a-44c5-9b2e-221968b5f8ed",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/bf/20/1cbf205d-e764-cd6a-6b1b-21b2f94c7bd1/21UMGIM35011.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:52.981498+00:00",
       "edition": "original",
@@ -2269,7 +2605,14 @@
         "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8ca1dcd9-e1f3-46c1-a75e-e050ff844616",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:48.979572+00:00",
       "edition": "original",
@@ -2286,7 +2629,14 @@
         "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e7120a6d-201e-4300-a185-7b72d1e35035",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:44.148687+00:00",
       "edition": "original",
@@ -2303,7 +2653,14 @@
         "canonical_name": "Lord Huron",
         "id": "eb919683-9b8b-4539-92bf-aa3346da8497"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "183c1287-923e-453c-b21e-f1e4c4cc7a40",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:37.491256+00:00",
       "edition": "original",
@@ -2320,7 +2677,14 @@
         "canonical_name": "Nafeesisboujee",
         "id": "7c5bc152-50c9-41c8-bdbf-4a501b6dfcf9"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1ae47299-7c08-4e19-85cb-2408b04006b7",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/ea55a70c-f3a7-45db-ba03-251d057f08cc/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:44:32.146886+00:00",
       "edition": "original",
@@ -2354,7 +2718,14 @@
         "canonical_name": "Tears For Fears",
         "id": "78b28389-dd9d-4510-9caf-05fbccd96539"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c0f81682-cef0-4e3f-9586-2464af904ca9",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:22.109926+00:00",
       "edition": "original",
@@ -2371,7 +2742,14 @@
         "canonical_name": "AmiiFy",
         "id": "17f796d9-9b95-491f-aab4-dbf44d4d7ffc"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "79eeb861-2b0a-41e8-86c1-ede8f991ef9b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/a0/c4/b0a0c43d-3f4a-7d51-ad33-f78fd89b141f/075679589781.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:17.13087+00:00",
       "edition": "original",
@@ -2388,7 +2766,14 @@
         "canonical_name": "Mild High Club",
         "id": "0a5d4a3d-5b3a-4238-8444-e5c572bca356"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "b08f89fa-96bb-4205-8713-dc5897a8add5",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/b0/c3/69b0c397-dc3c-381f-386e-f7f4a3d9f754/Skiptracing.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:11.527723+00:00",
       "edition": "original",
@@ -2405,7 +2790,14 @@
         "canonical_name": "Sixpence None The Richer",
         "id": "38819536-65dc-4303-bed6-769df009ffe7"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "52b5f134-8208-41ba-aa20-197f50747791",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/6b/92/0f6b92f7-52e1-67e4-6a7b-7196ef793cdc/080688551261.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:44:05.130836+00:00",
       "edition": "original",
@@ -2422,7 +2814,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1997b6c4-e66d-4a99-aa51-16349f2f9a61",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/c3/5f/5bc35f2a-4a4e-5225-0e08-720e7fb41ca5/16UMGIM77509.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:59.484641+00:00",
       "edition": "original",
@@ -2456,7 +2855,14 @@
         "canonical_name": "XXXTENTACION",
         "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "314519ca-5897-4f3a-a854-345cea418dbf",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/ed/83/9fed8304-a865-af85-8d99-6d063cd60c93/dj.ipmigxtf.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:43:49.927842+00:00",
       "edition": "original",
@@ -2473,7 +2879,14 @@
         "canonical_name": "XXXTENTACION",
         "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "a8177012-8f96-4dd2-b577-c51055076cb5",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/6eb35818-2087-4b72-b846-6cbaa31ea63d/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:43:45.331475+00:00",
       "edition": "original",
@@ -2507,7 +2920,14 @@
         "canonical_name": "Hotel Ugly",
         "id": "9206580d-76c0-4ea6-91d3-87e5ad3eab64"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "a1c49fc2-514e-4191-b8e0-df50dedffafc",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/11/1b/63111b50-00ce-2734-e09f-94fb791c9dee/0d6bb465-1f3e-457c-99e5-a786f63c3fbb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:34.493335+00:00",
       "edition": "original",
@@ -2524,7 +2944,14 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "03477542-b483-45dd-9e28-175b51e426c0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:26.000004+00:00",
       "edition": "original",
@@ -2541,7 +2968,14 @@
         "canonical_name": "Lana Del Rey",
         "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "96eb97d7-9b9b-4dde-9b47-de93055b6be8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/20/8e/b2208e82-df49-5897-139d-39f4cdbc91a9/23UMGIM48049.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:21.889203+00:00",
       "edition": "original",
@@ -2558,7 +2992,14 @@
         "canonical_name": "Olivia Rodrigo",
         "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d67ba79e-863e-40cb-b366-6b090f1dd46b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:15.474296+00:00",
       "edition": "original",
@@ -2575,7 +3016,14 @@
         "canonical_name": "SZA",
         "id": "fd656a18-a478-4111-9371-9d8fa113df54"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2b6a88e6-5ec6-4660-9a67-819a963f0264",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/93/13/6293132e-20ff-67ab-3d1f-96bb6797a6ba/196589564955.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:07.548909+00:00",
       "edition": "original",
@@ -2592,7 +3040,14 @@
         "canonical_name": "Cafun├й",
         "id": "19c28028-15bb-40da-859c-87c0f86e4cb7"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "3ea0a277-a499-4c5a-a6da-a1bc2ad0e3d2",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/eb/8b/0ceb8b4e-3e35-ae87-bc73-d854d5ee8f7f/075679747006.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:02.187854+00:00",
       "edition": "original",
@@ -2609,7 +3064,14 @@
         "canonical_name": "Kali Uchis",
         "id": "7cea6c6c-d802-4c10-a94d-9255ef159eaa"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "0ef15c6e-f6d0-437b-b4c4-ceff214805b1",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/90/87/bf/9087bfb6-ba9a-3157-f102-a8829e634e33/23UMGIM03412.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:56.725569+00:00",
       "edition": "original",
@@ -2626,7 +3088,14 @@
         "canonical_name": "Falling In Reverse",
         "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "173eb005-04ba-438f-884e-b06f83916913",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a1465102-4b9c-4a4d-a85b-75d5582324f6/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:42:52.658105+00:00",
       "edition": "original",
@@ -2643,7 +3112,14 @@
         "canonical_name": "Bell Biv DeVoe",
         "id": "bb4a2d0e-bb89-4504-bee4-7008a7798460"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "48cbca50-d9a4-4c58-aff8-1f18dab382db",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/f5/e3/d0f5e334-65ab-4873-e9b0-aa3f11e76894/06UMGIM05576.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:47.532756+00:00",
       "edition": "original",
@@ -2660,7 +3136,14 @@
         "canonical_name": "Lil Uzi Vert",
         "id": "64bb5f3e-3970-46ee-879b-fd4c3f630c8b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "fcdb144c-c8b0-456a-ad4c-acf773166b15",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e8/f3/b9/e8f3b9fd-979c-7def-e314-13a021dea301/075679711694.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:42.286458+00:00",
       "edition": "original",
@@ -2694,7 +3177,14 @@
         "canonical_name": "Three Days Grace",
         "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d040afa8-99c4-4942-b93c-f8c727bee320",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/cf/b4/5f/mzi.vgwnjneb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:34.014881+00:00",
       "edition": "original",
@@ -2711,7 +3201,14 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "da8b1c1a-a68e-4b19-9bee-243ff2c84ddb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:27.99351+00:00",
       "edition": "original",
@@ -2728,7 +3225,14 @@
         "canonical_name": "Michael Jackson",
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e9f25828-8258-4b08-ad2a-81222d37ff62",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/fe/a3/0cfea324-57c1-d530-5248-9bb591bbd7bf/074643574525.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:24.107218+00:00",
       "edition": "original",
@@ -2745,7 +3249,14 @@
         "canonical_name": "Radiohead",
         "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "dba90924-ea53-4eef-8772-242696c119f4",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:15.360867+00:00",
       "edition": "original",
@@ -2779,7 +3290,14 @@
         "canonical_name": "Alicia Keys",
         "id": "1a8b15f0-42dc-4387-b797-882691ab4814"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "84c5d55e-9565-4c9f-9bf1-f0cb0da51773",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c7/88/df/c788dffe-d06f-8923-ad61-a6194daf6616/888880809919.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:05.318842+00:00",
       "edition": "original",
@@ -2796,7 +3314,14 @@
         "canonical_name": "The Cranberries",
         "id": "18c97128-97d9-4cba-864e-3ef32ab3100e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ff139e14-62cf-42fc-a781-fe796148be00",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/77/a3/a377a309-8e52-f787-2250-2b34d320bf7b/25UMGIM64146.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:58.775468+00:00",
       "edition": "original",
@@ -2813,7 +3338,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6203a633-f888-4a08-929a-327a215c6feb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/7f/06/7c/7f067c7b-b798-8e64-70d4-3d32b4456f82/075679906649.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:54.040898+00:00",
       "edition": "original",
@@ -2830,7 +3362,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2a4b8588-c415-4009-85fa-466f8d6c00cd",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:50.327028+00:00",
       "edition": "original",
@@ -2847,7 +3386,14 @@
         "canonical_name": "Zann",
         "id": "169d04db-e9a1-469c-bd84-beddd6b52b71"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "0f9add3d-3ef5-4e46-ac4f-3b2da184a797",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/95/36/d79536f5-b049-3eca-d79a-129ac3c601de/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:45.246216+00:00",
       "edition": "original",
@@ -2864,7 +3410,14 @@
         "canonical_name": "Daniel Caesar",
         "id": "d25772f8-61ce-414a-86ce-2068f839528f"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "06d2f857-318b-4bb8-8f82-08a3be12c52e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/4f/ec/244fec58-ea20-e0b0-eea6-e06c6aff948b/23UMGIM14483.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:40.944591+00:00",
       "edition": "original",
@@ -2881,7 +3434,14 @@
         "canonical_name": "USHER",
         "id": "a9538198-86da-44e4-a479-fe4c56633c7b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "bef146f7-bcbe-4377-a64b-9007b4b78b09",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/ff/a3/3fffa34f-4699-a646-c175-c936446fc540/dj.rxuxuefh.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:35.739338+00:00",
       "edition": "original",
@@ -2898,7 +3458,14 @@
         "canonical_name": "Kendrick Lamar",
         "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "5eb67ece-7606-400b-8165-2de3d263c25b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/eb/44/c9/eb44c9e1-401e-b118-6254-7b9a10888c39/22UMGIM52376.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:31.335205+00:00",
       "edition": "original",
@@ -2915,7 +3482,14 @@
         "canonical_name": "Mon Laferte",
         "id": "e20c4a4a-3ecc-4645-a8ac-1419ffffba20"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "bb27134e-348e-4752-9607-aff29672ddad",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6c/e6/c7/6ce6c71b-9c90-9040-622e-524f1a878135/15UMGIM37781.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:26.337835+00:00",
       "edition": "original",
@@ -2932,7 +3506,14 @@
         "canonical_name": "My Chemical Romance",
         "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "85729509-983f-47d0-bc91-c1f8fadc6bde",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:20.956352+00:00",
       "edition": "original",
@@ -2949,7 +3530,14 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ae753d65-9cb2-40a8-b3b7-1d7bce13e9c5",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c6/58/aec6589c-f5cf-0d81-2727-bc8775e34049/25UMGIM76990.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:14.944044+00:00",
       "edition": "original",
@@ -2966,7 +3554,14 @@
         "canonical_name": "Malcolm Todd",
         "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "0b0bb91d-3a20-4c74-bbd7-e42cc3f130e6",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/d8/0e/65d80e2d-d0b2-6baf-e315-66e929e2003e/196873359151.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:41:00.329321+00:00",
       "edition": "original",
@@ -2983,7 +3578,14 @@
         "canonical_name": "Malcolm Todd",
         "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "cbaf4f15-05f5-40ac-a4e1-4b49387cb2ed",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/2b/b7/632bb74c-3ffc-a28c-a4d8-808596535936/196872707434.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:56.133571+00:00",
       "edition": "original",
@@ -3017,7 +3619,14 @@
         "canonical_name": "Lil Nas X, Doja Cat",
         "id": "10f07475-f24b-4f81-9aa6-a16687a0a67a"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1509a9d0-c567-44c7-a9fa-81afbf4855bd",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:40:46.222106+00:00",
       "edition": "original",
@@ -3034,7 +3643,14 @@
         "canonical_name": "Lil Nas X",
         "id": "cf87525d-2baa-4bd2-9253-5f32f85c358c"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "00846ef0-7cce-4492-a245-93ae90274d4e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:40.574862+00:00",
       "edition": "original",
@@ -3051,7 +3667,14 @@
         "canonical_name": "XXXTENTACION",
         "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1f67292a-6edb-4252-a9aa-6201101741b4",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/aa/87/70aa8723-81da-ca48-c395-ab1cb19bbc9b/888915347232_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:35.919502+00:00",
       "edition": "original",
@@ -3068,7 +3691,14 @@
         "canonical_name": "Lesley Gore",
         "id": "cfa024ff-0de0-480c-a6a8-d8b254b98d72"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "87701baa-53e1-40d4-ae3b-c1e696ea273d",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/fe2d8614-5bdc-42e9-a050-6e9ae607d28e/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:40:30.110624+00:00",
       "edition": "original",
@@ -3136,7 +3766,14 @@
         "canonical_name": "Sam Smith",
         "id": "48835c49-e97d-4f91-b213-775c98304d6b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "b7d99dac-71d4-4cb2-bba1-f2987470344e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b1/4a/ca/b14aca06-d304-09dd-14fb-dfd10442c1bb/13UAAIM66829.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:11.288606+00:00",
       "edition": "original",
@@ -3153,7 +3790,14 @@
         "canonical_name": "Clairo",
         "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "448558e8-7f66-47a5-940f-bf73861d1995",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/47/06/f24706bc-a90c-f730-bd8a-586ddde8af3e/829299184631.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:06.36104+00:00",
       "edition": "original",
@@ -3170,7 +3814,14 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "cb1bc885-66bb-4616-a11a-cd5f61f24aae",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/8fec8853-7f22-4d55-8705-97dae226f37c/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:40:02.173819+00:00",
       "edition": "original",
@@ -3187,7 +3838,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "81a727be-eda6-461b-bae0-2f4ac66e2277",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fa/7e/e6/fa7ee63a-a56c-9e3e-d04a-d4472cd1acf9/075679839497.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:57.58978+00:00",
       "edition": "original",
@@ -3204,7 +3862,14 @@
         "canonical_name": "Malcolm Todd",
         "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8af6839f-96d9-4334-886c-d487877a085c",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/9f/30/cb9f3003-d9bb-4283-cd24-b97891516205/196874286470.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:53.180977+00:00",
       "edition": "original",
@@ -3221,7 +3886,14 @@
         "canonical_name": "The Neighbourhood",
         "id": "ba9171c4-71ac-4295-bd74-df5ed3e3c93b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ac502cf8-2582-4d30-93cb-cbe4b692b5cf",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:44.415659+00:00",
       "edition": "original",
@@ -3238,7 +3910,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ec7d9326-f5af-44a4-a9f9-2240abf4fb0b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/27/72/422772bd-41a2-7a06-47b2-4377f50e68fb/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:40.499522+00:00",
       "edition": "original",
@@ -3255,7 +3934,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "619a6f7d-f29e-4ea0-822a-acff69d950fd",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/03/d1/7a03d161-638c-fdc7-cdbf-3ff46c559264/19UMGIM01492.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:36.047484+00:00",
       "edition": "original",
@@ -3272,7 +3958,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "058286d1-c9c4-4008-8d38-4b3f634a0521",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/6a/ae/556aae7b-07c0-7eaa-7620-4485a5ab3d46/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:31.588248+00:00",
       "edition": "original",
@@ -3289,7 +3982,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ee9e91d4-997c-4b6a-a402-ae6b195eddfd",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/76/c8/9d76c885-4623-00b2-46ba-956bd95a00fc/199806735428.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:27.398379+00:00",
       "edition": "original",
@@ -3306,7 +4006,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "ab09d94f-fdfc-4e61-99c0-fb019ab7b6b0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/fa/0c/40fa0c25-70b9-2dc4-d0d5-e4f2eb192db6/7316481842033.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:23.3699+00:00",
       "edition": "original",
@@ -3323,7 +4030,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e4df82ce-07a6-44cd-b700-eecbea24cda3",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/00/f2/c600f233-9d36-17f4-b307-6bb9f72f4551/197187248193.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:18.598184+00:00",
       "edition": "original",
@@ -3340,7 +4054,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "309da0bf-7c55-4e54-af97-b76ef1be3208",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/a9/e0/70/mzi.arqxvqoy.tif/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:14.534122+00:00",
       "edition": "original",
@@ -3357,7 +4078,14 @@
         "canonical_name": "Unknown Artist",
         "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "216d7739-8ed9-40d1-b1ed-2cf21aeb1125",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/3e/af/503eaf3b-c7b6-bf20-0373-4504792d6218/656465448651_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:10.042315+00:00",
       "edition": "original",
@@ -3374,7 +4102,14 @@
         "canonical_name": "Keane",
         "id": "65944c1f-2796-4578-840f-ffa14b0e006d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "fe2cca3e-af9f-491f-bc09-2475197fd302",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/a6/f7/89a6f7be-a0e0-2524-a13b-6b5df7b7534a/06UMGIM24399.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:04.233475+00:00",
       "edition": "original",
@@ -3391,7 +4126,14 @@
         "canonical_name": "Beach Bunny",
         "id": "b27b7314-c773-4e9c-a845-eb09c4d2855a"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "4fea2771-6267-4d47-8b4a-db92334bc2e2",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/0c/c4/390cc45e-4a1e-9821-4d14-2ce487d918fd/112177.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:58.647087+00:00",
       "edition": "original",
@@ -3408,7 +4150,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "297df495-e4ab-40ea-b67e-f4fa6d7324bc",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/12/ed/3f12edd3-4f41-6e62-b7e5-9a219ee9703c/075679644206.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:54.730945+00:00",
       "edition": "original",
@@ -3425,7 +4174,14 @@
         "canonical_name": "Clairo",
         "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "eafdbba2-8035-4089-b7cc-2aa53a858781",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/30/2d/e7302d76-9a56-9c6b-a998-a020185a08bd/00602577009235.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:50.386534+00:00",
       "edition": "original",
@@ -3459,7 +4215,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "727f18b4-856c-497a-9c4f-8084da98ddfa",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:37.825776+00:00",
       "edition": "original",
@@ -3476,7 +4239,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "31b6bc0d-2ba0-41b6-885d-9546e8121a76",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:25.909266+00:00",
       "edition": "original",
@@ -3493,7 +4263,14 @@
         "canonical_name": "Don Toliver",
         "id": "e9f391d8-4e2c-494f-bc1d-7f47984aff86"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1721cb03-b317-4422-ae23-46d9e19be2ad",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/3c/5d/223c5d96-501e-040e-a34d-0608e6e5c4ff/075679638434.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:19.543933+00:00",
       "edition": "original",
@@ -3510,7 +4287,14 @@
         "canonical_name": "Creed",
         "id": "0f288098-3895-435d-9435-0bd17c5120f8"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "76055a22-cc7f-42e3-bb92-16e500771b1e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/b4/ef/d5b4ef8a-a68f-223b-df91-16294395ffce/00601501410321.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:14.447151+00:00",
       "edition": "original",
@@ -3527,7 +4311,14 @@
         "canonical_name": "Fleetwood Mac",
         "id": "ae1582e0-ca5d-4241-a83e-5d1834b829dc"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "b9f995b6-292c-4ffc-98d7-77e5c859da18",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:09.543147+00:00",
       "edition": "original",
@@ -3544,7 +4335,14 @@
         "canonical_name": "Journey",
         "id": "3446f628-7a4b-4a2c-916d-aeccc8564b9f"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "25d1b7ab-8146-4bbe-b214-cf34c7200496",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/47/d6/fe/47d6fe2f-b14c-d8a7-597c-8a40e094364e/886449932795.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:04.237262+00:00",
       "edition": "original",
@@ -3561,7 +4359,14 @@
         "canonical_name": "Juice WRLD",
         "id": "f70adeb5-34d8-42bb-a15e-e72c36179655"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "692e4d29-7dad-4e48-a9bf-4ca7caa60715",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/6c/2a/f86c2ae0-b4eb-578c-1f02-3acb8409b815/21UMGIM53733.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:59.374103+00:00",
       "edition": "original",
@@ -3578,7 +4383,14 @@
         "canonical_name": "Chappell Roan",
         "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "0fce6fc1-1dd1-4142-b313-8dff65d12f3d",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:54.330434+00:00",
       "edition": "original",
@@ -3595,7 +4407,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c2fc8527-8c10-47bf-a2a1-0b513250b182",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8e/d3/71/8ed3710d-2dfc-55ef-b579-d2cb494f176d/075679815538.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:49.895579+00:00",
       "edition": "original",
@@ -3612,7 +4431,14 @@
         "canonical_name": "Olivia Rodrigo",
         "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "a1c2f58d-d7f7-4635-be4b-29361192d204",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:41.648529+00:00",
       "edition": "original",
@@ -3646,7 +4472,14 @@
         "canonical_name": "Surf Curse",
         "id": "a595894a-7cde-442b-ac9a-15c496378fde"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "5b3e165b-bfda-4eb3-8239-a5cd6fc6fa7f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ec/cb/b3/eccbb387-6215-299f-a753-9e24faaea3de/075679780850.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:32.185766+00:00",
       "edition": "original",
@@ -3663,7 +4496,14 @@
         "canonical_name": "The Cardigans",
         "id": "4f66fd06-9608-49fc-844b-c30058a0a28e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "5ecebe0d-4b57-4baf-9c8d-133dc57e73c9",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/f2/ce/f3f2ce30-c9a8-8a9e-a1c3-051ba5e8bff8/19UMGIM02694.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:25.048104+00:00",
       "edition": "original",
@@ -3680,7 +4520,14 @@
         "canonical_name": "Harry Styles",
         "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1198e0a5-9e8b-483e-b790-8158c16b108c",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:20.884313+00:00",
       "edition": "original",
@@ -3697,7 +4544,14 @@
         "canonical_name": "Evanescence",
         "id": "6174d0c2-83af-45d5-9556-b883e24eaca7"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9ac605cf-2902-4fa5-9091-38350ca45c5f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:14.51135+00:00",
       "edition": "original",
@@ -3714,7 +4568,14 @@
         "canonical_name": "Hinder",
         "id": "92f98b49-b43b-4609-a555-e0c1c86e5fba"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9e3a9e2d-ffb1-44bc-9e2e-9bae4c36535a",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/96/19/c9/9619c963-3b81-6f84-4839-6fafdbfd5927/06UMGIM25825.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:09.384863+00:00",
       "edition": "original",
@@ -3731,7 +4592,14 @@
         "canonical_name": "Gregory Alan Isakov",
         "id": "acea0d16-27b0-49fe-bc73-47ee41178f88"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1d5ee0b9-65ed-4141-9401-610bc2e545aa",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/ed/83/15ed83dc-8e46-09b2-fb12-764a65a281a3/18573.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:04.035836+00:00",
       "edition": "original",
@@ -3748,7 +4616,14 @@
         "canonical_name": "Labrinth",
         "id": "c43ab760-64af-47eb-bc87-bccc47eae268"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9dde09ec-7c26-4fcf-9617-b7aefb2f6f80",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/f4/05/6ff40578-72c8-e9ed-5413-96dc4874cc86/886447932223.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:59.579889+00:00",
       "edition": "original",
@@ -3765,7 +4640,14 @@
         "canonical_name": "Labrinth",
         "id": "c43ab760-64af-47eb-bc87-bccc47eae268"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e6aedd6f-2142-4e3d-aab8-ffd665cfe7a2",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/81/ae/f581ae00-fd31-cc21-2d17-72e93e8d953c/196871037792.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:54.321237+00:00",
       "edition": "original",
@@ -3782,7 +4664,14 @@
         "canonical_name": "Elvis Presley",
         "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "199db2e4-63ef-44ef-b96e-9ccabee7b0cd",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/63/93/3e6393fb-5fe2-1ef4-1c0d-6452919a351c/828768904824.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:50.147919+00:00",
       "edition": "original",
@@ -3799,7 +4688,14 @@
         "canonical_name": "Escape the Fate",
         "id": "7a8c0b60-67aa-46df-983f-976385433786"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "481f97fd-3fc2-4599-8737-7616855bc532",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/00/d5/2b/00d52b41-37d7-615c-cd31-43a693666ac1/0045778683260.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:43.147033+00:00",
       "edition": "original",
@@ -3816,7 +4712,14 @@
         "canonical_name": "Glass Animals",
         "id": "4693f311-5dc1-462f-a315-8c02566e2d63"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "383da204-377c-4cf2-a99d-4d8fd9957055",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:38.00577+00:00",
       "edition": "original",
@@ -3833,7 +4736,14 @@
         "canonical_name": "Malcolm Todd",
         "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "423ae752-81f3-4873-baf5-a69e407e30d8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/81/a8/c981a8ba-761e-b013-422a-23e2561cbaf6/196874412534.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:31.47049+00:00",
       "edition": "original",
@@ -3850,7 +4760,14 @@
         "canonical_name": "Malcolm Todd",
         "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6f5684ad-3fbe-4b86-b758-953155f6b313",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/43/a7/be/43a7be3f-2bf1-286f-25f1-334169a04df4/196871375535.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:27.130702+00:00",
       "edition": "original",
@@ -3867,7 +4784,14 @@
         "canonical_name": "Lil Tecca",
         "id": "880493f7-6067-4683-b19c-b14240756176"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "f92ea771-7b7e-4d8c-8c8c-df3a3155c143",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/35/11/923511fa-3849-9670-d030-0500d391e818/25UMGIM81030.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:21.602721+00:00",
       "edition": "original",
@@ -3884,7 +4808,14 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "97f4eaa5-5a7a-496a-a68c-13a756805e45",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/2b/93/9e2b93b7-43a9-e814-e0ae-c55a1b7e17d6/196873463513.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:17.160569+00:00",
       "edition": "original",
@@ -3901,7 +4832,14 @@
         "canonical_name": "Melanie Martinez",
         "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "b8f7c747-25ca-4674-8ceb-e7ea050d5e21",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cd/5e/ef/cd5eef29-56c4-cce5-eff5-4c0d9254f593/075679940780.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:10.245749+00:00",
       "edition": "original",
@@ -3918,7 +4856,14 @@
         "canonical_name": "Melanie Martinez",
         "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c8a2be00-6330-44ec-8e36-118276f0974e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/8a/da/4e8ada12-5602-fc2c-f75b-167697e140d8/075679921369.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:36:04.506339+00:00",
       "edition": "original",
@@ -3935,7 +4880,14 @@
         "canonical_name": "Falling In Reverse",
         "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "30795828-e279-4ea6-917b-0c2ff6001c9e",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/db5c6f17-c864-4458-90f4-4b3ecb3edae9/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:35:57.005493+00:00",
       "edition": "original",
@@ -3969,7 +4921,14 @@
         "canonical_name": "Clairo",
         "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "40aa78ce-4fcf-4c6f-9f2c-1c7277fec01f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/8c/19/f78c1951-ced5-fea6-251b-50914d96fd62/00196922948305_Cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:47.197303+00:00",
       "edition": "original",
@@ -3986,7 +4945,14 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:35:39.288403+00:00",
       "edition": "original",
@@ -4003,7 +4969,14 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "68b9d2c5-850c-40ee-8925-e07a0aa76450",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/88/46/2c884679-3a9e-0cb6-779d-559ebfd23781/196873735177.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:35.070889+00:00",
       "edition": "original",
@@ -4020,7 +4993,14 @@
         "canonical_name": "Charlie Puth",
         "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "f3abac96-dd83-486b-93c9-497f6027a3ac",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:31.074894+00:00",
       "edition": "original",
@@ -4037,7 +5017,14 @@
         "canonical_name": "Mitski",
         "id": "108ce558-adbc-4ca7-9974-29c9e66f8d3b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "f38bf8c0-8a3d-4520-9ee9-c922166d3971",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/11/65/bf116592-f8eb-fbed-4255-f43b4b09e651/37052.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:26.197773+00:00",
       "edition": "original",
@@ -4054,7 +5041,14 @@
         "canonical_name": "Paramore",
         "id": "28af6bb4-6a92-4274-86ac-2c4144933aa3"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "25d1fba2-bd28-490b-92db-d0219ee89b43",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/97/17/049717b9-67ea-126b-7b3b-eaaa7f048dd8/dj.gczfwqsh.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:22.19095+00:00",
       "edition": "original",
@@ -4071,7 +5065,14 @@
         "canonical_name": "Lana Del Rey",
         "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "19cb9c94-1947-48a9-8d8f-fd4a6c5da756",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/d9/63/5fd96387-45fa-6b94-afd8-7b2c4a24a93b/11UMGIM38959.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:17.549706+00:00",
       "edition": "original",
@@ -4088,7 +5089,14 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:35:12.483628+00:00",
       "edition": "original",
@@ -4105,7 +5113,14 @@
         "canonical_name": "Laufey",
         "id": "81373cf3-1546-4731-80ce-c4d01ef169d2"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1874017f-df6a-4553-adb1-e620be564da8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/8b/20/8b8b2083-c8a3-a1a6-1f9e-a4da5bf45d5d/197188679637.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:07.081052+00:00",
       "edition": "original",
@@ -4122,7 +5137,14 @@
         "canonical_name": "beabadoobee",
         "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "b679230e-b093-4203-a513-8d037c902656",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/13/6b/15136b77-3a59-2f4e-d0ae-588f8d64802b/196922094361_Cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:01.228183+00:00",
       "edition": "original",
@@ -4139,7 +5161,14 @@
         "canonical_name": "Dean Lewis",
         "id": "52bcafcf-8112-4eaf-a801-d6fa4e8d4de3"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1b7cd69c-b240-4e61-93e9-c238dce580de",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/8f/14/f98f1474-ca16-f2b4-aa07-1f05f7c68540/00602577037429.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:56.417619+00:00",
       "edition": "original",
@@ -4156,7 +5185,14 @@
         "canonical_name": "XXXTENTACION",
         "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "575a41e5-cb56-4a28-bca3-060930b5d293",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6d/7b/91/6d7b91ed-4820-fc05-0cf1-272f4b25285e/194690007002_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:47.90234+00:00",
       "edition": "original",
@@ -4173,7 +5209,14 @@
         "canonical_name": "Michael Jackson",
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "cfedcd20-7dcd-452d-aaf4-a839444dcbdb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/0b/fb/b5/0bfbb592-e2ce-065a-a098-09f55cee22db/dj.iziroksp.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:41.20701+00:00",
       "edition": "original",
@@ -4190,7 +5233,14 @@
         "canonical_name": "Britney Spears",
         "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "017f9a2c-a69d-431a-9766-af1f8abb4023",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:37.060089+00:00",
       "edition": "original",
@@ -4207,7 +5257,14 @@
         "canonical_name": "Stephen Sanchez, Em Beihold",
         "id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "51cca3c8-9e41-450c-8bf5-f7383c4c14aa",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/71/6a/e0716a8a-b806-d313-4ed6-93bb485a65c5/22UMGIM38869.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:30.581556+00:00",
       "edition": "original",
@@ -4224,7 +5281,14 @@
         "canonical_name": "Doja Cat",
         "id": "5d01ffe5-f863-471a-b886-98a89cff81df"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9b7f437b-3c52-46a0-b36c-34a1ac51a372",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/f3/6c/aff36c0a-404d-18e5-882b-74fca1d5fa2b/886447274965.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:24.720954+00:00",
       "edition": "original",
@@ -4241,7 +5305,14 @@
         "canonical_name": "Janet Jackson",
         "id": "44760cbe-16ad-4145-92d4-c3556454bf2c"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "6225e55f-c385-406a-b9a3-c47c6a04234c",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ab/25/04ab2585-dd7b-dfed-3afe-86800393a7c2/13ULAIM48853.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:18.783999+00:00",
       "edition": "original",
@@ -4258,7 +5329,14 @@
         "canonical_name": "Ed Sheeran",
         "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "98774c5c-8ce3-4cdb-a7f0-b0916059a148",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/de/9d/c7de9dd4-a44c-59a6-0c5f-ac5aba2daf9a/190295046828.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:13.761979+00:00",
       "edition": "original",
@@ -4275,7 +5353,14 @@
         "canonical_name": "The Weeknd",
         "id": "7b8e4f5b-676c-4d27-8f30-a04aa600b8e6"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "0c8a7233-a83d-443f-a5d5-c08f57a0cc38",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/3a/f7/833af71b-2e0c-3303-24f5-8f5c546c073b/20UMGIM21167.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:08.283227+00:00",
       "edition": "original",
@@ -4292,7 +5377,14 @@
         "canonical_name": "Elton John, Charlie Puth",
         "id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "11d28343-1b01-435c-8837-d7fb4f110d56",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:34:03.07543+00:00",
       "edition": "original",
@@ -4309,7 +5401,14 @@
         "canonical_name": "Rihanna",
         "id": "52c39ac1-b098-44de-b58e-aaadb7147a0b"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "b20fd378-c586-4fa7-9bbe-81e6bf44e7aa",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/27/57/132757ba-42e6-9584-7390-ca694292a20e/16UMGIM03372.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:33:57.918624+00:00",
       "edition": "original",
@@ -4326,7 +5425,14 @@
         "canonical_name": "Panic! At The Disco",
         "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8c5ba320-5815-45d6-9b75-423d63440652",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/d8/5e/07d85ee0-bb20-606f-8da3-523b4bb4a8d3/mzi.stmeokws.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:33:52.878434+00:00",
       "edition": "original",
@@ -4343,7 +5449,14 @@
         "canonical_name": "Jason Aldean",
         "id": "2e72b048-73b6-4c7e-b005-ecf7a5b30461"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "e6c729b7-51c1-420c-bdb0-9fff1eca36a4",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/0d/4d/4e0d4da8-151e-73be-10e0-1ea4fa76446d/0884977769418.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:33:47.284976+00:00",
       "edition": "original",

@@ -12,7 +12,7 @@
       "id": "727f18b4-856c-497a-9c4f-8084da98ddfa",
       "phash": null,
       "release_id": "cb784343-91f0-41e9-b2b8-0ee70c29d4e5",
-      "role": "candidate",
+      "role": "canonical",
       "source": "Apple Music",
       "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/1200x1200bb.jpg",
       "status": "high_confidence",
@@ -51,7 +51,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2baa47dd-afea-4152-97b7-4fc25e113b70",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:56.284877+00:00",
       "edition": "original",
@@ -68,7 +75,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "1997b6c4-e66d-4a99-aa51-16349f2f9a61",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/c3/5f/5bc35f2a-4a4e-5225-0e08-720e7fb41ca5/16UMGIM77509.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:59.484641+00:00",
       "edition": "original",
@@ -85,7 +99,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c74a9425-5d76-4298-a557-d0babd213783",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:02.986998+00:00",
       "edition": "original",
@@ -102,7 +123,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d2086746-8015-4b56-897a-43dcadac97d8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/c6/3f/13c63f4e-7cc9-767d-5007-79546f8fe29f/23UMGIM53372.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:15.736335+00:00",
       "edition": "original",
@@ -119,7 +147,14 @@
         "canonical_name": "Billie Eilish",
         "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "31b6bc0d-2ba0-41b6-885d-9546e8121a76",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:38:25.909266+00:00",
       "edition": "original",

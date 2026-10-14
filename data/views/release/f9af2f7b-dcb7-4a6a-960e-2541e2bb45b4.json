@@ -54,25 +54,6 @@
     "title": "Unknown Album",
     "updated_at": "2026-10-14T00:46:35.346253+00:00"
   },
-  "tracks": [
-    {
-      "apple_id": null,
-      "artist_id": "06c837f2-679f-4711-a2cb-57e783d01002",
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:46:35.45822+00:00",
-      "deezer_id": null,
-      "disc_number": 1,
-      "duration_ms": null,
-      "id": "1e19dce6-5164-4f2d-9230-bbe799123581",
-      "isrc": null,
-      "mbid": null,
-      "release_id": "f9af2f7b-dcb7-4a6a-960e-2541e2bb45b4",
-      "spotify_id": null,
-      "status": "needs_review",
-      "title": "always stranger",
-      "track_number": null,
-      "updated_at": "2026-10-14T00:46:35.45822+00:00"
-    }
-  ],
+  "tracks": [],
   "verifications": []
 }

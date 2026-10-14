@@ -227,7 +227,7 @@
       "genres": [],
       "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
       "image_url": "https://cdn.corenexis.com/f/piK0sFn2CJj.png",
-      "release_count": 18
+      "release_count": 19
     },
     {
       "aliases": [],
@@ -862,15 +862,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Past Love (w SSGKobe)",
-      "confidence": "unknown",
-      "genres": [],
-      "id": "bf0eefc2-ad28-49cf-943b-0c0e06f3dbed",
-      "image_url": null,
-      "release_count": 1
-    },
-    {
-      "aliases": [],
       "canonical_name": "Playboi Carti, The Weeknd",
       "confidence": "unknown",
       "genres": [],
@@ -1184,7 +1175,7 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T02:08:38.165759+00:00",
+  "exported_at": "2026-10-14T02:16:19.888581+00:00",
   "releases": [
     {
       "artists": {
@@ -1260,8 +1251,8 @@
     },
     {
       "artists": {
-        "canonical_name": "Past Love (w SSGKobe)",
-        "id": "bf0eefc2-ad28-49cf-943b-0c0e06f3dbed"
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [
         {
@@ -1271,14 +1262,14 @@
           "stored_path": null
         }
       ],
-      "confidence": "needs_review",
+      "confidence": "verified",
       "created_at": "2026-10-14T01:02:37.020216+00:00",
       "edition": "original",
       "id": "8b19ac11-eb09-4aff-aa3b-349e9b6ca0c4",
       "label": null,
       "release_date": null,
-      "release_status": null,
-      "release_type": "album",
+      "release_status": "unreleased",
+      "release_type": "single",
       "release_year": null,
       "title": "Past Love (w SSGKobe)"
     },

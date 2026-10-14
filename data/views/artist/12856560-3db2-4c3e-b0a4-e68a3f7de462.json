@@ -17,6 +17,17 @@
   },
   "corrections": [
     {
+      "created_at": "2026-10-14T02:14:11.686797+00:00",
+      "entity_id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
+      "entity_type": "artist",
+      "field": "canonical_name",
+      "id": "1fb415b3-f53e-4943-881f-ebda52a08b00",
+      "new_value": "d4vd",
+      "note": "Merged artist bf0eefc2-ad28-49cf-943b-0c0e06f3dbed into existing 12856560-3db2-4c3e-b0a4-e68a3f7de462",
+      "old_value": "Past Love (w SSGKobe)",
+      "source": "manual"
+    },
+    {
       "created_at": "2026-10-09T05:50:44.482328+00:00",
       "entity_id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
       "entity_type": "artist",
@@ -141,6 +152,30 @@
       "release_type": "single",
       "release_year": null,
       "title": "Im In Love"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "7612d66f-10d1-4c74-adba-0ffbf8e52cf3",
+          "role": "canonical",
+          "source_url": "https://i.ytimg.com/vi/av3VGuUgJAo/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIFgoZTAP&rs=AOn4CLCu0y7s7U4V3Ael0QEW5wHaHmx_kA",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-14T01:02:37.020216+00:00",
+      "edition": "original",
+      "id": "8b19ac11-eb09-4aff-aa3b-349e9b6ca0c4",
+      "label": null,
+      "release_date": null,
+      "release_status": "unreleased",
+      "release_type": "single",
+      "release_year": null,
+      "title": "Past Love (w SSGKobe)"
     },
     {
       "artists": {

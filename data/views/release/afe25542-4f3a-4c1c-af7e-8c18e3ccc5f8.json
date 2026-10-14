@@ -85,6 +85,30 @@
       },
       "artwork": [
         {
+          "id": "7c5733a7-ade0-4c10-948f-c877e7961ec2",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/f63294de-fac3-4030-934a-53e88ca5ea00/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:56.828005+00:00",
+      "edition": "original",
+      "id": "3e7c6ba6-67ee-4c38-a290-bf11641cd891",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "LOOK AT ME: THE ALBUM"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [
+        {
           "id": "d503bd03-5f76-41f8-88ab-27f67fa850c0",
           "role": "canonical",
           "source_url": "https://th.bing.com/th/id/R.703552c0d52f1135f3c49e0102ccc595?rik=Izd1gLVbDZOICg&pid=ImgRaw&r=0",
@@ -252,6 +276,24 @@
       "title": "Dead Inside (Interlude)",
       "track_number": null,
       "updated_at": "2026-10-14T00:33:45.365717+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "ce736950-b03b-4374-99a4-28d48942462d",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:33.559156+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "bc8775a2-2ae3-43f5-b79e-eeacd42e8c9f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "afe25542-4f3a-4c1c-af7e-8c18e3ccc5f8",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Jocelyn Flores",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:47:33.559156+00:00"
     },
     {
       "apple_id": null,

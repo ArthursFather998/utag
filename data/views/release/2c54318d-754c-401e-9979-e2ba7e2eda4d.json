@@ -45,6 +45,30 @@
       "release_type": "album",
       "release_year": 2024,
       "title": "Good Luck, Babe! - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
+      "artwork": [
+        {
+          "id": "efa6f3bf-348f-4454-aeef-f60021403105",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/43e06d80-3b88-426a-be7b-343870570828/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:55.035952+00:00",
+      "edition": "original",
+      "id": "37f7b93f-ecd9-4056-b4a8-c4524bf955b0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "2024 MegaMix"
     }
   ],
   "release": {

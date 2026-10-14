@@ -1,0 +1,118 @@
+{
+  "artists": {
+    "canonical_name": "Three Days Grace",
+    "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:00.389684+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "56c6b202-4ef8-469c-962b-4c97b2bf9f86",
+      "phash": null,
+      "release_id": "76d49b81-ec15-4624-bb1d-957eb1e6f0cc",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/a7c5da69-a4c3-4627-99d7-075fa4132c25/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [
+        {
+          "id": "d040afa8-99c4-4942-b93c-f8c727bee320",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/cf/b4/5f/mzi.vgwnjneb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:34.014881+00:00",
+      "edition": "original",
+      "id": "3cb05b02-eaa2-4501-9f5c-1f0e04cdf536",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "One-X (Deluxe Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [
+        {
+          "id": "e78269f3-085c-47e0-bcad-385e137f66c0",
+          "role": "canonical",
+          "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:06:06.190727+00:00",
+      "edition": "original",
+      "id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+      "label": "Jive / Zomba",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2008,
+      "title": "One-X / Live at the Palace 2008"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:47:00.239683+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "76d49b81-ec15-4624-bb1d-957eb1e6f0cc",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2003,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Rolling Stone Original",
+    "updated_at": "2026-10-14T06:47:00.239683+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:00.334045+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4233915b-fd9a-41c7-a18d-26e3551dc6a8",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "76d49b81-ec15-4624-bb1d-957eb1e6f0cc",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "I Hate Everything About You",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:47:00.334045+00:00"
+    }
+  ],
+  "verifications": []
+}

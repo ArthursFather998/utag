@@ -237,6 +237,30 @@
       "release_type": "album",
       "release_year": 2025,
       "title": "Malcolm Todd (still)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [
+        {
+          "id": "372b63c0-4780-462f-a9ac-69815430f019",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/874fd7b4-5a2b-4f37-b486-40c8880697e3/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:05.252965+00:00",
+      "edition": "original",
+      "id": "ea098971-81a2-4c77-9467-74284ec6f9a2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "I Just Got Mad"
     }
   ],
   "release": {

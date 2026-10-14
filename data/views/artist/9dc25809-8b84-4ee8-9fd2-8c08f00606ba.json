@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "crayon",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T06:47:08.663131+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T06:47:08.663131+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [
+        {
+          "id": "3d51ff16-0a65-4754-a16e-97bca6b2d042",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/5b3d4e6d-36b1-4c0a-a16d-373fcc9e28bb/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:08.744713+00:00",
+      "edition": "original",
+      "id": "f74b6636-8d9e-407a-9e26-21f0cdea7c50",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "b sides and demos"
+    }
+  ],
+  "verifications": []
+}

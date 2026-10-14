@@ -24,6 +24,30 @@
       },
       "artwork": [
         {
+          "id": "56c6b202-4ef8-469c-962b-4c97b2bf9f86",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a7c5da69-a4c3-4627-99d7-075fa4132c25/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:00.239683+00:00",
+      "edition": "original",
+      "id": "76d49b81-ec15-4624-bb1d-957eb1e6f0cc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2003,
+      "title": "Rolling Stone Original"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [
+        {
           "id": "d040afa8-99c4-4942-b93c-f8c727bee320",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/cf/b4/5f/mzi.vgwnjneb.jpg/1200x1200bb.jpg",

@@ -52,7 +52,7 @@
       "genres": [],
       "id": "d2c0c42a-6243-4543-bf0f-fbe30d70244f",
       "image_url": null,
-      "release_count": 1
+      "release_count": 2
     },
     {
       "aliases": [],
@@ -180,7 +180,7 @@
       "genres": [],
       "id": "c58c5255-8800-4097-bb85-09c2cfd685e8",
       "image_url": null,
-      "release_count": 2
+      "release_count": 3
     },
     {
       "aliases": [],
@@ -240,6 +240,15 @@
     },
     {
       "aliases": [],
+      "canonical_name": "crayon",
+      "confidence": "unknown",
+      "genres": [],
+      "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
       "canonical_name": "Creed",
       "confidence": "unknown",
       "genres": [],
@@ -290,7 +299,7 @@
       "genres": [],
       "id": "d25772f8-61ce-414a-86ce-2068f839528f",
       "image_url": null,
-      "release_count": 2
+      "release_count": 3
     },
     {
       "aliases": [],
@@ -784,7 +793,7 @@
       ],
       "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2",
       "image_url": null,
-      "release_count": 10
+      "release_count": 11
     },
     {
       "aliases": [],
@@ -885,7 +894,7 @@
       "genres": [],
       "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
       "image_url": null,
-      "release_count": 2
+      "release_count": 3
     },
     {
       "aliases": [],
@@ -1132,6 +1141,15 @@
     },
     {
       "aliases": [],
+      "canonical_name": "The Fray",
+      "confidence": "unknown",
+      "genres": [],
+      "id": "65abf16a-01c2-4d59-bad1-a80631acd61c",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
       "canonical_name": "The Kid LAROI",
       "confidence": "unknown",
       "genres": [],
@@ -1182,7 +1200,7 @@
       "genres": [],
       "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",
       "image_url": null,
-      "release_count": 2
+      "release_count": 3
     },
     {
       "aliases": [],
@@ -1271,7 +1289,7 @@
       ],
       "id": "ce736950-b03b-4374-99a4-28d48942462d",
       "image_url": null,
-      "release_count": 8
+      "release_count": 9
     },
     {
       "aliases": [],
@@ -1292,8 +1310,210 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T06:46:45.171650+00:00",
+  "exported_at": "2026-10-14T06:47:53.637249+00:00",
   "releases": [
+    {
+      "artists": {
+        "canonical_name": "Daniel Caesar",
+        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
+      },
+      "artwork": [
+        {
+          "id": "2ae7f952-961e-4f27-8d9b-0f052b7d1034",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/35bba9c3-579e-4b68-90fa-969e683fb893/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:34.657658+00:00",
+      "edition": "original",
+      "id": "da75018e-eea3-4d57-ab5f-04d7859d867a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Japanese Denim"
+    },
+    {
+      "artists": {
+        "canonical_name": "My Chemical Romance",
+        "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
+      },
+      "artwork": [
+        {
+          "id": "c986c83c-3e82-470b-b200-9dd2ea0ff157",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/227df6c3-08ba-4104-8655-bb33adabcd3c/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:23.235296+00:00",
+      "edition": "original",
+      "id": "e340b22d-47aa-46d8-a5e7-a1fb0fcf6936",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Warped Tour ’05: Bootleg Series (live at Warped Tour 2005)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Arctic Monkeys",
+        "id": "d2c0c42a-6243-4543-bf0f-fbe30d70244f"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:20.352734+00:00",
+      "edition": "original",
+      "id": "b52c3fad-1e0f-4d1e-b9ec-9b805a78d6a5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2013,
+      "title": "2014-08-11: Live at Personal Festival, Buenos Aires, Argentina"
+    },
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [
+        {
+          "id": "3d51ff16-0a65-4754-a16e-97bca6b2d042",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/5b3d4e6d-36b1-4c0a-a16d-373fcc9e28bb/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:08.744713+00:00",
+      "edition": "original",
+      "id": "f74b6636-8d9e-407a-9e26-21f0cdea7c50",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "b sides and demos"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [
+        {
+          "id": "372b63c0-4780-462f-a9ac-69815430f019",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/874fd7b4-5a2b-4f37-b486-40c8880697e3/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:05.252965+00:00",
+      "edition": "original",
+      "id": "ea098971-81a2-4c77-9467-74284ec6f9a2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "I Just Got Mad"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [
+        {
+          "id": "56c6b202-4ef8-469c-962b-4c97b2bf9f86",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a7c5da69-a4c3-4627-99d7-075fa4132c25/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:00.239683+00:00",
+      "edition": "original",
+      "id": "76d49b81-ec15-4624-bb1d-957eb1e6f0cc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2003,
+      "title": "Rolling Stone Original"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [
+        {
+          "id": "7c5733a7-ade0-4c10-948f-c877e7961ec2",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/f63294de-fac3-4030-934a-53e88ca5ea00/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:56.828005+00:00",
+      "edition": "original",
+      "id": "3e7c6ba6-67ee-4c38-a290-bf11641cd891",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "LOOK AT ME: THE ALBUM"
+    },
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
+      "artwork": [
+        {
+          "id": "efa6f3bf-348f-4454-aeef-f60021403105",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/43e06d80-3b88-426a-be7b-343870570828/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:55.035952+00:00",
+      "edition": "original",
+      "id": "37f7b93f-ecd9-4056-b4a8-c4524bf955b0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "2024 MegaMix"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Fray",
+        "id": "65abf16a-01c2-4d59-bad1-a80631acd61c"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:46.835361+00:00",
+      "edition": "original",
+      "id": "328165dc-ee32-4e95-8bec-d87f31efb2c5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Live at the World Cafe Volume 22 Catch 22"
+    },
     {
       "artists": {
         "canonical_name": "My Chemical Romance",

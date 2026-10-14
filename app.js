@@ -696,11 +696,45 @@ function fixerModal(html) {
   document.getElementById("fixer-overlay").hidden = false;
   return m;
 }
+/* Duplicate prevention: returns the indices of pairs already in the library.
+   Matches on normalized (title, artist) against the tracks table. */
+async function fixerFindDuplicates(pairs) {
+  const dupes = new Set();
+  if (!pairs.length) return dupes;
+  try {
+    const norm = s => (s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+    const titles = [...new Set(pairs.map(p => p.title).filter(Boolean))];
+    if (!titles.length) return dupes;
+    const tParam = titles.map(t => `"${t.replace(/"/g, "")}"`).join(",");
+    const rows = await api(`tracks?select=id,title,release_id,releases!inner(artist_id,artists!inner(canonical_name))&title=in.(${encodeURIComponent(tParam)})&limit=200`);
+    const existing = new Set((rows || []).map(r =>
+      norm(r.title) + "|" + norm(r.releases && r.releases.artists && r.releases.artists.canonical_name)));
+    pairs.forEach((p, i) => {
+      if (p.title && p.artist && existing.has(norm(p.title) + "|" + norm(p.artist))) dupes.add(i);
+    });
+  } catch (e) { /* if the check fails, skip nothing */ }
+  return dupes;
+}
+
+/* Compute the would-be-final metadata with every proposal applied. */
+function fixerFinalMeta(info, audit, approved) {
+  const final = {
+    title: info.title, artist: info.artist, album: info.album,
+    genre: info.genre, year: info.year,
+    trackNo: info.trackNo, discNo: info.discNo,
+  };
+  for (const p of (approved || audit.proposals)) {
+    if (p.field === "trackNo") final.trackNo = parseInt(p.to, 10) || final.trackNo;
+    else final[p.field] = p.to;
+  }
+  return final;
+}
+
 function closeFixerModal() {
   const ov = document.getElementById("fixer-overlay");
   if (ov) ov.hidden = true;
   fixerState.file = null; fixerState.info = null; fixerState.audit = null; fixerState.jobId = null;
-  fixerState.zipFile = null; fixerState.zip = null; fixerState.zipNames = null; fixerState.zipTracks = null;
+  fixerState.zipFile = null; fixerState.zip = null; fixerState.zipNames = null; fixerState.zipTracks = null; fixerState.zipSkippedDupes = 0;
 }
 
 async function fixerLog(op, data) {
@@ -893,9 +927,31 @@ async function fixerZipAudit() {
   fixerState.zipTracks = tracks;
   const withFixes = tracks.filter(t => t.audit && t.audit.proposals.length).length;
   await log("info", "fixer:audit", `Audit complete: ${withFixes} of ${tracks.length} files have proposed fixes.`);
-  if (!withFixes) {
-    await fixerLog("done", { status: "done", result: "No fixes proposed." });
-    m.innerHTML = `<h2>No fixes</h2><p class="lede">None of the ${tracks.length} files matched the catalogs with anything to correct. Nothing was added to the library.</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+  /* Duplicate prevention: drop tracks whose corrected metadata is already
+     in the library — as if they were never uploaded. */
+  const pairs = tracks.map(t => {
+    if (!t.audit || !t.audit.proposals.length) return { title: "", artist: "" };
+    const f = fixerFinalMeta(t.info, t.audit);
+    return { title: f.title, artist: f.artist };
+  });
+  const dupes = await fixerFindDuplicates(pairs);
+  let skippedDupes = 0;
+  if (dupes.size) {
+    fixerState.zipTracks = tracks.filter((t, i) => {
+      if (dupes.has(i)) {
+        skippedDupes++;
+        const f = fixerFinalMeta(t.info, t.audit);
+        log("info", "fixer:duplicate", `"${f.title}" by ${f.artist} is already in the library — skipped.`);
+        return false;
+      }
+      return true;
+    });
+  }
+  fixerState.zipSkippedDupes = skippedDupes;
+  const remaining = fixerState.zipTracks.filter(t => t.audit && t.audit.proposals.length).length;
+  if (!remaining) {
+    await fixerLog("done", { status: "done", result: skippedDupes ? `${skippedDupes} duplicate${skippedDupes === 1 ? "" : "s"} skipped.` : "No fixes proposed." });
+    m.innerHTML = `<h2>${skippedDupes ? "All duplicates" : "No fixes"}</h2><p class="lede">${skippedDupes ? `All ${tracks.length} files are already in your library. Nothing was added.` : `None of the ${tracks.length} files matched the catalogs with anything to correct. Nothing was added to the library.`}</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
     m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
     return;
   }
@@ -927,7 +983,7 @@ function fixerZipReview() {
 
   const m = fixerModal(`
     <h2>Review fixes</h2>
-    <p class="lede">${esc(zipFile.name)} — untick anything you do not want applied.</p>
+    <p class="lede">${esc(zipFile.name)}${fixerState.zipSkippedDupes ? ` — ${fixerState.zipSkippedDupes} duplicate${fixerState.zipSkippedDupes === 1 ? "" : "s"} skipped` : ""} — untick anything you do not want applied.</p>
     ${sections}
     <div class="btn-row">
       <button class="mini-btn" type="button" data-fx="apply">Save to library</button>
@@ -955,6 +1011,7 @@ async function fixerZipApply(approved) {
   }
 
   let saved = 0, failed = 0, i = 0;
+  let skippedDupes = fixerState.zipSkippedDupes || 0;
   for (const track of zipTracks) {
     if (!track.info || !track.audit) continue;
     i++;
@@ -980,6 +1037,11 @@ async function fixerZipApply(approved) {
         art_url: (audit.art && audit.art.url) || "",
         art_source: (audit.art && audit.art.source) || "",
       });
+      if (res.existed && res.existed.track) {
+        skippedDupes++;
+        await log("info", "fixer:duplicate", `"${final.title}" by ${final.artist} is already in the library — skipped.`);
+        continue;
+      }
       saved++;
       const parts = [];
       if (!res.existed.artist) parts.push("artist");
@@ -996,14 +1058,14 @@ async function fixerZipApply(approved) {
 
   await fixerLog("done", {
     status: failed && !saved ? "failed" : "done",
-    result: `Saved ${saved} track${saved === 1 ? "" : "s"}${failed ? `, ${failed} failed` : ""}.`,
+    result: `Saved ${saved} track${saved === 1 ? "" : "s"}${skippedDupes ? `, ${skippedDupes} duplicate${skippedDupes === 1 ? "" : "s"} skipped` : ""}${failed ? `, ${failed} failed` : ""}.`,
     error: failed && !saved ? "All saves failed." : null,
   });
   if (!failed) awaitLibraryUpdate();
   m.innerHTML = `
     <h2>Done</h2>
     <p class="lede">${esc(zipFile.name)}</p>
-    <p class="lede">Saved ${saved} track${saved === 1 ? "" : "s"} to the library${failed ? ` (${failed} failed — see Activity).` : "."}</p>
+    <p class="lede">Saved ${saved} track${saved === 1 ? "" : "s"} to the library${skippedDupes ? ` (${skippedDupes} duplicate${skippedDupes === 1 ? "" : "s"} skipped)` : ""}${failed ? ` (${failed} failed — see Activity).` : "."}</p>
     <p class="fx-note">The audio files were discarded — only their corrected metadata was kept.</p>
     <div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
   m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
@@ -1130,6 +1192,19 @@ async function fixerRunAudit() {
   fixerState.audit = audit;
   for (const p of audit.proposals) {
     await log("info", "fixer:proposal", `${p.field}: "${p.from}" → "${p.to}" (${p.source}, ${Math.round(p.confidence * 100)}%).`);
+  }
+  /* Duplicate prevention: if the corrected track is already in the library,
+     skip it entirely — as if it was never uploaded. */
+  if (audit.proposals.length) {
+    const final = fixerFinalMeta(info, audit);
+    const dupes = await fixerFindDuplicates([{ title: final.title, artist: final.artist }]);
+    if (dupes.has(0)) {
+      await log("info", "fixer:duplicate", `"${final.title}" by ${final.artist} is already in the library — skipped.`);
+      await fixerLog("done", { status: "done", result: "Duplicate skipped." });
+      m.innerHTML = `<h2>Already in your library</h2><p class="lede">"${esc(final.title)}" by ${esc(final.artist)} is already in the library. It was skipped — nothing was added.</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+      m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+      return;
+    }
   }
   if (!audit.proposals.length && !audit.art) {
     await log("info", "fixer:nomatch", `No catalog recognized ${file.name}. Nothing to fix.`);

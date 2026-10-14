@@ -245,7 +245,7 @@
       "genres": [],
       "id": "4cd0665b-b358-47ed-baba-c52a7cfb5f83",
       "image_url": null,
-      "release_count": 1
+      "release_count": 0
     },
     {
       "aliases": [],
@@ -1184,7 +1184,7 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T01:56:32.937010+00:00",
+  "exported_at": "2026-10-14T02:01:13.833520+00:00",
   "releases": [
     {
       "artists": {
@@ -1440,23 +1440,6 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": 2023,
-      "title": "Petals to Thorns"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd, Laufey",
-        "id": "4cd0665b-b358-47ed-baba-c52a7cfb5f83"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T01:01:36.201145+00:00",
-      "edition": "original",
-      "id": "9b301704-2c48-432f-95d4-f1b5d387f02e",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "ep",
       "release_year": 2023,
       "title": "Petals to Thorns"
     },

@@ -441,8 +441,11 @@ async function saveEdits(root, entityType, entityId, fields, conf) {
   grabPw(root);
   if (status) status.textContent = "Saving…";
   try {
-    let n = 0, syncFailed = false;
-    const noteSync = (res) => { if (res && res.repo_sync === "failed") syncFailed = true; };
+    let n = 0, syncFailed = false, mergedTo = null;
+    const noteSync = (res) => {
+      if (res && res.repo_sync === "failed") syncFailed = true;
+      if (res && res.merged) mergedTo = res.entity_id;
+    };
     for (const f of fields) {
       noteSync(await fnCall({ action: "correct", entity_type: entityType, entity_id: entityId, field: f.name, new_value: f.value }));
       n++;
@@ -451,8 +454,15 @@ async function saveEdits(root, entityType, entityId, fields, conf) {
       noteSync(await fnCall({ action: "set_confidence", entity_type: entityType, entity_id: entityId, confidence: conf.value }));
       n++;
     }
-    if (status) status.textContent = (n ? `Saved ${n} change${n === 1 ? "" : "s"}. It is on record as your ruling.` : "Nothing changed.")
+    if (status) status.textContent = mergedTo
+      ? `Merged into the existing artist. Taking you there…`
+      : (n ? `Saved ${n} change${n === 1 ? "" : "s"}. It is on record as your ruling.` : "Nothing changed.")
       + (syncFailed ? " (Repo sync failed — it will retry on your next save.)" : "");
+    if (mergedTo) {
+      awaitLibraryUpdate();
+      setTimeout(() => { location.hash = `#/artist/${mergedTo}`; }, 800);
+      return true;
+    }
     const applied = fields.map(f => ({ name: f.name, value: f.value }));
     if (conf && conf.value !== conf.current) applied.push({ name: "confidence", value: conf.value });
     if (applied.length) optimisticPatch(entityType, entityId, applied);

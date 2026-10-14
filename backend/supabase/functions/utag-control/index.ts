@@ -271,6 +271,59 @@ Deno.serve(async (req) => {
         .from(table).select(field).eq("id", entityId).single();
       if (readErr) throw readErr;
 
+      // Artist rename to an existing name: merge instead of erroring.
+      // Moves all releases/tracks to the existing artist, then deletes the old one.
+      if (entityType === "artist" && field === "canonical_name") {
+        const targetName = String(storedValue).trim();
+        const { data: existing } = await supabase.from("artists").select("id")
+          .ilike("canonical_name", targetName.replace(/[%_\\]/g, "\\$&"))
+          .neq("id", entityId).limit(1).maybeSingle();
+        if (existing) {
+          const newArtistId = (existing as { id: string }).id;
+          // Move releases; merge conflicting ones (same title/year) by moving their tracks.
+          const { data: oldReleases } = await supabase.from("releases")
+            .select("id,title,release_year,edition").eq("artist_id", entityId);
+          for (const rel of (oldReleases || []) as { id: string; title: string; release_year: number | null; edition: string | null }[]) {
+            const { data: conflict } = await supabase.from("releases").select("id")
+              .eq("artist_id", newArtistId)
+              .ilike("title", rel.title.replace(/[%_\\]/g, "\\$&"))
+              .eq("edition", rel.edition || "original")
+              .limit(1).maybeSingle();
+            // Note: null years need special handling; match via is() below
+            let conflictId = conflict ? (conflict as { id: string }).id : null;
+            if (!conflictId) {
+              let q = supabase.from("releases").select("id").eq("artist_id", newArtistId)
+                .ilike("title", rel.title.replace(/[%_\\]/g, "\\$&"));
+              q = rel.release_year ? q.eq("release_year", rel.release_year) : q.is("release_year", null);
+              const { data: c2 } = await q.limit(1).maybeSingle();
+              if (c2) conflictId = (c2 as { id: string }).id;
+            }
+            if (conflictId) {
+              // Merge: move tracks to the existing release, delete the duplicate.
+              await supabase.from("tracks").update({ artist_id: newArtistId, release_id: conflictId })
+                .eq("release_id", rel.id);
+              await supabase.from("artwork").delete().eq("release_id", rel.id);
+              await supabase.from("releases").delete().eq("id", rel.id);
+            } else {
+              await supabase.from("releases").update({ artist_id: newArtistId }).eq("id", rel.id);
+            }
+          }
+          // Move any remaining tracks directly tied to the old artist.
+          await supabase.from("tracks").update({ artist_id: newArtistId }).eq("artist_id", entityId);
+          // Delete the old artist.
+          await supabase.from("artists").delete().eq("id", entityId);
+          await supabase.from("corrections").insert({
+            entity_type: "artist", entity_id: newArtistId, field: "canonical_name",
+            old_value: current ? String((current as Record<string, unknown>)[field] ?? "") : null,
+            new_value: targetName, source: "manual",
+            note: `Merged artist ${entityId} into existing ${newArtistId}`,
+          });
+          const repoSync = "skipped"; // client triggers re-export via awaitLibraryUpdate
+          await logActivity("edit", `Merged artist into ${targetName}`);
+          return json({ ok: true, action, entity_id: newArtistId, field, merged: true, repo_sync: repoSync });
+        }
+      }
+
       // Apply the change FIRST, then record the ruling. If the update fails
       // (e.g. unique-name clash), no phantom correction is left behind.
       const patch: Record<string, unknown> = { [field]: storedValue };

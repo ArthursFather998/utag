@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Gregory Alan Isakov",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:37:03.961884+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "acea0d16-27b0-49fe-bc73-47ee41178f88",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:37:03.961884+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Gregory Alan Isakov",
+        "id": "acea0d16-27b0-49fe-bc73-47ee41178f88"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:04.035836+00:00",
+      "edition": "original",
+      "id": "e9027660-bb59-4d89-b7fb-c8591726cbe0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "Evening Machines"
+    }
+  ],
+  "verifications": []
+}

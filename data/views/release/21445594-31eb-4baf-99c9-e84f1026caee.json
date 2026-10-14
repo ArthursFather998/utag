@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Tommy Richman",
+    "id": "b057baf5-01df-4028-a086-2845d07f6f5c"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:30.63187+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "6f6bb342-8b6a-4ee5-a014-59756efc5a42",
+      "phash": null,
+      "release_id": "21445594-31eb-4baf-99c9-e84f1026caee",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/21/79/8a217972-c174-a29c-3e53-60359a797124/24CRGIM45582.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "b057baf5-01df-4028-a086-2845d07f6f5c",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:45:30.48433+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "21445594-31eb-4baf-99c9-e84f1026caee",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2024,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "THOUGHT YOU WERE THE ONE - Single",
+    "updated_at": "2026-10-14T00:45:30.48433+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "b057baf5-01df-4028-a086-2845d07f6f5c",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:30.588725+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d55257ef-5f64-4656-9f03-6c7463c75cc4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "21445594-31eb-4baf-99c9-e84f1026caee",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "THOUGHT YOU WERE THE ONE",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:45:30.588725+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,78 @@
+{
+  "artists": {
+    "canonical_name": "Queen",
+    "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Queen",
+        "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
+      },
+      "artwork": [
+        {
+          "id": "3d178b4a-2a86-4402-b425-d39218c4d8fc",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a1f4041b-eac0-4e28-b315-e7b599c8fa06/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:22:26.766996+00:00",
+      "edition": "remaster",
+      "id": "539674b6-013a-485b-863d-a4584ee8fdbc",
+      "label": "Island Records",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "The Game"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T00:45:58.454914+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "648a2394-ddb1-44b1-b6d3-2a263f5ee340",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Unknown Album",
+    "updated_at": "2026-10-14T00:45:58.454914+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:45:58.549417+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "fb6844f8-b5f7-43d7-ae9e-36f0bab26cbf",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "648a2394-ddb1-44b1-b6d3-2a263f5ee340",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Another One Bites The Dust - Remastered 2011",
+      "track_number": null,
+      "updated_at": "2026-10-14T00:45:58.549417+00:00"
+    }
+  ],
+  "verifications": []
+}

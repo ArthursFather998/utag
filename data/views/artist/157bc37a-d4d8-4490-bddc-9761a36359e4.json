@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Alek Olsen",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:47:51.898589+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "157bc37a-d4d8-4490-bddc-9761a36359e4",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:47:51.898589+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Alek Olsen",
+        "id": "157bc37a-d4d8-4490-bddc-9761a36359e4"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:52.031148+00:00",
+      "edition": "original",
+      "id": "d00c1610-04c9-4bc7-9c98-80e98132c3b0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Someday I'll Get It - Single"
+    }
+  ],
+  "verifications": []
+}

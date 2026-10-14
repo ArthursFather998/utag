@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Beach Bunny",
+    "id": "b27b7314-c773-4e9c-a845-eb09c4d2855a"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:58.782817+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "4fea2771-6267-4d47-8b4a-db92334bc2e2",
+      "phash": null,
+      "release_id": "7ea2a9bf-6a35-4479-98fd-e86c4e5c9f3a",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/0c/c4/390cc45e-4a1e-9821-4d14-2ce487d918fd/112177.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "b27b7314-c773-4e9c-a845-eb09c4d2855a",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:38:58.647087+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "7ea2a9bf-6a35-4479-98fd-e86c4e5c9f3a",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2020,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Honeymoon",
+    "updated_at": "2026-10-14T00:38:58.647087+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "b27b7314-c773-4e9c-a845-eb09c4d2855a",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:58.734497+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c4ef76cd-104c-4e14-b4ed-0633d5663261",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7ea2a9bf-6a35-4479-98fd-e86c4e5c9f3a",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Cloud 9",
+      "track_number": 9,
+      "updated_at": "2026-10-14T00:38:58.734497+00:00"
+    }
+  ],
+  "verifications": []
+}

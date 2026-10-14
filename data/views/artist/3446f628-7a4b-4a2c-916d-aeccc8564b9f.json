@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Journey",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:38:04.158419+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "3446f628-7a4b-4a2c-916d-aeccc8564b9f",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:38:04.158419+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Journey",
+        "id": "3446f628-7a4b-4a2c-916d-aeccc8564b9f"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:04.237262+00:00",
+      "edition": "original",
+      "id": "09a4316b-2fe3-48bd-9df1-36b0c7b940c3",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1981,
+      "title": "Escape (2022 Remaster)"
+    }
+  ],
+  "verifications": []
+}

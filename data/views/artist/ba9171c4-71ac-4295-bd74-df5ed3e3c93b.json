@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "The Neighbourhood",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:39:44.338136+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "ba9171c4-71ac-4295-bd74-df5ed3e3c93b",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:39:44.338136+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "The Neighbourhood",
+        "id": "ba9171c4-71ac-4295-bd74-df5ed3e3c93b"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:39:44.415659+00:00",
+      "edition": "original",
+      "id": "aed883df-81ab-4161-8794-85eb7575410a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "I Love You."
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,104 @@
+{
+  "artists": {
+    "canonical_name": "Clairo",
+    "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:06.518344+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "448558e8-7f66-47a5-940f-bf73861d1995",
+      "phash": null,
+      "release_id": "d4d7f426-76d8-476d-adac-dde0865889f6",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/47/06/f24706bc-a90c-f730-bd8a-586ddde8af3e/829299184631.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Clairo",
+        "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:47.197303+00:00",
+      "edition": "original",
+      "id": "86395d6d-018b-478b-bb91-f214c9b13143",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Charm"
+    },
+    {
+      "artists": {
+        "canonical_name": "Clairo",
+        "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:50.386534+00:00",
+      "edition": "original",
+      "id": "b7b0f311-475b-4371-9d62-c75927840676",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "Heaven - Single"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:40:06.36104+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "d4d7f426-76d8-476d-adac-dde0865889f6",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2019,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Immunity",
+    "updated_at": "2026-10-14T00:40:06.36104+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:06.450087+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6a152537-51cc-4202-b3fd-d7b90bfaf531",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d4d7f426-76d8-476d-adac-dde0865889f6",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Sofia",
+      "track_number": 7,
+      "updated_at": "2026-10-14T00:40:06.450087+00:00"
+    }
+  ],
+  "verifications": []
+}

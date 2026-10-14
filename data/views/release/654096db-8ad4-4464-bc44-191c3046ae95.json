@@ -1,0 +1,105 @@
+{
+  "artists": {
+    "canonical_name": "Melanie Martinez",
+    "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:04.612248+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "c8a2be00-6330-44ec-8e36-118276f0974e",
+      "phash": null,
+      "release_id": "654096db-8ad4-4464-bc44-191c3046ae95",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/8a/da/4e8ada12-5602-fc2c-f75b-167697e140d8/075679921369.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Melanie Martinez",
+        "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:10.245749+00:00",
+      "edition": "original",
+      "id": "25d71711-7e1d-42c2-8a6d-14bcbec0449d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2014,
+      "title": "Dollhouse - EP"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:36:04.506339+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "654096db-8ad4-4464-bc44-191c3046ae95",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2015,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Cry Baby (Deluxe Edition)",
+    "updated_at": "2026-10-14T00:36:04.506339+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:14.804388+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6dafedde-0155-4a90-a0be-76b8ab30aa6c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "654096db-8ad4-4464-bc44-191c3046ae95",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Play Date",
+      "track_number": 14,
+      "updated_at": "2026-10-14T00:36:14.804388+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:04.562256+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "338058b3-3cf3-43b7-96bf-66e3a97fdfb4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "654096db-8ad4-4464-bc44-191c3046ae95",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Cake",
+      "track_number": 16,
+      "updated_at": "2026-10-14T00:36:04.562256+00:00"
+    }
+  ],
+  "verifications": []
+}

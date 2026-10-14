@@ -1,0 +1,121 @@
+{
+  "artists": {
+    "canonical_name": "Sabrina Carpenter",
+    "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:11.916917+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "283b6bf7-8fe9-4b18-a813-031effe5be35",
+      "phash": null,
+      "release_id": "363b360f-f095-47d1-b6bb-7c475450edda",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/c0/20/d3c02098-76d0-e40f-0217-157620f9a6d8/23UM1IM32723.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:07.85872+00:00",
+      "edition": "original",
+      "id": "480ad5df-eb81-4cd9-95f1-dd63d15a75c2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "emails i can't send"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:14.944044+00:00",
+      "edition": "original",
+      "id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Manchild - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:26.000004+00:00",
+      "edition": "original",
+      "id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Short n' Sweet"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:47:11.794815+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "363b360f-f095-47d1-b6bb-7c475450edda",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "fruitcake - EP",
+    "updated_at": "2026-10-14T00:47:11.794815+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:11.879697+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e9fb3782-316a-4a2c-858a-fd9de8b7d641",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "363b360f-f095-47d1-b6bb-7c475450edda",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "santa doesnтАЩt know you like i do",
+      "track_number": 3,
+      "updated_at": "2026-10-14T00:47:11.879697+00:00"
+    }
+  ],
+  "verifications": []
+}

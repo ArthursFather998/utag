@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Lil Peep, XXXTENTACION",
+    "id": "c242683f-76b8-442c-a75b-60b4c4c6388e"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "c242683f-76b8-442c-a75b-60b4c4c6388e",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T00:35:52.828301+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "7fd0fbb4-7e30-4f90-8283-8b2d2dd1fe45",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Unknown Album",
+    "updated_at": "2026-10-14T00:35:52.828301+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "c242683f-76b8-442c-a75b-60b4c4c6388e",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:53.023805+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "93a95a1a-84ac-4f3d-934d-8fa21a61cec3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7fd0fbb4-7e30-4f90-8283-8b2d2dd1fe45",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Falling Down - Bonus Track",
+      "track_number": null,
+      "updated_at": "2026-10-14T00:35:53.023805+00:00"
+    }
+  ],
+  "verifications": []
+}

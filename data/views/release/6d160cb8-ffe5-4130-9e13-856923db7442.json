@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Dean Lewis",
+    "id": "52bcafcf-8112-4eaf-a801-d6fa4e8d4de3"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:56.553848+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "1b7cd69c-b240-4e61-93e9-c238dce580de",
+      "phash": null,
+      "release_id": "6d160cb8-ffe5-4130-9e13-856923db7442",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/8f/14/f98f1474-ca16-f2b4-aa07-1f05f7c68540/00602577037429.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Dean Lewis",
+        "id": "52bcafcf-8112-4eaf-a801-d6fa4e8d4de3"
+      },
+      "artwork": [
+        {
+          "id": "6b8dfe15-e6de-4925-a23c-3f9d79ec1202",
+          "role": "canonical",
+          "source_url": "https://i.discogs.com/8XY7pswThZjpGCIQ1YwnBdu-UdL_7D_5QpmsLqB40Co/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMx/NTAyLTE1MzcwOTc0/ODctOTMxOC5qcGVn.jpeg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:56:21.787502+00:00",
+      "edition": "original",
+      "id": "d1e232fe-a7c5-4dcf-858b-db7f188946bb",
+      "label": "Island Records Australia",
+      "release_date": "2018-06-29",
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "Be Alright"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "52bcafcf-8112-4eaf-a801-d6fa4e8d4de3",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:34:56.417619+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "6d160cb8-ffe5-4130-9e13-856923db7442",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2018,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Be Alright (Acoustic) - Single",
+    "updated_at": "2026-10-14T00:34:56.417619+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "52bcafcf-8112-4eaf-a801-d6fa4e8d4de3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:56.500029+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cd42515d-21ec-4bd7-9073-5a95345cacd1",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "6d160cb8-ffe5-4130-9e13-856923db7442",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Be Alright",
+      "track_number": 3,
+      "updated_at": "2026-10-14T00:34:56.500029+00:00"
+    }
+  ],
+  "verifications": []
+}

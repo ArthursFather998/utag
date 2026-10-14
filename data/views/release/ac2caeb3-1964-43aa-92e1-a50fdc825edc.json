@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Lil Uzi Vert",
+    "id": "64bb5f3e-3970-46ee-879b-fd4c3f630c8b"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:42.389778+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "fcdb144c-c8b0-456a-ad4c-acf773166b15",
+      "phash": null,
+      "release_id": "ac2caeb3-1964-43aa-92e1-a50fdc825edc",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e8/f3/b9/e8f3b9fd-979c-7def-e314-13a021dea301/075679711694.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "64bb5f3e-3970-46ee-879b-fd4c3f630c8b",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:42:42.286458+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ac2caeb3-1964-43aa-92e1-a50fdc825edc",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Just Wanna Rock - Single",
+    "updated_at": "2026-10-14T00:42:42.286458+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "64bb5f3e-3970-46ee-879b-fd4c3f630c8b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:42.351706+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a5d2d70c-c2d4-4eb6-bc0d-80f5c94de35d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ac2caeb3-1964-43aa-92e1-a50fdc825edc",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Just Wanna Rock",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:42:42.351706+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Melanie Martinez",
+    "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:10.383314+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "b8f7c747-25ca-4674-8ceb-e7ea050d5e21",
+      "phash": null,
+      "release_id": "25d71711-7e1d-42c2-8a6d-14bcbec0449d",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cd/5e/ef/cd5eef29-56c4-cce5-eff5-4c0d9254f593/075679940780.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Melanie Martinez",
+        "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:04.506339+00:00",
+      "edition": "original",
+      "id": "654096db-8ad4-4464-bc44-191c3046ae95",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "Cry Baby (Deluxe Edition)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:36:10.245749+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "25d71711-7e1d-42c2-8a6d-14bcbec0449d",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2014,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Dollhouse - EP",
+    "updated_at": "2026-10-14T00:36:10.245749+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:10.333229+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "993fa12a-4af8-47cf-8e20-79045ce420de",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "25d71711-7e1d-42c2-8a6d-14bcbec0449d",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Dollhouse",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:36:10.333229+00:00"
+    }
+  ],
+  "verifications": []
+}

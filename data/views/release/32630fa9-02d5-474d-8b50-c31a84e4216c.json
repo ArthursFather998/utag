@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "beabadoobee",
+    "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:48:02.843287+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "19f4ac41-52e1-47c6-a294-7826bb2c8223",
+      "phash": null,
+      "release_id": "32630fa9-02d5-474d-8b50-c31a84e4216c",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/34/72/61347250-fc5e-41f3-76f8-aeceb76350d9/196922537851_Cover.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "beabadoobee",
+        "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:01.228183+00:00",
+      "edition": "original",
+      "id": "51bcee8e-1992-4583-88fa-5cf1c938f83e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Beatopia (The Antidote Edition)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "694d7de4-37a2-4e76-a766-ed7bc8053226",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:48:02.672184+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "32630fa9-02d5-474d-8b50-c31a84e4216c",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "the way things go - Single",
+    "updated_at": "2026-10-14T00:48:02.672184+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "694d7de4-37a2-4e76-a766-ed7bc8053226",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:48:02.772631+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6b04a840-2530-429e-b592-eb7db40b3505",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32630fa9-02d5-474d-8b50-c31a84e4216c",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "the way things go",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:48:02.772631+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Kali Uchis",
+    "id": "7cea6c6c-d802-4c10-a94d-9255ef159eaa"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:56.86514+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "0ef15c6e-f6d0-437b-b4c4-ceff214805b1",
+      "phash": null,
+      "release_id": "a3dcba67-d22c-4e47-81fb-f39e8d13b679",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/90/87/bf/9087bfb6-ba9a-3157-f102-a8829e634e33/23UMGIM03412.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "7cea6c6c-d802-4c10-a94d-9255ef159eaa",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:42:56.725569+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "a3dcba67-d22c-4e47-81fb-f39e8d13b679",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Red Moon In Venus",
+    "updated_at": "2026-10-14T00:42:56.725569+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "7cea6c6c-d802-4c10-a94d-9255ef159eaa",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:56.828523+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7234f778-35a5-4978-b698-356c184c6da4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a3dcba67-d22c-4e47-81fb-f39e8d13b679",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Moonlight",
+      "track_number": 14,
+      "updated_at": "2026-10-14T00:42:56.828523+00:00"
+    }
+  ],
+  "verifications": []
+}

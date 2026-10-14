@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "My Chemical Romance",
+    "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:21.075281+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "85729509-983f-47d0-bc91-c1f8fadc6bde",
+      "phash": null,
+      "release_id": "819376b9-a1c9-41f3-8573-f8ee41c7192e",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:41:20.956352+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "819376b9-a1c9-41f3-8573-f8ee41c7192e",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2006,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "The Black Parade",
+    "updated_at": "2026-10-14T00:41:20.956352+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:40.14008+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b2d39767-244e-4347-b172-542ece0117cc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "819376b9-a1c9-41f3-8573-f8ee41c7192e",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Welcome to the Black Parade",
+      "track_number": 5,
+      "updated_at": "2026-10-14T00:45:40.14008+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:21.040842+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a856545c-ecd8-430f-9fcc-475b91ed6aa6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "819376b9-a1c9-41f3-8573-f8ee41c7192e",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Teenagers",
+      "track_number": 11,
+      "updated_at": "2026-10-14T00:41:21.040842+00:00"
+    }
+  ],
+  "verifications": []
+}

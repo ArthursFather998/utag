@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "AmiiFy",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:44:17.029413+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "17f796d9-9b95-491f-aab4-dbf44d4d7ffc",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:44:17.029413+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "AmiiFy",
+        "id": "17f796d9-9b95-491f-aab4-dbf44d4d7ffc"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:17.13087+00:00",
+      "edition": "original",
+      "id": "8d87a958-e435-4890-b00e-b9f58486c0be",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Something Stupid - Single"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,105 @@
+{
+  "artists": {
+    "canonical_name": "Olivia Rodrigo",
+    "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:15.623356+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "d67ba79e-863e-40cb-b366-6b090f1dd46b",
+      "phash": null,
+      "release_id": "1df4d3a1-242c-475c-a324-deb0d45e75da",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:41.648529+00:00",
+      "edition": "original",
+      "id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "GUTS (spilled)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:43:15.474296+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "1df4d3a1-242c-475c-a324-deb0d45e75da",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2021,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "SOUR",
+    "updated_at": "2026-10-14T00:43:15.474296+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:19.734853+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "95ef9929-a365-4e2e-8faa-7adb3541184c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1df4d3a1-242c-475c-a324-deb0d45e75da",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "traitor",
+      "track_number": 2,
+      "updated_at": "2026-10-14T00:43:19.734853+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:15.580587+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5ad82d37-64a5-44e1-92ab-f1c8f1f85662",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1df4d3a1-242c-475c-a324-deb0d45e75da",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "favorite crime",
+      "track_number": 10,
+      "updated_at": "2026-10-14T00:43:15.580587+00:00"
+    }
+  ],
+  "verifications": []
+}

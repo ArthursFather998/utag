@@ -1,0 +1,56 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Melanie Martinez",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:36:04.387178+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:36:04.387178+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Melanie Martinez",
+        "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:10.245749+00:00",
+      "edition": "original",
+      "id": "25d71711-7e1d-42c2-8a6d-14bcbec0449d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2014,
+      "title": "Dollhouse - EP"
+    },
+    {
+      "artists": {
+        "canonical_name": "Melanie Martinez",
+        "id": "b0f5a207-d08f-49fe-ba02-4880cf3fc2f3"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:04.506339+00:00",
+      "edition": "original",
+      "id": "654096db-8ad4-4464-bc44-191c3046ae95",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "Cry Baby (Deluxe Edition)"
+    }
+  ],
+  "verifications": []
+}

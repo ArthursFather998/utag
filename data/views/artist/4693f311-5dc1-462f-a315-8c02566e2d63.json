@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Glass Animals",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:36:37.930723+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "4693f311-5dc1-462f-a315-8c02566e2d63",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:36:37.930723+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Glass Animals",
+        "id": "4693f311-5dc1-462f-a315-8c02566e2d63"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:38.00577+00:00",
+      "edition": "original",
+      "id": "cf3a0c23-cb1a-4eca-af4d-6c1740b65c2d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "Dreamland"
+    }
+  ],
+  "verifications": []
+}

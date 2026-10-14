@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "SZA",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:43:07.481679+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "fd656a18-a478-4111-9371-9d8fa113df54",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:43:07.481679+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "SZA",
+        "id": "fd656a18-a478-4111-9371-9d8fa113df54"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:07.548909+00:00",
+      "edition": "original",
+      "id": "596aa80f-a122-4d2e-9d38-c6ceff278e36",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "SOS"
+    }
+  ],
+  "verifications": []
+}

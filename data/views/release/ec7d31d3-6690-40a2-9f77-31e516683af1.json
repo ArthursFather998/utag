@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Labrinth",
+    "id": "c43ab760-64af-47eb-bc87-bccc47eae268"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:54.488454+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "e6aedd6f-2142-4e3d-aab8-ffd665cfe7a2",
+      "phash": null,
+      "release_id": "ec7d31d3-6690-40a2-9f77-31e516683af1",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/81/ae/f581ae00-fd31-cc21-2d17-72e93e8d953c/196871037792.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Labrinth",
+        "id": "c43ab760-64af-47eb-bc87-bccc47eae268"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:59.579889+00:00",
+      "edition": "original",
+      "id": "a7f10580-fd95-43fa-a7a0-6e4efb3307fc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "Euphoria (Original Score from the HBO Series)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "c43ab760-64af-47eb-bc87-bccc47eae268",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:36:54.321237+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ec7d31d3-6690-40a2-9f77-31e516683af1",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Ends & Begins",
+    "updated_at": "2026-10-14T00:36:54.321237+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "c43ab760-64af-47eb-bc87-bccc47eae268",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:54.453319+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c17874b5-ed1b-40b6-ad54-99cabdb52bcf",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ec7d31d3-6690-40a2-9f77-31e516683af1",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Never Felt So Alone",
+      "track_number": 7,
+      "updated_at": "2026-10-14T00:36:54.453319+00:00"
+    }
+  ],
+  "verifications": []
+}

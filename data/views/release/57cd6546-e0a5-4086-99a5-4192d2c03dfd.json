@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Michael Jackson",
+    "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:41.36212+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "cfedcd20-7dcd-452d-aaf4-a839444dcbdb",
+      "phash": null,
+      "release_id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/0b/fb/b5/0bfbb592-e2ce-065a-a098-09f55cee22db/dj.iziroksp.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:24.107218+00:00",
+      "edition": "original",
+      "id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1979,
+      "title": "Off the Wall"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "9f9fdce3-6d00-4639-a7c8-1904948816fd",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:34:41.20701+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 1987,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Bad 25th Anniversary",
+    "updated_at": "2026-10-14T00:34:41.20701+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "9f9fdce3-6d00-4639-a7c8-1904948816fd",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:41.309636+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b1bf5a66-a3bf-4a7c-88e5-676954307a3e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Dirty Diana - 2012 Remaster",
+      "track_number": 9,
+      "updated_at": "2026-10-14T00:34:41.309636+00:00"
+    }
+  ],
+  "verifications": []
+}

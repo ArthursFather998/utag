@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Daniel Caesar",
+    "id": "d25772f8-61ce-414a-86ce-2068f839528f"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:41.08008+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "06d2f857-318b-4bb8-8f82-08a3be12c52e",
+      "phash": null,
+      "release_id": "a64093ee-07fd-4a89-b638-b4b00c838536",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/4f/ec/244fec58-ea20-e0b0-eea6-e06c6aff948b/23UMGIM14483.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Daniel Caesar",
+        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
+      },
+      "artwork": [
+        {
+          "id": "9710c427-96bb-4d67-a84a-e8b33905dcb2",
+          "role": "canonical",
+          "source_url": "https://tse1.mm.bing.net/th/id/OIP.zmzIjt_dxMHvd0_W_2yy4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:01:42.49727+00:00",
+      "edition": "deluxe",
+      "id": "d0eeb8cd-7d6a-4761-948c-fe43ad54c500",
+      "label": "Republic Records",
+      "release_date": "2023-04-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "NEVER ENOUGH (Bonus Version)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "d25772f8-61ce-414a-86ce-2068f839528f",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:41:40.944591+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "a64093ee-07fd-4a89-b638-b4b00c838536",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "NEVER ENOUGH",
+    "updated_at": "2026-10-14T00:41:40.944591+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "d25772f8-61ce-414a-86ce-2068f839528f",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:41.026953+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "10932bf4-cd9c-416a-9ef7-53265b2f6332",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a64093ee-07fd-4a89-b638-b4b00c838536",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Superpowers",
+      "track_number": 14,
+      "updated_at": "2026-10-14T00:41:41.026953+00:00"
+    }
+  ],
+  "verifications": []
+}

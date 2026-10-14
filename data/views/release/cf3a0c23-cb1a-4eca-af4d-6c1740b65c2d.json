@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Glass Animals",
+    "id": "4693f311-5dc1-462f-a315-8c02566e2d63"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:38.139029+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "383da204-377c-4cf2-a99d-4d8fd9957055",
+      "phash": null,
+      "release_id": "cf3a0c23-cb1a-4eca-af4d-6c1740b65c2d",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "4693f311-5dc1-462f-a315-8c02566e2d63",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:36:38.00577+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "cf3a0c23-cb1a-4eca-af4d-6c1740b65c2d",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2020,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Dreamland",
+    "updated_at": "2026-10-14T00:36:38.00577+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "4693f311-5dc1-462f-a315-8c02566e2d63",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:38.095326+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "99fe2030-d72d-49a8-9031-db9ebc3d47fc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "cf3a0c23-cb1a-4eca-af4d-6c1740b65c2d",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Heat Waves",
+      "track_number": 14,
+      "updated_at": "2026-10-14T00:36:38.095326+00:00"
+    }
+  ],
+  "verifications": []
+}

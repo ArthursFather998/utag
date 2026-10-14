@@ -1,0 +1,90 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Falling In Reverse",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:35:56.925523+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "a09fe773-1fe4-460c-899c-8378ba53f885",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:35:56.925523+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:45:46.268945+00:00",
+      "edition": "original",
+      "id": "7966cfa7-1d94-48de-9219-89dce5c5b1b9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Drug in Me Is You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:42:52.658105+00:00",
+      "edition": "original",
+      "id": "a27640db-44b4-4dfe-9324-dadd280b1420",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Popular Monster"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:50.42461+00:00",
+      "edition": "original",
+      "id": "9f14dfae-3079-4d48-8f7d-a7aa1e738136",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "The Drug in Me Is You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:57.005493+00:00",
+      "edition": "original",
+      "id": "60891a2e-f0ba-4790-92b1-8aafaf7e6619",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Coming Home"
+    }
+  ],
+  "verifications": []
+}

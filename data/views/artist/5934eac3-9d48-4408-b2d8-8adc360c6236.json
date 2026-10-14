@@ -1,0 +1,56 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Olivia Rodrigo",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:37:41.554558+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:37:41.554558+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:15.474296+00:00",
+      "edition": "original",
+      "id": "1df4d3a1-242c-475c-a324-deb0d45e75da",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "SOUR"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:41.648529+00:00",
+      "edition": "original",
+      "id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "GUTS (spilled)"
+    }
+  ],
+  "verifications": []
+}

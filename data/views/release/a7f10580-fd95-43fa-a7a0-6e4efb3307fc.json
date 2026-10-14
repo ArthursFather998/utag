@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Labrinth",
+    "id": "c43ab760-64af-47eb-bc87-bccc47eae268"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:59.765519+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "9dde09ec-7c26-4fcf-9617-b7aefb2f6f80",
+      "phash": null,
+      "release_id": "a7f10580-fd95-43fa-a7a0-6e4efb3307fc",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/f4/05/6ff40578-72c8-e9ed-5413-96dc4874cc86/886447932223.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Labrinth",
+        "id": "c43ab760-64af-47eb-bc87-bccc47eae268"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:54.321237+00:00",
+      "edition": "original",
+      "id": "ec7d31d3-6690-40a2-9f77-31e516683af1",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Ends & Begins"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "c43ab760-64af-47eb-bc87-bccc47eae268",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:36:59.579889+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "a7f10580-fd95-43fa-a7a0-6e4efb3307fc",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2019,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Euphoria (Original Score from the HBO Series)",
+    "updated_at": "2026-10-14T00:36:59.579889+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "c43ab760-64af-47eb-bc87-bccc47eae268",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:59.666847+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2f083e5d-8942-42f9-b55e-c3ac3a2b3d0c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a7f10580-fd95-43fa-a7a0-6e4efb3307fc",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Still Don t Know My Name (From Euphoria Season 1 Soundtrack)",
+      "track_number": 12,
+      "updated_at": "2026-10-14T00:36:59.666847+00:00"
+    }
+  ],
+  "verifications": []
+}

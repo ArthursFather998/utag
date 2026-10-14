@@ -1,0 +1,157 @@
+{
+  "artists": {
+    "canonical_name": "Sabrina Carpenter",
+    "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:26.130298+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "03477542-b483-45dd-9e28-175b51e426c0",
+      "phash": null,
+      "release_id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:11.794815+00:00",
+      "edition": "original",
+      "id": "363b360f-f095-47d1-b6bb-7c475450edda",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "fruitcake - EP"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:07.85872+00:00",
+      "edition": "original",
+      "id": "480ad5df-eb81-4cd9-95f1-dd63d15a75c2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "emails i can't send"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:14.944044+00:00",
+      "edition": "original",
+      "id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Manchild - Single"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:43:26.000004+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2024,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Short n' Sweet",
+    "updated_at": "2026-10-14T00:43:26.000004+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:32.460862+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "3dd21755-2b75-46fb-bb5a-8ad0f7a82de7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Please Please Please",
+      "track_number": 2,
+      "updated_at": "2026-10-14T00:43:32.460862+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:26.088107+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d44f5841-1924-4ed3-894d-0a42f059070b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Dumb & Poetic",
+      "track_number": 8,
+      "updated_at": "2026-10-14T00:43:26.088107+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:30.325295+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "02595436-a60d-49ca-9d57-eb56a905a170",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Juno",
+      "track_number": 10,
+      "updated_at": "2026-10-14T00:43:30.325295+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Jagged Edge",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:40:21.362742+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "cd07feb2-c1be-40d5-be30-8bef76ecd416",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:40:21.362742+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Jagged Edge",
+        "id": "cd07feb2-c1be-40d5-be30-8bef76ecd416"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:21.465552+00:00",
+      "edition": "original",
+      "id": "31b70502-5a98-4d8f-9159-8ee9b0954cd2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Alicia Keys",
+    "id": "1a8b15f0-42dc-4387-b797-882691ab4814"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:42.015685+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "bfb9dc91-b8a0-416c-a5e4-2767fbd93e45",
+      "phash": null,
+      "release_id": "29529363-ab50-4445-99aa-3ff1928ce504",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/a3/2d/7da32df5-bec0-99fa-1431-5df4d6fd930a/196871575188.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Alicia Keys",
+        "id": "1a8b15f0-42dc-4387-b797-882691ab4814"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:05.318842+00:00",
+      "edition": "original",
+      "id": "a77404b7-0f17-4461-a0a2-e97249e44512",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "As I Am (Expanded Edition)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "1a8b15f0-42dc-4387-b797-882691ab4814",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:45:41.906058+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "29529363-ab50-4445-99aa-3ff1928ce504",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2003,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "The Diary Of Alicia Keys 20",
+    "updated_at": "2026-10-14T00:45:41.906058+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "1a8b15f0-42dc-4387-b797-882691ab4814",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:41.974486+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f8eddddd-e3ed-44ea-aeaa-04f1fa74e2f0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "29529363-ab50-4445-99aa-3ff1928ce504",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "If I Ain t Got You",
+      "track_number": 6,
+      "updated_at": "2026-10-14T00:45:41.974486+00:00"
+    }
+  ],
+  "verifications": []
+}

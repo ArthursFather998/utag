@@ -1,0 +1,215 @@
+{
+  "artists": {
+    "canonical_name": "XXXTENTACION",
+    "id": "ce736950-b03b-4374-99a4-28d48942462d"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:48.04992+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "575a41e5-cb56-4a28-bca3-060930b5d293",
+      "phash": null,
+      "release_id": "fc852547-b359-488a-b23a-7143d9de70c4",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6d/7b/91/6d7b91ed-4820-fc05-0cf1-272f4b25285e/194690007002_cover.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:43:54.228251+00:00",
+      "edition": "original",
+      "id": "1fe514a1-47dd-4418-b340-28fb8974426e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:35.919502+00:00",
+      "edition": "original",
+      "id": "20d53e20-8331-4632-8aa9-39c79bec14aa",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Look At Me! - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:43:49.927842+00:00",
+      "edition": "original",
+      "id": "3a00764d-d483-4d0e-8333-f990d91e234d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "Top of the Morning"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [
+        {
+          "id": "d503bd03-5f76-41f8-88ab-27f67fa850c0",
+          "role": "canonical",
+          "source_url": "https://th.bing.com/th/id/R.703552c0d52f1135f3c49e0102ccc595?rik=Izd1gLVbDZOICg&pid=ImgRaw&r=0",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:49:44.849762+00:00",
+      "edition": "original",
+      "id": "7c98f847-381e-4e71-bc22-a0e75394746c",
+      "label": "Bad Vibes Forever, Empire",
+      "release_date": "2018-12-07",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "SKINS"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:33:39.159675+00:00",
+      "edition": "original",
+      "id": "afe25542-4f3a-4c1c-af7e-8c18e3ccc5f8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "17"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:43:45.331475+00:00",
+      "edition": "original",
+      "id": "dccfa943-c08d-47c1-81f6-c38770d10a23",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "?"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "ce736950-b03b-4374-99a4-28d48942462d",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:34:47.90234+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "fc852547-b359-488a-b23a-7143d9de70c4",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2019,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Bad Vibes Forever",
+    "updated_at": "2026-10-14T00:34:47.90234+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "ce736950-b03b-4374-99a4-28d48942462d",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:54.565844+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f90f48c7-6441-40ed-be0d-349f2397abc4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "fc852547-b359-488a-b23a-7143d9de70c4",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "UGLY",
+      "track_number": 3,
+      "updated_at": "2026-10-14T00:34:54.565844+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "ce736950-b03b-4374-99a4-28d48942462d",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:52.365816+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "befe1424-b4ad-4d06-a15d-5ad45a289a7b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "fc852547-b359-488a-b23a-7143d9de70c4",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Triumph",
+      "track_number": 7,
+      "updated_at": "2026-10-14T00:34:52.365816+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "ce736950-b03b-4374-99a4-28d48942462d",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:47.997332+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b1dc366e-be65-4972-bc2b-df5b34babf5b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "fc852547-b359-488a-b23a-7143d9de70c4",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "HEARTEATER",
+      "track_number": 21,
+      "updated_at": "2026-10-14T00:34:47.997332+00:00"
+    }
+  ],
+  "verifications": []
+}

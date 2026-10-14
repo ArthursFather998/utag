@@ -21,7 +21,42 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Kendrick Lamar",
+        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:30.890999+00:00",
+      "edition": "original",
+      "id": "6d1dd4c0-15e8-4c01-84a2-762e4ed37544",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "To Pimp a Butterfly"
+    },
+    {
+      "artists": {
+        "canonical_name": "Kendrick Lamar",
+        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:31.335205+00:00",
+      "edition": "original",
+      "id": "f0cb2128-3b02-4724-9c35-ee79788b3f53",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Mr. Morale & The Big Steppers"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "15bea733-1991-4a17-8c20-fad1bc73fd6e",

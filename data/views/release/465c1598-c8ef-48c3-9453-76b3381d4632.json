@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "THE ANXIETY, WILLOW, Tyler Cole",
+    "id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:15.580956+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "8e4b770a-670b-41b8-b4f0-a6507bc93956",
+      "phash": null,
+      "release_id": "465c1598-c8ef-48c3-9453-76b3381d4632",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7c/f3/5f/7cf35fde-8160-eaef-7284-480a6541f826/20UMGIM13326.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:45:15.466109+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "465c1598-c8ef-48c3-9453-76b3381d4632",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2020,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "THE ANXIETY",
+    "updated_at": "2026-10-14T00:45:15.466109+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:15.544374+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7c4a1d97-29ee-41dc-b990-40589b86a2ea",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "465c1598-c8ef-48c3-9453-76b3381d4632",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Meet Me At Our Spot",
+      "track_number": 8,
+      "updated_at": "2026-10-14T00:45:15.544374+00:00"
+    }
+  ],
+  "verifications": []
+}

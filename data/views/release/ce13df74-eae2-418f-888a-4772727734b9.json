@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Panic! At The Disco",
+    "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:33:52.972481+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "8c5ba320-5815-45d6-9b75-423d63440652",
+      "phash": null,
+      "release_id": "ce13df74-eae2-418f-888a-4772727734b9",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/d8/5e/07d85ee0-bb20-606f-8da3-523b4bb4a8d3/mzi.stmeokws.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:33:52.878434+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ce13df74-eae2-418f-888a-4772727734b9",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2006,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Live Session (iTunes Exclusive) - Single",
+    "updated_at": "2026-10-14T00:33:52.878434+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:33:52.937934+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a8f10159-0549-4806-b4b7-3c927e25efe5",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ce13df74-eae2-418f-888a-4772727734b9",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "I Write Sins Not Tragedies",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:33:52.937934+00:00"
+    }
+  ],
+  "verifications": []
+}

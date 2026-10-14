@@ -1,0 +1,145 @@
+{
+  "artists": {
+    "canonical_name": "Frank Ocean",
+    "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:39.428893+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
+      "phash": null,
+      "release_id": "c551def0-d56d-445b-bbb3-e499453e4722",
+      "role": "candidate",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [
+        {
+          "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
+          "role": "canonical",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-08T22:52:24.63726+00:00",
+      "edition": "original",
+      "id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "label": "Boys Don't Cry",
+      "release_date": "2016-08-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Blonde"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:12.483628+00:00",
+      "edition": "original",
+      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Blond"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:46.474274+00:00",
+      "edition": "original",
+      "id": "6d545c5b-c656-4980-8d9b-00b08b85fbab",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "channel ORANGE"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:46:42.976885+00:00",
+      "edition": "original",
+      "id": "b2194838-b8c0-4f42-9ed6-e41920d46577",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Internationale Pop-Hits Vol. 1"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T00:35:39.288403+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "c551def0-d56d-445b-bbb3-e499453e4722",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Chanel",
+    "updated_at": "2026-10-14T00:35:39.288403+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:39.379515+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b83e5bbd-da21-4864-9fab-e98bbf80457a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "c551def0-d56d-445b-bbb3-e499453e4722",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Chanel",
+      "track_number": null,
+      "updated_at": "2026-10-14T00:35:39.379515+00:00"
+    }
+  ],
+  "verifications": []
+}

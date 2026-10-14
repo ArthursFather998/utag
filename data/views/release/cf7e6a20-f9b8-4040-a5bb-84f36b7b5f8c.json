@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Michael Jackson",
+    "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:24.214181+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "e9f25828-8258-4b08-ad2a-81222d37ff62",
+      "phash": null,
+      "release_id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/fe/a3/0cfea324-57c1-d530-5248-9bb591bbd7bf/074643574525.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:41.20701+00:00",
+      "edition": "original",
+      "id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1987,
+      "title": "Bad 25th Anniversary"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "9f9fdce3-6d00-4639-a7c8-1904948816fd",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:42:24.107218+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 1979,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Off the Wall",
+    "updated_at": "2026-10-14T00:42:24.107218+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "9f9fdce3-6d00-4639-a7c8-1904948816fd",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:24.186575+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e41ff9bf-7d89-4a79-88ab-bd65ff539e69",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "She s Out of My Life",
+      "track_number": 7,
+      "updated_at": "2026-10-14T00:42:24.186575+00:00"
+    }
+  ],
+  "verifications": []
+}

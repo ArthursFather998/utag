@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Hinder",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:37:09.258616+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "92f98b49-b43b-4609-a555-e0c1c86e5fba",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:37:09.258616+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Hinder",
+        "id": "92f98b49-b43b-4609-a555-e0c1c86e5fba"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:09.384863+00:00",
+      "edition": "original",
+      "id": "e18ca97b-e116-4719-9997-75c2abc25777",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2005,
+      "title": "Extreme Behavior"
+    }
+  ],
+  "verifications": []
+}

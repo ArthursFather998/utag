@@ -1,0 +1,104 @@
+{
+  "artists": {
+    "canonical_name": "Clairo",
+    "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:47.30541+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "40aa78ce-4fcf-4c6f-9f2c-1c7277fec01f",
+      "phash": null,
+      "release_id": "86395d6d-018b-478b-bb91-f214c9b13143",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/8c/19/f78c1951-ced5-fea6-251b-50914d96fd62/00196922948305_Cover.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Clairo",
+        "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:50.386534+00:00",
+      "edition": "original",
+      "id": "b7b0f311-475b-4371-9d62-c75927840676",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "Heaven - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Clairo",
+        "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:06.36104+00:00",
+      "edition": "original",
+      "id": "d4d7f426-76d8-476d-adac-dde0865889f6",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "Immunity"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:35:47.197303+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "86395d6d-018b-478b-bb91-f214c9b13143",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2024,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Charm",
+    "updated_at": "2026-10-14T00:35:47.197303+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:47.279708+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f071c2fd-cf47-4a65-8181-2d6ee5b5d625",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "86395d6d-018b-478b-bb91-f214c9b13143",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Sexy to Someone",
+      "track_number": 2,
+      "updated_at": "2026-10-14T00:35:47.279708+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "sign crushes motorist",
+    "id": "5d415fd9-db59-42a4-99ba-38ed7f9ef331"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:32.727162+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "6e2c9d37-66ff-4965-9753-47a8fba1b5e3",
+      "phash": null,
+      "release_id": "6cdf9c96-a276-4831-bd38-38d8329bb243",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/03/fb/1f/03fb1f21-e97e-ec7a-5a05-7609134e27a7/5063011871446_cover.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "5d415fd9-db59-42a4-99ba-38ed7f9ef331",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:47:32.626983+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "6cdf9c96-a276-4831-bd38-38d8329bb243",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "I'll Be Okay",
+    "updated_at": "2026-10-14T00:47:32.626983+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5d415fd9-db59-42a4-99ba-38ed7f9ef331",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:32.691397+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c26c2e36-d87f-410b-a542-57ca0eedaa69",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "6cdf9c96-a276-4831-bd38-38d8329bb243",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Better",
+      "track_number": 2,
+      "updated_at": "2026-10-14T00:47:32.691397+00:00"
+    }
+  ],
+  "verifications": []
+}

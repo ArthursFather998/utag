@@ -1,0 +1,139 @@
+{
+  "artists": {
+    "canonical_name": "Falling In Reverse",
+    "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:45:46.370136+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "219ed591-946b-46ab-93d3-2189137e52f9",
+      "phash": null,
+      "release_id": "7966cfa7-1d94-48de-9219-89dce5c5b1b9",
+      "role": "candidate",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/1e76209b-199d-47cd-9ee7-01d9c30fea0d/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:57.005493+00:00",
+      "edition": "original",
+      "id": "60891a2e-f0ba-4790-92b1-8aafaf7e6619",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Coming Home"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:50.42461+00:00",
+      "edition": "original",
+      "id": "9f14dfae-3079-4d48-8f7d-a7aa1e738136",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "The Drug in Me Is You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:42:52.658105+00:00",
+      "edition": "original",
+      "id": "a27640db-44b4-4dfe-9324-dadd280b1420",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Popular Monster"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "a09fe773-1fe4-460c-899c-8378ba53f885",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T00:45:46.268945+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "7966cfa7-1d94-48de-9219-89dce5c5b1b9",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "The Drug in Me Is You",
+    "updated_at": "2026-10-14T00:45:46.268945+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "a09fe773-1fe4-460c-899c-8378ba53f885",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:45:56.461996+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b647b46a-44e0-45d0-90c8-637a861763fc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7966cfa7-1d94-48de-9219-89dce5c5b1b9",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Sink Or Swim",
+      "track_number": null,
+      "updated_at": "2026-10-14T00:45:56.461996+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "a09fe773-1fe4-460c-899c-8378ba53f885",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:45:46.328263+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c4e0134e-5443-4648-a19a-7e643d3f5868",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7966cfa7-1d94-48de-9219-89dce5c5b1b9",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Caught Like A Fly",
+      "track_number": null,
+      "updated_at": "2026-10-14T00:45:46.328263+00:00"
+    }
+  ],
+  "verifications": []
+}

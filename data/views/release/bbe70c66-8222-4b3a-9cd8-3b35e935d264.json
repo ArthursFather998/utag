@@ -36,7 +36,25 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:34.014881+00:00",
+      "edition": "original",
+      "id": "3cb05b02-eaa2-4501-9f5c-1f0e04cdf536",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "One-X (Deluxe Edition)"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",

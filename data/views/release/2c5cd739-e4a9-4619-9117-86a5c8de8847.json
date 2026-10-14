@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Navyug, CORBAL & Shiloh Dynasty",
+    "id": "9c4ff40b-65ce-4425-8772-742a04b4b427"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:48:20.93125+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "80648f45-637d-4725-9528-13248c683535",
+      "phash": null,
+      "release_id": "2c5cd739-e4a9-4619-9117-86a5c8de8847",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/6f/4f/496f4fc9-5af8-accd-d5cf-ae5b213961b5/cover.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "9c4ff40b-65ce-4425-8772-742a04b4b427",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:48:20.841437+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "2c5cd739-e4a9-4619-9117-86a5c8de8847",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Broken Hearts Never Heal",
+    "updated_at": "2026-10-14T00:48:20.841437+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "9c4ff40b-65ce-4425-8772-742a04b4b427",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:48:20.908146+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4bd8fa86-bb72-418c-b01a-918b6a4e568a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2c5cd739-e4a9-4619-9117-86a5c8de8847",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "novocaine",
+      "track_number": 7,
+      "updated_at": "2026-10-14T00:48:20.908146+00:00"
+    }
+  ],
+  "verifications": []
+}

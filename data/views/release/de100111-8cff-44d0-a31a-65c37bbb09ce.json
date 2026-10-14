@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Mitski",
+    "id": "108ce558-adbc-4ca7-9974-29c9e66f8d3b"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:01.482711+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "cb0e4836-ea38-44b9-a122-4e47e3bade7f",
+      "phash": null,
+      "release_id": "de100111-8cff-44d0-a31a-65c37bbb09ce",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/4b/40/8f4b4044-d02b-dc25-7d01-7d9d225fdce4/40240.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Mitski",
+        "id": "108ce558-adbc-4ca7-9974-29c9e66f8d3b"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:26.197773+00:00",
+      "edition": "original",
+      "id": "f26d410b-2ca1-4ca3-9984-18d11ead8cfc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2014,
+      "title": "Bury Me At Makeout Creek"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "108ce558-adbc-4ca7-9974-29c9e66f8d3b",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:46:01.365226+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "de100111-8cff-44d0-a31a-65c37bbb09ce",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "The Land Is Inhospitable and So Are We",
+    "updated_at": "2026-10-14T00:46:01.365226+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "108ce558-adbc-4ca7-9974-29c9e66f8d3b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:01.443716+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "44f047e5-421e-4fe5-943e-509a8200cd19",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "de100111-8cff-44d0-a31a-65c37bbb09ce",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "My Love Mine All Mine",
+      "track_number": 7,
+      "updated_at": "2026-10-14T00:46:01.443716+00:00"
+    }
+  ],
+  "verifications": []
+}

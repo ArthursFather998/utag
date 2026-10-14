@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Zann",
+    "id": "169d04db-e9a1-469c-bd84-beddd6b52b71"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:45.337285+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "0f9add3d-3ef5-4e46-ac4f-3b2da184a797",
+      "phash": null,
+      "release_id": "dd126ab5-50d5-40b1-9a89-bd6c1506d9cc",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/95/36/d79536f5-b049-3eca-d79a-129ac3c601de/artwork.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "169d04db-e9a1-469c-bd84-beddd6b52b71",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:41:45.246216+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "dd126ab5-50d5-40b1-9a89-bd6c1506d9cc",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2026,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Need Somebody - Single",
+    "updated_at": "2026-10-14T00:41:45.246216+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "169d04db-e9a1-469c-bd84-beddd6b52b71",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:45.306642+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d78fecaf-c8d8-4d20-a285-e106f6eec8d4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "dd126ab5-50d5-40b1-9a89-bd6c1506d9cc",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Need Somebody",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:41:45.306642+00:00"
+    }
+  ],
+  "verifications": []
+}

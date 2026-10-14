@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Panic! At The Disco",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:33:52.789851+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:33:52.789851+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Panic! At The Disco",
+        "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:33:52.878434+00:00",
+      "edition": "original",
+      "id": "ce13df74-eae2-418f-888a-4772727734b9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "Live Session (iTunes Exclusive) - Single"
+    }
+  ],
+  "verifications": []
+}

@@ -22,6 +22,23 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:02.173819+00:00",
+      "edition": "original",
+      "id": "6b8d6c5b-94ac-42e4-a6dc-9ff4a55d15b9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Apple Music Presents: Tyler, The Creator"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
       "artwork": [
         {
           "id": "d4be92ab-2d74-4ad7-83cd-62e5fd195df3",
@@ -40,6 +57,40 @@
       "release_type": "album",
       "release_year": 2019,
       "title": "IGOR"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:35.070889+00:00",
+      "edition": "original",
+      "id": "98f2ba22-f80d-4b35-908d-5e3692383c31",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "CHROMAKOPIA +"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:17.160569+00:00",
+      "edition": "original",
+      "id": "353c0d91-65a0-457e-a59e-193981314238",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "DON'T TAP THE GLASS"
     }
   ],
   "verifications": []

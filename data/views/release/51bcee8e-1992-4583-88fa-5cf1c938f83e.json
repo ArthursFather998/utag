@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "beabadoobee",
+    "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:01.429063+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "b679230e-b093-4203-a513-8d037c902656",
+      "phash": null,
+      "release_id": "51bcee8e-1992-4583-88fa-5cf1c938f83e",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/13/6b/15136b77-3a59-2f4e-d0ae-588f8d64802b/196922094361_Cover.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "beabadoobee",
+        "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:48:02.672184+00:00",
+      "edition": "original",
+      "id": "32630fa9-02d5-474d-8b50-c31a84e4216c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "the way things go - Single"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "694d7de4-37a2-4e76-a766-ed7bc8053226",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:35:01.228183+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "51bcee8e-1992-4583-88fa-5cf1c938f83e",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Beatopia (The Antidote Edition)",
+    "updated_at": "2026-10-14T00:35:01.228183+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "694d7de4-37a2-4e76-a766-ed7bc8053226",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:01.375282+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "89ecf649-4b67-47e8-b027-45edd9f88b4f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "51bcee8e-1992-4583-88fa-5cf1c938f83e",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "the perfect pair",
+      "track_number": 6,
+      "updated_at": "2026-10-14T00:35:01.375282+00:00"
+    }
+  ],
+  "verifications": []
+}

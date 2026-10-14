@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Laufey",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:35:07.008267+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "81373cf3-1546-4731-80ce-c4d01ef169d2",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:35:07.008267+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Laufey",
+        "id": "81373cf3-1546-4731-80ce-c4d01ef169d2"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:07.081052+00:00",
+      "edition": "original",
+      "id": "5988edcf-0cea-4218-a644-977103d3c529",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "From The Start - Single"
+    }
+  ],
+  "verifications": []
+}

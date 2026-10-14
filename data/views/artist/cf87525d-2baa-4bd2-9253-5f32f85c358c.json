@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Lil Nas X",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:40:40.457727+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "cf87525d-2baa-4bd2-9253-5f32f85c358c",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:40:40.457727+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Lil Nas X",
+        "id": "cf87525d-2baa-4bd2-9253-5f32f85c358c"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:40.574862+00:00",
+      "edition": "original",
+      "id": "a9964f95-3d26-462a-a7e1-7a9aefcedd7b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "MONTERO"
+    }
+  ],
+  "verifications": []
+}

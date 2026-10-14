@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Lana Del Rey",
+    "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:22.016713+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "96eb97d7-9b9b-4dde-9b47-de93055b6be8",
+      "phash": null,
+      "release_id": "6cc7411a-ec03-493d-97ed-b21a50e6b6b9",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/20/8e/b2208e82-df49-5897-139d-39f4cdbc91a9/23UMGIM48049.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Lana Del Rey",
+        "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:17.549706+00:00",
+      "edition": "original",
+      "id": "a65d77f7-8954-4156-ad2f-923d96871bfc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "Born to Die"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "2e62685d-0fc0-4efa-b92d-911e6d29950d",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:43:21.889203+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "6cc7411a-ec03-493d-97ed-b21a50e6b6b9",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Say Yes To Heaven - Single",
+    "updated_at": "2026-10-14T00:43:21.889203+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2e62685d-0fc0-4efa-b92d-911e6d29950d",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:21.988476+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9656ad11-c639-4d89-92d0-67a9e58f27e6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "6cc7411a-ec03-493d-97ed-b21a50e6b6b9",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Say Yes To Heaven",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:43:21.988476+00:00"
+    }
+  ],
+  "verifications": []
+}

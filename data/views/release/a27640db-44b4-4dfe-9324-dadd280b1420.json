@@ -1,0 +1,121 @@
+{
+  "artists": {
+    "canonical_name": "Falling In Reverse",
+    "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:42:52.784868+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "173eb005-04ba-438f-884e-b06f83916913",
+      "phash": null,
+      "release_id": "a27640db-44b4-4dfe-9324-dadd280b1420",
+      "role": "candidate",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/a1465102-4b9c-4a4d-a85b-75d5582324f6/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:57.005493+00:00",
+      "edition": "original",
+      "id": "60891a2e-f0ba-4790-92b1-8aafaf7e6619",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Coming Home"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:45:46.268945+00:00",
+      "edition": "original",
+      "id": "7966cfa7-1d94-48de-9219-89dce5c5b1b9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Drug in Me Is You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:50.42461+00:00",
+      "edition": "original",
+      "id": "9f14dfae-3079-4d48-8f7d-a7aa1e738136",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "The Drug in Me Is You"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "a09fe773-1fe4-460c-899c-8378ba53f885",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T00:42:52.658105+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "a27640db-44b4-4dfe-9324-dadd280b1420",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Popular Monster",
+    "updated_at": "2026-10-14T00:42:52.658105+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "a09fe773-1fe4-460c-899c-8378ba53f885",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:42:52.752727+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "26de0c9b-4ef8-4851-96ac-3a413d80f639",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a27640db-44b4-4dfe-9324-dadd280b1420",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Popular Monster",
+      "track_number": null,
+      "updated_at": "2026-10-14T00:42:52.752727+00:00"
+    }
+  ],
+  "verifications": []
+}

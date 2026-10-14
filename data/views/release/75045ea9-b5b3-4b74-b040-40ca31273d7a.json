@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Don Toliver",
+    "id": "e9f391d8-4e2c-494f-bc1d-7f47984aff86"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:19.677551+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "1721cb03-b317-4422-ae23-46d9e19be2ad",
+      "phash": null,
+      "release_id": "75045ea9-b5b3-4b74-b040-40ca31273d7a",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/3c/5d/223c5d96-501e-040e-a34d-0608e6e5c4ff/075679638434.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "e9f391d8-4e2c-494f-bc1d-7f47984aff86",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:38:19.543933+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "75045ea9-b5b3-4b74-b040-40ca31273d7a",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2024,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "HARDSTONE PSYCHO",
+    "updated_at": "2026-10-14T00:38:19.543933+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "e9f391d8-4e2c-494f-bc1d-7f47984aff86",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:19.616263+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1842ad84-5f98-4048-8b76-e1e048135f14",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "75045ea9-b5b3-4b74-b040-40ca31273d7a",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "TORE UP",
+      "track_number": 2,
+      "updated_at": "2026-10-14T00:38:19.616263+00:00"
+    }
+  ],
+  "verifications": []
+}

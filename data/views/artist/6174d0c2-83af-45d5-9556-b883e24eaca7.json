@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Evanescence",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:37:14.450498+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "6174d0c2-83af-45d5-9556-b883e24eaca7",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:37:14.450498+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Evanescence",
+        "id": "6174d0c2-83af-45d5-9556-b883e24eaca7"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:14.51135+00:00",
+      "edition": "original",
+      "id": "0919983e-f931-4f96-9bd8-13ccee3bc5bb",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2003,
+      "title": "Fallen"
+    }
+  ],
+  "verifications": []
+}

@@ -84,6 +84,23 @@
       "release_type": "album",
       "release_year": 2024,
       "title": "Found Heaven"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray",
+        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:52.981498+00:00",
+      "edition": "original",
+      "id": "a7de0c98-d9b1-4146-bb60-f60e68e518e2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "Astronomy - Single"
     }
   ],
   "release": {
@@ -127,6 +144,24 @@
       "title": "Astronomy",
       "track_number": 5,
       "updated_at": "2026-10-10T16:55:18.748822+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:57.304382+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f175ebea-a6ca-4d79-875b-4313a02bbe50",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9180ca90-1c4f-43be-ae61-c1df585eb530",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Summer Child",
+      "track_number": 9,
+      "updated_at": "2026-10-14T00:44:57.304382+00:00"
     }
   ],
   "verifications": [

@@ -1,0 +1,130 @@
+{
+  "artists": {
+    "canonical_name": "Radiohead",
+    "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:15.490654+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "dba90924-ea53-4eef-8772-242696c119f4",
+      "phash": null,
+      "release_id": "577e78ed-2288-4418-ad13-60d9004e35f1",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
+      "artwork": [
+        {
+          "id": "5437f3e3-878a-4183-a340-d776e6b767d5",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/e9b0f69e-ee3d-36ed-8c12-f8ee65f87e45/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:36:13.93458+00:00",
+      "edition": "original",
+      "id": "a2f6a7ea-ec72-4c6a-9d1b-6b038cc2a153",
+      "label": "XL Recordings",
+      "release_date": "2007-12-31",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "In Rainbows"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:42:15.360867+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "577e78ed-2288-4418-ad13-60d9004e35f1",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 1997,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "OK Computer",
+    "updated_at": "2026-10-14T00:42:15.360867+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:15.446564+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "fd70daed-c32e-4fc8-9475-a1b20c0442d1",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "577e78ed-2288-4418-ad13-60d9004e35f1",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Exit Music (For A Film)",
+      "track_number": 4,
+      "updated_at": "2026-10-14T00:42:15.446564+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:21.89016+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "edf25a90-9b8c-454f-85f7-6378c8373060",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "577e78ed-2288-4418-ad13-60d9004e35f1",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Let Down",
+      "track_number": 5,
+      "updated_at": "2026-10-14T00:42:21.89016+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:19.794593+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f800aa6d-f5c1-4c95-b4a5-f363adee524e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "577e78ed-2288-4418-ad13-60d9004e35f1",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Karma Police",
+      "track_number": 6,
+      "updated_at": "2026-10-14T00:42:19.794593+00:00"
+    }
+  ],
+  "verifications": []
+}

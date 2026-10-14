@@ -1,0 +1,155 @@
+{
+  "artists": {
+    "canonical_name": "Charlie Puth",
+    "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:54.843501+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "297df495-e4ab-40ea-b67e-f4fa6d7324bc",
+      "phash": null,
+      "release_id": "4621d51f-6f2b-42ce-b469-ce292be629ac",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/12/ed/3f12edd3-4f41-6e62-b7e5-9a219ee9703c/075679644206.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:54.040898+00:00",
+      "edition": "original",
+      "id": "0e65cb22-c03c-468f-849d-aff06ce1e36e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "Nine Track Mind (Special Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:39:57.58978+00:00",
+      "edition": "original",
+      "id": "5556ad63-b971-484c-ac1f-690a51cff02e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "I Warned Myself - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:50.327028+00:00",
+      "edition": "original",
+      "id": "6425ff01-84b2-4438-9ec1-96c083f05c80",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Nine Track Mind"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:49.895579+00:00",
+      "edition": "original",
+      "id": "9ed855db-7475-44b3-aa12-9c0056278227",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "Girlfriend - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:31.074894+00:00",
+      "edition": "original",
+      "id": "f84e44f2-af21-45be-a3c4-5da09cc319ec",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "CHARLIE"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "4f42c33d-c27f-4bb8-b633-9737e7783e11",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:38:54.730945+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "4621d51f-6f2b-42ce-b469-ce292be629ac",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2024,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Hero - Single",
+    "updated_at": "2026-10-14T00:38:54.730945+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "4f42c33d-c27f-4bb8-b633-9737e7783e11",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:54.802381+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "8885333a-0892-4e96-930f-5c9cd7357620",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "4621d51f-6f2b-42ce-b469-ce292be629ac",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Hero",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:38:54.802381+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Cafun├й",
+    "id": "19c28028-15bb-40da-859c-87c0f86e4cb7"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:02.29185+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "3ea0a277-a499-4c5a-a6da-a1bc2ad0e3d2",
+      "phash": null,
+      "release_id": "f926951a-915c-4db4-8347-3e1984a57385",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/eb/8b/0ceb8b4e-3e35-ae87-bc73-d854d5ee8f7f/075679747006.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "19c28028-15bb-40da-859c-87c0f86e4cb7",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:43:02.187854+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "f926951a-915c-4db4-8347-3e1984a57385",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2019,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Running",
+    "updated_at": "2026-10-14T00:43:02.187854+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "19c28028-15bb-40da-859c-87c0f86e4cb7",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:02.255965+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5d205863-60af-4b36-8a1d-cdba00ccf11a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f926951a-915c-4db4-8347-3e1984a57385",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Tek It",
+      "track_number": 2,
+      "updated_at": "2026-10-14T00:43:02.255965+00:00"
+    }
+  ],
+  "verifications": []
+}

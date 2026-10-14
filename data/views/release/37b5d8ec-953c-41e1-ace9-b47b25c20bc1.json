@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Escape the Fate",
+    "id": "7a8c0b60-67aa-46df-983f-976385433786"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:43.27225+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "481f97fd-3fc2-4599-8737-7616855bc532",
+      "phash": null,
+      "release_id": "37b5d8ec-953c-41e1-ace9-b47b25c20bc1",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/00/d5/2b/00d52b41-37d7-615c-cd31-43a693666ac1/0045778683260.png/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "7a8c0b60-67aa-46df-983f-976385433786",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:36:43.147033+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "37b5d8ec-953c-41e1-ace9-b47b25c20bc1",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2006,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Dying Is Your Latest Fashion",
+    "updated_at": "2026-10-14T00:36:43.147033+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "7a8c0b60-67aa-46df-983f-976385433786",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:48.403239+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a1b75a58-83b0-4f4a-b452-b5ebd2dcc394",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "37b5d8ec-953c-41e1-ace9-b47b25c20bc1",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "The Webs We Weave",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:36:48.403239+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "7a8c0b60-67aa-46df-983f-976385433786",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:43.23618+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2c299cf1-3d99-4b38-8e09-f79147e2d4bd",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "37b5d8ec-953c-41e1-ace9-b47b25c20bc1",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "My Apocalypse",
+      "track_number": 8,
+      "updated_at": "2026-10-14T00:36:43.23618+00:00"
+    }
+  ],
+  "verifications": []
+}

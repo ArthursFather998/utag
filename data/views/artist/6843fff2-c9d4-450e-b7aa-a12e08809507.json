@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:45:35.716914+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "6843fff2-c9d4-450e-b7aa-a12e08809507",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:45:35.716914+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+        "id": "6843fff2-c9d4-450e-b7aa-a12e08809507"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:45:35.814846+00:00",
+      "edition": "original",
+      "id": "b6d82d80-c0bb-441a-9274-e584f553dcdb",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    }
+  ],
+  "verifications": []
+}

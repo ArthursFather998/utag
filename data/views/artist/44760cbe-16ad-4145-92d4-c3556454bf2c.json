@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Janet Jackson",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:34:18.674133+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "44760cbe-16ad-4145-92d4-c3556454bf2c",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:34:18.674133+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Janet Jackson",
+        "id": "44760cbe-16ad-4145-92d4-c3556454bf2c"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:18.783999+00:00",
+      "edition": "original",
+      "id": "ab6acdc1-cd03-4298-9451-519bc76cef94",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2001,
+      "title": "All For You"
+    }
+  ],
+  "verifications": []
+}

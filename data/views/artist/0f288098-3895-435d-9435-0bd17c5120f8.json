@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Creed",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:38:14.380624+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "0f288098-3895-435d-9435-0bd17c5120f8",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:38:14.380624+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Creed",
+        "id": "0f288098-3895-435d-9435-0bd17c5120f8"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:14.447151+00:00",
+      "edition": "original",
+      "id": "d1b44c59-823c-4cb7-af8f-2e262809283a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2001,
+      "title": "Greatest Hits"
+    }
+  ],
+  "verifications": []
+}

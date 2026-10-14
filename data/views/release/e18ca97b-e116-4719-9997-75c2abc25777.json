@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Hinder",
+    "id": "92f98b49-b43b-4609-a555-e0c1c86e5fba"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:09.511895+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "9e3a9e2d-ffb1-44bc-9e2e-9bae4c36535a",
+      "phash": null,
+      "release_id": "e18ca97b-e116-4719-9997-75c2abc25777",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/96/19/c9/9619c963-3b81-6f84-4839-6fafdbfd5927/06UMGIM25825.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "92f98b49-b43b-4609-a555-e0c1c86e5fba",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:37:09.384863+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "e18ca97b-e116-4719-9997-75c2abc25777",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2005,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Extreme Behavior",
+    "updated_at": "2026-10-14T00:37:09.384863+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "92f98b49-b43b-4609-a555-e0c1c86e5fba",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:09.469052+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "507761f4-00bd-4756-ae2c-f8c4473585ed",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e18ca97b-e116-4719-9997-75c2abc25777",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Lips Of An Angel",
+      "track_number": 8,
+      "updated_at": "2026-10-14T00:37:09.469052+00:00"
+    }
+  ],
+  "verifications": []
+}

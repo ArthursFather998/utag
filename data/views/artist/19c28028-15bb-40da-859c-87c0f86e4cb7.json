@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Cafun├й",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:43:02.104359+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "19c28028-15bb-40da-859c-87c0f86e4cb7",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:43:02.104359+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Cafun├й",
+        "id": "19c28028-15bb-40da-859c-87c0f86e4cb7"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:02.187854+00:00",
+      "edition": "original",
+      "id": "f926951a-915c-4db4-8347-3e1984a57385",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "Running"
+    }
+  ],
+  "verifications": []
+}

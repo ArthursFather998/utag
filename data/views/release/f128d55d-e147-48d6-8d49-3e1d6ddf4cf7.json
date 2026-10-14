@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Corey Hommel",
+    "id": "2630ac53-a271-479c-8602-73610066bd5c"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:25.583135+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "ebbb05b1-370b-4903-ac37-1f346e110646",
+      "phash": null,
+      "release_id": "f128d55d-e147-48d6-8d49-3e1d6ddf4cf7",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/d3/13/9dd313ea-6ede-00c2-43df-b05e2b750eef/artwork.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "2630ac53-a271-479c-8602-73610066bd5c",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:46:25.457812+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "f128d55d-e147-48d6-8d49-3e1d6ddf4cf7",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2017,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Tired of Loving You - Single",
+    "updated_at": "2026-10-14T00:46:25.457812+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2630ac53-a271-479c-8602-73610066bd5c",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:25.543836+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5ad9ba96-cd7f-412c-8c1e-631da3acdd7c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f128d55d-e147-48d6-8d49-3e1d6ddf4cf7",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Tired of Loving You",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:46:25.543836+00:00"
+    }
+  ],
+  "verifications": []
+}

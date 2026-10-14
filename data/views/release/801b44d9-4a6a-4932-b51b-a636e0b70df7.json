@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Mild High Club",
+    "id": "0a5d4a3d-5b3a-4238-8444-e5c572bca356"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:11.675538+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "b08f89fa-96bb-4205-8713-dc5897a8add5",
+      "phash": null,
+      "release_id": "801b44d9-4a6a-4932-b51b-a636e0b70df7",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/b0/c3/69b0c397-dc3c-381f-386e-f7f4a3d9f754/Skiptracing.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "0a5d4a3d-5b3a-4238-8444-e5c572bca356",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:44:11.527723+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "801b44d9-4a6a-4932-b51b-a636e0b70df7",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2016,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Skiptracing",
+    "updated_at": "2026-10-14T00:44:11.527723+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "0a5d4a3d-5b3a-4238-8444-e5c572bca356",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:11.622109+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "991c6ceb-6757-4642-a98d-c91e46470e9c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "801b44d9-4a6a-4932-b51b-a636e0b70df7",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Homage",
+      "track_number": 2,
+      "updated_at": "2026-10-14T00:44:11.622109+00:00"
+    }
+  ],
+  "verifications": []
+}

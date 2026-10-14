@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Stephen Sanchez, Em Beihold",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:34:30.501368+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:34:30.501368+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Stephen Sanchez, Em Beihold",
+        "id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:34:30.581556+00:00",
+      "edition": "original",
+      "id": "cfa53c63-518a-477d-8d8e-801bd70b5dcc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Unknown Album"
+    }
+  ],
+  "verifications": []
+}

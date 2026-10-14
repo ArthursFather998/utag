@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+    "id": "6843fff2-c9d4-450e-b7aa-a12e08809507"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "6843fff2-c9d4-450e-b7aa-a12e08809507",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T00:45:35.814846+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "b6d82d80-c0bb-441a-9274-e584f553dcdb",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Unknown Album",
+    "updated_at": "2026-10-14T00:45:35.814846+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6843fff2-c9d4-450e-b7aa-a12e08809507",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:45:35.874234+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1104af2b-8578-4554-b4e9-daeebb24e30f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b6d82d80-c0bb-441a-9274-e584f553dcdb",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "ThatтАЩs Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - SabrinaтАЩs Version",
+      "track_number": null,
+      "updated_at": "2026-10-14T00:45:35.874234+00:00"
+    }
+  ],
+  "verifications": []
+}

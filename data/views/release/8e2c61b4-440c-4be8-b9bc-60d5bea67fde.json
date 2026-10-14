@@ -1,0 +1,121 @@
+{
+  "artists": {
+    "canonical_name": "Sabrina Carpenter",
+    "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:15.073344+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "ae753d65-9cb2-40a8-b3b7-1d7bce13e9c5",
+      "phash": null,
+      "release_id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c6/58/aec6589c-f5cf-0d81-2727-bc8775e34049/25UMGIM76990.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:11.794815+00:00",
+      "edition": "original",
+      "id": "363b360f-f095-47d1-b6bb-7c475450edda",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "fruitcake - EP"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:07.85872+00:00",
+      "edition": "original",
+      "id": "480ad5df-eb81-4cd9-95f1-dd63d15a75c2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "emails i can't send"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:26.000004+00:00",
+      "edition": "original",
+      "id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Short n' Sweet"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:41:14.944044+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2025,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Manchild - Single",
+    "updated_at": "2026-10-14T00:41:14.944044+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:15.034473+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "38d31fb0-a343-4ef9-9f2f-a4ee7828ac8a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Manchild",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:41:15.034473+00:00"
+    }
+  ],
+  "verifications": []
+}

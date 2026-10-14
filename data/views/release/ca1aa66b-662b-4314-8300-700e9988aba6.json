@@ -1,0 +1,196 @@
+{
+  "artists": {
+    "canonical_name": "Malcolm Todd",
+    "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:00.468354+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "0b0bb91d-3a20-4c74-bbd7-e42cc3f130e6",
+      "phash": null,
+      "release_id": "ca1aa66b-662b-4314-8300-700e9988aba6",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/d8/0e/65d80e2d-d0b2-6baf-e315-66e929e2003e/196873359151.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:39:53.180977+00:00",
+      "edition": "original",
+      "id": "0a754b45-5b98-4139-80cb-eec642f0f34e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "I Saw Your Face - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:07.432718+00:00",
+      "edition": "original",
+      "id": "78ab9828-d05b-4162-961e-1460209c8428",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Hot in NY - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:31.47049+00:00",
+      "edition": "original",
+      "id": "8cbb95cc-4b6b-4a68-93a8-fba965c3f00e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Do That Again"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:02.528713+00:00",
+      "edition": "original",
+      "id": "a80a4f0b-6b30-40ec-96ac-b8f555a6199c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Sweet Boy"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:56.133571+00:00",
+      "edition": "original",
+      "id": "bcde49e2-5aa9-4658-8e26-90bd6d4fa66e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Chest Pain (I Love) - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [
+        {
+          "id": "5d840f06-56f5-4c8e-bcd2-91ed1f88c52b",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/38f1aac7d6b5b0e84ef0a02b4cad77fc/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:54:02.636476+00:00",
+      "edition": "deluxe",
+      "id": "e1506c41-9f7d-4ef9-8e08-7aad742028f6",
+      "label": "Columbia Records",
+      "release_date": "2025-08-08",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Malcolm Todd (still)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:27.130702+00:00",
+      "edition": "original",
+      "id": "f3714fd0-127e-42c7-a854-956ac297546c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Demos Before Prom - EP"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "8fd944d0-486b-4f90-934e-09121d9e0ac2",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:41:00.329321+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ca1aa66b-662b-4314-8300-700e9988aba6",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2025,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Original - Single",
+    "updated_at": "2026-10-14T00:41:00.329321+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "8fd944d0-486b-4f90-934e-09121d9e0ac2",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:00.424136+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "33e08fd4-c99f-4b91-be02-2a97b64e2cf5",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ca1aa66b-662b-4314-8300-700e9988aba6",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Original",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:41:00.424136+00:00"
+    }
+  ],
+  "verifications": []
+}

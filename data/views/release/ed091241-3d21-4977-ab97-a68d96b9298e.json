@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Jason Aldean",
+    "id": "2e72b048-73b6-4c7e-b005-ecf7a5b30461"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:33:47.41625+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "e6c729b7-51c1-420c-bdb0-9fff1eca36a4",
+      "phash": null,
+      "release_id": "ed091241-3d21-4977-ab97-a68d96b9298e",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/0d/4d/4e0d4da8-151e-73be-10e0-1ea4fa76446d/0884977769418.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "2e72b048-73b6-4c7e-b005-ecf7a5b30461",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:33:47.284976+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ed091241-3d21-4977-ab97-a68d96b9298e",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2010,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "My Kinda Party",
+    "updated_at": "2026-10-14T00:33:47.284976+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2e72b048-73b6-4c7e-b005-ecf7a5b30461",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:33:47.380296+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "941dc012-5114-4309-9705-81e478664da5",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ed091241-3d21-4977-ab97-a68d96b9298e",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Dirt Road Anthem",
+      "track_number": 2,
+      "updated_at": "2026-10-14T00:33:47.380296+00:00"
+    }
+  ],
+  "verifications": []
+}

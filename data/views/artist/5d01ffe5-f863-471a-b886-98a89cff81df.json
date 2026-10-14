@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Doja Cat",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:34:24.617305+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "5d01ffe5-f863-471a-b886-98a89cff81df",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:34:24.617305+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Doja Cat",
+        "id": "5d01ffe5-f863-471a-b886-98a89cff81df"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:24.720954+00:00",
+      "edition": "original",
+      "id": "0ca4611c-05c4-4cba-8696-e1cd661757c6",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "Mooo! - Single"
+    }
+  ],
+  "verifications": []
+}

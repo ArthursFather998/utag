@@ -1,0 +1,155 @@
+{
+  "artists": {
+    "canonical_name": "Charlie Puth",
+    "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:54.177924+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "6203a633-f888-4a08-929a-327a215c6feb",
+      "phash": null,
+      "release_id": "0e65cb22-c03c-468f-849d-aff06ce1e36e",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/7f/06/7c/7f067c7b-b798-8e64-70d4-3d32b4456f82/075679906649.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:54.730945+00:00",
+      "edition": "original",
+      "id": "4621d51f-6f2b-42ce-b469-ce292be629ac",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Hero - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:39:57.58978+00:00",
+      "edition": "original",
+      "id": "5556ad63-b971-484c-ac1f-690a51cff02e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "I Warned Myself - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:50.327028+00:00",
+      "edition": "original",
+      "id": "6425ff01-84b2-4438-9ec1-96c083f05c80",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Nine Track Mind"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:49.895579+00:00",
+      "edition": "original",
+      "id": "9ed855db-7475-44b3-aa12-9c0056278227",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "Girlfriend - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:31.074894+00:00",
+      "edition": "original",
+      "id": "f84e44f2-af21-45be-a3c4-5da09cc319ec",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "CHARLIE"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "4f42c33d-c27f-4bb8-b633-9737e7783e11",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:41:54.040898+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "0e65cb22-c03c-468f-849d-aff06ce1e36e",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2015,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Nine Track Mind (Special Edition)",
+    "updated_at": "2026-10-14T00:41:54.040898+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "4f42c33d-c27f-4bb8-b633-9737e7783e11",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:54.14086+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c59323de-1c97-4751-9a4a-6d2cd52b541f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0e65cb22-c03c-468f-849d-aff06ce1e36e",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Some Type of Love",
+      "track_number": 12,
+      "updated_at": "2026-10-14T00:41:54.14086+00:00"
+    }
+  ],
+  "verifications": []
+}

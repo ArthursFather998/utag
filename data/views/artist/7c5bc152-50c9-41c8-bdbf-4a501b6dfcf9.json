@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Nafeesisboujee",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:44:32.06697+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "7c5bc152-50c9-41c8-bdbf-4a501b6dfcf9",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:44:32.06697+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Nafeesisboujee",
+        "id": "7c5bc152-50c9-41c8-bdbf-4a501b6dfcf9"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:44:32.146886+00:00",
+      "edition": "original",
+      "id": "e0319b2f-4b3c-4708-b0e4-a25cbb47fd28",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Indie Winter's Day"
+    }
+  ],
+  "verifications": []
+}

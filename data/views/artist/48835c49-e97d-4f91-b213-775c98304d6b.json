@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Sam Smith",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:40:11.18444+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "48835c49-e97d-4f91-b213-775c98304d6b",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:40:11.18444+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:11.288606+00:00",
+      "edition": "original",
+      "id": "b9c8fc0a-44c1-4314-8473-086943862bc3",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2013,
+      "title": "Nirvana - EP"
+    }
+  ],
+  "verifications": []
+}

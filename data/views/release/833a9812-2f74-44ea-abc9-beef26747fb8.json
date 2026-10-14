@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Elton John, Charlie Puth",
+    "id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:03.207064+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "11d28343-1b01-435c-8837-d7fb4f110d56",
+      "phash": null,
+      "release_id": "833a9812-2f74-44ea-abc9-beef26747fb8",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:34:03.07543+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "833a9812-2f74-44ea-abc9-beef26747fb8",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2021,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "The Lockdown Sessions",
+    "updated_at": "2026-10-14T00:34:03.07543+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:03.168223+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a465a5d6-d0c2-4570-919f-02ed53dd0258",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "833a9812-2f74-44ea-abc9-beef26747fb8",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "After All",
+      "track_number": 4,
+      "updated_at": "2026-10-14T00:34:03.168223+00:00"
+    }
+  ],
+  "verifications": []
+}

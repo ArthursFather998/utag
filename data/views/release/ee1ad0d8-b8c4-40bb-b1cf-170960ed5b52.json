@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Bruno Mars",
+    "id": "3b963255-9870-40ed-8181-8fcc911c02d5"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "3b963255-9870-40ed-8181-8fcc911c02d5",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:46:15.770784+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ee1ad0d8-b8c4-40bb-b1cf-170960ed5b52",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2011,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "The Twilight Saga: Breaking Dawn - Pt. 1 (Original Motion Picture Soundtrack)",
+    "updated_at": "2026-10-14T00:46:15.770784+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3b963255-9870-40ed-8181-8fcc911c02d5",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:15.846101+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e3150734-2a95-4558-871f-6ac0ab711a9b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ee1ad0d8-b8c4-40bb-b1cf-170960ed5b52",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "It Will Rain",
+      "track_number": 3,
+      "updated_at": "2026-10-14T00:46:15.846101+00:00"
+    }
+  ],
+  "verifications": []
+}

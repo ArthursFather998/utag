@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "The Kid LAROI",
+    "id": "a0eb50bd-b9b8-423a-b973-989560f0844b"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:26.003081+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "87166775-8fc9-4813-93f1-c32efba56914",
+      "phash": null,
+      "release_id": "2e3d5861-50cd-4acd-886f-d37ef31b9446",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/f0/ec/0af0ec0a-6899-496d-7b6b-690bbf82bff6/196874338292.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "The Kid LAROI",
+        "id": "a0eb50bd-b9b8-423a-b973-989560f0844b"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:20.507169+00:00",
+      "edition": "original",
+      "id": "e9259f08-931e-40ff-a40e-2b6ff8848248",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Thousand Miles - Single"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "a0eb50bd-b9b8-423a-b973-989560f0844b",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:45:25.88202+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "2e3d5861-50cd-4acd-886f-d37ef31b9446",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "THE FIRST TIME",
+    "updated_at": "2026-10-14T00:45:25.88202+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "a0eb50bd-b9b8-423a-b973-989560f0844b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:25.96566+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ccb189a6-b53b-427a-8bc1-93d2ab0c4b0e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2e3d5861-50cd-4acd-886f-d37ef31b9446",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "WHERE DOES YOUR SPIRIT GO",
+      "track_number": 17,
+      "updated_at": "2026-10-14T00:45:25.96566+00:00"
+    }
+  ],
+  "verifications": []
+}

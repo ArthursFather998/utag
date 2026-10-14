@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "THE ANXIETY, WILLOW, Tyler Cole",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:45:15.351769+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:45:15.351769+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "THE ANXIETY, WILLOW, Tyler Cole",
+        "id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:15.466109+00:00",
+      "edition": "original",
+      "id": "465c1598-c8ef-48c3-9453-76b3381d4632",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "THE ANXIETY"
+    }
+  ],
+  "verifications": []
+}

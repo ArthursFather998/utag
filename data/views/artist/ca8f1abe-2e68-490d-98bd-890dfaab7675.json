@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Lil Peep, rainy bear",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:40:25.753656+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "ca8f1abe-2e68-490d-98bd-890dfaab7675",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:40:25.753656+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Lil Peep, rainy bear",
+        "id": "ca8f1abe-2e68-490d-98bd-890dfaab7675"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:25.827922+00:00",
+      "edition": "original",
+      "id": "1b8f81b5-ef6a-410a-9dd3-5deaa191e3f1",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    }
+  ],
+  "verifications": []
+}

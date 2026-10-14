@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Elton John, Charlie Puth",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:34:03.008431+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:34:03.008431+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Elton John, Charlie Puth",
+        "id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:03.07543+00:00",
+      "edition": "original",
+      "id": "833a9812-2f74-44ea-abc9-beef26747fb8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "The Lockdown Sessions"
+    }
+  ],
+  "verifications": []
+}

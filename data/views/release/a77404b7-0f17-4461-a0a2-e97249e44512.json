@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Alicia Keys",
+    "id": "1a8b15f0-42dc-4387-b797-882691ab4814"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:05.492161+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "84c5d55e-9565-4c9f-9bf1-f0cb0da51773",
+      "phash": null,
+      "release_id": "a77404b7-0f17-4461-a0a2-e97249e44512",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c7/88/df/c788dffe-d06f-8923-ad61-a6194daf6616/888880809919.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Alicia Keys",
+        "id": "1a8b15f0-42dc-4387-b797-882691ab4814"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:41.906058+00:00",
+      "edition": "original",
+      "id": "29529363-ab50-4445-99aa-3ff1928ce504",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2003,
+      "title": "The Diary Of Alicia Keys 20"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "1a8b15f0-42dc-4387-b797-882691ab4814",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:42:05.318842+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "a77404b7-0f17-4461-a0a2-e97249e44512",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2007,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "As I Am (Expanded Edition)",
+    "updated_at": "2026-10-14T00:42:05.318842+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "1a8b15f0-42dc-4387-b797-882691ab4814",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:05.444436+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "026228ec-25f3-46f9-ad7a-b56bac931d2e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a77404b7-0f17-4461-a0a2-e97249e44512",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "No One",
+      "track_number": 4,
+      "updated_at": "2026-10-14T00:42:05.444436+00:00"
+    }
+  ],
+  "verifications": []
+}

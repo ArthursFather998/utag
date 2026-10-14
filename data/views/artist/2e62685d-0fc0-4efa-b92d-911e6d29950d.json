@@ -1,0 +1,56 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Lana Del Rey",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:35:17.438347+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:35:17.438347+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Lana Del Rey",
+        "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:17.549706+00:00",
+      "edition": "original",
+      "id": "a65d77f7-8954-4156-ad2f-923d96871bfc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "Born to Die"
+    },
+    {
+      "artists": {
+        "canonical_name": "Lana Del Rey",
+        "id": "2e62685d-0fc0-4efa-b92d-911e6d29950d"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:21.889203+00:00",
+      "edition": "original",
+      "id": "6cc7411a-ec03-493d-97ed-b21a50e6b6b9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Say Yes To Heaven - Single"
+    }
+  ],
+  "verifications": []
+}

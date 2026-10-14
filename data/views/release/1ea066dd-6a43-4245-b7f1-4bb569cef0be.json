@@ -1,0 +1,105 @@
+{
+  "artists": {
+    "canonical_name": "Olivia Rodrigo",
+    "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:41.765378+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "a1c2f58d-d7f7-4635-be4b-29361192d204",
+      "phash": null,
+      "release_id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:15.474296+00:00",
+      "edition": "original",
+      "id": "1df4d3a1-242c-475c-a324-deb0d45e75da",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "SOUR"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:37:41.648529+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "GUTS (spilled)",
+    "updated_at": "2026-10-14T00:37:41.648529+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:41.733864+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "13ec0cb5-eafa-4691-9a10-1ed4148821a3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "obsessed",
+      "track_number": 13,
+      "updated_at": "2026-10-14T00:37:41.733864+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:46.964008+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "237cb4e0-e2ae-4994-ae25-ffa14bb85a37",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "so american",
+      "track_number": 17,
+      "updated_at": "2026-10-14T00:37:46.964008+00:00"
+    }
+  ],
+  "verifications": []
+}

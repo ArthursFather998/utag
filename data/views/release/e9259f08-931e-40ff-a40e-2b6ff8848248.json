@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "The Kid LAROI",
+    "id": "a0eb50bd-b9b8-423a-b973-989560f0844b"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:20.672641+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "1776e633-0894-4ecd-830a-05435f82e5cf",
+      "phash": null,
+      "release_id": "e9259f08-931e-40ff-a40e-2b6ff8848248",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/94/4a/02/944a0295-40d0-b7ff-993f-0e6e1f2327f8/196589089922.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "The Kid LAROI",
+        "id": "a0eb50bd-b9b8-423a-b973-989560f0844b"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:25.88202+00:00",
+      "edition": "original",
+      "id": "2e3d5861-50cd-4acd-886f-d37ef31b9446",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "THE FIRST TIME"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "a0eb50bd-b9b8-423a-b973-989560f0844b",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:45:20.507169+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "e9259f08-931e-40ff-a40e-2b6ff8848248",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "Thousand Miles - Single",
+    "updated_at": "2026-10-14T00:45:20.507169+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "a0eb50bd-b9b8-423a-b973-989560f0844b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:20.621767+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e9b5c3a8-1db8-4d74-b0dc-3f2def234a6b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e9259f08-931e-40ff-a40e-2b6ff8848248",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "THOUSAND MILES",
+      "track_number": 1,
+      "updated_at": "2026-10-14T00:45:20.621767+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,128 @@
+{
+  "artists": {
+    "canonical_name": "Tyler, The Creator",
+    "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:17.32644+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "97f4eaa5-5a7a-496a-a68c-13a756805e45",
+      "phash": null,
+      "release_id": "353c0d91-65a0-457e-a59e-193981314238",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/2b/93/9e2b93b7-43a9-e814-e0ae-c55a1b7e17d6/196873463513.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:02.173819+00:00",
+      "edition": "original",
+      "id": "6b8d6c5b-94ac-42e4-a6dc-9ff4a55d15b9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Apple Music Presents: Tyler, The Creator"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
+      "artwork": [
+        {
+          "id": "d4be92ab-2d74-4ad7-83cd-62e5fd195df3",
+          "role": "canonical",
+          "source_url": "https://tse1.mm.bing.net/th/id/OIP.Zt-mtYE82VNEnJaIhTPCgAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:39:36.615039+00:00",
+      "edition": "original",
+      "id": "87340af2-8f7b-4b4d-8813-6c276b66fc04",
+      "label": "Columbia",
+      "release_date": "2019-05-17",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "IGOR"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:35.070889+00:00",
+      "edition": "original",
+      "id": "98f2ba22-f80d-4b35-908d-5e3692383c31",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "CHROMAKOPIA +"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:36:17.160569+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "353c0d91-65a0-457e-a59e-193981314238",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2025,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "DON'T TAP THE GLASS",
+    "updated_at": "2026-10-14T00:36:17.160569+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:17.264799+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1340e5d2-4c8a-4894-bdad-700083171aca",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "353c0d91-65a0-457e-a59e-193981314238",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Ring Ring Ring",
+      "track_number": 6,
+      "updated_at": "2026-10-14T00:36:17.264799+00:00"
+    }
+  ],
+  "verifications": []
+}

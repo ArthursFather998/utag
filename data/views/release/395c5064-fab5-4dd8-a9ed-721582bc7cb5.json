@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Lil Nas X, Doja Cat",
+    "id": "10f07475-f24b-4f81-9aa6-a16687a0a67a"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:46.393446+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "1509a9d0-c567-44c7-a9fa-81afbf4855bd",
+      "phash": null,
+      "release_id": "395c5064-fab5-4dd8-a9ed-721582bc7cb5",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/1200x1200bb.jpg",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "10f07475-f24b-4f81-9aa6-a16687a0a67a",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T00:40:46.222106+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "395c5064-fab5-4dd8-a9ed-721582bc7cb5",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2021,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "MONTERO",
+    "updated_at": "2026-10-14T00:40:46.222106+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "10f07475-f24b-4f81-9aa6-a16687a0a67a",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:46.34476+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "512033c7-ede4-4634-b248-b5b55410e735",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "395c5064-fab5-4dd8-a9ed-721582bc7cb5",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "SCOOP (feat. Doja Cat)",
+      "track_number": 6,
+      "updated_at": "2026-10-14T00:40:46.34476+00:00"
+    }
+  ],
+  "verifications": []
+}

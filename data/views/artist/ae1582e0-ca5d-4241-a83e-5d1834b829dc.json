@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Fleetwood Mac",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:38:09.446992+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "ae1582e0-ca5d-4241-a83e-5d1834b829dc",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:38:09.446992+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Fleetwood Mac",
+        "id": "ae1582e0-ca5d-4241-a83e-5d1834b829dc"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:38:09.543147+00:00",
+      "edition": "original",
+      "id": "6748b7c0-1afc-4ded-8312-945b9e101e76",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1987,
+      "title": "Greatest Hits"
+    }
+  ],
+  "verifications": []
+}

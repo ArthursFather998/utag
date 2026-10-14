@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Kali Uchis",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:42:56.650479+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "7cea6c6c-d802-4c10-a94d-9255ef159eaa",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:42:56.650479+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Kali Uchis",
+        "id": "7cea6c6c-d802-4c10-a94d-9255ef159eaa"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:56.725569+00:00",
+      "edition": "original",
+      "id": "a3dcba67-d22c-4e47-81fb-f39e8d13b679",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Red Moon In Venus"
+    }
+  ],
+  "verifications": []
+}

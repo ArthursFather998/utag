@@ -27,6 +27,23 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:46:06.039583+00:00",
+      "edition": "original",
+      "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Lo-Fis"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
       "artwork": [
         {
           "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
@@ -45,6 +62,23 @@
       "release_type": "album",
       "release_year": 2022,
       "title": "Gemini Rights"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:27.99351+00:00",
+      "edition": "original",
+      "id": "a6fa57f3-10da-486c-b6d1-c400e69fbf50",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Oh yeah?"
     }
   ],
   "verifications": []

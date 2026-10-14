@@ -1,0 +1,56 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Juice WRLD",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:37:59.299512+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "f70adeb5-34d8-42bb-a15e-e72c36179655",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:37:59.299512+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Juice WRLD",
+        "id": "f70adeb5-34d8-42bb-a15e-e72c36179655"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:59.374103+00:00",
+      "edition": "original",
+      "id": "8ef3f33c-9ca0-422d-b293-02bb38e3b3ef",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Goodbye & Good Riddance (Anniversary)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Juice WRLD",
+        "id": "f70adeb5-34d8-42bb-a15e-e72c36179655"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:12.316195+00:00",
+      "edition": "original",
+      "id": "04cd2b7c-68cc-486c-a4ec-35e56f73cb9c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "The Party Never Ends 2.0"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,56 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Michael Jackson",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T00:34:41.066598+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T00:34:41.066598+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:24.107218+00:00",
+      "edition": "original",
+      "id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1979,
+      "title": "Off the Wall"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:41.20701+00:00",
+      "edition": "original",
+      "id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1987,
+      "title": "Bad 25th Anniversary"
+    }
+  ],
+  "verifications": []
+}

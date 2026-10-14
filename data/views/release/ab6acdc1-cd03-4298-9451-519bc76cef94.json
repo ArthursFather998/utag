@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Janet Jackson",
+    "id": "44760cbe-16ad-4145-92d4-c3556454bf2c"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:18.887272+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "6225e55f-c385-406a-b9a3-c47c6a04234c",
+      "phash": null,
+      "release_id": "ab6acdc1-cd03-4298-9451-519bc76cef94",
+      "role": "candidate",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ab/25/04ab2585-dd7b-dfed-3afe-86800393a7c2/13ULAIM48853.rgb.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "44760cbe-16ad-4145-92d4-c3556454bf2c",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T00:34:18.783999+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ab6acdc1-cd03-4298-9451-519bc76cef94",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2001,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "All For You",
+    "updated_at": "2026-10-14T00:34:18.783999+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "44760cbe-16ad-4145-92d4-c3556454bf2c",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:18.862551+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b5245646-b549-49ed-8224-6bad68da59ce",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ab6acdc1-cd03-4298-9451-519bc76cef94",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Someone To Call My Lover",
+      "track_number": 15,
+      "updated_at": "2026-10-14T00:34:18.862551+00:00"
+    }
+  ],
+  "verifications": []
+}

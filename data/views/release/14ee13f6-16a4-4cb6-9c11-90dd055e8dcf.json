@@ -1,0 +1,95 @@
+{
+  "artists": {
+    "canonical_name": "Steve Lacy",
+    "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:27.99351+00:00",
+      "edition": "original",
+      "id": "a6fa57f3-10da-486c-b6d1-c400e69fbf50",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Oh yeah?"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
+      "artwork": [
+        {
+          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
+          "role": "canonical",
+          "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T21:00:39.442156+00:00",
+      "edition": "original",
+      "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "label": "RCA Records",
+      "release_date": "2022-07-15",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Gemini Rights"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T00:46:06.039583+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "The Lo-Fis",
+    "updated_at": "2026-10-14T00:46:06.039583+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:46:06.193899+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "08fdc685-ce06-460d-bc68-661f51aa3654",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Infrunami",
+      "track_number": null,
+      "updated_at": "2026-10-14T00:46:06.193899+00:00"
+    }
+  ],
+  "verifications": []
+}

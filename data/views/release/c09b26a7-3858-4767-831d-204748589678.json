@@ -29,6 +29,30 @@
       },
       "artwork": [
         {
+          "id": "8704b83e-d78a-4a84-ba05-03e7d22416db",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/e4712e6a-72ed-4efd-8e2f-18156760dabb/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:03:19.791685+00:00",
+      "edition": "original",
+      "id": "142dc090-7e4b-468c-af1f-57f0405955d5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Oops!... I Did It Again (25th Anniversary Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Britney Spears",
+        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
+      },
+      "artwork": [
+        {
           "id": "36b15833-c19f-4bf0-930e-2cda30dd6583",
           "role": "canonical",
           "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/..._Baby_One_More_Time_%28album%29.png",

@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Bobby Vinton",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T07:02:48.957811+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "d9f28ba9-2a29-4a2c-a264-25f459e301f2",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T07:02:48.957811+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Bobby Vinton",
+        "id": "d9f28ba9-2a29-4a2c-a264-25f459e301f2"
+      },
+      "artwork": [
+        {
+          "id": "b21c30fd-c482-40b5-8ff4-6496ff97a81a",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/f8bb7a54-3635-4419-bb08-51d764fec353/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:02:49.041988+00:00",
+      "edition": "original",
+      "id": "77d0f033-1bc9-4af7-9645-e6933da786bc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Mr. Lonely"
+    }
+  ],
+  "verifications": []
+}

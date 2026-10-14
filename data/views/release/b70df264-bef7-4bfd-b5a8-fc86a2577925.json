@@ -21,7 +21,25 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Mariah Carey",
+        "id": "e4d5bb99-89d5-4d24-9c8a-9553803c50a9"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:02:53.960931+00:00",
+      "edition": "original",
+      "id": "97a446aa-d423-407b-89a8-ddf31100a1cb",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1997,
+      "title": "Hits 98"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "e4d5bb99-89d5-4d24-9c8a-9553803c50a9",

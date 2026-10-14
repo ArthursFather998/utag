@@ -1,0 +1,70 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "The Mar├нas",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T07:03:08.940754+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "39b34e4f-54bf-4e83-b71c-f7853ebc6096",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T07:03:08.940754+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "The Mar├нas",
+        "id": "39b34e4f-54bf-4e83-b71c-f7853ebc6096"
+      },
+      "artwork": [
+        {
+          "id": "f95cd52e-8bc7-40ac-b6e6-0d5097cdbf63",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T07:03:09.514101+00:00",
+      "edition": "original",
+      "id": "1d5ae412-f123-4088-a51f-83832c136ff7",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "No One Noticed (Extended) - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Mar├нas",
+        "id": "39b34e4f-54bf-4e83-b71c-f7853ebc6096"
+      },
+      "artwork": [
+        {
+          "id": "87653a2c-1d43-4b74-b397-0a029f5e9f83",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T07:03:09.019538+00:00",
+      "edition": "original",
+      "id": "75767278-a131-4d82-90a6-2ef33a0c24d7",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Submarine"
+    }
+  ],
+  "verifications": []
+}

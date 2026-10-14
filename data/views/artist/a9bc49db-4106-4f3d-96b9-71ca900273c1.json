@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "The Fleetwoods",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T07:02:45.069982+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "a9bc49db-4106-4f3d-96b9-71ca900273c1",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T07:02:45.069982+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "The Fleetwoods",
+        "id": "a9bc49db-4106-4f3d-96b9-71ca900273c1"
+      },
+      "artwork": [
+        {
+          "id": "4e71fad1-b633-480f-9d86-13b7421d7027",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/555e6be5-7bcf-4f52-94c7-9f7c2bafef71/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:02:45.166291+00:00",
+      "edition": "original",
+      "id": "9c33cdd8-3ad5-43da-8671-7e46cbe44b76",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1975,
+      "title": "Global Chart Toppers"
+    }
+  ],
+  "verifications": []
+}

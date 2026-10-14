@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "One Direction",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T07:03:02.736999+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "a0bdd343-a0e7-49c7-aea1-1c40679c4b8f",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T07:03:02.736999+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "One Direction",
+        "id": "a0bdd343-a0e7-49c7-aea1-1c40679c4b8f"
+      },
+      "artwork": [
+        {
+          "id": "9d556654-b9c9-4c1b-b8a2-3015d654efe5",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/ced6e68b-c3fc-493a-81f7-26aaf0ab3aa8/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:03:02.795633+00:00",
+      "edition": "original",
+      "id": "26963212-01d6-4a0a-b90a-848cde9a39e4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Four"
+    }
+  ],
+  "verifications": []
+}

@@ -48,6 +48,30 @@
       },
       "artwork": [
         {
+          "id": "b090ed15-ee9a-4509-a4f7-2151d3089feb",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/1f5c26d8-504c-4afe-8483-dc4bc45b07ce/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:02:34.563502+00:00",
+      "edition": "original",
+      "id": "94918d70-2084-40b1-86b0-d91932b120fb",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Happier Than Ever: Acapellas"
+    },
+    {
+      "artists": {
+        "canonical_name": "Billie Eilish",
+        "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
+      },
+      "artwork": [
+        {
           "id": "1997b6c4-e66d-4a99-aa51-16349f2f9a61",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/c3/5f/5bc35f2a-4a4e-5225-0e08-720e7fb41ca5/16UMGIM77509.rgb.jpg/1200x1200bb.jpg",

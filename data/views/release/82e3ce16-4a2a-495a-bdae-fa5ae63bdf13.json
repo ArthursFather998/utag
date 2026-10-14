@@ -3,7 +3,23 @@
     "canonical_name": "d4vd",
     "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
   },
-  "artwork": [],
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:53:08.551876+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "8da98646-a2bb-4179-bae8-7b59adf40668",
+      "phash": null,
+      "release_id": "82e3ce16-4a2a-495a-bdae-fa5ae63bdf13",
+      "role": "canonical",
+      "source": "hermes-apple",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/52/c2/9452c207-e879-3725-4a3d-90f04cc0429f/23UMGIM88184.rgb.jpg/600x600bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
   "corrections": [],
   "more_from_artist": [
     {

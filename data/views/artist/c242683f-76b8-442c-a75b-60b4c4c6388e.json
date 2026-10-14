@@ -22,7 +22,14 @@
         "canonical_name": "Lil Peep, XXXTENTACION",
         "id": "c242683f-76b8-442c-a75b-60b4c4c6388e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "dc927486-b9e6-4f3e-aa4f-49162f3df9a2",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/757870ddc1211505769e2be84d165351/500x500-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:52.828301+00:00",
       "edition": "original",

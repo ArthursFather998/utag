@@ -22,7 +22,14 @@
         "canonical_name": "Myla, kobzx2z",
         "id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "dc4539e4-f9c9-4f00-b828-d75c8e716196",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/9dd15599c5bf46f344f85f32509dcabf/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:40.020088+00:00",
       "edition": "original",

@@ -3,7 +3,23 @@
     "canonical_name": "Steve Lacy",
     "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
   },
-  "artwork": [],
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:53:08.551876+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "9bebe8bb-ee5e-4db2-a121-8af24a00867d",
+      "phash": null,
+      "release_id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
+      "role": "canonical",
+      "source": "hermes-deezer",
+      "source_url": "https://cdn-images.dzcdn.net/images/cover/aab27852a05351552e9dcacdbb14ec3a/1000x1000-000000-80-0-0.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
   "corrections": [],
   "more_from_artist": [
     {

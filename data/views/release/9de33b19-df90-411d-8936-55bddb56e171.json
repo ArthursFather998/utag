@@ -3,7 +3,23 @@
     "canonical_name": "Ed Sheeran & Justin Bieber, Justin Bieber",
     "id": "7c923996-2abe-48e2-8079-56173be0531f"
   },
-  "artwork": [],
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:53:08.551876+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "d19fee72-fee4-447b-b3a4-4ce702c641f1",
+      "phash": null,
+      "release_id": "9de33b19-df90-411d-8936-55bddb56e171",
+      "role": "canonical",
+      "source": "hermes-deezer",
+      "source_url": "https://cdn-images.dzcdn.net/images/cover/1d809f545fb9ecea849cf45fc8bcc681/1000x1000-000000-80-0-0.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
   "corrections": [],
   "more_from_artist": [],
   "release": {

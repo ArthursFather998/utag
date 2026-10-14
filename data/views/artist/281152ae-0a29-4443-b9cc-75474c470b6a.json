@@ -22,7 +22,14 @@
         "canonical_name": "Lil Peep",
         "id": "281152ae-0a29-4443-b9cc-75474c470b6a"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c1aab5f4-abad-4bfc-84f0-5f32950195c4",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/e318144ad9a8155c025f24a511f08815/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:44:27.828799+00:00",
       "edition": "original",

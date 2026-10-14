@@ -1184,7 +1184,7 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T01:46:29.525171+00:00",
+  "exported_at": "2026-10-14T01:53:48.432913+00:00",
   "releases": [
     {
       "artists": {
@@ -1578,7 +1578,14 @@
         "canonical_name": "Damiano David, d4vd",
         "id": "11622230-3fb7-498c-a1ac-15700d796cf7"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8ffc3cdd-5e65-43fa-931e-b1cf9ff7dbd1",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/812582837d3006d43ab53535635e3bfb/500x500-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:09.00203+00:00",
       "edition": "original",
@@ -1763,7 +1770,14 @@
         "canonical_name": "WILLOW, Travis Barker",
         "id": "a88e520a-b947-4dc9-aff4-f8952a1ea40d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "009249e2-6e39-4b23-85b6-81c1ebd4728d",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/1cc062f1fcda9ce9e8c09c7322aafb7a/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:47:57.819388+00:00",
       "edition": "original",
@@ -2239,7 +2253,14 @@
         "canonical_name": "Juice WRLD",
         "id": "f70adeb5-34d8-42bb-a15e-e72c36179655"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2dd896cc-fd79-4eb4-b161-4c8a0075d925",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/d0/78/56d07815-71f2-5700-6514-db44613b00fa/24UM1IM10948.rgb.jpg/600x600bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:12.316195+00:00",
       "edition": "original",
@@ -2256,7 +2277,14 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8da98646-a2bb-4179-bae8-7b59adf40668",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/52/c2/9452c207-e879-3725-4a3d-90f04cc0429f/23UMGIM88184.rgb.jpg/600x600bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:09.351065+00:00",
       "edition": "original",
@@ -2273,7 +2301,14 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "9bebe8bb-ee5e-4db2-a121-8af24a00867d",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/aab27852a05351552e9dcacdbb14ec3a/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:46:06.039583+00:00",
       "edition": "original",
@@ -2701,7 +2736,14 @@
         "canonical_name": "Lil Peep",
         "id": "281152ae-0a29-4443-b9cc-75474c470b6a"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "c1aab5f4-abad-4bfc-84f0-5f32950195c4",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/e318144ad9a8155c025f24a511f08815/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:44:27.828799+00:00",
       "edition": "original",
@@ -2838,7 +2880,14 @@
         "canonical_name": "XXXTENTACION",
         "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "5b5507b6-20cc-4852-8d2e-aad77396d4c8",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/ecc0d8db247f46e142b8614007751faa/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:54.228251+00:00",
       "edition": "original",
@@ -2903,7 +2952,14 @@
         "canonical_name": "Myla, kobzx2z",
         "id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "dc4539e4-f9c9-4f00-b828-d75c8e716196",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/9dd15599c5bf46f344f85f32509dcabf/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:40.020088+00:00",
       "edition": "original",
@@ -3160,7 +3216,14 @@
         "canonical_name": "MF DOOM, Pebbles The Invisible Girl",
         "id": "17d48220-77d9-472d-86f4-c02efb797ce4"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "a8d91ea5-b173-4404-898e-3fc9da07bd7e",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/29ceae43498c58159d5afe95fde8b395/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:38.029748+00:00",
       "edition": "original",
@@ -3273,7 +3336,14 @@
         "canonical_name": "Ed Sheeran & Justin Bieber, Justin Bieber",
         "id": "7c923996-2abe-48e2-8079-56173be0531f"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d19fee72-fee4-447b-b3a4-4ce702c641f1",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/1d809f545fb9ecea849cf45fc8bcc681/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:42:11.406222+00:00",
       "edition": "original",
@@ -3732,7 +3802,14 @@
         "canonical_name": "Jagged Edge",
         "id": "cd07feb2-c1be-40d5-be30-8bef76ecd416"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "67fcdb3a-50bb-4392-a165-98f7c6b50da2",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/5a7bedce12f57e199780c05afd7a6e0b/500x500-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:21.465552+00:00",
       "edition": "original",
@@ -4904,7 +4981,14 @@
         "canonical_name": "Lil Peep, XXXTENTACION",
         "id": "c242683f-76b8-442c-a75b-60b4c4c6388e"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "dc927486-b9e6-4f3e-aa4f-49162f3df9a2",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/757870ddc1211505769e2be84d165351/500x500-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:52.828301+00:00",
       "edition": "original",

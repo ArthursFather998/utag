@@ -22,7 +22,14 @@
         "canonical_name": "Damiano David, d4vd",
         "id": "11622230-3fb7-498c-a1ac-15700d796cf7"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "8ffc3cdd-5e65-43fa-931e-b1cf9ff7dbd1",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/812582837d3006d43ab53535635e3bfb/500x500-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T01:01:09.00203+00:00",
       "edition": "original",

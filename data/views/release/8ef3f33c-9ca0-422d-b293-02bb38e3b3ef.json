@@ -27,7 +27,14 @@
         "canonical_name": "Juice WRLD",
         "id": "f70adeb5-34d8-42bb-a15e-e72c36179655"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "2dd896cc-fd79-4eb4-b161-4c8a0075d925",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/d0/78/56d07815-71f2-5700-6514-db44613b00fa/24UM1IM10948.rgb.jpg/600x600bb.jpg",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:12.316195+00:00",
       "edition": "original",

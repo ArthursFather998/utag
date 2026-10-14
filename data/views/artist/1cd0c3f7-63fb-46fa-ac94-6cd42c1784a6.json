@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Eminem",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T06:50:55.321545+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "1cd0c3f7-63fb-46fa-ac94-6cd42c1784a6",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T06:50:55.321545+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Eminem",
+        "id": "1cd0c3f7-63fb-46fa-ac94-6cd42c1784a6"
+      },
+      "artwork": [
+        {
+          "id": "56a1229a-510e-4e35-8351-0d47fafe710d",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/49cc08d6-ff3e-4087-b550-4a4db60d9c37/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:55.393508+00:00",
+      "edition": "original",
+      "id": "93bf700d-eb77-4f01-abfa-fcf412082cfe",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Piece of Mind"
+    }
+  ],
+  "verifications": []
+}

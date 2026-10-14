@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Lil Peep",
+    "id": "281152ae-0a29-4443-b9cc-75474c470b6a"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:42.969366+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "4fff84da-63e1-4ee7-ab11-90c9804a37a2",
+      "phash": null,
+      "release_id": "e5f5fc49-381a-46e8-81a4-535b7b460e1e",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/068b3fb9-e468-4872-81cd-0e8eea12f71f/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Lil Peep",
+        "id": "281152ae-0a29-4443-b9cc-75474c470b6a"
+      },
+      "artwork": [
+        {
+          "id": "c1aab5f4-abad-4bfc-84f0-5f32950195c4",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/e318144ad9a8155c025f24a511f08815/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:44:27.828799+00:00",
+      "edition": "original",
+      "id": "2f6607f1-ba48-43f8-87ef-de9230b0f929",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Star Shopping (Live)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "281152ae-0a29-4443-b9cc-75474c470b6a",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:50:42.740604+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "e5f5fc49-381a-46e8-81a4-535b7b460e1e",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "JUST IN CASE",
+    "updated_at": "2026-10-14T06:50:42.740604+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "281152ae-0a29-4443-b9cc-75474c470b6a",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:42.804905+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "66c68165-77dc-46c6-a120-f48e8bae1305",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e5f5fc49-381a-46e8-81a4-535b7b460e1e",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "JUST IN CASE",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:50:42.804905+00:00"
+    }
+  ],
+  "verifications": []
+}

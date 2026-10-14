@@ -413,6 +413,15 @@
     },
     {
       "aliases": [],
+      "canonical_name": "Eminem",
+      "confidence": "unknown",
+      "genres": [],
+      "id": "1cd0c3f7-63fb-46fa-ac94-6cd42c1784a6",
+      "image_url": null,
+      "release_count": 1
+    },
+    {
+      "aliases": [],
       "canonical_name": "Escape the Fate",
       "confidence": "unknown",
       "genres": [],
@@ -472,7 +481,7 @@
       "genres": [],
       "id": "ae1582e0-ca5d-4241-a83e-5d1834b829dc",
       "image_url": null,
-      "release_count": 1
+      "release_count": 2
     },
     {
       "aliases": [],
@@ -709,7 +718,7 @@
       "genres": [],
       "id": "281152ae-0a29-4443-b9cc-75474c470b6a",
       "image_url": null,
-      "release_count": 1
+      "release_count": 2
     },
     {
       "aliases": [],
@@ -984,7 +993,7 @@
       "genres": [],
       "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
       "image_url": null,
-      "release_count": 3
+      "release_count": 4
     },
     {
       "aliases": [],
@@ -1020,7 +1029,7 @@
       "genres": [],
       "id": "48835c49-e97d-4f91-b213-775c98304d6b",
       "image_url": null,
-      "release_count": 1
+      "release_count": 3
     },
     {
       "aliases": [],
@@ -1310,8 +1319,131 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T06:47:53.637249+00:00",
+  "exported_at": "2026-10-14T06:51:30.184637+00:00",
   "releases": [
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:51:05.560131+00:00",
+      "edition": "original",
+      "id": "77ea53be-2ab0-4a05-9696-812376584bc7",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Hit Mania Spring 2015"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
+      "artwork": [
+        {
+          "id": "5ded328b-be8f-4752-a1d4-b87a4dbef7ad",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c9237ea8-0ae9-4a09-9048-3da6241414a0/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:56.698845+00:00",
+      "edition": "original",
+      "id": "72cf4347-b04c-4eec-9f93-abca4a808aae",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "KlangCafé II"
+    },
+    {
+      "artists": {
+        "canonical_name": "Eminem",
+        "id": "1cd0c3f7-63fb-46fa-ac94-6cd42c1784a6"
+      },
+      "artwork": [
+        {
+          "id": "56a1229a-510e-4e35-8351-0d47fafe710d",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/49cc08d6-ff3e-4087-b550-4a4db60d9c37/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:55.393508+00:00",
+      "edition": "original",
+      "id": "93bf700d-eb77-4f01-abfa-fcf412082cfe",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Piece of Mind"
+    },
+    {
+      "artists": {
+        "canonical_name": "Fleetwood Mac",
+        "id": "ae1582e0-ca5d-4241-a83e-5d1834b829dc"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:53.360098+00:00",
+      "edition": "original",
+      "id": "53fbf8ab-7751-42a8-a126-197b8e8f466b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "WYEP New Music Sampler: Swingin' Tunes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:43.648908+00:00",
+      "edition": "original",
+      "id": "4831f58e-e3cf-4550-8d89-87d4fe74e507",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1997,
+      "title": "1998‐12‐10: Amnesty International Concert, Palais Omisport de Paris Bercy, Paris, France"
+    },
+    {
+      "artists": {
+        "canonical_name": "Lil Peep",
+        "id": "281152ae-0a29-4443-b9cc-75474c470b6a"
+      },
+      "artwork": [
+        {
+          "id": "4fff84da-63e1-4ee7-ab11-90c9804a37a2",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/068b3fb9-e468-4872-81cd-0e8eea12f71f/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:42.740604+00:00",
+      "edition": "original",
+      "id": "e5f5fc49-381a-46e8-81a4-535b7b460e1e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "JUST IN CASE"
+    },
     {
       "artists": {
         "canonical_name": "Daniel Caesar",

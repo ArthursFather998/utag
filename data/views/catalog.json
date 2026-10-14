@@ -1166,7 +1166,7 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T02:39:06.192060+00:00",
+  "exported_at": "2026-10-14T02:40:00.063673+00:00",
   "releases": [
     {
       "artists": {
@@ -2229,7 +2229,14 @@
         "canonical_name": "Queen",
         "id": "46a566e3-2bce-4527-9949-8c8a5d06a0f7"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "7526837a-4f08-47ed-8c5c-203e0c1f4125",
+          "role": "canonical",
+          "source_url": "https://tse3.mm.bing.net/th/id/OIP.8MKH2zx2_p4U53oNtHtA9AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:58.454914+00:00",
       "edition": "original",

@@ -442,16 +442,31 @@ Deno.serve(async (req) => {
 
       let artworkId: string | null = null;
       const artUrl = String(body.art_url || "").trim();
-      if (artUrl && !releaseExisted) {
-        const { data: ins } = await supabase.from("artwork").insert({
-          release_id: releaseId,
-          source_url: artUrl,
-          role: "candidate",
-          source: String(body.art_source || "fixer"),
-          confidence: body.verified ? "high_confidence" : "needs_review",
-          status: body.verified ? "high_confidence" : "needs_review",
-        }).select("id").single();
-        if (ins) artworkId = (ins as { id: string }).id;
+      if (artUrl) {
+        /* Auto-canonical: fixer-detected artwork goes straight to canonical
+           (no manual approval). Demote any existing canonical first. */
+        const { data: existingCanon } = await supabase.from("artwork")
+          .select("id").eq("release_id", releaseId).eq("role", "canonical");
+        const shouldAdd = !releaseExisted || !(existingCanon && existingCanon.length);
+        if (shouldAdd) {
+          const demotedIds: string[] = [];
+          for (const row of (existingCanon || []) as { id: string }[]) {
+            demotedIds.push(row.id);
+            await supabase.from("artwork").update({ role: "alternate" }).eq("id", row.id);
+          }
+          const { data: ins } = await supabase.from("artwork").insert({
+            release_id: releaseId,
+            source_url: artUrl,
+            role: "canonical",
+            source: String(body.art_source || "fixer"),
+            confidence: body.verified ? "high_confidence" : "needs_review",
+            status: body.verified ? "high_confidence" : "needs_review",
+          }).select("id").single();
+          if (ins) {
+            artworkId = (ins as { id: string }).id;
+            await syncRowsToRepo("artwork", demotedIds);
+          }
+        }
       }
 
       const synced: string[] = [];

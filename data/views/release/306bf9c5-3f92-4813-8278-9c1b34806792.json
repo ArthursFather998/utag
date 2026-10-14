@@ -21,7 +21,25 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "The Cranberries",
+        "id": "18c97128-97d9-4cba-864e-3ef32ab3100e"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:53:32.753017+00:00",
+      "edition": "original",
+      "id": "819a4faa-2e80-4748-ba03-c774c49f9d37",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1993,
+      "title": "Radio & TV Sessions, 1991–2017"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "18c97128-97d9-4cba-864e-3ef32ab3100e",

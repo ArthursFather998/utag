@@ -9,6 +9,74 @@
   "releases": [
     {
       "artists": {
+        "canonical_name": "Jeff Buckley",
+        "id": "21abb2e4-d018-445b-8262-8b351dbdb987"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:53:48.357773+00:00",
+      "edition": "original",
+      "id": "093afdc5-4fdc-4370-b3b3-77ece82a19f9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "1995-05-28: Le Spectrum, Montreal, QC, Canada"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:53:43.021746+00:00",
+      "edition": "original",
+      "id": "6735ac63-0082-4c31-883c-6ebf09dc23db",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Hazel Eyes"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Cranberries",
+        "id": "18c97128-97d9-4cba-864e-3ef32ab3100e"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:53:32.753017+00:00",
+      "edition": "original",
+      "id": "819a4faa-2e80-4748-ba03-c774c49f9d37",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1993,
+      "title": "Radio & TV Sessions, 1991–2017"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:53:32.513384+00:00",
+      "edition": "original",
+      "id": "ee89690b-42d2-4263-985e-0be7268e8cfd",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1997,
+      "title": "Live From the 10 Spot"
+    },
+    {
+      "artists": {
         "canonical_name": "Sam Smith",
         "id": "48835c49-e97d-4f91-b213-775c98304d6b"
       },

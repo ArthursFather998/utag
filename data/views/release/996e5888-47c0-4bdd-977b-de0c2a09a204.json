@@ -81,23 +81,6 @@
       },
       "artwork": [],
       "confidence": "high_confidence",
-      "created_at": "2026-10-14T01:02:30.672483+00:00",
-      "edition": "original",
-      "id": "76ba19e7-47bb-4098-8e8c-8f89a4d1911c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2015,
-      "title": "Purpose (Deluxe)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Unknown Artist",
-        "id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:39:10.042315+00:00",
       "edition": "original",
       "id": "a4d282ca-4813-46fb-ba44-c72f6f796db0",
@@ -237,7 +220,7 @@
   "tracks": [
     {
       "apple_id": null,
-      "artist_id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473",
+      "artist_id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
       "confidence": "needs_review",
       "created_at": "2026-10-14T01:02:55.449321+00:00",
       "deezer_id": null,
@@ -249,13 +232,13 @@
       "release_id": "996e5888-47c0-4bdd-977b-de0c2a09a204",
       "spotify_id": null,
       "status": "needs_review",
-      "title": "satan_s pursuit",
+      "title": "Satan's Pursuit",
       "track_number": null,
-      "updated_at": "2026-10-14T01:02:55.449321+00:00"
+      "updated_at": "2026-10-14T01:34:09.621704+00:00"
     },
     {
       "apple_id": null,
-      "artist_id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473",
+      "artist_id": "facc8bc9-a047-45a2-83d9-43c30b443ef2",
       "confidence": "needs_review",
       "created_at": "2026-10-14T00:38:46.508793+00:00",
       "deezer_id": null,
@@ -269,11 +252,11 @@
       "status": "needs_review",
       "title": "SkylerGreen Harlot",
       "track_number": null,
-      "updated_at": "2026-10-14T00:38:46.508793+00:00"
+      "updated_at": "2026-10-14T01:34:09.621704+00:00"
     },
     {
       "apple_id": null,
-      "artist_id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473",
+      "artist_id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
       "confidence": "needs_review",
       "created_at": "2026-10-14T01:02:57.66449+00:00",
       "deezer_id": null,
@@ -285,13 +268,13 @@
       "release_id": "996e5888-47c0-4bdd-977b-de0c2a09a204",
       "spotify_id": null,
       "status": "needs_review",
-      "title": "whoreallycares higher quality",
+      "title": "whoreallycares",
       "track_number": null,
-      "updated_at": "2026-10-14T01:02:57.66449+00:00"
+      "updated_at": "2026-10-14T01:34:09.621704+00:00"
     },
     {
       "apple_id": null,
-      "artist_id": "b3e3678c-ea53-41f6-a76f-ceaa5a6b1473",
+      "artist_id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
       "confidence": "needs_review",
       "created_at": "2026-10-14T01:02:34.854464+00:00",
       "deezer_id": null,
@@ -303,9 +286,9 @@
       "release_id": "996e5888-47c0-4bdd-977b-de0c2a09a204",
       "spotify_id": null,
       "status": "needs_review",
-      "title": "F U.wav",
+      "title": "F U",
       "track_number": null,
-      "updated_at": "2026-10-14T01:02:34.854464+00:00"
+      "updated_at": "2026-10-14T01:34:09.621704+00:00"
     }
   ],
   "verifications": []

@@ -1175,7 +1175,7 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T02:27:38.104497+00:00",
+  "exported_at": "2026-10-14T02:29:08.226003+00:00",
   "releases": [
     {
       "artists": {
@@ -2327,7 +2327,14 @@
         "canonical_name": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
         "id": "6843fff2-c9d4-450e-b7aa-a12e08809507"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "48bf945c-8c03-4faf-ae77-eabd770811fc",
+          "role": "canonical",
+          "source_url": "https://tse1.explicit.bing.net/th/id/OIP.ElzS_xXmSzDtc2BaL_K-qgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:45:35.814846+00:00",
       "edition": "original",

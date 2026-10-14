@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Brent Faiyaz",
+    "id": "8751b493-8c5b-41a3-a591-40848132500d"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:16.218241+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "e7b23b00-db60-47f9-8fda-722ccd187614",
+      "phash": null,
+      "release_id": "a9a59e9d-3d1b-42fe-a220-a688090dc6e8",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/ab0b54e1-49a6-453a-9c54-3a4103d6be73/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Brent Faiyaz",
+        "id": "8751b493-8c5b-41a3-a591-40848132500d"
+      },
+      "artwork": [
+        {
+          "id": "ed04242a-46dd-4f92-947e-102162ff0650",
+          "role": "canonical",
+          "source_url": "https://m.media-amazon.com/images/I/41uDTyyiHfL._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T20:58:34.259362+00:00",
+      "edition": "original",
+      "id": "586c570c-e056-4f5a-84d6-153a640e6c27",
+      "label": "ISO Supremacy",
+      "release_date": "2023-11-29",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Fuck The World"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "8751b493-8c5b-41a3-a591-40848132500d",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:45:16.025993+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "a9a59e9d-3d1b-42fe-a220-a688090dc6e8",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Dead Man Walking",
+    "updated_at": "2026-10-14T06:45:16.025993+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "8751b493-8c5b-41a3-a591-40848132500d",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:16.120179+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cf73ca4d-e406-4800-aca1-4a22baf3c602",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a9a59e9d-3d1b-42fe-a220-a688090dc6e8",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Dead Man Walking",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:45:16.120179+00:00"
+    }
+  ],
+  "verifications": []
+}

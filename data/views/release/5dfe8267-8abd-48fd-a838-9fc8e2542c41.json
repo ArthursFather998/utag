@@ -1,0 +1,87 @@
+{
+  "artists": {
+    "canonical_name": "Fall Out Boy",
+    "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:59.869986+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "1294d87d-c336-4813-9717-9ad499168697",
+      "phash": null,
+      "release_id": "5dfe8267-8abd-48fd-a838-9fc8e2542c41",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/6abcbdbb-986b-4664-9a4d-7cea89a2b747/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Fall Out Boy",
+        "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:37.896401+00:00",
+      "edition": "original",
+      "id": "86d1e28f-e3b2-4dcc-bfab-6996cbaff5f2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2005,
+      "title": "From Under the Cork Tree"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "8ca9f5d0-c528-446b-940c-7b0450424315",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:44:59.711306+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "5dfe8267-8abd-48fd-a838-9fc8e2542c41",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Greatest Hits: Believers Never Die",
+    "updated_at": "2026-10-14T06:44:59.711306+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "8ca9f5d0-c528-446b-940c-7b0450424315",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:59.806894+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2e51631d-20bc-42d8-894d-d5704404f8ef",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5dfe8267-8abd-48fd-a838-9fc8e2542c41",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Dance, Dance",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:44:59.806894+00:00"
+    }
+  ],
+  "verifications": []
+}

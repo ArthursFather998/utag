@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Richy Mitch & The Coal Miners",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T06:45:44.606809+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "3495804f-6c99-450c-8933-dc75aabbfab5",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T06:45:44.606809+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Richy Mitch & The Coal Miners",
+        "id": "3495804f-6c99-450c-8933-dc75aabbfab5"
+      },
+      "artwork": [
+        {
+          "id": "8eee1cb5-753e-4bce-9225-b10eae3a3ab4",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/98ace20c-299b-410a-9c3f-812db17790bf/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:44.678302+00:00",
+      "edition": "original",
+      "id": "4d380295-195f-4cfd-9975-3c85616abe32",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "RMCM"
+    }
+  ],
+  "verifications": []
+}

@@ -92,6 +92,30 @@
       },
       "artwork": [
         {
+          "id": "708457f5-5989-4757-a605-321411d86905",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/031f9b89-8b78-406b-a9b7-a5a014e6bdab/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:28.662539+00:00",
+      "edition": "original",
+      "id": "78c846e2-ea79-4ee2-98eb-fc89493ec43b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Kid Krow"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray",
+        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
+      },
+      "artwork": [
+        {
           "id": "6fd40e82-315a-44c5-9b2e-221968b5f8ed",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/bf/20/1cbf205d-e764-cd6a-6b1b-21b2f94c7bd1/21UMGIM35011.rgb.jpg/1200x1200bb.jpg",

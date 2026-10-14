@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Drake",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T06:45:33.744645+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "0d42a335-eaf9-4030-a92f-60c7c54982aa",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T06:45:33.744645+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Drake",
+        "id": "0d42a335-eaf9-4030-a92f-60c7c54982aa"
+      },
+      "artwork": [
+        {
+          "id": "401db203-4ea6-40ba-bbda-0970ae636714",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0fd96371-ed4c-4646-9d24-8002b23d8bc1/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:33.813543+00:00",
+      "edition": "original",
+      "id": "befb217e-0488-4649-bca7-1727b6919a9b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "ICEMAN"
+    }
+  ],
+  "verifications": []
+}

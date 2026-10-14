@@ -1,0 +1,118 @@
+{
+  "artists": {
+    "canonical_name": "Elvis Presley",
+    "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+  },
+  "artwork": [
+    {
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T06:44:22.152872+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "99c2da30-7f01-4b3c-a192-c5f517ba821f",
+      "phash": null,
+      "release_id": "b4e701c1-a81b-41ce-9f18-9c6ac4a77bc4",
+      "role": "canonical",
+      "source": "Apple Music",
+      "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/63/93/3e6393fb-5fe2-1ef4-1c0d-6452919a351c/828768904824.jpg/1200x1200bb.jpg",
+      "status": "high_confidence",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [
+        {
+          "id": "9958438c-3a92-4d3b-9bdf-321edda10aa4",
+          "role": "canonical",
+          "source_url": "https://www.elvisoncd.com/EIGENECD_a-z/import/T/thecompleteburbanksess21.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-10T01:37:56.175406+00:00",
+      "edition": "original",
+      "id": "5fe029ce-219e-41e2-9499-1184c8e7ba22",
+      "label": "Audifon",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1990,
+      "title": "The Complete Burbank Sessions, Volume 2"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [
+        {
+          "id": "199db2e4-63ef-44ef-b96e-9ccabee7b0cd",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/63/93/3e6393fb-5fe2-1ef4-1c0d-6452919a351c/828768904824.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:50.147919+00:00",
+      "edition": "original",
+      "id": "c6289745-5141-4c62-b099-21004820dcc6",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1963,
+      "title": "The Essential Elvis Presley"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "high_confidence",
+    "country": null,
+    "created_at": "2026-10-14T06:44:21.981005+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "b4e701c1-a81b-41ce-9f18-9c6ac4a77bc4",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 1972,
+    "spotify_id": null,
+    "status": "high_confidence",
+    "title": "The Essential Elvis Presley",
+    "updated_at": "2026-10-14T06:44:21.981005+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T06:44:22.062783+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "230e96c7-ff34-4a73-aca4-5ad1df82f4c3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b4e701c1-a81b-41ce-9f18-9c6ac4a77bc4",
+      "spotify_id": null,
+      "status": "high_confidence",
+      "title": "Burning Love (Alternate Take)",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:44:22.062783+00:00"
+    }
+  ],
+  "verifications": []
+}

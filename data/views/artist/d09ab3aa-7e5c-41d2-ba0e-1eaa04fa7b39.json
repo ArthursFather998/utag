@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Thee Sacred Souls",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T06:44:27.419855+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "d09ab3aa-7e5c-41d2-ba0e-1eaa04fa7b39",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T06:44:27.419855+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Thee Sacred Souls",
+        "id": "d09ab3aa-7e5c-41d2-ba0e-1eaa04fa7b39"
+      },
+      "artwork": [
+        {
+          "id": "876ee259-e38c-4aa5-9628-5fbd6f0a65da",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/79ef5496-5f35-4b88-a5d5-4353e59a474c/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:27.521116+00:00",
+      "edition": "original",
+      "id": "f769983d-e257-40e0-b7cf-b0aeef5b4df9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Thee Sacred Souls"
+    }
+  ],
+  "verifications": []
+}

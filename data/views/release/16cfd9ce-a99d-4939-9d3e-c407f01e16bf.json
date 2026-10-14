@@ -21,7 +21,32 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
+      "artwork": [
+        {
+          "id": "b13a8c5e-e143-4c50-8183-ddbbc17bea32",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c425306a-974c-4ce0-ac82-742c4fa01d1a/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:38.284205+00:00",
+      "edition": "original",
+      "id": "2c54318d-754c-401e-9979-e2ba7e2eda4d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Rise and Fall of a Midwest Princess"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "c58c5255-8800-4097-bb85-09c2cfd685e8",

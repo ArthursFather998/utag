@@ -21,7 +21,32 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Panic! At The Disco",
+        "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9"
+      },
+      "artwork": [
+        {
+          "id": "6ccd53b8-1263-45dc-bff5-1f78beb09186",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0d2fa076-34c5-4c34-ad48-6928706a4778/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:19.757986+00:00",
+      "edition": "original",
+      "id": "d1d49f30-5d1b-4061-97ab-741afdf20006",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Promo Only: Modern Rock Radio, February 2017"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9",

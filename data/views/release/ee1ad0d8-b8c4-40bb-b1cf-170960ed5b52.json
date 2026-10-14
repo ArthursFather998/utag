@@ -21,7 +21,32 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Bruno Mars",
+        "id": "3b963255-9870-40ed-8181-8fcc911c02d5"
+      },
+      "artwork": [
+        {
+          "id": "1f170c92-177c-4b58-a43c-b914187e73c4",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/18b4ec01-4c07-4e23-9775-df2dddda358e/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:12.003957+00:00",
+      "edition": "original",
+      "id": "a6f7ecd8-fea7-483a-915b-fdd7d05cdd36",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Club R&B 2"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "3b963255-9870-40ed-8181-8fcc911c02d5",

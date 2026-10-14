@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "My Chemical Romance",
+    "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:29.532721+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "768c4b35-a636-49a9-b053-963f6f9593e8",
+      "phash": null,
+      "release_id": "2970b4c9-dec2-4f5a-95c3-f9ad76e6387e",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/f6b49beb-841b-4763-8920-ef134c5686f0/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "My Chemical Romance",
+        "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
+      },
+      "artwork": [
+        {
+          "id": "85729509-983f-47d0-bc91-c1f8fadc6bde",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:20.956352+00:00",
+      "edition": "original",
+      "id": "819376b9-a1c9-41f3-8573-f8ee41c7192e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "The Black Parade"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:46:29.417096+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "2970b4c9-dec2-4f5a-95c3-f9ad76e6387e",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Life on the Murder Scene",
+    "updated_at": "2026-10-14T06:46:29.417096+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:29.473896+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "78097e02-7722-4db1-a4e5-034fc017558c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2970b4c9-dec2-4f5a-95c3-f9ad76e6387e",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Helena",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:46:29.473896+00:00"
+    }
+  ],
+  "verifications": []
+}

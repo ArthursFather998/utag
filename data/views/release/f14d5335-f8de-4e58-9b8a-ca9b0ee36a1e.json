@@ -1,0 +1,118 @@
+{
+  "artists": {
+    "canonical_name": "Olivia Rodrigo",
+    "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:20.889593+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "f313e170-7baf-4880-8e7c-1a96329d9ce9",
+      "phash": null,
+      "release_id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/edbf0781-ef14-41d8-9776-8aa04e56b1da/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [
+        {
+          "id": "d67ba79e-863e-40cb-b366-6b090f1dd46b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:15.474296+00:00",
+      "edition": "original",
+      "id": "1df4d3a1-242c-475c-a324-deb0d45e75da",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "SOUR"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [
+        {
+          "id": "a1c2f58d-d7f7-4635-be4b-29361192d204",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:41.648529+00:00",
+      "edition": "original",
+      "id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "GUTS (spilled)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:45:20.750333+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "2025‐01‐30: FireAid",
+    "updated_at": "2026-10-14T06:45:20.750333+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:20.829595+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2d843b6b-2cf6-4f37-9f65-3d2e561a2953",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "deja vu",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:45:20.829595+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,78 @@
+{
+  "artists": {
+    "canonical_name": "Evanescence",
+    "id": "6174d0c2-83af-45d5-9556-b883e24eaca7"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Evanescence",
+        "id": "6174d0c2-83af-45d5-9556-b883e24eaca7"
+      },
+      "artwork": [
+        {
+          "id": "9ac605cf-2902-4fa5-9091-38350ca45c5f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:14.51135+00:00",
+      "edition": "original",
+      "id": "0919983e-f931-4f96-9bd8-13ccee3bc5bb",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2003,
+      "title": "Fallen"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "6174d0c2-83af-45d5-9556-b883e24eaca7",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:44:19.066411+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "d1b71440-7399-432f-b918-cf1068744204",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Fallen",
+    "updated_at": "2026-10-14T06:44:19.066411+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6174d0c2-83af-45d5-9556-b883e24eaca7",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:19.202355+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "fbbb52f4-6be7-4aa1-a94c-819f970174ae",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d1b71440-7399-432f-b918-cf1068744204",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Bring Me To Life (Remastered 2023)",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:44:19.202355+00:00"
+    }
+  ],
+  "verifications": []
+}

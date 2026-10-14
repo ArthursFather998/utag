@@ -1,0 +1,71 @@
+{
+  "artists": {
+    "canonical_name": "Cigarettes After Sex",
+    "id": "caae06c8-6127-4c54-9808-a62dd308481a"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "caae06c8-6127-4c54-9808-a62dd308481a",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:44:53.600825+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "40816e6c-2f2f-4e59-b95a-79a53207be69",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2019,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Cry",
+    "updated_at": "2026-10-14T06:44:53.600825+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "caae06c8-6127-4c54-9808-a62dd308481a",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:27.877272+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "18f17dff-9928-4a78-95dc-e119df7f7c52",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "40816e6c-2f2f-4e59-b95a-79a53207be69",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Heavenly",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:46:27.877272+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "caae06c8-6127-4c54-9808-a62dd308481a",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:53.694896+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7cc0a09d-51c7-4dc5-8494-4f34cd0dc61a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "40816e6c-2f2f-4e59-b95a-79a53207be69",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Cry",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:44:53.694896+00:00"
+    }
+  ],
+  "verifications": []
+}

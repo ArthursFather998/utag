@@ -9,6 +9,800 @@
   "releases": [
     {
       "artists": {
+        "canonical_name": "My Chemical Romance",
+        "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
+      },
+      "artwork": [
+        {
+          "id": "768c4b35-a636-49a9-b053-963f6f9593e8",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/f6b49beb-841b-4763-8920-ef134c5686f0/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:29.417096+00:00",
+      "edition": "original",
+      "id": "2970b4c9-dec2-4f5a-95c3-f9ad76e6387e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Life on the Murder Scene"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray",
+        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
+      },
+      "artwork": [
+        {
+          "id": "708457f5-5989-4757-a605-321411d86905",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/031f9b89-8b78-406b-a9b7-a5a014e6bdab/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:28.662539+00:00",
+      "edition": "original",
+      "id": "78c846e2-ea79-4ee2-98eb-fc89493ec43b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Kid Krow"
+    },
+    {
+      "artists": {
+        "canonical_name": "Bruno Mars",
+        "id": "3b963255-9870-40ed-8181-8fcc911c02d5"
+      },
+      "artwork": [
+        {
+          "id": "1f170c92-177c-4b58-a43c-b914187e73c4",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/18b4ec01-4c07-4e23-9775-df2dddda358e/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:12.003957+00:00",
+      "edition": "original",
+      "id": "a6f7ecd8-fea7-483a-915b-fdd7d05cdd36",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Club R&B 2"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [
+        {
+          "id": "fe036e74-1518-4607-a8c1-1d6c45ffec1a",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/bfc660b5-10d9-4859-8ae8-b8e22e581106/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:10.341729+00:00",
+      "edition": "original",
+      "id": "e63c5871-347c-41c9-84a6-7af6f46568ca",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Vans Warped Tour: 2012 Tour Compilation"
+    },
+    {
+      "artists": {
+        "canonical_name": "Joji",
+        "id": "3825fe8a-25ed-4e94-8cd5-981e1e981736"
+      },
+      "artwork": [
+        {
+          "id": "fb28b053-f322-4e1e-be30-b66a0193f049",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/ceb6fbf2-3add-4ada-9246-56aca20a8ebe/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:07.844334+00:00",
+      "edition": "original",
+      "id": "ae48c2d3-7f8c-4e08-b136-afbf1645616e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "SMITHEREENS"
+    },
+    {
+      "artists": {
+        "canonical_name": "Laufey",
+        "id": "81373cf3-1546-4731-80ce-c4d01ef169d2"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:00.5808+00:00",
+      "edition": "original",
+      "id": "df42b5b0-a84e-4195-88e1-ffb06ba1c04f",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Laufey"
+    },
+    {
+      "artists": {
+        "canonical_name": "AmiiFy",
+        "id": "17f796d9-9b95-491f-aab4-dbf44d4d7ffc"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:59.39484+00:00",
+      "edition": "original",
+      "id": "f26ba911-f511-4f86-9ce6-675731340806",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Moments Before Fall"
+    },
+    {
+      "artists": {
+        "canonical_name": "Mariah Carey",
+        "id": "e4d5bb99-89d5-4d24-9c8a-9553803c50a9"
+      },
+      "artwork": [
+        {
+          "id": "3fee679e-648b-40a1-8c1f-c2f2e1644daf",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/72445176-37e5-479e-ba7f-e1c5f6c16b37/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:54.569197+00:00",
+      "edition": "original",
+      "id": "b70df264-bef7-4bfd-b5a8-fc86a2577925",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Radio Essential Series"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:54.406132+00:00",
+      "edition": "original",
+      "id": "57a5cbd1-e0ec-4518-ad4c-cc7a027aabab",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2013,
+      "title": "Fashionably Late"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:50.213014+00:00",
+      "edition": "original",
+      "id": "47268b43-3622-485d-9c8f-a5bd61488a5a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1995,
+      "title": "Certain Damage! Volume 64"
+    },
+    {
+      "artists": {
+        "canonical_name": "Richy Mitch & The Coal Miners",
+        "id": "3495804f-6c99-450c-8933-dc75aabbfab5"
+      },
+      "artwork": [
+        {
+          "id": "8eee1cb5-753e-4bce-9225-b10eae3a3ab4",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/98ace20c-299b-410a-9c3f-812db17790bf/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:44.678302+00:00",
+      "edition": "original",
+      "id": "4d380295-195f-4cfd-9975-3c85616abe32",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "RMCM"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "1590e749-2a8f-4a11-bb6b-6f26141e8162",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/d24f2e47-b8b6-4e3e-8f7a-e97cc140bc0d/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:42.807992+00:00",
+      "edition": "original",
+      "id": "91ff9eda-6a7a-4726-8faf-f64055263431",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "NPR Music Tiny Desk Concert"
+    },
+    {
+      "artists": {
+        "canonical_name": "Drake",
+        "id": "0d42a335-eaf9-4030-a92f-60c7c54982aa"
+      },
+      "artwork": [
+        {
+          "id": "401db203-4ea6-40ba-bbda-0970ae636714",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0fd96371-ed4c-4646-9d24-8002b23d8bc1/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:33.813543+00:00",
+      "edition": "original",
+      "id": "befb217e-0488-4649-bca7-1727b6919a9b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "ICEMAN"
+    },
+    {
+      "artists": {
+        "canonical_name": "Selena",
+        "id": "f65fdc0e-bc33-473a-9c77-4d6ab2a97e49"
+      },
+      "artwork": [
+        {
+          "id": "e9b8fe86-8c69-461a-92ef-f2e5097413f1",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/24580841-b8dd-43a9-a7df-499c39f3c95f/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:31.594007+00:00",
+      "edition": "original",
+      "id": "aed11512-1db1-4f74-b95e-08ee635a9aba",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Greatest Hits"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [
+        {
+          "id": "f313e170-7baf-4880-8e7c-1a96329d9ce9",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/edbf0781-ef14-41d8-9776-8aa04e56b1da/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:20.750333+00:00",
+      "edition": "original",
+      "id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "2025‐01‐30: FireAid"
+    },
+    {
+      "artists": {
+        "canonical_name": "Panic! At The Disco",
+        "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9"
+      },
+      "artwork": [
+        {
+          "id": "6ccd53b8-1263-45dc-bff5-1f78beb09186",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0d2fa076-34c5-4c34-ad48-6928706a4778/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:19.757986+00:00",
+      "edition": "original",
+      "id": "d1d49f30-5d1b-4061-97ab-741afdf20006",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Promo Only: Modern Rock Radio, February 2017"
+    },
+    {
+      "artists": {
+        "canonical_name": "Brent Faiyaz",
+        "id": "8751b493-8c5b-41a3-a591-40848132500d"
+      },
+      "artwork": [
+        {
+          "id": "e7b23b00-db60-47f9-8fda-722ccd187614",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/ab0b54e1-49a6-453a-9c54-3a4103d6be73/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:16.025993+00:00",
+      "edition": "original",
+      "id": "a9a59e9d-3d1b-42fe-a220-a688090dc6e8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Dead Man Walking"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
+      "artwork": [
+        {
+          "id": "b2d2d4a6-42db-4eea-aec0-aa30f4b12e05",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/6a542593-27bc-42b9-a426-d56658c72648/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:10.061262+00:00",
+      "edition": "original",
+      "id": "014892d7-698a-4b53-9074-75535ba3fc11",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Promo Only: Modern Rock Radio, November 2017"
+    },
+    {
+      "artists": {
+        "canonical_name": "Destiny's Child",
+        "id": "6df7be08-2d11-4f08-ad14-d6b3f5485b53"
+      },
+      "artwork": [
+        {
+          "id": "f570bf57-7b9b-4844-aa38-6780af25ba03",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/59945c04-99df-4dde-95d8-f5673749f39a/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:09.481225+00:00",
+      "edition": "original",
+      "id": "26a8570b-1be1-4023-9068-8b3cdd1118a9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Survivor"
+    },
+    {
+      "artists": {
+        "canonical_name": "Calum Scott",
+        "id": "81ec953f-3ea3-4eb6-9b67-92bd1e121975"
+      },
+      "artwork": [
+        {
+          "id": "89a2f30e-60dc-45b1-af0d-5dad81ab56bb",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/f3bd26d7-a77c-4cc9-9b08-ab097806f891/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:02.780809+00:00",
+      "edition": "original",
+      "id": "bbd2b722-120a-4746-b517-45186a78c312",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Hot Party Winter 2017"
+    },
+    {
+      "artists": {
+        "canonical_name": "Fall Out Boy",
+        "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
+      },
+      "artwork": [
+        {
+          "id": "1294d87d-c336-4813-9717-9ad499168697",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/6abcbdbb-986b-4664-9a4d-7cea89a2b747/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:59.711306+00:00",
+      "edition": "original",
+      "id": "5dfe8267-8abd-48fd-a838-9fc8e2542c41",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Greatest Hits: Believers Never Die"
+    },
+    {
+      "artists": {
+        "canonical_name": "beabadoobee",
+        "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
+      },
+      "artwork": [
+        {
+          "id": "0027836a-1f77-4e8e-9f8f-061b8aadc73e",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/5c19ee4d-089d-4ea0-a8cc-94f338aa2cfb/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:57.370477+00:00",
+      "edition": "original",
+      "id": "9d72c94e-34e3-439a-ad4b-455a463ff9e4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Heartstopper: Official Mixtape"
+    },
+    {
+      "artists": {
+        "canonical_name": "Cigarettes After Sex",
+        "id": "caae06c8-6127-4c54-9808-a62dd308481a"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:53.600825+00:00",
+      "edition": "original",
+      "id": "40816e6c-2f2f-4e59-b95a-79a53207be69",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "Cry"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [
+        {
+          "id": "aad85032-8e77-4470-befa-a909a17cd91c",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/24808e86-5fcc-40db-9ae8-78dddc7dea6f/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:49.686348+00:00",
+      "edition": "original",
+      "id": "9b29befd-ab25-459b-8f8a-edf7b59d8e46",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Malcolm Todd"
+    },
+    {
+      "artists": {
+        "canonical_name": "Malcolm Todd",
+        "id": "8fd944d0-486b-4f90-934e-09121d9e0ac2"
+      },
+      "artwork": [
+        {
+          "id": "1a3c7879-2b5c-4bdb-847e-189d31d0f3b5",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/1c8f41c9-0461-4d01-b4b3-8dbf6691f0d6/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:48.704408+00:00",
+      "edition": "original",
+      "id": "304b3473-f5c4-4c35-ba44-15cab906c31c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Comfort Me"
+    },
+    {
+      "artists": {
+        "canonical_name": "Billie Eilish",
+        "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
+      },
+      "artwork": [
+        {
+          "id": "ff5a2d6a-c75d-43b0-9d3f-04c686dfcc20",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/28a698b6-4bcd-4d97-a1ff-c3c676537d1f/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:46.245183+00:00",
+      "edition": "original",
+      "id": "67f91bb2-5001-40d0-93bb-fabfafcf5a92",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "HIT ME HARD AND SOFT: THE TOUR (LIVE)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
+      "artwork": [
+        {
+          "id": "b13a8c5e-e143-4c50-8183-ddbbc17bea32",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c425306a-974c-4ce0-ac82-742c4fa01d1a/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:38.284205+00:00",
+      "edition": "original",
+      "id": "2c54318d-754c-401e-9979-e2ba7e2eda4d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Rise and Fall of a Midwest Princess"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [
+        {
+          "id": "88e120a2-451d-403f-81e2-002c97669e75",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/dd9267f3-d531-4305-8f4f-f6be4d436c69/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:37.08371+00:00",
+      "edition": "original",
+      "id": "9d02ec47-15f1-473a-b2a5-7246a3deb91f",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "2010s RAP HITS : 2014-2020 Era"
+    },
+    {
+      "artists": {
+        "canonical_name": "lucille",
+        "id": "d939c279-122e-41c9-9b81-6ae2f68b515f"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:36.277321+00:00",
+      "edition": "original",
+      "id": "eefa944f-04f3-41af-b6f6-566ef5af8fb5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "SHATTER"
+    },
+    {
+      "artists": {
+        "canonical_name": "*NSYNC",
+        "id": "3afcb6dc-5835-4961-9d57-dc50044f269c"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:27.612477+00:00",
+      "edition": "original",
+      "id": "f7c8ef2e-76e3-4b61-a311-3e537318a828",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2014,
+      "title": "Live From Madison Square Garden"
+    },
+    {
+      "artists": {
+        "canonical_name": "Thee Sacred Souls",
+        "id": "d09ab3aa-7e5c-41d2-ba0e-1eaa04fa7b39"
+      },
+      "artwork": [
+        {
+          "id": "876ee259-e38c-4aa5-9628-5fbd6f0a65da",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/79ef5496-5f35-4b88-a5d5-4353e59a474c/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:27.521116+00:00",
+      "edition": "original",
+      "id": "f769983d-e257-40e0-b7cf-b0aeef5b4df9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Thee Sacred Souls"
+    },
+    {
+      "artists": {
+        "canonical_name": "Evanescence",
+        "id": "6174d0c2-83af-45d5-9556-b883e24eaca7"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:19.066411+00:00",
+      "edition": "original",
+      "id": "d1b71440-7399-432f-b918-cf1068744204",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Fallen"
+    },
+    {
+      "artists": {
+        "canonical_name": "Looking Glass",
+        "id": "2408b0dc-6fda-41e8-8d90-9c4419edcdb7"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:17.239341+00:00",
+      "edition": "original",
+      "id": "d6662819-fdaf-4017-931b-7ca12d665877",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "TM Century: GoldDisc 303"
+    },
+    {
+      "artists": {
+        "canonical_name": "Dominic Fike",
+        "id": "2bb78766-50a0-44a6-8a1b-299945b8de20"
+      },
+      "artwork": [
+        {
+          "id": "7e6d283d-95cc-42ef-8da9-52948e80d77d",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a7062e54-2682-4aeb-b56f-976261f73a99/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:15.265397+00:00",
+      "edition": "original",
+      "id": "e53d3512-9951-4654-b50f-e79e483b6fc5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Now That’s What I Call Music! 123"
+    },
+    {
+      "artists": {
+        "canonical_name": "Billie Eilish",
+        "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
+      },
+      "artwork": [
+        {
+          "id": "08d2d63e-ddf5-44b6-ae23-85aaae8fc8c9",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a821d9c4-b5a1-4779-8873-83d2bb8e086f/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:43:58.975479+00:00",
+      "edition": "original",
+      "id": "214b53e4-595d-4fa6-aeb2-36e38aea7873",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "LUNCH"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION & Matt OX",
+        "id": "8f3fbf40-91d7-4987-a9dd-05ae3a9ccd48"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:43:57.177752+00:00",
+      "edition": "original",
+      "id": "b3fec7db-d1c6-4004-9f0c-e5f68d2ee304",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "17"
+    },
+    {
+      "artists": {
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },

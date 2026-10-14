@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "XXXTENTACION & Matt OX",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T06:43:57.065821+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "8f3fbf40-91d7-4987-a9dd-05ae3a9ccd48",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T06:43:57.065821+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION & Matt OX",
+        "id": "8f3fbf40-91d7-4987-a9dd-05ae3a9ccd48"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:43:57.177752+00:00",
+      "edition": "original",
+      "id": "b3fec7db-d1c6-4004-9f0c-e5f68d2ee304",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "17"
+    }
+  ],
+  "verifications": []
+}

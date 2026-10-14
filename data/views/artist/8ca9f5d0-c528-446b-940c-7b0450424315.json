@@ -22,6 +22,30 @@
         "canonical_name": "Fall Out Boy",
         "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
       },
+      "artwork": [
+        {
+          "id": "1294d87d-c336-4813-9717-9ad499168697",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/6abcbdbb-986b-4664-9a4d-7cea89a2b747/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:59.711306+00:00",
+      "edition": "original",
+      "id": "5dfe8267-8abd-48fd-a838-9fc8e2542c41",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Greatest Hits: Believers Never Die"
+    },
+    {
+      "artists": {
+        "canonical_name": "Fall Out Boy",
+        "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:37:37.896401+00:00",

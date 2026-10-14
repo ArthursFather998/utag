@@ -48,7 +48,32 @@
       "source": "manual"
     }
   ],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Brent Faiyaz",
+        "id": "8751b493-8c5b-41a3-a591-40848132500d"
+      },
+      "artwork": [
+        {
+          "id": "e7b23b00-db60-47f9-8fda-722ccd187614",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/ab0b54e1-49a6-453a-9c54-3a4103d6be73/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:16.025993+00:00",
+      "edition": "original",
+      "id": "a9a59e9d-3d1b-42fe-a220-a688090dc6e8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Dead Man Walking"
+    }
+  ],
   "release": {
     "apple_id": "1717111895",
     "artist_id": "8751b493-8c5b-41a3-a591-40848132500d",

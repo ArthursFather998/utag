@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Calum Scott",
+    "confidence": "unknown",
+    "created_at": "2026-10-14T06:45:02.719352+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "81ec953f-3ea3-4eb6-9b67-92bd1e121975",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-14T06:45:02.719352+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Calum Scott",
+        "id": "81ec953f-3ea3-4eb6-9b67-92bd1e121975"
+      },
+      "artwork": [
+        {
+          "id": "89a2f30e-60dc-45b1-af0d-5dad81ab56bb",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/f3bd26d7-a77c-4cc9-9b08-ab097806f891/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:02.780809+00:00",
+      "edition": "original",
+      "id": "bbd2b722-120a-4746-b517-45186a78c312",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Hot Party Winter 2017"
+    }
+  ],
+  "verifications": []
+}

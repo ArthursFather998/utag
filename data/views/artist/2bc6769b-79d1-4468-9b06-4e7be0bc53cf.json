@@ -24,6 +24,30 @@
       },
       "artwork": [
         {
+          "id": "1590e749-2a8f-4a11-bb6b-6f26141e8162",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/d24f2e47-b8b6-4e3e-8f7a-e97cc140bc0d/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:42.807992+00:00",
+      "edition": "original",
+      "id": "91ff9eda-6a7a-4726-8faf-f64055263431",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "NPR Music Tiny Desk Concert"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
           "id": "e8a69c70-c0eb-4986-9a4c-cdf303049d16",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/fe/7a/22fe7a31-534a-58d8-eb80-fd08fdb9274d/22UMGIM63573.rgb.jpg/1200x1200bb.jpg",

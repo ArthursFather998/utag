@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Panic! At The Disco",
+    "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:19.874871+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "6ccd53b8-1263-45dc-bff5-1f78beb09186",
+      "phash": null,
+      "release_id": "d1d49f30-5d1b-4061-97ab-741afdf20006",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/0d2fa076-34c5-4c34-ad48-6928706a4778/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Panic! At The Disco",
+        "id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9"
+      },
+      "artwork": [
+        {
+          "id": "8c5ba320-5815-45d6-9b75-423d63440652",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/d8/5e/07d85ee0-bb20-606f-8da3-523b4bb4a8d3/mzi.stmeokws.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:33:52.878434+00:00",
+      "edition": "original",
+      "id": "ce13df74-eae2-418f-888a-4772727734b9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "Live Session (iTunes Exclusive) - Single"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:45:19.757986+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "d1d49f30-5d1b-4061-97ab-741afdf20006",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Promo Only: Modern Rock Radio, February 2017",
+    "updated_at": "2026-10-14T06:45:19.757986+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3c990fe6-d550-481f-91c4-5bb7186bb3c9",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:19.816882+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "548a8943-1c89-4bab-9767-0f693a25234f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d1d49f30-5d1b-4061-97ab-741afdf20006",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Death of a Bachelor",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:45:19.816882+00:00"
+    }
+  ],
+  "verifications": []
+}

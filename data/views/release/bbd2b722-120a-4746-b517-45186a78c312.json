@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Calum Scott",
+    "id": "81ec953f-3ea3-4eb6-9b67-92bd1e121975"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:02.938743+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "89a2f30e-60dc-45b1-af0d-5dad81ab56bb",
+      "phash": null,
+      "release_id": "bbd2b722-120a-4746-b517-45186a78c312",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/f3bd26d7-a77c-4cc9-9b08-ab097806f891/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "81ec953f-3ea3-4eb6-9b67-92bd1e121975",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:45:02.780809+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "bbd2b722-120a-4746-b517-45186a78c312",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Hot Party Winter 2017",
+    "updated_at": "2026-10-14T06:45:02.780809+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "81ec953f-3ea3-4eb6-9b67-92bd1e121975",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:02.869692+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "0e8d4405-4a85-4b12-aa64-fb481d6c2f19",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "bbd2b722-120a-4746-b517-45186a78c312",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Dancing On My Own",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:45:02.869692+00:00"
+    }
+  ],
+  "verifications": []
+}

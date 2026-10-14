@@ -1,0 +1,159 @@
+{
+  "artists": {
+    "canonical_name": "Falling In Reverse",
+    "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:10.501077+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "fe036e74-1518-4607-a8c1-1d6c45ffec1a",
+      "phash": null,
+      "release_id": "e63c5871-347c-41c9-84a6-7af6f46568ca",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/bfc660b5-10d9-4859-8ae8-b8e22e581106/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:54.406132+00:00",
+      "edition": "original",
+      "id": "57a5cbd1-e0ec-4518-ad4c-cc7a027aabab",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2013,
+      "title": "Fashionably Late"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [
+        {
+          "id": "30795828-e279-4ea6-917b-0c2ff6001c9e",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/db5c6f17-c864-4458-90f4-4b3ecb3edae9/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:57.005493+00:00",
+      "edition": "original",
+      "id": "60891a2e-f0ba-4790-92b1-8aafaf7e6619",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Coming Home"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [
+        {
+          "id": "671410ea-6a88-4e26-87c0-d51a06f18e23",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/e4/44/70e444ff-910e-274f-b441-88732f7c70b4/0045778714766.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:50.42461+00:00",
+      "edition": "original",
+      "id": "9f14dfae-3079-4d48-8f7d-a7aa1e738136",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "The Drug in Me Is You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Falling In Reverse",
+        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
+      },
+      "artwork": [
+        {
+          "id": "173eb005-04ba-438f-884e-b06f83916913",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a1465102-4b9c-4a4d-a85b-75d5582324f6/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:42:52.658105+00:00",
+      "edition": "original",
+      "id": "a27640db-44b4-4dfe-9324-dadd280b1420",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Popular Monster"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "a09fe773-1fe4-460c-899c-8378ba53f885",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:46:10.341729+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "e63c5871-347c-41c9-84a6-7af6f46568ca",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Vans Warped Tour: 2012 Tour Compilation",
+    "updated_at": "2026-10-14T06:46:10.341729+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "a09fe773-1fe4-460c-899c-8378ba53f885",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:10.421291+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c9ba6a6f-6448-4e69-b8a2-0b97a07c4bdc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e63c5871-347c-41c9-84a6-7af6f46568ca",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Good Girls Bad Guys",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:46:10.421291+00:00"
+    }
+  ],
+  "verifications": []
+}

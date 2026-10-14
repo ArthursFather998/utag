@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Thee Sacred Souls",
+    "id": "d09ab3aa-7e5c-41d2-ba0e-1eaa04fa7b39"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:27.679483+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "876ee259-e38c-4aa5-9628-5fbd6f0a65da",
+      "phash": null,
+      "release_id": "f769983d-e257-40e0-b7cf-b0aeef5b4df9",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/79ef5496-5f35-4b88-a5d5-4353e59a474c/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "d09ab3aa-7e5c-41d2-ba0e-1eaa04fa7b39",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:44:27.521116+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "f769983d-e257-40e0-b7cf-b0aeef5b4df9",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Thee Sacred Souls",
+    "updated_at": "2026-10-14T06:44:27.521116+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "d09ab3aa-7e5c-41d2-ba0e-1eaa04fa7b39",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:27.598267+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5b2eabe9-59dd-4dad-b650-9b835447c50d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f769983d-e257-40e0-b7cf-b0aeef5b4df9",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Can I Call You Rose",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:44:27.598267+00:00"
+    }
+  ],
+  "verifications": []
+}

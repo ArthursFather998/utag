@@ -1,0 +1,78 @@
+{
+  "artists": {
+    "canonical_name": "AmiiFy",
+    "id": "17f796d9-9b95-491f-aab4-dbf44d4d7ffc"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "AmiiFy",
+        "id": "17f796d9-9b95-491f-aab4-dbf44d4d7ffc"
+      },
+      "artwork": [
+        {
+          "id": "79eeb861-2b0a-41e8-86c1-ede8f991ef9b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/a0/c4/b0a0c43d-3f4a-7d51-ad33-f78fd89b141f/075679589781.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:17.13087+00:00",
+      "edition": "original",
+      "id": "8d87a958-e435-4890-b00e-b9f58486c0be",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Something Stupid - Single"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "17f796d9-9b95-491f-aab4-dbf44d4d7ffc",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-14T06:45:59.39484+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "f26ba911-f511-4f86-9ce6-675731340806",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2025,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Moments Before Fall",
+    "updated_at": "2026-10-14T06:45:59.39484+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "17f796d9-9b95-491f-aab4-dbf44d4d7ffc",
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:59.476744+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5881cf48-5840-47b6-8f1c-54c1ea1c510f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f26ba911-f511-4f86-9ce6-675731340806",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Fly Away",
+      "track_number": null,
+      "updated_at": "2026-10-14T06:45:59.476744+00:00"
+    }
+  ],
+  "verifications": []
+}

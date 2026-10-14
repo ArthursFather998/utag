@@ -1383,7 +1383,7 @@ async function vArtist(id) {
               ${efConf(a.confidence)}
               ${pwFieldHTML()}
             </div>
-            ${efSave()}
+            ${efSave(`<button class="mini-btn danger" type="button" data-remove-artist="${esc(a.id)}" data-artist-name="${esc(a.canonical_name)}">Remove artist</button>`)}
           </div>
         </div>
         ${sections || `<p class="empty-note">No releases on record yet.</p>`}
@@ -1402,6 +1402,23 @@ async function vArtist(id) {
 
   wireToggles();
   wireEditor(document.getElementById("artist-editor"), "artist", a.id, () => vArtist(id));
+
+  document.querySelectorAll("[data-remove-artist]").forEach(b => b.addEventListener("click", async () => {
+    const aid = b.dataset.removeArtist, name = b.dataset.artistName || "this artist";
+    if (!confirm(`Remove "${name}" and ALL their releases and tracks? This can't be undone.`)) return;
+    const status = b.closest(".ef-actions").querySelector("[data-status]");
+    b.disabled = true;
+    if (status) status.textContent = "Removing…";
+    try {
+      await fnCall({ action: "delete_artist", artist_id: aid });
+      if (status) status.textContent = "Artist removed. Taking you back…";
+      awaitLibraryUpdate();
+      setTimeout(() => { location.hash = "#/artists"; }, 800);
+    } catch (e) {
+      if (status) status.textContent = `Remove failed: ${e.message}`;
+      b.disabled = false;
+    }
+  }));
 }
 
 /* --------------------------------------------------------------- release */
@@ -1498,7 +1515,7 @@ async function vRelease(id) {
           ${efConf(r.confidence)}
           ${pwFieldHTML()}
         </div>
-        ${efSave()}
+        ${efSave(`<button class="mini-btn danger" type="button" data-remove-release="${esc(r.id)}" data-release-title="${esc(r.title)}">Remove release</button>`)}
       </div>
     </div>
 
@@ -1557,6 +1574,23 @@ async function vRelease(id) {
         : "Track removed.";
       removeTrackFromCache(tid);
       setTimeout(() => vRelease(id), 400);
+    } catch (e) {
+      if (status) status.textContent = `Remove failed: ${e.message}`;
+      b.disabled = false;
+    }
+  }));
+
+  document.querySelectorAll("[data-remove-release]").forEach(b => b.addEventListener("click", async () => {
+    const rid = b.dataset.removeRelease, title = b.dataset.releaseTitle || "this release";
+    if (!confirm(`Remove "${title}" and all its tracks? This can't be undone.`)) return;
+    const status = b.closest(".ef-actions").querySelector("[data-status]");
+    b.disabled = true;
+    if (status) status.textContent = "Removing…";
+    try {
+      await fnCall({ action: "delete_release", release_id: rid });
+      if (status) status.textContent = "Release removed. Taking you back…";
+      awaitLibraryUpdate();
+      setTimeout(() => { location.hash = "#/catalog"; }, 800);
     } catch (e) {
       if (status) status.textContent = `Remove failed: ${e.message}`;
       b.disabled = false;

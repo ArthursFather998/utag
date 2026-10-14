@@ -597,6 +597,81 @@ Deno.serve(async (req) => {
       return json({ ok: true, action, track_id: trackId, repo_sync: repoSync });
     }
 
+    if (action === "delete_release") {
+      const releaseId = String(body.release_id || "");
+      if (!releaseId) return json({ ok: false, error: "Missing release_id" }, 400);
+      const { data: rel, error: rErr } = await supabase
+        .from("releases").select("id,title").eq("id", releaseId).single();
+      if (rErr || !rel) return json({ ok: false, error: "Release not found" }, 404);
+      const removed: [string, string][] = [];
+      // Tracks + their verifications
+      const { data: tracks } = await supabase.from("tracks").select("id").eq("release_id", releaseId);
+      for (const t of (tracks || []) as { id: string }[]) {
+        const { data: tv } = await supabase.from("verifications")
+          .select("id").eq("entity_type", "track").eq("entity_id", t.id);
+        await supabase.from("verifications").delete().eq("entity_type", "track").eq("entity_id", t.id);
+        await supabase.from("tracks").delete().eq("id", t.id);
+        removed.push(["tracks", t.id]);
+        for (const v of (tv || []) as { id: string }[]) removed.push(["verifications", v.id]);
+      }
+      // Artwork
+      const { data: arts } = await supabase.from("artwork").select("id").eq("release_id", releaseId);
+      await supabase.from("artwork").delete().eq("release_id", releaseId);
+      for (const a of (arts || []) as { id: string }[]) removed.push(["artwork", a.id]);
+      // Release verifications
+      const { data: rv } = await supabase.from("verifications")
+        .select("id").eq("entity_type", "release").eq("entity_id", releaseId);
+      await supabase.from("verifications").delete().eq("entity_type", "release").eq("entity_id", releaseId);
+      for (const v of (rv || []) as { id: string }[]) removed.push(["verifications", v.id]);
+      // The release itself
+      await supabase.from("releases").delete().eq("id", releaseId);
+      removed.push(["releases", releaseId]);
+      const repoSync = await deleteRowsFromRepo(removed);
+      await logActivity("edit", `Removed release "${(rel as { title: string }).title}" (${(tracks || []).length} tracks)`);
+      return json({ ok: true, action, release_id: releaseId, repo_sync: repoSync });
+    }
+
+    if (action === "delete_artist") {
+      const artistId = String(body.artist_id || "");
+      if (!artistId) return json({ ok: false, error: "Missing artist_id" }, 400);
+      const { data: art, error: aErr } = await supabase
+        .from("artists").select("id,canonical_name").eq("id", artistId).single();
+      if (aErr || !art) return json({ ok: false, error: "Artist not found" }, 404);
+      const removed: [string, string][] = [];
+      // Releases (cascades to their tracks/artwork via the logic below)
+      const { data: releases } = await supabase.from("releases").select("id").eq("artist_id", artistId);
+      for (const rel of (releases || []) as { id: string }[]) {
+        const { data: tracks } = await supabase.from("tracks").select("id").eq("release_id", rel.id);
+        for (const t of (tracks || []) as { id: string }[]) {
+          const { data: tv } = await supabase.from("verifications")
+            .select("id").eq("entity_type", "track").eq("entity_id", t.id);
+          await supabase.from("verifications").delete().eq("entity_type", "track").eq("entity_id", t.id);
+          await supabase.from("tracks").delete().eq("id", t.id);
+          removed.push(["tracks", t.id]);
+          for (const v of (tv || []) as { id: string }[]) removed.push(["verifications", v.id]);
+        }
+        const { data: arts } = await supabase.from("artwork").select("id").eq("release_id", rel.id);
+        await supabase.from("artwork").delete().eq("release_id", rel.id);
+        for (const a of (arts || []) as { id: string }[]) removed.push(["artwork", a.id]);
+        await supabase.from("verifications").delete().eq("entity_type", "release").eq("entity_id", rel.id);
+        await supabase.from("releases").delete().eq("id", rel.id);
+        removed.push(["releases", rel.id]);
+      }
+      // Orphan tracks directly tied to the artist
+      const { data: orphanTracks } = await supabase.from("tracks").select("id").eq("artist_id", artistId);
+      for (const t of (orphanTracks || []) as { id: string }[]) {
+        await supabase.from("verifications").delete().eq("entity_type", "track").eq("entity_id", t.id);
+        await supabase.from("tracks").delete().eq("id", t.id);
+        removed.push(["tracks", t.id]);
+      }
+      // The artist
+      await supabase.from("artists").delete().eq("id", artistId);
+      removed.push(["artists", artistId]);
+      const repoSync = await deleteRowsFromRepo(removed);
+      await logActivity("edit", `Removed artist "${(art as { canonical_name: string }).canonical_name}" (${(releases || []).length} releases)`);
+      return json({ ok: true, action, artist_id: artistId, repo_sync: repoSync });
+    }
+
     if (action === "chat_send") {
       const content = String(body.content || "").trim();
       if (!content) return json({ ok: false, error: "Empty message" }, 400);

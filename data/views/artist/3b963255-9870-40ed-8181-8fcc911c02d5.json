@@ -22,7 +22,14 @@
         "canonical_name": "Bruno Mars",
         "id": "3b963255-9870-40ed-8181-8fcc911c02d5"
       },
-      "artwork": [],
+      "artwork": [
+        {
+          "id": "d06918c3-be9f-44f4-8d52-7a71976af529",
+          "role": "canonical",
+          "source_url": "https://tse1.mm.bing.net/th/id/OIP.dMH9pPWnwaN3y4HcFiSk4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
       "confidence": "high_confidence",
       "created_at": "2026-10-14T00:46:15.770784+00:00",
       "edition": "original",

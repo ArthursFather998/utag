@@ -88,7 +88,7 @@
       "genres": [],
       "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4",
       "image_url": null,
-      "release_count": 7
+      "release_count": 6
     },
     {
       "aliases": [],
@@ -227,7 +227,7 @@
       "genres": [],
       "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462",
       "image_url": "https://cdn.corenexis.com/f/piK0sFn2CJj.png",
-      "release_count": 19
+      "release_count": 18
     },
     {
       "aliases": [],
@@ -400,7 +400,7 @@
       "genres": [],
       "id": "a09fe773-1fe4-460c-899c-8378ba53f885",
       "image_url": null,
-      "release_count": 4
+      "release_count": 3
     },
     {
       "aliases": [],
@@ -1184,7 +1184,7 @@
       "release_count": 1
     }
   ],
-  "exported_at": "2026-10-14T02:01:13.833520+00:00",
+  "exported_at": "2026-10-14T02:02:01.304487+00:00",
   "releases": [
     {
       "artists": {
@@ -1322,30 +1322,6 @@
       "release_type": "album",
       "release_year": 2024,
       "title": "Withering - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "0771971b-631d-416c-8657-89ea4af521f4",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/fe/e8/82fee869-1ff3-028b-45ea-39bd00eeae61/25UMGIM01021.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T01:02:05.991517+00:00",
-      "edition": "original",
-      "id": "02735943-0fdc-4950-97d5-35e984003aa3",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "WITHERED"
     },
     {
       "artists": {
@@ -1995,30 +1971,6 @@
       },
       "artwork": [
         {
-          "id": "c74a9425-5d76-4298-a557-d0babd213783",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:47:02.986998+00:00",
-      "edition": "original",
-      "id": "667a565d-45d0-4aa2-821a-af7ee00a44d0",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2016,
-      "title": "dont smile at me"
-    },
-    {
-      "artists": {
-        "canonical_name": "Billie Eilish",
-        "id": "3822a1bf-edfb-4730-a144-d51b7a0ddfb4"
-      },
-      "artwork": [
-        {
           "id": "2baa47dd-afea-4152-97b7-4fc25e113b70",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/1200x1200bb.jpg",
@@ -2366,30 +2318,6 @@
       "release_status": null,
       "release_type": "album",
       "release_year": 2011,
-      "title": "The Drug in Me Is You"
-    },
-    {
-      "artists": {
-        "canonical_name": "Falling In Reverse",
-        "id": "a09fe773-1fe4-460c-899c-8378ba53f885"
-      },
-      "artwork": [
-        {
-          "id": "219ed591-946b-46ab-93d3-2189137e52f9",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/1e76209b-199d-47cd-9ee7-01d9c30fea0d/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:45:46.268945+00:00",
-      "edition": "original",
-      "id": "7966cfa7-1d94-48de-9219-89dce5c5b1b9",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
       "title": "The Drug in Me Is You"
     },
     {

@@ -334,7 +334,9 @@ h3 {
   max-width: 520px;
   display: flex;
   border: 1px solid var(--hair);
+  border-radius: 999px;
   background: var(--surface);
+  overflow: hidden;
   transition: border-color var(--t-med) var(--ease), box-shadow var(--t-med) var(--ease);
 }
 .portal-search:focus-within {
@@ -555,6 +557,7 @@ table.tracks td:nth-child(2) { font-weight: 500; }
   background: var(--link);
   color: #0a0d13;
   border: 1px solid var(--link);
+  border-radius: 999px;
   font-family: var(--sans);
   font-weight: 600;
   font-size: 13.5px;
@@ -569,6 +572,7 @@ table.tracks td:nth-child(2) { font-weight: 500; }
   background: transparent;
   color: var(--dim);
   border: 1px solid var(--hair);
+  border-radius: 999px;
   padding: 6px 13px;
   font-family: var(--sans);
   font-size: 12px;
@@ -589,10 +593,11 @@ a.mini-btn { display: inline-block; color: var(--dim); }
   width: 100%;
   background: transparent;
   border: 1px solid var(--hair);
+  border-radius: 999px;
   color: var(--text);
   font-family: var(--sans);
   font-size: 13.5px;
-  padding: 9px 36px 9px 13px;
+  padding: 9px 36px 9px 16px;
   transition: border-color var(--t-med) var(--ease), box-shadow var(--t-med) var(--ease);
 }
 .top-search input::placeholder { color: var(--faint); }
@@ -626,10 +631,11 @@ a.mini-btn { display: inline-block; color: var(--dim); }
 .ef-field input, .ef-field select {
   background: var(--bg);
   border: 1px solid var(--hair);
+  border-radius: 999px;
   color: var(--text);
   font-family: var(--sans);
   font-size: 14px;
-  padding: 9px 12px;
+  padding: 9px 14px;
   width: 100%;
   transition: border-color var(--t-fast) var(--ease), box-shadow var(--t-fast) var(--ease);
 }

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:30.236686+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "360aa1b0-09de-46d8-a5fe-3fad6e2780ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0970d2d1-c126-4903-a6fa-5d5b6224b910",
+  "input": "{\"title\": \"The Greatest Discovery\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live from the Rainbow Theatre'",
+  "status": "verified"
+}

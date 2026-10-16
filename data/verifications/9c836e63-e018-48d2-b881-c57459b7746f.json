@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:15.501983+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64135b0e-4eae-45d2-a02f-f3da14f59a7b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9c836e63-e018-48d2-b881-c57459b7746f",
+  "input": "{\"title\": \"Grace (Legacy Edition)\", \"release_type\": \"album\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:50.531965+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20f49f75-70a0-42b1-b8bc-b470c3ef25eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a624bcb6-c994-40e2-b4cb-9cf396d6fc39",
+  "input": "{\"title\": \"A Tale by Quincy\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Dawn FM (Alternate World)'",
+  "status": "verified"
+}

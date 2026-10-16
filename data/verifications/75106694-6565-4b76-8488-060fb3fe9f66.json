@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:53.397824+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49532e50-43d4-47c8-93e9-bd41f0ea757e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "75106694-6565-4b76-8488-060fb3fe9f66",
+  "input": "{\"title\": \"Clueless\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Clueless'",
+  "status": "verified"
+}

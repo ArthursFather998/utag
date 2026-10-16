@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:00.781883+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9653d633-2cba-4be4-bc4c-724ed2b10d51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "deaf433d-c556-4c27-9a22-8b864ee3a008",
+  "input": "{\"title\": \"Chip Chrome\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Chip Chrome & the Mono-Tones (Deluxe)'",
+  "status": "verified"
+}

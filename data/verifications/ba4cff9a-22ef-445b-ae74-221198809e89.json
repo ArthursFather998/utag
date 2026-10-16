@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:21.584447+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69b0b5f5-b9e3-47ed-899e-3d6c2767412b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba4cff9a-22ef-445b-ae74-221198809e89",
+  "input": "{\"title\": \"To Know Him Is to Love Him\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'The Sound of Young Love'",
+  "status": "verified"
+}

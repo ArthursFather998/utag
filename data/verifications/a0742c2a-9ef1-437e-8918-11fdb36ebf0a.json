@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:52.748943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc466d14-c39f-479a-87a0-c1c5a394e5e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0742c2a-9ef1-437e-8918-11fdb36ebf0a",
+  "input": "{\"title\": \"I'd Rather Go Blind\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Albatross'",
+  "status": "verified"
+}

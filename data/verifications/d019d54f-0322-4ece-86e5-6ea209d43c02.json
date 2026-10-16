@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:35.916989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7986cbed-e91a-40f3-8e65-51f33ee6a07d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d019d54f-0322-4ece-86e5-6ea209d43c02",
+  "input": "{\"title\": \"Watch Out\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Original Fleetwood Mac'",
+  "status": "verified"
+}

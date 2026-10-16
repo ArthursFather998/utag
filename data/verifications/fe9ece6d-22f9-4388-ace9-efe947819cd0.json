@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:38.539682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44d97de3-924e-4776-b258-8351d8841442",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe9ece6d-22f9-4388-ace9-efe947819cd0",
+  "input": "{\"title\": \"THE ODYSSEY\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'S'",
+  "status": "verified"
+}

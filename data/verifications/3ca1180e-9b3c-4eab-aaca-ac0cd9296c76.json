@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:11.917582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52e2c928-66ec-4c32-ba5d-e95d7600fe75",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3ca1180e-9b3c-4eab-aaca-ac0cd9296c76",
+  "input": "{\"title\": \"happy f***ing birthday\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

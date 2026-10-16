@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:55.731163+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f9023a7-b36c-4b76-9ff6-a5c22081e826",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7659dd4-6288-4640-aff1-f76cd33b20ce",
+  "input": "{\"title\": \"Sometimes I Wish I Were a Boy\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Lesley Gore Anthology'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:29.126956+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7af2b8eb-a206-4696-8e4e-53b310bf2767",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f0f9af94-da22-4b39-be19-13b8c5b84ceb",
+  "input": "{\"title\": \"A Night at the Symphony: Hollywood Bowl\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

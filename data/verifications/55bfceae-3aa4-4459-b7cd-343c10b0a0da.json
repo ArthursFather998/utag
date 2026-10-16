@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:31.746404+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a8007943-50de-43ff-a83e-ffa98901d74c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55bfceae-3aa4-4459-b7cd-343c10b0a0da",
+  "input": "{\"title\": \"Square Dance (instrumental)\", \"track_number\": 33}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 33 of 'The Eminem Show (Expanded Edition)'",
+  "status": "verified"
+}

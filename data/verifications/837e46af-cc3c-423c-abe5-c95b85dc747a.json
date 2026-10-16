@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:52.859565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3902219f-a6f9-4603-bd3b-cad73a0fb222",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "837e46af-cc3c-423c-abe5-c95b85dc747a",
+  "input": "{\"title\": \"Caution\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Caution'",
+  "status": "verified"
+}

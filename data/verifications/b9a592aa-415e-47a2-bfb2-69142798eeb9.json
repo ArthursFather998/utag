@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:49.133128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fab531d7-ca10-4b9a-9f26-dae6dd056a40",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b9a592aa-415e-47a2-bfb2-69142798eeb9",
+  "input": "{\"title\": \"Who the Fuck Are Arctic Monkeys?\", \"release_type\": \"album\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

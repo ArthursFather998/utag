@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:16.137599+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22e709f6-f123-4199-b247-68b995625c50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "915a34f6-e24f-43a9-866a-9c7618acd054",
+  "input": "{\"title\": \"The In-Between (piano solo)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Synthesis'",
+  "status": "verified"
+}

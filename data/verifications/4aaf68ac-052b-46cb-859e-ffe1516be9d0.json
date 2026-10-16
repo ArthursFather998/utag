@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:52.597135+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2bb6d16a-b62f-45ca-80b2-315b0be66ce4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4aaf68ac-052b-46cb-859e-ffe1516be9d0",
+  "input": "{\"title\": \"Black Mambo (Zodiac Remix)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Remixes'",
+  "status": "verified"
+}

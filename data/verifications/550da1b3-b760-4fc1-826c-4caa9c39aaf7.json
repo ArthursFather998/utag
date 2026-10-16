@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:06.563916+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07d3e236-846c-4a7f-bbbc-cf2420dbddec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "550da1b3-b760-4fc1-826c-4caa9c39aaf7",
+  "input": "{\"title\": \"I Get Lonely\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Velvet Rope'",
+  "status": "verified"
+}

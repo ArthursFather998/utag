@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:58.793681+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "272bcfc2-d6e8-47a6-bf4e-c03c1f462f68",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "46e5af4a-9a81-49e2-8f4d-cacf7655f144",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Fashionably Late",
+    "title": "Fashionably Late"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "\"Ex Bitch\" is track 2 on \"Bad Vibes Forever\" (2019) per Wikipedia, MusicBrainz, and NME. | sources: https://en.wikipedia.org/wiki/Bad_Vibes_Forever, https://musicbrainz.org/release/f770b74c-aa1e-4218-9e5e-8ae6d578c94a",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:41.484643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "042b456c-a3d5-449d-858b-f224db3b4658",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ffc5497-72cd-40fc-a1f8-44d2c65283b8",
+  "input": "{\"title\": \"Breaking Me Down\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Hate Me'",
+  "status": "verified"
+}

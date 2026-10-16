@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:22.53556+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "189e6b3e-8af6-4de3-8c6a-6a2316844d89",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ce5cd7d-f3da-4df4-adff-d858221da2c0",
+  "input": "{\"title\": \"SideLine Watching (Hold Up)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Perfect LUV Tape'",
+  "status": "verified"
+}

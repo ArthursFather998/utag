@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:00.304313+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b10954f8-0f81-4009-b2c9-10520d9cf7b9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f32f7d2a-c5c0-4979-8f54-b64518bb618d",
+  "input": "{\"title\": \"Pray for the Wicked\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

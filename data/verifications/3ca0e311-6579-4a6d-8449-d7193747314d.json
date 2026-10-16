@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:02.99516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30e6df7e-3e32-42a6-888a-46ed346351fb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3ca0e311-6579-4a6d-8449-d7193747314d",
+  "input": "{\"title\": \"Maddie\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

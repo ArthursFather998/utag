@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:00.420676+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d77e3d3-d78a-41c3-a57a-b3ed35f2503b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2bab81a-cc3d-465f-99b6-02aa66254f4d",
+  "input": "{\"title\": \"Billion Bucks\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Eminem Presents: The Re-Up'",
+  "status": "verified"
+}

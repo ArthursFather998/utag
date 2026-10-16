@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:28.425537+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1ebe2b8-36fe-4058-a176-1d91b22e696f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "98f2be6c-bd9a-440e-8485-c5bb9c2450d0",
+  "input": "{\"title\": \"Elton John One Night Only \\u2013 The Greatest Hits\", \"release_type\": \"album\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

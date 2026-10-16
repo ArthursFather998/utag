@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:30.632379+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6ac89d8-3bb0-4679-9b67-411b82552c7c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9730dac3-6016-4612-9918-dd4e2e4542da",
+  "input": "{\"title\": \"One Year of Love\", \"release_type\": \"single\", \"release_year\": 1986}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

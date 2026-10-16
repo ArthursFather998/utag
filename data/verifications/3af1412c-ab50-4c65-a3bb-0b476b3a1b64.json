@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:20.523734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61c9e4cf-da04-477c-abc0-9dce30519ff2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3af1412c-ab50-4c65-a3bb-0b476b3a1b64",
+  "input": "{\"title\": \"Call Me When You're Sober\", \"release_type\": \"single\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

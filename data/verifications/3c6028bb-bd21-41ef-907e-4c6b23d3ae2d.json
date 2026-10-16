@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:38.180609+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c1aa1f4-e043-4ce4-a0db-b2550ef2e02f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c6028bb-bd21-41ef-907e-4c6b23d3ae2d",
+  "input": "{\"title\": \"backpedal\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'SCARLET'",
+  "status": "verified"
+}

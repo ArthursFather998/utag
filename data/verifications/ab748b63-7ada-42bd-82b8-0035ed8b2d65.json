@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:15.33674+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bca88870-8df4-4415-8af3-ba2f235cbb76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab748b63-7ada-42bd-82b8-0035ed8b2d65",
+  "input": "{\"title\": \"Hey! Get Out Of My Way\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Life (Remastered)'",
+  "status": "verified"
+}

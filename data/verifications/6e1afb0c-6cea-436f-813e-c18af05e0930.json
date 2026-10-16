@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:13.697524+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9e5ef3b-1589-4ac6-a7ed-8d9bcc8d790b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e1afb0c-6cea-436f-813e-c18af05e0930",
+  "input": "{\"title\": \"Unwell\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Magic Hour'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:01.992784+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b64401f2-cef5-48a4-a0fe-4d1994e909e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b403076-1a0e-4a57-9b02-66df8c6b2ef0",
+  "input": "{\"title\": \"When It Comes to Love\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Behind the Mask'",
+  "status": "verified"
+}

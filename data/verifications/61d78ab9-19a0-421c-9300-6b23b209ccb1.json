@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:02.307143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd0245b0-3ba3-4b3d-b9d2-89528ebbb316",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "61d78ab9-19a0-421c-9300-6b23b209ccb1",
+  "input": "{\"title\": \"Limitedless\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Girl on Fire: Australian Tour Edition'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:54.03329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b753aa0a-9048-4948-a735-6c898fd5b9c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e877e3ac-3650-42ec-8dd5-c1a3733271c3",
+  "input": "{\"title\": \"Silent Night\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Dawn of Grace'",
+  "status": "verified"
+}

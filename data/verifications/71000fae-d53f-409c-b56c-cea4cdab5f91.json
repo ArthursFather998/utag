@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:03.145637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc9ff833-e334-4e56-9543-842f9e52d130",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "71000fae-d53f-409c-b56c-cea4cdab5f91",
+  "input": "{\"title\": \"My Christmas Prayer\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Kissin' Christmas: The Bobby Vinton Christmas Album'",
+  "status": "verified"
+}

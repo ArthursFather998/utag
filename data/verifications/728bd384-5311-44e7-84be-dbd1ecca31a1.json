@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:30.797868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1befdf21-f8ad-4718-a5b7-4a212fe97e9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "728bd384-5311-44e7-84be-dbd1ecca31a1",
+  "input": "{\"title\": \"If You Knew\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'In Transition'",
+  "status": "verified"
+}

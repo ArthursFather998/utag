@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:18.740825+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7ba767f-42f4-4908-84e4-efb9e94d04a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8530ec2-a4a6-489d-9232-fc8225a8623d",
+  "input": "{\"title\": \"My Name Is\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Slim Shady LP'",
+  "status": "verified"
+}

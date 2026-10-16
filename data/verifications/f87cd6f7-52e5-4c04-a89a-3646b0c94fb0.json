@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:41.558028+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c00538c-7438-4ae4-a94d-25ea3dafd18b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f87cd6f7-52e5-4c04-a89a-3646b0c94fb0",
+  "input": "{\"title\": \"Raising Cain\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'That Sea, The Gambler'",
+  "status": "verified"
+}

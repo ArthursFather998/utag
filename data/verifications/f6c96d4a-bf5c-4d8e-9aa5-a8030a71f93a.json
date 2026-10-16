@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:47.197523+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c354f11e-ee46-4ef7-95b4-781fb570804f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6c96d4a-bf5c-4d8e-9aa5-a8030a71f93a",
+  "input": "{\"title\": \"The Zone (feat. Drake)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Trilogy'",
+  "status": "verified"
+}

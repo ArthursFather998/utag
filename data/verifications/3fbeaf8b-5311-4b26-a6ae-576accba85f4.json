@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:10.495843+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ecf081d-3976-40a1-8510-e7648be9d1ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3fbeaf8b-5311-4b26-a6ae-576accba85f4",
+  "input": "{\"title\": \"The Stranger\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Mighty'",
+  "status": "verified"
+}

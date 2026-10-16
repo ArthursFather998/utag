@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:48.273773+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d1b622f-6026-4506-b82c-4ebe9fdb7791",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce275c86-6c9d-4476-81dc-38240ae726c5",
+  "input": "{\"title\": \"Issues (LA Riots Remix)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Issues Remixes'",
+  "status": "verified"
+}

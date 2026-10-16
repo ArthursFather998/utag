@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:07.77991+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51531f64-abb2-44a2-b0d2-3e639aadaf5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f77cb8b-cb33-4b6c-b4f7-cce98989c148",
+  "input": "{\"title\": \"My Shadow\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'iTunes Festival: London 2010'",
+  "status": "verified"
+}

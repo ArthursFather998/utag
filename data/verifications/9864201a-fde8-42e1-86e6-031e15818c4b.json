@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:47.652625+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5478af01-9659-4fce-9ae7-106c8035d8ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9864201a-fde8-42e1-86e6-031e15818c4b",
+  "input": "{\"title\": \"Lonesome Dreams\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Lonesome Dreams (Bonus Track Version)'",
+  "status": "verified"
+}

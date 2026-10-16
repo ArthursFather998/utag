@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:16.513781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d12e45c-8f11-4757-9c72-5bac77c25b0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e187ead-a995-4736-a72d-ee3aa2d2ca7e",
+  "input": "{\"title\": \"Is This the World We Created...?\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Works'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:11.131049+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d6cdfdc-9710-41e9-be41-5db99db752f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3cef6ff4-8c3f-451f-9ec2-e0a15323b558",
+  "input": "{\"title\": \"You Just Wanna Stay\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Drunken Babble'",
+  "status": "verified"
+}

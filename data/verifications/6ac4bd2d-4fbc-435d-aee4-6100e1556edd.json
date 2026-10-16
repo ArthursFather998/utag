@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:52:04.524245+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6402f456-0ca7-4a4f-859a-c9f2566a8aca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ac4bd2d-4fbc-435d-aee4-6100e1556edd",
+  "input": "{\"title\": \"No Need to Argue\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'MTV Unplugged'",
+  "status": "verified"
+}

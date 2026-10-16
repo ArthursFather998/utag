@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:49.970584+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f616d87a-995d-4617-b64e-d6342186915e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2b02a9f-12b2-435d-8a37-5f3780a18037",
+  "input": "{\"title\": \"That's Where You're Wrong\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Suck It and See'",
+  "status": "verified"
+}

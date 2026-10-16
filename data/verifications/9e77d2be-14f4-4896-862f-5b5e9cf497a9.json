@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:53.11561+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d47bb054-f3c9-4e19-8707-111fa98b5665",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e77d2be-14f4-4896-862f-5b5e9cf497a9",
+  "input": "{\"title\": \"Monday Morning\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Rumours Live'",
+  "status": "verified"
+}

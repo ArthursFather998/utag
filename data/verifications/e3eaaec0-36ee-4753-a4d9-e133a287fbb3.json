@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:35.01981+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9cc2877b-380c-4c88-93a0-2889d5b7b04f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e3eaaec0-36ee-4753-a4d9-e133a287fbb3",
+  "input": "{\"title\": \"Sixty Years On\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Elton John'",
+  "status": "verified"
+}

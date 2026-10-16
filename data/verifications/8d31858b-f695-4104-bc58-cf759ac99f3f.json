@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:38.792233+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db6f1d9c-03e0-4ddf-83ad-1358b8571eb9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d31858b-f695-4104-bc58-cf759ac99f3f",
+  "input": "{\"title\": \"Under Pressure\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Hungarian Rhapsody: Queen Live in Budapest'",
+  "status": "verified"
+}

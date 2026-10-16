@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:33.514057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3fc42d2b-d8c2-48d3-bb53-acafd83423f7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6c77bb7e-08ef-495b-8fb2-c05de222c9eb",
+  "input": "{\"title\": \"Mystery to Me\", \"release_type\": \"album\", \"release_year\": 1973}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:29.638385+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "57c8b432-f4ce-4d47-a813-adb19b75c6dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf23f09b-db73-4929-b180-50d339ecbcc1",
+  "input": "{\"title\": \"Aftermath (Edit)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Rocket'",
+  "status": "verified"
+}

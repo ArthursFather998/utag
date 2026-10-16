@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:02.867315+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5654bba-92b4-4531-ac82-d168b35b8b69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e580973-601f-40c6-9399-44176719e620",
+  "input": "{\"title\": \"Don't Blame Yourself\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Lost in Transition'",
+  "status": "verified"
+}

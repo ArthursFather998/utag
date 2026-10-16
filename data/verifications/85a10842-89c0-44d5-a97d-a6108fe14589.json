@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:45.316122+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8a2590a-4f91-4596-88f7-810296f01f3d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85a10842-89c0-44d5-a97d-a6108fe14589",
+  "input": "{\"title\": \"Hey, Little Tear\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Deep in a Dream'",
+  "status": "verified"
+}

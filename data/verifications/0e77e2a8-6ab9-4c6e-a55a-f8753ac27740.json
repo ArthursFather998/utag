@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:23.683388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89860d54-ef62-4d16-a1ca-d580236566aa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0e77e2a8-6ab9-4c6e-a55a-f8753ac27740",
+  "input": "{\"title\": \"Killer\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

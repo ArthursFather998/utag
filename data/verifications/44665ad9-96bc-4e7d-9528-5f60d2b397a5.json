@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:26.337118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c235a6d3-dd9d-4912-a1ce-90f2f24438cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44665ad9-96bc-4e7d-9528-5f60d2b397a5",
+  "input": "{\"title\": \"The Ballad of Eddie Jabuley\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Ballad of Eddie Jabuley'",
+  "status": "verified"
+}

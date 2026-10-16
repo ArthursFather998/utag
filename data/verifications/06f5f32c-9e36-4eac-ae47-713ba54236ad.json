@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:47.560421+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cccf5b06-bb8e-425a-b9ce-acbca15e1366",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06f5f32c-9e36-4eac-ae47-713ba54236ad",
+  "input": "{\"title\": \"Queso (featuring Wiz Khalifa)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Luv Is Rage'",
+  "status": "verified"
+}

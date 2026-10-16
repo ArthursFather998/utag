@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:34.553475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4eaf605-76c5-4a49-bbec-f58810476e9a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8dcefde2-5cbf-4fc9-87e6-91fd2582bc4a",
+  "input": "{\"title\": \"Head over Heels\", \"release_type\": \"single\", \"release_year\": 1985}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

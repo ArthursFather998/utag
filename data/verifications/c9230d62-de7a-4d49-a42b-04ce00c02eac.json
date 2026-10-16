@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:16.390857+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94bd0a47-ebf5-4759-9c03-1b844f4ca9f0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c9230d62-de7a-4d49-a42b-04ce00c02eac",
+  "input": "{\"title\": \"love bites!\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

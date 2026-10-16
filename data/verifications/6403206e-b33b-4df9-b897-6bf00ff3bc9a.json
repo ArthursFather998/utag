@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:20.132991+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1c4e339-6a7a-43b8-b8e2-b2fc8d1ba66b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6403206e-b33b-4df9-b897-6bf00ff3bc9a",
+  "input": "{\"title\": \"Back at One\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Gold'",
+  "status": "verified"
+}

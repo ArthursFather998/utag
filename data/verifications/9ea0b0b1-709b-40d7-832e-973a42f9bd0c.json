@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:35.948281+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d20d4195-c52f-4be9-b962-c1a24c9c0c5c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ea0b0b1-709b-40d7-832e-973a42f9bd0c",
+  "input": "{\"title\": \"No Sleeep\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Unbreakable'",
+  "status": "verified"
+}

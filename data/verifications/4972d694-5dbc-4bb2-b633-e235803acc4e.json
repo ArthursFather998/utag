@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:48.039862+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b32aade-5180-4ce8-83cc-a3b7cd8f1030",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4972d694-5dbc-4bb2-b633-e235803acc4e",
+  "input": "{\"title\": \"Rain Rain Go Away\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Bobby Vinton's All-Time Greatest Hits'",
+  "status": "verified"
+}

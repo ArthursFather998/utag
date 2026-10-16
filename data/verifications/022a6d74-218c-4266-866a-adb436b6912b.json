@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:31.344051+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d11c7178-0a7a-4c2a-91b3-dedc32aa9a08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "022a6d74-218c-4266-866a-adb436b6912b",
+  "input": "{\"title\": \"Your Song\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Your Song'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:02.740692+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68ea3e9c-4215-4501-940d-7f414ae2f4d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "91116e64-1abe-4b70-a1f9-7bd91e1557b4",
+  "input": "{\"title\": \"What'll I Do\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

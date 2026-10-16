@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:55.449625+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d79ce4d5-be63-4e94-987d-b22bed34d3b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "527b3a66-2012-4d59-a2a0-ce93ed7f35ef",
+  "input": "{\"title\": \"Anima Pt. 1\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Hurry Up Tomorrow (Original Motion Picture Score)'",
+  "status": "verified"
+}

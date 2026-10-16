@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:31.827684+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9cfcce54-a39d-4b5a-b05c-8027a3d6d586",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b94bb38-bbaf-4a66-af6c-7902b05d691f",
+  "input": "{\"title\": \"Sugar! Honey! Love!\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Sincerely: P.S.'",
+  "status": "verified"
+}

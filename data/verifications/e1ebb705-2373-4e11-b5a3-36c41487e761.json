@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:01.462845+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9704fc00-5f0b-428c-b4e0-d805be83f566",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e1ebb705-2373-4e11-b5a3-36c41487e761",
+  "input": "{\"title\": \"Villain I'm Not\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Outsider'",
+  "status": "verified"
+}

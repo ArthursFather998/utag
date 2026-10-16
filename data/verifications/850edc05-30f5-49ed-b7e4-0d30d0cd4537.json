@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:19.108128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79a33f6c-3411-4169-8121-e89ff003905b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "850edc05-30f5-49ed-b7e4-0d30d0cd4537",
+  "input": "{\"title\": \"All of My Life\", \"release_type\": \"single\", \"release_year\": 1965}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:56.304114+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3cc8d90f-50ae-4999-a30c-70b1af9d1ccf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c51b3f0-4b70-42e6-bb3c-41eb11ecb1ca",
+  "input": "{\"title\": \"U Got It Bad\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'U Got It Bad'",
+  "status": "verified"
+}

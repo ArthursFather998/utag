@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:31.842472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b5b97eb-46c5-4295-8f39-86f8e2ab381c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1a559001-8d4c-478e-bd94-3eac1bfcf9a1",
+  "input": "{\"title\": \"nyx\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

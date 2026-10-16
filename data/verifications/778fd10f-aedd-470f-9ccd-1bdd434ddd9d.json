@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:18.016938+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b511c00-dc36-4dd3-aad0-01488488cc18",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "778fd10f-aedd-470f-9ccd-1bdd434ddd9d",
+  "input": "{\"title\": \"Buffalo Bill\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Relapse: Refill'",
+  "status": "verified"
+}

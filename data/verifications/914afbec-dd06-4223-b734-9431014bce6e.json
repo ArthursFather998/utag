@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:53.00839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1862d508-c85a-4982-b540-018877769948",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "914afbec-dd06-4223-b734-9431014bce6e",
+  "input": "{\"title\": \"dead girl in the pool.\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'chapter 2'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:33.701654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fdef675c-bf4d-452b-97f7-4312e09e58fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8fe842e7-45d1-4ae6-93f2-f3f421609480",
+  "input": "{\"title\": \"I Can't Wait to Get There\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Hurry Up Tomorrow'",
+  "status": "verified"
+}

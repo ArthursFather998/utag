@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:52.878964+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ebd62e2c-83e6-4f58-b521-f836bb43b7f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d1692425-515b-4d05-a654-e5ffbf581ed9",
+  "input": "{\"title\": \"Other Lady\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Love Me by Name (Expanded Version)'",
+  "status": "verified"
+}

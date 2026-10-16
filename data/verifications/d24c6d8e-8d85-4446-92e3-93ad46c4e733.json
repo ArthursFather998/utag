@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:29.653486+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d19dfca8-6d05-4573-b5f3-363d4449ddfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d24c6d8e-8d85-4446-92e3-93ad46c4e733",
+  "input": "{\"title\": \"You're My Best Friend\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live Killers'",
+  "status": "verified"
+}

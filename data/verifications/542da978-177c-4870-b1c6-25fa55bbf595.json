@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:32.234781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5ae9c3f-8cc8-455e-abe2-d9a44b9e5729",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "542da978-177c-4870-b1c6-25fa55bbf595",
+  "input": "{\"title\": \"That's a Rack\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

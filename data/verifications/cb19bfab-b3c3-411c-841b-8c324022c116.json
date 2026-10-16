@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:39.140443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "085c5fd0-0644-455a-89d0-fcfc637c645f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb19bfab-b3c3-411c-841b-8c324022c116",
+  "input": "{\"title\": \"Gypsy Heart\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Leather Jackets'",
+  "status": "verified"
+}

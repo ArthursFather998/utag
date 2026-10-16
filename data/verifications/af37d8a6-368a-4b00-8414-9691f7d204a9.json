@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:27.590184+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7aa98a11-c95a-470a-b52f-a1fb2a1815ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af37d8a6-368a-4b00-8414-9691f7d204a9",
+  "input": "{\"title\": \"Too Fast\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Old Boots, New Dirt'",
+  "status": "verified"
+}

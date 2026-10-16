@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:03.372951+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b90cd68a-b125-4303-bc45-d549bcc8ba12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc6d83fa-5947-4d7e-9f5f-647d69dd6fdd",
+  "input": "{\"title\": \"House of Memories\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'House of Memories EP'",
+  "status": "verified"
+}

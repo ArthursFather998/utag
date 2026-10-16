@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:30.222321+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "998a1638-0260-4d0f-a6a7-2edc1e4735ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9926e68-6a5c-457c-8d71-84786f859bf2",
+  "input": "{\"title\": \"Small Town Fame\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Some Sexy Songs 4 U'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:45.614405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f84c341-8345-4a77-bd60-38589128273f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1c59fa4-0f8a-43a5-b77d-0be2188498c1",
+  "input": "{\"title\": \"Origin\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Ultimate Collection'",
+  "status": "verified"
+}

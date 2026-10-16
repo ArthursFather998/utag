@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:26.515424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6aa87b22-0c92-4951-9ae5-6892a5961c6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3f5216a-5511-41f4-bb70-4642f37c3878",
+  "input": "{\"title\": \"Bunce Road Blues (with Future and Tems)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Fall-Off'",
+  "status": "verified"
+}

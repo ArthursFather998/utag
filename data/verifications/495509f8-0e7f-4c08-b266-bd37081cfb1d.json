@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:57.04624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79e5f463-594f-445c-b8cd-aba239ba5c5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "495509f8-0e7f-4c08-b266-bd37081cfb1d",
+  "input": "{\"title\": \"We'll Be Fine\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Take Care'",
+  "status": "verified"
+}

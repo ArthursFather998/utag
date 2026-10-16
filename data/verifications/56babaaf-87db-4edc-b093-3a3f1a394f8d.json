@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:10.329444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d233340-3496-47a9-85a1-49dffc9f90c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56babaaf-87db-4edc-b093-3a3f1a394f8d",
+  "input": "{\"title\": \"Rattlesnake Shake\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Best of Peter Green's Fleetwood Mac'",
+  "status": "verified"
+}

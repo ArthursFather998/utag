@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:08.140881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ea9a2f4-69b2-49dd-b653-ddb7f0166199",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4011140-c116-49fb-8ff4-484471342f43",
+  "input": "{\"title\": \"A Lesser Man\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Idol, Vol. 1'",
+  "status": "verified"
+}

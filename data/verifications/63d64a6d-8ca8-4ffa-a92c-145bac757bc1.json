@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:54.386698+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "664ef938-bffc-4db1-9bf7-e40bfe823cd1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "63d64a6d-8ca8-4ffa-a92c-145bac757bc1",
+  "input": "{\"title\": \"Don't Dream It's Over\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Dream It's Over'",
+  "status": "verified"
+}

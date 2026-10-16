@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:59.642284+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17796d85-1df5-4586-8677-f7f82882fac9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c1caf85-cab6-4bbb-b762-f695e885e5a6",
+  "input": "{\"title\": \"You Don't Own Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'You Don't Own Me'",
+  "status": "verified"
+}

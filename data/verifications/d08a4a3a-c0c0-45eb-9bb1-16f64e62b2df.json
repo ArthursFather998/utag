@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:34.407869+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfdbb981-47ff-40f3-b1d2-85e2313fdcbd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d08a4a3a-c0c0-45eb-9bb1-16f64e62b2df",
+  "input": "{\"title\": \"No Debes Jugar\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Remembered'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:14.693101+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d6af95e-1576-4bbf-8d5a-6c3da6f28c1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "33c4baa7-e0ff-4806-b06a-fefd87b7272c",
+  "input": "{\"title\": \"Take Good Care of My Baby\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Ultimate Epic Singles Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:09.215008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e40a80b-a12c-4a27-a3e7-80bc7dbadb3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9be77ad0-6afb-42a9-9c65-5144c282bb00",
+  "input": "{\"title\": \"The Hurting\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live at Massey Hall Toronto, Canada / 1985'",
+  "status": "verified"
+}

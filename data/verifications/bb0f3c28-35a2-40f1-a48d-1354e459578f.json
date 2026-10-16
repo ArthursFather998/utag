@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:22.022262+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f707a5a0-f438-4ef4-ba2c-05ca0bfbf0e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb0f3c28-35a2-40f1-a48d-1354e459578f",
+  "input": "{\"title\": \"An Apology\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Mega 3 Collection'",
+  "status": "verified"
+}

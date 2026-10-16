@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:13.563831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e49faf69-f1a0-4629-8cc0-ac71dc67ff6f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76492f2a-689f-4252-9a31-f9dcc8d38e29",
+  "input": "{\"title\": \"Sandy Mary\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live at the BBC'",
+  "status": "verified"
+}

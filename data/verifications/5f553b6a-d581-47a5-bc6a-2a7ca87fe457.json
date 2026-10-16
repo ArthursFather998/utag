@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:23.500799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5627418f-8a0e-43b3-b803-4916d6a5bd9c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f553b6a-d581-47a5-bc6a-2a7ca87fe457",
+  "input": "{\"title\": \"California Open Back\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Weatherman'",
+  "status": "verified"
+}

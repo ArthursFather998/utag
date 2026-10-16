@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:20.497581+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1cf63730-8546-461c-bdcc-f1bcf212d3a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45d57a71-a88f-4013-a2dd-99676980da39",
+  "input": "{\"title\": \"Bennie and the Jets\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Greatest Hits'",
+  "status": "verified"
+}

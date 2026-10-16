@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:23.286306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a6667bd-27c8-4489-a1ec-4c1a84ece041",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c1b2b6a7-99e8-4357-bbf2-2e90bfe77540",
+  "input": "{\"title\": \"Death on Two Legs\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live Killers'",
+  "status": "verified"
+}

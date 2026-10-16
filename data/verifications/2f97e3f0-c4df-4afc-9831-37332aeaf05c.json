@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:16.116185+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87ede10b-2ac6-4f55-8941-3d1c272b9919",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f97e3f0-c4df-4afc-9831-37332aeaf05c",
+  "input": "{\"title\": \"Let Her Go\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Love Sick'",
+  "status": "verified"
+}

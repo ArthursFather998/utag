@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:04.338561+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "facf0cd3-a5a6-4d03-b295-114290b90298",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d7779ef-4cb8-4056-a9de-dc15865c21a3",
+  "input": "{\"title\": \"Oh Wow...Swerve\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Revenge of the Dreamers III'",
+  "status": "verified"
+}

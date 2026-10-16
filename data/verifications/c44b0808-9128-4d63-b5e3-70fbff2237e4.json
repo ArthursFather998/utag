@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:39.489158+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e27b9ab-304f-4a4a-b8d1-619bd2519a9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c44b0808-9128-4d63-b5e3-70fbff2237e4",
+  "input": "{\"title\": \"Time Flies\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Dark Lane Demo Tapes'",
+  "status": "verified"
+}

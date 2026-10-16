@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:16.4379+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c4d9b38-952b-4850-9ee6-76e9b4bc7b26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b998be69-74f9-475e-92cb-7220d5ed02bf",
+  "input": "{\"title\": \"Some Things You Don't Forget\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of '9'",
+  "status": "verified"
+}

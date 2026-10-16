@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:42.26177+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38d5a5a7-9343-4286-bd21-9e87514de223",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac53c247-6038-4e5c-82e5-143f5382cb68",
+  "input": "{\"title\": \"Gingerbread Man\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Gingerbread Man'",
+  "status": "verified"
+}

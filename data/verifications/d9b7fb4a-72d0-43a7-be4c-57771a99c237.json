@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:43.534364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "986951f4-2449-49ec-9d0b-dd02ea927b62",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9b7fb4a-72d0-43a7-be4c-57771a99c237",
+  "input": "{\"title\": \"Love Kills - The Ballad\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

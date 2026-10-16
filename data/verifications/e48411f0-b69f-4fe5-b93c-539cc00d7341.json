@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:46.116793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1df277fa-c783-48d6-be42-bc7ef772dce0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e48411f0-b69f-4fe5-b93c-539cc00d7341",
+  "input": "{\"title\": \"Rock with U\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rock with U'",
+  "status": "verified"
+}

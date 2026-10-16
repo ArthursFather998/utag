@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:56.542787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "359774c3-d818-4465-b4bf-e80d5f73a55b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e8397ad-79fa-4420-a728-fe728f9a4cd9",
+  "input": "{\"title\": \"And That's Saying a Lot\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Albatross'",
+  "status": "verified"
+}

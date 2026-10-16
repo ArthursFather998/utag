@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:38.89676+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50d734cc-a69d-4f4f-87b3-0f97cfc539ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35f4f0ab-aabb-4556-b882-cc7207338f95",
+  "input": "{\"title\": \"validation\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'nyx'",
+  "status": "verified"
+}

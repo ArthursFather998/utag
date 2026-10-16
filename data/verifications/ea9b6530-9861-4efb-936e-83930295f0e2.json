@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:45.222329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7443f7ce-cfba-4311-8853-a59d892971e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea9b6530-9861-4efb-936e-83930295f0e2",
+  "input": "{\"title\": \"Sunshine, Lollipops and Rainbows\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Golden Hits of Lesley Gore'",
+  "status": "verified"
+}

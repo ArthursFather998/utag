@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:41:40.120567+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "title corrected to 'Cariño'",
+  "entity_id": "2b54d8ba-b475-4ad2-aadf-5bf09ac249c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45c6de6d-bbe6-4f13-b42e-67049c1caa15",
+  "input": "Cariño",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "mojibake: repaired UTF-8 corruption",
+  "status": "verified"
+}

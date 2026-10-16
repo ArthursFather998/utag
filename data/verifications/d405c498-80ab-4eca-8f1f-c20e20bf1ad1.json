@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:43.422826+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ccd41e0-e0d9-4147-8e0e-a098bf7ca861",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d405c498-80ab-4eca-8f1f-c20e20bf1ad1",
+  "input": "{\"title\": \"Albatross\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Shrine '69'",
+  "status": "verified"
+}

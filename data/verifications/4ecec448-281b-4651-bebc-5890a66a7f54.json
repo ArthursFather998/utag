@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:24.677453+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48543da1-c6fe-4f13-baea-913571f16ada",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4ecec448-281b-4651-bebc-5890a66a7f54",
+  "input": "{\"title\": \"Freedom\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:25.069167+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96c1fd57-92e7-4664-b5e1-f7e2dcb8280c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06633280-6f53-46a3-a138-3726cef3354e",
+  "input": "{\"title\": \"A Little Too Late\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Ten'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:24.382591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e873d76f-b87d-4fb8-a9ab-0fc9c87ef152",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de9ab9cd-5f2b-4d4e-87f5-abe4fbedfa76",
+  "input": "{\"title\": \"Crying in Chanel\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Some Sexy Songs 4 U'",
+  "status": "verified"
+}

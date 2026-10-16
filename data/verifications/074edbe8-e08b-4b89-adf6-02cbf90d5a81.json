@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:10.538114+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50f5dab5-3d3e-49a3-854f-1180a7c3c960",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "074edbe8-e08b-4b89-adf6-02cbf90d5a81",
+  "input": "{\"title\": \"Femme Fatale\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Femme Fatale'",
+  "status": "verified"
+}

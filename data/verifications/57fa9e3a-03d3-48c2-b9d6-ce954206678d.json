@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:38.056567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7bd3287f-c1d8-40b1-989b-32538dcc6b51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57fa9e3a-03d3-48c2-b9d6-ce954206678d",
+  "input": "{\"title\": \"Looking In\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

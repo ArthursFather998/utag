@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:22.459454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a185a130-3364-4e44-b6a7-de212cfc75f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c2415bf1-6d53-4971-a306-474b9af25316",
+  "input": "{\"title\": \"Got to Move\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

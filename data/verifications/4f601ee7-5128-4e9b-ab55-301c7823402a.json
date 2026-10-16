@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:19.792705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ade554f-b1c7-47c2-9aee-c3fec21ca54d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f601ee7-5128-4e9b-ab55-301c7823402a",
+  "input": "{\"title\": \"This Empty Northern Hemisphere\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'This Empty Northern Hemisphere'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:53.016558+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8263eb4-8e2d-4a55-8f4c-37eb501c860f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4bc5e6f0-bbd5-4a5a-9796-800b043f9e63",
+  "input": "{\"title\": \"The Muse\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'The Muse'",
+  "status": "verified"
+}

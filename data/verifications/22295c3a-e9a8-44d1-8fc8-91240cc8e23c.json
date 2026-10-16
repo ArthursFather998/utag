@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:54.311877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7efcd89f-b0cc-44e9-8bcd-eea9afbfed3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22295c3a-e9a8-44d1-8fc8-91240cc8e23c",
+  "input": "{\"title\": \"Kashmir\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Original Album Classics'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:55.692823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "03ff8fb0-b8a6-434f-9066-806a0ceac98d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d908d639-2856-468b-b0c1-214a20e8d75c",
+  "input": "{\"title\": \"Intro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Curtain Call: The Hits'",
+  "status": "verified"
+}

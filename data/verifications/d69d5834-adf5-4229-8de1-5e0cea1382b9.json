@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:17.655909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5afd6a5e-66ca-402b-8b8c-74be788b59f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d69d5834-adf5-4229-8de1-5e0cea1382b9",
+  "input": "{\"title\": \"Loverboy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Loverboy'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:35.01355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3fa66a1a-127c-4bb7-84b9-1cd33a04884f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6313a612-58b2-4e05-a892-fe6e1a1de677",
+  "input": "{\"title\": \"Gorgeous\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Gorgeous'",
+  "status": "verified"
+}

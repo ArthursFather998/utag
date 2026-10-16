@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:44.057189+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74a50e47-0779-48d9-ad4a-bb90dbdce58b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e60bc29a-28da-4d20-bbc4-59f15ca676e2",
+  "input": "{\"title\": \"What's It Like\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Hard'",
+  "status": "verified"
+}

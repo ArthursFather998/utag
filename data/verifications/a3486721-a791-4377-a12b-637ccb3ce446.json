@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:36.541798+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a9a52db-18f1-4944-bd1a-878878d2c7a1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a3486721-a791-4377-a12b-637ccb3ce446",
+  "input": "{\"title\": \"Test Drive\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

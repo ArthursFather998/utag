@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:08.352024+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7387ed3a-28a1-42c1-9418-b1b779c592d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "510e2c10-6da7-4981-bd24-d8f3b5546e52",
+  "input": "{\"title\": \"I Need You\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'In Tokyo 2025'",
+  "status": "verified"
+}

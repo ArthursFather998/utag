@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:45.591514+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "af9edd54-0924-46c0-8595-bad696f36814",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "f6dfcb3e-b125-4d24-86d8-c8edd0c542af",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "Spotify Singles",
+    "title": "Don't You (Forget About Me) (Live from Abbey Road Studios, London)"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Multiple sources confirm the November 2019 Spotify Singles pair: a cover of Simple Minds' 'Don't You (Forget About Me)' and 'She Plays Bass', recorded at Abbey Road Studios, London; Last.fm shows the exact two-track tracklist and version suffixes. | sources: https://www.last.fm/music/beabadoobee/Spotify+Singles, https://www.ukfestivalguides.com/artists/beabadoobee/",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:48.404512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f78ffe4-2567-4f17-bfc7-4ce6d149e25f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40f1f0e1-7bd2-4042-a986-363d8f38a4a6",
+  "input": "{\"title\": \"Cleanin' Out My Closet\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cleanin' Out My Closet'",
+  "status": "verified"
+}

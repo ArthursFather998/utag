@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:12.445212+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a6c6629-3767-48f0-adea-0fa66f0094cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19bb20d9-f262-4f1d-be5f-649ae9ef794a",
+  "input": "{\"title\": \"Let It Snow! Let It Snow! Let It Snow! (Outro)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mariah Carey's Magical Christmas Special'",
+  "status": "verified"
+}

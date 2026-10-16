@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:10.74284+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62302ad9-b541-4d3f-af62-c2eebae2ca5a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c915060-3c95-4e81-84bd-21471fe5ddf4",
+  "input": "{\"title\": \"Wheel in the Sky\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Captured'",
+  "status": "verified"
+}

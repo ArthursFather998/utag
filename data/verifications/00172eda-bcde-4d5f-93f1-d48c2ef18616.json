@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:58.647323+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae81fb74-4cff-4de6-87eb-e849ef1ff77c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00172eda-bcde-4d5f-93f1-d48c2ef18616",
+  "input": "{\"title\": \"Tell That Mick He Just Made My List of Things to Do Today\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live in Phoenix'",
+  "status": "verified"
+}

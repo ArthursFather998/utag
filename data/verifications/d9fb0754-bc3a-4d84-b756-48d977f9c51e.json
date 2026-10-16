@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:43.483709+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "086ab85f-82f8-4e36-b97e-80c79d6f9e1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9fb0754-bc3a-4d84-b756-48d977f9c51e",
+  "input": "{\"title\": \"Dream Brother\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live at Cabaret Metro, Chicago, IL, May 13, 1995'",
+  "status": "verified"
+}

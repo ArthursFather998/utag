@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:37.544282+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfc7f1ed-a9ff-4987-b968-2583cbae34c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b42042db-6414-4892-90fc-826f7e10fafb",
+  "input": "{\"title\": \"Intro to JVKE\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Apple Music Live: Alicia Keys'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:45.437235+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "995531b3-9ac2-43e5-8f4b-1aeeab23dd72",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f6e6a43-1e27-498a-ab09-dd145f408e25",
+  "input": "{\"title\": \"Royal Flush\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Warm Up'",
+  "status": "verified"
+}

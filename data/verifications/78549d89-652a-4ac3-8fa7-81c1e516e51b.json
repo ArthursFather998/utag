@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:42.800592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8b606c6-fc48-42d5-8f5f-fb7a336260b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78549d89-652a-4ac3-8fa7-81c1e516e51b",
+  "input": "{\"title\": \"Can't Go Back\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Mirage'",
+  "status": "verified"
+}

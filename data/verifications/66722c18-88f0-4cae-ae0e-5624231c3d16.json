@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:24.313006+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1893c261-94b4-4591-a443-b72934aa86b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "66722c18-88f0-4cae-ae0e-5624231c3d16",
+  "input": "{\"title\": \"This Is the Last Time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'This Is the Last Time'",
+  "status": "verified"
+}

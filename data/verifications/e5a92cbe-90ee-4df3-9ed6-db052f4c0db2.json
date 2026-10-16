@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:56.888091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "177c2cdb-6872-411b-9777-249bde24806a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5a92cbe-90ee-4df3-9ed6-db052f4c0db2",
+  "input": "{\"title\": \"Overcome\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Stadium Anthems'",
+  "status": "verified"
+}

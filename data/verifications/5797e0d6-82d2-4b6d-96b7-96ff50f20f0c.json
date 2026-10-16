@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:10.270455+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58f991e9-7a2c-4514-b050-f0ae90fd7b83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5797e0d6-82d2-4b6d-96b7-96ff50f20f0c",
+  "input": "{\"title\": \"Often\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Scarlet 2 Claude'",
+  "status": "verified"
+}

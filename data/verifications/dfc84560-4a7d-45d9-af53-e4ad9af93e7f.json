@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:09.268103+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb377e0c-0fee-43bb-98e6-f2975df10eea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dfc84560-4a7d-45d9-af53-e4ad9af93e7f",
+  "input": "{\"title\": \"fallin in luv\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'fallin in luv'",
+  "status": "verified"
+}

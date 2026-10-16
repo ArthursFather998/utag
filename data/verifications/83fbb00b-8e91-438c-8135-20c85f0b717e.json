@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:52.024451+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bace27f4-4406-4be2-8f9f-deb28fa4e93b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83fbb00b-8e91-438c-8135-20c85f0b717e",
+  "input": "{\"title\": \"Don't Stop Believin'\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Essential Journey'",
+  "status": "verified"
+}

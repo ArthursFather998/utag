@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:46.391926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ef394ae-389a-42e6-9ea3-7c189411be33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cff2a21c-c9c6-4a1c-84e9-9a172960f2f7",
+  "input": "{\"title\": \"Mardy Bum\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Whatever People Say I Am, That's What I'm Not'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:55.407351+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aecf28ce-a27b-4980-bac4-d545ef53a583",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef1377cb-6392-43df-a1d8-b611b2a55ef2",
+  "input": "{\"title\": \"Daisy Chain\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '(((((ultraSOUND)))))+'",
+  "status": "verified"
+}

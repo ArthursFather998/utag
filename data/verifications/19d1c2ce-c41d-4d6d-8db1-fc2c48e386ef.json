@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:00.711168+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51bff977-1d2d-4d77-b152-2840aa4bdac2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19d1c2ce-c41d-4d6d-8db1-fc2c48e386ef",
+  "input": "{\"title\": \"Fantasy (Bad Boy Fantasy Remix)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of '#1 to Infinity'",
+  "status": "verified"
+}

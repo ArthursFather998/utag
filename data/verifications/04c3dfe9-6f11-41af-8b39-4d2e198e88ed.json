@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:26.265105+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9361b64b-9fcc-4459-aa89-5e35248f4fa2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04c3dfe9-6f11-41af-8b39-4d2e198e88ed",
+  "input": "{\"title\": \"Feel Like Makin' Love\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Live in Ukraine'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:55.008449+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69c04543-5645-4b4a-a55f-5ddf398f2601",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b479d61-aa51-42e9-b58d-1da405e46947",
+  "input": "{\"title\": \"Baby, Don't Go\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Folk Rock'",
+  "status": "verified"
+}

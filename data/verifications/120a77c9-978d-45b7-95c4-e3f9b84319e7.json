@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:22.835014+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e284087-41ec-4e96-80c4-4f53fe78d0fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "120a77c9-978d-45b7-95c4-e3f9b84319e7",
+  "input": "{\"title\": \"Oxy (performed by Future featuring Lil Wayne)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Wrld on Drugs'",
+  "status": "verified"
+}

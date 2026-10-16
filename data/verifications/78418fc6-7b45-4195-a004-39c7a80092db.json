@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:43.44753+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bda2b466-3448-45fe-8af3-0b7dea76b12b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78418fc6-7b45-4195-a004-39c7a80092db",
+  "input": "{\"title\": \"Pero C\\u00f3mo Te Ha Ido\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Alpha'",
+  "status": "verified"
+}

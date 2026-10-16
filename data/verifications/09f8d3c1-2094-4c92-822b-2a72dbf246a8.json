@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:23.180496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82857c71-25a1-4803-8202-eb0c38857bc4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09f8d3c1-2094-4c92-822b-2a72dbf246a8",
+  "input": "{\"title\": \"Emerald\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Emerald'",
+  "status": "verified"
+}

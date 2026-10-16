@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:37.506704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a2c4f94-f2e1-4afb-a03a-c271a968c018",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b4c1f4f5-7615-48e6-8456-9664564d27e8",
+  "input": "{\"title\": \"she was the girl in red\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

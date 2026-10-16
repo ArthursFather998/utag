@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:20.461958+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01857fdf-61aa-41b0-9f4d-6b6b1982809d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3625b387-06d6-4ff5-83ca-aacdb0304ba4",
+  "input": "{\"title\": \"How Come You Don't Call Me\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Songs in A Minor: 20th Anniversary Edition'",
+  "status": "verified"
+}

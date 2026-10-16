@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:15.865357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f96cb7c-0122-40d7-9e78-8980b1b829d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9ca3af3-ad0f-4369-b5e3-a4bf7ae627b3",
+  "input": "{\"title\": \"London Beckoned Songs About Money Written by Machines\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'A Fever You Can't Sweat Out'",
+  "status": "verified"
+}

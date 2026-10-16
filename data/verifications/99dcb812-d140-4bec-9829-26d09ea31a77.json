@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:32.487643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51d1b5f1-84a2-435f-ba47-36fc8e4d0b67",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "99dcb812-d140-4bec-9829-26d09ea31a77",
+  "input": "{\"title\": \"Fireflies\", \"release_type\": \"single\", \"release_year\": 1981}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

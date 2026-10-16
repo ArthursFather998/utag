@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:02.600349+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c8d1c3c-9bc0-4e1e-b585-612570219370",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3b2a5c82-cd80-4995-8d6b-e969d02e4b2a",
+  "input": "{\"title\": \"Tulsa Jesus Freak\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tulsa Jesus Freak'",
+  "status": "verified"
+}

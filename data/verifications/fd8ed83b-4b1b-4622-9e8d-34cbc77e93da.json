@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:00.395539+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f16ba83-a38a-4ceb-9782-88910c86426d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fd8ed83b-4b1b-4622-9e8d-34cbc77e93da",
+  "input": "{\"title\": \"Campaign Speech\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

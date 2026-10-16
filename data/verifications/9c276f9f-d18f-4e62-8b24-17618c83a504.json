@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:18.977359+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "543f2a3e-6e83-4821-806a-8f3fffcbeea9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c276f9f-d18f-4e62-8b24-17618c83a504",
+  "input": "{\"title\": \"solace.\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'solace.'",
+  "status": "verified"
+}

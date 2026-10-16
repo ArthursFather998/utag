@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:33.221422+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f27e0da-a10a-480e-b28e-3a85b6bed600",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5735d533-2f4b-4f26-af89-039ccbdda40f",
+  "input": "{\"title\": \"Youth\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Youth'",
+  "status": "verified"
+}

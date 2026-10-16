@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:52.504084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d954e63-8b1b-46e6-a73d-49b59658a386",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a45480bd-637a-4d30-9fdf-626c95dd7fd0",
+  "input": "{\"title\": \"You're Insane\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'You're Insane'",
+  "status": "verified"
+}

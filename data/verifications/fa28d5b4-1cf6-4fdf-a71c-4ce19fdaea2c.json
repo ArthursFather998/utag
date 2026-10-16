@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:24.330412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c7db1b9-24bc-4e9a-8203-ddc6083fc9a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa28d5b4-1cf6-4fdf-a71c-4ce19fdaea2c",
+  "input": "{\"title\": \"When We Were Kings\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'When We Were Kings'",
+  "status": "verified"
+}

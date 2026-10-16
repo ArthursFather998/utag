@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:25.70266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "daf500c4-690c-4dfd-a0cd-7703a4080987",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28797a2e-a6dd-4349-aabe-9e250043d98f",
+  "input": "{\"title\": \"There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet (Live in Denver)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live in Denver'",
+  "status": "verified"
+}

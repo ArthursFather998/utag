@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:15.212465+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50d98b2d-9dd9-4de3-a8b9-1612ed4d208c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7004b87b-aadf-4d4e-b82d-6f6caf162a5b",
+  "input": "{\"title\": \"We Love You Tecca 2\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

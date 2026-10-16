@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:02.2093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "afd2900e-6cad-4e7c-b379-1714b5683bfe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96a94a09-1a28-4f26-8c9b-1f2a485ff9af",
+  "input": "{\"title\": \"Do You Recall\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Captured'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:19.507645+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0f7fddb-f5b5-4aba-a51a-0f4e122bc294",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "374ec787-fc81-41af-9ba4-12cc31f6e247",
+  "input": "{\"title\": \"Whole Town Laughing\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Baby Makin' Project'",
+  "status": "verified"
+}

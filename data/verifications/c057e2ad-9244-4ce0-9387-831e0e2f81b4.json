@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:52.58026+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7bacba60-1cbf-47e1-a497-c59e153102e4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c057e2ad-9244-4ce0-9387-831e0e2f81b4",
+  "input": "{\"title\": \"two queens in a king sized bed\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

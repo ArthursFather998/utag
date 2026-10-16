@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:05.61316+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc38934a-a0f6-4699-bb2f-0cfc0d866bec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4823a38f-68d8-432f-b3d8-892421d4a90c",
+  "input": "{\"title\": \"Good Morning Girl\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Good Morning Girl / Stay Awhile'",
+  "status": "verified"
+}

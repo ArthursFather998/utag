@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:36.314297+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "663a257e-c2c4-4ac6-8e9b-2e764850a56e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50cffb13-93a8-4844-9b95-6aa142fb6c81",
+  "input": "{\"title\": \"Hey! Get Out of My Way\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hey! Get Out of My Way'",
+  "status": "verified"
+}

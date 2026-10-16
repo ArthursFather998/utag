@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:12.261833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5af10114-94fb-4fc0-9097-5012ae54f7c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45713bca-dbe3-4481-b26c-0ec2d0e1e154",
+  "input": "{\"title\": \"Only You\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Only Human'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:40.624565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e125b1ae-172f-43c4-98c6-b8ca46d2c44b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84d5c5b7-64d4-4806-977f-87910cfe8152",
+  "input": "{\"title\": \"T\\u00f3xico\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tóxico'",
+  "status": "verified"
+}

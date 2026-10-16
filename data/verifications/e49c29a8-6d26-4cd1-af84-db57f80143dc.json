@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:51.412628+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c12153e-2731-4156-8c45-075f5255090d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e49c29a8-6d26-4cd1-af84-db57f80143dc",
+  "input": "{\"title\": \"Summer and Sandy\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Lesley Gore's Golden Hits, Vol. 2'",
+  "status": "verified"
+}

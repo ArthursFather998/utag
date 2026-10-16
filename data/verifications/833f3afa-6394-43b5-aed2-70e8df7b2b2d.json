@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:16.205705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e1dc836-e751-46f1-bd5a-57ba2207811e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "833f3afa-6394-43b5-aed2-70e8df7b2b2d",
+  "input": "{\"title\": \"When Yesterday Was Tomorrow\", \"release_type\": \"single\", \"release_year\": 1970}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

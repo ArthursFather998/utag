@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:17.980041+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2cccca0-64fa-43ea-9341-d88b733d9543",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1223724c-91f4-4633-9469-5d405a62769d",
+  "input": "{\"title\": \"Rockstar 101 (featuring Slash)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Rated R'",
+  "status": "verified"
+}

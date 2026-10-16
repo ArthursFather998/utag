@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:24.36087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a9fe3ed-8e1e-4620-943b-5951f6a73012",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbc63015-e5f0-4e37-b868-0b0b98cc0d9e",
+  "input": "{\"title\": \"Last Night\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Fleetwood Mac in Chicago'",
+  "status": "verified"
+}

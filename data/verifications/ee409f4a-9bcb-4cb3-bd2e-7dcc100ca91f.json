@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:15.956087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10fe6bf3-c6ac-48cf-ba26-7b41dd8b8e45",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee409f4a-9bcb-4cb3-bd2e-7dcc100ca91f",
+  "input": "{\"title\": \"Diary (featuring Tony! Toni! Ton\\u00e9! and Jermaine Paul)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Diary of Alicia Keys'",
+  "status": "verified"
+}

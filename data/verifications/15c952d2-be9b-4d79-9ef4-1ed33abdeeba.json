@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:01.476434+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9138b3d-62c7-4004-bf7c-3c773109afd4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "15c952d2-be9b-4d79-9ef4-1ed33abdeeba",
+  "input": "{\"title\": \"Views\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

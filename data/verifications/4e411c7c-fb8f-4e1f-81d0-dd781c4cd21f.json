@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:09.555539+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e404dec-f5d8-4ce8-b9fa-639c73f5d35b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e411c7c-fb8f-4e1f-81d0-dd781c4cd21f",
+  "input": "{\"title\": \"Make It Happen\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'The Rarities'",
+  "status": "verified"
+}

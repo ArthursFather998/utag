@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:46.497834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ac6d8fa-b1b4-4cf3-bd51-dad808fc396e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37b1254c-22f0-4441-b7b7-bf7e8d308b8c",
+  "input": "{\"title\": \"Cherry\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Lust for Life'",
+  "status": "verified"
+}

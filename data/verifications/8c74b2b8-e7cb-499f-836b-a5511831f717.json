@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:20.865502+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "939e71bd-cf09-4f36-af6d-e5a8b1d92bf7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c74b2b8-e7cb-499f-836b-a5511831f717",
+  "input": "{\"title\": \"De Novo Adagio (Intro)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Girl on Fire'",
+  "status": "verified"
+}

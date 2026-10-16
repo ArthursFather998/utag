@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:52.263911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "335cf68c-4696-4eff-b52f-3b686c41d1ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54947a5e-fb45-461f-9658-9774c129639f",
+  "input": "{\"title\": \"Baby That's Me\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'My Town, My Guy & Me'",
+  "status": "verified"
+}

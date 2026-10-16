@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:00.884888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9afa8b9-a72c-47a5-aab4-2840e7af5c98",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a5f588b-3e63-42d3-ad9a-feb57297031b",
+  "input": "{\"title\": \"From the Start (Lofi Version)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Laufey Lofi Collection'",
+  "status": "verified"
+}

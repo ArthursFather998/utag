@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:44.361048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d8f49b6-bcd1-4da1-8103-04812b30af9f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed55347a-3169-4ae6-bbd6-9cad4e110485",
+  "input": "{\"title\": \"Talk\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Night Train'",
+  "status": "verified"
+}

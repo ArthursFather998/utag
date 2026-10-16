@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:11.239151+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5530ed15-7175-4fb6-a6e9-6bf25ce2de29",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cedd3a9-d752-4af7-9170-875d15e3297a",
+  "input": "{\"title\": \"Come Softly To Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Runaround'",
+  "status": "verified"
+}

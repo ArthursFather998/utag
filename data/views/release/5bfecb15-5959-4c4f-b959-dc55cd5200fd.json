@@ -1,0 +1,148 @@
+{
+  "artists": {
+    "canonical_name": "Myla, kobzx2z",
+    "id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Myla, kobzx2z",
+        "id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c"
+      },
+      "artwork": [
+        {
+          "id": "dc4539e4-f9c9-4f00-b828-d75c8e716196",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/9dd15599c5bf46f344f85f32509dcabf/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:40.020088+00:00",
+      "edition": "original",
+      "id": "bf5bac0e-3c5e-4901-bfbe-7a3be0260795",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Sick of Nostalgia"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T14:13:01.010549+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "5bfecb15-5959-4c4f-b959-dc55cd5200fd",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": 2025,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "you broke my heart",
+    "updated_at": "2026-10-16T14:13:01.010549+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T14:13:05.278352+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "61cc5852-9e82-4a37-b815-510cbc85f17c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5bfecb15-5959-4c4f-b959-dc55cd5200fd",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "you broke my heart",
+      "track_number": 1,
+      "updated_at": "2026-10-16T14:13:05.278352+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T14:13:08.633301+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b6366e59-5565-407d-9cdb-8d7ecbff8d8a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5bfecb15-5959-4c4f-b959-dc55cd5200fd",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "you broke my heart (slowed & reverb)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T14:13:08.633301+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T14:13:12.491062+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5d9135f4-3dde-4b06-b853-118032a87f69",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5bfecb15-5959-4c4f-b959-dc55cd5200fd",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "you broke my heart (sped up)",
+      "track_number": 3,
+      "updated_at": "2026-10-16T14:13:12.491062+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T14:13:15.997507+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b2af84e7-5eb3-43d6-b9d3-50bb23420e7e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5bfecb15-5959-4c4f-b959-dc55cd5200fd",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "you broke my heart (instrumental)",
+      "track_number": 4,
+      "updated_at": "2026-10-16T14:13:15.997507+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T14:13:02.906808+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "5bfecb15-5959-4c4f-b959-dc55cd5200fd",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "f89ea030-a542-4b04-ac16-46b3b8d31d6d",
+      "input": "{\"title\": \"you broke my heart\", \"release_type\": \"album\", \"release_year\": 2025}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 17",
+      "status": "verified"
+    }
+  ]
+}

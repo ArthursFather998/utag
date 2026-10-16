@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:03.270333+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "95d04a97-425e-4d95-9c03-e0dab5961f18",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1549740b-f4cf-479d-88de-c2eaedd0cf55",
+  "input": "{\"title\": \"She's Why\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Songs About Us'",
+  "status": "verified"
+}

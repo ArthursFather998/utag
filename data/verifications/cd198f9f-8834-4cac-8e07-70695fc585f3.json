@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:06.119897+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3648afbf-3195-4607-80f0-045ca44e7c85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd198f9f-8834-4cac-8e07-70695fc585f3",
+  "input": "{\"title\": \"Santa Must Be Polish\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Kissin' Christmas: The Bobby Vinton Christmas Album'",
+  "status": "verified"
+}

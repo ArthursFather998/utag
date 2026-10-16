@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:52.224087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3577c61-1722-4107-90d6-6052de9c36cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f690c35a-ba67-4a5e-974e-61282e569e19",
+  "input": "{\"title\": \"YNW Home Invasion (feat. Lil Uzi Vert)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'I Am You'",
+  "status": "verified"
+}

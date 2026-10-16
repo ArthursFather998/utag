@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:02.858786+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc796d16-f30d-400b-90d2-ad05bc5d60d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "14798e60-17ac-42ec-9ba0-7cb2cedb416a",
+  "input": "{\"title\": \"Ev'ry Day of My Life\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Bobby Vinton's All-Time Greatest Hits'",
+  "status": "verified"
+}

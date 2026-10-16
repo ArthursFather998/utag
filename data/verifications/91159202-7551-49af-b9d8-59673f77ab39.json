@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:12.635957+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28844a74-0720-4fdd-999f-f054f94123bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "91159202-7551-49af-b9d8-59673f77ab39",
+  "input": "{\"title\": \"Good Morning to the Night\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Good Morning to the Night'",
+  "status": "verified"
+}

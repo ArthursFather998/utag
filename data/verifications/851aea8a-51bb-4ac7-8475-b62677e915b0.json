@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:04.451454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99b689ae-419e-4fe8-bea4-7393fdde9421",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "851aea8a-51bb-4ac7-8475-b62677e915b0",
+  "input": "{\"title\": \"The Lounge\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

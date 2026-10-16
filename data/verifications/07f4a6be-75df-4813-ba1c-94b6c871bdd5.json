@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:39.22291+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51d45cf2-4047-496b-9dc1-44ab96f1748d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07f4a6be-75df-4813-ba1c-94b6c871bdd5",
+  "input": "{\"title\": \"My Town, My Guy and Me\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Best of Lesley Gore'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:49.360819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01678ad8-8f28-49c4-a5cf-37efec19bf8d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d58125d6-ecb4-4fa3-a505-03d8c58dbea3",
+  "input": "{\"title\": \"Because of Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Because of Love'",
+  "status": "verified"
+}

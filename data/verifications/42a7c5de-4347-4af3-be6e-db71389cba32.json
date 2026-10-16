@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:18.310675+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ffe6a0d-6a77-4666-8bbe-92e781c394a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42a7c5de-4347-4af3-be6e-db71389cba32",
+  "input": "{\"title\": \"Si Una Vez\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Unforgettable: The Studio Album'",
+  "status": "verified"
+}

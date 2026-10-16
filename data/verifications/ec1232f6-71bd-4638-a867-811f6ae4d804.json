@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:29.731555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68064361-b280-45ed-b205-718fc17ca5be",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ec1232f6-71bd-4638-a867-811f6ae4d804",
+  "input": "{\"title\": \"Rule the World: The Greatest Hits\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

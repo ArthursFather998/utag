@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:25.233797+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "edeac3bb-01ab-4565-8058-65a92c1e40f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45d4cced-5726-4cdb-8af8-9a431c4b3748",
+  "input": "{\"title\": \"Too Fat Polka\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Party Music ~~ 20 Hits'",
+  "status": "verified"
+}

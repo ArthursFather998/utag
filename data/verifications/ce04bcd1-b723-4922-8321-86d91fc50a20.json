@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:09.653518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b247c0fa-97f1-4293-94c5-5bccfaea5ea1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce04bcd1-b723-4922-8321-86d91fc50a20",
+  "input": "{\"title\": \"The Glory\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Remembering Dolores'",
+  "status": "verified"
+}

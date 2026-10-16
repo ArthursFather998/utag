@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:02.582919+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d8c3d58-34d3-434f-a6e2-1761b7d1a0ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92d9d596-8661-4a48-9607-b94afefb3c04",
+  "input": "{\"title\": \"Rocket Man (I Think It's Going to Be a Long, Long Time)\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Never Too Late'",
+  "status": "verified"
+}

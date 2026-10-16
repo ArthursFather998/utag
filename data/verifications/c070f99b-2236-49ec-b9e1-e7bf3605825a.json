@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:49.194819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "731f4b68-8484-4807-b9b7-0029a7f0c707",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c070f99b-2236-49ec-b9e1-e7bf3605825a",
+  "input": "{\"title\": \"I Don't Wanna Talk (I Just Wanna Dance)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Spotify Singles'",
+  "status": "verified"
+}

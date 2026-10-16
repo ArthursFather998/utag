@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:07.459934+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec24f3bd-fca7-46e5-b6c1-10f06c62d6d0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4a01bd31-46b1-4acd-8282-d9d4e74d1c8b",
+  "input": "{\"title\": \"Torn\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

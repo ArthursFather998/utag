@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:55.904138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98168fcc-2708-4e75-a2de-b5b2a613d793",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "59d9a06f-35b3-4fef-a294-3a9b7bebbdc9",
+  "input": "{\"title\": \"Bluffin'\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bluffin''",
+  "status": "verified"
+}

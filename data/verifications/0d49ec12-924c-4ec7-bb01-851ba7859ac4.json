@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:56.036492+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9dd92df8-b20b-41d9-bf44-48f377a98433",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d49ec12-924c-4ec7-bb01-851ba7859ac4",
+  "input": "{\"title\": \"Man Up Above\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'The Fall-Off'",
+  "status": "verified"
+}

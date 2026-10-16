@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:27.595275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61798e08-f5eb-4b13-b7bb-e49a222c0d35",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c61657f5-2a66-404a-ae84-6922299246d1",
+  "input": "{\"title\": \"Prostitute\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

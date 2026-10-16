@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:41.298966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ab075c2-a90b-42b1-9fea-7197fdd4a765",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36b2b5bb-397b-4318-9401-b264e5418dd7",
+  "input": "{\"title\": \"Zombie Dance\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Escape the Fate'",
+  "status": "verified"
+}

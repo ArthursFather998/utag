@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:23.362882+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4d9715f-250b-4919-8241-f531b73fba3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d2b6735-6bbe-4077-97d6-ec4f8d6947c4",
+  "input": "{\"title\": \"Siempre Estoy Pensando En Ti\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of 'La Leyenda'",
+  "status": "verified"
+}

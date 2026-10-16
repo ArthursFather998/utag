@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:16.573218+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d61604a-3549-4eff-8107-e83502dc0fe8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d83352f5-b6ea-4db7-9bb2-3a65a5ba8903",
+  "input": "{\"title\": \"H.A.T.E.U.\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

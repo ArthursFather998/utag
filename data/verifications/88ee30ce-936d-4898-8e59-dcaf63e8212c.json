@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:07.797384+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98657135-6e88-4545-901e-7e4f71c4dec2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88ee30ce-936d-4898-8e59-dcaf63e8212c",
+  "input": "{\"title\": \"Mount Everest\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Imagination & the Misfit Kid'",
+  "status": "verified"
+}

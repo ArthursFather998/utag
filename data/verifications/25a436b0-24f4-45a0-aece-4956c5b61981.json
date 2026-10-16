@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:16:54.076796+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "928ce92f-361b-42c3-afa3-37e913d61c55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25a436b0-24f4-45a0-aece-4956c5b61981",
+  "input": "{\"title\": \"Bootylicious\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of '#1's'",
+  "status": "verified"
+}

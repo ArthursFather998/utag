@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:21.118618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fae7452c-f8b9-4db6-9773-24e148c966d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1a7083e-2057-43de-ad18-624f02a9f0e0",
+  "input": "{\"title\": \"I Lied (with August Ponthier)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Long Lost'",
+  "status": "verified"
+}

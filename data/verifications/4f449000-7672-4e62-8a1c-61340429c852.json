@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:25.287736+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "6fd508c5-f27b-4e85-801c-67c88a631655",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "4f449000-7672-4e62-8a1c-61340429c852",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "Beaches",
+    "title": "Beaches"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Real single released 7 August 2024, fourth single from This Is How Tomorrow Moves; title/artist/year all match. | sources: https://en.wikipedia.org/wiki/This_Is_How_Tomorrow_Moves, https://southblueprint.com/36005/entertainment/beabadoobee-gets-personal-in-her-third-studio-album-this-is-how-tomorrow-moves/",
+  "status": "verified"
+}

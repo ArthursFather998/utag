@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:32.470187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "214989a5-1e1c-4a17-9978-38c3b3def9e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b84da90-798c-40a4-8be8-3f2f9c4fed2b",
+  "input": "{\"title\": \"Caught Up\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Confessions'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:55.57883+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "481c162e-8c24-46d8-bbbd-d90c708fb7fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6415bd63-014d-4d4b-8518-b4ee76ba26b1",
+  "input": "{\"title\": \"Broken Toy (Remastered 2026)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Under the Iron Sea (20th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

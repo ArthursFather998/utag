@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:15.641702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0227f5d0-36a3-4502-a58b-350a35a3c087",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb7ab574-644b-4eae-b579-4af8051e733f",
+  "input": "{\"title\": \"Where Are \\u00dc Now\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Where Are Ü Now'",
+  "status": "verified"
+}

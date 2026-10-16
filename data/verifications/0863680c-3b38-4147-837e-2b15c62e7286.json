@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:24.529374+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de7a2325-2492-4229-a1e0-74004a76c29f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0863680c-3b38-4147-837e-2b15c62e7286",
+  "input": "{\"title\": \"Dresses\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Tickets for a Prayer Wheel'",
+  "status": "verified"
+}

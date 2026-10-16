@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:37.527914+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd326e75-1e1e-444c-88d2-c50eb0108d7e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49534da6-952b-4857-abe1-69dac02d5f10",
+  "input": "{\"title\": \"Phantom Regret by Jim\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Dawn FM'",
+  "status": "verified"
+}

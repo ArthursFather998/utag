@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:12.73725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "869e88c5-52f0-46b0-902a-9c3bd99114fc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4bb9c8b5-4cff-40fc-8a25-9afd6a9a39d4",
+  "input": "{\"title\": \"Survival\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

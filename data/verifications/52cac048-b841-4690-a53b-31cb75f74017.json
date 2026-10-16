@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:51.875927+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "948ad874-f569-41cb-bfa9-9dc20bde028f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52cac048-b841-4690-a53b-31cb75f74017",
+  "input": "{\"title\": \"Sabes\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Anthology'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:34.506123+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75ba0048-a70f-43ce-a35c-cba5ff1d1085",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd58f9d9-d82d-4fb3-9f62-5d70065d89e5",
+  "input": "{\"title\": \"On a Saturday Nite\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Look into the Future'",
+  "status": "verified"
+}

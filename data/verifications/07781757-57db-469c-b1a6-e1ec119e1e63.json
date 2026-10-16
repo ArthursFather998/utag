@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:30.134651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5be6d55c-7e37-4907-8ffa-730242bc934a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07781757-57db-469c-b1a6-e1ec119e1e63",
+  "input": "{\"title\": \"The Other Side\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Other Side'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:43.332975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3783eae-afe9-4687-b2b2-9e0775ecf54f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "88d7de00-4afc-46f4-b2fe-3ca9fe1ec62f",
+  "input": "{\"title\": \"Star Shopping\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

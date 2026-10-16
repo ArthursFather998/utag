@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:22.608492+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e2e7127-4fa4-4713-8cf7-b30f71531806",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "238ab932-b756-4725-9bac-2a29d0e9ccb9",
+  "input": "{\"title\": \"Signal Sender\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Signal Sender'",
+  "status": "verified"
+}

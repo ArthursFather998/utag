@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:56.630484+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b9b31be-81d6-443b-835f-d85545cc34f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a577ff72-962c-49d1-bd5e-008015a012b8",
+  "input": "{\"title\": \"Beautiful\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Relapse: Refill'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:14.876098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e44c5f46-4383-4df3-ae33-78a715ae163a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b1937bc-4280-4f64-9612-48147d6f5026",
+  "input": "{\"title\": \"Black Letter Day\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Black Letter Day'",
+  "status": "verified"
+}

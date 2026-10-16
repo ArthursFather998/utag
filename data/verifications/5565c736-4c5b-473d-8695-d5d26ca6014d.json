@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:10.724516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d60112a3-d87d-4db6-a01c-bdc10bb2a925",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5565c736-4c5b-473d-8695-d5d26ca6014d",
+  "input": "{\"title\": \"Sweetheart\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Greatest Hits'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:15.858087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25c456bf-4d41-4749-b331-c4d99cc68d2a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76dd0836-7f9c-46c9-b39f-d3ab5f909f25",
+  "input": "{\"title\": \"Put a Little Umph in It\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Baby Makin' Project'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:24.31157+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b178d346-4d4b-45dd-b5dd-5d4242f57603",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0f13962-e9a3-4c29-a0e3-a13ba50442f7",
+  "input": "{\"title\": \"Legacy (with PJ)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Fall-Off'",
+  "status": "verified"
+}

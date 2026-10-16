@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:04.818219+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a94d3e7f-f7cf-4ec0-8529-3dbbb80e67bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d80ef2e-9a66-42aa-ba73-62202c15c184",
+  "input": "{\"title\": \"The Hurting\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Hurting'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:31.536254+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "519e996c-d897-4046-a2e4-45286a4f0e4f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68bd1d0a-c234-4558-b09f-98c90263e211",
+  "input": "{\"title\": \"Everyday People\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'You and I'",
+  "status": "verified"
+}

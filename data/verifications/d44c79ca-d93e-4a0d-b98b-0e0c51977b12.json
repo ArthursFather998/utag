@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:30.750555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49ac52ba-1642-446f-9057-917087119170",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d44c79ca-d93e-4a0d-b98b-0e0c51977b12",
+  "input": "{\"title\": \"Cut Somethin'\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Jagged Little Thrill'",
+  "status": "verified"
+}

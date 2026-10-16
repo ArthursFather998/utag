@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:39.162326+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b116d7c-e27b-4d3c-a7cf-339fc1003152",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "95266588-cb4a-4887-b0e4-023b0d7f4545",
+  "input": "{\"title\": \"Life (Remastered)\", \"release_type\": \"album\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

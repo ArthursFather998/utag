@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:13.611759+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d9cb330-0da9-47a9-9b89-970d0d4b3723",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d2022fe0-fb42-4d4a-a35d-1a0d3bf0f431",
+  "input": "{\"title\": \"stay\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

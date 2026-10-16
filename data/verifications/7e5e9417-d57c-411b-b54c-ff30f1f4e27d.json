@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:43.850337+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e517295-a316-4a9c-9012-a8579c47db41",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e5e9417-d57c-411b-b54c-ff30f1f4e27d",
+  "input": "{\"title\": \"Staying Up\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'I Love You. (10th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:01.323173+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15e58301-a7ad-4fa9-a8b9-38807e79b30a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "06b073e5-114f-4ccb-8a04-85f040c0d91d",
+  "input": "{\"title\": \"Everything I Know About Love\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

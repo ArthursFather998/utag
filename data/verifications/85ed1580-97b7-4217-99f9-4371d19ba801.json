@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:30.29752+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "acec2978-a550-4432-b3cf-aa2ea4f55916",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85ed1580-97b7-4217-99f9-4371d19ba801",
+  "input": "{\"title\": \"Nothing Left at All\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Uncertain'",
+  "status": "verified"
+}

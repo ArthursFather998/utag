@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:58.412618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0e5bf64-86bb-4680-8535-3835a28fe09c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc7c1bd4-9e7e-4521-add3-623268e0e05a",
+  "input": "{\"title\": \"Diary (featuring Tony! Toni! Ton\\u00e9!)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Diary (featuring Tony! Toni! Toné!)'",
+  "status": "verified"
+}

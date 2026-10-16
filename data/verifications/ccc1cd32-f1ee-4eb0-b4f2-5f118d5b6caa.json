@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:33.329051+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b96beaf-1ea9-496a-ab2a-50de7af9709d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ccc1cd32-f1ee-4eb0-b4f2-5f118d5b6caa",
+  "input": "{\"title\": \"Evanescence\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

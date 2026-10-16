@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:02.128004+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "380fe705-f55e-4ce8-96ec-b68eaacbe2be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d703e10c-02ff-416a-bb67-de88e23f5f49",
+  "input": "{\"title\": \"All at Once\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Fray - The Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:08.183375+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ef2c98d-748e-4a49-a8a3-eb130a01763b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10de168b-c829-46f0-9af5-64cc87b1d3ce",
+  "input": "{\"title\": \"Hey You!\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hey You!'",
+  "status": "verified"
+}

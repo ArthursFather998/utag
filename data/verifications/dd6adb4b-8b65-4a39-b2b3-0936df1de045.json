@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:51.98272+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfb0849a-2b37-4bfd-97fb-b3a70b55cf60",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd6adb4b-8b65-4a39-b2b3-0936df1de045",
+  "input": "{\"title\": \"Thank God It's Christmas\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Greatest Hits III'",
+  "status": "verified"
+}

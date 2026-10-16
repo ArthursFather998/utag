@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:08.917428+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "debfd43d-d3c3-452f-9dd3-80b382d204de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0170420-5404-49cd-818d-ffca9fa0d45b",
+  "input": "{\"title\": \"Is She the Reason\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Destiny Fulfilled'",
+  "status": "verified"
+}

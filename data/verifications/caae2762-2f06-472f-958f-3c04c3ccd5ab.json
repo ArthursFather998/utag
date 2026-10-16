@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:40.393976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "834bb74d-e51a-433c-92d3-a6d4a8c67b5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "caae2762-2f06-472f-958f-3c04c3ccd5ab",
+  "input": "{\"title\": \"Big City Blues (featuring Cold Hart)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Crybaby'",
+  "status": "verified"
+}

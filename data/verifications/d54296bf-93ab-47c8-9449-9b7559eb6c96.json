@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:06.034257+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37cf44b8-1214-4a96-b4e0-4a31da152520",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d54296bf-93ab-47c8-9449-9b7559eb6c96",
+  "input": "{\"title\": \"Just a Memory\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:48.910885+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6cfec80-b0bf-4d7e-95fa-e435035b576a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7aed514a-388e-4bda-aede-76ade5848049",
+  "input": "{\"title\": \"No Matter What You Do\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'My Town, My Guy & Me'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:14.316171+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbbd70e9-b451-44ee-9285-5ce9a1906467",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a11b02c4-f4f7-4b2e-963d-d3474b155315",
+  "input": "{\"title\": \"This War Is Ours (The Guillotine II)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'This War Is Ours (Deluxe Edition)'",
+  "status": "verified"
+}

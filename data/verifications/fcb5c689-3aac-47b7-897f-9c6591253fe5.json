@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:16.647884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22fe5885-db0c-4e2d-9820-390af4bbf07f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fcb5c689-3aac-47b7-897f-9c6591253fe5",
+  "input": "{\"title\": \"Meet Me in the Woods\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Strange Trails (10th Anniversary Edition)'",
+  "status": "verified"
+}

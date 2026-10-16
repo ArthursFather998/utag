@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:54.849855+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d7e307bd-725a-46f1-8fef-6e6435f90148",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "72b7ba3c-20d5-4bc2-bce1-5c751736acab",
+  "input": "{\"title\": \"Revelation\", \"release_type\": \"album\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

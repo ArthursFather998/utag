@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:35.540691+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48e34b28-1ad1-4b85-b77a-ad092cdd1555",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "99543894-72e2-4975-b74e-6c4355f6a943",
+  "input": "{\"title\": \"Love Songs for Other People\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:03.918971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc5adb22-74d9-42c1-bc1e-ae9540bd99fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b3380cc-c66a-49cd-8213-7173b887f7b6",
+  "input": "{\"title\": \"I Stay in Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Stay in Love'",
+  "status": "verified"
+}

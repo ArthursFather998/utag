@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:11.997772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b1d55ac-24aa-4f99-8a64-533dbaaa027a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c16d5500-2bbf-4307-80c8-8e678790cf5a",
+  "input": "{\"title\": \"titan\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'galatea'",
+  "status": "verified"
+}

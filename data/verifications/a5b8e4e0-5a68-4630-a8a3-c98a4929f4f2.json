@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:15.803722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84829397-1079-496a-b247-07300f96ca11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5b8e4e0-5a68-4630-a8a3-c98a4929f4f2",
+  "input": "{\"title\": \"Rockin' Around the Christmas Tree\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rockin' Around the Christmas Tree'",
+  "status": "verified"
+}

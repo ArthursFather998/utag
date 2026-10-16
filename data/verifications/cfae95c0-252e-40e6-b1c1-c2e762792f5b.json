@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:56.780977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3fd6d00-d264-4ff8-966c-a25b500109e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfae95c0-252e-40e6-b1c1-c2e762792f5b",
+  "input": "{\"title\": \"My Boo\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Confessions (20th Anniversary Edition)'",
+  "status": "verified"
+}

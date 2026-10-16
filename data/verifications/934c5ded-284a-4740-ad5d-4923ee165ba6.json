@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:56.090105+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de7bc75c-11aa-49ff-a661-0a928c172fab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "934c5ded-284a-4740-ad5d-4923ee165ba6",
+  "input": "{\"title\": \"Road Rage\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Death of Slim Shady (Coup de Grâce)'",
+  "status": "verified"
+}

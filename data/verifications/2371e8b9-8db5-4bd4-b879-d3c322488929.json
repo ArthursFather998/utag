@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:43.425085+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c42e3725-ea76-4b01-a8af-b5203cbd0439",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2371e8b9-8db5-4bd4-b879-d3c322488929",
+  "input": "{\"title\": \"Daniel\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Love Songs'",
+  "status": "verified"
+}

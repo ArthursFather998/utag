@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:00.360795+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e0121a9-4890-4971-b0f9-8d7b423a8e55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ce1155b-9cb1-4a07-8b89-bbb5014be832",
+  "input": "{\"title\": \"My One And Only Love (feat. Nat\\u00e1lia Lafourcade & Silvana Estrada)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Femme Fatale'",
+  "status": "verified"
+}

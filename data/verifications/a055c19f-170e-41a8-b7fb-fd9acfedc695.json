@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:55.680532+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "641d72d5-2365-4c57-9bf5-b6d0fed49082",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a055c19f-170e-41a8-b7fb-fd9acfedc695",
+  "input": "{\"title\": \"Mama\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Plan A'",
+  "status": "verified"
+}

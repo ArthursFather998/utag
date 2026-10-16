@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:17.564447+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df54abcf-128e-4f5c-accb-5d698b881236",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "724bb6ea-9a26-4aa7-8698-7a2b12823156",
+  "input": "{\"title\": \"It Could Happen to You\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'A Night at the Symphony: Hollywood Bowl'",
+  "status": "verified"
+}

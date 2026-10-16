@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:57.828648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d14f1e60-8bf8-4d3b-a5db-ee2c51bcb34a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9709480a-8dd9-4e84-aeeb-c887f034cd93",
+  "input": "{\"title\": \"Any Way You Want It\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Greatest Hits I & II'",
+  "status": "verified"
+}

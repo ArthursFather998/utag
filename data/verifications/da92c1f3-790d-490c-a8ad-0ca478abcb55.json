@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:06.047602+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d9501d7-7292-4cd6-b477-e6bdfa7ef6b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "da92c1f3-790d-490c-a8ad-0ca478abcb55",
+  "input": "{\"title\": \"You're the Love I Wanna Be In\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Jason Aldean'",
+  "status": "verified"
+}

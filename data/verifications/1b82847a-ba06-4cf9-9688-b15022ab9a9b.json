@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:10.121638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce585544-eb3b-40cf-9bfe-7b6030907cd9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b82847a-ba06-4cf9-9688-b15022ab9a9b",
+  "input": "{\"title\": \"Broken Heart\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'I Am Human (Deluxe Edition)'",
+  "status": "verified"
+}

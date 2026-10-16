@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:22.545784+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c618a3d-c3c0-400b-9b03-6889647ae3e8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "603302da-ce9b-4ee2-9766-acfab6c6d2ce",
+  "input": "{\"title\": \"I'm Back\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I'm Back'",
+  "status": "verified"
+}

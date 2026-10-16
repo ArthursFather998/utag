@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:36.085325+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94399ccb-a892-489f-9fe3-378e04b2792f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b3049d0-1725-453f-b796-0f83c6df06f7",
+  "input": "{\"title\": \"Another One Bites the Dust\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Greatest Hits'",
+  "status": "verified"
+}

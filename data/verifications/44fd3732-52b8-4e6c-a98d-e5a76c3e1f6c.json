@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:21.677578+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "124127c6-f054-4c79-8d1c-cc932df30ac5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44fd3732-52b8-4e6c-a98d-e5a76c3e1f6c",
+  "input": "{\"title\": \"Animal Instinct\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Icon: The Cranberries'",
+  "status": "verified"
+}

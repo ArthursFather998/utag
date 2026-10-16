@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:56.885003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8704f3ae-e00c-4a62-a45f-20301eb9f58e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c9e7249-1ce5-4177-b7a3-19de30c45edc",
+  "input": "{\"title\": \"All I Live For (Extended Version)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Music Box: 30th Anniversary Edition'",
+  "status": "verified"
+}

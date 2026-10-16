@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:14.259917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45e49587-e940-4cd8-880d-e3cf9198c92e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00b7653e-cbf3-4f4a-bc4a-a39c3e7c9388",
+  "input": "{\"title\": \"All I Want for Christmas Is You (SuperFestive!) (with Mariah Carey)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Under the Mistletoe'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:30.957833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7dd2e63f-9bf8-4c85-9cd6-737c5ccc7c04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "328c7694-f7a9-4395-b821-aedee22de357",
+  "input": "{\"title\": \"Ken Kaniff (skit)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Slim Shady LP'",
+  "status": "verified"
+}

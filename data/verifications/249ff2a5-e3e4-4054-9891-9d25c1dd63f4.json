@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:01.218466+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "169aff1d-d4eb-4541-b03e-6a6eab2d0c15",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "249ff2a5-e3e4-4054-9891-9d25c1dd63f4",
+  "input": "{\"title\": \"Lake Effect Kid\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

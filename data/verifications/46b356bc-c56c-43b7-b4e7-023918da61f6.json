@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:26.497549+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46d1ad3a-195a-4976-a929-8c5f8e88bedf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "46b356bc-c56c-43b7-b4e7-023918da61f6",
+  "input": "{\"title\": \"Boulder to Birmingham (feat. Emmylou Harris)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Covers'",
+  "status": "verified"
+}

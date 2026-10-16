@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:03.008107+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb0f3652-301b-49b3-b2d5-9fe0b4906b31",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fe9bb07f-df14-4bea-94f9-d1b07eee28ec",
+  "input": "{\"title\": \"The Perfect LUV Tape\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

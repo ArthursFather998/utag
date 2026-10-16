@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:03.413081+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75d5baa5-4d89-4191-8819-21a4ccd33cc5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3f4eeb2b-0cbe-4865-ad06-42ad05a778f5",
+  "input": "{\"title\": \"I Crash, U Crash\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

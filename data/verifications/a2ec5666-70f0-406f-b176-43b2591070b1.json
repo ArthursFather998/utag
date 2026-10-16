@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:50.524066+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2b9e254-77aa-4644-b175-e154a9c1dad6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2ec5666-70f0-406f-b176-43b2591070b1",
+  "input": "{\"title\": \"Mother, Father\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'The Essential Journey'",
+  "status": "verified"
+}

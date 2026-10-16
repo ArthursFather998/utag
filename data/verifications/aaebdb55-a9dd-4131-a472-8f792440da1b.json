@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:12.50454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6c41de0-216d-4ad1-9276-e11682e60eb1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aaebdb55-a9dd-4131-a472-8f792440da1b",
+  "input": "{\"title\": \"Karaoke\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

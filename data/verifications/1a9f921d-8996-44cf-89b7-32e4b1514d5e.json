@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:03.408453+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d09611cd-55eb-48f3-ad53-c1e849844a33",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1a9f921d-8996-44cf-89b7-32e4b1514d5e",
+  "input": "{\"title\": \"Candle in the Wind\", \"release_type\": \"single\", \"release_year\": 1974}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

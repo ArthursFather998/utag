@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:04.178542+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "edaff359-fcc8-4334-bdd6-cdc476ef4d22",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7b95752-4efe-47e3-a36a-b1bbce3bedd2",
+  "input": "{\"title\": \"Spin Again\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Pink Tape: Level 3'",
+  "status": "verified"
+}

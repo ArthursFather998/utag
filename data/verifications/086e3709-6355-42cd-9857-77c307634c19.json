@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:58.770308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c332fb0-ba1d-4369-8bfb-11afae8fc211",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "086e3709-6355-42cd-9857-77c307634c19",
+  "input": "{\"title\": \"Quiet Ones\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Everybody Loves a Happy Ending'",
+  "status": "verified"
+}

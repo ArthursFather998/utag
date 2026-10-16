@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:51.270212+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a33d659-2743-41d4-b8af-243bdad479c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94a6b7c2-69b8-4835-b9bc-0687bc527200",
+  "input": "{\"title\": \"7 Minute Drill\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Might Delete Later'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:06.180596+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae8ae9e2-1f60-4369-8a24-675a1b8cebb0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d655335-8a0a-4d8b-8da7-89423fd09818",
+  "input": "{\"title\": \"Sweetheart\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Remixes'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:00.746045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07dab1fb-8f91-4c36-838e-ae6e02f2c89e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4566237-b5e7-4d13-abec-6d2cce7a87e8",
+  "input": "{\"title\": \"Live Without It\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live Without It'",
+  "status": "verified"
+}

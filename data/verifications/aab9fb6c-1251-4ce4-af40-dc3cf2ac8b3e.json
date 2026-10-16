@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:46.86194+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db630923-ba85-4080-b26e-e758c6660fda",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aab9fb6c-1251-4ce4-af40-dc3cf2ac8b3e",
+  "input": "{\"title\": \"Princes of the Universe\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Greatest Hits III'",
+  "status": "verified"
+}

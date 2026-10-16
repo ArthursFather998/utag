@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:08.173826+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9b11960-308b-4e9f-8fd1-fa61c47a8a6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e08185bd-d099-4b81-9f40-201e1511a7c0",
+  "input": "{\"title\": \"Healer\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Early Favorites'",
+  "status": "verified"
+}

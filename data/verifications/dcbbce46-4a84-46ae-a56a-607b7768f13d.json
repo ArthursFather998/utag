@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:31.231308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "163bb81f-3dae-41b6-b97c-b00b3f7a8920",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dcbbce46-4a84-46ae-a56a-607b7768f13d",
+  "input": "{\"title\": \"Framed\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

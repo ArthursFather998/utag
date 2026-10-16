@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:23.799514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44d8e2bd-fe75-41c7-9a13-207333421358",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6608d8ef-1734-4b9e-97af-ea6cb3c4d999",
+  "input": "{\"title\": \"LA Who Am I to Love You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Violet Bent Backwards over the Grass'",
+  "status": "verified"
+}

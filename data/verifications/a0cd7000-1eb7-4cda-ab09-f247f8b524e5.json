@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:35.981594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56435aca-6d2a-47cc-8a2e-c120e9044f56",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0cd7000-1eb7-4cda-ab09-f247f8b524e5",
+  "input": "{\"title\": \"Back to the Topic (Freestyle)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Friday Night Lights'",
+  "status": "verified"
+}

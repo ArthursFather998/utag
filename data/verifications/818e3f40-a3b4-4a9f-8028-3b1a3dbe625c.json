@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:13.644151+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c91ff53-6c19-4775-849e-481a781c1111",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "818e3f40-a3b4-4a9f-8028-3b1a3dbe625c",
+  "input": "{\"title\": \"I Want to Know What Love Is\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Want to Know What Love Is'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:43.309494+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5093a3e-ee9d-4efb-9132-1a6513a4bb37",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "116b86d0-6416-40ce-82b4-594390457465",
+  "input": "{\"title\": \"Old Town Road (Remix) (feat. Billy Ray Cyrus)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '7'",
+  "status": "verified"
+}

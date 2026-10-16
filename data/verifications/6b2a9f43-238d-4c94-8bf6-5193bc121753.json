@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:28.132856+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd4f4d38-c5a3-4bf1-94ca-85dd5ffc1c43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b2a9f43-238d-4c94-8bf6-5193bc121753",
+  "input": "{\"title\": \"New New York\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'Gold'",
+  "status": "verified"
+}

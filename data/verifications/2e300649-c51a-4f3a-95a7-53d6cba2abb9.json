@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:34.948444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c18160b3-bcc0-4d61-96e5-20434ebcfc3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e300649-c51a-4f3a-95a7-53d6cba2abb9",
+  "input": "{\"title\": \"Girl It's Over\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Jagged Little Thrill'",
+  "status": "verified"
+}

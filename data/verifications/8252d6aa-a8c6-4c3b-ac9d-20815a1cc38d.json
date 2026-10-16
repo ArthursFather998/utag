@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:01.29402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e56239ea-10af-4a17-8fdd-eaf3cd825766",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8252d6aa-a8c6-4c3b-ac9d-20815a1cc38d",
+  "input": "{\"title\": \"Jewel Box\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Sketches for My Sweetheart the Drunk'",
+  "status": "verified"
+}

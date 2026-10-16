@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:05.395752+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85ca4e11-2ebc-42ac-90fe-bec6c0c17314",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "788cbe44-cc82-4f84-9669-4a63533f6277",
+  "input": "{\"title\": \"Amen\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'For All the Dogs Scary Hours Edition'",
+  "status": "verified"
+}

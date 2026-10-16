@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:49.730886+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec84846a-b198-4fb0-a4f1-f0ff8d28aa4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64f2d9e2-daeb-4778-be63-9d2b2ff3527a",
+  "input": "{\"title\": \"Without You\", \"track_number\": 98}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 98 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

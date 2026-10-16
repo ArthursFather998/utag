@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:47.997887+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aaf31b91-f0f4-487d-9b1c-7cddda6783d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "735eb61a-1573-4376-9817-c9cab78d6cc3",
+  "input": "{\"title\": \"Ain't No Pleasin' You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Timeless'",
+  "status": "verified"
+}

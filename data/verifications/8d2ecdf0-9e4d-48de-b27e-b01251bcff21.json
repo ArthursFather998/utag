@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:22.580528+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70d61870-7677-45b1-a370-10bdd59781ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d2ecdf0-9e4d-48de-b27e-b01251bcff21",
+  "input": "{\"title\": \"Dime\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Mis Primeros Éxitos'",
+  "status": "verified"
+}

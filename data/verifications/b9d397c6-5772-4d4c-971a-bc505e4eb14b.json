@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:58.139981+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64f3f14d-e1a0-4858-9f3d-e3d014ab0486",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b9d397c6-5772-4d4c-971a-bc505e4eb14b",
+  "input": "{\"title\": \"It Will Rain\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

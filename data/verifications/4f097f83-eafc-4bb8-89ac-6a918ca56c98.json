@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:50.076391+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0da2ec9-d864-4f22-b26d-f2c034c82630",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f097f83-eafc-4bb8-89ac-6a918ca56c98",
+  "input": "{\"title\": \"Les Enfants Terribles\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Hate Me'",
+  "status": "verified"
+}

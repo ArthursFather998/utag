@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:15.360316+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "386309e9-397f-4008-9ab0-27b65d580326",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8662e210-e3d6-40f1-9141-e5f7cbabae0e",
+  "input": "{\"title\": \"Walla Walla\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Zaba (Deluxe Edition)'",
+  "status": "verified"
+}

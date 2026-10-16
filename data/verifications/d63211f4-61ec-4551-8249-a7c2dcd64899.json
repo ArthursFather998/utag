@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:05.500106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2ba8b5a-e26a-4252-b9f7-0fd6b6cc1442",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d63211f4-61ec-4551-8249-a7c2dcd64899",
+  "input": "{\"title\": \"Lost in Translation\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Chip Chrome & the Mono-Tones (Deluxe)'",
+  "status": "verified"
+}

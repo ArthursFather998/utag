@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:47.7554+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a51cccf-a2ab-4027-a251-19094f7fe2bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c666da81-6b69-4397-9661-12b67268e63f",
+  "input": "{\"title\": \"Darkness\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Music to Be Murdered By'",
+  "status": "verified"
+}

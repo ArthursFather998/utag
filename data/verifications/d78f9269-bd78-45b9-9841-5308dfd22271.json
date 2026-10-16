@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:53.460642+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bbbc0f9f-8c5d-4405-835f-92d35e93e7cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d78f9269-bd78-45b9-9841-5308dfd22271",
+  "input": "{\"title\": \"Jimmie Rodgers' Dream\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Union'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:27.691952+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54ed9c54-7183-45fc-9825-1389b5c4db90",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6da0cb51-96a9-4415-bed8-d494c1bd815a",
+  "input": "{\"title\": \"Monologue - Duane Eddy, Songs For Lovers\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live at Sin-é (Legacy Edition)'",
+  "status": "verified"
+}

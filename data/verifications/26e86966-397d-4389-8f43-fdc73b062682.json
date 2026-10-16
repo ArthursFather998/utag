@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:05.951687+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a33b3f48-5c0f-4872-9d0f-225cd8b27527",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26e86966-397d-4389-8f43-fdc73b062682",
+  "input": "{\"title\": \"772 Love\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Collect Call'",
+  "status": "verified"
+}

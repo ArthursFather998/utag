@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:07.66817+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "95411000-8363-4b0d-9c0b-bfb68231776d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6fd835f6-b42c-4b92-aad1-975b80221ba9",
+  "input": "{\"title\": \"Ridin' Round\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ridin' Round'",
+  "status": "verified"
+}

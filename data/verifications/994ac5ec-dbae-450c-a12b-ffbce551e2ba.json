@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:56.933763+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4f53316-ff4d-41c2-9455-75cd95a31406",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "994ac5ec-dbae-450c-a12b-ffbce551e2ba",
+  "input": "{\"title\": \"Lost in Translation\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lost in Translation'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:12.605561+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b41e2213-7be6-4ac6-919c-bb899f49737d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "68b25961-2869-4cae-89e6-89d614214f7a",
+  "input": "{\"title\": \"How to Be a Human Being\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

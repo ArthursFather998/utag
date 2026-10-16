@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:52.27097+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b15d57fb-dc0a-47a2-aa27-18bdedf2e52b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e51882e4-c594-45be-86c9-65979e1f7fb6",
+  "input": "{\"title\": \"I Choose You\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Raoul and the Kings of Spain'",
+  "status": "verified"
+}

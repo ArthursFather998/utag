@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:44.590034+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8f8b600-5b46-418c-bd63-af39907a5631",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d57f92c-e8f2-4dba-a43a-fbf716e0b2b5",
+  "input": "{\"title\": \"She's a Handsome Woman (Live)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '...Live in Chicago'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:29.663146+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec9be387-ff93-4fd6-a6c7-d7d7f49ffcea",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "96812591-32d1-4ce1-9a66-771f2fd61ffe",
+  "input": "{\"title\": \"The Original Fleetwood Mac\", \"release_type\": \"album\", \"release_year\": 1971}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

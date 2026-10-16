@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:34.268097+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8862c35f-5323-49b1-9840-fb4b0feebcf0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d141ac29-b030-4471-b6b7-e98d11633c86",
+  "input": "{\"title\": \"Hollywood Dreaming\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hollywood Dreaming'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:16:54.037533+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61ac523d-e36d-47dc-97bc-a3974585ed1c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8cab2e7b-8ff7-4046-9741-6d9996008836",
+  "input": "{\"title\": \"Time Is Ticking Out\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

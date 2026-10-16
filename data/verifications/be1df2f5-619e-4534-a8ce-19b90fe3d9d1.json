@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:20.090186+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "788d0a83-4400-4f3a-9fa8-00bd40da3c3c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "be1df2f5-619e-4534-a8ce-19b90fe3d9d1",
+  "input": "{\"title\": \"Time to Run\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

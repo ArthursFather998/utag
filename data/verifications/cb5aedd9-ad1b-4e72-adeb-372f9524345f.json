@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:57.073442+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af05c310-ee3b-4d4e-af27-36c18c7bcba2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb5aedd9-ad1b-4e72-adeb-372f9524345f",
+  "input": "{\"title\": \"Where's Jermaine? (Skit)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Born Sinner'",
+  "status": "verified"
+}

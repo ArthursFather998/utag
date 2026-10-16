@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:53.295075+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8dabd170-dfd6-4c15-ab5f-40a6add3f03e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a42eba6d-3321-44f2-914a-aa4702cfea26",
+  "input": "{\"title\": \"Love Song\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Tumbleweed Connection'",
+  "status": "verified"
+}

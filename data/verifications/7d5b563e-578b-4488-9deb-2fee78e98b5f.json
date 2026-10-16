@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:56.767797+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba3b68b2-b6dc-4b7f-9078-9e8878162e5d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d5b563e-578b-4488-9deb-2fee78e98b5f",
+  "input": "{\"title\": \"The Hitman\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Deep Cuts, Volume 3 (1984-1995)'",
+  "status": "verified"
+}

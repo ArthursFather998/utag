@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:54.592897+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c01e3d4-a399-4614-adb5-88924c85d01d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4ebd5d3-13a6-4232-ac81-945f79d7c533",
+  "input": "{\"title\": \"Tenochtitl\\u00e1n\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tenochtitlán'",
+  "status": "verified"
+}

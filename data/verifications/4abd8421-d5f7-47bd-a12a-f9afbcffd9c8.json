@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:09.744518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "473ef784-799b-4af6-8be4-b7e51702c0ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4abd8421-d5f7-47bd-a12a-f9afbcffd9c8",
+  "input": "{\"title\": \"Heaven Is a Home\\u2026\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sincerely (Special Edition)'",
+  "status": "verified"
+}

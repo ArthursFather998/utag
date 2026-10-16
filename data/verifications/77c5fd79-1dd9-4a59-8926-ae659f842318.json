@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:54.606297+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a89383da-0a28-4cd7-a738-cfa384269e66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77c5fd79-1dd9-4a59-8926-ae659f842318",
+  "input": "{\"title\": \"It's Too Late\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Canvas Can Do Miracles'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:31.667148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d8bd4c7-e678-4b51-a432-5d295c36c0a6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f0b47832-0865-4548-b664-731922a80bd5",
+  "input": "{\"title\": \"Never Let You Go\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

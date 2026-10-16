@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:19.3886+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07b159c3-e8bd-4f55-b287-cefe477f4b23",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd802950-ff29-434a-b463-ad802b6f39a1",
+  "input": "{\"title\": \"Winter Paradise\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of '8 Days of Christmas'",
+  "status": "verified"
+}

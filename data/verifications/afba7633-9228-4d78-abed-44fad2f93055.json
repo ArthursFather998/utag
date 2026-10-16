@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:24.011305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f48517a-2fda-4c31-a19b-b35bafb78576",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "afba7633-9228-4d78-abed-44fad2f93055",
+  "input": "{\"title\": \"Redline\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Hate Me (Deluxe)'",
+  "status": "verified"
+}

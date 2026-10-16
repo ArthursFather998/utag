@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:59.870545+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7a1586f-7ec2-434b-a039-e5275678efc2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e421be9-5c16-4572-b0be-dc5ff25f7cf7",
+  "input": "{\"title\": \"A Dream Come True\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Union'",
+  "status": "verified"
+}

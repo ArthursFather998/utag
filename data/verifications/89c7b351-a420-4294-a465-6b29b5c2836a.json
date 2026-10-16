@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:22.100896+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0bdafef1-b2c7-4fd4-9465-b736ea3ec359",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89c7b351-a420-4294-a465-6b29b5c2836a",
+  "input": "{\"title\": \"Recovery\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Journals'",
+  "status": "verified"
+}

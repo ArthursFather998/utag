@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:06.448746+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43a7fba7-1fca-4043-8261-3a9bcf9e21df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88ded3cf-2cd2-44e7-9402-f05c2711a9e7",
+  "input": "{\"title\": \"My Gravity\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Chemical Warfare'",
+  "status": "verified"
+}

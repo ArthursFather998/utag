@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:11.687323+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31772da7-7f2f-4a71-9cf7-8e216a7f7452",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f374eb26-ba00-45a3-a8e2-06cc342c5d62",
+  "input": "{\"title\": \"Why Doesn't Love Make Me Happy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Why Doesn't Love Make Me Happy'",
+  "status": "verified"
+}

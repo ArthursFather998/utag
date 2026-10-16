@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:02.172201+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "749deb86-b3c8-4cd6-b1ac-c4aa7d52a7e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e9696c0-b066-4002-a3d0-2cf1f8f2ca3e",
+  "input": "{\"title\": \"Leanin'\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Come Over When You're Sober, Pt. 2'",
+  "status": "verified"
+}

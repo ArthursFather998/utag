@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:35.492416+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "414de0e6-8891-49bd-a52f-401c7afd9546",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dc0da27-97d8-4264-b679-c9cc83b0ac6d",
+  "input": "{\"title\": \"These Are the Days of Our Lives\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Classic Queen'",
+  "status": "verified"
+}

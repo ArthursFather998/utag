@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:17.011872+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "47857057-f7e5-499a-a4e6-876f6435fa80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b1e4b99-52d0-4c57-ba12-c781a6b4c7f4",
+  "input": "{\"title\": \"One Vision\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Queen Rocks'",
+  "status": "verified"
+}

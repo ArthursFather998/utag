@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:47.348221+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39d11428-0302-46a5-b24d-c16bf6bfcb4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85d0b972-d6a4-4f8b-bd90-445183a064f1",
+  "input": "{\"title\": \"girlfriend is better\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'girlfriend is better'",
+  "status": "verified"
+}

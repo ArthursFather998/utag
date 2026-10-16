@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:31.043107+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7996f68-7011-4e29-ba00-e4f79c541899",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2cb76210-1bbd-4de8-a2fb-49b3a4f30154",
+  "input": "{\"title\": \"Fleetwood Mac (Mono)\", \"track_number\": 87}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 87 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

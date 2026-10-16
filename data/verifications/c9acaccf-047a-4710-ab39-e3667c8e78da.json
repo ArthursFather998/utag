@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:04.362862+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ac2235a-4980-4c48-bbd4-fe7b6c2b015d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9acaccf-047a-4710-ab39-e3667c8e78da",
+  "input": "{\"title\": \"Head Honcho\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Death of Slim Shady (Coup de Grâce)'",
+  "status": "verified"
+}

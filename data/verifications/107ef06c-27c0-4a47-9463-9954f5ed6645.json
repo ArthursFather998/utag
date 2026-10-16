@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:22.090286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5db3b8c0-e77c-44a0-9d61-46257b791beb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "107ef06c-27c0-4a47-9463-9954f5ed6645",
+  "input": "{\"title\": \"Je N'en Connais Pas La Fin\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'In Transition'",
+  "status": "verified"
+}

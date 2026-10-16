@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:05.782454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "152f32c3-ba11-4d7b-ac25-00b1c424a3c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "86bfb62d-2815-4d4e-9585-f71c52385c0d",
+  "input": "{\"title\": \"Bandit\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bandit'",
+  "status": "verified"
+}

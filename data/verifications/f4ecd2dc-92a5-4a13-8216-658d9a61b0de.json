@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:34.637935+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c4dbc96-ed80-4bc4-8f50-9882a3ff27f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4ecd2dc-92a5-4a13-8216-658d9a61b0de",
+  "input": "{\"title\": \"Endless - Slowed and Reverb\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Romeo & Juliet'",
+  "status": "verified"
+}

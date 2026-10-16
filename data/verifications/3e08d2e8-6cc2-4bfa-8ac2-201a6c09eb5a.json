@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:15.885733+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "980514ca-a957-429b-88c6-9d95915f7214",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3e08d2e8-6cc2-4bfa-8ac2-201a6c09eb5a",
+  "input": "{\"title\": \"Buds\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

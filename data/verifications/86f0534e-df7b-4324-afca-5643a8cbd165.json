@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:58.710514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e1533b7-5f95-445f-9571-ef793e27e7ed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "86f0534e-df7b-4324-afca-5643a8cbd165",
+  "input": "{\"title\": \"Dientes\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:08.050771+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22f9dba9-7272-4995-832b-63b80b89117f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "88fd5590-0d23-42ad-8e46-02e26cdfec33",
+  "input": "{\"title\": \"Mama's Boy\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

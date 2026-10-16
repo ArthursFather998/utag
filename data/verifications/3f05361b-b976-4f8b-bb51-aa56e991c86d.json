@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:16.646018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fc94bee-62d5-4d4d-8385-f2364911ab30",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f05361b-b976-4f8b-bb51-aa56e991c86d",
+  "input": "{\"title\": \"Rusty Intro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Habibti (FOMO)'",
+  "status": "verified"
+}

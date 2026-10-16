@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:09.088811+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60bad211-bdbd-4e56-bda9-3f8a25e60400",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad6c7029-49dd-49b9-b7d8-43802e005e74",
+  "input": "{\"title\": \"Devotion (with Dijon)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Swag Live from Coachella (Weekend II)'",
+  "status": "verified"
+}

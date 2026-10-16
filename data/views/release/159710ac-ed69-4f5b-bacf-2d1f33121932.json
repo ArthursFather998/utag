@@ -1,0 +1,104 @@
+{
+  "artists": {
+    "canonical_name": "Playboi Carti, The Weeknd",
+    "id": "70b2c9fe-24a9-402b-8046-4064fd902e19"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Playboi Carti, The Weeknd",
+        "id": "70b2c9fe-24a9-402b-8046-4064fd902e19"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:52.303533+00:00",
+      "edition": "original",
+      "id": "87b9ad53-fa96-4369-8b08-ef73595f4ba0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "MUSIC"
+    },
+    {
+      "artists": {
+        "canonical_name": "Playboi Carti, The Weeknd",
+        "id": "70b2c9fe-24a9-402b-8046-4064fd902e19"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T14:29:55.87542+00:00",
+      "edition": "original",
+      "id": "b77edac8-e2ed-4976-81ed-5bad710d7801",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Timeless"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "70b2c9fe-24a9-402b-8046-4064fd902e19",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T14:30:03.338487+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "159710ac-ed69-4f5b-bacf-2d1f33121932",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2025,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "Rather Lie",
+    "updated_at": "2026-10-16T14:30:03.338487+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "70b2c9fe-24a9-402b-8046-4064fd902e19",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T14:30:05.723973+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e06bd24f-c689-486c-812f-f41d0e563ffd",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "159710ac-ed69-4f5b-bacf-2d1f33121932",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Rather Lie",
+      "track_number": 1,
+      "updated_at": "2026-10-16T14:30:05.723973+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T14:30:04.499051+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "159710ac-ed69-4f5b-bacf-2d1f33121932",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "645b111c-960b-4253-81a8-de928afe6446",
+      "input": "{\"title\": \"Rather Lie\", \"release_type\": \"single\", \"release_year\": 2025}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 17",
+      "status": "verified"
+    }
+  ]
+}

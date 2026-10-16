@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:07.340581+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67887852-6ecf-435a-88f2-dfb88e87f05d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3bf2918-600d-4270-9726-ba7916da990b",
+  "input": "{\"title\": \"Twelfth Of Never\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live at Sin-é (Legacy Edition)'",
+  "status": "verified"
+}

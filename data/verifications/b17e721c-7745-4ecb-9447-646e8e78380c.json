@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:45.331974+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7b4e5b8-a12f-4fd9-b6f3-b3c455c767b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b17e721c-7745-4ecb-9447-646e8e78380c",
+  "input": "{\"title\": \"Teen Spirit\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Teen Spirit'",
+  "status": "verified"
+}

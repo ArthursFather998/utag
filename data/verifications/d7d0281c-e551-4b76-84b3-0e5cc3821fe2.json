@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:50.912939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9cc6b85-0afa-4f5a-abb5-d9bdf42f75e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7d0281c-e551-4b76-84b3-0e5cc3821fe2",
+  "input": "{\"title\": \"That Way\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Eternal Atake'",
+  "status": "verified"
+}

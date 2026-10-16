@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:17.528823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ffc1f8b-68e2-4b3f-81e3-21a6dc9df498",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81683709-3267-42f4-b8b7-3f852ade23ab",
+  "input": "{\"title\": \"Nails for Breakfast, Tacks for Snacks\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'A Fever You Can't Sweat Out'",
+  "status": "verified"
+}

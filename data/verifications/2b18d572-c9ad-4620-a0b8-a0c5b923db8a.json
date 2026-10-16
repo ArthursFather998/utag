@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:08.879302+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "163e91d1-a3e8-4819-a755-7436e08bdfda",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b18d572-c9ad-4620-a0b8-a0c5b923db8a",
+  "input": "{\"title\": \"Crooked Smile\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Crooked Smile'",
+  "status": "verified"
+}

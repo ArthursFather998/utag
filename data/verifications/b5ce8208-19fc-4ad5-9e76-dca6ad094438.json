@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:40.978298+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b4d957b-4987-48da-905a-8389777c5ace",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5ce8208-19fc-4ad5-9e76-dca6ad094438",
+  "input": "{\"title\": \"ICE.MOON\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'S'",
+  "status": "verified"
+}

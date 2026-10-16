@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:08.835907+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f56a4409-d1a7-4624-9ebc-4bfd0dc0aa6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab785d4f-00a5-4bb9-bed1-cf76e00c5586",
+  "input": "{\"title\": \"Neon Guts (featuring Pharrell Williams)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Luv Is Rage 2'",
+  "status": "verified"
+}

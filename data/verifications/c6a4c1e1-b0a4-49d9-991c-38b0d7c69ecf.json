@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:28.255652+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89349778-d663-452e-bfff-b2da94711cf1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6a4c1e1-b0a4-49d9-991c-38b0d7c69ecf",
+  "input": "{\"title\": \"Linger\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'London 2012: Live at The Hammersmith Apollo'",
+  "status": "verified"
+}

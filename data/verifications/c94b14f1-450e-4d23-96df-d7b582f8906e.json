@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:51.299509+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91254290-28b9-47a3-9309-bc1ced477af6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c94b14f1-450e-4d23-96df-d7b582f8906e",
+  "input": "{\"title\": \"station on bree (missing something)\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

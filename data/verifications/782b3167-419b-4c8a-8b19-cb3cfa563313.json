@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:59.15329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d3d3338-2a9c-4ce4-a936-c0af21c2de96",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "782b3167-419b-4c8a-8b19-cb3cfa563313",
+  "input": "{\"title\": \"The Vaudeville Years\", \"release_type\": \"album\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

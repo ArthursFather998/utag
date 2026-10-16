@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:28.383515+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c57bd01d-4dec-4b98-b854-f5bc59d21a3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f753d619-7292-4266-bbce-8b47945279b5",
+  "input": "{\"title\": \"No Quiero Saber\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Unforgettable: The Studio Album'",
+  "status": "verified"
+}

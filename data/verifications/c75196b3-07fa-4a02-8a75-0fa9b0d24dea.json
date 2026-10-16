@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:58.240945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85ce1b2e-149f-428e-a9aa-dfc494c9fd3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c75196b3-07fa-4a02-8a75-0fa9b0d24dea",
+  "input": "{\"title\": \"Bubblegum\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bubblegum'",
+  "status": "verified"
+}

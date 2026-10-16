@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:49.88059+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "477eb3b4-0411-4899-9c0b-b51eff06ea14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce1563b7-7832-4291-8f41-5bdd577ef06d",
+  "input": "{\"title\": \"A Light That Waits\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Light That Waits'",
+  "status": "verified"
+}

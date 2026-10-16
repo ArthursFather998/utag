@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:11.142847+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "abc16c33-fb07-432e-8458-3bba3af695c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99ad85c2-a688-4080-9130-ae0d62bb3fc4",
+  "input": "{\"title\": \"I Can't Hold Out\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Man of the World'",
+  "status": "verified"
+}

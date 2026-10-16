@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:56.313561+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f6de4f77-6dc0-4184-994e-d7d9b21271db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb640bfa-0c77-4530-baeb-d2ca4b7172ce",
+  "input": "{\"title\": \"See You in Hell\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Welcome to the Freakshow'",
+  "status": "verified"
+}

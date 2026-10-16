@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:10.885248+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba8796fa-581f-4e12-810d-dfd25bae83f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17b837c8-1f72-4de8-816a-94f621aa5522",
+  "input": "{\"title\": \"I Can't Hold Out\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'Live at the BBC'",
+  "status": "verified"
+}

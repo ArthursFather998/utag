@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:36:08.606368+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61192aaa-6373-42ba-ae2c-e98522798691",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2bb9badd-e96b-4ec4-90ea-b94f3c20ce9f",
+  "input": "{\"title\": \"Will You Love Me Tomorrow\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Love Love Love'",
+  "status": "verified"
+}

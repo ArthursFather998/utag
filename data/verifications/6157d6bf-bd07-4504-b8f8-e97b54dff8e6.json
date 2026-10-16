@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:02.840482+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a333269-804b-4736-8a8e-e7eb05fd2297",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6157d6bf-bd07-4504-b8f8-e97b54dff8e6",
+  "input": "{\"title\": \"Crystal Ball\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Under the Iron Sea'",
+  "status": "verified"
+}

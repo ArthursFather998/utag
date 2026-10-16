@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:39.746909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0b27fab-89a5-4ec5-9bb0-791bf32cb528",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "492e56e9-06d2-44a2-9d55-0481b3117cba",
+  "input": "{\"title\": \"Sacrifice\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Greatest Hits 1970–2002'",
+  "status": "verified"
+}

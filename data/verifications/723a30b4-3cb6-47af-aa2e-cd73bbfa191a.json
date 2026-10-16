@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:27.669286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa37c267-c2fe-4d4a-a268-6e80a7425576",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "723a30b4-3cb6-47af-aa2e-cd73bbfa191a",
+  "input": "{\"title\": \"fue mejor\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Sin Miedo (del Amor y Otros Demonios) ∞ [Deluxe Version]'",
+  "status": "verified"
+}

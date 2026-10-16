@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:37.828357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "451f12ae-38db-43bf-8577-a94e5e0e89b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4494a107-c71a-4852-80d4-5142cdeee26f",
+  "input": "{\"title\": \"City Is Mine\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Comeback Season'",
+  "status": "verified"
+}

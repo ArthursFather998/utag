@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:31.257632+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5f78f9f-c00f-4b6f-bf99-c3c0d4b7db8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac1da6df-4d06-4ac6-a66d-d17c46a60a1b",
+  "input": "{\"title\": \"Gangsta\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Bell Biv DeVoe Greatest Hits'",
+  "status": "verified"
+}

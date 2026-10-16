@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:14.457399+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5320aad-0e25-44d4-894b-1ceb3a5ec880",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e67ed897-544b-4be4-a82e-e5afd451d588",
+  "input": "{\"title\": \"For: You\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Sincerely (Special Edition)'",
+  "status": "verified"
+}

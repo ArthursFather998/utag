@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:46.675948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77e61921-5d3e-402e-b714-7e805049e889",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5836f959-0736-446e-8d0e-7aa74c4d0c7f",
+  "input": "{\"title\": \"I Feel Like a Bullet (In the Gun of Robert Ford)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live from the Rainbow Theatre'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:54.319787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8dfaab8a-c6ec-4182-9650-b82cf1ece9fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d2859b2-3b58-4102-accc-1a28220ae121",
+  "input": "{\"title\": \"Rush (featuring Kardinal Offishall)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Music of the Sun'",
+  "status": "verified"
+}

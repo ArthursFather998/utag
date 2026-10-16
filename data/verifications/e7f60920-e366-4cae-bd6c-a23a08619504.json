@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:37.686486+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43268c58-f231-4cf9-8de2-6a2bb20e1570",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7f60920-e366-4cae-bd6c-a23a08619504",
+  "input": "{\"title\": \"Mine Forever\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Long Lost'",
+  "status": "verified"
+}

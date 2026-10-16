@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:50.170464+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea91c146-675d-4600-9c0c-064dc9cb727c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f0193e7d-8ccf-4210-887a-bbce2f2ac4ed",
+  "input": "{\"title\": \"Live! The Last Concert\", \"release_type\": \"album\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

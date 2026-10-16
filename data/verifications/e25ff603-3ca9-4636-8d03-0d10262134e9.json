@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:41.958142+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a699ce9-9c2b-4d75-b989-1ac31b9a0277",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e25ff603-3ca9-4636-8d03-0d10262134e9",
+  "input": "{\"title\": \"The Lesley Gore Anthology\", \"release_type\": \"album\", \"release_year\": 1986}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

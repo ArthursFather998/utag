@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:57.42311+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d503831c-0e56-45cb-b4c5-aa6bf73fc1c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c1e25ef9-e495-4f73-842c-d397bd58cf28",
+  "input": "{\"title\": \"We\\u2019re Back\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Eminem Presents: The Re-Up'",
+  "status": "verified"
+}

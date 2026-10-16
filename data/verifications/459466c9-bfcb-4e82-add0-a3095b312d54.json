@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:35.116274+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79b437f2-0405-4184-8173-47aeb25f47bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "459466c9-bfcb-4e82-add0-a3095b312d54",
+  "input": "{\"title\": \"Black Mambo (Stripped)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Zaba (Deluxe Edition)'",
+  "status": "verified"
+}

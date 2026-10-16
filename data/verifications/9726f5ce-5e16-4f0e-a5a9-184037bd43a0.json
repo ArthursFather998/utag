@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:51.96336+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7900451f-c218-4e54-a2a2-5e16c0ceb3f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9726f5ce-5e16-4f0e-a5a9-184037bd43a0",
+  "input": "{\"title\": \"Where Did The Feeling Go\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Momentos Intimos'",
+  "status": "verified"
+}

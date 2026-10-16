@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:14.958422+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6fbbff4-c775-4631-b859-eae6ab70f576",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e27119cd-213f-4b64-9984-60dd79e204a1",
+  "input": "{\"title\": \"Two to the Power of Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Two to the Power of Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:46:01.348256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0139857a-07f3-4a24-b18b-b944352bb568",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51f7a379-8d0b-43cb-a41f-6891ee4c4ae5",
+  "input": "{\"title\": \"Happiness\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Transit of Venus'",
+  "status": "verified"
+}

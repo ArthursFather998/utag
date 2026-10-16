@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:31.461161+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00482dc0-7c80-41ae-9f7d-aa140326dc20",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "62cb7a83-b704-49d2-b146-d32667ca6ea0",
+  "input": "{\"title\": \"Room for Improvement\", \"release_type\": \"album\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:34.234407+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dde28f08-df93-4cd0-a142-5e8dc3cdbaec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a588dc7-1479-4f8c-942d-f9afeb44b51e",
+  "input": "{\"title\": \"It's All So Incredibly Loud\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'It's All So Incredibly Loud'",
+  "status": "verified"
+}

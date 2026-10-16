@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:24.849061+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92a7a90a-a0a1-4156-96a7-468a83a1c103",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e49eff16-55dc-4833-96c1-bf7feb1fe415",
+  "input": "{\"title\": \"Miracle\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

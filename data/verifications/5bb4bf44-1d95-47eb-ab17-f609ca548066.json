@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:02.725891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2e55ed2-1f7d-4176-93bd-d721dac14e0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5bb4bf44-1d95-47eb-ab17-f609ca548066",
+  "input": "{\"title\": \"No Debes Jugar\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Forever Selena'",
+  "status": "verified"
+}

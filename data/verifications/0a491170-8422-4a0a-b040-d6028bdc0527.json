@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:51.893444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "540631fd-e6a3-4f52-acb0-26a8800689f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a491170-8422-4a0a-b040-d6028bdc0527",
+  "input": "{\"title\": \"Where The Story Ends\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Fray (Deluxe Edition)'",
+  "status": "verified"
+}

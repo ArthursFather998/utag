@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:45.083647+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f17b575-822c-49e6-aa95-aafd146a962f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7fbab173-e2d6-48b0-8194-034136c618ca",
+  "input": "{\"title\": \"Silver Springs\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:40:02.980398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce5e2ce2-20f3-40cb-b1f5-ef694a3844e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "099d184e-94ba-4b06-9996-f17ad613040b",
+  "input": "{\"title\": \"Disc 3 - That's What I'll Do\", \"track_number\": 91}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 91 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

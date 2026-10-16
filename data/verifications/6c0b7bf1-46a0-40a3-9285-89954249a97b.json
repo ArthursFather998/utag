@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:50.415779+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28c83a11-d19a-4f3a-9ad8-fb53b5267923",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c0b7bf1-46a0-40a3-9285-89954249a97b",
+  "input": "{\"title\": \"Blue Avenue\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Sleeping with the Past'",
+  "status": "verified"
+}

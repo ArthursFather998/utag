@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:37.93401+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec69f56d-a107-4e8c-90cf-3b1eafd9723c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af8d29b4-0c1a-4057-85a2-8da9c781b5c2",
+  "input": "{\"title\": \"Great King Rat (De Lane Lea Demo, December 1971)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Queen (Deluxe Remastered Version)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:42.508615+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b7420e7-656e-4c00-8be9-be69d0b5b0cb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ac5b8e1c-3a2f-4a72-814a-cd9874e21346",
+  "input": "{\"title\": \"You're My Best Friend\", \"release_type\": \"single\", \"release_year\": 1976}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:52.720578+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "5a1ed0dc-3b94-48a1-9709-9bffd68675fb",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "42391fec-05a6-4fdc-abfc-0a6466e3227e",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "Write Me a Letter",
+    "title": "Write Me a Letter"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Real single released 18 Sept 2026 alongside album Pylon (focus single, produced with Matty Healy/George Daniel); title/artist/2026 year all match. | sources: https://en.wikipedia.org/wiki/Pylon_(Beabadoobee_album), https://www.godisinthetvzine.co.uk/2026/09/22/news-beabadoobee-shares-write-me-a-letter-to-celebrate-the-release-of-pylon-album/",
+  "status": "verified"
+}

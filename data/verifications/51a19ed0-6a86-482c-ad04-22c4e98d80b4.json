@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:49.736404+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7d16cc9-d991-4fd6-954a-f048bffa009b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51a19ed0-6a86-482c-ad04-22c4e98d80b4",
+  "input": "{\"title\": \"Swangin' On Westheimer\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Life of a Don'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:38.58558+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bdbe6f2-92da-4fdc-a728-5a009cda5dea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dc174be-def6-40c6-8f3e-565f08a5af7c",
+  "input": "{\"title\": \"Gist\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Tec'",
+  "status": "verified"
+}

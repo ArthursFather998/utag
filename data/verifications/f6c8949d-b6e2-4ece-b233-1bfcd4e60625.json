@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:57.092821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a6ca49c-a407-4364-b0c2-b3e921250d23",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6c8949d-b6e2-4ece-b233-1bfcd4e60625",
+  "input": "{\"title\": \"Riot\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'I Am Human'",
+  "status": "verified"
+}

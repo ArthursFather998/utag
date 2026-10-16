@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:58.735789+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4cfdb62e-fb6d-4922-8080-944fb6dbfa3c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb49723d-cadf-462c-b12e-38b0b9830dff",
+  "input": "{\"title\": \"Ambien Slide\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'X's'",
+  "status": "verified"
+}

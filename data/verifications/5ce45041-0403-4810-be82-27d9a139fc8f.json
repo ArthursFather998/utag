@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:24.85692+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4494393-a725-4edc-8b06-640f48310574",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ce45041-0403-4810-be82-27d9a139fc8f",
+  "input": "{\"title\": \"I'll Be Lovin' U Long Time\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'E=MC²'",
+  "status": "verified"
+}

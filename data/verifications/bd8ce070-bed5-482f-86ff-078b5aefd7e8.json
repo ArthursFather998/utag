@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:59.417556+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14479a4b-81f7-4199-b328-d5d2396d4cae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd8ce070-bed5-482f-86ff-078b5aefd7e8",
+  "input": "{\"title\": \"Tin Can Roses\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Rust Colored Stones'",
+  "status": "verified"
+}

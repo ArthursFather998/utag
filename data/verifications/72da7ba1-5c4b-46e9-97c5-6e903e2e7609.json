@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:28.18512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a8fe4490-986c-4b4f-9971-7ccd0e3c64ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72da7ba1-5c4b-46e9-97c5-6e903e2e7609",
+  "input": "{\"title\": \"Mr. Eclectic\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'A Matter of Time'",
+  "status": "verified"
+}

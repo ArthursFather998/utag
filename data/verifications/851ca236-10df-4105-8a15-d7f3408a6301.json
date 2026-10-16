@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:25.44308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77f0d4dd-fe69-4e29-b202-d31f7a1cfeb3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "851ca236-10df-4105-8a15-d7f3408a6301",
+  "input": "{\"title\": \"Diva\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Diva'",
+  "status": "verified"
+}

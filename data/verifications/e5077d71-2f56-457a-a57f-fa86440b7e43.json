@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:35.439147+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6dcea00c-3b16-4c96-9811-b85bd1cfc896",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5077d71-2f56-457a-a57f-fa86440b7e43",
+  "input": "{\"title\": \"After the Fall\", \"track_number\": 43}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 43 of 'Time3'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:21:53.457627+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3a5f05e-7cfd-443c-afac-9bec5ab17f63",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6f23bb7-abb1-441b-9f37-cb7aeb54702f",
+  "input": "{\"title\": \"Strangeland\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Strangeland (Deluxe Edition)'",
+  "status": "verified"
+}

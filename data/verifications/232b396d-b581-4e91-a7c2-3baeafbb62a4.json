@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:13.216884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "349d004f-9820-4b6e-b482-966c74e4334f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "232b396d-b581-4e91-a7c2-3baeafbb62a4",
+  "input": "{\"title\": \"It's Just About That Time\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Sound of Young Love'",
+  "status": "verified"
+}

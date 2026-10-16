@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:10.691084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d6d7648-06d0-4f50-b5bb-fcd25364616d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "24e121ec-131c-4ee3-806f-e6ab72aac087",
+  "input": "{\"title\": \"Rain Rain Go Away\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'The Ultimate Epic Singles Collection'",
+  "status": "verified"
+}

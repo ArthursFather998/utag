@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:27.593368+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1d3cb5c-96d7-4b55-b7b5-3dced1552378",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8a1f6e1b-00af-4ca4-bb61-7703dcc16b33",
+  "input": "{\"title\": \"Hurtless (Acoustic)\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:31.220967+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ffa6b5dd-a01b-4de4-95f0-034a45bca169",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed68adf3-2199-49ff-baa9-7981daad62c3",
+  "input": "{\"title\": \"I Wanna Dance with Somebody (Who Loves Me)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Wanna Dance with Somebody (Who Loves Me)'",
+  "status": "verified"
+}

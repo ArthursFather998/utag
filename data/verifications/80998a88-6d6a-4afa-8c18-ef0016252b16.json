@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:54.241225+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1584360-6eff-459c-af42-e9a9ee5b416f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "80998a88-6d6a-4afa-8c18-ef0016252b16",
+  "input": "{\"title\": \"One Last Cry\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

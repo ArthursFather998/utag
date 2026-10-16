@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:46.410857+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b11c3dc5-33da-4cef-990a-74d58b09e07b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bdbd090b-2d30-40ea-b43f-537e7f3195cb",
+  "input": "{\"title\": \"Prayer for You (Interlude)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Here I Stand (Deluxe Version)'",
+  "status": "verified"
+}

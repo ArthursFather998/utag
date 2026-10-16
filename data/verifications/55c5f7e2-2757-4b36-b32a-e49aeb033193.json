@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:07.469632+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe26e91c-f1f2-4c50-ac1c-1bbe7769cd91",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55c5f7e2-2757-4b36-b32a-e49aeb033193",
+  "input": "{\"title\": \"Wherever You Are\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Lo Mejor de...Selena'",
+  "status": "verified"
+}

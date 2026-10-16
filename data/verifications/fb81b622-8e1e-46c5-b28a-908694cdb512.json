@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:42.869976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfd11306-9aad-4810-8e35-5678f8e4489e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb81b622-8e1e-46c5-b28a-908694cdb512",
+  "input": "{\"title\": \"Sanguine Paradise\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sanguine Paradise'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:01.263328+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b66eca6b-d795-4c6e-b6d5-4bc112daaa4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db708b40-8104-4d36-a238-bcec1eee4e54",
+  "input": "{\"title\": \"Failure\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Lost in Transition'",
+  "status": "verified"
+}

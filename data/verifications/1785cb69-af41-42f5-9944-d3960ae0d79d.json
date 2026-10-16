@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:21.428153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7f0da2f-87dd-45d0-8fc2-fd5a6cb712ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1785cb69-af41-42f5-9944-d3960ae0d79d",
+  "input": "{\"title\": \"You Make Me Wanna...\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'You Make Me Wanna...'",
+  "status": "verified"
+}

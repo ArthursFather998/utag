@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:22.771668+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9843e76-9704-40b8-9860-a54989e576fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48f058fb-4118-4183-ba3a-2c47ffde0128",
+  "input": "{\"title\": \"Underdog\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Alicia'",
+  "status": "verified"
+}

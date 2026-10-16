@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:12.274759+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9592863-f19a-45aa-8885-1883a9694e36",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a7d8aaa2-5692-4df4-acfb-31172d2da4f1",
+  "input": "{\"title\": \"OMG\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

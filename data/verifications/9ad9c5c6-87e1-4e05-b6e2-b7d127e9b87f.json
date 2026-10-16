@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:40.311515+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6ac5223-ba73-4767-8f2c-3b0157325b9c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ad9c5c6-87e1-4e05-b6e2-b7d127e9b87f",
+  "input": "{\"title\": \"Beat It\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'California Girls'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:49.323374+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd5baac1-b5f4-41e8-87c3-53ecabd8a970",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e953bd2-2550-434f-b14f-dd3f8308acc8",
+  "input": "{\"title\": \"Crystal Ball\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live 06'",
+  "status": "verified"
+}

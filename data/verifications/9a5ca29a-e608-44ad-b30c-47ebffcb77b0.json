@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:48.474555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f54ec7e5-4ca0-4030-b6df-fdbaa9f43179",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a5ca29a-e608-44ad-b30c-47ebffcb77b0",
+  "input": "{\"title\": \"Hurricane\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Helios'",
+  "status": "verified"
+}

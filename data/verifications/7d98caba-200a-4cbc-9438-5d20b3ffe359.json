@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:32.313905+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "224e6cb6-dfa3-492e-b477-de08dc13c436",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d98caba-200a-4cbc-9438-5d20b3ffe359",
+  "input": "{\"title\": \"Let's Wait Awhile\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Number Ones'",
+  "status": "verified"
+}

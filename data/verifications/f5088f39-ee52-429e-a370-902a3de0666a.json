@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:19.486617+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94a42dfb-64f6-400f-9c03-084f9171e482",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5088f39-ee52-429e-a370-902a3de0666a",
+  "input": "{\"title\": \"Don't Know Which Way to Go\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'London Live '68'",
+  "status": "verified"
+}

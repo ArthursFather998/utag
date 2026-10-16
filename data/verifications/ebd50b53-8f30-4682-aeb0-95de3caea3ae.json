@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:07.571579+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27e2fe1a-ae59-4421-92e6-0c3956b78757",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebd50b53-8f30-4682-aeb0-95de3caea3ae",
+  "input": "{\"title\": \"Nice & Slow (B-Rock's Basement Mix)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Essential Mixes'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:50.451748+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b3dcfa37-b673-497b-b9ff-18089c74b7c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b044afa8-a0c8-4463-b135-1c8d40a2ef7b",
+  "input": "{\"title\": \"Sunshine (Live at Glastonbury June 2005)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Retrospective EP 2: Sunshine'",
+  "status": "verified"
+}

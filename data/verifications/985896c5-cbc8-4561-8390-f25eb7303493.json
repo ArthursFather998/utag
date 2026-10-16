@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:44.064166+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12872d7b-8143-45c9-b22a-6b6c342e8b20",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "985896c5-cbc8-4561-8390-f25eb7303493",
+  "input": "{\"title\": \"Head Over Heels\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Songs for a Nervous Planet'",
+  "status": "verified"
+}

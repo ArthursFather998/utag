@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:31.593898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91e9f62d-2859-484c-a622-aeab6a0dd702",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "59cf12b3-b04e-4891-b792-1f387473103d",
+  "input": "{\"title\": \"I Want to Break Free\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Return of the Champions'",
+  "status": "verified"
+}

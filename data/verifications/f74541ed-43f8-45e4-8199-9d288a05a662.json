@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:41.084191+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43e97928-199f-48bd-a572-a4f95c64e28c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f74541ed-43f8-45e4-8199-9d288a05a662",
+  "input": "{\"title\": \"Maybe I Know\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Golden Hits of Lesley Gore'",
+  "status": "verified"
+}

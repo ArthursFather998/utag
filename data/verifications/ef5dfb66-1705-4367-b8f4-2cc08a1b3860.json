@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:43.31239+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab695cde-1487-44bd-9534-116867f0a8e9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ef5dfb66-1705-4367-b8f4-2cc08a1b3860",
+  "input": "{\"title\": \"I Hate U\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

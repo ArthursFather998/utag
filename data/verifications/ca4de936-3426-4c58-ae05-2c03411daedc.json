@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:45.492208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6386f98-2731-4f30-a5b4-aecad2ed6ff2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca4de936-3426-4c58-ae05-2c03411daedc",
+  "input": "{\"title\": \"Save Me\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Behind the Mask'",
+  "status": "verified"
+}

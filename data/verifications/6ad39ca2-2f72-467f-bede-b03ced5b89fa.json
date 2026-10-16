@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:10.055866+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96fb5593-e4a0-4dc0-a9ba-317dd003f28e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ad39ca2-2f72-467f-bede-b03ced5b89fa",
+  "input": "{\"title\": \"La Tracalera\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'La Leyenda'",
+  "status": "verified"
+}

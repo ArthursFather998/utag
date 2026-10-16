@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:32.241136+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6cdaeaa4-7065-46eb-a097-f29981ca341d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cb77fe38-f080-40cd-980c-d1743d9bf641",
+  "input": "{\"title\": \"How Do I Say Goodbye (Orchestral)\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

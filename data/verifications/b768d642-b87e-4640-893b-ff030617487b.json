@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:32.222557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89ea2d2c-d8ab-48db-b462-6b894c58f599",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b768d642-b87e-4640-893b-ff030617487b",
+  "input": "{\"title\": \"Lullabye\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'America's Suitehearts: Remixed, Retouched, Rehabbed and Retoxed'",
+  "status": "verified"
+}

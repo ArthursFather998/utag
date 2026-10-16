@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:48.817355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b21cb135-3f55-4fea-ad39-e31e69d7420d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ed53cd1-efe7-4877-bcbb-74697501e8f5",
+  "input": "{\"title\": \"I Can't Make You Fall in Love Again\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'I Love You So F***ing Much'",
+  "status": "verified"
+}

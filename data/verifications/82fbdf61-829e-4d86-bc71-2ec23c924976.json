@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:59.941138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "710eab78-a4a1-42d6-9e5c-0b607d96cdfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82fbdf61-829e-4d86-bc71-2ec23c924976",
+  "input": "{\"title\": \"You Need Love\", \"track_number\": 38}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 38 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

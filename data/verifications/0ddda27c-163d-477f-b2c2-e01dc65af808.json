@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:07.811444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52b73db4-4222-4053-9f3c-c02e55ef7dab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ddda27c-163d-477f-b2c2-e01dc65af808",
+  "input": "{\"title\": \"Lock It Up\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Music to Be Murdered By'",
+  "status": "verified"
+}

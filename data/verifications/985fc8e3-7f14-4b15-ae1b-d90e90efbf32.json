@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:12.895388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9cd6adc2-0825-481f-a2f3-d30ae3e9b9d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "985fc8e3-7f14-4b15-ae1b-d90e90efbf32",
+  "input": "{\"title\": \"Forget Her\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Grace (Legacy Edition)'",
+  "status": "verified"
+}

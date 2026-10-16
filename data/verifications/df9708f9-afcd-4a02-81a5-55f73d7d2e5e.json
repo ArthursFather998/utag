@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:20.67966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c02edb35-9192-4424-95bd-8a4802e26d6c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df9708f9-afcd-4a02-81a5-55f73d7d2e5e",
+  "input": "{\"title\": \"Used2This\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Tec'",
+  "status": "verified"
+}

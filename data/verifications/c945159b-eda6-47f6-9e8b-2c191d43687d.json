@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:06.975471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca520021-3d67-4fb3-bc4d-c9a74aded707",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c945159b-eda6-47f6-9e8b-2c191d43687d",
+  "input": "{\"title\": \"He'll Have to Go\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Bobby Vinton Sings the Big Ones'",
+  "status": "verified"
+}

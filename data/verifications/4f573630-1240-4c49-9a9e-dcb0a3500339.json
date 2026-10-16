@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:45.913877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c2630c2-a58c-44c7-828a-2f3156e63093",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f573630-1240-4c49-9a9e-dcb0a3500339",
+  "input": "{\"title\": \"Crash\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Hard II Love'",
+  "status": "verified"
+}

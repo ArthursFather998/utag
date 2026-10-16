@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:46.899219+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ce4ec07-c47c-4f24-9338-fb5bea14e495",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22da324e-b686-4d5b-9e5b-52bbb3ca3bf1",
+  "input": "{\"title\": \"Calling All My Lovelies\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '24K Magic'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:47.938823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ca15115-b99e-4cef-97a8-bba251de8203",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd1f4249-5fa7-4c51-b783-9b53f2a4163e",
+  "input": "{\"title\": \"Can't Stand the Thought\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'A Jagged Love Story'",
+  "status": "verified"
+}

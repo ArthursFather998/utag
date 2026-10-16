@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:06.795418+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07e910eb-e98b-44f5-8f43-9eda48fbe375",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "19f06396-66c6-4c6b-b3c6-f11418661ce1",
+  "input": "{\"title\": \"In Transition\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:53.853724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ad681500-d963-4f80-bcd9-da5580b370e7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d0be6ee0-65c2-4b73-bbc4-b63c243a695f",
+  "input": "{\"title\": \"Can You Feel the Love Tonight\", \"release_type\": \"single\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

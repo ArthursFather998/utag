@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:00.281945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "253f7295-cff3-4265-96e6-7400ea10e40f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "edf5ba47-758a-4f4e-8b41-c9eeed3286b2",
+  "input": "{\"title\": \"Blues Go Away\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Deep in a Dream'",
+  "status": "verified"
+}

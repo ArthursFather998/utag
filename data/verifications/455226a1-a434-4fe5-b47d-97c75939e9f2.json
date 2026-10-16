@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:01.319686+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3feba3d9-8e79-441f-92f4-45854c221ac6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "455226a1-a434-4fe5-b47d-97c75939e9f2",
+  "input": "{\"title\": \"First Love / Late Spring\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Land: The Live Album'",
+  "status": "verified"
+}

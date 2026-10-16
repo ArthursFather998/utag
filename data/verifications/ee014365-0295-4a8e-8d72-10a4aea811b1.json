@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:24.404948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b12acdc7-c06b-43a3-ac63-dbf90947e198",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee014365-0295-4a8e-8d72-10a4aea811b1",
+  "input": "{\"title\": \"Shameless\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Beauty Behind the Madness'",
+  "status": "verified"
+}

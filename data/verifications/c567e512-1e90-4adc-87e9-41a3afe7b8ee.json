@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:15.497041+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df960b7e-49a4-476b-b888-826c689b63d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c567e512-1e90-4adc-87e9-41a3afe7b8ee",
+  "input": "{\"title\": \"Burnin' It Down\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Old Boots, New Dirt'",
+  "status": "verified"
+}

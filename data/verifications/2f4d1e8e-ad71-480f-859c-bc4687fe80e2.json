@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:28.885986+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0a96011-f4da-4380-9be8-3ec269cc34e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f4d1e8e-ad71-480f-859c-bc4687fe80e2",
+  "input": "{\"title\": \"Ridiculous Thoughts\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Icon: The Cranberries'",
+  "status": "verified"
+}

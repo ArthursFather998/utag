@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:56.834461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e7b220b-5cdc-4e5b-92cc-3a3d43c9c05b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4abcdc4-ee5e-412e-9f1f-a591f869ff68",
+  "input": "{\"title\": \"Juju Woman\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Imagination & the Misfit Kid'",
+  "status": "verified"
+}

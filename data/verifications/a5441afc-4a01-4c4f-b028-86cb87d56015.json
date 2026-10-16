@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:25.011589+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a191608c-b19b-4ad8-bfb4-0eb984708810",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5441afc-4a01-4c4f-b028-86cb87d56015",
+  "input": "{\"title\": \"I'm Coolin', No Foolin'\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Boys, Boys, Boys'",
+  "status": "verified"
+}

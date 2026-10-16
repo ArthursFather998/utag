@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:37.041438+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ea266c0-6bc2-411b-a848-02101e90c4a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8495ddc-565c-402a-9d6d-fd057495ca45",
+  "input": "{\"title\": \"Drew a Picasso\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'For All the Dogs'",
+  "status": "verified"
+}

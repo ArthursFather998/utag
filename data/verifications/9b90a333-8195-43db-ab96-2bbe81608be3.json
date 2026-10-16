@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:50.85859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f2472a1-ee9f-4375-aab2-11c28bd71d33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b90a333-8195-43db-ab96-2bbe81608be3",
+  "input": "{\"title\": \"Amigo\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'We Love You Tecca'",
+  "status": "verified"
+}

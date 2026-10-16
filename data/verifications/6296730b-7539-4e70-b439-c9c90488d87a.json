@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:33.333323+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e1f91cc6-c7f0-4e8e-82ca-86a9fe74f3fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6296730b-7539-4e70-b439-c9c90488d87a",
+  "input": "{\"title\": \"Little Miss Sad One\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Come Softly to Me: The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

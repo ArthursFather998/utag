@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:09.002463+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ad15362d-4e42-4402-a717-ae234577b50f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cafab9d2-7311-48b8-9720-aacc80793a37",
+  "input": "{\"title\": \"Linger (acoustic)\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:50.847243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f45e0dad-e8d3-41d6-b759-4bddb99a9e8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50b1c9a5-fc38-4651-9114-33040afeedbb",
+  "input": "{\"title\": \"Monologue - Nusrat, He's My Elvis\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Live at Sin-é (Legacy Edition)'",
+  "status": "verified"
+}

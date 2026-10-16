@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:06.473982+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21696e0c-3daa-4768-9931-3ce94c0b24ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f599d1f-c32a-474c-9b47-4353c8167666",
+  "input": "{\"title\": \"watch you sleep.\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'watch you sleep.'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:24.493946+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "442000c1-4163-4330-9310-c82062c74655",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6ad03b1-12f3-49a6-87b4-38ab3e1d38ac",
+  "input": "{\"title\": \"In Common\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In Common'",
+  "status": "verified"
+}

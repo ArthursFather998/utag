@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:25.69119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "547f4b74-6241-4937-9d59-d1088c8ba221",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7335c44-bed2-4760-bcf6-ae5156b33f8a",
+  "input": "{\"title\": \"Disc 1 - Run Bobby Run\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

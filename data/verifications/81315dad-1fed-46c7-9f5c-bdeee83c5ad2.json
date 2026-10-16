@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:24.814854+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99f44a3e-4960-4f9d-bb92-3bf9cd7a16aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81315dad-1fed-46c7-9f5c-bdeee83c5ad2",
+  "input": "{\"title\": \"I Use What I Got\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Relentless'",
+  "status": "verified"
+}

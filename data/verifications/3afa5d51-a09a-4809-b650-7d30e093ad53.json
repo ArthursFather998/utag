@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:34.258806+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c516ee29-6adc-4cfc-96e1-87d59adf2bb0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3afa5d51-a09a-4809-b650-7d30e093ad53",
+  "input": "{\"title\": \"People\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'In the Beginning'",
+  "status": "verified"
+}

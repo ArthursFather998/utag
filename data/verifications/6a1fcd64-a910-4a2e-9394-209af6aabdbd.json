@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:12:48.314557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f171af41-ddf6-4efc-8710-8d48f8bb3843",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6a1fcd64-a910-4a2e-9394-209af6aabdbd",
+  "input": "{\"title\": \"Wanderlust\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

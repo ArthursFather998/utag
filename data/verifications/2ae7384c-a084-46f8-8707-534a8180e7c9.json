@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:00.764164+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0a9d36a-cc4a-42dc-b203-f05c5d110e1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ae7384c-a084-46f8-8707-534a8180e7c9",
+  "input": "{\"title\": \"Middle of the Night\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'To Each His Own'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:08.506704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f79c1f9-5ffe-4ce4-8e82-42b37a22cc2b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "582fe99f-4ccf-4ca1-953d-27497a1a12cd",
+  "input": "{\"title\": \"drift/(:(\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'drift/(:('",
+  "status": "verified"
+}

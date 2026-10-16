@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:02.414802+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88612986-4940-4926-8650-a4c2559c8a77",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b47e7217-de8b-4909-8918-80bd2e716e23",
+  "input": "{\"title\": \"Teddy Bear\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Cry Baby's Extra Clutter'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:28.44087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c09f95a-f1b9-4a6f-9f3d-a39f27b5d685",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f950652-9c02-4d5f-bd92-1963641b33fb",
+  "input": "{\"title\": \"Paralyzed\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Gran Turismo (Remastered)'",
+  "status": "verified"
+}

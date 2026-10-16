@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:56.32174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e28f5a83-ce6c-4f94-9f59-3cd137e2b001",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "11891a56-e6d1-4e93-b728-38d978cf1b1a",
+  "input": "{\"title\": \"Try Sleeping with a Broken Heart\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'In Tokyo 2025'",
+  "status": "verified"
+}

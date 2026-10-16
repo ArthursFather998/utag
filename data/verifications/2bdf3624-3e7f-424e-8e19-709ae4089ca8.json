@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:10.006909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f7d1a9d-1e83-424c-a8f8-a841b2cf0657",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2bdf3624-3e7f-424e-8e19-709ae4089ca8",
+  "input": "{\"title\": \"Don't Forget About Us (Kaytranada Remix)\", \"track_number\": 45}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 45 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

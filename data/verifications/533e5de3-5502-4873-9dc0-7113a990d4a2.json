@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:08.095957+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "274b20d0-80f1-4ed8-be29-3859787a5feb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "533e5de3-5502-4873-9dc0-7113a990d4a2",
+  "input": "{\"title\": \"Hush\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

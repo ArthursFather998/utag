@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:51.815925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c54c5599-7339-456f-a75f-c1964b9d274e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7572133f-5058-4daf-a8c2-eb26fa345f81",
+  "input": "{\"title\": \"Purple Rain\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'HARDSTONE PSYCHO (Deluxe)'",
+  "status": "verified"
+}

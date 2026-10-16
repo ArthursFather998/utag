@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:53.636184+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7bb23fb4-024d-4263-8145-5f687857f00a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "90306ea5-a819-4377-b0d9-3c82fab1de7c",
+  "input": "{\"title\": \"After Hours\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

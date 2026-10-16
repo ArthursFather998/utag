@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:53.581055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71f587da-57a3-4682-9913-5a3a669ef4f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "172c1bb8-0efc-4440-87a7-795d98e37708",
+  "input": "{\"title\": \"Something Great\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Midnight Memories (The Ultimate Edition)'",
+  "status": "verified"
+}

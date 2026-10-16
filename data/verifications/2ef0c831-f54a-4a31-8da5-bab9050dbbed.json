@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:38.030379+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f8e8988-b944-4b78-b15a-4812b4c4fc65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ef0c831-f54a-4a31-8da5-bab9050dbbed",
+  "input": "{\"title\": \"Up Out My Face (The Reprise)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Memoirs of an Imperfect Angel'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:50.153848+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "032aa06d-c0ca-4eb2-b17a-7f54bd958240",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b7ab7ea-4a91-45c3-8306-0352a08ac581",
+  "input": "{\"title\": \"I Don't Care\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'A Single Man'",
+  "status": "verified"
+}

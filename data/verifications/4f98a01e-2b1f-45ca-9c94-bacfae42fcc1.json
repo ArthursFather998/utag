@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:04.637717+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "93b1b68b-60f3-42ac-82d4-44b68adb9c7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f98a01e-2b1f-45ca-9c94-bacfae42fcc1",
+  "input": "{\"title\": \"All Around the World (Acoustic Version)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Believe Acoustic'",
+  "status": "verified"
+}

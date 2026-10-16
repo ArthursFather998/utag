@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:56.369651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab5e9763-6ae2-4c3b-8ba4-4b875760c980",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6e0439bd-8a01-488c-bb2c-aa5f54a9f373",
+  "input": "{\"title\": \"Portals\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:23.917448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5890cf88-f990-4335-9a7f-1e08ea075024",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3061398f-2e34-45e2-9a44-bf7b60614069",
+  "input": "{\"title\": \"The Smell Saved My Life\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Buds'",
+  "status": "verified"
+}

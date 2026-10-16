@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:21.642087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee057f70-99eb-4a25-a3a6-bc474ad3b38d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d76af2f5-5c52-40db-a530-73f822ddddf1",
+  "input": "{\"title\": \"Long Grey Mare\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Green Shadows: Classics and Rarities Featuring Peter Green'",
+  "status": "verified"
+}

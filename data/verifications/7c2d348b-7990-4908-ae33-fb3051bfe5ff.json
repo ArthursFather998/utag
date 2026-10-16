@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:03.294409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7429e227-6baa-47a1-afbe-b77fa1066859",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c2d348b-7990-4908-ae33-fb3051bfe5ff",
+  "input": "{\"title\": \"One Last Breath\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'One Last Breath'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:27.309128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12e5e7a7-52b3-44e7-b34c-95c4b04d97da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "095a489f-1749-4685-8de8-fbd8c7aa205b",
+  "input": "{\"title\": \"Border Song\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Border Song'",
+  "status": "verified"
+}

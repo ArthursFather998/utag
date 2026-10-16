@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:16.500222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f19f9672-daee-4ca2-8446-db0e118a8259",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b989fd3f-edb4-4984-9bf7-6aaa6516ef04",
+  "input": "{\"title\": \"Johnny Cash\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Relentless'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:20.441594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50e032d5-cf94-41b9-a02e-af5a847ded02",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cda1d5b7-1474-44b3-ad5b-e8376a997788",
+  "input": "{\"title\": \"Say When\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Fray'",
+  "status": "verified"
+}

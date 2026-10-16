@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:22.947124+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ad40ba9c-bedc-42e1-a79f-4d0f3ce80beb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "362a77e0-2a8d-40bd-91dd-4ecc21533e78",
+  "input": "{\"title\": \"Getting Over You\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'J.E. Heartbreak II'",
+  "status": "verified"
+}

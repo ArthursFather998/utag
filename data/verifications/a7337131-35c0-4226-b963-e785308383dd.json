@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:11.443684+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86f1d9b4-4d51-4fbd-a72e-8e8e20ef0b0f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7337131-35c0-4226-b963-e785308383dd",
+  "input": "{\"title\": \"sorry this is too much\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'sick'",
+  "status": "verified"
+}

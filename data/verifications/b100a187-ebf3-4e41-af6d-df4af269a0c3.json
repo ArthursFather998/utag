@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:32.709582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1ff7dee-bcc6-42fa-b96a-cffaf63a0416",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b100a187-ebf3-4e41-af6d-df4af269a0c3",
+  "input": "{\"title\": \"My Boo (Live)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Verzuz: Alicia Keys x John Legend (Live)'",
+  "status": "verified"
+}

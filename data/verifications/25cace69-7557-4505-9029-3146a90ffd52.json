@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:42.102015+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9313dcd4-8fe7-4eb2-9691-3c94f44a5d40",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "25cace69-7557-4505-9029-3146a90ffd52",
+  "input": "{\"title\": \"Blue in Green\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

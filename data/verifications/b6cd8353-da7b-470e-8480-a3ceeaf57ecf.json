@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:34.402821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67a010fa-f2cc-4933-ad8a-bdd59d9706e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6cd8353-da7b-470e-8480-a3ceeaf57ecf",
+  "input": "{\"title\": \"PEPSI NAMCO\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'PEPSI NAMCO'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:53.966208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab8bdc74-6096-4384-afd8-699292c60a52",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "efba878d-991a-4bab-bcd7-a27c42aa41c6",
+  "input": "{\"title\": \"Fuel\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Death of Slim Shady (Coup de Grâce)'",
+  "status": "verified"
+}

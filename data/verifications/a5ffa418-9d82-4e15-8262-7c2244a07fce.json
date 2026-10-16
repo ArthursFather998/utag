@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:26.516129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c898f6d0-58be-41cc-a0b3-9f7ee47bc5db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5ffa418-9d82-4e15-8262-7c2244a07fce",
+  "input": "{\"title\": \"Red Hot Jam\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Fleetwood Mac in Chicago'",
+  "status": "verified"
+}

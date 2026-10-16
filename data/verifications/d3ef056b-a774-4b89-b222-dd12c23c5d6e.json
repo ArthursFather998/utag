@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:55.484497+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a46401a-e0d1-4f26-8d9c-c246f10fd9a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3ef056b-a774-4b89-b222-dd12c23c5d6e",
+  "input": "{\"title\": \"The Lovers Are Losing (Live at Largo, Los Angeles, CA / 2008)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live At Largo (Los Angeles)'",
+  "status": "verified"
+}

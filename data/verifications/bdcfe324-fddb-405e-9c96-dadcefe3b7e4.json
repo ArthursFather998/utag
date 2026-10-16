@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:40.936105+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ef22553-1230-4fd2-a925-521e5e3255db",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bdcfe324-fddb-405e-9c96-dadcefe3b7e4",
+  "input": "{\"title\": \"Intellectual Sweater\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

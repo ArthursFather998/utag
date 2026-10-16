@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:55.232683+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e13cb09-43e4-44fd-bc23-6a002c483267",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1476e256-8b7e-4f52-98fc-c9697f8a7b56",
+  "input": "{\"title\": \"The Show Must Go On\", \"release_type\": \"single\", \"release_year\": 1991}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

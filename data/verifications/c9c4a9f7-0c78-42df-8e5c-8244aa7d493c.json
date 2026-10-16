@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:55.246614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2aa8b109-2139-4d04-bbc7-2caf9554f38c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9c4a9f7-0c78-42df-8e5c-8244aa7d493c",
+  "input": "{\"title\": \"Stupid in Love (Chew Fu Small Room Fix)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Rated R: Remixed'",
+  "status": "verified"
+}

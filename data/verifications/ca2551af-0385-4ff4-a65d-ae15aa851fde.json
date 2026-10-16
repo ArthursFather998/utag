@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:50.675448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4974eb93-1430-49b1-a041-57ff7f9c7291",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ca2551af-0385-4ff4-a65d-ae15aa851fde",
+  "input": "{\"title\": \"In My Pocket\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

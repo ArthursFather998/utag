@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:48.952446+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc479142-9d19-44f1-8e57-67cab45b06e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "75056156-8cfc-4550-92a8-d921e67da5c9",
+  "input": "{\"title\": \"Miss You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Miss You'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:35.515582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e53076b6-0e53-4ab5-8b8e-54e1683f74e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9e6195a-ab27-4079-8542-30ad7091bbb0",
+  "input": "{\"title\": \"Ruin\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Coming Home'",
+  "status": "verified"
+}

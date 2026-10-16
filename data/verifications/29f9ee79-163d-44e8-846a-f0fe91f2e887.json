@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:01.853998+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4a03929-ecf2-414b-bbcc-d1590fbbca8a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29f9ee79-163d-44e8-846a-f0fe91f2e887",
+  "input": "{\"title\": \"When Love Is Dying\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Union'",
+  "status": "verified"
+}

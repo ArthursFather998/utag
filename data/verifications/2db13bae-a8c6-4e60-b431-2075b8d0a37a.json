@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:02.868404+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05fc3aaf-d77c-482f-ac6f-3c71071ba92c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2db13bae-a8c6-4e60-b431-2075b8d0a37a",
+  "input": "{\"title\": \"Don't Sit Down 'Cause I've Moved Your Chair\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Sit Down 'Cause I've Moved Your Chair'",
+  "status": "verified"
+}

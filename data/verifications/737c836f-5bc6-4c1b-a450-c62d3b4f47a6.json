@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:41.534165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6998038-3942-427f-9683-bcc01d1d75a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "737c836f-5bc6-4c1b-a450-c62d3b4f47a6",
+  "input": "{\"title\": \"420\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Garden'",
+  "status": "verified"
+}

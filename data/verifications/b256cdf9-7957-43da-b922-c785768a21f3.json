@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:21.505799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a85d0884-b932-40f4-ad66-b867e3d62489",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b256cdf9-7957-43da-b922-c785768a21f3",
+  "input": "{\"title\": \"Tell Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Where Do We Go From Here?'",
+  "status": "verified"
+}

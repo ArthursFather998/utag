@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:09.768633+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed5dd503-1d0f-4788-bdcb-74f38c8fcc85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90ecbff4-dc0e-4cdc-9dad-2133339a93e9",
+  "input": "{\"title\": \"Mother, Father\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live in Houston 1981: The Escape Tour'",
+  "status": "verified"
+}

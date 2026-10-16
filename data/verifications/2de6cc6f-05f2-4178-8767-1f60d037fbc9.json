@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:13.223781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "980d0d02-19fd-4c85-96e4-8da5c7c6bc33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2de6cc6f-05f2-4178-8767-1f60d037fbc9",
+  "input": "{\"title\": \"Like You'll Never See Me Again (Seiji Mix)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Remixed'",
+  "status": "verified"
+}

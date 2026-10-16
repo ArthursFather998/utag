@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:24.633491+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0733ded-dc23-4d36-8da7-e70ef218506b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b223f0f5-161d-442b-9b46-421d3b7e17ed",
+  "input": "{\"title\": \"Gone Girl\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'Lana'",
+  "status": "verified"
+}

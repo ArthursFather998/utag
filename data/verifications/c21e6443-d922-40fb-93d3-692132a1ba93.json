@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:21.472347+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ad294f7-84b3-4431-a735-a9f2a39bb24c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c21e6443-d922-40fb-93d3-692132a1ba93",
+  "input": "{\"title\": \"Randall Flagg\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Magic Hour'",
+  "status": "verified"
+}

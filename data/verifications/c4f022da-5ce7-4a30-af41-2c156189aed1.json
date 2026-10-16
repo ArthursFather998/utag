@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:33.663127+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67bb02ee-c293-49bc-824d-440c6f843e7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4f022da-5ce7-4a30-af41-2c156189aed1",
+  "input": "{\"title\": \"I'm Coming Home to Stay\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:14.155318+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e7790d3-35d4-4df8-9665-d0625475a315",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2953da3-aa62-45e5-bd32-c31cad364bf1",
+  "input": "{\"title\": \"LoveSickness\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Sick'",
+  "status": "verified"
+}

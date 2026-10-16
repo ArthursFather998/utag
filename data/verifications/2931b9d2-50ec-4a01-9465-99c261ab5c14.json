@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:09.000382+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee7dde30-928a-4d29-81fc-75fc65dffd81",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2931b9d2-50ec-4a01-9465-99c261ab5c14",
+  "input": "{\"title\": \"I Don't Wanna Be a Loser\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Don't Wanna Be a Loser'",
+  "status": "verified"
+}

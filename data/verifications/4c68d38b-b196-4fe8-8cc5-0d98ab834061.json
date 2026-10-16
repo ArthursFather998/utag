@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:39.664042+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9760e215-28a2-474f-8de6-265db9c9a692",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c68d38b-b196-4fe8-8cc5-0d98ab834061",
+  "input": "{\"title\": \"Hold My Hand\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Helios'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:30.557884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4e8d783-461b-4c65-9979-e35923c2bad0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fff8d706-012d-4bb2-831f-2df2ac07110f",
+  "input": "{\"title\": \"Raoul and the Kings of Spain\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Rule the World: The Greatest Hits'",
+  "status": "verified"
+}

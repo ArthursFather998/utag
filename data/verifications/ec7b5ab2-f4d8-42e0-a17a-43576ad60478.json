@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:46.607388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62b12a9a-f93c-4477-ad5a-6188274a052f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec7b5ab2-f4d8-42e0-a17a-43576ad60478",
+  "input": "{\"title\": \"The Cage\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Never Too Late'",
+  "status": "verified"
+}

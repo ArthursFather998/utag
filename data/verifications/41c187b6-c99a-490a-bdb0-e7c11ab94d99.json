@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:08.654734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c204ac22-e8eb-47ca-a031-e169ea896d50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41c187b6-c99a-490a-bdb0-e7c11ab94d99",
+  "input": "{\"title\": \"Razor Face\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Madman Across the Water'",
+  "status": "verified"
+}

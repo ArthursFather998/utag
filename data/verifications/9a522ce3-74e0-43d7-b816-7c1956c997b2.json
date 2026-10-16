@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:45.051364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5fb8cac4-be85-4d74-bbea-06a2f481abd9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9a522ce3-74e0-43d7-b816-7c1956c997b2",
+  "input": "{\"title\": \"I Do\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

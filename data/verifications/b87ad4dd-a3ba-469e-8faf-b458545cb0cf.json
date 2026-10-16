@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:28.492405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4be1d99d-427a-45a9-b03a-b0863cf82454",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b87ad4dd-a3ba-469e-8faf-b458545cb0cf",
+  "input": "{\"title\": \"Eenie Meenie\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

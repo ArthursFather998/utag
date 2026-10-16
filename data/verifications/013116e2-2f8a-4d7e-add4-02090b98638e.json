@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:39.716535+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21ad2573-f3c5-4726-a29e-3e2b6eb57be7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "013116e2-2f8a-4d7e-add4-02090b98638e",
+  "input": "{\"title\": \"Siempre Estoy Pensando En Ti\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Entre a Mi Mundo'",
+  "status": "verified"
+}

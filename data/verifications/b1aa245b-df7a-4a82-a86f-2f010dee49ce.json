@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:19.436499+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e9dbe21-ea2a-42d2-8f75-fa9666516b0b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b1aa245b-df7a-4a82-a86f-2f010dee49ce",
+  "input": "{\"title\": \"With Me\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

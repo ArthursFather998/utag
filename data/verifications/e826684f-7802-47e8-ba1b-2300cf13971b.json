@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:59.006095+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b312a595-49c9-4b41-8295-3fc904da11ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e826684f-7802-47e8-ba1b-2300cf13971b",
+  "input": "{\"title\": \"In Your Eyes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In Your Eyes'",
+  "status": "verified"
+}

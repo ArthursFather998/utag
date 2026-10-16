@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:37.116602+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33ecb6c7-e710-4dd6-8bcf-b99bb90ef44e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "037bf2e7-37a0-4b61-91b4-7b32aa4081ea",
+  "input": "{\"title\": \"Sofia\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:44.021621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6886c0f-0a41-4f60-80f6-a566c7b1bc70",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b6beb5d5-a293-4459-8807-324e5d54bffb",
+  "input": "{\"title\": \"The Big Picture\", \"release_type\": \"album\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:38.827934+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1dfdaed-0618-4c14-b09b-c9a76c741535",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea2e8d3a-6809-4991-9540-2ed1c6eef42e",
+  "input": "{\"title\": \"Meaningless\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Fatherless and the Widow'",
+  "status": "verified"
+}

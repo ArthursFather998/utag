@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:29.117018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3572a94b-33af-495f-b369-c92019558ea0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55d3d4f1-4186-4364-8edb-e33af11bbfa4",
+  "input": "{\"title\": \"Careful\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Careful'",
+  "status": "verified"
+}

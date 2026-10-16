@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:57.27847+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46febb52-c3ca-4a01-a676-ccab95c4106d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f3ed162-a6d6-4f7f-b52c-c91eef6157d4",
+  "input": "{\"title\": \"Foolin' Around\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Raymond v. Raymond'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:23.027623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d42bd980-4753-41e3-98d2-23e270f1bf2b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e2821736-dbff-44b0-9ca3-d592d7e7b080",
+  "input": "{\"title\": \"Lifeline\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

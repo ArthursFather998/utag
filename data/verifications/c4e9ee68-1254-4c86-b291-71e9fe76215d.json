@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:22.330875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10e9cd2e-3595-4816-8ebb-012a01c9d370",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4e9ee68-1254-4c86-b291-71e9fe76215d",
+  "input": "{\"title\": \"Only Girl (In the World)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Rated R + Loud'",
+  "status": "verified"
+}

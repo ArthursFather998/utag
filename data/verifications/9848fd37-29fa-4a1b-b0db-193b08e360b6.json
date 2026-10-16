@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:59.978189+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "869c00a6-440e-437a-92a9-8e5c91cc237c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9848fd37-29fa-4a1b-b0db-193b08e360b6",
+  "input": "{\"title\": \"Ididntreallymeantoturnuout\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'More Than Words'",
+  "status": "verified"
+}

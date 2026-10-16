@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:01.986692+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02f958f6-6b04-4f4f-ba4a-5c694b76d670",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d6d4340a-73b8-4567-89a6-816bf5d069c3",
+  "input": "{\"title\": \"The Many Ways\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

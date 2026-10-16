@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:00.843143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f83b7d5-b7ee-4126-ae15-30f28b6884bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47245e4b-7ea6-49d4-8f3b-4264a9520ee6",
+  "input": "{\"title\": \"Cater 2 U\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Destiny Fulfilled'",
+  "status": "verified"
+}

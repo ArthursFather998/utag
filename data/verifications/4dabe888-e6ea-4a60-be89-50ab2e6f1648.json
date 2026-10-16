@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:59.94154+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "373617d4-a031-4153-8ef8-09c2583da9ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dabe888-e6ea-4a60-be89-50ab2e6f1648",
+  "input": "{\"title\": \"serotonin\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'serotonin'",
+  "status": "verified"
+}

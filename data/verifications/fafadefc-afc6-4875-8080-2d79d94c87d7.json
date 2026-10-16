@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:12.484338+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5bc885ad-d7b3-426d-b96a-8ff350c81a46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fafadefc-afc6-4875-8080-2d79d94c87d7",
+  "input": "{\"title\": \"Precursor\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Colorado's On Fire Again'",
+  "status": "verified"
+}

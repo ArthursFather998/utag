@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:08.182516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa6366f2-6276-485a-bcfb-c4da522156d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0e81ca6-a3be-4c21-a575-a64d69412c40",
+  "input": "{\"title\": \"Ever Since\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ever Since'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:40.744609+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e6af3db-c7cf-4f09-b9f8-8fceb69e3cfe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "090d4c09-5042-4f67-95a0-6a87513ec1d8",
+  "input": "{\"title\": \"The Road\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Rest of the Best - Vol. 2'",
+  "status": "verified"
+}

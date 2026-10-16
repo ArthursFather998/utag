@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:06.519374+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c5dbbc0-8014-4670-8aca-b5164389b074",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb898bec-1f4a-4952-bbfc-080d58ffa957",
+  "input": "{\"title\": \"Where Did the Feeling Go?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Where Did the Feeling Go?'",
+  "status": "verified"
+}

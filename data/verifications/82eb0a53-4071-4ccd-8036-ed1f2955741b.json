@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:39.21638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2eef0a1-8e9c-4431-bcec-4c51b1502316",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82eb0a53-4071-4ccd-8036-ed1f2955741b",
+  "input": "{\"title\": \"Wait by the River\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wait by the River'",
+  "status": "verified"
+}

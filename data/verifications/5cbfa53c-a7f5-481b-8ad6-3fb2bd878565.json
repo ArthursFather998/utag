@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:09.020766+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2cceb20-1ed8-4a98-a990-16f214504574",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cbfa53c-a7f5-481b-8ad6-3fb2bd878565",
+  "input": "{\"title\": \"Wedding Bell Blues\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wedding Bell Blues'",
+  "status": "verified"
+}

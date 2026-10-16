@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:04.529351+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25e9cdbd-174a-44aa-961f-6d50307c6084",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd57109c-7847-4e70-a1cc-f9fda89cebf1",
+  "input": "{\"title\": \"Beautiful Stranger\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Everything I Know About Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:45.917047+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8d009b4-a532-4756-a569-c8c6e5612741",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5222bd49-e28b-4edb-9348-aa9bd2e7a25a",
+  "input": "{\"title\": \"Ransom (Remix)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ransom (Remix)'",
+  "status": "verified"
+}

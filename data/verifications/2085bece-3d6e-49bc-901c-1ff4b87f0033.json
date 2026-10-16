@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:11.504626+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c85749ce-fb32-49a4-9d5f-ec6567f3f34e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2085bece-3d6e-49bc-901c-1ff4b87f0033",
+  "input": "{\"title\": \"She Makes Me (Stormtrooper in Stilettoes)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Sheer Heart Attack'",
+  "status": "verified"
+}

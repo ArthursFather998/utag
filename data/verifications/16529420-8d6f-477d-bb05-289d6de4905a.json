@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:53.801788+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6cb4d8f-df33-465c-928d-9e7968855a06",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16529420-8d6f-477d-bb05-289d6de4905a",
+  "input": "{\"title\": \"Green Mile\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Z'",
+  "status": "verified"
+}

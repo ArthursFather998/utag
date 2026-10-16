@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:11.97376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c92e9f9-0c4d-4c17-92b2-43a43db1fd9f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ede9c25-4c72-48ef-8ed1-09f36b92978f",
+  "input": "{\"title\": \"I Think You're Special (with Tems)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Swag II'",
+  "status": "verified"
+}

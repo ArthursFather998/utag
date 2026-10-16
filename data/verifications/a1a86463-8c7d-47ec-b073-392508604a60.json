@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:14.878116+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "581369a3-34d1-4f95-98fd-faaeb3331df1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1a86463-8c7d-47ec-b073-392508604a60",
+  "input": "{\"title\": \"Every Morning\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Wake Up and Smell the Coffee'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:23.441592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd11dd9e-b878-4eee-b31d-14e6c8586c4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0fdb897b-57f1-4328-b9f0-c87fc19e8c00",
+  "input": "{\"title\": \"F*ck PNC Bank\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'We All Shine'",
+  "status": "verified"
+}

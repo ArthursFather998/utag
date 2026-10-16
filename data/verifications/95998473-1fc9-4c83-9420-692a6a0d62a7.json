@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:55.141544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53d357a4-ea0d-42b1-b2e6-86a66eea4ff5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95998473-1fc9-4c83-9420-692a6a0d62a7",
+  "input": "{\"title\": \"Pity Party (Kassiano Remix)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Pity Party (Remixes)'",
+  "status": "verified"
+}

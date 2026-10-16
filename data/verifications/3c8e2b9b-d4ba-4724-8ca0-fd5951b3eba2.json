@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:08.250359+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e930987e-541c-46e2-8559-284716b37d51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c8e2b9b-d4ba-4724-8ca0-fd5951b3eba2",
+  "input": "{\"title\": \"A\\u00e7a\\u00ed Bowl\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Açaí Bowl'",
+  "status": "verified"
+}

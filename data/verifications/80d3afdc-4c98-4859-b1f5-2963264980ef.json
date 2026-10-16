@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:21.240871+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e6087ba-c8e4-495b-b47f-8f0995a144bb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "80d3afdc-4c98-4859-b1f5-2963264980ef",
+  "input": "{\"title\": \"Thought Menagerie\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

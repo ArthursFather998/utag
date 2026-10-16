@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:21.717694+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e5f9fb6-6bd5-4388-bcb7-c5d04f0b56a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27d4ee15-d369-45ab-81c6-7faa868b6352",
+  "input": "{\"title\": \"Ready or Not\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Covers'",
+  "status": "verified"
+}

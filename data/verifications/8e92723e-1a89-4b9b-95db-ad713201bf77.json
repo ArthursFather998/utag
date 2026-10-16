@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:15.973859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9718f60-1030-43de-80b1-57fead2d9bd1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e92723e-1a89-4b9b-95db-ad713201bf77",
+  "input": "{\"title\": \"Think of You\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Usher'",
+  "status": "verified"
+}

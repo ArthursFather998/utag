@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:13.972955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "106a624a-c59e-4d58-90e4-836885dce8e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d1f1f9f-d35b-4326-b79a-ecd05283a8c6",
+  "input": "{\"title\": \"Horton's Boogie Woogie [Take 2]\", \"track_number\": 77}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 77 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

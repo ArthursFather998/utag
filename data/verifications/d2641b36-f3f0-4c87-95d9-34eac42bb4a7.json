@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:49.283321+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fe17666-3a7e-4dac-9b0d-10232ae0925e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2641b36-f3f0-4c87-95d9-34eac42bb4a7",
+  "input": "{\"title\": \"Sunshine (Demo)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Retrospective EP 2: Sunshine'",
+  "status": "verified"
+}

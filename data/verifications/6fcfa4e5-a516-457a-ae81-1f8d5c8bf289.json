@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:37.565094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1440a95-c2e8-4304-9345-3d563aa5458d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6fcfa4e5-a516-457a-ae81-1f8d5c8bf289",
+  "input": "{\"title\": \"Quiero\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Selena: The Series Soundtrack'",
+  "status": "verified"
+}

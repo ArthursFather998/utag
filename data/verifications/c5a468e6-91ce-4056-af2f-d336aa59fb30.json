@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:22.379524+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db9787b1-dd29-4c0b-9e88-9d6ee0a6e89f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5a468e6-91ce-4056-af2f-d336aa59fb30",
+  "input": "{\"title\": \"Alone\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Planet Her'",
+  "status": "verified"
+}

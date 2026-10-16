@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:17.358629+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c90cd736-25f5-46d1-92a2-9b4eb49f3e5a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05b04cbb-dc18-4b09-a5b2-036ef6897b02",
+  "input": "{\"title\": \"Everywhere\", \"track_number\": 41}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 41 of '50 Years – Don't Stop'",
+  "status": "verified"
+}

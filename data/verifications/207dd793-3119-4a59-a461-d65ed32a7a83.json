@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:57.458473+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a1dfc9c-85f3-4535-ae80-bb34372c6a7d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "207dd793-3119-4a59-a461-d65ed32a7a83",
+  "input": "{\"title\": \"Oh Lord\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Brian McKnight'",
+  "status": "verified"
+}

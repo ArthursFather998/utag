@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:44.285818+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6da69de5-92e7-4d93-b643-8bc842aebce1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cde0fe42-c351-40f0-8abd-a87af5214fb3",
+  "input": "{\"title\": \"Dan Dare (Pilot of the Future)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Rock of the Westies'",
+  "status": "verified"
+}

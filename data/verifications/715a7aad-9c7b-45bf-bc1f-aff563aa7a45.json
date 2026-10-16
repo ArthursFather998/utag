@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:27.175409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff6bbae9-90af-48c3-aac9-1947f49d59de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "715a7aad-9c7b-45bf-bc1f-aff563aa7a45",
+  "input": "{\"title\": \"coke\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Friends'",
+  "status": "verified"
+}

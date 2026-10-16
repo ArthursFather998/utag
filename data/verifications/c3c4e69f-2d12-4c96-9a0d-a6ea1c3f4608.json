@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:15.675906+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a24af4cc-2868-41ce-8961-e01ef833be0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3c4e69f-2d12-4c96-9a0d-a6ea1c3f4608",
+  "input": "{\"title\": \"Waves (Acoustic)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Waves Remix EP'",
+  "status": "verified"
+}

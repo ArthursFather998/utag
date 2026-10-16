@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:56.043378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64801b8a-3e8e-4f94-84b3-2482d62e33d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9caba29-5351-40e7-9ea5-2fc2b1d2224a",
+  "input": "{\"title\": \"Am\\u00e1rrame\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'La Trenza (Deluxe)'",
+  "status": "verified"
+}

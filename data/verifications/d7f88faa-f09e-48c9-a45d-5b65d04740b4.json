@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:54.569924+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba0fe688-f191-4ac8-8fa1-8d756f2e9f4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7f88faa-f09e-48c9-a45d-5b65d04740b4",
+  "input": "{\"title\": \"Reflections (Care Enough)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Ballads'",
+  "status": "verified"
+}

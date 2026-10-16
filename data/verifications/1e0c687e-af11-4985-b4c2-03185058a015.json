@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:51.385692+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "63036eb7-a781-45dc-86d2-723a47b98c76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e0c687e-af11-4985-b4c2-03185058a015",
+  "input": "{\"title\": \"Kings Never Die\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Kings Never Die'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:38.243767+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ca66da1-e679-41e7-862f-b1214fb10c4d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6d0ce959-6b6a-47b1-981d-c1f367788877",
+  "input": "{\"title\": \"Don't Stop the Music (5 Track)\", \"release_type\": \"album\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

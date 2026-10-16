@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:22.182994+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c3c02be-8ab6-47ce-b025-c8ed1ba4841c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6b20ce50-8d3d-4460-9882-57557a80a11e",
+  "input": "{\"title\": \"Infamous\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

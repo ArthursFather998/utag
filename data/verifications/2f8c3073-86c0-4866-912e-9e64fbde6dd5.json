@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:25.719437+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22b7446c-db44-4663-b854-30f97f7b3021",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2f8c3073-86c0-4866-912e-9e64fbde6dd5",
+  "input": "{\"title\": \"Chemicals\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

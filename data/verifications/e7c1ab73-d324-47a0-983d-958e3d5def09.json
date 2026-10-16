@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:17.346127+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9570ee0-8ffe-4461-9b79-a27e37329bc3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7c1ab73-d324-47a0-983d-958e3d5def09",
+  "input": "{\"title\": \"I Loved Another Woman\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

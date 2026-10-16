@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:40.318007+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8fc74460-4f40-4d3a-b226-90d10c467941",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "41142cde-7201-4690-9452-dc73241c8bd8",
+  "input": "{\"title\": \"Love Me by Name\", \"release_type\": \"album\", \"release_year\": 1975}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

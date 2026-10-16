@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:06.515908+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25c4b5bb-efe0-4f95-b2f7-7474488189d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b036c3e-103f-4aef-ac2d-1da3a6247fcd",
+  "input": "{\"title\": \"She Opens Her Eyes\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Hopes and Fears (20th Anniversary Edition)'",
+  "status": "verified"
+}

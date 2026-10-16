@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:50.155466+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "80be5ab5-ac14-4518-bed6-0d3ed2828cc2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c9ed36c-d54a-4901-837c-e641565d09f3",
+  "input": "{\"title\": \"Maybe I Know\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '20th Century Masters: The Millennium Collection'",
+  "status": "verified"
+}

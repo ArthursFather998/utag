@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:53.193968+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e97b5790-b807-4f2d-af4e-dd2318d888a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "610ef490-cbd2-4f42-9d5b-5f856aa91254",
+  "input": "{\"title\": \"Driving Me to Drink\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Jagged Little Thrill'",
+  "status": "verified"
+}

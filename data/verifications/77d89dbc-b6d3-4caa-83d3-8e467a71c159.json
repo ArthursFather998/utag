@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:01.868559+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "170b7183-2f19-49f1-b65e-a163e49ad4c5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "77d89dbc-b6d3-4caa-83d3-8e467a71c159",
+  "input": "{\"title\": \"Queen Rocks\", \"release_type\": \"album\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

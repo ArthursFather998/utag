@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:31.804357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f509e767-9f37-439b-bff9-3e87999fbeea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0dc28f06-b206-4dcd-b3f4-fdc9ab6fd8bb",
+  "input": "{\"title\": \"Evil\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Death of Slim Shady (Coup de Grâce) (Expanded Mourner’s Edition)'",
+  "status": "verified"
+}

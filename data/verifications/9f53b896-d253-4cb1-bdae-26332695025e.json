@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:30.03391+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37e8cf88-f487-4439-af67-c599b5d4b4f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f53b896-d253-4cb1-bdae-26332695025e",
+  "input": "{\"title\": \"City Hall\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'The Fray - The Collection'",
+  "status": "verified"
+}

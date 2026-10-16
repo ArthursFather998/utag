@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:37.48863+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "371a47e2-3fa1-46d9-82ee-95549123a4dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8af25b30-e705-4c37-ae13-ade4a0610765",
+  "input": "{\"title\": \"Letter to My 13 Year Old Self\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Bewitched: The Goddess Edition'",
+  "status": "verified"
+}

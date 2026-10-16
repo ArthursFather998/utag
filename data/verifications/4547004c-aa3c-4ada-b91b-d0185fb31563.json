@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:20.625224+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0167e81-6157-4109-a664-a92acdd2d8f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4547004c-aa3c-4ada-b91b-d0185fb31563",
+  "input": "{\"title\": \"Gravity\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Wasteland'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:56.194087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "862e119b-7888-4658-923b-60e5c73deaba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21c1bb10-60ef-4b50-9328-22506e21cfd3",
+  "input": "{\"title\": \"One Time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'My World'",
+  "status": "verified"
+}

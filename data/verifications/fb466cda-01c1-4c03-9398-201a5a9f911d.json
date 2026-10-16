@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:51.770123+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db513702-5a15-4247-85c2-c974559ad8c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb466cda-01c1-4c03-9398-201a5a9f911d",
+  "input": "{\"title\": \"Mermaid Motel\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Lana Del Ray'",
+  "status": "verified"
+}

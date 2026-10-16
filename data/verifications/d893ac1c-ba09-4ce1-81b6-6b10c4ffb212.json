@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:22.577112+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c18da8f-1c45-4d8e-a81c-cfe1e79c3edb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d893ac1c-ba09-4ce1-81b6-6b10c4ffb212",
+  "input": "{\"title\": \"Music to Watch Boys To\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Music to Watch Boys To'",
+  "status": "verified"
+}

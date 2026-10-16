@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:30.679035+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f39056d8-994d-43b8-84ac-6b6260065280",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47427f4c-be6f-4ad6-91ad-4e1799f9d80b",
+  "input": "{\"title\": \"Blue Velvet\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of '20 All-Time Greatest Hits'",
+  "status": "verified"
+}

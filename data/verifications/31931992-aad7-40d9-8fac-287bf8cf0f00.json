@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:31.695646+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f86bef5a-ba37-4057-a4ca-17e5563fafe5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31931992-aad7-40d9-8fac-287bf8cf0f00",
+  "input": "{\"title\": \"Scream\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Emotional Creature'",
+  "status": "verified"
+}

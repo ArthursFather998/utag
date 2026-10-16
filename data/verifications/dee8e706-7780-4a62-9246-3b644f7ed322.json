@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:53.640474+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b68c4d9b-83c2-4fbb-aa27-623422698321",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dee8e706-7780-4a62-9246-3b644f7ed322",
+  "input": "{\"title\": \"What Kind of Fool Am I?\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'I'll Cry If I Want To'",
+  "status": "verified"
+}

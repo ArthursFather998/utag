@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:35.869204+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a15ea810-767d-463c-b1d2-e96572637755",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8434da55-70e6-4223-be88-762c287cebb0",
+  "input": "{\"title\": \"Te Amo\", \"track_number\": 48}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 48 of 'Vinyl Box Set'",
+  "status": "verified"
+}

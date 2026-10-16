@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:02.454175+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c907c54-d7b4-42a1-bab8-5152a09c6b4b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cd615c3f-d531-438d-9131-959273bd5501",
+  "input": "{\"title\": \"I'll Change for You\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

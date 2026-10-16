@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:53.791408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eab71bc5-8201-4907-ae70-526720d5777d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "852184f3-3dbb-478a-a74d-891f49e809e1",
+  "input": "{\"title\": \"My Town, My Guy and Me\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Lesley Gore's Golden Hits, Vol. 2'",
+  "status": "verified"
+}

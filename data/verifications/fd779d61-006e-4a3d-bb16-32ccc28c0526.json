@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:19.293776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a68f1789-3bbb-4f88-9392-0bea287b4509",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd779d61-006e-4a3d-bb16-32ccc28c0526",
+  "input": "{\"title\": \"3 Wishes\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Truly Yours 2'",
+  "status": "verified"
+}

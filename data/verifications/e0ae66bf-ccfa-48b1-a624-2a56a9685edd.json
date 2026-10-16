@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:11.390246+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2315e3ef-5d34-4b8b-a889-7f4fb40d11e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0ae66bf-ccfa-48b1-a624-2a56a9685edd",
+  "input": "{\"title\": \"Little Miss Sad One\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Softly'",
+  "status": "verified"
+}

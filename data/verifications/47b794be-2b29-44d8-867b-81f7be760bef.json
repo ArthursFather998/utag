@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:37.43915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7779182-e2d3-446d-bb38-2d442bb50b43",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "47b794be-2b29-44d8-867b-81f7be760bef",
+  "input": "{\"title\": \"I've Been Waiting\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

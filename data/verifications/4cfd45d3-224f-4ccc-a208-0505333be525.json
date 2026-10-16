@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:24.816378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee7d8c2c-14b6-40a3-9346-22a1b7a8bb9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4cfd45d3-224f-4ccc-a208-0505333be525",
+  "input": "{\"title\": \"Like Toy Soldiers\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Curtain Call: The Hits'",
+  "status": "verified"
+}

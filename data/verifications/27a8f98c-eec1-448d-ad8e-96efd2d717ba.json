@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:48.133094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "602a6eb1-f2aa-4ce9-87fc-763a53eca9e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27a8f98c-eec1-448d-ad8e-96efd2d717ba",
+  "input": "{\"title\": \"Planet\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '(((((ultraSOUND)))))+'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:12.137892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e10f931f-3590-41ed-8b28-039d1d37ccd7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "78e6b4d4-cdd8-4241-96c1-9846ce148b13",
+  "input": "{\"title\": \"Solar Eclipse\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

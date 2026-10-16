@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:03.99151+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac5ddcdc-6e0c-417f-8d6f-6b6b898e2093",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9fd3113-dda9-4496-bfaa-133fe77abc5e",
+  "input": "{\"title\": \"Whitewash County\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The One'",
+  "status": "verified"
+}

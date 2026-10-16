@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:52.037773+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f06becf9-e050-492d-8345-1988960cc308",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f18435d5-d399-44f1-8a40-ddbb15bddc3f",
+  "input": "{\"title\": \"No, No, No\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'No, No, No'",
+  "status": "verified"
+}

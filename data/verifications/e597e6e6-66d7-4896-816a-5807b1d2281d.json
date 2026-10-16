@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:17.736623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0886cbdb-b2b9-49a7-b866-2162c4c7bd8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e597e6e6-66d7-4896-816a-5807b1d2281d",
+  "input": "{\"title\": \"We Found Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We Found Love'",
+  "status": "verified"
+}

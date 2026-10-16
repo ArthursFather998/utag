@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:39.434723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec3cb28f-0d7d-4168-a03e-caa96559e904",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8c52a0b6-54fc-42d1-964e-7036202319f2",
+  "input": "{\"title\": \"Issues Remixes\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

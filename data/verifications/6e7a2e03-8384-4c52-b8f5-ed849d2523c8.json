@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:22.838957+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e98174d9-174e-4a80-bb57-bf1648dca427",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e7a2e03-8384-4c52-b8f5-ed849d2523c8",
+  "input": "{\"title\": \"Glow\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'More Life'",
+  "status": "verified"
+}

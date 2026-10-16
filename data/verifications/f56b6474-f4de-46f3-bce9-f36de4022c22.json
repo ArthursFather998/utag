@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:20.60008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f096042-4dcb-45ba-8be3-72cbc2890444",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f56b6474-f4de-46f3-bce9-f36de4022c22",
+  "input": "{\"title\": \"Now I Know\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Coffret 4 CD'",
+  "status": "verified"
+}

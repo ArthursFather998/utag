@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:58.634586+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "18f34df9-ffd5-452c-adf3-9df756a564d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f722dcab-54ef-431c-8b66-f081d0548e4f",
+  "input": "{\"title\": \"Princess\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Everybody's Everything'",
+  "status": "verified"
+}

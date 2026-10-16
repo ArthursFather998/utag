@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:59.385485+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3cb092ef-900d-4fe8-a955-827c496d2228",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "52cd12a5-cb8a-4cd7-b2f8-34c31bd1d8ad",
+  "input": "{\"title\": \"Blessings\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

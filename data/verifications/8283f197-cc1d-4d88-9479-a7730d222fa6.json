@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:06.888819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44de6721-62a4-4763-8073-b534b5cac47f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8283f197-cc1d-4d88-9479-a7730d222fa6",
+  "input": "{\"title\": \"Waves (Guitar Acoustic)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Waves (Guitar Acoustic)'",
+  "status": "verified"
+}

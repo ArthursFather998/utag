@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:01.622454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fc5bb37-b9cd-4207-ab78-cec6bf093e15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "87af70ff-0560-496c-bb54-6f3ecf5ae1b4",
+  "input": "{\"title\": \"Bidi Bidi Bom Bom\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bidi Bidi Bom Bom'",
+  "status": "verified"
+}

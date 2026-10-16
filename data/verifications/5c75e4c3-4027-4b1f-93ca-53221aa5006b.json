@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:43.121081+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9752f4ea-3984-47e8-b0f9-4872480680e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c75e4c3-4027-4b1f-93ca-53221aa5006b",
+  "input": "{\"title\": \"Everything I Said\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Remembering Dolores'",
+  "status": "verified"
+}

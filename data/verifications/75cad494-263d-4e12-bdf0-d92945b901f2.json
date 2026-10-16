@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:36.504562+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2602e4c-e90a-4bff-b9e1-1331d5458296",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "75cad494-263d-4e12-bdf0-d92945b901f2",
+  "input": "{\"title\": \"Say Somethin'\", \"release_type\": \"single\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

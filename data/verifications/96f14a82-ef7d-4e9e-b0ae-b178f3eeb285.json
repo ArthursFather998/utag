@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:07.434606+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae5e4928-79d7-44ba-8a05-c0cab091da09",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "96f14a82-ef7d-4e9e-b0ae-b178f3eeb285",
+  "input": "{\"title\": \"Preciosa\", \"release_type\": \"album\", \"release_year\": 1988}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

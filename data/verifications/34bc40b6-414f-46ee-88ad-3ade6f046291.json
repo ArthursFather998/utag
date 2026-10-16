@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:02.027983+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a8022e4-a7f6-46aa-bd31-18d305f3125b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34bc40b6-414f-46ee-88ad-3ade6f046291",
+  "input": "{\"title\": \"Pray I Die\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Elemental'",
+  "status": "verified"
+}

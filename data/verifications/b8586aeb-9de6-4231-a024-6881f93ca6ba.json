@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:52.539723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71cc831e-af99-4f72-8d6f-c16e3b4296c9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b8586aeb-9de6-4231-a024-6881f93ca6ba",
+  "input": "{\"title\": \"Pluto x Baby Pluto\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

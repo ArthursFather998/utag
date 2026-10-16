@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:45.355631+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8caaf1b3-efca-4eb7-9aa8-c00790cadaf4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "090fe407-8d8a-4699-96e8-175450f3acbe",
+  "input": "{\"title\": \"Downy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Downy'",
+  "status": "verified"
+}

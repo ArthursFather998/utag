@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:00.670567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41685ccd-6c00-479a-8181-70d662bd3bb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec4b4b42-3e47-4854-b790-5256f8cca1df",
+  "input": "{\"title\": \"Deja Vu\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Pool Party'",
+  "status": "verified"
+}

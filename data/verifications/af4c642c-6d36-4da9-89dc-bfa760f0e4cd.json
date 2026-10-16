@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:36.652471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1bb0a67-2529-460f-9cdc-5e3f0868df54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af4c642c-6d36-4da9-89dc-bfa760f0e4cd",
+  "input": "{\"title\": \"I Can't Be with You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Can't Be with You'",
+  "status": "verified"
+}

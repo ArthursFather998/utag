@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:49.971752+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed3d58f5-842e-4b40-8ad2-74ed9c3613d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e3adc32-a9ee-4416-a15e-a091e9153f1c",
+  "input": "{\"title\": \"Look into the Future\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Look into the Future'",
+  "status": "verified"
+}

@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:16:32.683482+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "changes": [],
+    "verdict": "fix_release"
+  },
+  "entity_id": "4fc0ab04-7592-42d8-80e9-2a8030a8d413",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "dc65ca66-0749-4a39-b2d8-92581df63365",
+  "input": {
+    "artist": "XXXTENTACION & Matt OX",
+    "release": "17",
+    "title": "$$$"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "'$$$' featuring Matt Ox is track 11 on XXXTentacion's sophomore album ? (released March 16, 2018), not on 17. | sources: https://en.wikipedia.org/wiki/Matt_Ox, https://www.xxlmag.com/xxxtentacion-new-album/",
+  "status": "needs_review"
+}

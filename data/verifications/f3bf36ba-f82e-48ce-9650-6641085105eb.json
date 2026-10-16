@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:30.512272+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38c06122-8f4d-4b45-a5fa-00bf62c60736",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f3bf36ba-f82e-48ce-9650-6641085105eb",
+  "input": "{\"title\": \"Lithium\", \"release_type\": \"single\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

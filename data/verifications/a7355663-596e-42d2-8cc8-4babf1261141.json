@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:41.591821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fbf0770-2f89-4d34-8f00-2f91dba5cc01",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7355663-596e-42d2-8cc8-4babf1261141",
+  "input": "{\"title\": \"Enough\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Better'",
+  "status": "verified"
+}

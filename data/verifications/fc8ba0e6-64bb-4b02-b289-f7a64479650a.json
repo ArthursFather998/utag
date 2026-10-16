@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:06.127872+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22b1068e-23bb-4ff2-a835-96754c97403e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc8ba0e6-64bb-4b02-b289-f7a64479650a",
+  "input": "{\"title\": \"Water Tower\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Night Train'",
+  "status": "verified"
+}

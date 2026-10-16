@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:20.520027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ba4e222-f031-4e6b-8574-f53f488288c1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "98f13504-f554-41a5-93eb-95b7f02fb417",
+  "input": "{\"title\": \"Sanctuary\", \"release_type\": \"album\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

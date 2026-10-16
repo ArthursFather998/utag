@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:51.261587+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a80a9bef-9060-4040-b32a-acd6a66a602d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f3884eb2-434d-4b9b-9d36-d285878c05d4",
+  "input": "{\"title\": \"Temporary One (live)\", \"release_type\": \"single\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

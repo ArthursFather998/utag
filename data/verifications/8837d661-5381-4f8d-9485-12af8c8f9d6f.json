@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:19.490697+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8659a166-5093-454e-900c-62cd01c4dc9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8837d661-5381-4f8d-9485-12af8c8f9d6f",
+  "input": "{\"title\": \"Oh Mama\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Oh Mama'",
+  "status": "verified"
+}

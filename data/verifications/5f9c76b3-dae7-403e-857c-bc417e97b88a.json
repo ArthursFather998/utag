@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:47.021197+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc091afc-db95-4d82-bcda-9c20438b8149",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f9c76b3-dae7-403e-857c-bc417e97b88a",
+  "input": "{\"title\": \"Lover Girl\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:18.420978+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a3e471a-f4f2-4cf8-b597-fdc30bab82ec",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6422c75e-f02e-4530-a8a9-35edccf48739",
+  "input": "{\"title\": \"Love's Train\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

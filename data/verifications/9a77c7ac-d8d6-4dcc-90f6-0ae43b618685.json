@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:55.667811+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2dec1bc9-f2ac-46c5-af87-e490c4a917cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a77c7ac-d8d6-4dcc-90f6-0ae43b618685",
+  "input": "{\"title\": \"Lilac Wine\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live from King Theater, Seattle, WA, May 7, 1995'",
+  "status": "verified"
+}

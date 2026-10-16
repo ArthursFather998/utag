@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:01.914341+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b033d5d9-4df7-4cfe-8eda-f4ee728b5c57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bcc6730a-3f0a-494a-8442-2fe01d0d7d5b",
+  "input": "{\"title\": \"Nasty Sunny Beam\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Other Side of the Moon'",
+  "status": "verified"
+}

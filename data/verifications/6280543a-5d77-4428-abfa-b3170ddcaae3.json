@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:09.457451+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20e6101e-50a5-4cb6-9620-780c189c0cf6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6280543a-5d77-4428-abfa-b3170ddcaae3",
+  "input": "{\"title\": \"Lil Freak\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lil Freak'",
+  "status": "verified"
+}

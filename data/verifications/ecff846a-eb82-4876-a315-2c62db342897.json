@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:06.603346+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "431a73eb-6284-47f1-9e5e-4861784e5432",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ecff846a-eb82-4876-a315-2c62db342897",
+  "input": "{\"title\": \"Mockingbird\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Encore'",
+  "status": "verified"
+}

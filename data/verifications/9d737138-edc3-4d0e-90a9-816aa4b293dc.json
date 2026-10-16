@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:58.748132+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a23e126-e59d-467f-b0d6-4794c86c613b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9d737138-edc3-4d0e-90a9-816aa4b293dc",
+  "input": "{\"title\": \"Empire State of Mind (with Jay-Z)\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

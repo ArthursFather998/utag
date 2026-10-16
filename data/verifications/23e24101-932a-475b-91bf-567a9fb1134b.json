@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:31.773798+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2aa32a3-76be-4219-92a7-8dda6b00d787",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "23e24101-932a-475b-91bf-567a9fb1134b",
+  "input": "{\"title\": \"Suddenly, Everything's Changing\", \"release_type\": \"album\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

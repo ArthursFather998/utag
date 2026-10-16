@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:48.243973+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f6764fca-5535-4279-8b34-848f6189d57c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "400f6b9a-da57-4d54-910e-91287fa9ac08",
+  "input": "{\"title\": \"Pork Soda\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

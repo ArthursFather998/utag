@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:17.300832+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a976ab9-02d2-491f-a682-7b51bcb368b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7f4b845-b99d-41b3-90f2-678f667a8210",
+  "input": "{\"title\": \"Have Mercy on the Criminal\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Live in Australia with the Melbourne Symphony Orchestra'",
+  "status": "verified"
+}

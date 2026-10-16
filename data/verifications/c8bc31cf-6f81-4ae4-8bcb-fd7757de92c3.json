@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:24.039067+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e5a5198-a788-4c78-990a-af33b84179c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8bc31cf-6f81-4ae4-8bcb-fd7757de92c3",
+  "input": "{\"title\": \"veins\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Lil Peep; Part One'",
+  "status": "verified"
+}

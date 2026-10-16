@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:52:42.587286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99a6468f-8ae9-428d-b641-e244d2e5fad1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f88b837f-4393-471a-8a2e-711d8cca2d13",
+  "input": "{\"title\": \"To Have You Today\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Hardest Love'",
+  "status": "verified"
+}

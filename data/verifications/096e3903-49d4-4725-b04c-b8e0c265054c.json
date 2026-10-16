@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:44.376184+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1391760c-c92b-4e97-9f0e-3585c55b7dc0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "096e3903-49d4-4725-b04c-b8e0c265054c",
+  "input": "{\"title\": \"Let Me Live\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Greatest Hits III'",
+  "status": "verified"
+}

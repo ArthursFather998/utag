@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:38.386373+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ba7556b-2f92-4b31-a19e-d35876442329",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54c93ac6-a6bd-4de6-95be-2aaccfb7cfa4",
+  "input": "{\"title\": \"Tearin' Up My Heart (Radio Edit)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '*NSYNC'",
+  "status": "verified"
+}

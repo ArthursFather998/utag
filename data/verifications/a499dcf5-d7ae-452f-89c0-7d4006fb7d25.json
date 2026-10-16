@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:45.295782+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b4fe25f-04e4-4b31-8cc9-bda00315e611",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a499dcf5-d7ae-452f-89c0-7d4006fb7d25",
+  "input": "{\"title\": \"The End Is Not the Answer\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Human (Deluxe Edition)'",
+  "status": "verified"
+}

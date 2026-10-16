@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:06.469694+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "385bd710-4564-444d-a6a0-c8dc2fd7672d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "619236a8-fbcd-4594-8afd-fdeac0d62c7d",
+  "input": "{\"title\": \"The Balancer's Eye\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Vide Noir'",
+  "status": "verified"
+}

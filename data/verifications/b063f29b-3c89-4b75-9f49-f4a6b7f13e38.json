@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:02.900213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "781e5091-032a-45a0-897a-b203468ed0c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b063f29b-3c89-4b75-9f49-f4a6b7f13e38",
+  "input": "{\"title\": \"Willing to Wait\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Coffret 4 CD'",
+  "status": "verified"
+}

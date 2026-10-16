@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:42.895254+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a2e62fe-d794-457a-88f1-0f8fe9f64afc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3272d83c-cddb-4556-b9fd-1077c5f370e3",
+  "input": "{\"title\": \"Where Are You Now\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

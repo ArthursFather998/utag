@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:51.864955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "214e69da-da56-482a-9a29-130dc8b2993b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5dca114e-b185-4f1f-afe7-37783c1490ff",
+  "input": "{\"title\": \"Rice Balls\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Pink Season'",
+  "status": "verified"
+}

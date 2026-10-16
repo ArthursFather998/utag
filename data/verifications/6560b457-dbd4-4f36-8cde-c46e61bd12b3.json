@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:07.579497+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e8c0f8d-3456-4687-b6a0-edde83a591bb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6560b457-dbd4-4f36-8cde-c46e61bd12b3",
+  "input": "{\"title\": \"First Band on the Moon\", \"release_type\": \"album\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

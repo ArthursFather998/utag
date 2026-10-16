@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:00.635158+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "corrected_release": "SOUR",
+    "note": "manual fix after script miss",
+    "verdict": "fix_release"
+  },
+  "entity_id": "2d843b6b-2cf6-4f37-9f65-3d2e561a2953",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "7d2dde8d-b5b8-414e-b06f-477e7aa4628c",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "2025‐01‐30: FireAid",
+    "title": "deja vu"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "'deja vu' (stylized lowercase) was the second single from Olivia Rodrigo's debut album SOUR, released April 1, 2021; the FireAid comp filing should be corrected to the canonical release.",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:39.125252+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a640856-7a95-4aa2-bb07-9a3873d187e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f435fce-ab4d-4e84-a940-34da6fa433a9",
+  "input": "{\"title\": \"Something Inside of Me\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Shrine '69'",
+  "status": "verified"
+}

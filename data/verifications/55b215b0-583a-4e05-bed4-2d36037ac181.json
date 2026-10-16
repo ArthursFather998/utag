@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:48.257865+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d3b5f3b-c951-4337-99a4-dba5ef37bf80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55b215b0-583a-4e05-bed4-2d36037ac181",
+  "input": "{\"title\": \"I Stay in Love\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'E=MC² (Deluxe Version)'",
+  "status": "verified"
+}

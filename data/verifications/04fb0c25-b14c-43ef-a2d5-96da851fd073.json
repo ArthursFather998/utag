@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:59.271584+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a71282f7-e1fd-4367-b809-0e9a59f36deb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04fb0c25-b14c-43ef-a2d5-96da851fd073",
+  "input": "{\"title\": \"Mad as Rabbits\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Pretty. Odd.'",
+  "status": "verified"
+}

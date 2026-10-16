@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:15.376873+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e825e3c-db34-4aae-a53d-32d2a1bd7524",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f88923a5-eebd-4f3e-af1a-6706b1e0c30b",
+  "input": "{\"title\": \"Shake Your Moneymaker\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Original Fleetwood Mac: The Blues Years'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:05.600828+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20cbf9fc-8481-41c2-be3e-55ee00208248",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0ba91b1-6d24-4edf-b926-c2032ca5e184",
+  "input": "{\"title\": \"Friends Will Be Friends\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

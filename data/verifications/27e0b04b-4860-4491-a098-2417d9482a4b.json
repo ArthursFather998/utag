@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:15.403551+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c5c3d12-aff2-44c1-8c88-b04fd0226064",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27e0b04b-4860-4491-a098-2417d9482a4b",
+  "input": "{\"title\": \"Smokin out the Window\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Smokin out the Window'",
+  "status": "verified"
+}

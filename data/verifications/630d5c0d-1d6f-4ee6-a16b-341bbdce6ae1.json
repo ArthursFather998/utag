@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:14.618275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fcb565b-e333-41b0-a26b-3be677de0a7e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "630d5c0d-1d6f-4ee6-a16b-341bbdce6ae1",
+  "input": "{\"title\": \"Marvel Hill\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Gran Turismo'",
+  "status": "verified"
+}

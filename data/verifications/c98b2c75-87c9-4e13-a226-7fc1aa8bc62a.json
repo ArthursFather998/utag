@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:23.350336+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97fb586f-8833-4527-a228-529dd08d2bb9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c98b2c75-87c9-4e13-a226-7fc1aa8bc62a",
+  "input": "{\"title\": \"Animal\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Out of the Shadows 2.0'",
+  "status": "verified"
+}

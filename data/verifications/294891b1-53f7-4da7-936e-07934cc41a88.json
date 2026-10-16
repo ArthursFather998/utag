@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:01.542543+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97f5c615-7c2b-4594-bfa9-74f6806c0199",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "294891b1-53f7-4da7-936e-07934cc41a88",
+  "input": "{\"title\": \"Lord Knows\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Take Care'",
+  "status": "verified"
+}

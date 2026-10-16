@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:59.255694+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b04dc8ef-b722-4177-b0ca-29807f89e8b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c027681-96a2-4e48-b766-4e169c8b3094",
+  "input": "{\"title\": \"Exclusive\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'A Jagged Love Story'",
+  "status": "verified"
+}

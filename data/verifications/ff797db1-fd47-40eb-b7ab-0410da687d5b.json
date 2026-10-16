@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:16.429953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19c7fc84-f23b-4688-917a-8cf0f6141a08",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ff797db1-fd47-40eb-b7ab-0410da687d5b",
+  "input": "{\"title\": \"Repeat It\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

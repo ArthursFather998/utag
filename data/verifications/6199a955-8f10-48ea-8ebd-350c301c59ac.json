@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:37.761749+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d370b99f-7d67-480e-9a55-a32684e3ee01",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6199a955-8f10-48ea-8ebd-350c301c59ac",
+  "input": "{\"title\": \"Kids Are Growing Up (Part 1)\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Album version on THE FIRST TIME is titled 'Kids Are Growing Up'.",
+  "status": "verified"
+}

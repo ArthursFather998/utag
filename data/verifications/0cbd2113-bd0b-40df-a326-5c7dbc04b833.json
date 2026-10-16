@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:20.749066+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc82cf5d-6ba1-4916-93fd-8847f245c071",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0cbd2113-bd0b-40df-a326-5c7dbc04b833",
+  "input": "{\"title\": \"Johnny Cash (Live)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live Sessions'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:23.832931+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e512bdbc-5f78-456a-8bc6-2fc8a5c0b8ac",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "91757128-ab8a-43ab-9a46-a35fc50a7f8d",
+  "input": "{\"title\": \"Free Uzi\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

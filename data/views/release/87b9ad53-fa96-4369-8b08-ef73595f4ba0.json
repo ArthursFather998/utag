@@ -5,7 +5,42 @@
   },
   "artwork": [],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Playboi Carti, The Weeknd",
+        "id": "70b2c9fe-24a9-402b-8046-4064fd902e19"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T14:30:03.338487+00:00",
+      "edition": "original",
+      "id": "159710ac-ed69-4f5b-bacf-2d1f33121932",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "Rather Lie"
+    },
+    {
+      "artists": {
+        "canonical_name": "Playboi Carti, The Weeknd",
+        "id": "70b2c9fe-24a9-402b-8046-4064fd902e19"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T14:29:55.87542+00:00",
+      "edition": "original",
+      "id": "b77edac8-e2ed-4976-81ed-5bad710d7801",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Timeless"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "70b2c9fe-24a9-402b-8046-4064fd902e19",
@@ -33,7 +68,7 @@
     {
       "apple_id": null,
       "artist_id": "70b2c9fe-24a9-402b-8046-4064fd902e19",
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:40:52.396677+00:00",
       "deezer_id": null,
       "disc_number": 1,
@@ -46,7 +81,7 @@
       "status": "needs_review",
       "title": "RATHER LIE",
       "track_number": null,
-      "updated_at": "2026-10-14T01:26:37.87095+00:00"
+      "updated_at": "2026-10-16T08:10:03.618873+00:00"
     }
   ],
   "verifications": []

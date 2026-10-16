@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:19.486978+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f9cb763-799c-49ff-a67d-ac072f134f76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "87007ac6-37cf-4649-ac13-b9a404f9a57b",
+  "input": "{\"title\": \"Not That Funny\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Not That Funny'",
+  "status": "verified"
+}

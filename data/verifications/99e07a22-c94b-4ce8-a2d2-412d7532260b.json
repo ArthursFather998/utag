@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:01.246758+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34748af6-ca88-4ef8-8ce0-110346e1e8e8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99e07a22-c94b-4ce8-a2d2-412d7532260b",
+  "input": "{\"title\": \"Scared to Live\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'After Hours'",
+  "status": "verified"
+}

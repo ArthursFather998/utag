@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:53.028045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "641db511-ecf1-4e9b-851a-2f1615321f4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7edea33f-cc02-42e4-9258-ceab6813a35d",
+  "input": "{\"title\": \"Bacc at It\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Mall Musicc'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:08.867126+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2400fed5-593b-47c6-857c-0e4f5e9b5ce1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3793ed30-d600-474e-954b-7d7bc3312f1a",
+  "input": "{\"title\": \"Same Kind of Different\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

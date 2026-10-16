@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:39.068518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d87efb94-2bc3-4eff-a0bf-c3ea232790c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68c6c7ce-9308-4907-bae1-2f99f7b44371",
+  "input": "{\"title\": \"\\u00bfQu\\u00e9 Cre\\u00edas?\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of '12 Super Éxitos'",
+  "status": "verified"
+}

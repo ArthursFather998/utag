@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:27.155122+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7772e001-675c-4fce-8291-ff3cf4c738ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2fc2f2cd-6086-4828-9fb5-fa9b53f4c433",
+  "input": "{\"title\": \"Friday Night Lights (Intro)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Friday Night Lights'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:24.159044+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f7e0e20-a3b0-4ca6-8c91-82e4c9af338d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c863adb-6bd1-4166-bc87-3bf08ebc307c",
+  "input": "{\"title\": \"Looking for Somebody\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Man of the World'",
+  "status": "verified"
+}

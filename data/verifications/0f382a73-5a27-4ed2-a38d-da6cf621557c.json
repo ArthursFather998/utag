@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:03.642123+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c407b229-a622-4c24-a8e5-545c2cf081ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f382a73-5a27-4ed2-a38d-da6cf621557c",
+  "input": "{\"title\": \"Gospel Medley (Dedicated to Andretta Tillman)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Survivor'",
+  "status": "verified"
+}

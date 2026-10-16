@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:05.324439+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a86806fe-5ccb-4c6d-bf00-30eacc4e9804",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c43b969-4cbe-4e4d-a7e4-0a9b5d8acdc7",
+  "input": "{\"title\": \"Black Cat \\u2013 \\\"3 Snaps Up\\\" 7\\u2033\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Black Cat: The Remixes'",
+  "status": "verified"
+}

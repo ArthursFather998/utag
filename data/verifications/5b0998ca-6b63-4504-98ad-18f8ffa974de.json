@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:11.701209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a3e6113-1fb1-4b70-84e3-e94546c61971",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b0998ca-6b63-4504-98ad-18f8ffa974de",
+  "input": "{\"title\": \"On Dark Street\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The One'",
+  "status": "verified"
+}

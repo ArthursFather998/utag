@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:34.590076+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "071b3106-c274-491f-8f44-354062bce46d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4f63d002-d56d-4af2-ba89-bcbdf7da0274",
+  "input": "{\"title\": \"Atomic\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

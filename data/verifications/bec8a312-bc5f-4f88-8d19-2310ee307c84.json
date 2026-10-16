@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:04.60426+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f78e15c-9851-4761-9a04-2eb4314ece62",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bec8a312-bc5f-4f88-8d19-2310ee307c84",
+  "input": "{\"title\": \"Underdog\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

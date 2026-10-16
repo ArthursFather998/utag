@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:13.295745+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "465ac2b6-f59d-4288-8d53-fa3a886f6681",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dce0ccf-8eb0-4cab-9788-320f1c65527e",
+  "input": "{\"title\": \"The Life\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Songs in A Minor: 10th Anniversary Edition'",
+  "status": "verified"
+}

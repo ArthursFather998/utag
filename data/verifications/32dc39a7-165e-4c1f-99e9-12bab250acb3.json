@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:00.995275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae1aaed5-9c32-4b5c-aba6-ed0545112feb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "32dc39a7-165e-4c1f-99e9-12bab250acb3",
+  "input": "{\"title\": \"Iridium\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:25.132972+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94d9f818-a5ac-4952-8117-f7e0aa7db164",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "998cd957-af45-4664-876e-836c4759f14a",
+  "input": "{\"title\": \"It's Late\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Queen Rocks'",
+  "status": "verified"
+}

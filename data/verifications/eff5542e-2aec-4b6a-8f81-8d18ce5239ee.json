@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:44.740909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d5c02f2-b577-414d-b7e4-bed94cd4c89f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eff5542e-2aec-4b6a-8f81-8d18ce5239ee",
+  "input": "{\"title\": \"Need You Now\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Need You Now'",
+  "status": "verified"
+}

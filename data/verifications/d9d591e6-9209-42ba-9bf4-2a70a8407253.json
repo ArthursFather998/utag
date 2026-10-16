@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:57.079681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f987a8b5-0634-46e9-ac71-d563f5f8a0fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9d591e6-9209-42ba-9bf4-2a70a8407253",
+  "input": "{\"title\": \"Benji Alone\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Kitchen (Score from the Netflix Film)'",
+  "status": "verified"
+}

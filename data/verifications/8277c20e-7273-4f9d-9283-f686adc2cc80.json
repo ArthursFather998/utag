@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:32.445106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "333bb0ef-19bd-4af7-a3b4-bca87b5ce6db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8277c20e-7273-4f9d-9283-f686adc2cc80",
+  "input": "{\"title\": \"Faithfully\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Journey Continues'",
+  "status": "verified"
+}

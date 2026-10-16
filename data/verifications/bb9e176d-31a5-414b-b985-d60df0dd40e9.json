@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:11.060098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81d7659d-94c8-4ea8-ac42-fa502b5df5cb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bb9e176d-31a5-414b-b985-d60df0dd40e9",
+  "input": "{\"title\": \"A Fever You Can't Sweat Out\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

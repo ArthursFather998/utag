@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:45.474572+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa474d22-7a5c-4d50-a8f8-9cc218b98190",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64ced3ef-7345-4962-bf33-5113844a32d7",
+  "input": "{\"title\": \"Liquid Smooth\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lush'",
+  "status": "verified"
+}

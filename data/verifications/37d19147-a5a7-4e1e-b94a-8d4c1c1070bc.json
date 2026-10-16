@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:28.75056+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1c3e1a1-3da8-4756-9621-96fafcb94fb1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37d19147-a5a7-4e1e-b94a-8d4c1c1070bc",
+  "input": "{\"title\": \"Fat Bottomed Girls (Live in Paris)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

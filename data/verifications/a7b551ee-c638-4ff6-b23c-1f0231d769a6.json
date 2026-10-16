@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:45.998112+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f27b8d7d-183d-4d58-8146-23a250841e77",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7b551ee-c638-4ff6-b23c-1f0231d769a6",
+  "input": "{\"title\": \"You're Mine (Eternal)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Me. I Am Mariah... The Elusive Chanteuse'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:13.94012+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "304a1b56-ca78-4719-8176-e903d0b6ea95",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d8af0ed-e6f3-4a6b-9d72-d15d387e8b16",
+  "input": "{\"title\": \"L-O-N-E-L-Y\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Vinton Sings Vinton'",
+  "status": "verified"
+}

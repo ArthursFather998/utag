@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:33.532533+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "090cb11b-652c-429e-bd3e-1825571036bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92a6a2ef-5a74-41c0-9688-1a88620cb747",
+  "input": "{\"title\": \"Whiskey Me Away\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Whiskey Drink'",
+  "status": "verified"
+}

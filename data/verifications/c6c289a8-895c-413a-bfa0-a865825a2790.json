@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:08.452392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0560f933-c587-4bfd-a70f-4a7728f449ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6c289a8-895c-413a-bfa0-a865825a2790",
+  "input": "{\"title\": \"Hootie Mack\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Bell Biv DeVoe Greatest Hits'",
+  "status": "verified"
+}

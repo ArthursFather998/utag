@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:52.300877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1b8fc08-fcd1-48c7-8c1f-7c9c6f5fe991",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7293a2fb-937e-4ea5-9195-060aa2eafab3",
+  "input": "{\"title\": \"Love: Destiny\", \"release_type\": \"album\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

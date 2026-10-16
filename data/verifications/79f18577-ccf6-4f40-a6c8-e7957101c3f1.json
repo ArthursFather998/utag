@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:13.546979+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc4fd53f-9732-4cb2-a1f7-437b8fafb0fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79f18577-ccf6-4f40-a6c8-e7957101c3f1",
+  "input": "{\"title\": \"You're Insane\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Ungrateful (Deluxe)'",
+  "status": "verified"
+}

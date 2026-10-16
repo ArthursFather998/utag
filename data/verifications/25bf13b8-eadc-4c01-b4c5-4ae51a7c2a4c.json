@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:11.045298+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9b015ba-9c4e-4050-8af4-9f43f0884844",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "25bf13b8-eadc-4c01-b4c5-4ae51a7c2a4c",
+  "input": "{\"title\": \"Good Morning to the Night\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

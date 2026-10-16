@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:31.49443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74ed47f9-57c1-478f-b38e-226784da1d60",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "446821f3-e156-4f68-9011-4e19531d713a",
+  "input": "{\"title\": \"If I Could Fly\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Made in the A.M.'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:38.390077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8706963e-4750-430c-bd08-05555a9fe37d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b05f9da7-aa7d-46f6-9cbe-cbbd57d1d00b",
+  "input": "{\"title\": \"The Diving Board\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Diving Board'",
+  "status": "verified"
+}

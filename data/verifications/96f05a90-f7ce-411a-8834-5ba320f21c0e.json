@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:34.478473+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fce4c49-bf1e-40e9-8f39-d2cc64405453",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96f05a90-f7ce-411a-8834-5ba320f21c0e",
+  "input": "{\"title\": \"I WANT RED\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'harmonic minor'",
+  "status": "verified"
+}

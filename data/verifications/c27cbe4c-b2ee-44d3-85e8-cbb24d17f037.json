@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:31.2915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c3abc72-e11f-4cbd-b260-d8e847dd735d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c27cbe4c-b2ee-44d3-85e8-cbb24d17f037",
+  "input": "{\"title\": \"Look into the Future\", \"release_type\": \"album\", \"release_year\": 1976}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

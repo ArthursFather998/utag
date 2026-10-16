@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:21.694637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92805760-bf86-4d66-a7f2-72eef04ed584",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "101a4047-9e0d-4c00-897f-0150c9f6b6f5",
+  "input": "{\"title\": \"But It's Better If You Do (Live in Denver)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Live in Denver'",
+  "status": "verified"
+}

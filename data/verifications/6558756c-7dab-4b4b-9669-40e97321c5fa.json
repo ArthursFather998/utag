@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:15.619454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb986deb-e0b5-4643-aaa4-68792b7e2940",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6558756c-7dab-4b4b-9669-40e97321c5fa",
+  "input": "{\"title\": \"Bad Guy (Live at h Club, London)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Deezer Sessions'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:01.317043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d41aa57-5771-418a-b831-12857ea27c52",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c35492f7-b5c7-48ca-9ccc-5f6553314c7c",
+  "input": "{\"title\": \"Asphalt Cowboy\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Jason Aldean'",
+  "status": "verified"
+}

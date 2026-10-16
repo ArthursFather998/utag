@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:42.258222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "08e92ee4-b4fa-4cec-886d-a406387be588",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c3ddd38-4ccb-4f81-a533-af42a6874c4c",
+  "input": "{\"title\": \"Change\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Tears Roll Down (Greatest Hits 82-92)'",
+  "status": "verified"
+}

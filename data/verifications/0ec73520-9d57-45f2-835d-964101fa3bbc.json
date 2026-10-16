@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:37.087123+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "def8ba83-2f24-4bc2-893c-e2dd5a83d682",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ec73520-9d57-45f2-835d-964101fa3bbc",
+  "input": "{\"title\": \"Border Song\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Elton John'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:54.851773+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec2bfdfa-6bd6-42fa-b6d3-65c634077d83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec1479e4-c532-4151-856b-c8a7e20d8364",
+  "input": "{\"title\": \"Missing My Baby\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'All My Hits: Todos Mis Éxitos'",
+  "status": "verified"
+}

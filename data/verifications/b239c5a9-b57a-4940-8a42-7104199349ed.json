@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:13.672651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ec6c271-f27b-4367-8ceb-47e37448f4e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b239c5a9-b57a-4940-8a42-7104199349ed",
+  "input": "{\"title\": \"Comin' for X-Mas?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Comin' for X-Mas?'",
+  "status": "verified"
+}

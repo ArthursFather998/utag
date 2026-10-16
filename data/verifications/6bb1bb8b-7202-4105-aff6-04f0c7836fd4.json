@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:48.008159+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b737424-4269-44c5-9efb-b15359001312",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6bb1bb8b-7202-4105-aff6-04f0c7836fd4",
+  "input": "{\"title\": \"The City\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Mystery to Me'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:04.249719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e651a0db-4e67-401b-a8f1-620ed92165e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b430f2cf-3e59-4954-a566-b8de73f0c0b3",
+  "input": "{\"title\": \"Everything I Own\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of '*NSYNC'",
+  "status": "verified"
+}

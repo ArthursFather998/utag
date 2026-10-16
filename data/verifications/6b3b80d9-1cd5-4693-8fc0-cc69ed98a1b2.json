@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:09.377737+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90d67b26-2ce9-4245-884d-8d94b5f4bba7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b3b80d9-1cd5-4693-8fc0-cc69ed98a1b2",
+  "input": "{\"title\": \"Hallelujah (Live)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Original Album Classics: The Grace EPs'",
+  "status": "verified"
+}

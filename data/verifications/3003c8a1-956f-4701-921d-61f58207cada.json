@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:11.77496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5390ce20-4a15-404e-a010-d5b99ceac6db",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3003c8a1-956f-4701-921d-61f58207cada",
+  "input": "{\"title\": \"Summertime The Gershwin Version\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

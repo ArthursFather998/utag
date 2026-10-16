@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:26.587565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ce60e10-ee4c-4574-85f0-8a847a8488ea",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "80195b66-4397-4754-b898-9d5388777fc6",
+  "input": "{\"title\": \"Siempre Selena\", \"release_type\": \"album\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

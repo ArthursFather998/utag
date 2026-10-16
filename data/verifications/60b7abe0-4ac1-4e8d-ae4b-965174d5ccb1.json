@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:21.067185+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c066ea0-51fe-4bd8-8198-bc7d9a4dd83b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60b7abe0-4ac1-4e8d-ae4b-965174d5ccb1",
+  "input": "{\"title\": \"Kluges II\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Going Going Gone'",
+  "status": "verified"
+}

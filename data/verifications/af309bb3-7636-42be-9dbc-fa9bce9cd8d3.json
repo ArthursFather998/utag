@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:58.849794+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "732eabe1-05a4-4a6c-af05-7c3914470752",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af309bb3-7636-42be-9dbc-fa9bce9cd8d3",
+  "input": "{\"title\": \"Oceans Away\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Movement'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:28.562983+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8de09775-3bcf-49f6-ae0b-ae89b532c104",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "730ffc4b-056b-4542-84d7-9d581b9cc85b",
+  "input": "{\"title\": \"Veracruz\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Femme Fatale'",
+  "status": "verified"
+}

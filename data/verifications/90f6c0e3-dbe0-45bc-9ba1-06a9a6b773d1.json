@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:01.733714+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94ccae8d-872a-4cab-941e-d6cf6cd56008",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90f6c0e3-dbe0-45bc-9ba1-06a9a6b773d1",
+  "input": "{\"title\": \"Florida Water (feat. J Green)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Collect Call'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:25.49712+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38118e79-4abe-4d30-952f-efa4c6dc2f2b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "820e642a-edd8-4ae9-a2b6-60967c74a882",
+  "input": "{\"title\": \"Love Is Dangerous\", \"release_type\": \"single\", \"release_year\": 1990}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

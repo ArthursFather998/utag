@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:52.106069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1232da09-4482-4ccc-baa7-6cac0c8b6224",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e23f2999-b47f-4040-9aa5-f5147c2f40d0",
+  "input": "{\"title\": \"Nothing\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Icon: Number Ones'",
+  "status": "verified"
+}

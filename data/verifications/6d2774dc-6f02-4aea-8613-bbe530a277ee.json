@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:34.61577+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c942e6b4-9f8e-4a85-8968-c15b03e50ff8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d2774dc-6f02-4aea-8613-bbe530a277ee",
+  "input": "{\"title\": \"Falling Up (Piano Acoustic)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Falling Up (Piano Acoustic)'",
+  "status": "verified"
+}

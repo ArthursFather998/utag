@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:52.489407+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "089360d9-d7f8-4c90-9f61-51c08a98598f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "680e62f3-f0c5-4d4b-ab53-51feca1c8263",
+  "input": "{\"title\": \"Stripped\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

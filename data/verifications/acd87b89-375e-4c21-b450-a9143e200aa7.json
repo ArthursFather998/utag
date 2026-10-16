@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:18.698286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "303cbb47-55f1-4586-a13a-e0d25fcae09e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "acd87b89-375e-4c21-b450-a9143e200aa7",
+  "input": "{\"title\": \"Good Old-Fashioned Lover Boy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Queen's First E.P.'",
+  "status": "verified"
+}

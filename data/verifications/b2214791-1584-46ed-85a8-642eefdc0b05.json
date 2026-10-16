@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:32.347584+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8a8cc3c-3460-4251-857c-c504c6dd84c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2214791-1584-46ed-85a8-642eefdc0b05",
+  "input": "{\"title\": \"Talk in Sleep\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Layover'",
+  "status": "verified"
+}

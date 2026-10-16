@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:25.362996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5eb94276-d791-41b9-821d-896d8006c1fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8de57797-b9b8-417a-bfa8-38549b48e027",
+  "input": "{\"title\": \"Interlude - The Hush Sound\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Welcome to the New Administration'",
+  "status": "verified"
+}

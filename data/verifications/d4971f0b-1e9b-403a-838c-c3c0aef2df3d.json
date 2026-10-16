@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:55.541291+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56c2c430-e2eb-4e44-8bd9-b2240e2ab37c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4971f0b-1e9b-403a-838c-c3c0aef2df3d",
+  "input": "{\"title\": \"Go (with Juice Wrld)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Go (with Juice Wrld)'",
+  "status": "verified"
+}

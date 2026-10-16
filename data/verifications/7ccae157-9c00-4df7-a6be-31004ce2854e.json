@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:13.280805+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74c3ab9d-786b-41b9-9d73-e6bd67963126",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ccae157-9c00-4df7-a6be-31004ce2854e",
+  "input": "{\"title\": \"Stupid in Love\", \"track_number\": 41}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 41 of 'Vinyl Box Set'",
+  "status": "verified"
+}

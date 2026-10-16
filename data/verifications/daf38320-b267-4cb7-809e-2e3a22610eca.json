@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:10.148356+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ba289a1-5b41-4412-ab53-4ecd478d51df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "daf38320-b267-4cb7-809e-2e3a22610eca",
+  "input": "{\"title\": \"Perfect\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Made in the A.M. (Deluxe Edition)'",
+  "status": "verified"
+}

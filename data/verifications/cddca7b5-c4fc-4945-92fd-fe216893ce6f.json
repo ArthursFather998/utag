@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:03.487771+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c605578-d633-4c69-b27a-5a03d2a5f4cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cddca7b5-c4fc-4945-92fd-fe216893ce6f",
+  "input": "{\"title\": \"Canci\\u00f3n de Mierda\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Canción de Mierda'",
+  "status": "verified"
+}

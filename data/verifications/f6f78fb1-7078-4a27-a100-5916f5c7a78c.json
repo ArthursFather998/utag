@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:11.947489+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e6425fd-24f2-4339-8404-56b654da036c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6f78fb1-7078-4a27-a100-5916f5c7a78c",
+  "input": "{\"title\": \"Queen of Cities\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Road to El Dorado'",
+  "status": "verified"
+}

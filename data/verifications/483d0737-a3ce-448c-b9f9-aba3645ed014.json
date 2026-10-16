@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:12.326117+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73a50e9a-15bf-4273-8840-87095e6bd566",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "483d0737-a3ce-448c-b9f9-aba3645ed014",
+  "input": "{\"title\": \"Interlude - Sad\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'The Velvet Rope'",
+  "status": "verified"
+}

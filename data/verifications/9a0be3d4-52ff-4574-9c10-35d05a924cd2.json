@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:33.418891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f7fd15f-80e7-4011-882b-1e95633b1dca",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9a0be3d4-52ff-4574-9c10-35d05a924cd2",
+  "input": "{\"title\": \"Heaven or Hell\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

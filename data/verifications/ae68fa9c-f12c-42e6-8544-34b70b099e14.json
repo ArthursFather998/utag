@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:20.689141+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d76b3def-8235-4bd7-9775-5ecf2074275a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ae68fa9c-f12c-42e6-8544-34b70b099e14",
+  "input": "{\"title\": \"My Mom\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Relapse: Refill'",
+  "status": "verified"
+}

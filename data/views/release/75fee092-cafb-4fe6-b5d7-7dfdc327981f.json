@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Elton John, Charlie Puth",
+    "id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Elton John, Charlie Puth",
+        "id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6"
+      },
+      "artwork": [
+        {
+          "id": "11d28343-1b01-435c-8837-d7fb4f110d56",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:03.07543+00:00",
+      "edition": "original",
+      "id": "833a9812-2f74-44ea-abc9-beef26747fb8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "The Lockdown Sessions"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T09:27:53.201345+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "75fee092-cafb-4fe6-b5d7-7dfdc327981f",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2021,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "After All",
+    "updated_at": "2026-10-16T09:27:53.201345+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "01ff48f4-a192-4e95-9b02-62abf5bc0fc6",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T09:27:54.735416+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "072125c0-286a-42dd-a506-f4640cf7b16f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "75fee092-cafb-4fe6-b5d7-7dfdc327981f",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "After All",
+      "track_number": 1,
+      "updated_at": "2026-10-16T09:27:54.735416+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T09:27:54.141387+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "75fee092-cafb-4fe6-b5d7-7dfdc327981f",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "53035ede-a71a-4d7a-8e7e-5f761fc4d06d",
+      "input": "{\"title\": \"After All\", \"release_type\": \"single\", \"release_year\": 2021}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 12",
+      "status": "verified"
+    }
+  ]
+}

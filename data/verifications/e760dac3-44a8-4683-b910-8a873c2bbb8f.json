@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:08.174322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8b68bb4-0db6-487f-bc05-f0b19a60e027",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e760dac3-44a8-4683-b910-8a873c2bbb8f",
+  "input": "{\"title\": \"Everywhere\", \"release_type\": \"single\", \"release_year\": 1987}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

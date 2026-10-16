@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:37.518851+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ca3caf3-32cd-4cec-9312-c8edb76d5178",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3910427f-f9eb-4bcc-a86a-4e6062612ced",
+  "input": "{\"title\": \"Helios\", \"release_type\": \"album\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

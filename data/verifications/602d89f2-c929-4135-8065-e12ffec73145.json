@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:16.87413+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a622332-2b28-420d-8e58-cc70e11a5e3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "602d89f2-c929-4135-8065-e12ffec73145",
+  "input": "{\"title\": \"Angel\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Tusk'",
+  "status": "verified"
+}

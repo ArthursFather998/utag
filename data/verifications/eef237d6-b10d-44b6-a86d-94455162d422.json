@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:44.264944+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa4206cf-7770-4964-9751-827b9cea269b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eef237d6-b10d-44b6-a86d-94455162d422",
+  "input": "{\"title\": \"Whiskey Drink\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of '30 Number One Hits'",
+  "status": "verified"
+}

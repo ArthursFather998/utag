@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:28.20611+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc30338d-0dec-473f-a393-5af8affcd61e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5c8e3a64-5ba2-4fcd-aa3b-d70460f8d70f",
+  "input": "{\"title\": \"Whatever People Say I Am, That's What I'm Not\", \"release_type\": \"album\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

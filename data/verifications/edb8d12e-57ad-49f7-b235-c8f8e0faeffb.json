@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:28.436368+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8fddc0a2-5488-4368-8ed2-e87f7234d72c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "edb8d12e-57ad-49f7-b235-c8f8e0faeffb",
+  "input": "{\"title\": \"Flooded the Face\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Pink Tape'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:16.643133+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "813e8d9b-bed0-48d0-80af-f8e9d71f9d55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "46045f46-f3eb-43f6-98f5-6a7b169454b4",
+  "input": "{\"title\": \"Yayo\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Paradise'",
+  "status": "verified"
+}

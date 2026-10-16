@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:14.870161+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a761643-f8e2-4fd3-9fcb-85a0884312b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f1974cb-3c17-4132-82e1-af9385b0fb8d",
+  "input": "{\"title\": \"Black Treacle\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Black Treacle'",
+  "status": "verified"
+}

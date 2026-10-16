@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:34.193055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "861d7501-1085-4a8e-a55f-7641d1a4e3ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3f25615-4aff-4283-b767-46112e91407f",
+  "input": "{\"title\": \"I Want It All\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Stone Cold Classics'",
+  "status": "verified"
+}

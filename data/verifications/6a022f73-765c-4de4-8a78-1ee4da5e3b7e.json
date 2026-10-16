@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:44.743416+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fbb0ccdc-a631-403b-9a37-307a82dc67e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a022f73-765c-4de4-8a78-1ee4da5e3b7e",
+  "input": "{\"title\": \"Dark Vacay\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'X's'",
+  "status": "verified"
+}

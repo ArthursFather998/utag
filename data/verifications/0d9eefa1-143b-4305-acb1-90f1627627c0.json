@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:36:49.183003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5864aef-5c24-469d-93d5-88db109984bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d9eefa1-143b-4305-acb1-90f1627627c0",
+  "input": "{\"title\": \"Love Goes on Forever\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'California Nights with Bonus Tracks'",
+  "status": "verified"
+}

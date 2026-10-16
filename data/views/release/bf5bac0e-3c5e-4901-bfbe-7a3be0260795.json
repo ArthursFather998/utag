@@ -21,7 +21,25 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Myla, kobzx2z",
+        "id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T14:13:01.010549+00:00",
+      "edition": "original",
+      "id": "5bfecb15-5959-4c4f-b959-dc55cd5200fd",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "you broke my heart"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c",
@@ -49,7 +67,7 @@
     {
       "apple_id": null,
       "artist_id": "21ef7658-312e-4cb1-9bdd-40e624b01c3c",
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:43:40.088465+00:00",
       "deezer_id": null,
       "disc_number": 1,
@@ -62,7 +80,7 @@
       "status": "needs_review",
       "title": "Summer Nights",
       "track_number": null,
-      "updated_at": "2026-10-14T00:43:40.088465+00:00"
+      "updated_at": "2026-10-16T08:10:13.570528+00:00"
     }
   ],
   "verifications": []

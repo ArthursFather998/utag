@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:04.970898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f63a64e-9d14-469b-8dbd-4e8edcce366a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f081732c-705e-4bd7-a3f2-05bce79e0e56",
+  "input": "{\"title\": \"Everyone Knows\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Cafuné on Audiotree Live'",
+  "status": "verified"
+}

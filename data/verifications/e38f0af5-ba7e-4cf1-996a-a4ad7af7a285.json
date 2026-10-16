@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:02.436978+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a7ebe6a-6a67-4c04-9b9a-4fd4cd61dabe",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e38f0af5-ba7e-4cf1-996a-a4ad7af7a285",
+  "input": "{\"title\": \"Higher Place\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

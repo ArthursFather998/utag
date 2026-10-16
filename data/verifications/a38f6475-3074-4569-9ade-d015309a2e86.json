@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:14.027947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "78e5b1df-fd4b-4fb8-a196-927e4dd90999",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a38f6475-3074-4569-9ade-d015309a2e86",
+  "input": "{\"title\": \"Made in Heaven\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

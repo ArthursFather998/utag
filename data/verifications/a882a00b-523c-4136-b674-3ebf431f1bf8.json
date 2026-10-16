@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:56.347988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5de6c2f3-4eb8-4f21-8bec-477fe1a91168",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a882a00b-523c-4136-b674-3ebf431f1bf8",
+  "input": "{\"title\": \"pygmalion\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'galatea'",
+  "status": "verified"
+}

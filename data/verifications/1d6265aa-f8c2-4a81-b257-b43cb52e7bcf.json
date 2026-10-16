@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:40.149931+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b832fa34-4d70-4b59-a7cf-761f8b251f6d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1d6265aa-f8c2-4a81-b257-b43cb52e7bcf",
+  "input": "{\"title\": \"My Name Is\", \"release_type\": \"single\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

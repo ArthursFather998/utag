@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:16.041217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70a45a43-4e72-4472-be62-61905a1e1e73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f4ab8f2-759b-4d49-9078-326364c22d09",
+  "input": "{\"title\": \"No Place to Go\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Essential Fleetwood Mac'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:08.801619+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4884e792-1d12-4b69-b1d8-52159296f7fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79c2ad46-5e65-4aba-8b0f-f15258f77900",
+  "input": "{\"title\": \"There! I've Said It Again\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Bobby Vinton's All-Time Greatest Hits'",
+  "status": "verified"
+}

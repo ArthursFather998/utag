@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:24.614507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c01b3c38-1746-4bfe-905c-86ca0e80a849",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d9e59cf-b091-4fe8-a6e5-f3aa5302f3ad",
+  "input": "{\"title\": \"T\\u00edrate\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tírate'",
+  "status": "verified"
+}

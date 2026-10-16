@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:50.973456+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "781559e3-8b4a-4235-94fc-29ba0be2cccc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b24cfa44-b0b1-4ec5-810f-f1afb43dcdad",
+  "input": "{\"title\": \"Circles (Acapella)\", \"track_number\": 36}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 36 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

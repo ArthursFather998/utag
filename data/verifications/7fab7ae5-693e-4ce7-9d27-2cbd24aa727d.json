@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:43.801856+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36f03235-94f8-4475-859a-bf87954d59d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7fab7ae5-693e-4ce7-9d27-2cbd24aa727d",
+  "input": "{\"title\": \"Prisoner\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Mariah Carey'",
+  "status": "verified"
+}

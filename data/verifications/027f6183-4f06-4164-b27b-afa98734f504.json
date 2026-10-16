@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:13.379151+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37bfd772-9c6b-4045-ba4f-f5c669ad822d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "027f6183-4f06-4164-b27b-afa98734f504",
+  "input": "{\"title\": \"A Thousand Faces\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Full Circle'",
+  "status": "verified"
+}

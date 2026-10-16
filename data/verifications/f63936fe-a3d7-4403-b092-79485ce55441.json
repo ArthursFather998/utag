@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:39.157514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05ec9436-cd3b-4885-9cbd-70eab81cd121",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f63936fe-a3d7-4403-b092-79485ce55441",
+  "input": "{\"title\": \"Arabella\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

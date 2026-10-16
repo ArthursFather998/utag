@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:57.265201+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "175ea0ef-efc3-482e-8120-a0f766b032cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "324324b5-ee31-4143-bbf0-d75a3f5715b5",
+  "input": "{\"title\": \"Here We Go Again\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Chip Chrome & the Mono-Tones (Deluxe)'",
+  "status": "verified"
+}

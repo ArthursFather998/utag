@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:03.030057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b5d221f-2196-4d0b-844c-55c2ca765370",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3714eaf-bc7b-4dc5-bc6f-9e8fcdc1fa19",
+  "input": "{\"title\": \"Shutcho\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Scarlet 2 Claude'",
+  "status": "verified"
+}

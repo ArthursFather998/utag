@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:51.386796+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52f2e63d-36f5-4107-bffa-d57fd1b66ff1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc7a85fe-ffed-46b9-9d3c-32dfbd53a19b",
+  "input": "{\"title\": \"Only You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Only Love'",
+  "status": "verified"
+}

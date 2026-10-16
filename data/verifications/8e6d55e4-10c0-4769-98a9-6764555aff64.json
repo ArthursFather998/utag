@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:45.886699+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24a96d20-cdcd-4851-86a8-b3937a44a46a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e6d55e4-10c0-4769-98a9-6764555aff64",
+  "input": "{\"title\": \"I'll Be There\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Essential Mariah Carey'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:29.012503+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fda7f20c-e354-41c1-995a-113251c50d73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8305eada-69d8-45bd-80b2-37ce1eb246ac",
+  "input": "{\"title\": \"What Have You Done for Me Lately\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'What Have You Done for Me Lately'",
+  "status": "verified"
+}

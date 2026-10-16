@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:08.919336+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a67632a-4b1a-4dac-a3e3-55a01cae5ddd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3931bcfe-08ea-4b52-8302-d4e83cd664a1",
+  "input": "{\"title\": \"U Remind Me\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'My Way / 8701'",
+  "status": "verified"
+}

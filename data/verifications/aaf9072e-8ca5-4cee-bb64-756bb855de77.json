@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:21.20766+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "436d5c6e-8f8f-47e1-8ce2-0814059c1f2e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aaf9072e-8ca5-4cee-bb64-756bb855de77",
+  "input": "{\"title\": \"Ride\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Planet Her (Deluxe)'",
+  "status": "verified"
+}

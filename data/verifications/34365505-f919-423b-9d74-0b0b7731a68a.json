@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:31.616917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5727269c-0ea5-4bf0-96cb-8c642477535f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34365505-f919-423b-9d74-0b0b7731a68a",
+  "input": "{\"title\": \"My Memory Ain't What It Used To Be\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Relentless'",
+  "status": "verified"
+}

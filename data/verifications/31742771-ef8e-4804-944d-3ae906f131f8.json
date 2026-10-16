@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:24.736419+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ed7c840-0788-4f3d-b88f-c089c87df635",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31742771-ef8e-4804-944d-3ae906f131f8",
+  "input": "{\"title\": \"The Prophet's Song\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'A Night at the Opera'",
+  "status": "verified"
+}

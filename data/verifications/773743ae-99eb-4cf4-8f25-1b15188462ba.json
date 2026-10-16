@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:11.613072+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "503c06f1-a69d-4059-af4f-d36de62cd24b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "773743ae-99eb-4cf4-8f25-1b15188462ba",
+  "input": "{\"title\": \"Lost\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'In the End'",
+  "status": "verified"
+}

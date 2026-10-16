@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:11.134488+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d15c4a5-3c67-4288-91c5-44fddd075694",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a373ba5-d51c-42ed-b077-bc41b061c0df",
+  "input": "{\"title\": \"Kid at Christmas\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Kid at Christmas'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:52.607286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "620f2ed1-31c4-4b79-a0db-bfa887503949",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2329b2e3-8b35-4dee-88a4-615550dc2477",
+  "input": "{\"title\": \"Atlantic\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Under the Iron Sea'",
+  "status": "verified"
+}

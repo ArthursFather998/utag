@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:05.419695+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54b5e9ee-dd9d-4fdd-832e-c245419306f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f89f417e-ce99-424d-b58f-b0d19a15bdca",
+  "input": "{\"title\": \"Without You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Without You'",
+  "status": "verified"
+}

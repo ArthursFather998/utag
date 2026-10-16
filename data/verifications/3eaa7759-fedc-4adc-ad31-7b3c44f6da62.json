@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:01.639972+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5325d38-57a5-4965-a92a-e6a2e2ba24d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3eaa7759-fedc-4adc-ad31-7b3c44f6da62",
+  "input": "{\"title\": \"Lacrymosa\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Open Door'",
+  "status": "verified"
+}

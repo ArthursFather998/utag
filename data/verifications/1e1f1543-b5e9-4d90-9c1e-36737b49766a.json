@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:44.779907+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6a5be05-2c00-488b-8b15-ddb8d4630857",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e1f1543-b5e9-4d90-9c1e-36737b49766a",
+  "input": "{\"title\": \"Everything Hallelujah\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Swag II'",
+  "status": "verified"
+}

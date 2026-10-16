@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:54.873078+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6153198b-f655-4a19-b8f0-cd8117eef8b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2eda6d3b-8166-4e9a-94be-79fe2af859eb",
+  "input": "{\"title\": \"101\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Girl on Fire'",
+  "status": "verified"
+}

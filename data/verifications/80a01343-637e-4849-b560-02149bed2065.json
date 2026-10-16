@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:38.097722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7608f1ed-9af2-4d8f-9fc9-8a716e50aaf8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "80a01343-637e-4849-b560-02149bed2065",
+  "input": "{\"title\": \"Tiny Dancer\", \"release_type\": \"single\", \"release_year\": 1972}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:02.327055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5570b8dc-480d-4ca1-b6e3-21a8d9535731",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac5ce589-c35a-474f-8d80-2aa184af3a76",
+  "input": "{\"title\": \"Love and My Best Friend\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love and My Best Friend'",
+  "status": "verified"
+}

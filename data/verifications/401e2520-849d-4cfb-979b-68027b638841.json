@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:17.794763+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e14131f0-872b-4c2b-940f-cd471006ce1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "401e2520-849d-4cfb-979b-68027b638841",
+  "input": "{\"title\": \"Too Late\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Reign'",
+  "status": "verified"
+}

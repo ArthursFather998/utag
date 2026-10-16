@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:35.369428+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c3d141b-30cb-4329-a13f-73961556fbc8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20236d9d-411d-4409-9ecf-6ea5653ba514",
+  "input": "{\"title\": \"The Blackest Day\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Honeymoon'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:12.627532+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc9d2f0b-79d4-49c5-94cb-71b9159c8d77",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9a56ed49-7939-4517-b61c-d4726bb0d69f",
+  "input": "{\"title\": \"Winter Surf\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: [release_date: 2015-11-25]",
+  "status": "verified"
+}

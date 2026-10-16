@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:43.181192+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba1460c9-394b-4d66-9f45-fd1925b97a07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "493539d1-4b63-4b69-ab14-92d432437130",
+  "input": "{\"title\": \"Beautiful Sadness\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '1940 Carmen'",
+  "status": "verified"
+}

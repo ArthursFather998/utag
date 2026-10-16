@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:16.599185+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba9c60eb-a0aa-4aee-9e09-4961a8ae4722",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "703363f5-7d43-4bfc-9b63-f49f4249b5ee",
+  "input": "{\"title\": \"Housewives (Bas)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Revenge of the Dreamers II'",
+  "status": "verified"
+}

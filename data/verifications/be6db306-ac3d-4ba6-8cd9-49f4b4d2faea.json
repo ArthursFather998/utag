@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:15.377045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c331156-37e7-437d-b4ec-f2cdf4efb26a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be6db306-ac3d-4ba6-8cd9-49f4b4d2faea",
+  "input": "{\"title\": \"Flowers\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Neighbourhood'",
+  "status": "verified"
+}

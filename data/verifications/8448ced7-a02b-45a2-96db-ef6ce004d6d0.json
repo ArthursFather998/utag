@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:36.863491+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd075a2b-ae35-4cf1-807a-2ebfeb60a83c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8448ced7-a02b-45a2-96db-ef6ce004d6d0",
+  "input": "{\"title\": \"Shadowboxing\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Love Songs for the End'",
+  "status": "verified"
+}

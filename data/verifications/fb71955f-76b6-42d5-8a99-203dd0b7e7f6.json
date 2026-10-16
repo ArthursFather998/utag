@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:52.161795+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a3ba1eb-d961-4128-b7e1-0c1351f7cad3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb71955f-76b6-42d5-8a99-203dd0b7e7f6",
+  "input": "{\"title\": \"White Roses\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'I Love You So F***ing Much'",
+  "status": "verified"
+}

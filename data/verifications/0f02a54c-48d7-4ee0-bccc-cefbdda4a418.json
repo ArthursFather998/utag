@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:43.824105+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bec2ecd4-15fc-4db0-b98f-a04c394a3bc4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f02a54c-48d7-4ee0-bccc-cefbdda4a418",
+  "input": "{\"title\": \"The Last Song\", \"track_number\": 51}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 51 of 'Coffret 4 CD'",
+  "status": "verified"
+}

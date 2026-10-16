@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:45.221139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb9fc5fe-e91c-4c60-9130-eaa0d138b96b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ba04857-ac14-4344-80f0-26b0ec651d69",
+  "input": "{\"title\": \"Rue's I'm Tired\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Euphoria Season 2 Official Score (From the HBO Original Series)'",
+  "status": "verified"
+}

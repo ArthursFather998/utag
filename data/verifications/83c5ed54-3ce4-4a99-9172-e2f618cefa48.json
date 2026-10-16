@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:46:01.032357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b482d40b-2e1a-4ab8-9fbe-b7041f6818d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83c5ed54-3ce4-4a99-9172-e2f618cefa48",
+  "input": "{\"title\": \"Linger\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Bualadh Bos – The Cranberries Live'",
+  "status": "verified"
+}

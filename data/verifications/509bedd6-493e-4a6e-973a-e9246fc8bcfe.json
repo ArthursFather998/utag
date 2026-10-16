@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:20.3362+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73957884-99e7-4ce4-8a0d-f6ba0317a860",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "509bedd6-493e-4a6e-973a-e9246fc8bcfe",
+  "input": "{\"title\": \"I Will Always\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Remembering Dolores'",
+  "status": "verified"
+}

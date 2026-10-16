@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:11.288077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eda19419-bf5d-47a8-8dcb-a45f2bc93bbf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b2c2188-aeb1-43b1-bfeb-7f10ee33949a",
+  "input": "{\"title\": \"In da Club\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Shady XV'",
+  "status": "verified"
+}

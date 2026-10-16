@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:26.476115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f37a5aa5-11df-4ff0-847b-3ae2e4fb161d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77000282-c8bb-4925-bed2-40d5853dac26",
+  "input": "{\"title\": \"Back It Up\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Virgo Moon'",
+  "status": "verified"
+}

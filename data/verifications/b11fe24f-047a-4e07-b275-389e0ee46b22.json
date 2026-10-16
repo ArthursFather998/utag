@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:09.119298+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "341b3ce4-b6ed-4e5f-b318-aaba89092caa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b11fe24f-047a-4e07-b275-389e0ee46b22",
+  "input": "{\"title\": \"Watercolor Eyes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Watercolor Eyes'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:55.786925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7562b54-7808-4528-b7c6-1e34c8c2be1b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d84de762-b4c6-4c74-bc20-babbea310bdc",
+  "input": "{\"title\": \"The Night We Met\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

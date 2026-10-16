@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:14.922138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c5262b5-594f-4379-9193-737e5904cab1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "141f2e73-c5cd-4eb3-a658-a65d8ed9360d",
+  "input": "{\"title\": \"Where Do We Go from Here\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'As I Am: The Super Edition'",
+  "status": "verified"
+}

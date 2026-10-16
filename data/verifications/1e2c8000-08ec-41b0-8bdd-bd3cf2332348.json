@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:25.248156+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5afaf94-dc85-4b27-b2f7-70c8a3840816",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e2c8000-08ec-41b0-8bdd-bd3cf2332348",
+  "input": "{\"title\": \"Confetti & Champagne\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Here for It All'",
+  "status": "verified"
+}

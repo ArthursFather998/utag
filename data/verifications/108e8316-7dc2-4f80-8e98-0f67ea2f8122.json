@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:31.817119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "945bbc25-826c-4f07-bac7-5c43810ced2e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "108e8316-7dc2-4f80-8e98-0f67ea2f8122",
+  "input": "{\"title\": \"Depresi\\u00f3n\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Depresión'",
+  "status": "verified"
+}

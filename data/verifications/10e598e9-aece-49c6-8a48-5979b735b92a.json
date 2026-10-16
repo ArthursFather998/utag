@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:22.505549+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd1877f0-8159-4a2e-9484-7fef92692fb2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10e598e9-aece-49c6-8a48-5979b735b92a",
+  "input": "{\"title\": \"Burn Down the Mission\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live in Australia with the Melbourne Symphony Orchestra'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:38.357835+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea33a87f-9e6b-40da-a6e4-978eec326473",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "593cf78f-640f-4681-bb13-7a4c3d4ea9c3",
+  "input": "{\"title\": \"Down at the Crown\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Madison Blues'",
+  "status": "verified"
+}

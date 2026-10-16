@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:57.661974+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8517d81f-6fda-459d-b07a-5bb3855f9b80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cea6fc2-1c6c-41f4-bf44-f4695e738a8b",
+  "input": "{\"title\": \"Maybe You'll Be There\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'To Each His Own'",
+  "status": "verified"
+}

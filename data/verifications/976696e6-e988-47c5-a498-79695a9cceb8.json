@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:43.317336+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5646c33-b08d-4eeb-9735-9af87d9f8d63",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "976696e6-e988-47c5-a498-79695a9cceb8",
+  "input": "{\"title\": \"Classic Series, Vol. 4\", \"release_type\": \"album\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

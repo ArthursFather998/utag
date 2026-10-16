@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:46.816481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f071be34-9779-4e5f-b335-2c472ae8927b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c8a53ea-8a5d-4a2b-bf88-6a99951f52c7",
+  "input": "{\"title\": \"Not Even the King\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Not Even the King'",
+  "status": "verified"
+}

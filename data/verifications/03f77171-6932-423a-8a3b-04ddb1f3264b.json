@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:57.639347+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00a9a097-0ce8-4356-9822-9390b8cb6dea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03f77171-6932-423a-8a3b-04ddb1f3264b",
+  "input": "{\"title\": \"Need You Now (Acoustic)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Need You Now (Acoustic)'",
+  "status": "verified"
+}

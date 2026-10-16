@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:59.461431+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70cf7f32-5da1-4b54-9249-b2edfe9ef1f9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6423ef46-84ba-4f80-b359-a934a45e6662",
+  "input": "{\"title\": \"14 minutes\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

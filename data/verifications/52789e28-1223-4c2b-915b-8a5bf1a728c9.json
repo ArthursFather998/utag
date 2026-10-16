@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:40.446032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d6853ec-6d3c-4975-baa9-195b5653d8a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52789e28-1223-4c2b-915b-8a5bf1a728c9",
+  "input": "{\"title\": \"Como Te Extra\\u00f1o\", \"track_number\": 82}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 82 of 'La Leyenda'",
+  "status": "verified"
+}

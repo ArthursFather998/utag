@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:29.894395+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e54c4368-cc24-4948-9cc4-2c702142a54c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc365fc9-7ac3-4f9d-a25b-b88dcb4e6f27",
+  "input": "{\"title\": \"South Indiana [Take 2]\", \"track_number\": 51}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 51 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:03.26113+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b870a798-fd69-431b-84fe-cd4cd2447eed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "492ef639-56c0-47c6-a0d1-246a57e59c90",
+  "input": "{\"title\": \"Be Still\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Scars & Stories (Deluxe Edition)'",
+  "status": "verified"
+}

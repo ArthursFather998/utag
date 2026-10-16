@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:51.958823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e50e5080-b4ad-4706-899f-50d533327895",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f99021d-dde5-4baa-bdd9-bab93079a9b6",
+  "input": "{\"title\": \"Happiness\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Fray - The Collection'",
+  "status": "verified"
+}

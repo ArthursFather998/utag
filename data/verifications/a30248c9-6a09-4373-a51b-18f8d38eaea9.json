@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:55.376596+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "500b3f25-6964-4c47-bdce-1df8c695e666",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a30248c9-6a09-4373-a51b-18f8d38eaea9",
+  "input": "{\"title\": \"Silent Night\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Great Songs of Christmas'",
+  "status": "verified"
+}

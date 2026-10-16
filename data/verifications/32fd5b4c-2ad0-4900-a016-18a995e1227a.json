@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:45.429911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1b2acb3-2731-44f8-b149-89a1d4fbc4c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32fd5b4c-2ad0-4900-a016-18a995e1227a",
+  "input": "{\"title\": \"Queen of the Gas Station\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Lana Del Ray'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:00.493041+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a46995c-f4a3-4f0b-a4cb-2ef90f22c685",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "082ef44a-ec9a-4f4f-b307-231c36190f4f",
+  "input": "{\"title\": \"River\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Dawn of Grace'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:50.078506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d361846-593d-4eba-8984-a195fcfd38e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4114726d-05af-4c59-9ab3-2a0c0d66b465",
+  "input": "{\"title\": \"Emperor's New Clothes (Live)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'All My Friends We're Glorious: Death of a Bachelor Tour Live'",
+  "status": "verified"
+}

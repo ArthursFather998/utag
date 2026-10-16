@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:45.397307+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d17fead4-3318-4cdf-a3cb-a2a765227b0c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3bddb65f-98a4-4538-9758-d7965a68ce91",
+  "input": "{\"title\": \"Ghost\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

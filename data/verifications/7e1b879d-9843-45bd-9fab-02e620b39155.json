@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:09.25277+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "d373d825-a0f6-4ef4-9d58-e78810df8785",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "7e1b879d-9843-45bd-9fab-02e620b39155",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "Cologne",
+    "title": "Cologne"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Bandwagon describes 'Cologne' as her new single released alongside the Our Extended Play EP (June 2021); Beatsway confirms the video and EP release. | sources: https://www.bandwagon.asia/articles/beabadoobee-explores-artistic-growth-new-our-extended-play-ep-cologne-music-video-matty-healy-george-daniel-the-1975, https://www.beatsway.com/beabadoobee-releases-new-ep-plots-north-american-tour-watch-cologne-video/",
+  "status": "verified"
+}

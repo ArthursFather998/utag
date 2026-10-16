@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:55.243581+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f11a9caa-53ce-48ff-bddd-751440de72df",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "47ccb93b-d62a-4f73-a7cf-9764f1f4a6c2",
+  "input": "{\"title\": \"Lift Off\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

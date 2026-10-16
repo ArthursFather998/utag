@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:22.701987+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36e3b53b-f116-4330-9ad2-2c69d9105a8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e3cc49f-35fa-4fff-b745-126434cc2eea",
+  "input": "{\"title\": \"In My Head Till I'm Dead\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Buds'",
+  "status": "verified"
+}

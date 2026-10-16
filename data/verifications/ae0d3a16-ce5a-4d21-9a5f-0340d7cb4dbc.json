@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:09.323042+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a618660-dd6d-447a-ab7d-5097a9b72900",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ae0d3a16-ce5a-4d21-9a5f-0340d7cb4dbc",
+  "input": "{\"title\": \"Lulu\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of '(((((ultraSOUND)))))+'",
+  "status": "verified"
+}

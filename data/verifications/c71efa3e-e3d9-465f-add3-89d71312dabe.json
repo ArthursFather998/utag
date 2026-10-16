@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:14.092582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0c516e5-94b3-4c80-a65d-3c0c22d89a99",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c71efa3e-e3d9-465f-add3-89d71312dabe",
+  "input": "{\"title\": \"Nectar of the Gods\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Blue Banisters'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:14.494614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d9135f4-3dde-4b06-b853-118032a87f69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d59fae2-15f5-4a32-b579-3bfc92838926",
+  "input": "{\"title\": \"you broke my heart (sped up)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'you broke my heart'",
+  "status": "verified"
+}

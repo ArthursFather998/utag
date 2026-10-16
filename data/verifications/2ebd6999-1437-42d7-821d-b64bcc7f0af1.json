@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:43.641396+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af356be5-31b4-4634-a9b0-2c220bece5e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ebd6999-1437-42d7-821d-b64bcc7f0af1",
+  "input": "{\"title\": \"Heard a Word\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'This Is the Remix'",
+  "status": "verified"
+}

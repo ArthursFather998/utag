@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:27.640286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b7dd2af-9fda-4a5c-b7bc-c2c6892454d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45e97363-7d2b-4757-903e-af20f379adcd",
+  "input": "{\"title\": \"High by the Beach\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Honeymoon'",
+  "status": "verified"
+}

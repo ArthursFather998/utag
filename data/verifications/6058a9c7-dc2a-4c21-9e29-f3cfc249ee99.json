@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:18.643508+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1bc333c3-20f8-49a9-8bc2-1b1e021b1d5d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6058a9c7-dc2a-4c21-9e29-f3cfc249ee99",
+  "input": "{\"title\": \"Bohemian Rhapsody\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Queen on Fire - Live at the Bowl'",
+  "status": "verified"
+}

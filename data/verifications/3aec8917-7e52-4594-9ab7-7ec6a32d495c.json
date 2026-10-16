@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:50.649507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d292fda-0c56-42e0-966e-a30a8e613c1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3aec8917-7e52-4594-9ab7-7ec6a32d495c",
+  "input": "{\"title\": \"Pain\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'One-X'",
+  "status": "verified"
+}

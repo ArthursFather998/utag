@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:27.716637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f230fe6-1fe8-4f2f-bfc1-41143b0b3df9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbf918e5-f9c2-45f0-83ac-46647e878eef",
+  "input": "{\"title\": \"Tragedy\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

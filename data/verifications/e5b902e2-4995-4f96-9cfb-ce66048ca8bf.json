@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:21.779032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05655d73-42a7-489c-b4cf-ab2229e43b2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5b902e2-4995-4f96-9cfb-ce66048ca8bf",
+  "input": "{\"title\": \"I Don't Wanna Be a Loser\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Boys, Boys, Boys with Bonus Tracks'",
+  "status": "verified"
+}

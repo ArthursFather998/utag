@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:50.76728+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "425858e9-46fe-4313-94bc-c737dcfc6b03",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "93afd866-8539-4b11-b3fd-8faa99776b2e",
+  "input": "{\"title\": \"Just a Matter of Slime\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 21",
+  "status": "verified"
+}

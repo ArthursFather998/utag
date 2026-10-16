@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:18.786075+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba0abc9a-0c94-424c-8b80-e21b4eaf94db",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2ab47d8d-8c04-4041-8c27-76fb9f5a8fc6",
+  "input": "{\"title\": \"It's Better If You Don't Understand\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

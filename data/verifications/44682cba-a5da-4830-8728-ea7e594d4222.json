@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:55.655705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f18dffbb-3439-41c6-b369-44bf81d78d66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44682cba-a5da-4830-8728-ea7e594d4222",
+  "input": "{\"title\": \"The Deal\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Land: The Live Album'",
+  "status": "verified"
+}

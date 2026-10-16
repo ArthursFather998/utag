@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:27.01599+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f1a64b2-b588-4e17-9179-f942593a7d67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cb09840-88fe-4472-8d77-85f384aab8b0",
+  "input": "{\"title\": \"Don't Forget About Us\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Forget About Us'",
+  "status": "verified"
+}

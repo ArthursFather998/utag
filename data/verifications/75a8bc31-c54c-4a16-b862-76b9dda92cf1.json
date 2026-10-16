@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:04.93068+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20c46994-6cb5-4a2f-abbd-0b5a56749fab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "75a8bc31-c54c-4a16-b862-76b9dda92cf1",
+  "input": "{\"title\": \"Where the Party At (Brand Blank Remix)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Greatest Hits'",
+  "status": "verified"
+}

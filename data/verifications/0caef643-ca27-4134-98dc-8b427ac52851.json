@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:36.553017+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35a54aab-d236-485c-a3a1-882e0e0bd1ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0caef643-ca27-4134-98dc-8b427ac52851",
+  "input": "{\"title\": \"Wait for a Minute\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wait for a Minute'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:44.818012+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fede0678-9365-4c7c-ab8f-672423dd6680",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3710cad-a6b8-4f31-a7fe-53d7793f6640",
+  "input": "{\"title\": \"New Day\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'In Tokyo 2025'",
+  "status": "verified"
+}

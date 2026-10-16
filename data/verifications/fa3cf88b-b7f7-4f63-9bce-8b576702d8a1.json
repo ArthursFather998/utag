@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:04.211837+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0aa53fb-44b6-4fab-858e-d94c8b9c1d5f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fa3cf88b-b7f7-4f63-9bce-8b576702d8a1",
+  "input": "{\"title\": \"Crazy Love\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

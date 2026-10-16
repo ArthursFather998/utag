@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:54.183726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d53c9f0-3246-46f5-b5e3-2c88c26a6661",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2fef5cab-2de9-4efa-bbb8-ddfcd925ec42",
+  "input": "{\"title\": \"The Chain (live)\", \"release_type\": \"single\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:59.626985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f54cd6ae-78f7-44fc-b0a0-2d1d4a422bdc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "483e7d20-7f86-43a1-828c-3fb082c4105a",
+  "input": "{\"title\": \"White Dress\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'White Dress'",
+  "status": "verified"
+}

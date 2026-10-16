@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:56.409271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34a280b0-6647-4da6-bbfc-db61df47afc0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee3c0333-5fc1-4b74-bcda-4a6aaac3248c",
+  "input": "{\"title\": \"Scorsese Baby Daddy\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Lana'",
+  "status": "verified"
+}

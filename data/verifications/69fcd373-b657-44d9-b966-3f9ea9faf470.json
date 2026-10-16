@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:30.191488+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "938adde7-3005-4c0d-ada6-3d3499419be5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69fcd373-b657-44d9-b966-3f9ea9faf470",
+  "input": "{\"title\": \"Childs Play\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Views'",
+  "status": "verified"
+}

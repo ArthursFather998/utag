@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:19.735218+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac94e3b4-ea01-47a1-bf38-9daed32dd384",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb778c9c-6ef9-4f1a-ae00-262a89814c95",
+  "input": "{\"title\": \"Introduction By Jeff\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live from King Theater, Seattle, WA, May 7, 1995'",
+  "status": "verified"
+}

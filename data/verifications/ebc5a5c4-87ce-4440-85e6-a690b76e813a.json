@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:48.667303+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7cd9d26-b099-444a-8890-3c77be531811",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebc5a5c4-87ce-4440-85e6-a690b76e813a",
+  "input": "{\"title\": \"The Motion\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Care Package'",
+  "status": "verified"
+}

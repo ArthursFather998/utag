@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:41.697677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dea31f45-9946-42b4-8b4f-ef6f82f249eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a241df31-7dc5-4ebd-881a-374eef65bacf",
+  "input": "{\"title\": \"Disc 1 - Consolation Prize\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:11.3182+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05d9bf4a-11ce-418a-96a2-4af703346b85",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a4cfdba0-d25f-4a24-a6da-be7944cbe057",
+  "input": "{\"title\": \"Amazon Artist Lounge: Keane Live from London\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:17.112429+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcc8cee7-3171-4bea-bd9e-1664222399d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b67e1905-1c74-4224-a546-2c89da9e0584",
+  "input": "{\"title\": \"Fancy\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Amala (Deluxe)'",
+  "status": "verified"
+}

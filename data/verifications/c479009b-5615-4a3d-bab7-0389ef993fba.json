@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:17.909151+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a355156-82ba-4215-ad02-e79b53eaf154",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c479009b-5615-4a3d-bab7-0389ef993fba",
+  "input": "{\"title\": \"Now I'm Here (Reprise)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

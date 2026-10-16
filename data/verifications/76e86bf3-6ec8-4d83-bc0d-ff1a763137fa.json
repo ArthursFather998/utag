@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:11.80437+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5ee92bb-52e0-43af-b1b9-a27837b5f658",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76e86bf3-6ec8-4d83-bc0d-ff1a763137fa",
+  "input": "{\"title\": \"What Happened to U\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

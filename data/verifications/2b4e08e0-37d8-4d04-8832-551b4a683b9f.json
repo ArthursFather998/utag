@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:38.690066+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f69ea4f5-45d7-4bf7-99c4-2dbb88f87871",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b4e08e0-37d8-4d04-8832-551b4a683b9f",
+  "input": "{\"title\": \"Just My Name\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Smile 2: The Skye Riley EP'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:01.890288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9084ff5-2217-4925-88f8-ba35caf3c3d1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "229cbe6a-c1d3-44d3-91a2-9c3538a9e68e",
+  "input": "{\"title\": \"What's My Name\", \"release_type\": \"single\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

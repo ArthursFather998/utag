@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:55:56.383817+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "454c619c-1326-42d7-907b-01d0f167ce44",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18e5a3a3-d30b-48cb-999e-3d94aa2f1ead",
+  "input": "{\"title\": \"Valentine\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Reykjavík Sessions'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:13.055679+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b7824ea-ea44-4fb6-a882-e176ad48030c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e1d7cf9-2a7b-4228-abd5-4c383d3f450a",
+  "input": "{\"title\": \"River\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'River'",
+  "status": "verified"
+}

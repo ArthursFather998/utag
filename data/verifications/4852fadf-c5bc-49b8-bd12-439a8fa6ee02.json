@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:30.510443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b27d79aa-82f8-4404-a01c-dd4ec5ded689",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4852fadf-c5bc-49b8-bd12-439a8fa6ee02",
+  "input": "{\"title\": \"Ancient Names (Part I)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ancient Names (Part I)'",
+  "status": "verified"
+}

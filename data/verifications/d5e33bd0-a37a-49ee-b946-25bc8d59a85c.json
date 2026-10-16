@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:53.703294+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f650f1c-f28c-495f-adb1-5414d02c761f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d5e33bd0-a37a-49ee-b946-25bc8d59a85c",
+  "input": "{\"title\": \"The One\", \"release_type\": \"album\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

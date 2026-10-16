@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:37.322785+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52d82780-63b3-4cc2-b0e1-80362f95065c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "065166dd-a168-463d-82f4-dc665326eeb3",
+  "input": "{\"title\": \"M.O.N.S.T.E.R\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'M.O.N.S.T.E.R'",
+  "status": "verified"
+}

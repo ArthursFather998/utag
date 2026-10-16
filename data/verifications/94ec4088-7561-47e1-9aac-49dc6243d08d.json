@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:03.761506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e639cba-a596-4c06-a305-1c70c59a84f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94ec4088-7561-47e1-9aac-49dc6243d08d",
+  "input": "{\"title\": \"Want You\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Glitter'",
+  "status": "verified"
+}

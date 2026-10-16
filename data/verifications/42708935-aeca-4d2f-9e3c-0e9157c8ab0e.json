@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:45.85977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a098d573-a4fb-45c2-ac49-7803f03ae2d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42708935-aeca-4d2f-9e3c-0e9157c8ab0e",
+  "input": "{\"title\": \"Worried Dream\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Original Fleetwood Mac'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:34.527488+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "678a6fe7-8c84-4322-9b45-c2bc78d2cfd7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38917a50-e81d-43a3-88eb-1e8949fbcb4b",
+  "input": "{\"title\": \"mirror, mirror\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live Forever'",
+  "status": "verified"
+}

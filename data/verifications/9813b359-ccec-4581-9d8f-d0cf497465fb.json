@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:29.98673+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4234f001-1f6f-49d2-b649-88f8f05be20a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9813b359-ccec-4581-9d8f-d0cf497465fb",
+  "input": "{\"title\": \"Bohemian Rhapsody\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:29.603208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "95f2bfa7-2ee4-4587-810f-5216a717ca18",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e61b1823-13a9-4f5f-99c7-95a85443d169",
+  "input": "{\"title\": \"Unforgiven\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'My Own Prison'",
+  "status": "verified"
+}

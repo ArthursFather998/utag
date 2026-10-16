@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:41.831919+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eda059b1-182d-4dbd-a06f-8324da4f6327",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c32e33d-7954-4129-9700-ad73e4ef989c",
+  "input": "{\"title\": \"The Chain\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Chain'",
+  "status": "verified"
+}

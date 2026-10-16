@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:59.590066+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9c24842-e275-4a7c-9d19-73b5aa006571",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80cb97be-bf47-4817-a0e8-b64678fd627c",
+  "input": "{\"title\": \"No Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'No Love'",
+  "status": "verified"
+}

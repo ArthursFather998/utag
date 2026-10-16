@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:52:09.867508+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d91d6737-be1f-444a-9366-4ab6860006f8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ea369738-869d-4abd-abf3-5d240de50da1",
+  "input": "{\"title\": \"Stars: The Best of 1992\\u20132002\", \"release_type\": \"album\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Includes 2 previously unreleased tracks: New New York, Stars.",
+  "status": "verified"
+}

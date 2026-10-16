@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:01.743511+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ecd6c127-efe7-4972-b579-96898e08df3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d1f5ebf-258b-4716-986e-7e389dd454bf",
+  "input": "{\"title\": \"The One\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Damita Jo'",
+  "status": "verified"
+}

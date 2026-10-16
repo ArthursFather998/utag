@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:29.067831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ad1a7ea4-6fb3-4f1f-85bc-634376f6365d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5708e419-0592-45f9-8fd0-3911ddb81a0d",
+  "input": "{\"title\": \"Nice & Slow\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Nice & Slow'",
+  "status": "verified"
+}

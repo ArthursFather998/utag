@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:47.197446+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "997be68b-c4a3-453b-85b1-c4145d284d81",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f690f368-ab29-493a-8426-08027aff2d85",
+  "input": "{\"title\": \"Bye Bye\", \"release_type\": \"single\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

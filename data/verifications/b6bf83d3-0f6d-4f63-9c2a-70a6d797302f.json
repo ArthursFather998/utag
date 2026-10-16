@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:39.6881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb85023b-2f0c-428f-bc03-591d0e22447c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6bf83d3-0f6d-4f63-9c2a-70a6d797302f",
+  "input": "{\"title\": \"When It's All Over\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Girl on Fire: Australian Tour Edition'",
+  "status": "verified"
+}

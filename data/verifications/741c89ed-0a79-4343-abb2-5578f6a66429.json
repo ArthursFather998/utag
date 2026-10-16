@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:07.311117+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "adf1a29c-eeee-4294-8b5e-11775283f71f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "741c89ed-0a79-4343-abb2-5578f6a66429",
+  "input": "{\"title\": \"Not Afraid\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'STANS: The Official Soundtrack'",
+  "status": "verified"
+}

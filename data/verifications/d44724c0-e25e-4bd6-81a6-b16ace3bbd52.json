@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:09.045242+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "495ab484-85c1-46f6-b080-e562e7e573c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d44724c0-e25e-4bd6-81a6-b16ace3bbd52",
+  "input": "{\"title\": \"Station Man\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'Selections from 25 Years – The Chain'",
+  "status": "verified"
+}

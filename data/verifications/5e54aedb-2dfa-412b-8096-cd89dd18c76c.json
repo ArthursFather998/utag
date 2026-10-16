@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:53.141855+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e85933b-5b06-4f6f-9f13-082059b292ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e54aedb-2dfa-412b-8096-cd89dd18c76c",
+  "input": "{\"title\": \"All I Want for Christmas Is You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Mariah Carey's All I Want for Christmas Is You (Original Motion Picture Soundtrack)'",
+  "status": "verified"
+}

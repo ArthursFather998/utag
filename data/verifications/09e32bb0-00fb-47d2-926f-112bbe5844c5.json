@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:12:53.535173+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a8779c8c-fa95-4436-9cf5-c51dcd10e881",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09e32bb0-00fb-47d2-926f-112bbe5844c5",
+  "input": "{\"title\": \"We Are Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We Are Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:29.221405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b9dd3fc-9bcd-4787-8322-acc0924a95da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "acdca32f-21e6-4e66-b54d-75dbb40de776",
+  "input": "{\"title\": \"Hold On\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hold On'",
+  "status": "verified"
+}

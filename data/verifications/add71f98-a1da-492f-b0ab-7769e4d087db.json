@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:46.422369+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46d27c3b-1885-48ac-a068-256f54e0593b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "add71f98-a1da-492f-b0ab-7769e4d087db",
+  "input": "{\"title\": \"Bloodletting Go\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Saturnine Martial & Lunatic'",
+  "status": "verified"
+}

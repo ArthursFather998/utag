@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:19.255999+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff56ba14-d6f6-4c07-ad9e-efd50416f5e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9063a5a2-1c34-40ca-aee2-0a52cb2bfed7",
+  "input": "{\"title\": \"Fragile\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

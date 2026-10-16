@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:21.773091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55f975d9-2eeb-4194-b450-75d2b4ff5a3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2d800be-d575-4c0a-9572-66650c52e3e7",
+  "input": "{\"title\": \"Tornasol Ac\\u00fastico\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tornasol Acústico'",
+  "status": "verified"
+}

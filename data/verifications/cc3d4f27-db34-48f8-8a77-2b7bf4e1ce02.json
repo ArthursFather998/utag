@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:50.203754+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0acb0b00-75a6-419b-b2a6-95781b53f016",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc3d4f27-db34-48f8-8a77-2b7bf4e1ce02",
+  "input": "{\"title\": \"Blah Blah Blah\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Rest of the Best - Vol. 1'",
+  "status": "verified"
+}

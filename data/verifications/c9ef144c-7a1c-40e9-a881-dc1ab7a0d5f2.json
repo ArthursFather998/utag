@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:42.716948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f727887-5aa3-4d39-a99a-dc66e946c423",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9ef144c-7a1c-40e9-a881-dc1ab7a0d5f2",
+  "input": "{\"title\": \"Why Can't This Night Go on Forever\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Why Can't This Night Go on Forever'",
+  "status": "verified"
+}

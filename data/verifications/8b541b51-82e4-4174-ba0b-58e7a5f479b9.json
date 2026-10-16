@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:00.874332+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b053d6a-23e3-4736-8251-adad63167995",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b541b51-82e4-4174-ba0b-58e7a5f479b9",
+  "input": "{\"title\": \"Silver Lining\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'A Matter of Time'",
+  "status": "verified"
+}

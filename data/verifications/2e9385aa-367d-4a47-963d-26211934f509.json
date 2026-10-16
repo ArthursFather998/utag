@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:15.593108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d5f9beb-e70c-4889-b8a3-e0e1ee29d5dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e9385aa-367d-4a47-963d-26211934f509",
+  "input": "{\"title\": \"Hicktown (Live)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live Sessions'",
+  "status": "verified"
+}

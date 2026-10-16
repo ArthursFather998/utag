@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:24.767434+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3be7e24-92be-4354-bfb7-c19380b9b8c5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e6d0f851-1573-440f-8709-574b6aa494c0",
+  "input": "{\"title\": \"London 2012: Live at The Hammersmith Apollo\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Recorded 2 Oct 2012; Concert Live release.",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:56.601645+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21f15044-3b0b-4319-8b57-ccc11fade855",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05eef6ab-4803-4f4c-a880-af06c0119c53",
+  "input": "{\"title\": \"All My Life\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Glitter'",
+  "status": "verified"
+}

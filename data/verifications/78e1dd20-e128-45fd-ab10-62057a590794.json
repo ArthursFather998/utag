@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:54.7303+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0cb5cd5c-ff84-43c6-8d1a-78c8e37bc673",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "78e1dd20-e128-45fd-ab10-62057a590794",
+  "input": "{\"title\": \"Tusk\", \"release_type\": \"album\", \"release_year\": 1979}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:39.675596+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74589e47-5dbc-4fd1-9a50-bb57cfb1f6cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a75eea8-e9b2-4d89-8031-fda6d964c7fe",
+  "input": "{\"title\": \"Won't Be Broken\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'The Best of Keane'",
+  "status": "verified"
+}

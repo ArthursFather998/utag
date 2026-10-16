@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:23.148116+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "375adeb9-eec6-4191-8929-55bcdc65000c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30dd6d5b-34cf-442d-835d-81b1fd209e74",
+  "input": "{\"title\": \"For Now\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Instrumentals'",
+  "status": "verified"
+}

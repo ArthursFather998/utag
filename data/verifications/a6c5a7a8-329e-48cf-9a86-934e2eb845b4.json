@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:08.090788+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56fd5588-07ee-4cc7-9d63-2c0c73429e83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a6c5a7a8-329e-48cf-9a86-934e2eb845b4",
+  "input": "{\"title\": \"Like You'll Never See Me Again (Jony Rockstar Mix)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Remixed'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:49.033826+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de78c6c7-3843-485d-953c-9f9e522aab32",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "08e01df3-7415-47f7-b18a-395d2e319bf5",
+  "input": "{\"title\": \"Not That Funny\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Selections from 25 Years – The Chain'",
+  "status": "verified"
+}

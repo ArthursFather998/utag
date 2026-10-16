@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:46.092792+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0682b204-5d02-475b-a789-ee192370847b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "311ec6bb-4d6c-4ed2-a6a4-d61ed25259b0",
+  "input": "{\"title\": \"Grace\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Original Album Classics'",
+  "status": "verified"
+}

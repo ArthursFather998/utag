@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:09.420531+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75ec5e5a-b5ef-4c07-b4c0-476efe483ceb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13d60a20-18bb-417a-8144-cd10abedb690",
+  "input": "{\"title\": \"Honey Roll\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Friends'",
+  "status": "verified"
+}

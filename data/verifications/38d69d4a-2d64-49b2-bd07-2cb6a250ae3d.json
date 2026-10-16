@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:49.097887+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9893e72-be5c-421d-9327-120a9a3e3250",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38d69d4a-2d64-49b2-bd07-2cb6a250ae3d",
+  "input": "{\"title\": \"The Lounge\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'janet.'",
+  "status": "verified"
+}

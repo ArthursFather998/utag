@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:03.413635+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec77a6ae-bd2e-4d50-bfdf-c434005d5576",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4389cfbd-0155-488a-b819-c654c67727cc",
+  "input": "{\"title\": \"La Llamada\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Unforgettable: The Studio Album'",
+  "status": "verified"
+}

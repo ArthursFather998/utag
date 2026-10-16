@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:20.894444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d3ebbbb-e2bd-4120-bbc5-ef8d0ead49d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a389451e-5920-473f-9846-d9410e7b9c52",
+  "input": "{\"title\": \"If (Brothers in Rhythm House Mix)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Janet Remixed'",
+  "status": "verified"
+}

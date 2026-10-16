@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:05.161299+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb0b16b7-6c4b-4fd0-92f0-e994e1ab5f10",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ded07bb2-75d2-4253-a3f1-10968cf2b478",
+  "input": "{\"title\": \"Always Be My Baby\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of '#1 to Infinity'",
+  "status": "verified"
+}

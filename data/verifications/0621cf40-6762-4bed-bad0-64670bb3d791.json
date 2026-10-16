@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:01.562775+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89101827-19ca-4e4f-a947-3329cd181513",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0621cf40-6762-4bed-bad0-64670bb3d791",
+  "input": "{\"title\": \"Last Night a DJ Saved My Life\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Glitter'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:44.349941+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8305272-709f-4f69-b0d7-c8bfed1f80d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2873f994-3e31-4a13-a80b-e667d20354f9",
+  "input": "{\"title\": \"Grace\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Mystery White Boy'",
+  "status": "verified"
+}

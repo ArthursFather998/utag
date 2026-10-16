@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:38.59178+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5540679f-c52a-4201-9893-246d71b29c1a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c30672b4-61ec-4e70-b3b1-51fa8470551e",
+  "input": "{\"title\": \"Foolish Eyes\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'When the Smoke Clears'",
+  "status": "verified"
+}

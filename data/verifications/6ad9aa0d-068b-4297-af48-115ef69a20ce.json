@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:22.390153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5113d201-a97e-4bdb-9314-dd933ec61c9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ad9aa0d-068b-4297-af48-115ef69a20ce",
+  "input": "{\"title\": \"The High Road\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The High Road'",
+  "status": "verified"
+}

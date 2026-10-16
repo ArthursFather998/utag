@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:51.924864+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7942475c-b2a4-43e8-a2aa-699535f3d58f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2e0906e-9a24-4774-80d1-278b7cb44e01",
+  "input": "{\"title\": \"Give In\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Layover'",
+  "status": "verified"
+}

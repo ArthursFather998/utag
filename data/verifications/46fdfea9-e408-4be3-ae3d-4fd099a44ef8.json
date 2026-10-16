@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:52.078089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c71fc9cb-71be-41e1-98a3-919a471a77c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "46fdfea9-e408-4be3-ae3d-4fd099a44ef8",
+  "input": "{\"title\": \"Still Got You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'A Light That Waits'",
+  "status": "verified"
+}

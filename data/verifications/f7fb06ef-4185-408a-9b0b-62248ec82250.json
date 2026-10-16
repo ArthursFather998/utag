@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:06.705709+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25baae16-e4ee-4553-89c9-8063a3f9caa4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7fb06ef-4185-408a-9b0b-62248ec82250",
+  "input": "{\"title\": \"Crack a Bottle\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Curtain Call 2'",
+  "status": "verified"
+}

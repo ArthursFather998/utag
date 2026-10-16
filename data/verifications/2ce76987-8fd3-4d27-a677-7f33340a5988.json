@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:47.706572+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ff15a1f-5631-4fb3-8e2c-b4bc17eefe90",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ce76987-8fd3-4d27-a677-7f33340a5988",
+  "input": "{\"title\": \"Love You Goodbye\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Made in the A.M.'",
+  "status": "verified"
+}

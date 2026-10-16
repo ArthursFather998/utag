@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:42.640948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9604c70-16dd-450b-a64f-14222b2df482",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "162b5603-6a35-4a9f-a4c5-4200582738e8",
+  "input": "{\"title\": \"Uma Thurman\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Uma Thurman'",
+  "status": "verified"
+}

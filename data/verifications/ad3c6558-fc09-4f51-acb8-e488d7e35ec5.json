@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:59.545946+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c7fbafa-cb34-47a0-8278-eb9bdc37c0ef",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ad3c6558-fc09-4f51-acb8-e488d7e35ec5",
+  "input": "{\"title\": \"The Way Life Goes\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:26.460194+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49ce8bc2-25ce-4f80-8829-824e037db3c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22ac0228-c8a9-4290-9e1c-6b5ac699519f",
+  "input": "{\"title\": \"Goodbye (Live)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Remixed & Unplugged in A Minor'",
+  "status": "verified"
+}

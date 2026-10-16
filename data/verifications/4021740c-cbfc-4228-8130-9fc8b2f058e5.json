@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:27.978784+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db24d5bf-0e91-4354-ae6a-12415e4b05c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4021740c-cbfc-4228-8130-9fc8b2f058e5",
+  "input": "{\"title\": \"We Are the Champions\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Stone Cold Classics'",
+  "status": "verified"
+}

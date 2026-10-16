@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:12.992132+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ac7005d-4e4c-491e-886a-3d85ea0e2ae7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80b3f185-5477-4d69-a1d7-40e07769707b",
+  "input": "{\"title\": \"Shake Your Moneymaker\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Collection'",
+  "status": "verified"
+}

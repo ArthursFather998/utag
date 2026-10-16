@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:33.688519+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "454a03f1-7f23-41a8-8f64-65d88bed377b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "042dc8d7-5e78-4698-9768-e5ff1149e152",
+  "input": "{\"title\": \"Bump\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Hard II Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:48.862491+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5db6a91d-48c7-4430-b3b4-3863fc61af49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b449c4f5-d55f-4cb3-82c0-cfda47e4e01b",
+  "input": "{\"title\": \"Boy (I Need You)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Boy (I Need You)'",
+  "status": "verified"
+}

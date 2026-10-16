@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:11.422045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8b3316c-36aa-4a24-b61a-78e4ed93d52d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad980488-a904-4bdd-98ce-e9983acf07fc",
+  "input": "{\"title\": \"Whatever I Want\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Usher: Rarities!'",
+  "status": "verified"
+}

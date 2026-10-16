@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:04.930399+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd05976c-ed11-40fe-b171-5abeb82e7a49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78ee5453-2692-475d-ac3c-745e9a79e08a",
+  "input": "{\"title\": \"Empty Garden (Hey Hey Johnny)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Jump Up!'",
+  "status": "verified"
+}

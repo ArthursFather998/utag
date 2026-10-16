@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:21.960916+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84b2771f-870c-4979-8760-a41abc50fbd2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a165e8a-b4fe-414b-aba0-b8ceb029a219",
+  "input": "{\"title\": \"Do I Wanna Know?\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live at the Royal Albert Hall'",
+  "status": "verified"
+}

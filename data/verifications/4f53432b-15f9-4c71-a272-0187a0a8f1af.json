@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:18.250513+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96b2a03c-7fba-4ffa-a078-28d0e44bd30d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f53432b-15f9-4c71-a272-0187a0a8f1af",
+  "input": "{\"title\": \"Hanging Around\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hanging Around'",
+  "status": "verified"
+}

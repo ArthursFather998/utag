@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:19.393985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db5cba31-855b-4079-b5d6-144b58a6e494",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6188ed3b-d185-4933-9419-ff6b42ccea4a",
+  "input": "{\"title\": \"Push Up on Me\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'Coffret 4 CD'",
+  "status": "verified"
+}

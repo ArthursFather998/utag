@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:36.622605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22249fde-2222-4fa6-8c78-2ba6df4339b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68949de5-389a-44c9-9906-cf54e1728edb",
+  "input": "{\"title\": \"Dancing Shoes\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Whatever People Say I Am, That's What I'm Not'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:56.377373+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cacbf24a-d38a-4f6e-8d9e-50410c15e75b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7bdd1c0a-99de-497f-adb7-7b6b279e0841",
+  "input": "{\"title\": \"The Birds, Pt. 2\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Thursday'",
+  "status": "verified"
+}

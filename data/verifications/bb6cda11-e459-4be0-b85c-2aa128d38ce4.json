@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:11.098753+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd8c3a5b-539d-4de1-bc3b-c9c38495abf8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb6cda11-e459-4be0-b85c-2aa128d38ce4",
+  "input": "{\"title\": \"Chilango Blues - En Vivo, Desde El Lunario del Auditorio Nacional\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)'",
+  "status": "verified"
+}

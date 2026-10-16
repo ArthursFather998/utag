@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:10.507171+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed0cba66-4e9c-4fef-86b9-6b12e61def90",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9cb18d4-0a86-41c7-85f2-afca2a50f777",
+  "input": "{\"title\": \"She Makes Me (Feel Alright)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'She Makes Me (Feel Alright)'",
+  "status": "verified"
+}

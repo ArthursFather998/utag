@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:24.146193+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9adefcc-f042-48c0-afc1-fb2eb3eb0e4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a216132-1645-4ca0-a1de-c0880edcfc77",
+  "input": "{\"title\": \"Love Alone\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Softly'",
+  "status": "verified"
+}

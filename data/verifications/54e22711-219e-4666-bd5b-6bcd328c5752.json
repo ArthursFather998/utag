@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:47.65152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b296b12-b48f-4fc8-96c1-bc4336a0b1f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54e22711-219e-4666-bd5b-6bcd328c5752",
+  "input": "{\"title\": \"The Fatherless and the Widow\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Collage: A Portrait of Their Best'",
+  "status": "verified"
+}

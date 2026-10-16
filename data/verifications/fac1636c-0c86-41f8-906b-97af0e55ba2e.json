@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:16.787045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ad8318f5-6a38-4941-87b6-cb6516caf191",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fac1636c-0c86-41f8-906b-97af0e55ba2e",
+  "input": "{\"title\": \"Girls Want Girls\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Certified Lover Boy'",
+  "status": "verified"
+}

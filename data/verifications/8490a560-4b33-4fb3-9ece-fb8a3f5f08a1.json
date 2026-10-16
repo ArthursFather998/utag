@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:48.56354+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c173ab5-6a5f-4942-9a4b-aae7b98f593e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8490a560-4b33-4fb3-9ece-fb8a3f5f08a1",
+  "input": "{\"title\": \"Moodswing Whiskey\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Mystery White Boy'",
+  "status": "verified"
+}

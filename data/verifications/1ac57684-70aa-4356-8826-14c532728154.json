@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:11.2676+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3fc4743-ee5e-42ef-8b54-a14ab23dff7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ac57684-70aa-4356-8826-14c532728154",
+  "input": "{\"title\": \"The King Must Die\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live in Australia with the Melbourne Symphony Orchestra'",
+  "status": "verified"
+}

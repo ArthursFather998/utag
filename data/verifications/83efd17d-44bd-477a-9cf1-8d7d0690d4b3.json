@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:55.439349+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5c65118-eb08-4064-83bf-4567458ec8c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83efd17d-44bd-477a-9cf1-8d7d0690d4b3",
+  "input": "{\"title\": \"To be, or not to be ugly\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Ugly Duck'",
+  "status": "verified"
+}

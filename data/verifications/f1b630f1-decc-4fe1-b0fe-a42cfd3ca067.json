@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:21.793541+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9be7a47c-d09c-4d8f-ba91-7a8521ff5adb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1b630f1-decc-4fe1-b0fe-a42cfd3ca067",
+  "input": "{\"title\": \"Pennsylvania Polka\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Party Music ~~ 20 Hits'",
+  "status": "verified"
+}

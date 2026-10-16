@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:12.709928+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf67b67e-38ac-4164-9c9d-ab14dd30e762",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "623a5d7c-3739-4997-8ac9-5f6c5b60689c",
+  "input": "{\"title\": \"Jewel Eyed Judy\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Kiln House'",
+  "status": "verified"
+}

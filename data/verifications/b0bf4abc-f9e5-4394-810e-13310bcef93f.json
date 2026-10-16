@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:41.338208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1db46ce9-0ee5-4613-9497-fea1e2b47656",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b0bf4abc-f9e5-4394-810e-13310bcef93f",
+  "input": "{\"title\": \"Tangerine (featuring Arlo Parks)\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

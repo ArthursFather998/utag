@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:10.161508+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7b565e0-004d-45fe-a709-514e515c7c1b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "305174e4-1024-4e3d-93dc-71e2722924ca",
+  "input": "{\"title\": \"Orchestra\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

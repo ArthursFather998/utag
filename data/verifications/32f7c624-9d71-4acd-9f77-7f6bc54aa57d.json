@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:29.857869+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2aa7988b-b1fd-43dc-8dcb-feec969871dd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "32f7c624-9d71-4acd-9f77-7f6bc54aa57d",
+  "input": "{\"title\": \"This Is Where We Fall\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:08.532099+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0e3f69e-0590-4c98-b9da-b09f2bd5230a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c233678e-9de0-492d-a977-e76a8aef9696",
+  "input": "{\"title\": \"That's Amor\\u00e9\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Party Music ~~ 20 Hits'",
+  "status": "verified"
+}

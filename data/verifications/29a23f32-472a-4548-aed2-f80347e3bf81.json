@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:48.183282+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d4274ac-f573-4596-91a7-67ac6263b1b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29a23f32-472a-4548-aed2-f80347e3bf81",
+  "input": "{\"title\": \"The Life\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Life'",
+  "status": "verified"
+}

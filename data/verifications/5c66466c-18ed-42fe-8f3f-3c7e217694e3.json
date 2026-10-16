@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:25.934828+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ad0f182-6ef0-4dcc-9429-35498b011fa6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c66466c-18ed-42fe-8f3f-3c7e217694e3",
+  "input": "{\"title\": \"All I Can Say\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'All I Can Say'",
+  "status": "verified"
+}

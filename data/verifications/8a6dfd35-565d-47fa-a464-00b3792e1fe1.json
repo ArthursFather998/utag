@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:11.890903+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2ebaf7f-cf8f-4adf-a034-04fd438de821",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a6dfd35-565d-47fa-a464-00b3792e1fe1",
+  "input": "{\"title\": \"Lounge (skit)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Slim Shady LP'",
+  "status": "verified"
+}

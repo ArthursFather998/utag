@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:23.657458+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "506b2d3e-9d37-4f83-8b35-f95c755d511c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcf173e3-3356-4668-aeaf-d80e7039643f",
+  "input": "{\"title\": \"The Sun Is Shining\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Pious Bird of Good Omen'",
+  "status": "verified"
+}

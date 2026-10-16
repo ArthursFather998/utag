@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:39:18.955409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e053f1c4-e1b0-471c-9f96-5ae0920b5895",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7efdcaf6-da46-47c7-954c-33063fbf9f9c",
+  "input": "{\"title\": \"Disc 2 - Say Goodbye\", \"track_number\": 54}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 54 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:41.499152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0ccd5f2-f66e-4458-b44a-dd2a06e5ac8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95c64c15-0038-4cc9-9e82-38e9b905a4d4",
+  "input": "{\"title\": \"Take Me Away\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Unbreakable'",
+  "status": "verified"
+}

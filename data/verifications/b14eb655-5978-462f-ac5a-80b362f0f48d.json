@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:36.333104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4e32048-6d84-4d1b-b87c-1083829b94a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b14eb655-5978-462f-ac5a-80b362f0f48d",
+  "input": "{\"title\": \"In a Lake\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Nothing's About to Happen to Me'",
+  "status": "verified"
+}

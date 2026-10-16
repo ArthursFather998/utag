@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:28.7868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2aff9995-5c23-4d31-a49d-a24ecbec78be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e72e15d1-8fb2-48bf-9e8b-c46f2f01e995",
+  "input": "{\"title\": \"Bohemian Rhapsody\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'A Night at the Opera'",
+  "status": "verified"
+}

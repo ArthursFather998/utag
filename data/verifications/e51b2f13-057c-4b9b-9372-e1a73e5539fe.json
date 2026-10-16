@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:14.491353+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "874887c0-3d91-4057-8b97-503e0ad48b05",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e51b2f13-057c-4b9b-9372-e1a73e5539fe",
+  "input": "{\"title\": \"Thank God I Found You\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of '#1 to Infinity'",
+  "status": "verified"
+}

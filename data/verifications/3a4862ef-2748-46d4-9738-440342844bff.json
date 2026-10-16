@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:46.553875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e715274d-9c82-4cd2-a39f-42485ee96b84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a4862ef-2748-46d4-9738-440342844bff",
+  "input": "{\"title\": \"City Is Mine\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Room for Improvement'",
+  "status": "verified"
+}

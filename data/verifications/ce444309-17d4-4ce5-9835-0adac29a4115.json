@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:24.623014+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1406eb61-9b2f-4e83-bea8-cce8d265831c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce444309-17d4-4ce5-9835-0adac29a4115",
+  "input": "{\"title\": \"Rent to Pay\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Diamonds'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:45.704891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a25f0779-bc94-498c-94f6-310f1f2af4fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ed2d6b5-6c45-474a-aa15-5c8c7bd36cd9",
+  "input": "{\"title\": \"Hammer to Fall\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Live at Wembley '86'",
+  "status": "verified"
+}

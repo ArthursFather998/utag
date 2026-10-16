@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:11.50792+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b4f212d-72ab-4b9d-9141-5ecc6e89a4d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3af81c9-42a0-435a-af0a-b9474e528063",
+  "input": "{\"title\": \"Machines (or 'Back to Humans')\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Works'",
+  "status": "verified"
+}

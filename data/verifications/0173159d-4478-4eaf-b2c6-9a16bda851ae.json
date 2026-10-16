@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:39.859343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b40dca5a-8e40-42b0-9b2b-deff876bfb4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0173159d-4478-4eaf-b2c6-9a16bda851ae",
+  "input": "{\"title\": \"Friends (feat. Kill Edward)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'KOD'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:44.233487+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38f6e269-7749-48ef-b2b7-f9753315b327",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ba28668e-ec70-45f4-8c17-4a5ba82c169c",
+  "input": "{\"title\": \"The 12\\\" Collection\", \"release_type\": \"album\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

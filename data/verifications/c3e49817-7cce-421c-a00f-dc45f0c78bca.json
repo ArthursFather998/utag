@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:32.286266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a23cb4c1-c585-4962-b20a-5e6292a6f994",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3e49817-7cce-421c-a00f-dc45f0c78bca",
+  "input": "{\"title\": \"Belfast\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Made in England'",
+  "status": "verified"
+}

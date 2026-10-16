@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:03.462527+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aab2bca1-4c30-48d9-b4f4-3c4e80338bef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eaeba60c-1531-476b-98f1-196988013c43",
+  "input": "{\"title\": \"Sugar and Tea\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sugar and Tea'",
+  "status": "verified"
+}

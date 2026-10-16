@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:21:52.359716+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7bfd228-e37f-4f91-bb91-a42224d20bbb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "135b4dfc-1ac7-41bb-acc6-d6ec22daacdd",
+  "input": "{\"title\": \"Sea Fog\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Strangeland (Deluxe Edition)'",
+  "status": "verified"
+}

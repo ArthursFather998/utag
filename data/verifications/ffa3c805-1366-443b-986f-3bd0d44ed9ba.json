@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:53.793696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90b1fdf8-683a-4c74-a0a8-8aa86a6f6239",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ffa3c805-1366-443b-986f-3bd0d44ed9ba",
+  "input": "{\"title\": \"Maps (Demo)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Retrospective EP 2: Sunshine'",
+  "status": "verified"
+}

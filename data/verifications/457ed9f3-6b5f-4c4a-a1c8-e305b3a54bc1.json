@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:27.646723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6b179c8-c000-4f22-bec4-60bef6c57410",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "457ed9f3-6b5f-4c4a-a1c8-e305b3a54bc1",
+  "input": "{\"title\": \"U Don't Know Tec\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Tec (Bonus)'",
+  "status": "verified"
+}

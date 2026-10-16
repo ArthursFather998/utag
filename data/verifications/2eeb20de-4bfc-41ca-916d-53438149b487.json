@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:23.939569+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "361343c5-0c39-455d-b7ee-45e04c798290",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2eeb20de-4bfc-41ca-916d-53438149b487",
+  "input": "{\"title\": \"You Make It Easy\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of '30 Number One Hits'",
+  "status": "verified"
+}

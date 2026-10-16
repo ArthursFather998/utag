@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:41.669989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0365af08-70e0-404a-8d54-a518dfab3e4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8cfa67f-4790-488c-93e6-8ac721607ccb",
+  "input": "{\"title\": \"Amor Prohibido\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Lo Mejor de...Selena'",
+  "status": "verified"
+}

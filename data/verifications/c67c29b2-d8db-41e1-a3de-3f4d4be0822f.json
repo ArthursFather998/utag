@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:07.378617+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39a01a97-e67f-4404-9b9e-2f7267d6aab8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c67c29b2-d8db-41e1-a3de-3f4d4be0822f",
+  "input": "{\"title\": \"Motions\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 21",
+  "status": "verified"
+}

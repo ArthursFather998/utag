@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:56.466156+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "530085b1-323f-4977-9983-c080b7a241d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20f82b7d-251c-41b2-a5c6-f930b8f8b59b",
+  "input": "{\"title\": \"All I Want for Christmas Is You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Merry Christmas: 30th Anniversary Edition'",
+  "status": "verified"
+}

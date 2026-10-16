@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:08.618019+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5fe33d30-ba62-48ba-8c94-41a3b9c08b1a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "543bc1bd-22cb-4687-9376-ba8c932b20c6",
+  "input": "{\"title\": \"The Setup\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Shady XV'",
+  "status": "verified"
+}

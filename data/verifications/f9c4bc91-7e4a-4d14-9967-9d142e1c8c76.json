@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:30.551084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d7da267-2e4e-4d83-859a-28910d89e78f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9c4bc91-7e4a-4d14-9967-9d142e1c8c76",
+  "input": "{\"title\": \"Tell Me When You've Had Enough\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Sanctuary'",
+  "status": "verified"
+}

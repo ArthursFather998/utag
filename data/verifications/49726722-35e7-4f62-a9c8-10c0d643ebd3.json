@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:29.123165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dba7bb05-e94b-4f7c-b9fe-70b6d46032f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49726722-35e7-4f62-a9c8-10c0d643ebd3",
+  "input": "{\"title\": \"Mount Everest\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mount Everest'",
+  "status": "verified"
+}

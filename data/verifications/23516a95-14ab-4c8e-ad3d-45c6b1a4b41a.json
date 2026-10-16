@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:08.404904+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19a3cc4b-7e59-4758-801f-e5d53430c0f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23516a95-14ab-4c8e-ad3d-45c6b1a4b41a",
+  "input": "{\"title\": \"Yellow Raincoat\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Believe Acoustic'",
+  "status": "verified"
+}

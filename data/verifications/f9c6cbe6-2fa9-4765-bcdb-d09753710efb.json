@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:39.903235+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0084b700-3bb7-4be7-91ed-8e35a481aeb9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9c6cbe6-2fa9-4765-bcdb-d09753710efb",
+  "input": "{\"title\": \"Techno Cumbia\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'La Leyenda'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:17.537969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d30fe2e-bf39-495c-8db0-8024b8da9fdb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2a578682-95b7-4097-8ac7-49f5f207cec5",
+  "input": "{\"title\": \"Wolf at the Door\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

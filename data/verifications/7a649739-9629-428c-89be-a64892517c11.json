@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:52.66853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a459b91-a4cf-4f9f-9b3d-58fe0b466b9f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a649739-9629-428c-89be-a64892517c11",
+  "input": "{\"title\": \"This Christmas\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of '8 Days of Christmas'",
+  "status": "verified"
+}

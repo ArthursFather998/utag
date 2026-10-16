@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:25.149443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e3dce77-12dd-4e41-b26b-dbb25761ae39",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "80266b6b-646f-473a-940e-982196ee0450",
+  "input": "{\"title\": \"Red 13\", \"release_type\": \"album\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

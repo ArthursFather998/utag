@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:45.450538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a22bda83-0a83-4040-908c-edc18c491199",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e79ff6d5-7214-4d9e-b918-f5fe0359a4ef",
+  "input": "{\"title\": \"Closing My Eyes\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Then Play On'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:00.827553+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10966410-2524-4460-bcb7-ba9b492d3038",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3bdf25b2-bc07-40f1-bd12-c6b391a8825a",
+  "input": "{\"title\": \"Live in Australia with the Melbourne Symphony Orchestra\", \"release_type\": \"album\", \"release_year\": 1987}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

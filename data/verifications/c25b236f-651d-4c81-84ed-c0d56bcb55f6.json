@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:16.432778+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97b1dbcb-4a43-47f7-b5d3-c365e80f3ced",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c25b236f-651d-4c81-84ed-c0d56bcb55f6",
+  "input": "{\"title\": \"Intro / Dreaming My Dreams\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'MTV Unplugged'",
+  "status": "verified"
+}

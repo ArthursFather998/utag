@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Stephen Sanchez, Em Beihold",
+    "id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Stephen Sanchez, Em Beihold",
+        "id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21"
+      },
+      "artwork": [
+        {
+          "id": "51cca3c8-9e41-450c-8bf5-f7383c4c14aa",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/71/6a/e0716a8a-b806-d313-4ed6-93bb485a65c5/22UMGIM38869.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:30.581556+00:00",
+      "edition": "original",
+      "id": "cfa53c63-518a-477d-8d8e-801bd70b5dcc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Angel Face (Club Deluxe)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T15:13:11.816088+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "c615f59d-6af4-4b63-a4d6-81902ce934fe",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2022,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "Until I Found You (Em Beihold Version)",
+    "updated_at": "2026-10-16T15:13:11.816088+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "24a209fe-e55b-48f9-899e-a9cfe1ea5b21",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T15:13:13.267621+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a57f860b-e784-4a7e-8622-c4c90fb1afe9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "c615f59d-6af4-4b63-a4d6-81902ce934fe",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Until I Found You (Em Beihold Version)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T15:13:13.267621+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T15:13:12.374452+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "c615f59d-6af4-4b63-a4d6-81902ce934fe",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "5f6d483f-b289-4e12-b2d0-d0b49172c352",
+      "input": "{\"title\": \"Until I Found You (Em Beihold Version)\", \"release_type\": \"single\", \"release_year\": 2022}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 18",
+      "status": "verified"
+    }
+  ]
+}

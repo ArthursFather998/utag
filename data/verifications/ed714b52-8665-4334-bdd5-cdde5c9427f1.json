@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:18.718651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0b7bbde-5ef4-4c94-87c7-fa878fb4d7ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed714b52-8665-4334-bdd5-cdde5c9427f1",
+  "input": "{\"title\": \"20 Something\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Ctrl'",
+  "status": "verified"
+}

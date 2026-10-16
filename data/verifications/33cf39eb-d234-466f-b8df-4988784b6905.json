@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:34.884497+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cbe68335-9b2d-4ebb-b9f6-72747247279b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "33cf39eb-d234-466f-b8df-4988784b6905",
+  "input": "{\"title\": \"Sing for the Moment\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Eminem Show'",
+  "status": "verified"
+}

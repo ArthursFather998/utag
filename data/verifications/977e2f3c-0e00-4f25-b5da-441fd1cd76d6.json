@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:45.360948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db840b25-c18a-4b6f-95f6-c39a36d08ff6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "977e2f3c-0e00-4f25-b5da-441fd1cd76d6",
+  "input": "{\"title\": \"Honky Cat\", \"release_type\": \"single\", \"release_year\": 1972}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:00.387323+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2adb50d8-2180-47d6-84de-c527ea4318de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c30b006f-0e6d-4ec6-a93c-14541a43482d",
+  "input": "{\"title\": \"OUTERSPACE\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Life of a Don'",
+  "status": "verified"
+}

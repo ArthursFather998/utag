@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:30.797002+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "856b9e7a-32da-4419-a30a-dc6c26a18263",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0395b9e6-2c73-41ce-9cfb-93cb0df78e2b",
+  "input": "{\"title\": \"Unchained Memory\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Songs for the End'",
+  "status": "verified"
+}

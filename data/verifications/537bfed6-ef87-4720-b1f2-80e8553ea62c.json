@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:06.005213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1805ff9-caf5-4cd4-948d-9ebd41635c67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "537bfed6-ef87-4720-b1f2-80e8553ea62c",
+  "input": "{\"title\": \"Iron Man (First Try)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Other Side of the Moon'",
+  "status": "verified"
+}

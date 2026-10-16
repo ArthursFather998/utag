@@ -21,7 +21,127 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:30:41.197868+00:00",
+      "edition": "original",
+      "id": "124111b7-2876-4ae8-8cb1-dfff08987288",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "dovetail"
+    },
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:31:25.407066+00:00",
+      "edition": "original",
+      "id": "167179ae-0566-4096-aa71-7d63cba4e306",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "let me go"
+    },
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:31:35.4117+00:00",
+      "edition": "original",
+      "id": "194e34cf-6133-49fb-b16c-1625ea955713",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "my dear i've been waiting all night"
+    },
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:31:15.518636+00:00",
+      "edition": "original",
+      "id": "19f13eb1-e976-411d-afc8-1959fdbb2e87",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "i dont wanna fall in love"
+    },
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:31:51.78274+00:00",
+      "edition": "original",
+      "id": "40f9fce3-3a0f-40b4-a552-59d2dce84d8f",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "stay"
+    },
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:31:00.78145+00:00",
+      "edition": "original",
+      "id": "552ddd5e-91f3-487b-97e1-33c919ea8686",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "sick"
+    },
+    {
+      "artists": {
+        "canonical_name": "crayon",
+        "id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:31:43.407018+00:00",
+      "edition": "original",
+      "id": "86c85f0a-bf05-4c8a-85d0-fe0b3c471370",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "bitten fingernails"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba",
@@ -49,7 +169,7 @@
     {
       "apple_id": null,
       "artist_id": "9dc25809-8b84-4ee8-9fd2-8c08f00606ba",
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T06:47:08.810817+00:00",
       "deezer_id": null,
       "disc_number": 1,
@@ -62,7 +182,7 @@
       "status": "needs_review",
       "title": "i know you're sleeping",
       "track_number": null,
-      "updated_at": "2026-10-14T06:47:08.810817+00:00"
+      "updated_at": "2026-10-16T08:22:27.929353+00:00"
     }
   ],
   "verifications": [

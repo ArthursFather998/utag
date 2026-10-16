@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:41.725702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a5191b3-41cf-479a-9ff0-ebc9448ccf0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be9ff3d1-ded3-4edd-9882-f657896d1992",
+  "input": "{\"title\": \"Black Magic Woman\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Vintage Years'",
+  "status": "verified"
+}

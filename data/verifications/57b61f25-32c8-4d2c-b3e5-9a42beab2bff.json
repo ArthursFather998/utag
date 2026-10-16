@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:09.787389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87492c17-c98b-498d-9964-84da21523efd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "57b61f25-32c8-4d2c-b3e5-9a42beab2bff",
+  "input": "{\"title\": \"We Are Here\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

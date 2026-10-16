@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:36.787976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73d7e9fc-cf91-4dfa-86dd-8bda6108dfcc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4078b72-3d71-43fc-aef4-067e4c2aeb87",
+  "input": "{\"title\": \"Complicated\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Rated R + Loud'",
+  "status": "verified"
+}

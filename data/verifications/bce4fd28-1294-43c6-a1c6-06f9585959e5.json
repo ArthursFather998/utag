@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:12.360088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd6038e3-bcf2-4e9a-b818-aa28bc9540b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bce4fd28-1294-43c6-a1c6-06f9585959e5",
+  "input": "{\"title\": \"Gorgeous Nightmare\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Escape the Fate (Deluxe Version)'",
+  "status": "verified"
+}

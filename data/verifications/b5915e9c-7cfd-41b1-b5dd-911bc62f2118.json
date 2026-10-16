@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:16.899593+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d5626dc-fa1c-43f1-a132-d563fc9c829a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5915e9c-7cfd-41b1-b5dd-911bc62f2118",
+  "input": "{\"title\": \"Someday Is Tonight\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Janet Jackson's Rhythm Nation 1814'",
+  "status": "verified"
+}

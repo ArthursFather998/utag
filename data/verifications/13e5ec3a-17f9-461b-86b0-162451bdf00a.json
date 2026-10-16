@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:16.565681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1515e008-ce63-4c84-8e59-7ec18a2305f9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "13e5ec3a-17f9-461b-86b0-162451bdf00a",
+  "input": "{\"title\": \"Girl on Fire\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

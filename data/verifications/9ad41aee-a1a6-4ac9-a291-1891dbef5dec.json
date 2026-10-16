@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:27.020778+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "12d6e170-7313-48da-a261-467e389adab4",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "9ad41aee-a1a6-4ac9-a291-1891dbef5dec",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "The Perfect Pair",
+    "title": "The Perfect Pair"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "The Perfect Pair Wikipedia page: single by Beabadoobee from Beatopia, released 26 September 2022, confirmed on Beatopia's singles list. | sources: https://en.wikipedia.org/wiki/The_Perfect_Pair, https://en.wikipedia.org/wiki/Beatopia",
+  "status": "verified"
+}

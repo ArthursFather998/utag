@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:37.307829+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c379bd4-8b50-458d-8894-8eb8213e6782",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e72ee6f2-3846-4ce9-ae90-d7f406aea46a",
+  "input": "{\"title\": \"Que Se Sepa Nuestro Amor\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Mon Laferte. Amor Completo'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:02.083966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "749f52d4-52d7-4128-97f0-8a84fcaf29d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f259ea20-5949-4559-a61f-f4799c11a40f",
+  "input": "{\"title\": \"Jesus Oh What a Wonderful Child\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Merry Christmas (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

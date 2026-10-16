@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:33.11207+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34ac73c6-6708-45b8-9f83-9cdb11b1d581",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6ba2a4ef-9dd2-4647-8563-614d9ad55f0e",
+  "input": "{\"title\": \"Don't You Forget\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

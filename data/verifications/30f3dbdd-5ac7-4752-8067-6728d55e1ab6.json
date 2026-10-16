@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:23.274102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ed40ffe-9a7a-479c-8fc2-a0439fd421dc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "30f3dbdd-5ac7-4752-8067-6728d55e1ab6",
+  "input": "{\"title\": \"Word to the Mutha!\", \"release_type\": \"single\", \"release_year\": 1991}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

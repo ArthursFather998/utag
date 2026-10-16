@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:16.573397+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a9bc9611-6e51-4779-a078-25ed2ac51d6a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e22dfb76-276e-48a4-bc1d-ff10b62496b5",
+  "input": "{\"title\": \"Never Be Yours\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Never Be Yours'",
+  "status": "verified"
+}

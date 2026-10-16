@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:05.627557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b5467774-2eb0-4967-b71a-de5648b30003",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd600ec6-0954-446f-822c-197031ae5c72",
+  "input": "{\"title\": \"Overture / Never Go Back\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Synthesis Live'",
+  "status": "verified"
+}

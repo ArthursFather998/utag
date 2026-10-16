@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:43.08769+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3058979d-1fbc-4698-880a-73e5a02fd52b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b23d25e9-8fd9-4668-86b1-209168d816a0",
+  "input": "{\"title\": \"Kiss Your Love Goodbye\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'I Remember You'",
+  "status": "verified"
+}

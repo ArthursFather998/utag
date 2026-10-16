@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:20.276652+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "491557ce-fed7-4428-a4eb-4d19ab8d0124",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ffe83c2b-ffa5-47bc-9688-3e78042dfd0f",
+  "input": "{\"title\": \"I Can't Fucking Sing\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Hurry Up Tomorrow'",
+  "status": "verified"
+}

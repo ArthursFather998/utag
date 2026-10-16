@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:26.599046+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cbcde8d4-fd50-4d5e-bf11-88ac60725678",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0ba5251-9dea-4e33-9821-8e212cd8e8e6",
+  "input": "{\"title\": \"Field of Flowers\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Best of the Early Years'",
+  "status": "verified"
+}

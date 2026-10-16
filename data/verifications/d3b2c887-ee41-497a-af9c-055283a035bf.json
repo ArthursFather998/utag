@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:08.714286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d4899ad-71d7-42c2-b40c-b5ec6d0c45a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3b2c887-ee41-497a-af9c-055283a035bf",
+  "input": "{\"title\": \"Question Existing\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Good Girl Gone Bad: Reloaded'",
+  "status": "verified"
+}

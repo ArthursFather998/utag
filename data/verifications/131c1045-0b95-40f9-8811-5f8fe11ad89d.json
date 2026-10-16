@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:00.472607+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52ebc6cd-3740-414b-a189-10b36b12d64b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "131c1045-0b95-40f9-8811-5f8fe11ad89d",
+  "input": "{\"title\": \"No Road Is the Right Road\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Albatross'",
+  "status": "verified"
+}

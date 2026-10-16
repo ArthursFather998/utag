@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:27.45559+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e162c6bc-f354-4a33-b359-60e99d0c18f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c92966d6-5d54-43ea-9581-2a727264453d",
+  "input": "{\"title\": \"Contigo Quiero Estar\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Selena'",
+  "status": "verified"
+}

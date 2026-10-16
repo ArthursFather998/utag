@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:05.47523+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a098eb5-761f-47bb-8f52-ebeb7acf9601",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51e18d93-68b5-4328-b626-26853236bcde",
+  "input": "{\"title\": \"Massacre\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Escape the Fate (Deluxe Version)'",
+  "status": "verified"
+}

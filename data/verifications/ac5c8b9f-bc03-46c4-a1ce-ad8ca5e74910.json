@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:52.207571+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "78dd5a23-fe45-4052-a861-1657bf117f57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac5c8b9f-bc03-46c4-a1ce-ad8ca5e74910",
+  "input": "{\"title\": \"Yo sin tu amor\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'La Chica de Rojo'",
+  "status": "verified"
+}

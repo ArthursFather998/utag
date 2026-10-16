@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:48.839971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "baf2f03b-ce7f-45b6-bdbc-eead45f73ef2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89d95bdf-ea78-4c83-b3f3-e70d860a90ba",
+  "input": "{\"title\": \"A Winter's Tale\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Deep Cuts, Volume 3 (1984-1995)'",
+  "status": "verified"
+}

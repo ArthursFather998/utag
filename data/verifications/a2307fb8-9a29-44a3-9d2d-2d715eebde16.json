@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:57.531815+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9569c75a-891d-488e-aa7d-202c31a8b074",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2307fb8-9a29-44a3-9d2d-2d715eebde16",
+  "input": "{\"title\": \"World in Harmony\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'The Vaudeville Years'",
+  "status": "verified"
+}

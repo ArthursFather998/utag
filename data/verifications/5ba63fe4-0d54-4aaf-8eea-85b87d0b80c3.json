@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:07.383637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62a00eb1-da9a-48db-ac7d-d9bb6aa1e2a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ba63fe4-0d54-4aaf-8eea-85b87d0b80c3",
+  "input": "{\"title\": \"Never Say Goodbye\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Evolution of a Man'",
+  "status": "verified"
+}

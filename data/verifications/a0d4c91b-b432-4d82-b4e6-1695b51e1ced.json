@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:45.553425+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2e7bf2e-c354-4a62-b6dc-824da0d2d8ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0d4c91b-b432-4d82-b4e6-1695b51e1ced",
+  "input": "{\"title\": \"Who TF Iz U\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Who TF Iz U'",
+  "status": "verified"
+}

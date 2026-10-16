@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:46.946238+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5c8000d-121f-4b05-9d33-fcb2dcd9da67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f873efc8-704c-4183-8220-5cf1283766d5",
+  "input": "{\"title\": \"Take My Breath\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Dawn FM (Alternate World)'",
+  "status": "verified"
+}

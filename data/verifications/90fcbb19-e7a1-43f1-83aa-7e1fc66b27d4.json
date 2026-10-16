@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:01.634088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "372db3fb-48b0-46ea-af2a-8849f05ee9e3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "90fcbb19-e7a1-43f1-83aa-7e1fc66b27d4",
+  "input": "{\"title\": \"Without You\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

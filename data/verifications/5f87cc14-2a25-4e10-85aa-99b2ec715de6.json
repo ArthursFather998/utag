@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:13.930319+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc73ce88-2802-4c60-b496-c46709c25182",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f87cc14-2a25-4e10-85aa-99b2ec715de6",
+  "input": "{\"title\": \"Wherever I Go\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Larger Than Life'",
+  "status": "verified"
+}

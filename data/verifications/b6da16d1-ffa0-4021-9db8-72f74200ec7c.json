@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:36:24.721632+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d188067d-a0c5-42cf-8d79-e1747503f4b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6da16d1-ffa0-4021-9db8-72f74200ec7c",
+  "input": "{\"title\": \"It's Just About That Time\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Girl Talk with Bonus Tracks'",
+  "status": "verified"
+}

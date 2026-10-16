@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:43.665162+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=correct conf=medium -> no write",
+    "verdict": "correct"
+  },
+  "entity_id": "94eb8556-1c17-4c1b-9153-ed29ffa89be5",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "medium"
+  },
+  "id": "ca199e01-066b-4000-9a2c-fd0a91ef8fd2",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Happier Than Ever: Acapellas",
+    "title": "Male Fantasy"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "'Happier Than Ever: Acapellas' is a fan compilation (Last.fm album entry) built from the Aug 2, 2021 leak of the album's acapella/instrumental/backing tracks; not an official release, but 'Male Fantasy' is the album's closing track so inclusion is plausible.",
+  "status": "needs_review"
+}

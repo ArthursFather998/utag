@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:41.197816+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "release->I Just Got Mad"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "db203568-594c-4d96-8130-a28b5cc71f6e",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "16eb59fe-52b6-4a85-aa14-c8585e2d34c7",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "I Just Got Mad",
+    "title": "I Just Got Mad"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Real Malcolm Todd song, but a stand-alone single released July 9, 2026 via Columbia (post-Do That Again), not an album; release row should be type single, year 2026. | sources: http://themusicuniverse.com/malcolm-todd-shares-i-just-got-mad/, https://ftp.antimusic.com/p/26/p0709watch_malcolm_todds_i_just_got_mad_visualizer.shtml",
+  "status": "verified"
+}

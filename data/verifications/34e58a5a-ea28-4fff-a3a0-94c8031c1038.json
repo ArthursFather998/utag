@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:28.430707+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd92b5b9-b340-40a5-828a-96284ee7563b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34e58a5a-ea28-4fff-a3a0-94c8031c1038",
+  "input": "{\"title\": \"Lead the Way\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lead the Way'",
+  "status": "verified"
+}

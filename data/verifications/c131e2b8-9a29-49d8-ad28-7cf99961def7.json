@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:29.252715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd00b64a-87c2-4154-be00-fe9217fa0a68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c131e2b8-9a29-49d8-ad28-7cf99961def7",
+  "input": "{\"title\": \"Someday\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Mariah Carey'",
+  "status": "verified"
+}

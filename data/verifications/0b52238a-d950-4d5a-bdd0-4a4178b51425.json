@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:26.004322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bca0511e-8abe-4e24-a5a6-ec34e9b9d497",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0b52238a-d950-4d5a-bdd0-4a4178b51425",
+  "input": "{\"title\": \"Lost\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

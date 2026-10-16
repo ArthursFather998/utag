@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:16.321735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a960d8ff-0965-4d1a-9a4b-adc68046deb0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44fa80d5-cea0-4bbf-8645-419bc225d446",
+  "input": "{\"title\": \"House on the Hill\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Prelude'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:51.00512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c25a8ae4-5b31-4371-9ef1-31f799c9fc9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50903a08-9180-44ca-b8c6-c4cb9ead2677",
+  "input": "{\"title\": \"Say You Love Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rumours Live'",
+  "status": "verified"
+}

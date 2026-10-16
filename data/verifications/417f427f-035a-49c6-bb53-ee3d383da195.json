@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:03.663499+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fb0456f-de03-46b4-a471-eda97a687c47",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "417f427f-035a-49c6-bb53-ee3d383da195",
+  "input": "{\"title\": \"Where Do We Go From Here?\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: AlbumOfTheYear categorizes it as a mixtape; all other sources list it as an EP. [release_date: 2023-07-14]",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:14.957849+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d25c3d8-204c-4e36-8325-895d4dacb19c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6c083e9-ca3a-4956-9ee5-e1f9036f6951",
+  "input": "{\"title\": \"Rama Caida\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Muñequito de Trapo'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:33.655974+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a51ba51f-30d7-4a57-8583-43dc909ba3e7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0e05dd47-7219-4c1e-b7e6-bd7c6c2a844a",
+  "input": "{\"title\": \"Greatest Hits\", \"release_type\": \"album\", \"release_year\": 1981}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

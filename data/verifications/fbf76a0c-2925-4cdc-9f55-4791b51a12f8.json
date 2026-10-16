@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:15.318186+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae9a6e2e-f2e7-4a82-9ebb-ace01af271db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbf76a0c-2925-4cdc-9f55-4791b51a12f8",
+  "input": "{\"title\": \"Attention\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Scarlet'",
+  "status": "verified"
+}

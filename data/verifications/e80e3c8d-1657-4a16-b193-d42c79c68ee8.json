@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:59.083451+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79910da2-5f58-4e46-8b29-634993c5306d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e80e3c8d-1657-4a16-b193-d42c79c68ee8",
+  "input": "{\"title\": \"Forgive Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Sound Asleep'",
+  "status": "verified"
+}

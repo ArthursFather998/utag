@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:09.439622+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc48d46d-3f17-4d1e-8e45-caa9865cf5ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23a7f9f4-003f-4cd4-b7f1-80609cd93932",
+  "input": "{\"title\": \"Look After You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Through the Years: The Best of the Fray'",
+  "status": "verified"
+}

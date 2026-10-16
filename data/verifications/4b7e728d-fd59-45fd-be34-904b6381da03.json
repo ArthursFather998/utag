@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:05.00522+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85e9c3ec-7f62-4a07-8159-dbcf811ada6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b7e728d-fd59-45fd-be34-904b6381da03",
+  "input": "{\"title\": \"Waiting on the Right Time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Waiting on the Right Time'",
+  "status": "verified"
+}

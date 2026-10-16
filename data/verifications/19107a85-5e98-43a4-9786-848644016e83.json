@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:46.699624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7001ca5c-4459-4237-a47a-97a250f38c29",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19107a85-5e98-43a4-9786-848644016e83",
+  "input": "{\"title\": \"LA to London (featuring Gab3)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Everybody's Everything'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:27.595082+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5bd63b2-2e12-489d-a62b-796f8fe498a5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "da2809f1-f643-43d6-8faa-4e5d94a935d6",
+  "input": "{\"title\": \"Save Rock and Roll\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

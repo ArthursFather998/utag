@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:05.752434+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8471ad9-a839-4873-a6f0-e3c41a330f94",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb164731-6196-47d1-8a9f-78f31c41d487",
+  "input": "{\"title\": \"Strawberry Street\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Grace (Legacy Edition)'",
+  "status": "verified"
+}

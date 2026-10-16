@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:20.318449+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f76e932d-6463-49e9-b884-f30b3c9feb6b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3c6a9d53-91d1-49fd-8248-b28a553f534d",
+  "input": "{\"title\": \"Classic Queen\", \"release_type\": \"album\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

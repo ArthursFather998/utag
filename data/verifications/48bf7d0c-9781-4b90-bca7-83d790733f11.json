@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:44.520683+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42c370cd-1fa1-4eb7-b43e-b6b41ffefcdd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48bf7d0c-9781-4b90-bca7-83d790733f11",
+  "input": "{\"title\": \"Throb\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'janet.'",
+  "status": "verified"
+}

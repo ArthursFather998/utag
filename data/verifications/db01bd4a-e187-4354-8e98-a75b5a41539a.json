@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:09:00.922218+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2085d3a5-e605-498c-9333-3e84b1320699",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db01bd4a-e187-4354-8e98-a75b5a41539a",
+  "input": "{\"title\": \"Sky Is Falling\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Hurry Up Tomorrow (Original Motion Picture Score)'",
+  "status": "verified"
+}

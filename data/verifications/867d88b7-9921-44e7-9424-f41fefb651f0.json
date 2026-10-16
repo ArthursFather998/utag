@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:38.580444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70f06b3f-276c-4fd0-9261-04bc6b4d4976",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "867d88b7-9921-44e7-9424-f41fefb651f0",
+  "input": "{\"title\": \"Philadelphia Freedom\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Elton John's Greatest Hits Volume II'",
+  "status": "verified"
+}

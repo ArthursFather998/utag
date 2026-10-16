@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:08.795764+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98a313f5-1094-4cb7-af41-c22861f60b3d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e681ab6-2d81-4096-84be-e06955edd4d3",
+  "input": "{\"title\": \"Cry.\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Me. I Am Mariah... The Elusive Chanteuse (Deluxe Edition)'",
+  "status": "verified"
+}

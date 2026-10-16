@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:43.524243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cee4ab6e-ec45-4a8a-b67b-be866350450c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4dcabc20-3819-4579-aec9-91ecdaa8713a",
+  "input": "{\"title\": \"La Trenza\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

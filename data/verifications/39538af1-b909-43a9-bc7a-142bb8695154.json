@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:00.488961+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e40aae0-e520-4bdd-ba9c-8ed10f70b6bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39538af1-b909-43a9-bc7a-142bb8695154",
+  "input": "{\"title\": \"Ask the Lonely\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Essential Journey'",
+  "status": "verified"
+}

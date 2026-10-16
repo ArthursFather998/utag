@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:41.836415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "102ec2ea-3e89-4434-8c1f-d9aebac6a691",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c329b68-cf0a-415c-8583-6978fc615e52",
+  "input": "{\"title\": \"A Million to One\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Siempre Selena'",
+  "status": "verified"
+}

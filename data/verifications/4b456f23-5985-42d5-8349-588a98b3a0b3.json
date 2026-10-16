@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:23.254892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8750c03-02cf-4440-b703-26860b2f57ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b456f23-5985-42d5-8349-588a98b3a0b3",
+  "input": "{\"title\": \"What's This Life For\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'With Arms Wide Open: A Retrospective'",
+  "status": "verified"
+}

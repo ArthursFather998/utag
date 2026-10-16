@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:39.742649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d48553e1-7c6a-4226-a9cb-355c94200bfa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "328b4235-ca1c-4127-9dec-7f91da2bc142",
+  "input": "{\"title\": \"Vintage Years\", \"release_type\": \"album\", \"release_year\": 1975}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

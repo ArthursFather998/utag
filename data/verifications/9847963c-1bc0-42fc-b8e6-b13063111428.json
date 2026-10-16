@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:19.627236+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a1a7e25-efa2-4bbd-be88-d6a69f2d38b6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9847963c-1bc0-42fc-b8e6-b13063111428",
+  "input": "{\"title\": \"Live Killers\", \"release_type\": \"album\", \"release_year\": 1979}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

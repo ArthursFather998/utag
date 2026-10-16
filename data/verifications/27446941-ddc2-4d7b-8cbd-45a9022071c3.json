@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:51.855024+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e2c266b-e0e5-4452-9c24-aca607555b47",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27446941-ddc2-4d7b-8cbd-45a9022071c3",
+  "input": "{\"title\": \"Paranoia\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Last Goodbye'",
+  "status": "verified"
+}

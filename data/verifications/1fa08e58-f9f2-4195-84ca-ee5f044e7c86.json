@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:08.786716+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3795b245-dd75-4f7b-8c3c-23f6550424f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1fa08e58-f9f2-4195-84ca-ee5f044e7c86",
+  "input": "{\"title\": \"Where Were You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Departure'",
+  "status": "verified"
+}

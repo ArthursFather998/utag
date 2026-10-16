@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:48.121333+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8aa4c9f-8dbd-4ee3-9b7b-a7a77365737d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6726598b-d189-4bf2-8b3d-ebc74aabd262",
+  "input": "{\"title\": \"Ancient Names (Part I)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Vide Noir'",
+  "status": "verified"
+}

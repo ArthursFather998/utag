@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:24.868643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fb3f46f-6d95-40fc-a585-7e0e1d293a61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52dcf343-b676-4a3d-915a-2da15f620534",
+  "input": "{\"title\": \"Blue Tint\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Scorpion'",
+  "status": "verified"
+}

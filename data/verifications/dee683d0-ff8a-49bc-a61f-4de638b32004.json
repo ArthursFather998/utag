@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:15.729412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2734e998-469b-4da6-8911-ee381316bdd0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dee683d0-ff8a-49bc-a61f-4de638b32004",
+  "input": "{\"title\": \"Your Eyes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Your Eyes'",
+  "status": "verified"
+}

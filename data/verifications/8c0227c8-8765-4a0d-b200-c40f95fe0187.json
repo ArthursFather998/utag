@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:56.986717+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd3722df-8cd8-42d5-865b-b15e80239007",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c0227c8-8765-4a0d-b200-c40f95fe0187",
+  "input": "{\"title\": \"Little White Lies\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Midnight Memories (The Ultimate Edition)'",
+  "status": "verified"
+}

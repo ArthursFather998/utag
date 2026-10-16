@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:15.995612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c81fd5e3-d21a-49a4-869b-2f0988b79fd3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3955b9ec-dda9-4453-bcca-ae4d0c2a11be",
+  "input": "{\"title\": \"I.\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

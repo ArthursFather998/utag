@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:21.868711+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28ca9b58-568b-42c9-b539-34c413917dc7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36dc9c3e-cea2-4492-893c-5e4af6da42c8",
+  "input": "{\"title\": \"Como La Flor\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live! The Last Concert'",
+  "status": "verified"
+}

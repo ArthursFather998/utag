@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:58.411217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "579e65f2-d3d6-42c1-bc69-10cc6dad9606",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "035872cc-30ee-44ae-b822-b453c2e3aaa0",
+  "input": "{\"title\": \"Mama, You Been On My Mind\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Jeff Buckley Collection'",
+  "status": "verified"
+}

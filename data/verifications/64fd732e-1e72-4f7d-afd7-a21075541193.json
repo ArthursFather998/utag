@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:31.691693+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67f2b9ce-ae60-4fd3-85ce-5084c02521d3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "64fd732e-1e72-4f7d-afd7-a21075541193",
+  "input": "{\"title\": \"Time Travel Undone\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

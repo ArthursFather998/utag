@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:15.304645+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11f5fe3e-6bef-4021-a7fd-ba2f254e4f7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0da2356-9119-4e3b-821a-2e79f85f1f29",
+  "input": "{\"title\": \"The Roof (When I Feel the Need)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Butterfly: 25th Anniversary Expanded Edition'",
+  "status": "verified"
+}

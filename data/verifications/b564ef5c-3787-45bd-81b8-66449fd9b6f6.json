@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:26.586006+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60f36eff-3181-4f1d-bc69-437547239721",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b564ef5c-3787-45bd-81b8-66449fd9b6f6",
+  "input": "{\"title\": \"Keep Yourself Alive (Live at the Rainbow)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

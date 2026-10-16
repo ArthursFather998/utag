@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:02.924884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0035643e-5760-4b4f-b5a6-eb515f2576dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2b03b13-548f-4993-b64f-13a530beea95",
+  "input": "{\"title\": \"Higher and Higher\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Canvas Can Do Miracles'",
+  "status": "verified"
+}

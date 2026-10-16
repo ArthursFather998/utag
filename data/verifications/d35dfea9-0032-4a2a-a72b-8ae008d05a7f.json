@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:46.874077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73b3cf62-7e52-4dee-9b97-070c51c082f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d35dfea9-0032-4a2a-a72b-8ae008d05a7f",
+  "input": "{\"title\": \"A Moment of Silence\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wiped Out!'",
+  "status": "verified"
+}

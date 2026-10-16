@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:02.947779+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ce9ac71-c2e5-4fa8-9ace-23202c29ad3d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ef186ae-d790-4983-8a4e-bf6b1fff849e",
+  "input": "{\"title\": \"Delilah\", \"track_number\": 66}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 66 of 'Treasure Box – The Complete Sessions 1991–1999'",
+  "status": "verified"
+}

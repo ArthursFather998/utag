@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:59.324992+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f859f94-aa27-4c38-ad74-f75cd36e36f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a34076ec-48d8-4bd4-96ab-67ad970eae76",
+  "input": "{\"title\": \"She Don't Like the Lights (Acoustic Version)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Believe Acoustic'",
+  "status": "verified"
+}

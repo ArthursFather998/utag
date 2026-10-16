@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:34.654011+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df972083-1d41-45b8-a1b6-a333dbae19e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57398b89-4b77-464c-b125-7b06a29cc5a9",
+  "input": "{\"title\": \"Can't Get Right\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Baby Makin' Project'",
+  "status": "verified"
+}

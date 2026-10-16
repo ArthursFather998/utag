@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:18.114897+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75c3319d-fc0f-4281-bf3a-d85b29cd12a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b82aa106-a954-424b-be95-8ff60a76e6ab",
+  "input": "{\"title\": \"Lovebomb\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lovebomb'",
+  "status": "verified"
+}

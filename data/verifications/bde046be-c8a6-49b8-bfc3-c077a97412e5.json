@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:28.327381+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fc77bc1-0bfc-4704-9c5d-5a8c9be7417a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bde046be-c8a6-49b8-bfc3-c077a97412e5",
+  "input": "{\"title\": \"Moving Day\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: [release_date: 2025-02-26]",
+  "status": "verified"
+}

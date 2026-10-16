@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:53.819315+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c9f9946-6fab-4600-9afc-5549d7b73b1e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eef6cfb2-94fb-4bc1-a360-b1be00a19802",
+  "input": "{\"title\": \"Let's Kill Tonight (Live)\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'All My Friends We're Glorious: Death of a Bachelor Tour Live'",
+  "status": "verified"
+}

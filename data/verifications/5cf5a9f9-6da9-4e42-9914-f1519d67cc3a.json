@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:31.669185+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54d601af-dbd5-4f1e-93b5-ed20d2976884",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cf5a9f9-6da9-4e42-9914-f1519d67cc3a",
+  "input": "{\"title\": \"Suck My Blood\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Teen Romance'",
+  "status": "verified"
+}

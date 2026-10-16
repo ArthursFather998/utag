@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:28.201179+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eafc404e-de05-430a-a0e9-0e569f1ef475",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d847c31-9557-449a-b974-992af7e62f4a",
+  "input": "{\"title\": \"Interlude - Twisted Elegance\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Velvet Rope'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:54.326514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e7d9435-950b-4f27-bc9e-213e4d179824",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f0b65e1-4c2b-4214-b33c-cd9643be5387",
+  "input": "{\"title\": \"G4L\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Rated R + Loud'",
+  "status": "verified"
+}

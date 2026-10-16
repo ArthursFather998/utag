@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:41.293162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eaafd895-79f8-4382-b076-b87aaaaf15d6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8c051e7f-3350-45dd-82ae-324c9447ce44",
+  "input": "{\"title\": \"BBD\", \"release_type\": \"album\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

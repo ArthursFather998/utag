@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:22.248504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e64ab0d-59a1-4f4e-bb83-7db6ce88fa0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37363c02-5997-4099-839a-1968d3b7fa17",
+  "input": "{\"title\": \"Never Say Never\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Fray'",
+  "status": "verified"
+}

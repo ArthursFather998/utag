@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:48.903214+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab38d1a7-0a3e-4503-929c-ae05c06d8f91",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ce266c82-aaf9-4406-aa11-d015ab1a31c4",
+  "input": "{\"title\": \"Somebody That I Used to Know\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:50.176844+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a07b199-c14b-445c-8c45-26efb05bd6ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6d66fa9-5e07-47d1-b8a3-156f3c5f4ecc",
+  "input": "{\"title\": \"Come a Little Bit Closer\", \"track_number\": 69}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 69 of '25 Years – The Chain'",
+  "status": "verified"
+}

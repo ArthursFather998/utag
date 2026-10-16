@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:33.527364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf6397f5-0fb6-4911-86ff-3c826c8eb37f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c03937c0-9d9c-41f2-a8bc-6a65aebf359a",
+  "input": "{\"title\": \"Breathe Your Name (Top Ten Edit)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Top Ten'",
+  "status": "verified"
+}

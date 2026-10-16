@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:46.502629+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1dfbded-05e1-4c0b-a169-5ac2c2adae9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0dcc7e2-d18e-43cf-8604-9685f2dd4720",
+  "input": "{\"title\": \"Why\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Remembering Dolores'",
+  "status": "verified"
+}

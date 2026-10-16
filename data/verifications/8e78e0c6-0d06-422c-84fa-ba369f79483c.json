@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:49.586555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83cb0ed6-5d48-4fb9-89b9-e112d8701e4b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8e78e0c6-0d06-422c-84fa-ba369f79483c",
+  "input": "{\"title\": \"Back Up\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:52.477359+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f03c25c-f376-4fa6-b308-65157f77c45e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "18913a93-5156-4169-953e-af2f5db7d540",
+  "input": "{\"title\": \"galatea\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

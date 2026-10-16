@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:58.765005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed4dfafe-8ddc-48ce-8e89-14116165f7f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49af108d-4e14-4613-a5cd-529e2e0a7498",
+  "input": "{\"title\": \"Costumbres\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Dulce Amor'",
+  "status": "verified"
+}

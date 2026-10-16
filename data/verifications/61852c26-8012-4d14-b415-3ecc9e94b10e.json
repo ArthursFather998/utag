@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:14.166922+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f719c3c-b65f-440d-8eba-8989f637c5ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "61852c26-8012-4d14-b415-3ecc9e94b10e",
+  "input": "{\"title\": \"Love Me By Name\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Ever Since (Deluxe Edition)'",
+  "status": "verified"
+}

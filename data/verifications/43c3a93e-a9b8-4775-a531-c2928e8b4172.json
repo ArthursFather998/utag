@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:35.42855+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9309395-477e-4c8c-a45d-b54f8c2ce725",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43c3a93e-a9b8-4775-a531-c2928e8b4172",
+  "input": "{\"title\": \"Hello You\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Car'",
+  "status": "verified"
+}

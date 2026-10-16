@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:42.761278+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fef62e9c-98c6-4a19-a143-b46a6fa7d487",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce3586c1-34b2-40f3-964e-31664f18b2dc",
+  "input": "{\"title\": \"Broken\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Far From Close'",
+  "status": "verified"
+}

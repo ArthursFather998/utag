@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:13.37468+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31f199e2-244a-4417-b2d2-36e5b4e72802",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "788f01ad-436a-4d73-ba64-3bcbcf1bd8f1",
+  "input": "{\"title\": \"You Right (Extended)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Planet Her (Deluxe)'",
+  "status": "verified"
+}

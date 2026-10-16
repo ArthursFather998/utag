@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:36.039941+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "991c5880-276d-4899-a062-ee0932aa1fc8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ea1ad04-3fee-4054-af5b-1fd39f534d1a",
+  "input": "{\"title\": \"Amado M\\u00edo\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Amado Mío'",
+  "status": "verified"
+}

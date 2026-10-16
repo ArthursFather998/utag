@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:12.671952+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d14f33c2-4113-4203-b5a1-2ddbe9b8847f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41cf37a1-a584-4d5c-962e-421d5ef94c1f",
+  "input": "{\"title\": \"Try Sleeping with a Broken Heart\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Try Sleeping with a Broken Heart'",
+  "status": "verified"
+}

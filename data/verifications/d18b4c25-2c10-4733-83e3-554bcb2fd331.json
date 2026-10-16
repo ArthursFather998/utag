@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:25.795781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9592f339-fa76-4594-bb0d-e0ddc8e36bd1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d18b4c25-2c10-4733-83e3-554bcb2fd331",
+  "input": "{\"title\": \"Bicycle Race\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live Killers'",
+  "status": "verified"
+}

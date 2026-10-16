@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:52.662178+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f8b919c-bd21-41e5-bf17-72d9c4d49e82",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "768f873d-68e2-4643-a311-7204b7ab54eb",
+  "input": "{\"title\": \"Thoughtless\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Anywhere but Home'",
+  "status": "verified"
+}

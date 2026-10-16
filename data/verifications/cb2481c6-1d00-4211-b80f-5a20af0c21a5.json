@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:09.129093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07b46a48-c385-451a-a2df-44e686f75d46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb2481c6-1d00-4211-b80f-5a20af0c21a5",
+  "input": "{\"title\": \"Bad Guy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Marshall Mathers LP 2 (Deluxe)'",
+  "status": "verified"
+}

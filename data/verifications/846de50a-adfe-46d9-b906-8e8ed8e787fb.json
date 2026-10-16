@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:03.307807+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ee6c188-c200-4db2-a639-d50284169a5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "846de50a-adfe-46d9-b906-8e8ed8e787fb",
+  "input": "{\"title\": \"The Woman That I Love\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

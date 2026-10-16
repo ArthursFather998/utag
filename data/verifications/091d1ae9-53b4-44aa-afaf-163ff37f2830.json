@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:25.873417+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6529c15-3267-4af9-944e-cae8db587d58",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "091d1ae9-53b4-44aa-afaf-163ff37f2830",
+  "input": "{\"title\": \"Thanos (Blow It)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Nasarati'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:00.964386+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c7c3351-159e-42eb-af3e-a496d57c8a29",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "49d753b5-0e28-4ce6-86ca-9cc58aa2d3c5",
+  "input": "{\"title\": \"Romeo's Regrets\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

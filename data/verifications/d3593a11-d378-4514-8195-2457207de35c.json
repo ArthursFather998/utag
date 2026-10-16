@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:44.358985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4243883d-1c2c-47ca-a619-24d8d5cf73e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3593a11-d378-4514-8195-2457207de35c",
+  "input": "{\"title\": \"Stop Messin' Round\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Albatross'",
+  "status": "verified"
+}

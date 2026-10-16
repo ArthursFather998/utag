@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:51.881656+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1cb9f5d6-af24-48ac-9bac-127eebb999ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4182a1f-1baf-4790-bf77-68f3adf5f4b5",
+  "input": "{\"title\": \"Quiero\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of '16 Super Éxitos Originales'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:20.277563+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e1617962-32d1-4340-972d-b6e988e0acc6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "106b2ede-9328-4bb9-8eb6-b2b75f677722",
+  "input": "{\"title\": \"Mojo Pin (Chocolate Intro)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live on KCRW: Morning Becomes Eclectic'",
+  "status": "verified"
+}

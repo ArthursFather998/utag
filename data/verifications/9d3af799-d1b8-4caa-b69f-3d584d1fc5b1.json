@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:22.962368+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a65680c7-58fc-4b01-b8f3-e5b35db71f5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d3af799-d1b8-4caa-b69f-3d584d1fc5b1",
+  "input": "{\"title\": \"Pay Day\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Drunken Babble'",
+  "status": "verified"
+}

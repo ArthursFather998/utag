@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:01.163225+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9dff260b-cdb4-494f-ad62-6f474f872f04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5c9a616-e679-4add-8378-8915cd5c8201",
+  "input": "{\"title\": \"Show & Tell\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'K-12'",
+  "status": "verified"
+}

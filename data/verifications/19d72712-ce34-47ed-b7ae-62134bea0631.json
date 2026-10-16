@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:47.151355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2139be22-20c8-4f96-b8b3-4632826ca77d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19d72712-ce34-47ed-b7ae-62134bea0631",
+  "input": "{\"title\": \"Is It The Beat\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Forever Selena'",
+  "status": "verified"
+}

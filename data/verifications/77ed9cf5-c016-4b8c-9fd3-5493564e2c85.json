@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:30.090633+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e19b1e0-d882-4313-a9c0-12955bbf905a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "77ed9cf5-c016-4b8c-9fd3-5493564e2c85",
+  "input": "{\"title\": \"Hi-Lo (featuring Lindsey Stirling)\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

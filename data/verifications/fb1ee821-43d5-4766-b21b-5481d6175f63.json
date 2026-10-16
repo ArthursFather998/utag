@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:26.464689+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d63e7472-0cce-410d-8564-f8b9d3922962",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fb1ee821-43d5-4766-b21b-5481d6175f63",
+  "input": "{\"title\": \"Lead the Way\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

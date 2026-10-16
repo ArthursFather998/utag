@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:55.334084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8dfc19db-96eb-467e-bb69-a456c61d77f8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "80d0aa2b-fd3f-4b6e-a7bb-71098f61b1d4",
+  "input": "{\"title\": \"All Star\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

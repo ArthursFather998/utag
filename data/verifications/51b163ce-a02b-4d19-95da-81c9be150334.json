@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:44.567376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22fd6067-5790-44cb-acd4-63950fd19468",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51b163ce-a02b-4d19-95da-81c9be150334",
+  "input": "{\"title\": \"Nothing in My Way\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Nothing in My Way'",
+  "status": "verified"
+}

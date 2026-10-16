@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:09.506244+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da2fb71c-2f55-452a-848c-8869159fc601",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5f2b7e7b-87b8-44f5-9340-6ba4aacd9508",
+  "input": "{\"title\": \"Love Takes Time\", \"release_type\": \"single\", \"release_year\": 1990}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

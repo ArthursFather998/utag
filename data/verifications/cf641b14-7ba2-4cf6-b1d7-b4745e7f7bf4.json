@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:28.491168+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e46ee850-2ad6-45ca-a3c2-180b3ed6a7e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf641b14-7ba2-4cf6-b1d7-b4745e7f7bf4",
+  "input": "{\"title\": \"Football Fight\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Flash Gordon'",
+  "status": "verified"
+}

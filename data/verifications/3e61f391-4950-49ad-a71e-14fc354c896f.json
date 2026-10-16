@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:40.601673+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "18c49ead-2425-4f0c-b54a-e11818cbc2d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e61f391-4950-49ad-a71e-14fc354c896f",
+  "input": "{\"title\": \"Sing for the Moment (instrumental)\", \"track_number\": 35}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 35 of 'The Eminem Show (Expanded Edition)'",
+  "status": "verified"
+}

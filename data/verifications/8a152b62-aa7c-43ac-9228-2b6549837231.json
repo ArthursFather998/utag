@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:05.274189+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2847273e-64fc-4d91-9076-61b3d0762fb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a152b62-aa7c-43ac-9228-2b6549837231",
+  "input": "{\"title\": \"Oh Well (Part 1)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Man of the World'",
+  "status": "verified"
+}

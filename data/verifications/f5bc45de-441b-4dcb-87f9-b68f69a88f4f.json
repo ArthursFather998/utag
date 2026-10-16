@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:00.276296+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33c552e4-2c1b-4031-b1e6-6a6684c8bc12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5bc45de-441b-4dcb-87f9-b68f69a88f4f",
+  "input": "{\"title\": \"Automatic Eyes (Suave Suarez Remix) - The Academy Is... (featuring Tyga)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Welcome to the New Administration'",
+  "status": "verified"
+}

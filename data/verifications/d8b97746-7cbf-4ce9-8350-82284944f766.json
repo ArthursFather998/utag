@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:46.551791+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2c78621-b45b-462d-9b92-41a85da8ce37",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8b97746-7cbf-4ce9-8350-82284944f766",
+  "input": "{\"title\": \"Island Girl\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Rock of the Westies'",
+  "status": "verified"
+}

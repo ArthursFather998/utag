@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:14.512863+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7cb7cb3d-182f-4daf-b83e-e782ae2aef93",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bb8aebf-4302-4cb7-be7d-4a3367d5ef25",
+  "input": "{\"title\": \"You're the Storm\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Long Gone Before Daylight (Remastered)'",
+  "status": "verified"
+}

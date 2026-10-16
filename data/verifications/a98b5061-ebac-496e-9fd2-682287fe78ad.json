@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:43.255247+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f87523c-30d7-48df-ad7c-bf224a2bd153",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a98b5061-ebac-496e-9fd2-682287fe78ad",
+  "input": "{\"title\": \"Can't Stop Won't Stop\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

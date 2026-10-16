@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:47.737742+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d7894910-99c7-411b-99b4-93bec51bf089",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b61f7a95-f2d6-464b-9c56-441ef106a7e9",
+  "input": "{\"title\": \"The Grace EPs\", \"release_type\": \"album\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

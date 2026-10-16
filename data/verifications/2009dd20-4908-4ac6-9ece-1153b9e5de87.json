@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:45.587656+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb3dd440-e9ea-4d9a-afdc-dda8778e118e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2009dd20-4908-4ac6-9ece-1153b9e5de87",
+  "input": "{\"title\": \"Falling Up (Guitar Acoustic)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Falling Up (Acoustics)'",
+  "status": "verified"
+}

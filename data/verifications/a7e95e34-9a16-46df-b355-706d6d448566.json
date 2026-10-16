@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:19.594735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b9859e2-a082-42ff-bfd6-1123c3d40ba2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7e95e34-9a16-46df-b355-706d6d448566",
+  "input": "{\"title\": \"Sweet Heat Lightning\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Appaloosa Bones'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:13.544385+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f6da028-7594-4074-a507-4b22bb7ff3e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f846a7c-4540-4e1e-9644-86dc891d2973",
+  "input": "{\"title\": \"Valentine (Lofi Version)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Laufey Lofi Collection'",
+  "status": "verified"
+}

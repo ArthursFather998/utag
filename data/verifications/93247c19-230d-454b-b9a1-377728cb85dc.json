@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:14.644162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b8b6dbe-5073-42d3-b67d-5b1246ecd1c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93247c19-230d-454b-b9a1-377728cb85dc",
+  "input": "{\"title\": \"Rollerblades\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rollerblades'",
+  "status": "verified"
+}

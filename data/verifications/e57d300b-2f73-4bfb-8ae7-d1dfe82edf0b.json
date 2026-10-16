@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:23.088617+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "release->Comfort Me"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "2cb8b5e9-74f8-4d93-82d3-7d8112106de8",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "e57d300b-2f73-4bfb-8ae7-d1dfe82edf0b",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Comfort Me",
+    "title": "Comfort Me"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Real Malcolm Todd song, but a stand-alone single released Nov 1, 2024 via Columbia — not an album; release row should be type single. | sources: https://shorefire.com/releases/entry/malcolm-todd-releases-new-single-comfort-me-out-now, https://en.wikipedia.org/wiki/Malcolm_Todd_discography",
+  "status": "verified"
+}

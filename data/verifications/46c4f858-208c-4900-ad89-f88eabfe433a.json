@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:40.56096+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9fc8504-4595-4e7e-b7ea-3f6113aa01d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "46c4f858-208c-4900-ad89-f88eabfe433a",
+  "input": "{\"title\": \"Seasons of Us\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'A Jagged Love Story'",
+  "status": "verified"
+}

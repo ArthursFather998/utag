@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:36.51411+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60f13dbf-1c3d-4a01-b208-a57b0ba337df",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ed687ccb-3bae-4273-b16b-f19f4a087ded",
+  "input": "{\"title\": \"Ungrateful\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:03.62011+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a20647bc-9b88-470f-9549-71fcc2b8b8ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cdce45b6-72f3-4e01-895a-382a1f3d6ae0",
+  "input": "{\"title\": \"Hey Angel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Made in the A.M. (Deluxe Edition)'",
+  "status": "verified"
+}

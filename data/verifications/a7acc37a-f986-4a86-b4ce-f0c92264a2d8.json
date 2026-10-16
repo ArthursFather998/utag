@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:19.416648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d490523-0517-4c39-8cdd-8371b4a4adc1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7acc37a-f986-4a86-b4ce-f0c92264a2d8",
+  "input": "{\"title\": \"Can U Help Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Can U Help Me'",
+  "status": "verified"
+}

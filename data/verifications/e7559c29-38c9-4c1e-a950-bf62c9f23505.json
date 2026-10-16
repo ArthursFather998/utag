@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:52.813031+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "065965b6-6fca-4620-babf-246910378309",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7559c29-38c9-4c1e-a950-bf62c9f23505",
+  "input": "{\"title\": \"Night Train\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Night Train'",
+  "status": "verified"
+}

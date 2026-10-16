@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:01.391165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "335d1a84-9438-4add-939c-66cc2e7d7bac",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f5ebaf78-d436-434b-a8e9-7d634b336fd1",
+  "input": "{\"title\": \"You & I\", \"release_type\": \"album\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

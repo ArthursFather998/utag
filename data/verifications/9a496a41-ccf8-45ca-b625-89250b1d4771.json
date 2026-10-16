@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:51.229988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6956b0b2-4fc6-48da-963e-9dd08e691eb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a496a41-ccf8-45ca-b625-89250b1d4771",
+  "input": "{\"title\": \"Natural Release\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Natural Release'",
+  "status": "verified"
+}

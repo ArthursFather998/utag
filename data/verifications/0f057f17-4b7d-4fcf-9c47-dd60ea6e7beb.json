@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:27.089901+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7191ccce-0866-43ce-967b-bd8ee5a660a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f057f17-4b7d-4fcf-9c47-dd60ea6e7beb",
+  "input": "{\"title\": \"I Am Machine\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Human (Deluxe Edition)'",
+  "status": "verified"
+}

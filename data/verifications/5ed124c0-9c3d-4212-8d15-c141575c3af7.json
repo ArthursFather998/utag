@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:13.01145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "855f871c-1196-4f2f-a58d-a79f89b5b0cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ed124c0-9c3d-4212-8d15-c141575c3af7",
+  "input": "{\"title\": \"Love Lockdown\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Pools'",
+  "status": "verified"
+}

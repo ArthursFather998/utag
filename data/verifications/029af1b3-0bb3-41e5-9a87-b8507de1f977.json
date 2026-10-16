@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:46.502892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "784e4a89-76e5-4cf5-8532-b138a7b14b62",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "029af1b3-0bb3-41e5-9a87-b8507de1f977",
+  "input": "{\"title\": \"100 Memories\", \"release_type\": \"album\", \"release_year\": 1979}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

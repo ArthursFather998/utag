@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:56.394092+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d95508a-3124-4fcf-bab5-95e308c7d158",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40627615-e25f-4f78-ae80-4bd5b933756b",
+  "input": "{\"title\": \"Leaving So Soon?\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Under the Iron Sea'",
+  "status": "verified"
+}

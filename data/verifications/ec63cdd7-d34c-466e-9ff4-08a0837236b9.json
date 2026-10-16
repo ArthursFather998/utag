@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:27.277405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4c690ac-c233-43df-a1c4-5e5fd6ca5da6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec63cdd7-d34c-466e-9ff4-08a0837236b9",
+  "input": "{\"title\": \"Ingredients (feat. Fredo Bang)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'We All Shine'",
+  "status": "verified"
+}

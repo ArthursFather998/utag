@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:43.655909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24f3364e-7ace-45c7-9119-eb87d65a7b62",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f62a054-cd2a-4716-b116-b260a83df900",
+  "input": "{\"title\": \"Made in Heaven\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Deep Cuts, Volume 3 (1984-1995)'",
+  "status": "verified"
+}

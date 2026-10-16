@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:12.192511+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9b12f1e-cf26-420e-a16f-72ef4a3a653b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "57f3cd85-2603-43f4-849c-464494c0cffe",
+  "input": "{\"title\": \"Right Here\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

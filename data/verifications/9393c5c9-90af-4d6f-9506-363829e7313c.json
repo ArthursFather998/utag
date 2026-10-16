@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:16.458162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab5114b7-ba86-4599-bb4d-600470af9cbf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9393c5c9-90af-4d6f-9506-363829e7313c",
+  "input": "{\"title\": \"i wanna be your girlfriend\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

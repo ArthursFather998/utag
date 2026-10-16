@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:02.682565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a023abf-489e-44f1-b955-a4cf182ded2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0e0e8e4-09f6-4e2f-8994-cff87412949c",
+  "input": "{\"title\": \"Who You Are\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Everybody Loves a Happy Ending'",
+  "status": "verified"
+}

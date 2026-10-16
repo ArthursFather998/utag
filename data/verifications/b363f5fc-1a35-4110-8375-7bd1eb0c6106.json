@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:30.236939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0b613f4-e70d-4059-a76f-aa40dce634fb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b363f5fc-1a35-4110-8375-7bd1eb0c6106",
+  "input": "{\"title\": \"Tough Luck\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

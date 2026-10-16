@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:53.779193+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2602dcd7-cf78-4828-90c0-eb42881ddf8f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e2bef308-862d-440d-aba2-594265e49bbc",
+  "input": "{\"title\": \"Love of My Life\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Ultimate Collection'",
+  "status": "verified"
+}

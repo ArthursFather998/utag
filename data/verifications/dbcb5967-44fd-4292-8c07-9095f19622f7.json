@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:04.350921+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c1b1f96-ef91-4f53-9c8c-ef328b9dfe9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbcb5967-44fd-4292-8c07-9095f19622f7",
+  "input": "{\"title\": \"Good Luck Charm\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Playlist: The Very Best of Jagged Edge'",
+  "status": "verified"
+}

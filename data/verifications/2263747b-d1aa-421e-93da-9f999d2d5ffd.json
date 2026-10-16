@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:14.646153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "881ba80c-f97a-4f35-afce-4a00eeb137c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2263747b-d1aa-421e-93da-9f999d2d5ffd",
+  "input": "{\"title\": \"Touch My Body\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'E=MC²'",
+  "status": "verified"
+}

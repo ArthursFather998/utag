@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:18.812067+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e77c763-222f-4911-a92d-a2c4c6c141d2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "978b74ce-0739-4640-bde1-85a792250e0e",
+  "input": "{\"title\": \"Nuestro Planeta\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

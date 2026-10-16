@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:08.968446+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8206f101-0262-460e-a8bf-437196d1c3e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f10545a6-2a90-4bba-a7e6-ed79b6d20e7a",
+  "input": "{\"title\": \"Still She Cries\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Trial by Fire'",
+  "status": "verified"
+}

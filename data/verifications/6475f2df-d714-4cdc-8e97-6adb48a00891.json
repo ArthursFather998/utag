@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:12.973882+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "783afdda-f2f0-4450-b67b-e290dba79b0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6475f2df-d714-4cdc-8e97-6adb48a00891",
+  "input": "{\"title\": \"Say My Name (Maurice's Old Skool Dub Mix)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Single Remix Tracks'",
+  "status": "verified"
+}

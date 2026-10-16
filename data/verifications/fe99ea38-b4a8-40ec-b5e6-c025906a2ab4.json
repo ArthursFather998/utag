@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:15.499035+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99c58d1e-ac5d-4303-8278-c7b3d9c2895d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fe99ea38-b4a8-40ec-b5e6-c025906a2ab4",
+  "input": "{\"title\": \"Misbehaving\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

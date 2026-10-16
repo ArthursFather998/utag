@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:27.075637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54ee9f4d-e675-4eb6-bd7e-f084370824c0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4789b013-3e57-4069-bc0d-5967c5e47aee",
+  "input": "{\"title\": \"Lo Mejor de...Selena\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

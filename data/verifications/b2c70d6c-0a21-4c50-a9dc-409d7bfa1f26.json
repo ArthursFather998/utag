@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:05.586722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "422e90bf-a5b3-47bf-bb98-74345f861102",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b2c70d6c-0a21-4c50-a9dc-409d7bfa1f26",
+  "input": "{\"title\": \"Confessions\", \"release_type\": \"album\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

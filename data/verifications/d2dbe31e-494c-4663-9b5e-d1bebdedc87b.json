@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:43.447225+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd2ad0a7-30c0-4ea5-b009-63b6ff516d08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2dbe31e-494c-4663-9b5e-d1bebdedc87b",
+  "input": "{\"title\": \"She Likes It\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of '9'",
+  "status": "verified"
+}

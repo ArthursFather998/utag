@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:10.654403+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5f9e79c-60d8-481d-a07b-af79427343cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d35fbe86-835e-4db0-84f6-1f197d701e5d",
+  "input": "{\"title\": \"Son and Daughter\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'A Night at the Odeon - Hammersmith 1975'",
+  "status": "verified"
+}

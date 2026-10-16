@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:33.449413+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "591b6181-cf07-4ab3-b94e-c8f60a5b7961",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a657600c-d03f-415c-bb30-09b2bdeed614",
+  "input": "{\"title\": \"I Want It All\", \"release_type\": \"single\", \"release_year\": 1989}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

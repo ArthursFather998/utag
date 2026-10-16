@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:09.805921+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0e054ac-b014-4fdf-8f63-94e14a226000",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "308f35ae-5cc4-4eb4-b127-5841bd2cc8ed",
+  "input": "{\"title\": \"Fortworth\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Habibti'",
+  "status": "verified"
+}

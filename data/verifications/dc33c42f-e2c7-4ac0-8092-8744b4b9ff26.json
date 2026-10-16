@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:17.946928+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d424e160-2632-4df8-8300-d31d6acc4ed4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc33c42f-e2c7-4ac0-8092-8744b4b9ff26",
+  "input": "{\"title\": \"Aunque No Salga El Sol\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The New Girl in Town'",
+  "status": "verified"
+}

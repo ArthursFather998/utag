@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:17.570715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "869be242-8c91-4f3b-ae7a-461071c68ceb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8f3c2023-ba19-42b5-81d7-db2692456f3b",
+  "input": "{\"title\": \"Songs of Christmas\", \"release_type\": \"album\", \"release_year\": 1963}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

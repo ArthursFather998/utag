@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:03.299107+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "533ff689-9fcd-4a19-a113-eef9ac648ced",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d5f6c2a-3226-4b68-8875-d3e4074b64b6",
+  "input": "{\"title\": \"Meteor Man\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Eternal Atake 2'",
+  "status": "verified"
+}

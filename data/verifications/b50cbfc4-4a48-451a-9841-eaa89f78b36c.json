@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:05.789322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33212e63-cab1-4ebc-9d0b-7a16da88b47b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b50cbfc4-4a48-451a-9841-eaa89f78b36c",
+  "input": "{\"title\": \"Cuerpo y Alma\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cuerpo y Alma'",
+  "status": "verified"
+}

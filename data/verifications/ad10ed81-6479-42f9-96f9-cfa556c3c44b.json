@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:43.039119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "23f4b4b6-5b55-424c-ae24-fff0eca0f098",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad10ed81-6479-42f9-96f9-cfa556c3c44b",
+  "input": "{\"title\": \"All the Parties\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'For All the Dogs'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:14.864516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ef4d5cd-85ed-4675-bd4d-9b4bf86ddbcd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f3062eb-6de0-4e3a-ab5b-f0f8a86be2b5",
+  "input": "{\"title\": \"Wonder\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Prelude'",
+  "status": "verified"
+}

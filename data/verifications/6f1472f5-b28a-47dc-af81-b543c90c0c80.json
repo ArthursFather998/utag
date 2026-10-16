@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:26.621543+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39b753bf-d5d9-47c4-a3a9-bb8c268e6b1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f1472f5-b28a-47dc-af81-b543c90c0c80",
+  "input": "{\"title\": \"Bleed\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bleed'",
+  "status": "verified"
+}

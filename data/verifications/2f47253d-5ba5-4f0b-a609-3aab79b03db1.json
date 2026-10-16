@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:35.23687+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f2559e8-b0c3-4f81-8553-a986faf8f5ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f47253d-5ba5-4f0b-a609-3aab79b03db1",
+  "input": "{\"title\": \"Stained Glass\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Music for The Starling Girl (Score & Music from the Original Motion Picture)'",
+  "status": "verified"
+}

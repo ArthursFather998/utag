@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:06.588763+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b9a6990-263c-45fa-81a1-3f4c5f8a8547",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77ed2f65-a37b-46af-896f-ab2692565b41",
+  "input": "{\"title\": \"Sitting Doing Nothing\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Regimental Sgt. Zippo'",
+  "status": "verified"
+}

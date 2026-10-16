@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:32.323107+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55be4cc2-ddf9-485f-8cc7-616d8a89d175",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5053828a-8fdb-4060-801d-48bd7377eca8",
+  "input": "{\"title\": \"Undo\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

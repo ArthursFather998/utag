@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:46:02.476935+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3de5c2a1-9bc2-4d71-a40a-cfbe3f5780d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e426384-0151-4671-872b-76ab1a31f659",
+  "input": "{\"title\": \"I Still Do\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Bualadh Bos – The Cranberries Live'",
+  "status": "verified"
+}

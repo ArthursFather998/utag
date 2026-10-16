@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:46.398465+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1a93d1e-b5c2-4d4a-8323-ae8a99bf63d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef590540-83f3-4f44-8a5d-d1d918e3bb11",
+  "input": "{\"title\": \"You're The Storm (First Demo)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Rest of the Best - Vol. 2'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:43.698712+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62bf3da2-8f25-4e7f-9e9c-6d8d0c5617c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8300a45-7478-4764-a325-cb9687031b42",
+  "input": "{\"title\": \"Confessions Part II\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Confessions Part II'",
+  "status": "verified"
+}

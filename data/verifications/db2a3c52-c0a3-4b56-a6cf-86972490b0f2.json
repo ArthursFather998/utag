@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:23.232591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c90f337-ff3a-4800-b42e-ef301392c74e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db2a3c52-c0a3-4b56-a6cf-86972490b0f2",
+  "input": "{\"title\": \"Acuerdate de Mi\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '16 Super Éxitos Originales'",
+  "status": "verified"
+}

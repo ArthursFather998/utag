@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:43.472467+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5584fc9c-236f-4a08-a9ff-81912b28f954",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e1b8a947-c5b9-4ecd-bd11-4228c2bf71dd",
+  "input": "{\"title\": \"Love Me\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'hurting'",
+  "status": "verified"
+}

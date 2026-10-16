@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:48.205191+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f02bd40f-7894-4b45-a3ca-11a20f33d248",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca4f9abd-4420-4d16-b2cd-ad627ecf0675",
+  "input": "{\"title\": \"Lonely Star\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Thursday'",
+  "status": "verified"
+}

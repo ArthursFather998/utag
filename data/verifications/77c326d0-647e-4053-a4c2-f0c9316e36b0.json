@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:22.952714+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f6805147-3270-407f-9030-0beaf9e68a04",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "77c326d0-647e-4053-a4c2-f0c9316e36b0",
+  "input": "{\"title\": \"Poison\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:02.254748+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90ba295c-3581-4811-a151-9c4bafd8e762",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b48b8592-62ae-437a-8c5a-8a69f44aa1b0",
+  "input": "{\"title\": \"A Thousand Faces\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Best of Creed'",
+  "status": "verified"
+}

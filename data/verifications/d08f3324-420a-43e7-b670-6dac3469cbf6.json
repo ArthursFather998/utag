@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:45.462943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd22c6fa-07b3-4d87-bb96-0b93103464a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d08f3324-420a-43e7-b670-6dac3469cbf6",
+  "input": "{\"title\": \"How Do I Say\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of '8701'",
+  "status": "verified"
+}

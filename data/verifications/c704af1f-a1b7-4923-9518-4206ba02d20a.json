@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:02.860726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16faa627-4fba-4bbe-83a9-4f70abc6ff61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c704af1f-a1b7-4923-9518-4206ba02d20a",
+  "input": "{\"title\": \"Radio Ga Ga\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Radio Ga Ga'",
+  "status": "verified"
+}

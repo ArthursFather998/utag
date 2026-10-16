@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:38.684237+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f4675f1-2cb3-46a3-aae3-f4d71c2ab571",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ae98dd3-9288-49f4-a442-23b8f280e5f6",
+  "input": "{\"title\": \"Take a Walk with Me\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Muse'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:24.083615+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89149d55-fd37-4d45-b7f1-ad659d1a64f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c928e800-ce2b-430d-9514-24a2c3d5e348",
+  "input": "{\"title\": \"Rude Boy\", \"track_number\": 46}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 46 of 'Coffret 4 CD'",
+  "status": "verified"
+}

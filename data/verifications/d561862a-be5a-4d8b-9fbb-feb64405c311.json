@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:26.347681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92294fe7-6082-4cb5-b1ac-edeed79fb03c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d561862a-be5a-4d8b-9fbb-feb64405c311",
+  "input": "{\"title\": \"The Spider And Me\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Sketches of Brunswick East'",
+  "status": "verified"
+}

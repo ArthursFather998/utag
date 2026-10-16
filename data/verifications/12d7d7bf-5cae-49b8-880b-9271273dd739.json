@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:11.992959+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7385ac3e-359f-461b-88b5-899b6321efc6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12d7d7bf-5cae-49b8-880b-9271273dd739",
+  "input": "{\"title\": \"Secret World\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Secret World – Live in Paris'",
+  "status": "verified"
+}

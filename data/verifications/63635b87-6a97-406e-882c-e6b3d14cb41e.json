@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:30.965865+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12c547cb-3626-4437-8d4e-403201425438",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "63635b87-6a97-406e-882c-e6b3d14cb41e",
+  "input": "{\"title\": \"Kintsugi\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Did You Know That There's a Tunnel Under Ocean Blvd'",
+  "status": "verified"
+}

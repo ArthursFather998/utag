@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:45.692067+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "233d0d7c-0b43-4491-bb47-dce0857e0bee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be37e89f-1227-471f-a502-8890b6ad4aa0",
+  "input": "{\"title\": \"Walla Walla\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Zaba'",
+  "status": "verified"
+}

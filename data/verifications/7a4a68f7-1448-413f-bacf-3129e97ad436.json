@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:23.093122+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5af0749-a9ea-4453-a32c-75c50ee9df0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a4a68f7-1448-413f-bacf-3129e97ad436",
+  "input": "{\"title\": \"Wake Up\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Diary of Alicia Keys'",
+  "status": "verified"
+}

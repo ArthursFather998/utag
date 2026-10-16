@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:49.134714+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59ef10a1-da7a-47d5-975c-e1145c6e71e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "704e4a9c-5aad-4cb6-ab83-fc7dac8b2ca2",
+  "input": "{\"title\": \"Pity Party (K Theory Remix)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Pity Party (Remixes)'",
+  "status": "verified"
+}

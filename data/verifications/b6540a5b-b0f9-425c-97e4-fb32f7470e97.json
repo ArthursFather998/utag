@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:01.294735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db976705-92a9-48ef-9585-dd93d2055e61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6540a5b-b0f9-425c-97e4-fb32f7470e97",
+  "input": "{\"title\": \"God Save the Queen\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'Return of the Champions'",
+  "status": "verified"
+}

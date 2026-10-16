@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:50.613198+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=unknown conf=low -> no write",
+    "verdict": "unknown"
+  },
+  "entity_id": "94c51047-cd60-43ff-ad73-3b5f7d20a1e1",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "low"
+  },
+  "id": "9da88c71-db2c-4a06-b14a-a96b3839e2dd",
+  "input": {
+    "artist": "d4vd",
+    "release": "Unknown Album",
+    "title": "no one"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "Cannot verify as d4vd's: only one low-quality lyrics aggregator mentions it; no Wikipedia, Genius, fandom, or official trace.",
+  "status": "needs_review"
+}

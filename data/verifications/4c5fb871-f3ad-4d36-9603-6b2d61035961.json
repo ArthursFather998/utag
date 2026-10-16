@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:58.730102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46a930a8-e550-426f-9ed2-68de7a51f3dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c5fb871-f3ad-4d36-9603-6b2d61035961",
+  "input": "{\"title\": \"Shoulda, Woulda, Coulda\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Ultimate Collection'",
+  "status": "verified"
+}

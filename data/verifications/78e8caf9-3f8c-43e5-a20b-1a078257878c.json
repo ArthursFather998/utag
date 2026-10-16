@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:57.762075+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c105d68b-5e0d-4c08-8514-8545e055e5ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78e8caf9-3f8c-43e5-a20b-1a078257878c",
+  "input": "{\"title\": \"It's a Beautiful Day (Reprise)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Deep Cuts, Volume 3 (1984-1995)'",
+  "status": "verified"
+}

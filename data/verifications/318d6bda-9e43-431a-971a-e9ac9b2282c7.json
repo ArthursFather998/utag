@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:26.380556+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "febc7481-9e50-490c-95d9-2174730b2e82",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "318d6bda-9e43-431a-971a-e9ac9b2282c7",
+  "input": "{\"title\": \"Blacked Out\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'In the Bedroom, I Confess'",
+  "status": "verified"
+}

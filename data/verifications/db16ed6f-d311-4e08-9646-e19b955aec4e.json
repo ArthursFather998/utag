@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:25.163948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fcb9ced3-7509-4548-b132-5af7af1b5be4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db16ed6f-d311-4e08-9646-e19b955aec4e",
+  "input": "{\"title\": \"Lonely Is as Lonely Does (B-side)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Before and After (Losing You)'",
+  "status": "verified"
+}

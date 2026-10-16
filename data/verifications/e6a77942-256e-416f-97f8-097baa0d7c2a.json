@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:43.520631+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62be2558-c50a-4924-8c77-e46b0a6ec030",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6a77942-256e-416f-97f8-097baa0d7c2a",
+  "input": "{\"title\": \"No Puedo Estar Sin Ti\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'No Puedo Estar Sin Ti'",
+  "status": "verified"
+}

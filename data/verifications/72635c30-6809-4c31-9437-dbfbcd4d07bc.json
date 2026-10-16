@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:26.278507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e8d7c5e-5465-4bb7-9b51-87297a277235",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72635c30-6809-4c31-9437-dbfbcd4d07bc",
+  "input": "{\"title\": \"My Town, My Guy and Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'My Town, My Guy and Me'",
+  "status": "verified"
+}

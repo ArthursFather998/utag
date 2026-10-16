@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:37.242154+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b13def32-264c-4eaa-a93f-21c5e84d23ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ede37811-6ec3-48d7-9395-10ca2aef6578",
+  "input": "{\"title\": \"I Want to Break Free\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

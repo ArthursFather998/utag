@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:23.356788+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ad9789e-536e-40c2-9c57-3ab1b3183345",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5930aa9d-5cea-4b2a-b064-731f4bda92f1",
+  "input": "{\"title\": \"Who's Crying Now\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Who's Crying Now'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:26.901472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ed90f0d-399e-46fe-aa0d-5ccfd6909b1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "edcb720f-be3f-4cb4-8f30-2075b7ad9939",
+  "input": "{\"title\": \"Enamorada De Ti\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Muñequito de Trapo'",
+  "status": "verified"
+}

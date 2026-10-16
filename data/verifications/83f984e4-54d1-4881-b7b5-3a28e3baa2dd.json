@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:28.749515+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "948da27f-41ed-4911-a8e5-20007cb638f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83f984e4-54d1-4881-b7b5-3a28e3baa2dd",
+  "input": "{\"title\": \"Life Itself\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Life Itself'",
+  "status": "verified"
+}

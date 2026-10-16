@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:25.257716+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "970ee496-bd25-4e4c-80a1-1db0b2726eb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "caa82e3e-4c61-41ef-867a-d131532bf45a",
+  "input": "{\"title\": \"Falling Down\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Raoul and the Kings of Spain'",
+  "status": "verified"
+}

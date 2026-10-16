@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:24.100975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fbce5796-dbd9-4fc7-9a53-aff5d4a1d967",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0b5af47-fb44-4367-b7d6-3ec3727e61a1",
+  "input": "{\"title\": \"One Last Cry\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Icon: Love Songs'",
+  "status": "verified"
+}

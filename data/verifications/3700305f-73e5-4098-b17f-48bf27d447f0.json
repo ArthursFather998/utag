@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:25.679048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19bcf4ba-1d78-4022-bcd2-b87e5dd99ca9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3700305f-73e5-4098-b17f-48bf27d447f0",
+  "input": "{\"title\": \"Blinding Lights (Chromatics Remix)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'After Hours (Remixes)'",
+  "status": "verified"
+}

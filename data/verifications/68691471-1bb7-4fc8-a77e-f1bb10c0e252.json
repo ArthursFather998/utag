@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:11.126356+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "06f7fcf8-880d-4f17-a213-93928bc62cb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68691471-1bb7-4fc8-a77e-f1bb10c0e252",
+  "input": "{\"title\": \"If You See Her, Say Hello\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Live at Sin-é (Legacy Edition)'",
+  "status": "verified"
+}

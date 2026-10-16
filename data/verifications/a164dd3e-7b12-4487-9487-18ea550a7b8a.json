@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:56.323637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "47f48e02-abe4-4db7-bc8b-b956a0c3e98e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a164dd3e-7b12-4487-9487-18ea550a7b8a",
+  "input": "{\"title\": \"Cocoa Hooves\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Zaba'",
+  "status": "verified"
+}

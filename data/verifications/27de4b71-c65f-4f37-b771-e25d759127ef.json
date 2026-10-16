@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:35.070329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f45a6cf0-a229-4652-a26f-5d8a249b7e13",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "27de4b71-c65f-4f37-b771-e25d759127ef",
+  "input": "{\"title\": \"Mockingbird\", \"release_type\": \"single\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

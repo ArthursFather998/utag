@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:15.175923+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0842266c-1bee-474b-a1f7-d37432b18f9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "65f14981-bb23-4c12-94e4-7fd5ce72d610",
+  "input": "{\"title\": \"Not Even Here\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Not Even Here'",
+  "status": "verified"
+}

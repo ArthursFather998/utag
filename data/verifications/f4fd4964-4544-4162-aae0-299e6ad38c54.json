@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:43.700766+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "401cc144-d611-4330-980d-98f11a4be92e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4fd4964-4544-4162-aae0-299e6ad38c54",
+  "input": "{\"title\": \"Steal My Girl (Acoustic)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Acoustic'",
+  "status": "verified"
+}

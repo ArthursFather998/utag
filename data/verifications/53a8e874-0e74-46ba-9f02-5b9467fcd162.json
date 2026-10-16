@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:33.267878+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f78c3c12-11fc-4900-a1c0-66260e41a468",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "53a8e874-0e74-46ba-9f02-5b9467fcd162",
+  "input": "{\"title\": \"One Thing\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

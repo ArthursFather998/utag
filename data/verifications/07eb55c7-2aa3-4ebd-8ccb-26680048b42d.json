@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:37.439792+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1719e563-2dee-45c2-82f2-4e0a331e9c6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07eb55c7-2aa3-4ebd-8ccb-26680048b42d",
+  "input": "{\"title\": \"Off and Running\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Off and Running'",
+  "status": "verified"
+}

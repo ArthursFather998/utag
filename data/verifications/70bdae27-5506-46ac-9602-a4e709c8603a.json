@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:12.561083+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2503ee4b-463d-4f5b-a4a9-33c0ace66aa7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "70bdae27-5506-46ac-9602-a4e709c8603a",
+  "input": "{\"title\": \"Qu\\u00e9\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Classic Series, Vol. 5'",
+  "status": "verified"
+}

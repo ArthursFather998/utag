@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:04.030853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c030f54-8bca-4d60-93d5-920b178f67d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0783122f-f8ed-469d-b12a-7f313c91a9d7",
+  "input": "{\"title\": \"Never Going Back Again\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Opus Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:09.775976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36142dd7-e248-48e1-996e-fc452ce5d3de",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ec6234d5-eaf5-4bcc-974a-3bfb782c3b2b",
+  "input": "{\"title\": \"Fallen Angel\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

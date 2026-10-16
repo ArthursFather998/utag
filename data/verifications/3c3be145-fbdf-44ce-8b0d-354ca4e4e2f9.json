@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:10.126725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "123e0642-0185-455b-a132-2c558eb8a882",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c3be145-fbdf-44ce-8b0d-354ca4e4e2f9",
+  "input": "{\"title\": \"Break the Man\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Songs for a Nervous Planet'",
+  "status": "verified"
+}

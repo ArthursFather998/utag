@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:19.447639+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "acb5e364-a847-49f2-a495-f03f2c44792f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "322881e3-ce98-469f-b9e3-f05d607be7a2",
+  "input": "{\"title\": \"Mad House\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rated R + Loud'",
+  "status": "verified"
+}

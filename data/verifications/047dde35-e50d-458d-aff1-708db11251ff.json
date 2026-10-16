@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:31.202476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c366ad1e-680e-45b6-b00e-346e72fb12b5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "047dde35-e50d-458d-aff1-708db11251ff",
+  "input": "{\"title\": \"Rivals\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rivals'",
+  "status": "verified"
+}

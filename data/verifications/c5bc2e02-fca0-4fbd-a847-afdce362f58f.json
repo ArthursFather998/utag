@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:49.396886+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "602a1a5d-940f-44b4-a626-2b7d1eeb47db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5bc2e02-fca0-4fbd-a847-afdce362f58f",
+  "input": "{\"title\": \"The Brian McKnight Show\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Evolution of a Man'",
+  "status": "verified"
+}

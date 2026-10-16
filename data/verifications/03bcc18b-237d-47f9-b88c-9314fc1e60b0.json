@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:15.532927+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4123e2de-94b9-40f5-bf65-5778e264d63a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03bcc18b-237d-47f9-b88c-9314fc1e60b0",
+  "input": "{\"title\": \"We Are the Champions\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Live Around the World'",
+  "status": "verified"
+}

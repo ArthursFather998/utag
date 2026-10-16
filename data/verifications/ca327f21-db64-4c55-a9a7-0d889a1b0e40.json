@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:37.545775+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "495c23cb-d838-4aa1-ba8f-e6681da1c53d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca327f21-db64-4c55-a9a7-0d889a1b0e40",
+  "input": "{\"title\": \"On to the Next One\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'This War Is Ours'",
+  "status": "verified"
+}

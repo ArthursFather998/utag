@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:53.630649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c84e42c-0b9b-4be3-8124-4647ce77c79f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0dbb652c-c63f-44c6-95fc-80dfb76340aa",
+  "input": "{\"title\": \"Rambling Pony #2\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Original Fleetwood Mac'",
+  "status": "verified"
+}

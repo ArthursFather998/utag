@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:32.11889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0d1d9a5-e313-4d21-9597-6e921ba2e01e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac064972-fd9e-461b-9a26-6f005538414c",
+  "input": "{\"title\": \"Like Toy Soldiers\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Like Toy Soldiers'",
+  "status": "verified"
+}

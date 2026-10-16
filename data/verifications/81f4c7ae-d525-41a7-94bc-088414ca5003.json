@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:10.706909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b28a2110-bf47-4f0a-a7c0-cbdc436435d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81f4c7ae-d525-41a7-94bc-088414ca5003",
+  "input": "{\"title\": \"One of the Ones Who Did\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'U Turn'",
+  "status": "verified"
+}

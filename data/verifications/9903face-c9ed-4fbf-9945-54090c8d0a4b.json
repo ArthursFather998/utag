@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:54.574034+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84a95295-60d7-4fc9-a0bb-31eb9d819f54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9903face-c9ed-4fbf-9945-54090c8d0a4b",
+  "input": "{\"title\": \"Hey Now\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Lesley Gore Anthology'",
+  "status": "verified"
+}

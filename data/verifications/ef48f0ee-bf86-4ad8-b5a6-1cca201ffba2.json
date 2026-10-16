@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:58.251441+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a800e415-29c1-4bfb-bd6e-43aa86e3a0ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef48f0ee-bf86-4ad8-b5a6-1cca201ffba2",
+  "input": "{\"title\": \"Badman's Song (Early Mix)\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'The Seeds of Love (Super Deluxe Edition)'",
+  "status": "verified"
+}

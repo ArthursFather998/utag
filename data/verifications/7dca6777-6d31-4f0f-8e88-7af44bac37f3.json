@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:35.443085+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0fec6458-8103-413f-874d-edc9c0dfb0cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dca6777-6d31-4f0f-8e88-7af44bac37f3",
+  "input": "{\"title\": \"Honey, It's Alright\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Weatherman'",
+  "status": "verified"
+}

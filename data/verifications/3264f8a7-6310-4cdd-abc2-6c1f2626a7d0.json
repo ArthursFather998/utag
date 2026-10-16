@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:43.975971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9992d88-9cc3-4cf2-acfb-69ed0bc0add6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3264f8a7-6310-4cdd-abc2-6c1f2626a7d0",
+  "input": "{\"title\": \"Tag, You're It\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Cry Baby'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:56:06.540475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1565150-03a0-4d8b-be81-ffec8b02d01f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89b60fc5-754d-4a80-ac9b-14aa7c18b9c7",
+  "input": "{\"title\": \"Animal I Have Become (Stripped Acoustic Version)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Pain'",
+  "status": "verified"
+}

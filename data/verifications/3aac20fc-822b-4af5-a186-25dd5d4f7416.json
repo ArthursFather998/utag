@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:57.145094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "515727bd-79dc-4af7-a790-36274d048cc4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3aac20fc-822b-4af5-a186-25dd5d4f7416",
+  "input": "{\"title\": \"Say You Will\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Say You Will'",
+  "status": "verified"
+}

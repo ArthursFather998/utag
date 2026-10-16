@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:48.994798+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a3e7b1c-af63-4754-962d-ced3b045145f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "082e6c29-1180-4aab-8b79-a19143257211",
+  "input": "{\"title\": \"Interlude: Race\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Janet Jackson's Rhythm Nation 1814'",
+  "status": "verified"
+}

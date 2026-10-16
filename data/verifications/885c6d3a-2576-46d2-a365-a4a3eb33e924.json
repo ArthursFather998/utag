@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:17.261082+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2f43a8a-8b94-4080-a680-2e7964938f20",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "885c6d3a-2576-46d2-a365-a4a3eb33e924",
+  "input": "{\"title\": \"The Show Must Go On\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Greatest Hits II'",
+  "status": "verified"
+}

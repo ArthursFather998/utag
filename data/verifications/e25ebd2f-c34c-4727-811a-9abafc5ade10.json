@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:09.457551+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c57b0ce-df7b-4d46-841d-f71b7ee96303",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e25ebd2f-c34c-4727-811a-9abafc5ade10",
+  "input": "{\"title\": \"Albatross\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'Original Fleetwood Mac: The Blues Years'",
+  "status": "verified"
+}

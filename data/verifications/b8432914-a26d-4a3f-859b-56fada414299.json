@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:41.919684+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f21c0a21-ea48-45ff-b412-29c7bcf526ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8432914-a26d-4a3f-859b-56fada414299",
+  "input": "{\"title\": \"Crash Dive on Mingo City\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Flash Gordon'",
+  "status": "verified"
+}

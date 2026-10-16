@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:16.624208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfdc4c6e-555d-4ab3-9d28-7fa3610bfe5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e233ef20-e1b9-44c8-9fa7-d5961ecfbd86",
+  "input": "{\"title\": \"Man of the World\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Vintage Years'",
+  "status": "verified"
+}

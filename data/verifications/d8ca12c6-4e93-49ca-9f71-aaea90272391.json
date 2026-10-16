@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:26.36461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8912e74d-61df-4ba1-9cb9-df47f105e4eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8ca12c6-4e93-49ca-9f71-aaea90272391",
+  "input": "{\"title\": \"Mojo Pin\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live at Sin-é'",
+  "status": "verified"
+}

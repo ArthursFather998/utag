@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:40:47.389275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ced38e4d-19d8-4310-b023-4be7a6031d70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1cefcbc-d1bf-4933-947f-d0b066be5c3f",
+  "input": "{\"title\": \"Disc 5 - Wedding Bell Blues\", \"track_number\": 129}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 129 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

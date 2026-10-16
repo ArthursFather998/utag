@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:58.507701+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "80104c3c-7f87-42b0-8833-bea865982f5d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "11439c0a-32d9-4695-bf9d-40543f13dcee",
+  "input": "{\"title\": \"White Dress\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

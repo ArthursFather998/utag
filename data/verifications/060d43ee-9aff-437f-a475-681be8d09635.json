@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:33.080842+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a60ac063-14aa-4f74-b5c5-0ad1899be87e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "060d43ee-9aff-437f-a475-681be8d09635",
+  "input": "{\"title\": \"Love to Keep Me Warm\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'A Very Laufey Holiday!'",
+  "status": "verified"
+}

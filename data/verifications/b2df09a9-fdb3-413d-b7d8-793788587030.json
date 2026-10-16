@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:42.239034+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "323f6f95-f244-4b15-92ce-b69d1140d74c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2df09a9-fdb3-413d-b7d8-793788587030",
+  "input": "{\"title\": \"The Roof (Back in Time)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Ballads'",
+  "status": "verified"
+}

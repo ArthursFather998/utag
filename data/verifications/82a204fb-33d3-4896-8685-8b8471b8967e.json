@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:23.974542+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "release->Three Days Grace"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "4233915b-fd9a-41c7-a18d-26e3551dc6a8",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "82a204fb-33d3-4896-8685-8b8471b8967e",
+  "input": {
+    "artist": "Three Days Grace",
+    "release": "Rolling Stone Original",
+    "title": "I Hate Everything About You"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Wikipedia: 'I Hate Everything About You' (released April 28, 2003) is the lead single from the self-titled debut album Three Days Grace (July 22, 2003); 'Rolling Stone Original' is a compilation, not the original release. | sources: https://en.wikipedia.org/wiki/I_Hate_Everything_About_You, https://en.wikipedia.org/wiki/Three_Days_Grace_(album)",
+  "status": "verified"
+}

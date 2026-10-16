@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:35.576564+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2cb94c21-bd99-4406-a282-f4cd5083bf75",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3816e596-de27-47a6-adb8-f1c9852d473a",
+  "input": "{\"title\": \"Everywhere\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Dance'",
+  "status": "verified"
+}

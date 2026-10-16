@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:39.841943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "496428c7-e1fd-46c2-8447-89cc5f840c55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51dbd11c-2e24-462f-89d5-8cd5c8c00422",
+  "input": "{\"title\": \"Hold On\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Justice (Triple Chucks Deluxe)'",
+  "status": "verified"
+}

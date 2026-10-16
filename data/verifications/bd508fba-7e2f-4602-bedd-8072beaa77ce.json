@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:35.521843+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a7841bf-f312-4aa4-b7fb-d09eeb8e9293",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd508fba-7e2f-4602-bedd-8072beaa77ce",
+  "input": "{\"title\": \"Good Love\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'More Than Words (Deluxe Edition)'",
+  "status": "verified"
+}

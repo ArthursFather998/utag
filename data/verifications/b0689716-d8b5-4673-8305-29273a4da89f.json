@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:40.534704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45b6ae41-1e01-4fdd-a587-e7e19536a233",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0689716-d8b5-4673-8305-29273a4da89f",
+  "input": "{\"title\": \"Cinnamon\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Wiped Out! (10th Anniversary Edition)'",
+  "status": "verified"
+}

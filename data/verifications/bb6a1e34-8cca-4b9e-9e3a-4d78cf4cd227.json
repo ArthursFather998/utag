@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:50.520778+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b9bf96d-95bd-4053-8ba0-4617e35aded5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb6a1e34-8cca-4b9e-9e3a-4d78cf4cd227",
+  "input": "{\"title\": \"All I Want for Christmas Is You\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Greatest Hits'",
+  "status": "verified"
+}

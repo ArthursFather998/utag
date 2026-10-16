@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:12.771189+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8ece793-c0d1-4c2b-924d-cf20bd4bc01d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a94d3261-bad5-4ed9-b2b8-bb1eb3c6bee9",
+  "input": "{\"title\": \"Fourth of July (featuring OG Maco)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Make America Psycho Again'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:53.620136+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d22a31dc-7913-406f-aecc-9b44f8b39543",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35e8043e-6667-4532-a8f2-42957a0ea070",
+  "input": "{\"title\": \"National Anthem\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'National Anthem'",
+  "status": "verified"
+}

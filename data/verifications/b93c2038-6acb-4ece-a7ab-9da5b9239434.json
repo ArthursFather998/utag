@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:51.754168+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "5bb3b3a6-1a53-4ce0-825f-56ee2bfa5f10",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "b93c2038-6acb-4ece-a7ab-9da5b9239434",
+  "input": {
+    "artist": "Richy Mitch & The Coal Miners",
+    "release": "RMCM",
+    "title": "Evergreen"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Wikipedia: 'Evergreen' originally released May 17, 2017 from debut studio album RMCM; Qobuz: RMCM's first track is 'Evergreen'. | sources: https://en.wikipedia.org/wiki/Evergreen_(Richy_Mitch_%26_the_Coal_Miners_song), https://www.qobuz.com/ie-en/interpreter/richy-mitch--the-coal-miners/5639762",
+  "status": "verified"
+}

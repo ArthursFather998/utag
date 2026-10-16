@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:55.920433+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc9bd6c0-2ee9-4bde-bbee-ef8152ed97f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51c318d1-a13f-493c-b7ce-8f340c9e054a",
+  "input": "{\"title\": \"Triumphant (Get 'Em)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Triumphant (Get 'Em)'",
+  "status": "verified"
+}

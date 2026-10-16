@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:17.415342+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "047921f4-9200-4c31-9636-e7eaaa706bde",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e9ebf83-3a98-4275-98a3-1631b7d6e4e1",
+  "input": "{\"title\": \"The Hills\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Beauty Behind the Madness'",
+  "status": "verified"
+}

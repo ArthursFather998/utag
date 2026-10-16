@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:00.600456+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fb06e99-3b0f-4e45-8925-afa09ebbdf73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf011af4-ad9a-48e0-9f8f-7bcd3dd2e3a2",
+  "input": "{\"title\": \"We Will Rock You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We Will Rock You'",
+  "status": "verified"
+}

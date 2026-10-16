@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:07.622191+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4a680e7-4297-46f7-8211-886fe70c1669",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c8699ff-310c-48da-b7bf-2e18ee74def6",
+  "input": "{\"title\": \"Crazy Little Thing Called Love (featuring J-Status)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Vinyl Box Set'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:35.660051+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b052dd3f-4a47-4ab8-b173-d95ac48cafac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "442cb598-4818-4419-afbc-702bf6c3b081",
+  "input": "{\"title\": \"Last Goodbye\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Mystery White Boy'",
+  "status": "verified"
+}

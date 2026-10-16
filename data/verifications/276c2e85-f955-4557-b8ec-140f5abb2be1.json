@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:42.535977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd4fc9f7-fcf9-4345-9c2e-7395a195d8eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "276c2e85-f955-4557-b8ec-140f5abb2be1",
+  "input": "{\"title\": \"Haunted\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Bewitched: The Goddess Edition'",
+  "status": "verified"
+}

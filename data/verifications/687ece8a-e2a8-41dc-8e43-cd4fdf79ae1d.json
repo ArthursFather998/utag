@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:47.532975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d688a6be-f059-4135-8109-6974776428bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "687ece8a-e2a8-41dc-8e43-cd4fdf79ae1d",
+  "input": "{\"title\": \"Qu\\u00edmica Mayor\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '1940 Carmen'",
+  "status": "verified"
+}

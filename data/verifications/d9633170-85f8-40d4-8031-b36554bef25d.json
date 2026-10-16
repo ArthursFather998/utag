@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:41.458185+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "248f20ba-f1f5-4fd5-b892-a2c11560790f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9633170-85f8-40d4-8031-b36554bef25d",
+  "input": "{\"title\": \"ALLIGATOR\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'ALLIGATOR'",
+  "status": "verified"
+}

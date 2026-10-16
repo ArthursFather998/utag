@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:51.535313+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "938855a5-f593-4fb3-9191-43f8a64092ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0a5b9b2-58fb-458c-a994-c51cc0099b3b",
+  "input": "{\"title\": \"U R the One\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'My Way / 8701'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:06.606931+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d040f1d3-ba36-4913-bbdb-ac0bba286791",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ab81767-89c0-4a23-9b60-14e69649326b",
+  "input": "{\"title\": \"Don't Forget About Us\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

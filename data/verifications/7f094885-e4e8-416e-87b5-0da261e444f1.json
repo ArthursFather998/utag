@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:55.75949+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9cd2cd4-b655-4e98-909c-5e245bce246c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7f094885-e4e8-416e-87b5-0da261e444f1",
+  "input": "{\"title\": \"Open Arms\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:31.594036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6d882d1-32ee-42ab-92db-770e52be7189",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cef573d4-b756-43b4-898f-174ad6d8f876",
+  "input": "{\"title\": \"Whiskey Drink\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Whiskey Drink'",
+  "status": "verified"
+}

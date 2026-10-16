@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:36.133849+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6dc1ccba-8ced-4e39-96f0-8a0dfddf1570",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "545ae40a-13d5-44cc-89c9-83b43540b4d0",
+  "input": "{\"title\": \"Atlantic\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Atlantic'",
+  "status": "verified"
+}

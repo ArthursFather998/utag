@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:07.146718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d282f94c-a18c-4ae2-9525-99e7b3e40494",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8deda622-8c68-42c8-a8b5-bea05245183d",
+  "input": "{\"title\": \"Oh Marie\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live at the Copa'",
+  "status": "verified"
+}

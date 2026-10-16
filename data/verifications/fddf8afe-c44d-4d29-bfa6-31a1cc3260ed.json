@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:11.624939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58e57722-0767-4597-a7cb-ec73be9c276e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fddf8afe-c44d-4d29-bfa6-31a1cc3260ed",
+  "input": "{\"title\": \"The Overpass\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Pray for the Wicked'",
+  "status": "verified"
+}

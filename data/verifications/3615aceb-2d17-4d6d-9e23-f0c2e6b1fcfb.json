@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:29.02424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b446e36-1f88-4603-96a7-9b85d69d2165",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3615aceb-2d17-4d6d-9e23-f0c2e6b1fcfb",
+  "input": "{\"title\": \"Say My Name\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '#1's'",
+  "status": "verified"
+}

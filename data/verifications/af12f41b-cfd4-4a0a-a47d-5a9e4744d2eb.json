@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:59.16321+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfe572c6-0626-4d6a-b97e-04fb9aee7972",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af12f41b-cfd4-4a0a-a47d-5a9e4744d2eb",
+  "input": "{\"title\": \"Daniel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

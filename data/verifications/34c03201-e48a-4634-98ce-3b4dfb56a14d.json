@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:40:12.706421+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8994f44f-1467-461b-be7d-200f5055c94c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34c03201-e48a-4634-98ce-3b4dfb56a14d",
+  "input": "{\"title\": \"Disc 4 - California Nights\", \"track_number\": 100}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 100 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

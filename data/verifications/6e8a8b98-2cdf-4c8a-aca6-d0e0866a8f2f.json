@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:21.842291+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82b55cd2-4e24-450f-83b0-3c14f8b59b6f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e8a8b98-2cdf-4c8a-aca6-d0e0866a8f2f",
+  "input": "{\"title\": \"Dime\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Classic Series, Vol. 5'",
+  "status": "verified"
+}

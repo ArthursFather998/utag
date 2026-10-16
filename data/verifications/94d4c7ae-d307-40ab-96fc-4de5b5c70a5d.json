@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:23.873088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab5c447b-ec08-4446-8f54-7104567aea56",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "94d4c7ae-d307-40ab-96fc-4de5b5c70a5d",
+  "input": "{\"title\": \"Baby\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

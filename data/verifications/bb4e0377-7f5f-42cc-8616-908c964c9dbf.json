@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:55.350628+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9922629-435b-4fe0-b2f8-179624ca68c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb4e0377-7f5f-42cc-8616-908c964c9dbf",
+  "input": "{\"title\": \"Give It to Me, Sweet Thing\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Love Me by Name (Expanded Version)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:52.381445+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97ae4dca-4a50-42ab-bf86-8362edf6fc8f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2fb072c0-9233-4616-aa1b-31a0a2f3dd5b",
+  "input": "{\"title\": \"I Do Need You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'WBBD-Bootcity!: The Remix Album'",
+  "status": "verified"
+}

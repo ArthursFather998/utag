@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:53.308352+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "652bd258-973b-49cc-bca9-b4ddc0728403",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02705d5d-ffc9-4b3b-a073-b631ebfcaf0a",
+  "input": "{\"title\": \"Don't Call Me Angel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Call Me Angel'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:55.773205+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "612eb446-d376-4de6-8a7a-753de586719d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2fb549ac-b5d9-4369-9b0c-5e1e19380dab",
+  "input": "{\"title\": \"Lost in the Ocean\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'I Love You So F***ing Much'",
+  "status": "verified"
+}

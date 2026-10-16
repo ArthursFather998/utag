@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:19.144521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "857613bb-756d-4fbd-b695-48bb8a02d3ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a220f2ef-58a2-48e6-a072-85f42db7ffbd",
+  "input": "{\"title\": \"Are You Still Up\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'janet.'",
+  "status": "verified"
+}

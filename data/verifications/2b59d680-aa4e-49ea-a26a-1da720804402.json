@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:24.211868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a9fb344d-7d2a-4486-b004-230dc8fcb9e8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b59d680-aa4e-49ea-a26a-1da720804402",
+  "input": "{\"title\": \"Metamorfosis\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Autopoiética'",
+  "status": "verified"
+}

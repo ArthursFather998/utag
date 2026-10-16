@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:10.736906+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5de117f1-08af-4e72-ac8b-fbfd3491a387",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a71a6962-bbdc-409a-ae14-d342fc198798",
+  "input": "{\"title\": \"Hush\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hush'",
+  "status": "verified"
+}

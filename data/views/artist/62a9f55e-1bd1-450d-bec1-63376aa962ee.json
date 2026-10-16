@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Gigi Perez",
+    "confidence": "unknown",
+    "created_at": "2026-10-16T17:59:57.313017+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "62a9f55e-1bd1-450d-bec1-63376aa962ee",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-16T17:59:57.313017+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Gigi Perez",
+        "id": "62a9f55e-1bd1-450d-bec1-63376aa962ee"
+      },
+      "artwork": [
+        {
+          "id": "9ea8f1b1-8336-4006-9009-14a73f102f94",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/28f99604-8cb4-4ee4-9609-9d596675a03e/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T17:59:57.471849+00:00",
+      "edition": "original",
+      "id": "ef148f2c-a1fc-4813-aa9b-4c341c2a9675",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Sailor Song"
+    }
+  ],
+  "verifications": []
+}

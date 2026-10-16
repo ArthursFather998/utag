@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:03.649169+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17c6afdd-db1a-42b6-92df-dd041d4c5b05",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5dcc72a-3bf6-4403-948a-4091c350ace4",
+  "input": "{\"title\": \"Big\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Death Race for Love'",
+  "status": "verified"
+}

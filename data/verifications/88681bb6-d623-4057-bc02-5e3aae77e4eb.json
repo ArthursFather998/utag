@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:35.580117+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a97ba9db-65a1-4bf1-9185-db0d5d6ac8a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88681bb6-d623-4057-bc02-5e3aae77e4eb",
+  "input": "{\"title\": \"First Light\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'First Light'",
+  "status": "verified"
+}

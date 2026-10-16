@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:56.739621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "238c2621-de52-4e03-9e2d-81b029dc6842",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "908d40ed-6847-4a79-bd0e-d060dbc72c14",
+  "input": "{\"title\": \"Life Is Real (Song for Lennon)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Hot Space'",
+  "status": "verified"
+}

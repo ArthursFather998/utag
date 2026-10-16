@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:57.470408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df3f4ecc-3d13-4387-baf7-1dc32c6f02c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28f2422a-248d-4e97-9198-84dc377bda5d",
+  "input": "{\"title\": \"Love Me 4 Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Lana'",
+  "status": "verified"
+}

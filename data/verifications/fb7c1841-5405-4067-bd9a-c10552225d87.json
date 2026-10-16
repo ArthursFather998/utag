@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:54.849394+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59da3b73-e1ef-4fe3-8a11-0d25a566036a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb7c1841-5405-4067-bd9a-c10552225d87",
+  "input": "{\"title\": \"Guilty Pleasure\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Wonderful Crazy Night'",
+  "status": "verified"
+}

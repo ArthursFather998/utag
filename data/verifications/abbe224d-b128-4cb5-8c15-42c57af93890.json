@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:06.20062+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8912bf4c-a1f7-4049-8d0a-3979fc03624a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "abbe224d-b128-4cb5-8c15-42c57af93890",
+  "input": "{\"title\": \"Year of the Knife (The Mix)\", \"track_number\": 32}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 32 of 'The Seeds of Love (Super Deluxe Edition)'",
+  "status": "verified"
+}

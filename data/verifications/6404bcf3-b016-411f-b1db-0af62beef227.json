@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:32.580893+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79c4d165-e4d2-4f4d-9581-5aed14f216d3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6404bcf3-b016-411f-b1db-0af62beef227",
+  "input": "{\"title\": \"Nuestra Casa\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

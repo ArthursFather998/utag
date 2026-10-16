@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:13.277689+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7e96d27-9039-4bea-92c2-5e9c9f406bc7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6bdd134-8c6a-4be2-ab70-c0fd771dcab2",
+  "input": "{\"title\": \"Moth to a Flame\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Moth to a Flame'",
+  "status": "verified"
+}

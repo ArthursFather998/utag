@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:10.489793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eef34a7f-3a9e-43ee-926e-c1c42c84c5b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dff18d87-2d1f-4343-819a-7f22576bc132",
+  "input": "{\"title\": \"Stay Down\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Sonder Son'",
+  "status": "verified"
+}

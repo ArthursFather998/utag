@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:50.474115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9edf8787-aa11-4a33-aa1a-f2c7abfe2c04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df9c81a8-2cbf-4764-9a69-b4e891091e8f",
+  "input": "{\"title\": \"soul eater\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'soul eater'",
+  "status": "verified"
+}

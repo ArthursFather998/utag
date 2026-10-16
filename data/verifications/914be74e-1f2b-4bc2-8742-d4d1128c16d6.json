@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:54.307549+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "925c30b0-441a-456d-b6c0-160abb505c39",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "914be74e-1f2b-4bc2-8742-d4d1128c16d6",
+  "input": "{\"title\": \"La \\u00danica\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

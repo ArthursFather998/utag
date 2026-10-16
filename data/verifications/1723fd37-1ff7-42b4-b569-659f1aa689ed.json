@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:03.660147+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00faea6b-be49-45bc-8440-e4985961ab42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1723fd37-1ff7-42b4-b569-659f1aa689ed",
+  "input": "{\"title\": \"Fireworks\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Puberty 2 (10th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

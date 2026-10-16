@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:57.082148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "577f89b9-b161-4eb9-9e0d-3dc0ec940ff0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb4d7f0c-22cf-4381-bc33-7a4e145fd5fe",
+  "input": "{\"title\": \"Heartbroken\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'One in a Million'",
+  "status": "verified"
+}

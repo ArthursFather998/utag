@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:07.404241+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "362c1021-5dc4-49b0-99fd-1ed4c4dc44d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c15d2126-feaf-40a2-bfa9-3f5562b273ee",
+  "input": "{\"title\": \"I Must Have Lost It on the Wind\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Captain & the Kid'",
+  "status": "verified"
+}

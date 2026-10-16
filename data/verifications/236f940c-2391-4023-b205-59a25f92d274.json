@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:47.66119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "785a0cb0-378a-4b5c-84f4-f749d6f368bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "236f940c-2391-4023-b205-59a25f92d274",
+  "input": "{\"title\": \"I Need Some Fine Wine and You, You Need to Be Nicer\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Need Some Fine Wine and You, You Need to Be Nicer'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:59.24435+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13086496-57fc-4b06-b910-9b2a6e512b82",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ecc1a31d-1a24-4b1a-8bed-4b949d85d11b",
+  "input": "{\"title\": \"Childhood\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

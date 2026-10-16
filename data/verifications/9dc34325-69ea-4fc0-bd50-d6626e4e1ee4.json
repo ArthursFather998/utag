@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:06.199519+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd9d5a12-8b97-4cfc-b37d-4bc44d7a0efb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9dc34325-69ea-4fc0-bd50-d6626e4e1ee4",
+  "input": "{\"title\": \"The Greatest Discovery\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live in Australia with the Melbourne Symphony Orchestra'",
+  "status": "verified"
+}

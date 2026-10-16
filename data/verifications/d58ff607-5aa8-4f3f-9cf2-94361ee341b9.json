@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:23.158933+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8139a8ce-876a-46f9-a855-3e853e7b6772",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d58ff607-5aa8-4f3f-9cf2-94361ee341b9",
+  "input": "{\"title\": \"Fire Bomb\", \"track_number\": 44}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 44 of 'Vinyl Box Set'",
+  "status": "verified"
+}

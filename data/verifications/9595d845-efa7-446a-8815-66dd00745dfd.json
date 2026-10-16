@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:14.645192+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc214051-5e75-439c-99f2-d7fd3819311c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9595d845-efa7-446a-8815-66dd00745dfd",
+  "input": "{\"title\": \"Rain\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'janet.'",
+  "status": "verified"
+}

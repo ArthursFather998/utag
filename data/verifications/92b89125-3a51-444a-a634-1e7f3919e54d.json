@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:54.494215+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00160dba-9652-40b0-a44c-987452f02758",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92b89125-3a51-444a-a634-1e7f3919e54d",
+  "input": "{\"title\": \"The Muse (Remix)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'The Muse'",
+  "status": "verified"
+}

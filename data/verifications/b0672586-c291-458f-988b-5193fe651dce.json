@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:56.300614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6b0dfe5-fe29-4e1d-b64d-f2c05cacf600",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0672586-c291-458f-988b-5193fe651dce",
+  "input": "{\"title\": \"Here We Are\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Scars & Stories (Deluxe Edition)'",
+  "status": "verified"
+}

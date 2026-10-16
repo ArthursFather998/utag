@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:23.280184+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41028b36-aaa8-4180-b15e-9a01e4f63403",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34ce7b9c-4b3a-490d-95f6-b5e49f411e95",
+  "input": "{\"title\": \"Family Man\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Tango in the Night'",
+  "status": "verified"
+}

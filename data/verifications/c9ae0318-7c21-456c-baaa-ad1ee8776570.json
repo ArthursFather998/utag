@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:21.974504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dac297e7-d412-4a3c-9fe7-a0d9930267a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9ae0318-7c21-456c-baaa-ad1ee8776570",
+  "input": "{\"title\": \"Without Me\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Curtain Call: The Hits'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:18.018237+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42a397f2-5da7-4aef-b5c9-a647f24672f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03272680-08f6-482e-8f67-0fbec2c31418",
+  "input": "{\"title\": \"I'm in Love with My Car\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'A Night at the Opera'",
+  "status": "verified"
+}

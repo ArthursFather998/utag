@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:29.018739+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44893bbe-b01e-4304-9409-281a051e023e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c36cd610-6fd0-4709-b8f6-c0682101c23a",
+  "input": "{\"title\": \"El Chico Del Apartamento 512\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'La Leyenda'",
+  "status": "verified"
+}

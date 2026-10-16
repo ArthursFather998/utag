@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:31.166882+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb10bed1-c9ac-44ef-8650-0a48adf82a43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aadcdc84-dc53-459b-b9f6-cf32cda93c87",
+  "input": "{\"title\": \"I Write Sins Not Tragedies\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Introducing... Panic at the Disco'",
+  "status": "verified"
+}

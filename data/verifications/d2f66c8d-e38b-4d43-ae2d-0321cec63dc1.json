@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:39.747876+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c2d1030-1eaf-4e30-8773-bb4e79592578",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2f66c8d-e38b-4d43-ae2d-0321cec63dc1",
+  "input": "{\"title\": \"Twenty Eight\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Trilogy'",
+  "status": "verified"
+}

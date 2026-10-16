@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:09.389745+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25906207-32c3-467e-b5f4-037ec9b4f1e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "616d6382-ee78-4158-b9ab-7bc554a4305f",
+  "input": "{\"title\": \"MILLION DOLLAR BABY\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'MILLION DOLLAR BABY'",
+  "status": "verified"
+}

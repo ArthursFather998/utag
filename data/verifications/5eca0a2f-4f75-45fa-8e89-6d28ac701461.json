@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:03.213463+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bba07e06-fd26-487c-89c1-fea7d61f94ce",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5eca0a2f-4f75-45fa-8e89-6d28ac701461",
+  "input": "{\"title\": \"Sing for the Moment\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

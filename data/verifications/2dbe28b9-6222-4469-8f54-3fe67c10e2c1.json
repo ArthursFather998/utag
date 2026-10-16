@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:47.236643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66b6e88a-e6a1-4966-b45a-d9aa62e72a72",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2dbe28b9-6222-4469-8f54-3fe67c10e2c1",
+  "input": "{\"title\": \"Need Your Love So Bad\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Live at the BBC'",
+  "status": "verified"
+}

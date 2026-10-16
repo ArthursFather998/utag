@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:19.753+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0d9b0db-13c3-42a5-9e12-35486fea90ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ca90b99-9ce6-49f4-a849-4e04a1990aba",
+  "input": "{\"title\": \"What Do You Mean?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'What Do You Mean?'",
+  "status": "verified"
+}

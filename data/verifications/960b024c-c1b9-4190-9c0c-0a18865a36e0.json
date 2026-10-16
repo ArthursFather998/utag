@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:30.213558+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2406976f-7ba5-413a-8b61-45a5bc9153cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "960b024c-c1b9-4190-9c0c-0a18865a36e0",
+  "input": "{\"title\": \"Loki Skit 1\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Black Child EP'",
+  "status": "verified"
+}

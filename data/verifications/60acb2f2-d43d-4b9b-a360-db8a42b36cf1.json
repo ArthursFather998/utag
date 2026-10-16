@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:04.148306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44a8a9ad-ceba-46d0-b6ec-b54d3d2fe5c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60acb2f2-d43d-4b9b-a360-db8a42b36cf1",
+  "input": "{\"title\": \"Goodnight Gotham\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'ANTI (Deluxe)'",
+  "status": "verified"
+}

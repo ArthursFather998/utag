@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:18.184286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1a28a2b-c1e8-462b-a2ab-c8b039456458",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1551e900-e013-4fde-9b63-8a5f765e93d2",
+  "input": "{\"title\": \"Remixed\", \"release_type\": \"album\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

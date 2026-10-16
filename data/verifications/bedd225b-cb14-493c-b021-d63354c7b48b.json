@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:35.271935+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a065f823-9721-4321-81ed-918e5674cef4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bedd225b-cb14-493c-b021-d63354c7b48b",
+  "input": "{\"title\": \"Where to Now St. Peter?\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live from the Rainbow Theatre'",
+  "status": "verified"
+}

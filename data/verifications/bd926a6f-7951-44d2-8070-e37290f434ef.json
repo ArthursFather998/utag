@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:26.920062+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f90e430d-8f9a-41aa-8214-04e039c81438",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd926a6f-7951-44d2-8070-e37290f434ef",
+  "input": "{\"title\": \"Remember Me\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Best of Fleetwood Mac 1969-1974'",
+  "status": "verified"
+}

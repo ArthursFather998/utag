@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:15.488359+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f3e8209-5782-4c52-8e6e-6696e2fed4ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15ec21cd-879a-4ba6-b47a-84a48407c14b",
+  "input": "{\"title\": \"Nine in the Afternoon (Live)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'iTunes Live'",
+  "status": "verified"
+}

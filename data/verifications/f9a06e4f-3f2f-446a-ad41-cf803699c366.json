@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:38.029671+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc249933-b6c7-4781-b769-5a6c9f940692",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9a06e4f-3f2f-446a-ad41-cf803699c366",
+  "input": "{\"title\": \"Nikita\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Greatest Hits 1970–2002'",
+  "status": "verified"
+}

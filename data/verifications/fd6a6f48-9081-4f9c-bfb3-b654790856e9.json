@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:41.203321+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3776bfa0-a3a3-4bc7-85e2-1b3b6f418850",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd6a6f48-9081-4f9c-bfb3-b654790856e9",
+  "input": "{\"title\": \"Hallelujah\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hallelujah'",
+  "status": "verified"
+}

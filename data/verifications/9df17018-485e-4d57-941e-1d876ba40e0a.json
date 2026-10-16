@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:21.856682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bfd3da6a-de30-42be-babf-255b483032b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9df17018-485e-4d57-941e-1d876ba40e0a",
+  "input": "{\"title\": \"S\\u00e3o Paulo (with Anitta)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Hurry Up Tomorrow'",
+  "status": "verified"
+}

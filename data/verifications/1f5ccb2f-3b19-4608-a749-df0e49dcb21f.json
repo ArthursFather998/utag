@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:26.773687+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71c37b5d-101e-462e-859c-910817d56b28",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f5ccb2f-3b19-4608-a749-df0e49dcb21f",
+  "input": "{\"title\": \"Again and Again (Barcelona Razzmatazz, 9/11/08)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live Recordings: European Tour 2008'",
+  "status": "verified"
+}

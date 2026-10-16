@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:53.386201+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27dbf5b8-a674-46ac-98dc-2d6295f8685b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7652f4c5-ca49-4826-9456-b3a237ee5caa",
+  "input": "{\"title\": \"Best Song Ever - WestFunk & Steve Smart Remix\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Remixes'",
+  "status": "verified"
+}

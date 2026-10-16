@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:12.62946+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6a2fbe1-20f2-49bb-99e6-524ab8d709d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfee06e7-49e4-4ab4-a86f-0444c4984dd0",
+  "input": "{\"title\": \"Another One Bites the Dust\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Jewels'",
+  "status": "verified"
+}

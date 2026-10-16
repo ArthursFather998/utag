@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:32.358823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c2f4da91-06c0-4205-85ce-e8227b7d9852",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e76c9042-22cb-451b-9e58-6e7630bfbcb9",
+  "input": "{\"title\": \"The Hellcat Spangled Shalalala\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Suck It and See'",
+  "status": "verified"
+}

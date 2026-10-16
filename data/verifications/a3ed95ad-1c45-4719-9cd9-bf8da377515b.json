@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:08.861879+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "431c3b11-682e-430e-97c1-983123fb9aac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3ed95ad-1c45-4719-9cd9-bf8da377515b",
+  "input": "{\"title\": \"Misfire\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Sheer Heart Attack'",
+  "status": "verified"
+}

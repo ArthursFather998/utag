@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:41.349878+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36c1ab5d-f180-4223-b606-86131c9303e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "375b6c78-4567-4e78-ada9-88b79ffffdb8",
+  "input": "{\"title\": \"Intro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Age Ain't Nothing but a Number'",
+  "status": "verified"
+}

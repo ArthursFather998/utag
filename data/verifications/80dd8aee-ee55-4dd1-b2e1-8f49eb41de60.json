@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:23.315721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2974a3ad-b99e-4aaa-a3e5-b00f0a8d1a31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80dd8aee-ee55-4dd1-b2e1-8f49eb41de60",
+  "input": "{\"title\": \"Crazy Little Thing Called Love (featuring J-Status)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Music of the Sun / A Girl Like Me / Good Girl Gone Bad'",
+  "status": "verified"
+}

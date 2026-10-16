@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:24.52043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e80b97ed-fa35-436c-9bd8-598d343ca0ee",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e0ad3683-4d39-4f83-abb3-848ad255c368",
+  "input": "{\"title\": \"We Will Rock You (Fast)\", \"release_type\": \"single\", \"release_year\": 1979}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

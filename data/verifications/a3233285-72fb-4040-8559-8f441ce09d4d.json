@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:40.42249+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83d54f82-dd74-4938-8efc-bc1e0dfc74c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3233285-72fb-4040-8559-8f441ce09d4d",
+  "input": "{\"title\": \"Feel That Again\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Night Train'",
+  "status": "verified"
+}

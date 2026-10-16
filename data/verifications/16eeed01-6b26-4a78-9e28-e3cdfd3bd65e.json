@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:59.301068+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e76e2da8-d119-4397-b0f5-81f3483a5da8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16eeed01-6b26-4a78-9e28-e3cdfd3bd65e",
+  "input": "{\"title\": \"Fantasy (Live at Madison Square Garden)\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

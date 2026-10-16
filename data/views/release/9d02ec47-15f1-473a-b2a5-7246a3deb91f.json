@@ -719,6 +719,23 @@
         "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
       "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:02:18.218613+00:00",
+      "edition": "original",
+      "id": "9c30ba66-117c-4700-80c8-b6e5b7e22c61",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "? (Deluxe)"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:25:51.326195+00:00",
       "edition": "original",
@@ -1329,26 +1346,7 @@
     "title": "2010s RAP HITS : 2014-2020 Era",
     "updated_at": "2026-10-16T03:28:45.395612+00:00"
   },
-  "tracks": [
-    {
-      "apple_id": null,
-      "artist_id": "ce736950-b03b-4374-99a4-28d48942462d",
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:44:37.187697+00:00",
-      "deezer_id": null,
-      "disc_number": 1,
-      "duration_ms": null,
-      "id": "0eae719b-f313-41d3-9f63-8e1a75d6bcaa",
-      "isrc": null,
-      "mbid": null,
-      "release_id": "9d02ec47-15f1-473a-b2a5-7246a3deb91f",
-      "spotify_id": null,
-      "status": "needs_review",
-      "title": "changes",
-      "track_number": null,
-      "updated_at": "2026-10-14T06:44:37.187697+00:00"
-    }
-  ],
+  "tracks": [],
   "verifications": [
     {
       "candidates": [

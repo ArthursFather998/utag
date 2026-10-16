@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:58.433909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7868ee01-8637-40c6-881b-a0b1ef516e51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cba93628-af8c-4d6f-ac44-87d2aa765174",
+  "input": "{\"title\": \"Never Really Loved Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Never Really Loved Me (with Kygo)'",
+  "status": "verified"
+}

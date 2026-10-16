@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:55.341414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1253581e-ee51-4794-96f5-e0c19bb7a24d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d634081e-d723-4193-8fa5-0a6871095c4e",
+  "input": "{\"title\": \"Secret World (Radio Edit)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Secret World – Live in Paris'",
+  "status": "verified"
+}

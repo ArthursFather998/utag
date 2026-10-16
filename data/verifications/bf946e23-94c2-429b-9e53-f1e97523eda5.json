@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:49.02417+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "058d1123-fd43-4cc5-886a-09ebcb50839e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf946e23-94c2-429b-9e53-f1e97523eda5",
+  "input": "{\"title\": \"There's a Thug in My Life (featuring J-Status)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Music of the Sun / A Girl Like Me / Good Girl Gone Bad'",
+  "status": "verified"
+}

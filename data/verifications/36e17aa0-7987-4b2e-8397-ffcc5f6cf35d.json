@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:10.916578+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aac796a4-60ad-4829-801d-0c0123e83ca4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36e17aa0-7987-4b2e-8397-ffcc5f6cf35d",
+  "input": "{\"title\": \"What'll I Do\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'What'll I Do'",
+  "status": "verified"
+}

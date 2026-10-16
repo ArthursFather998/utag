@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:56.314549+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70613b6d-eb37-4805-9332-db2a48d9d1a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ad01302-ba98-4db0-9faf-acb224c0ded2",
+  "input": "{\"title\": \"Que Nadie Sepa Mi Sufrir\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Que Nadie Sepa Mi Sufrir'",
+  "status": "verified"
+}

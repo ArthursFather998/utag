@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:42.142141+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9b891a6-ddf9-47fc-bffd-f530a768a237",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "13b79ef2-0c73-4b05-9d6f-637ad46132b5",
+  "input": "{\"title\": \"midnight love\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

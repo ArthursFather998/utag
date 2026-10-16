@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:04.235331+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09240022-7c47-43fb-b539-82781dd64434",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28a63b0f-0a50-448a-9634-60be2b0a1fa3",
+  "input": "{\"title\": \"This Is the Last Time (Live at Largo, Los Angeles, CA / 2008)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live At Largo (Los Angeles)'",
+  "status": "verified"
+}

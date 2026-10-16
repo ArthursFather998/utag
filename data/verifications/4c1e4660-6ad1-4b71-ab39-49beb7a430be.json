@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:11.981813+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d17ceca-048f-4aae-95db-8cf6a277ef43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c1e4660-6ad1-4b71-ab39-49beb7a430be",
+  "input": "{\"title\": \"Show Me a Good Time\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Thank Me Later'",
+  "status": "verified"
+}

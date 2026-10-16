@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:03.970537+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b99ed59-e08f-49ff-a25b-a8780b0520f3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d286c8d3-4de9-4c34-9e73-a54ac9665e54",
+  "input": "{\"title\": \"Oh Well\", \"release_type\": \"single\", \"release_year\": 1969}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

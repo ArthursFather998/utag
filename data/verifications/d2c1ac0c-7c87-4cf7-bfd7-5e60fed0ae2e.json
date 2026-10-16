@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:39.009729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0245f7df-441e-4a55-99b3-d6b19d65b80a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2c1ac0c-7c87-4cf7-bfd7-5e60fed0ae2e",
+  "input": "{\"title\": \"Shout\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Rule the World: The Greatest Hits'",
+  "status": "verified"
+}

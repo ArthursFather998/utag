@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:38.909993+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4d87ca7-2b9b-4f5c-9e7e-af6433477ada",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88b8584e-5136-4e13-8747-31243d7b8da8",
+  "input": "{\"title\": \"Living Rooms\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'High Fashion'",
+  "status": "verified"
+}

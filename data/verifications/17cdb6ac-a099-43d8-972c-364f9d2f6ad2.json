@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:53.18037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0bdb7939-3302-43be-a036-a45fbd6e74f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17cdb6ac-a099-43d8-972c-364f9d2f6ad2",
+  "input": "{\"title\": \"Disc 2 - We Know We're in Love\", \"track_number\": 33}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 33 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

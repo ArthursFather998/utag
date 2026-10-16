@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:34.123719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2871ddb3-1421-4a1b-96a9-871ccdb77ed6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3bcbe2e-902d-4b01-80a3-e32e3bdb6b49",
+  "input": "{\"title\": \"Sippy Cup\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Cry Baby'",
+  "status": "verified"
+}

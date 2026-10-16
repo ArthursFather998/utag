@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:44.65519+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6140867-6ef0-4217-ad2a-b57b5f0bbb33",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9ee268c5-1065-4f72-b55d-c164bea6b96a",
+  "input": "{\"title\": \"Romeo & Juliet\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

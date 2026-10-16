@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:06.499011+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1cf5b6c4-2c25-45fb-b6a1-66a9acef443c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e8d46be-d1f9-4bb9-b14b-bc3b3b3f4a22",
+  "input": "{\"title\": \"Breathe No More\", \"track_number\": 52}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 52 of 'The Ultimate Collection'",
+  "status": "verified"
+}

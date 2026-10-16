@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:33.254989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eeb21179-3c67-41b1-8c20-f23b563ef993",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41ef54cb-016a-40e4-ab47-1b2feda05806",
+  "input": "{\"title\": \"Middle of Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Middle of Love (with Picture This)'",
+  "status": "verified"
+}

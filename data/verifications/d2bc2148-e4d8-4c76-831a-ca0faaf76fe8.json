@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:58.569036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8b73e72-b454-4242-8b57-863096d1bd6a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d2bc2148-e4d8-4c76-831a-ca0faaf76fe8",
+  "input": "{\"title\": \"Pool Party\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

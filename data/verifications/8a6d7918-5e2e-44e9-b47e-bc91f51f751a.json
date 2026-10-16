@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:19.364358+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54b40aed-9b77-488b-a343-bb63fac10e5c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a6d7918-5e2e-44e9-b47e-bc91f51f751a",
+  "input": "{\"title\": \"I Don't Wanna Be a Loser\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Boys, Boys, Boys'",
+  "status": "verified"
+}

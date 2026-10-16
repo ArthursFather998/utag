@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:36.520138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9cb655f5-6977-4493-813d-315d00a33153",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39b7551f-f77b-4adb-a7a4-05cc11a55c09",
+  "input": "{\"title\": \"Sick & Tired\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Emmerdale'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:10.178544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ba05cc2-31f3-4b0f-a762-e5363f057003",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d26126ce-0e50-4011-98e5-d3b886f324dc",
+  "input": "{\"title\": \"Cherry\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cherry'",
+  "status": "verified"
+}

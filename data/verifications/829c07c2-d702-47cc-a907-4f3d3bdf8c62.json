@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:55.314691+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac6451aa-b862-4ee2-9989-a1a5dc61ac96",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "829c07c2-d702-47cc-a907-4f3d3bdf8c62",
+  "input": "{\"title\": \"Still Feel It\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Rocket'",
+  "status": "verified"
+}

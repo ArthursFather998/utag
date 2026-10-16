@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:18.712506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b93e9bd-0c57-4c73-8011-7cff73cf4f1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "382cc4bb-f69c-4f6f-ae7c-34a3e6be4c06",
+  "input": "{\"title\": \"Prelude to a Kiss\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'As I Am: The Super Edition'",
+  "status": "verified"
+}

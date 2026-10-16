@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:33.046476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c5dff89-affc-485d-a154-84cdd0480129",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "db6f083e-dd9e-491a-960f-19d098b7594a",
+  "input": "{\"title\": \"Exodus\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

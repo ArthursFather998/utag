@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:27.239022+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15a5eaa6-5c44-472f-9956-34bee4b76788",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "941698b5-9ff3-4765-bacc-d9e4ff6c8c25",
+  "input": "{\"title\": \"Candy\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Amala (Deluxe)'",
+  "status": "verified"
+}

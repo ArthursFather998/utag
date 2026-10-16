@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:19.88131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c25a0dd-f4f4-4636-a25e-65f7ff82391e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5e91d71-2988-4826-89ff-2fe162918b0b",
+  "input": "{\"title\": \"tecnica (con aifolh)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'tragaperras'",
+  "status": "verified"
+}

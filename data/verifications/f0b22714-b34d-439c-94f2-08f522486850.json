@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:34.463867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14ad15e9-31df-4e87-9341-fef345651673",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0b22714-b34d-439c-94f2-08f522486850",
+  "input": "{\"title\": \"I Get Up\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Warm Up'",
+  "status": "verified"
+}

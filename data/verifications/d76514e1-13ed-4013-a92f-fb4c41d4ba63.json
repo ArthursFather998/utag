@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:08.506573+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d562d8f9-a8a7-482a-978b-59838fafa1ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d76514e1-13ed-4013-a92f-fb4c41d4ba63",
+  "input": "{\"title\": \"Part of Me\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Bitter Truth'",
+  "status": "verified"
+}

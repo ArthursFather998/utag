@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:54.723136+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4e4b2c4-edc6-4b80-bd03-861b61852a3f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0989e2db-8df6-413d-bb74-a715bb7ba250",
+  "input": "{\"title\": \"My Town, My Guy and Me\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of '20th Century Masters: The Millennium Collection'",
+  "status": "verified"
+}

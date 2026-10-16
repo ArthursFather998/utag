@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:25.338086+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "826fc0ba-1cf3-4b3c-93d0-5c3a8edadd5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56dbe465-4704-482c-afe7-7192aa23a954",
+  "input": "{\"title\": \"Fragile\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fragile'",
+  "status": "verified"
+}

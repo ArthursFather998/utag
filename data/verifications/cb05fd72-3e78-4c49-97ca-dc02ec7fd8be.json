@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:28.606426+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37d7e25c-cf78-41d8-b1d6-bf6c5f95ae1d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cb05fd72-3e78-4c49-97ca-dc02ec7fd8be",
+  "input": "{\"title\": \"My Worlds Acoustic\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

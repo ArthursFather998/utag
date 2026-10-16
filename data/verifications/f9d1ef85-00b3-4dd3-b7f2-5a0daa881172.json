@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:15.868696+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=correct conf=medium -> no write",
+    "verdict": "correct"
+  },
+  "entity_id": "65e1d813-d54c-4fc8-81c5-d8637b5d4422",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "medium"
+  },
+  "id": "f9d1ef85-00b3-4dd3-b7f2-5a0daa881172",
+  "input": {
+    "artist": "lucille",
+    "release": "SHATTER",
+    "title": "charades"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "Deezer and Anghami both list \"charades\" on SHATTER (2025) by lucille (also credited Lucille Hurt); artist and release verified.",
+  "status": "needs_review"
+}

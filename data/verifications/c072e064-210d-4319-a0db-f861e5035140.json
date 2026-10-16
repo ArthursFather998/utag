@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:06.409521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5ced01c-7e19-410b-ad19-c5a7f2182dfe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c072e064-210d-4319-a0db-f861e5035140",
+  "input": "{\"title\": \"La Do Da\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Captured'",
+  "status": "verified"
+}

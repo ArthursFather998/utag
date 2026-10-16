@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:39.424988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43188aaa-c2ad-4f03-978d-42c01d23b21a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a2cac7b-af77-4334-b0d1-74ce3f705cec",
+  "input": "{\"title\": \"Mojo Pin (Live)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Grace EPs'",
+  "status": "verified"
+}

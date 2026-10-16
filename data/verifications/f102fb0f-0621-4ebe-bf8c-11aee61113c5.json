@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:58.999202+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c6b3e59-f6df-487d-92c3-623a167bcb75",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f102fb0f-0621-4ebe-bf8c-11aee61113c5",
+  "input": "{\"title\": \"Liar\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Gold'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:24.253869+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05c1ffbc-8f77-44ef-8224-87303723e979",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "320b654a-5c74-4191-b2dc-ef08ccb48d3f",
+  "input": "{\"title\": \"On a Saturday Night\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'In the Beginning'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:12.262527+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60c55ec0-dc28-44bf-9ac7-be2b451e4e9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f0761e3-1d6a-4764-a3ed-eb67c27c1d29",
+  "input": "{\"title\": \"The Madge Sessions No. 2\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Jumping at Shadows: The Blues Years'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:25.486147+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ca1bded-3c41-458b-bcb0-64a9d930588a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "83ea6005-0e61-45bf-aab5-ed6114593b24",
+  "input": "{\"title\": \"Live at Ford Field\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

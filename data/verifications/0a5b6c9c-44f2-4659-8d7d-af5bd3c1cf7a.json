@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:12.848109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69a8bc1b-d670-485c-98d4-3267206a5b54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a5b6c9c-44f2-4659-8d7d-af5bd3c1cf7a",
+  "input": "{\"title\": \"Whose Rearview\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Highway Desperado'",
+  "status": "verified"
+}

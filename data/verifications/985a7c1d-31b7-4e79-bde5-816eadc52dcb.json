@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:18.777572+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d8a1eae-b6d6-40f3-8169-4bb406a9c83c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "985a7c1d-31b7-4e79-bde5-816eadc52dcb",
+  "input": "{\"title\": \"My Own Prison (Acoustic Version)\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'With Arms Wide Open: A Retrospective'",
+  "status": "verified"
+}

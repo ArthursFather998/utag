@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:51.157273+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a1fc1cf-33bf-404d-a9d5-9106003b3975",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "698556ba-81cf-4c02-85dc-9d4868b01278",
+  "input": "{\"title\": \"Funky Big Band\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'janet.'",
+  "status": "verified"
+}

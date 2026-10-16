@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:51.448767+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9522e6a-69aa-4fcd-85f7-9622e6d6fed1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a62e7ad3-bd28-4a33-81ee-36d2cbed67d9",
+  "input": "{\"title\": \"Until the Night Turns\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Strange Trails (10th Anniversary Edition)'",
+  "status": "verified"
+}

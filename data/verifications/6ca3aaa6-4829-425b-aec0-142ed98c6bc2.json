@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:55.364341+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf7289f8-cd3b-4a96-be40-eec186b6d236",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ca3aaa6-4829-425b-aec0-142ed98c6bc2",
+  "input": "{\"title\": \"Small Town\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Small Town'",
+  "status": "verified"
+}

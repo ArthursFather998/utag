@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:56.157275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "599d9543-b980-4843-a53b-8287aec1f86c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "842c7629-6290-4ede-9c72-7cc1f3ed3ed7",
+  "input": "{\"title\": \"That Way\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:28.567961+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a695db2-2716-4904-967f-4d4e02987272",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80bb8c97-d3e5-4471-975a-13c1b67f75dc",
+  "input": "{\"title\": \"What's This Life For\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live in San Antonio'",
+  "status": "verified"
+}

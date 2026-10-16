@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:53.2457+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4023d2d1-b015-4772-89bd-24c1d205a7be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a66517d0-0af0-460d-bfdd-2074a56e2482",
+  "input": "{\"title\": \"Live Without It\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Back to Life'",
+  "status": "verified"
+}

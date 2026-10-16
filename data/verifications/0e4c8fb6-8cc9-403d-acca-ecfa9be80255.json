@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:59.157322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf18d0ea-3961-416a-8c0a-13d556fa54ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e4c8fb6-8cc9-403d-acca-ecfa9be80255",
+  "input": "{\"title\": \"Bringin' On the Heartbreak\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bringin' On the Heartbreak'",
+  "status": "verified"
+}

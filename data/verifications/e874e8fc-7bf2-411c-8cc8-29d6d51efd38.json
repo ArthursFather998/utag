@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:06.45834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "be39eec7-803c-4cb1-a6f9-84aefdc6f264",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e874e8fc-7bf2-411c-8cc8-29d6d51efd38",
+  "input": "{\"title\": \"Of a Lifetime\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Time3'",
+  "status": "verified"
+}

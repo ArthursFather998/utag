@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:32.959177+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ba7ff48-3fee-462c-b604-92ca603a88a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c813f355-6814-476d-8697-d0bb09dd3c24",
+  "input": "{\"title\": \"Nightslayer\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Nightslayer'",
+  "status": "verified"
+}

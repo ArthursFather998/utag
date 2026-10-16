@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:31.683245+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2db3b49-d30b-45e7-b456-d8fd2a4e6bd0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9344ee8b-b294-4bc3-8e2f-65f85a7b84e0",
+  "input": "{\"title\": \"Kisses Don't Lie\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Coffret 4 CD'",
+  "status": "verified"
+}

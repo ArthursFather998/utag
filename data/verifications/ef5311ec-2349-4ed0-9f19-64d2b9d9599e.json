@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:19.080573+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00e9dcf6-48da-4168-a850-a7f29ef5f7de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef5311ec-2349-4ed0-9f19-64d2b9d9599e",
+  "input": "{\"title\": \"Run a Train (with Future)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Fall-Off'",
+  "status": "verified"
+}

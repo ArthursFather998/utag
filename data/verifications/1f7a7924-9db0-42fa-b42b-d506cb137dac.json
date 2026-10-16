@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:22.854725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42e37843-5508-4dd7-983e-18513e725319",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1f7a7924-9db0-42fa-b42b-d506cb137dac",
+  "input": "{\"title\": \"Teen Romance\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

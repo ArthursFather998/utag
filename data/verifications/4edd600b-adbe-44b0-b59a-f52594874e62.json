@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:30.298673+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c87170e4-f18d-4708-9f13-6b90b303e272",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4edd600b-adbe-44b0-b59a-f52594874e62",
+  "input": "{\"title\": \"Mystery Mountain\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'In the Beginning'",
+  "status": "verified"
+}

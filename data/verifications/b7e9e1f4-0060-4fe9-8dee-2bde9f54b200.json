@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:37.705632+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf6a8699-2454-4f77-93e3-4c178ecb8c75",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7e9e1f4-0060-4fe9-8dee-2bde9f54b200",
+  "input": "{\"title\": \"My Weakness\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Georgia'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:04.005207+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11515431-1bb0-40bf-8c00-b914a94be2da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "08a04c6f-8b40-4147-ab1f-7edfe57a57ad",
+  "input": "{\"title\": \"Live and Learn\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Sound of Young Love'",
+  "status": "verified"
+}

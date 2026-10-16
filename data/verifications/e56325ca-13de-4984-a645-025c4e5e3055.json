@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:56.083384+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed93c5d5-08da-486b-ac8f-1744ba52a0f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e56325ca-13de-4984-a645-025c4e5e3055",
+  "input": "{\"title\": \"Get Throwed\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Life of a Don'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:33.547735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf1feb2a-58e3-4613-bd5a-daac799dfee7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e61ba2d-85fd-4fd9-8dae-a5c031a8b045",
+  "input": "{\"title\": \"quiero sentirme bien\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Sin Miedo (del Amor y Otros Demonios) ∞ [Deluxe Version]'",
+  "status": "verified"
+}

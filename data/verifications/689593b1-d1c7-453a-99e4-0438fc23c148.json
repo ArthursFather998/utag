@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:18.996127+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0c75d50-4a64-4254-bcf7-1cc5551ccc10",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "689593b1-d1c7-453a-99e4-0438fc23c148",
+  "input": "{\"title\": \"Love the Way You Lie\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Recovery'",
+  "status": "verified"
+}

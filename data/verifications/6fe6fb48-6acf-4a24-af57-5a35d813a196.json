@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:56.732834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd989f67-59cb-42a5-94a8-7e248f50be89",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6fe6fb48-6acf-4a24-af57-5a35d813a196",
+  "input": "{\"title\": \"We Are the Champions\", \"release_type\": \"single\", \"release_year\": 1977}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

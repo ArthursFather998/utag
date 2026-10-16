@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:59.906303+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75b5eab2-f96e-415a-a4fe-4ca975d80f77",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92e33a14-f7c2-44b4-b9d3-1c0b3a1803cd",
+  "input": "{\"title\": \"The Night We Met\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Night We Met'",
+  "status": "verified"
+}

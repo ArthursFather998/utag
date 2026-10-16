@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:17.89254+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74650d3c-8829-4838-a18a-bee7779f59f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "648ecfb9-b32a-4ab7-8fd9-7c0abfd980e5",
+  "input": "{\"title\": \"Pools (Roosevelt Remix)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Pools'",
+  "status": "verified"
+}

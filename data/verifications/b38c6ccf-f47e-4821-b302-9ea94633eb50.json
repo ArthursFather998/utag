@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:59.503203+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "503cb167-bf25-4297-ba20-7337ad9528e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b38c6ccf-f47e-4821-b302-9ea94633eb50",
+  "input": "{\"title\": \"Paul (skit)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Kamikaze'",
+  "status": "verified"
+}

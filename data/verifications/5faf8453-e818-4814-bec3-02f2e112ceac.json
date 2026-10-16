@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:42.053388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "789bfbe9-66ce-46af-a446-ce4ad411568d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5faf8453-e818-4814-bec3-02f2e112ceac",
+  "input": "{\"title\": \"Figurines\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Goodnight My Love'",
+  "status": "verified"
+}

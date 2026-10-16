@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:41.942861+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f19d5f90-bd38-45c4-9c56-0ed308da3612",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85738c51-97e3-4509-8fc8-33356cf99ed0",
+  "input": "{\"title\": \"This Ain't a Scene, It's an Arms Race\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

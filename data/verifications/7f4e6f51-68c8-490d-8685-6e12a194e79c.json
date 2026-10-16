@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:35.256719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e993445-deb2-44b0-9b9b-43d2a12e64b5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f4e6f51-68c8-490d-8685-6e12a194e79c",
+  "input": "{\"title\": \"You Must Love Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'You Must Love Me'",
+  "status": "verified"
+}

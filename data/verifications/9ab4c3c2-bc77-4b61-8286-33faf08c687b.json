@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:32.319458+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d897725-8445-4927-91ca-6e3db33d708c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ab4c3c2-bc77-4b61-8286-33faf08c687b",
+  "input": "{\"title\": \"Low\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Out of the Shadows'",
+  "status": "verified"
+}

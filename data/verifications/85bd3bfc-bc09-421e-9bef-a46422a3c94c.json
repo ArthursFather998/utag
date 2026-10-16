@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:41.804815+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d734a7d4-603b-418c-aa8d-b42361fea05d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "85bd3bfc-bc09-421e-9bef-a46422a3c94c",
+  "input": "{\"title\": \"Paper Doll\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

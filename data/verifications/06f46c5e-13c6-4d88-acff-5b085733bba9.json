@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:54.866013+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35310aa2-8063-4011-b07c-0489dda58887",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06f46c5e-13c6-4d88-acff-5b085733bba9",
+  "input": "{\"title\": \"Folkin' Around (Live)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of '...Live in Chicago'",
+  "status": "verified"
+}

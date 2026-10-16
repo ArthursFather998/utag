@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:39.440971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21d1b805-f2d1-4530-be5a-4f2e48934fd6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f73f5b85-0ac8-4a45-8994-8a81a97b09c5",
+  "input": "{\"title\": \"Die for You\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Highlights (Deluxe)'",
+  "status": "verified"
+}

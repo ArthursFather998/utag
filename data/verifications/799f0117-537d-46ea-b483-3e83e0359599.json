@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:02.783958+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1603ef6f-e099-49b1-ac9b-70386b71f064",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "799f0117-537d-46ea-b483-3e83e0359599",
+  "input": "{\"title\": \"Red Tail Lights\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'All American Nightmare'",
+  "status": "verified"
+}

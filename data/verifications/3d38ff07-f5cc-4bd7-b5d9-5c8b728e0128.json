@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:07.103756+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "466c8da4-0f1d-4b53-a20f-c2a22da8e4ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d38ff07-f5cc-4bd7-b5d9-5c8b728e0128",
+  "input": "{\"title\": \"Hurricane\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Vices & Virtues'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:16.096524+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca63948e-b52a-4bbc-b30e-bc3336ec23f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dce3805-cd8b-4355-a3a1-efbf63ab2bf3",
+  "input": "{\"title\": \"Isn't It Midnight\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Isn't It Midnight'",
+  "status": "verified"
+}

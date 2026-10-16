@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:03.486363+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00caa278-020a-49b9-8458-46ef7635da76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d854cab6-69f5-4ab8-ac8c-dca9361ae2ae",
+  "input": "{\"title\": \"I Don't Wanna Cry\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of '#1's'",
+  "status": "verified"
+}

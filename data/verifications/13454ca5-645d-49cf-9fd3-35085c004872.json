@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:37.258643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c11785e4-71cb-452c-8ffd-ab9d4d227399",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13454ca5-645d-49cf-9fd3-35085c004872",
+  "input": "{\"title\": \"Margaret\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Did You Know That There's a Tunnel Under Ocean Blvd'",
+  "status": "verified"
+}

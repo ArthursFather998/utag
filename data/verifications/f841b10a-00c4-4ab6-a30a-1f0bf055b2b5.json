@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:09.248342+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6dbef4c-47f7-4527-a750-10e3683fdbc7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f841b10a-00c4-4ab6-a30a-1f0bf055b2b5",
+  "input": "{\"title\": \"Spread Your Wings\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Kizuna'",
+  "status": "verified"
+}

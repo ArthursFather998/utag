@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:46.347885+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df777b0d-eb7c-44e5-b2b4-c573db8bcb04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef221668-f795-4701-8f7e-6ecc65a2831c",
+  "input": "{\"title\": \"Cuckoo Ballet (Interlude)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'A Matter of Time: The Final Hour'",
+  "status": "verified"
+}

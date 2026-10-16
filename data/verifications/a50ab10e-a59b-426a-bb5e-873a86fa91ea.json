@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:45.640487+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f874be5-ae6e-4ad2-9f29-32f3f7c2182f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a50ab10e-a59b-426a-bb5e-873a86fa91ea",
+  "input": "{\"title\": \"Never Go Back\", \"track_number\": 46}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 46 of 'The Ultimate Collection'",
+  "status": "verified"
+}

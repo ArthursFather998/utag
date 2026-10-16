@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:28.10761+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f0b97a5-f41e-488a-bea7-211ce8a716ab",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fc91fa96-43f6-4d0f-97d4-c3c922985a35",
+  "input": "{\"title\": \"Favorite Girl\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

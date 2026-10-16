@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:39.33101+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7130ede2-3047-4739-9d5e-c3c58cdfac74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4b54f20-2a68-42f3-bab6-ea6d25b66575",
+  "input": "{\"title\": \"Nina's Favorite Song\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'iTunes Originals'",
+  "status": "verified"
+}

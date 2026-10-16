@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:54.361108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87157f68-fee3-4f3b-b4d2-83057dac393c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b0a7dc2-63bf-4268-8247-168e5d60f0a3",
+  "input": "{\"title\": \"Lily of the Valley\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

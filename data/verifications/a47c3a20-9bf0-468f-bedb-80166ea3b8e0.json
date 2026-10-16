@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:38.656108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab627d7f-bbed-427b-805e-3c2c61ad4644",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a47c3a20-9bf0-468f-bedb-80166ea3b8e0",
+  "input": "{\"title\": \"These Strange Times\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Time'",
+  "status": "verified"
+}

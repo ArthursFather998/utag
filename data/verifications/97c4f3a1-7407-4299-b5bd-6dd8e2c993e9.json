@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:16.766436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "651348b7-1b62-487c-83ae-b11a952a4c64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "97c4f3a1-7407-4299-b5bd-6dd8e2c993e9",
+  "input": "{\"title\": \"Rivers of Mercy\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Songs for a Nervous Planet'",
+  "status": "verified"
+}

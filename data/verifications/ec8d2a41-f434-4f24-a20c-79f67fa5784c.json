@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:03.312606+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8db6db2e-a1ee-4426-b924-92f647ca71e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec8d2a41-f434-4f24-a20c-79f67fa5784c",
+  "input": "{\"title\": \"Sandra's Rose\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Scorpion'",
+  "status": "verified"
+}

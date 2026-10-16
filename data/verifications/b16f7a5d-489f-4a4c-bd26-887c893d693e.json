@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:31.238881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13952352-2897-410d-b502-f99604b04632",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b16f7a5d-489f-4a4c-bd26-887c893d693e",
+  "input": "{\"title\": \"To Sir with Love\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Magic Colors: The Lost Album'",
+  "status": "verified"
+}

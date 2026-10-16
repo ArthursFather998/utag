@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:52:08.673276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49789984-ccd5-4c78-8253-3c1640fc15e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "97b13db4-bbe5-4690-8309-cf4dbdeb673a",
+  "input": "{\"title\": \"Scares Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Hardest Love'",
+  "status": "verified"
+}

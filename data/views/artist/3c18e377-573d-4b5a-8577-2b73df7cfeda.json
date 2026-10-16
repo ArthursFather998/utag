@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Wheatus",
+    "confidence": "unknown",
+    "created_at": "2026-10-16T18:01:03.147042+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "3c18e377-573d-4b5a-8577-2b73df7cfeda",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-16T18:01:03.147042+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Wheatus",
+        "id": "3c18e377-573d-4b5a-8577-2b73df7cfeda"
+      },
+      "artwork": [
+        {
+          "id": "b352a492-3b26-42dd-82a9-7551f20a861f",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/38229068-70c2-4147-93dc-39cd4d202a85/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:01:03.345653+00:00",
+      "edition": "original",
+      "id": "e4f85371-988a-4aff-9f19-f2e28c5ef0c5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Dad Songs"
+    }
+  ],
+  "verifications": []
+}

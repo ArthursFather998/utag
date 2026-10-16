@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:10.432503+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bc32723-c545-4cc2-982d-e7314d913815",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18fd1559-7e9e-484d-88b9-dca44d60ca8b",
+  "input": "{\"title\": \"Woman in Chains\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Tears Roll Down (Greatest Hits 82-92)'",
+  "status": "verified"
+}

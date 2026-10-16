@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:12.068411+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb98e73e-814a-4695-951b-6a3d677269fd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47f226fd-6505-44ef-be9d-51ac5726afe3",
+  "input": "{\"title\": \"Not an Option\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Eternal Atake 2'",
+  "status": "verified"
+}

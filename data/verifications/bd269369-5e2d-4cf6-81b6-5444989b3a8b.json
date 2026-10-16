@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:14.361765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bce0d35-afeb-4c7a-b3cc-036cc0c1a864",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd269369-5e2d-4cf6-81b6-5444989b3a8b",
+  "input": "{\"title\": \"The Camera Never Lies\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Reg Strikes Back'",
+  "status": "verified"
+}

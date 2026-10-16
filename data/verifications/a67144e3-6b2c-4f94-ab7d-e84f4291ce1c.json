@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:03.027135+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "697af272-2872-4045-9d4c-9f0b06b31387",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a67144e3-6b2c-4f94-ab7d-e84f4291ce1c",
+  "input": "{\"title\": \"Apparently (Live)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Forest Hills Drive: Live from Fayetteville, NC'",
+  "status": "verified"
+}

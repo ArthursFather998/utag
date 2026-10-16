@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:53.406309+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2874472d-02c6-46cc-b678-5ef8047f8d96",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bf6d852-479d-4a6a-a494-6589743670e4",
+  "input": "{\"title\": \"Anything Is Possible\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Anything Is Possible'",
+  "status": "verified"
+}

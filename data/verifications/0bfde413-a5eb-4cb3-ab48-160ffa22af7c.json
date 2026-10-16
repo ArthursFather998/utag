@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:24.757513+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f7d0784-183d-4413-ae7d-fabf190330b7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0bfde413-a5eb-4cb3-ab48-160ffa22af7c",
+  "input": "{\"title\": \"cocoon\", \"release_type\": \"album\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

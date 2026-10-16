@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:25.767703+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de04dad3-ce43-4641-adf3-5b5db7da839b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "361c66e8-4e62-4d19-af77-47b9b7986530",
+  "input": "{\"title\": \"Live For You - A COLORS SHOW\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live For You - A COLORS SHOW'",
+  "status": "verified"
+}

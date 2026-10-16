@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:39.224227+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6dea351d-7232-4b2b-a3f3-459aad021a84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a15d7893-1309-43f1-8ad0-b67e9b5a2405",
+  "input": "{\"title\": \"Stuck with Me\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Neighbourhood'",
+  "status": "verified"
+}

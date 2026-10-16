@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:20.99252+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5fd4b92-f900-4454-b2da-71b14e352b7f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1b67016-3784-4880-bbf1-e77ee5437d48",
+  "input": "{\"title\": \"Tenement Funster\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Queen's First E.P.'",
+  "status": "verified"
+}

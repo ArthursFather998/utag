@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:45.409052+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e363a317-d20a-469e-87fb-a099da725534",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac524fe4-aec3-41b6-b9c2-d590f74c7031",
+  "input": "{\"title\": \"Just Let Me Cry\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Lesley Gore Anthology'",
+  "status": "verified"
+}

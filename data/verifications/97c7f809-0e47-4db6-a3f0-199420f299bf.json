@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:00.184077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c5e1f4c-6f44-4ae0-ac79-8a4fc2266df9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "97c7f809-0e47-4db6-a3f0-199420f299bf",
+  "input": "{\"title\": \"Moonlight\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

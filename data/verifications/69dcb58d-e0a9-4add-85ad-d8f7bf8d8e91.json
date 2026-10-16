@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:18.780935+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ba579cf-00d3-4585-b813-40da59e6a963",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69dcb58d-e0a9-4add-85ad-d8f7bf8d8e91",
+  "input": "{\"title\": \"Suzanne\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Classics'",
+  "status": "verified"
+}

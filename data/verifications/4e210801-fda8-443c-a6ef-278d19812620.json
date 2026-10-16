@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:33.985418+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f614d64b-875d-40b0-8ed9-48894b797384",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e210801-fda8-443c-a6ef-278d19812620",
+  "input": "{\"title\": \"I Pray\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Rarities'",
+  "status": "verified"
+}

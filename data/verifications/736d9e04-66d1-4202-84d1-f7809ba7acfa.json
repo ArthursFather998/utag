@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:35.306161+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0dc57a47-0eb8-4dea-80d1-16b22749e207",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "736d9e04-66d1-4202-84d1-f7809ba7acfa",
+  "input": "{\"title\": \"LV Bag\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

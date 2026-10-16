@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:55.600102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ab6609c-d32c-44c1-836d-9ed3dbece464",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5c9d269-fb17-4fd1-b0d4-0606370e62ca",
+  "input": "{\"title\": \"Glo Up\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'We Love You Tecca'",
+  "status": "verified"
+}

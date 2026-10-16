@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:55.056108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8add083-2f5a-4a32-b448-cc681dd082ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7fe0691e-5393-4194-95a0-bb4011fd0293",
+  "input": "{\"title\": \"Jem's Theme\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Music for The Starling Girl (Score & Music from the Original Motion Picture)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:47.048657+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed8f4f8c-e089-4c8d-a73f-42bba6faed77",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d412f396-f29f-412b-863a-29339e19b5c9",
+  "input": "{\"title\": \"Wasted on You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Bitter Truth'",
+  "status": "verified"
+}

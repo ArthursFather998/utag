@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:56.149459+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "620f3ff1-c6c7-463e-8549-e1139406f0ed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e3ac0853-2f1a-4a51-9391-7c0119bf4039",
+  "input": "{\"title\": \"Queen on Fire - Live at the Bowl\", \"release_type\": \"album\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

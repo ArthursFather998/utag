@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:17.532147+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c30ec6b-77e2-454d-b434-841fc8ba075a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32d04cab-90d9-4b74-ac12-f21f1acb1a80",
+  "input": "{\"title\": \"Society\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Idol, Vol. 1'",
+  "status": "verified"
+}

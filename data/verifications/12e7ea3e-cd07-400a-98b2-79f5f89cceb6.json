@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:51.347464+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81fcd02a-8f83-45f0-92f2-b123b79b3ea9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12e7ea3e-cd07-400a-98b2-79f5f89cceb6",
+  "input": "{\"title\": \"Last Goodbye\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Jeff Buckley: Music & Photos'",
+  "status": "verified"
+}

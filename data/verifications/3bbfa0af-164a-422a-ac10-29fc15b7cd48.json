@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:30.599615+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d218217d-6824-4bd0-a80f-ece94363f3c0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3bbfa0af-164a-422a-ac10-29fc15b7cd48",
+  "input": "{\"title\": \"PEPSI NAMCO\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:34.561867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7fc4a1c-13b9-49e1-bc1e-ad80a535deed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16e0519b-11eb-4f1f-9cf2-d92adce807ed",
+  "input": "{\"title\": \"Uma Thurman\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'American Beauty/American Psycho'",
+  "status": "verified"
+}

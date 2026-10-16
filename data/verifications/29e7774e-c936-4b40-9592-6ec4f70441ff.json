@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:32.692731+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42352fd2-ffd6-42be-9654-d7f016716a11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29e7774e-c936-4b40-9592-6ec4f70441ff",
+  "input": "{\"title\": \"Black Magic Woman\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live in Boston'",
+  "status": "verified"
+}

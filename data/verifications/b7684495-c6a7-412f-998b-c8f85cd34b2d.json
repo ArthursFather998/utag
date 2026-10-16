@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:42.880979+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5ee7fef-06b9-43c2-af5c-64d30267892a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7684495-c6a7-412f-998b-c8f85cd34b2d",
+  "input": "{\"title\": \"Villematic\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Friday Night Lights'",
+  "status": "verified"
+}

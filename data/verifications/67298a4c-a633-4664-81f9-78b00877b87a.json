@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:43.748098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a9e11e90-10dd-4643-be77-36ea4d6b296d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67298a4c-a633-4664-81f9-78b00877b87a",
+  "input": "{\"title\": \"When I Was Your Man\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Unorthodox Jukebox'",
+  "status": "verified"
+}

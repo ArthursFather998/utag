@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:55.251437+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c9d7cb5-784e-46f3-bbb2-b5311a692e87",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62a62039-1c8e-4ad1-9742-50193f77fc58",
+  "input": "{\"title\": \"Red Rover\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Say You Will'",
+  "status": "verified"
+}

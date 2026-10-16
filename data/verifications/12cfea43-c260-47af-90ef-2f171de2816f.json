@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:11.792718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a762ee0-ae4e-40e5-8b35-f589d25bf165",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12cfea43-c260-47af-90ef-2f171de2816f",
+  "input": "{\"title\": \"Garden\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Songs for October'",
+  "status": "verified"
+}

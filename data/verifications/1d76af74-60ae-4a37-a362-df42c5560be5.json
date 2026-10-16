@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:40.273618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "beab398e-c95b-415c-bcd2-d693a531454f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d76af74-60ae-4a37-a362-df42c5560be5",
+  "input": "{\"title\": \"Now I Know\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Music of the Sun / A Girl Like Me'",
+  "status": "verified"
+}

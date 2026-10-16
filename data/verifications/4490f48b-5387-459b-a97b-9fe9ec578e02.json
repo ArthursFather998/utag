@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:02.006217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b57d4fb6-6413-42c3-ad0b-5296f08149d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4490f48b-5387-459b-a97b-9fe9ec578e02",
+  "input": "{\"title\": \"Tu No Sabes\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Mis Primeros Éxitos'",
+  "status": "verified"
+}

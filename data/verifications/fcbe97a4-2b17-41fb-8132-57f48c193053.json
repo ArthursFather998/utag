@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:18.919564+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4c5f4e6-c59b-4827-b8c7-e3a7e402a9df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fcbe97a4-2b17-41fb-8132-57f48c193053",
+  "input": "{\"title\": \"All the Nasties\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Madman Across the Water'",
+  "status": "verified"
+}

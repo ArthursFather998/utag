@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:48.301473+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81558755-fd4b-4b47-a2ae-245c37818c36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3aaa8517-5ea5-4484-bd30-1a10f83d843e",
+  "input": "{\"title\": \"Ogre Battle\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Queen II'",
+  "status": "verified"
+}

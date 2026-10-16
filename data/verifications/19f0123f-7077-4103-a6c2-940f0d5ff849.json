@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:16.352392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4777ae6f-f35c-48cc-9ffe-c6544bd5907b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19f0123f-7077-4103-a6c2-940f0d5ff849",
+  "input": "{\"title\": \"Si T\\u00fa Me Quisieras\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Si Tú Me Quisieras'",
+  "status": "verified"
+}

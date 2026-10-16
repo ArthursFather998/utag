@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:44.57704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85b8d3f8-69c3-4406-bb44-933863d9b1a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57ac60a5-a03e-4495-be12-65e26645bcf5",
+  "input": "{\"title\": \"Night Flight\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live at Sin-é (Legacy Edition)'",
+  "status": "verified"
+}

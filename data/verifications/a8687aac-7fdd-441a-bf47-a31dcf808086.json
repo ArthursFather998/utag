@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:51.338649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c29ff44-abab-42b0-9a41-9e4ab10cade8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8687aac-7fdd-441a-bf47-a31dcf808086",
+  "input": "{\"title\": \"Gypsy\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Mirage Tour '82'",
+  "status": "verified"
+}

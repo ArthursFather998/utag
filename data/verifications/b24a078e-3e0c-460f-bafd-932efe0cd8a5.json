@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:49.063544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "223b00a5-9430-498f-9667-8de8156b68d3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b24a078e-3e0c-460f-bafd-932efe0cd8a5",
+  "input": "{\"title\": \"A Night at the Symphony\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

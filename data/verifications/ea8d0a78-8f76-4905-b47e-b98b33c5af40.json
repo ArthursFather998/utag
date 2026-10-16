@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:12:37.455102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ddb1a361-4f3c-438b-b384-bb07e0503a06",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ea8d0a78-8f76-4905-b47e-b98b33c5af40",
+  "input": "{\"title\": \"Love in the Sky\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

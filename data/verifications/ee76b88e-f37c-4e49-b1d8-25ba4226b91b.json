@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:32.60741+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7834a2b2-b77c-479f-9443-e68c44e8bb1a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee76b88e-f37c-4e49-b1d8-25ba4226b91b",
+  "input": "{\"title\": \"Salt And The Sea\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'That Sea, The Gambler'",
+  "status": "verified"
+}

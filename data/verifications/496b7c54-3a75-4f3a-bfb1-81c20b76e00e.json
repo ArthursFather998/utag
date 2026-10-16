@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:29.901474+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fa490bb-1dc9-4f66-82fc-bd0f760e219b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "496b7c54-3a75-4f3a-bfb1-81c20b76e00e",
+  "input": "{\"title\": \"What's My Name?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'What's My Name?'",
+  "status": "verified"
+}

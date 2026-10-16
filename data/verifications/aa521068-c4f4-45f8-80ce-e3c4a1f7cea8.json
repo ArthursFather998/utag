@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:02.158514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40593847-82b1-47ef-aef5-35d52ba6a1e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa521068-c4f4-45f8-80ce-e3c4a1f7cea8",
+  "input": "{\"title\": \"Before And After (Losing You)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Before & After'",
+  "status": "verified"
+}

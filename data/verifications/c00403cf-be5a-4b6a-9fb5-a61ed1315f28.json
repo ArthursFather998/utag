@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:05.359492+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f33728ec-f870-4b91-863d-70c9323e9f5d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c00403cf-be5a-4b6a-9fb5-a61ed1315f28",
+  "input": "{\"title\": \"Lovin', Touchin', Squeezin'\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Live in Concert at Lollapalooza'",
+  "status": "verified"
+}

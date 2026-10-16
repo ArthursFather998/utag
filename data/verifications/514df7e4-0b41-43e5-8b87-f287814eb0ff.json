@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:49.505152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb5af2d8-80ac-4bba-9c1a-fe89c67c9eb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "514df7e4-0b41-43e5-8b87-f287814eb0ff",
+  "input": "{\"title\": \"I'm Sorry\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Real Uzi'",
+  "status": "verified"
+}

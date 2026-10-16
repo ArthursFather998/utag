@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:57.276242+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aea1ab98-9015-46da-a0ee-2661f479a666",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04c956f1-6054-49ec-904f-344d81ccf0f8",
+  "input": "{\"title\": \"Carol of the Bells\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Dawn of Grace'",
+  "status": "verified"
+}

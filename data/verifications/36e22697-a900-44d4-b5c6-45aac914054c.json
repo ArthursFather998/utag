@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:58.883046+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9b0393d-2428-4122-9190-0b7b6e1e2947",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36e22697-a900-44d4-b5c6-45aac914054c",
+  "input": "{\"title\": \"I Gotta Be\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Playlist: The Very Best of Jagged Edge'",
+  "status": "verified"
+}

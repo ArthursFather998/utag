@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:37.140315+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c180db5-9636-46eb-9f64-b25f66482ef0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1a96986-b54f-43c5-928c-65ac133037c9",
+  "input": "{\"title\": \"Haunt Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Sad Boys'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:22.997714+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8cbb139-014c-479a-bb30-40ab4271a558",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17040eba-b2de-4cb2-a24b-09081cf3125e",
+  "input": "{\"title\": \"Doesn't Really Matter (Remix)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Doesn't Really Matter (Remix)'",
+  "status": "verified"
+}

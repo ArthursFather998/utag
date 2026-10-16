@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:39.275996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8ed3b43-c955-478e-9ec3-1469d33183f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32bbad51-9eb5-4a7b-9af8-0ba659bcc239",
+  "input": "{\"title\": \"All Over Now\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Gemini'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:25.226118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "455e40e5-127e-44a7-aefa-cd3c3b597115",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc974b15-3798-4459-bcd6-8333946725d4",
+  "input": "{\"title\": \"Terrence Loves You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Honeymoon'",
+  "status": "verified"
+}

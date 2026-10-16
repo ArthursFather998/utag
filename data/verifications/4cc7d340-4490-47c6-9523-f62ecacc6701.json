@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:52.089081+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfdd3a20-4deb-4851-bc53-55d25fd48333",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4cc7d340-4490-47c6-9523-f62ecacc6701",
+  "input": "{\"title\": \"Grand Theft Autumn/Where Is Your Boy\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Take This to Your Grave'",
+  "status": "verified"
+}

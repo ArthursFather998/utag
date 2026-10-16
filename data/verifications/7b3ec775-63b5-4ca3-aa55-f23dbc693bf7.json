@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:19.750824+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c3aacd5-f1c6-4838-b3ec-7dc087cc5f7b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b3ec775-63b5-4ca3-aa55-f23dbc693bf7",
+  "input": "{\"title\": \"Rollin' Man\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Mr. Wonderful'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:31.753972+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e60e8b58-d852-4c9c-8c52-f76238370402",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30fe0cab-671c-497d-a172-977f42caba40",
+  "input": "{\"title\": \"Melt Away\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

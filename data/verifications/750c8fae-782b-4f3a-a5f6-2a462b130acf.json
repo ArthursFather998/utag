@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:32.500037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3be3f0d7-d5ec-47af-8db0-eae5cebbb2c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "750c8fae-782b-4f3a-a5f6-2a462b130acf",
+  "input": "{\"title\": \"Florissant\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Solstice'",
+  "status": "verified"
+}

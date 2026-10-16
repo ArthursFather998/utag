@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:36.96316+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "369fe5c8-1b16-4faf-917e-2c2ecc16a6fd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cb62d055-7399-44cf-b469-1c5ba2d3959f",
+  "input": "{\"title\": \"The Love Collection\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

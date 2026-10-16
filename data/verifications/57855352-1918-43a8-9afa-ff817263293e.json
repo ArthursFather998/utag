@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:15.480109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4c749af-f09c-46cb-bfa6-4c26c34264ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57855352-1918-43a8-9afa-ff817263293e",
+  "input": "{\"title\": \"Paul Revere\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Paul Revere'",
+  "status": "verified"
+}

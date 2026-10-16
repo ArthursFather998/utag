@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:52.247002+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59ade3d3-6b6b-4c74-ad3f-f19a0efa79e2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "81f519bb-c78c-4229-ad42-72b6e551786a",
+  "input": "{\"title\": \"The Vault Playlist, Vol. 1\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

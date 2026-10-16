@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:04.796762+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bca98ea2-4baf-44be-9908-e450453f3a3d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01c124ba-d071-4775-9cbc-ae9cc838a953",
+  "input": "{\"title\": \"Long Lonely Nights\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Essence of Bobby Vinton'",
+  "status": "verified"
+}

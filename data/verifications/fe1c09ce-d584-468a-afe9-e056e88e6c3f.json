@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:28.729945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ce96c84-dc98-48e1-8b6a-154a4df4513b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe1c09ce-d584-468a-afe9-e056e88e6c3f",
+  "input": "{\"title\": \"Despues De Enero\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of 'La Leyenda'",
+  "status": "verified"
+}

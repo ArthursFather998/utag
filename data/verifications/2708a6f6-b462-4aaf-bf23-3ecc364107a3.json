@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:33.067413+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40a93bc2-cf99-4c3a-ae57-eeb7f07bcfc8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2708a6f6-b462-4aaf-bf23-3ecc364107a3",
+  "input": "{\"title\": \"Eternity\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Far From Close'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:38.875094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "730db74a-2c60-4afc-84b1-faea7dc166b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5da8a41b-1d69-48c6-93a2-4e0da4afc100",
+  "input": "{\"title\": \"Como La Flor\", \"track_number\": 81}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 81 of 'La Leyenda'",
+  "status": "verified"
+}

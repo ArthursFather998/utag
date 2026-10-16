@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:34.730936+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f414f72-426e-42e6-be51-64b6e1e68b86",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5b2a762-a213-480c-a3b2-42ae5b4159a2",
+  "input": "{\"title\": \"New Star\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Saturnine Martial & Lunatic'",
+  "status": "verified"
+}

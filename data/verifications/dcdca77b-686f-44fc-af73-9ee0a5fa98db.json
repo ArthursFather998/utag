@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:10.173846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77fd4105-d9c2-4a37-b382-4f6cd1324141",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcdca77b-686f-44fc-af73-9ee0a5fa98db",
+  "input": "{\"title\": \"Love in This Club Part II\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Here I Stand'",
+  "status": "verified"
+}

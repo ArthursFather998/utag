@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:28.908734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55213d1d-947d-4259-afc5-e4462fbb7dc7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8a0284c2-6946-4e7c-a277-36942bd0e876",
+  "input": "{\"title\": \"Love\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

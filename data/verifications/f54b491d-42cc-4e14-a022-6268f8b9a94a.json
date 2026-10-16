@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:40.204156+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "18036b7b-e2c9-4b3b-a9de-ddb9fd6c8ba8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f54b491d-42cc-4e14-a022-6268f8b9a94a",
+  "input": "{\"title\": \"The Eyes of a Woman\", \"track_number\": 45}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 45 of 'Time3'",
+  "status": "verified"
+}

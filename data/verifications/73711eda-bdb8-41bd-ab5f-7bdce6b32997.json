@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:04.96496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14464da1-45f9-4799-a47f-8aa2869e07c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73711eda-bdb8-41bd-ab5f-7bdce6b32997",
+  "input": "{\"title\": \"First Dance (feat. Usher)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'My World'",
+  "status": "verified"
+}

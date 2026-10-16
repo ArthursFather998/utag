@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:26.641733+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b5433af-935b-49ba-87c5-a30136c36694",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8cd5b09a-73f1-4510-b679-da6bd97c379e",
+  "input": "{\"title\": \"The Best of Lesley Gore\", \"release_type\": \"album\", \"release_year\": 1977}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

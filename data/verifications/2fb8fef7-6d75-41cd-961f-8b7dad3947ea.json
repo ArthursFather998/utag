@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:01.855634+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b64c8087-b8b9-41ae-9497-1128f5cf4e22",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2fb8fef7-6d75-41cd-961f-8b7dad3947ea",
+  "input": "{\"title\": \"Monologue - Reverb, The Doors\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Complete Live at Sin-é'",
+  "status": "verified"
+}

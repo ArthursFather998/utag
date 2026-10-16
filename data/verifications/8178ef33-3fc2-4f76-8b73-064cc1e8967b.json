@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:22.058588+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89a5a3a7-9bb7-49d1-ae99-879850cc08e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8178ef33-3fc2-4f76-8b73-064cc1e8967b",
+  "input": "{\"title\": \"Cumbia Medley\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Selena: The Original Motion Picture Soundtrack'",
+  "status": "verified"
+}

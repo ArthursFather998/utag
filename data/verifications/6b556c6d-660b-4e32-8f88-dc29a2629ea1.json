@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:06.535934+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eecb59da-eb1f-421d-a9ad-68a65e5f722f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6b556c6d-660b-4e32-8f88-dc29a2629ea1",
+  "input": "{\"title\": \"Tango in the Night\", \"release_type\": \"album\", \"release_year\": 1987}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:39.765126+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71eefe44-b1bc-4687-9e89-669de176ffa1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51eec6f3-873c-4aa3-adfc-d69c14c3e6e2",
+  "input": "{\"title\": \"It's a Wrap\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Me. I Am Mariah... The Elusive Chanteuse (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:53.314255+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1d0d9ae-c5df-4655-8f54-eac53aa1d85f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "252b6030-c0ce-4a9e-9e26-316a74b84a46",
+  "input": "{\"title\": \"Here We Go\", \"release_type\": \"single\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

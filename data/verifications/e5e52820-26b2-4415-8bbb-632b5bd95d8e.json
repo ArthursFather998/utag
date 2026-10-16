@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:25.156314+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f6b2b83-72e0-44d7-9bee-839a6237ee3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5e52820-26b2-4415-8bbb-632b5bd95d8e",
+  "input": "{\"title\": \"From the Start\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Bewitched: The Goddess Edition'",
+  "status": "verified"
+}

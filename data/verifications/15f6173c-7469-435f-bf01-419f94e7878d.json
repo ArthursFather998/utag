@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:31.097157+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab83c3bf-67e7-4ff8-9876-dd4240e68930",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15f6173c-7469-435f-bf01-419f94e7878d",
+  "input": "{\"title\": \"Un-Thinkable (I'm Ready)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Un-Thinkable (I'm Ready)'",
+  "status": "verified"
+}

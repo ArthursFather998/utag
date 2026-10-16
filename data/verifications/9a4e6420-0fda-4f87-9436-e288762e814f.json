@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:24.976077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34fefd6b-3cb0-4aab-916c-07d9c6dd037f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9a4e6420-0fda-4f87-9436-e288762e814f",
+  "input": "{\"title\": \"Kiss Me\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

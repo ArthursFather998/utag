@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Avenoir",
+    "id": "6e002910-ba41-4d2c-bb4d-d863c9c5c3d3"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:19.710968+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "b84f8d1f-7a34-4350-81e9-d9a144149bca",
+      "phash": null,
+      "release_id": "19797f5a-166b-40aa-aa65-6a60a720b52a",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/e3b67f97-b612-447a-9950-ed663b2cf32b/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "6e002910-ba41-4d2c-bb4d-d863c9c5c3d3",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-16T18:00:19.36736+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "19797f5a-166b-40aa-aa65-6a60a720b52a",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Shameless",
+    "updated_at": "2026-10-16T18:00:19.36736+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6e002910-ba41-4d2c-bb4d-d863c9c5c3d3",
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:19.588912+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "758a191f-7494-4baf-8ad8-45da180c1d0f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "19797f5a-166b-40aa-aa65-6a60a720b52a",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Shameless",
+      "track_number": null,
+      "updated_at": "2026-10-16T18:00:19.588912+00:00"
+    }
+  ],
+  "verifications": []
+}

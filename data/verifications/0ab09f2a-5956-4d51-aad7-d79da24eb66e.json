@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:07.060306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a486de68-b733-4171-85d5-296d517fc53a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0ab09f2a-5956-4d51-aad7-d79da24eb66e",
+  "input": "{\"title\": \"Forever\", \"release_type\": \"single\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

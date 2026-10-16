@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:02.405631+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd164b7b-d582-40e2-ab59-c888957d4e94",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c05badaa-0c18-4c0f-aef2-a3814852fceb",
+  "input": "{\"title\": \"I Was Born to Love You\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

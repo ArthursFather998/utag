@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:21.644427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91f493eb-9c2e-4a62-96d0-a051da3b703e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a99638d6-0169-4d2f-90f9-768fb83901f8",
+  "input": "{\"title\": \"An Evening with Silk Sonic\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

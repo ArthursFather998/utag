@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:31.484833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0d9f8fe-a0e1-495b-a408-dbc6cf8233f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4a639e4-c8d0-4225-962b-6ea5f8eb745d",
+  "input": "{\"title\": \"WHITNEY\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'WHITNEY'",
+  "status": "verified"
+}

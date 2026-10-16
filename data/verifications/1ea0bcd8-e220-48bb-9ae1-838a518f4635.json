@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:33.941755+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c07669e-593c-4bcb-9907-822011e53f92",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1ea0bcd8-e220-48bb-9ae1-838a518f4635",
+  "input": "{\"title\": \"I Am Human\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:55.270908+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb98db5d-b924-4eb4-bc03-89558bad384c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a7c5be3-5cd4-40cb-b007-ffb7165ca47f",
+  "input": "{\"title\": \"Ten Times Blue\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Come Softly to Me: The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

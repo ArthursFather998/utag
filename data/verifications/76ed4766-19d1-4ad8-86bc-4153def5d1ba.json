@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:49.953489+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f2d5230-fced-48f2-bf64-b8124a59bf21",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76ed4766-19d1-4ad8-86bc-4153def5d1ba",
+  "input": "{\"title\": \"Above the Rim\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Hootie Mack'",
+  "status": "verified"
+}

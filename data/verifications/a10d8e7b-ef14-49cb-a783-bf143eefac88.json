@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:34.199602+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "495d1c52-f746-477b-b37e-8f674703d06e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a10d8e7b-ef14-49cb-a783-bf143eefac88",
+  "input": "{\"title\": \"The Brightside\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Come Over When You're Sober, Pt. 1'",
+  "status": "verified"
+}

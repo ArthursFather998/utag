@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:47.438348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c2a167d-b0f0-4c77-9aea-6d7cc0294665",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0555533-3728-466e-9954-d48b827e78c1",
+  "input": "{\"title\": \"Death of Me\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Smile 2: The Skye Riley EP'",
+  "status": "verified"
+}

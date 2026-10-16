@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:19.336255+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7fc7676-7434-42f7-96e7-d5c18dd937cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f6919f7-4a85-4a66-83fe-e9b80115a754",
+  "input": "{\"title\": \"Adore\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Same Kind of Different'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:58.689773+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc9d9052-c524-4090-9d59-7ef276de1a84",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0079f8ab-2602-42cb-b94e-130aa408b0dd",
+  "input": "{\"title\": \"Doesn't Really Matter\", \"release_type\": \"single\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

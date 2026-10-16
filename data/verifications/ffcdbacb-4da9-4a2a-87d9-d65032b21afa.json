@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:12.345022+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cdc3c2fe-f6a2-495f-be5f-877931a10a6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ffcdbacb-4da9-4a2a-87d9-d65032b21afa",
+  "input": "{\"title\": \"Sabotage\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'A Matter of Time: The Final Hour'",
+  "status": "verified"
+}

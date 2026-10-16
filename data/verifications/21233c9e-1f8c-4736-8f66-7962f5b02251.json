@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:27.511987+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71662044-e56b-493c-91a6-e8c971ef13c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21233c9e-1f8c-4736-8f66-7962f5b02251",
+  "input": "{\"title\": \"Jimmy Cooks\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Honestly, Nevermind'",
+  "status": "verified"
+}

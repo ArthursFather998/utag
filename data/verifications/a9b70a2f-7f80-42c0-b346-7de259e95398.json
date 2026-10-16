@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:52.722292+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f11c1a04-bab1-4900-ba8f-ca300fe594c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9b70a2f-7f80-42c0-b346-7de259e95398",
+  "input": "{\"title\": \"Ya Ves\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Through the Years / A Traves de los Años'",
+  "status": "verified"
+}

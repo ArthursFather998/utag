@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:15.312179+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b10fe21f-5b41-4681-b60b-4b4996c19831",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32cd5dd7-c440-449c-87ae-2a40552e97a5",
+  "input": "{\"title\": \"Disturbia\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Disturbia'",
+  "status": "verified"
+}

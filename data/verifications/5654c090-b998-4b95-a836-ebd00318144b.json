@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:10.93857+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "32883f6b-5a41-4c1d-b6a0-6ae7ee444d29",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5654c090-b998-4b95-a836-ebd00318144b",
+  "input": "{\"title\": \"Always Mine\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Lo Mejor de...Selena'",
+  "status": "verified"
+}

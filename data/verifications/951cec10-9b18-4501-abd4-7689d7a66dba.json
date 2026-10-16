@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:16.769552+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e360c53b-d775-44fd-bbd0-b10bbf45595d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "951cec10-9b18-4501-abd4-7689d7a66dba",
+  "input": "{\"title\": \"Misbehaving\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Misbehaving'",
+  "status": "verified"
+}

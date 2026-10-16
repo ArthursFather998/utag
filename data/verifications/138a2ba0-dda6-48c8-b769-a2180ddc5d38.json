@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:36.918849+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51727aca-a679-4eb2-a24e-f530dcd2db9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "138a2ba0-dda6-48c8-b769-a2180ddc5d38",
+  "input": "{\"title\": \"La Carcacha/Besitos\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Selena Live!'",
+  "status": "verified"
+}

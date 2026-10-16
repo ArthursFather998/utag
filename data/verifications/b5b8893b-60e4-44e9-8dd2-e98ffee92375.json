@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:18.867867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0139a3e-2d8d-4aa9-9306-7dab9708963c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5b8893b-60e4-44e9-8dd2-e98ffee92375",
+  "input": "{\"title\": \"Gone Forever\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'One-X / Live at the Palace'",
+  "status": "verified"
+}

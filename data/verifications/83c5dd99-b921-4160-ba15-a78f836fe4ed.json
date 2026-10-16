@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:08.22198+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db2c85f5-9fe5-4fe2-92e1-443073994197",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83c5dd99-b921-4160-ba15-a78f836fe4ed",
+  "input": "{\"title\": \"The Hellcat Spangled Shalalala\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Hellcat Spangled Shalalala'",
+  "status": "verified"
+}

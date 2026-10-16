@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:49.493997+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "23dfa0c2-1112-4a17-a2a7-1f1e19d01000",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ccb9cc22-a69d-44e5-9169-ca1c96ae0614",
+  "input": "{\"title\": \"Time Is Ticking Out\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Dreams – The Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:46.867017+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6dd07122-eb9d-43d1-8c14-cde719202fa4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "028d0674-a283-4f74-b094-05ac10841db9",
+  "input": "{\"title\": \"My City (with Onefour)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'My City (with Onefour)'",
+  "status": "verified"
+}

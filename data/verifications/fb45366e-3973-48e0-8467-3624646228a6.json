@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:36.787369+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67ed9b3b-249f-4950-a7c9-7b9313de78bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb45366e-3973-48e0-8467-3624646228a6",
+  "input": "{\"title\": \"Leather Weather\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Wiped Out! (10th Anniversary Edition)'",
+  "status": "verified"
+}

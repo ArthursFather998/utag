@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:01.082649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9239ef22-7134-4ec1-a304-f8227b40f1fd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "91709bda-0ace-4722-afda-6e1b45dfc54e",
+  "input": "{\"title\": \"Rhythm Nation\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rhythm Nation'",
+  "status": "verified"
+}

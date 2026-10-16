@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:17.349545+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2cc6be0a-83d7-4003-a15c-b1624e0624d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99eecdfd-73b6-44ee-addc-cf16d6d14b44",
+  "input": "{\"title\": \"Still Burning\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Divine Discontent'",
+  "status": "verified"
+}

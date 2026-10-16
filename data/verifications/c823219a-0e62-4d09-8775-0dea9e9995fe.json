@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:31.791863+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10092927-6ae6-4d79-96c6-f327b47a9f5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c823219a-0e62-4d09-8775-0dea9e9995fe",
+  "input": "{\"title\": \"Losing My Mind\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Roses'",
+  "status": "verified"
+}

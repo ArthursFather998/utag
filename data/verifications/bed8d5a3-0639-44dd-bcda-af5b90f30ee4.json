@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:51.184433+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35372f1b-a751-4a66-85da-f605723d9680",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bed8d5a3-0639-44dd-bcda-af5b90f30ee4",
+  "input": "{\"title\": \"Kisses Don't Lie\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Music of the Sun / A Girl Like Me'",
+  "status": "verified"
+}

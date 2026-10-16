@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:17.627295+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ad5d8d19-38b5-42f1-a93b-c5172b2e9df4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79f3a1cc-4c7b-4952-b645-96461c8c2f1f",
+  "input": "{\"title\": \"Heartbreaker\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'First Band on the Moon'",
+  "status": "verified"
+}

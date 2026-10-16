@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:04.418194+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c9f420d-1b72-40f5-b8a9-49e0b5dc780b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05ad6751-f719-4579-9223-9d82920a98bd",
+  "input": "{\"title\": \"Costumbres\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mis Primeros Éxitos'",
+  "status": "verified"
+}

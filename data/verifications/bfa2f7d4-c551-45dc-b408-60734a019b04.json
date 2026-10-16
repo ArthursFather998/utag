@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:35.720299+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f2dbb2a-9a21-4544-8e4f-0aa99c9de1b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bfa2f7d4-c551-45dc-b408-60734a019b04",
+  "input": "{\"title\": \"Ticking\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Never Too Late'",
+  "status": "verified"
+}

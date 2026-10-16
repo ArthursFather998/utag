@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:03.488009+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67d5a2ae-49dc-4708-91de-c1e4a24900e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07e39047-ac5c-41ef-afe2-a2e0187ec48d",
+  "input": "{\"title\": \"Back for You\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Take Me Home'",
+  "status": "verified"
+}

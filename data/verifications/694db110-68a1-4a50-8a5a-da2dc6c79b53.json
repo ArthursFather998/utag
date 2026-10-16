@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:07.925638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "142d5a27-b6c9-4118-9d6c-df1571f0beba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "694db110-68a1-4a50-8a5a-da2dc6c79b53",
+  "input": "{\"title\": \"Say My Name\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Mathew Knowles & Music World Present Vol.1: Love Destiny'",
+  "status": "verified"
+}

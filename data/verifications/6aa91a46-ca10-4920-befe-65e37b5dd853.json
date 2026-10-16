@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:05.901862+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d52b40d-72c0-42bf-b1b6-9c81bffdd933",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6aa91a46-ca10-4920-befe-65e37b5dd853",
+  "input": "{\"title\": \"I Can Tell\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'California Nights with Bonus Tracks'",
+  "status": "verified"
+}

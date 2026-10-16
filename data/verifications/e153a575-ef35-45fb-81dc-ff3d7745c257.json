@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:20.204315+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "529b7715-b5b7-4e75-a624-288893d1537b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e153a575-ef35-45fb-81dc-ff3d7745c257",
+  "input": "{\"title\": \"I'm Back\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

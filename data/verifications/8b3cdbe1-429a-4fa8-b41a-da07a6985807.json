@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:42.340967+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a45222b-6aac-4597-81e9-2e963eff1d8a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b3cdbe1-429a-4fa8-b41a-da07a6985807",
+  "input": "{\"title\": \"Radio Ga Ga\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Absolute Greatest'",
+  "status": "verified"
+}

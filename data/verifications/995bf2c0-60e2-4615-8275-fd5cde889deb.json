@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:43.164183+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec5f78c9-b47d-4e06-b4b8-73b122ed69f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "995bf2c0-60e2-4615-8275-fd5cde889deb",
+  "input": "{\"title\": \"I Didn't Want It This Way\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Didn't Want It This Way'",
+  "status": "verified"
+}

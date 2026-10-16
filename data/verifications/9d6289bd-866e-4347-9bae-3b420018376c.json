@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:03.950485+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd41cf79-e0b4-44a8-93d2-e04efe51a59d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d6289bd-866e-4347-9bae-3b420018376c",
+  "input": "{\"title\": \"i will always be there 4u\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'feelings are real, i've felt them before'",
+  "status": "verified"
+}

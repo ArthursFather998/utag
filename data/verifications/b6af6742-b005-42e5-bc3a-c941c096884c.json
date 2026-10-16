@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:37.933375+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2268d62-2895-4e9a-a943-8eb83287dfb9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6af6742-b005-42e5-bc3a-c941c096884c",
+  "input": "{\"title\": \"Bittersweet Tragedy\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Pity Party'",
+  "status": "verified"
+}

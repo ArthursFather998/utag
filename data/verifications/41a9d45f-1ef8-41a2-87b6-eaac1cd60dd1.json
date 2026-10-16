@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:11.421696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ea9a373-c8b7-4a5d-be2f-b4b26bcaa23c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41a9d45f-1ef8-41a2-87b6-eaac1cd60dd1",
+  "input": "{\"title\": \"The Pleasure Principle\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Design of a Decade: 1986–1996'",
+  "status": "verified"
+}

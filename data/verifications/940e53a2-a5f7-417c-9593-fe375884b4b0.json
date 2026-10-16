@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:18.560877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "76f472b4-3a69-4040-a67b-50685662b054",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "940e53a2-a5f7-417c-9593-fe375884b4b0",
+  "input": "{\"title\": \"Somewhere Only We Know\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Best of Keane'",
+  "status": "verified"
+}

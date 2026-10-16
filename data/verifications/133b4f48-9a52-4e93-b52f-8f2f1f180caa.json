@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:18.846659+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b760b08b-327e-403b-8103-81a5ed5ad12b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "133b4f48-9a52-4e93-b52f-8f2f1f180caa",
+  "input": "{\"title\": \"Terco Corazon\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Mis Primeros Éxitos'",
+  "status": "verified"
+}

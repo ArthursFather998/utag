@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:30.012115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d7efef5-2e56-4e65-ba1c-e8de30fdbd61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f6d81b2-e629-4e22-a15c-d1033cb9fd3f",
+  "input": "{\"title\": \"Greensight\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Just a Matter of Slime'",
+  "status": "verified"
+}

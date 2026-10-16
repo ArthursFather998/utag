@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:03.207817+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "725ab161-1494-46b1-b7ca-3eb1ceb21f16",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67b1ef19-3dcc-4cbe-9efc-55740c107055",
+  "input": "{\"title\": \"Papa Look I'm in Love\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Encore'",
+  "status": "verified"
+}

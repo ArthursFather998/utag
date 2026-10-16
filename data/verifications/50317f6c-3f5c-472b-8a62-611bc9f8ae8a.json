@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:33.422587+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c57a1c37-2d84-41ae-b0d7-75cbdb34e5e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50317f6c-3f5c-472b-8a62-611bc9f8ae8a",
+  "input": "{\"title\": \"So Damn Real\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Genesis (Deluxe)'",
+  "status": "verified"
+}

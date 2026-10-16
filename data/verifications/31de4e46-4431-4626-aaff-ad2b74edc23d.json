@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:41.830853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5052ebdc-d51d-43fd-94ff-14bf84ff903e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31de4e46-4431-4626-aaff-ad2b74edc23d",
+  "input": "{\"title\": \"Love and My Best Friend\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Janet Jackson'",
+  "status": "verified"
+}

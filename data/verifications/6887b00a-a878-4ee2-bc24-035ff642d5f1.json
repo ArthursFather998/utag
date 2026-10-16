@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:13.543424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cecd5ec5-a582-4b36-b717-73e645ecdd06",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6887b00a-a878-4ee2-bc24-035ff642d5f1",
+  "input": "{\"title\": \"Human\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:08.827327+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1e4c6d4-da2a-4ef6-becc-a469d61eee12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a02c990-5eaa-4de1-9ebc-e9281b5c6574",
+  "input": "{\"title\": \"Hallelujah\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'Live at Sin-é (Legacy Edition)'",
+  "status": "verified"
+}

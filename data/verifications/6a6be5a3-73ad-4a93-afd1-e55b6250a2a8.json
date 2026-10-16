@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:06.695187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d3b5e77-1440-4d36-aeb6-f43da88e6f51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a6be5a3-73ad-4a93-afd1-e55b6250a2a8",
+  "input": "{\"title\": \"The Abyss\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Outsider'",
+  "status": "verified"
+}

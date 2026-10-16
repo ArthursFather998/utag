@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:26.65118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9b92847-5ef9-4981-b3e1-5e56ab48b55f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab13b77a-e242-456e-812d-5da0c6e20d8d",
+  "input": "{\"title\": \"Baila Esta Cumbia\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Remembered'",
+  "status": "verified"
+}

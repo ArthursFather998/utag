@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:42:48.714531+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24c63f16-9155-4165-a1a6-7134c99bd8dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "653af4d4-0163-4d9c-b7ea-fa66cc3f9bba",
+  "input": "{\"title\": \"Copycat\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Bury the Hatchet'",
+  "status": "verified"
+}

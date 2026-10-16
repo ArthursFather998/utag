@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:50.409017+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcf25644-4526-4648-8029-0cc9a6b87597",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f27ab2c1-b7e1-4d14-a8c1-1383cb084317",
+  "input": "{\"title\": \"David Lyons\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Rocket'",
+  "status": "verified"
+}

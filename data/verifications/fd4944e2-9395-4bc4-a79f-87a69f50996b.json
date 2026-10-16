@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:52.23062+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d4cc902-34aa-4d0a-b527-697d6fabd7ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd4944e2-9395-4bc4-a79f-87a69f50996b",
+  "input": "{\"title\": \"I Won't Break\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Hate Me'",
+  "status": "verified"
+}

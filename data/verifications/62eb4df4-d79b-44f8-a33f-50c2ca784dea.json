@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:03.771882+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1e6b3a2-11e8-4f3b-8407-ca7918848961",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62eb4df4-d79b-44f8-a33f-50c2ca784dea",
+  "input": "{\"title\": \"I'll Be Alright Without You (Live Video Mix)\", \"track_number\": 55}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 55 of 'Time3'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:37.159365+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a57a194d-fb3d-45b9-87ca-0eb273c7645a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5805bce6-c75f-43fa-9ccd-6fc8080ef973",
+  "input": "{\"title\": \"I Died Inside\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Girl Talk'",
+  "status": "verified"
+}

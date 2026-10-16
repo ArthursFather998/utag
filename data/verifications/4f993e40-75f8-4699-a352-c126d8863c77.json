@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:04.567546+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fdb13fd0-a97e-4091-8335-73a3bdb770a2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4f993e40-75f8-4699-a352-c126d8863c77",
+  "input": "{\"title\": \"That Green Gentleman (Things Have Changed)\", \"release_type\": \"single\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

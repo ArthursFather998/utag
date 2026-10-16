@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:20.624381+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "515826f8-f088-49d2-8d82-00c6851485c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30ee2f07-6d5c-4515-ab92-56d1f8ea32b0",
+  "input": "{\"title\": \"Jewel Eyed Judy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Jewel Eyed Judy'",
+  "status": "verified"
+}

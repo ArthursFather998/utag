@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:43.778466+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e7e1438-f3bf-47f6-bcd0-74aaa1760475",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3acdf10d-952a-486a-96e7-5f3261fc5a4f",
+  "input": "{\"title\": \"Forever love\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'All Original Parts: Volume 1'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:48.165763+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7da37e4-6c75-4838-bf23-71c58e63aabf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9d31ff0-16f4-46d7-84ae-ad1b99a6f9ac",
+  "input": "{\"title\": \"Return to Paradise\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'A Single Man'",
+  "status": "verified"
+}

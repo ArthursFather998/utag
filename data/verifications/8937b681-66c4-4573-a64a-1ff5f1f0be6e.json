@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:58.631943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b08f5112-3494-420a-9ad5-d47b8236680e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8937b681-66c4-4573-a64a-1ff5f1f0be6e",
+  "input": "{\"title\": \"i wish i was pretty\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

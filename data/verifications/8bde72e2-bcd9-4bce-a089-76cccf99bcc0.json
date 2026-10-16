@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:08.327749+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "754f95c0-7f77-49e9-9f4e-199a1d9b9fcd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8bde72e2-bcd9-4bce-a089-76cccf99bcc0",
+  "input": "{\"title\": \"Usher: Rarities!\", \"release_type\": \"album\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

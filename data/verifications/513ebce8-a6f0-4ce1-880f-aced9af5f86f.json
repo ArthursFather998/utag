@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:00.852354+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e308c7c-7882-4e8d-a7ba-1ddc9b3d8e3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "513ebce8-a6f0-4ce1-880f-aced9af5f86f",
+  "input": "{\"title\": \"What Will You Say (Live at Theatre de Fourviere)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Playlist: The Very Best of Jeff Buckley'",
+  "status": "verified"
+}

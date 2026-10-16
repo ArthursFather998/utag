@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:33.597276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0d6f099-6ff8-481a-bcf1-91182f85d82a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "65fc4b45-6ec2-4d1e-8d34-b09672f46a3a",
+  "input": "{\"title\": \"Geyser\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

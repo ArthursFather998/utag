@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:26.452391+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "658aab7a-22c0-4314-b7d7-3285b8f0a236",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd34e51d-613b-4d5b-8cf4-55dda96ce185",
+  "input": "{\"title\": \"Boys\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Early Days: Animalism, Pool Party, Crybaby'",
+  "status": "verified"
+}

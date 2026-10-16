@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:11.721742+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "created release 'Dreaming of You'",
+      "release->Dreaming of You"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "3ecb1d69-f7e8-4904-b921-5f3688f91685",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "73b2980a-b077-4497-99d3-6abd6d560108",
+  "input": {
+    "artist": "Selena",
+    "release": "Greatest Hits",
+    "title": "Dreaming Of You"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "The song does appear on Greatest Hits (2003), but the canonical original album is Dreaming of You (1995), released months after her death. | sources: https://en.wikipedia.org/wiki/Greatest_Hits_(Selena_album), https://www.britannica.com/topic/Dreaming-of-You-album-by-Selena",
+  "status": "verified"
+}

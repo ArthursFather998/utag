@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:59.411602+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f6b99c34-7c50-4c24-8f4a-394ae9c99724",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee097613-9aa0-4037-884f-922cbf1b8acf",
+  "input": "{\"title\": \"Is This the World We Created...?\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live Magic'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:13.92738+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33b0a497-e118-40e9-8583-11080ab251a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8de482f6-19ff-436e-8df0-89a800a05f95",
+  "input": "{\"title\": \"Waves (Live at the Forum)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Waves Remix EP'",
+  "status": "verified"
+}

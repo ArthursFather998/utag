@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:13.53449+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3effdc3b-88a1-4149-ade6-bfc7c33dccfe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04078ad8-9910-4555-9f7e-b41a1f4d75c2",
+  "input": "{\"title\": \"Ew\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Nectar'",
+  "status": "verified"
+}

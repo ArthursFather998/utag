@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:39:02.668486+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "458a5603-fb3a-41e8-9799-fb175fbb8284",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c1c52cb-4266-41f4-b126-c30e50a575d1",
+  "input": "{\"title\": \"Disc 2 - Leave Me Alone\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

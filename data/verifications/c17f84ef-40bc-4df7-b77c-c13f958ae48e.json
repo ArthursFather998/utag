@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:19.550173+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "083f2b68-ac17-4ac6-b699-518ccf443b96",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c17f84ef-40bc-4df7-b77c-c13f958ae48e",
+  "input": "{\"title\": \"A Fool No More\", \"track_number\": 33}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 33 of 'Live at the BBC'",
+  "status": "verified"
+}

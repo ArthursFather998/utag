@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:04.22941+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aac0e0c9-ad7e-4bab-b5c4-91c64bb54a58",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a4fdc27-deba-4c9e-bb27-1ef9afc05944",
+  "input": "{\"title\": \"Falling Behind (Lofi Version)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Laufey Lofi Collection'",
+  "status": "verified"
+}

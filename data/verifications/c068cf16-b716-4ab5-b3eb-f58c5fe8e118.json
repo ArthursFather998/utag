@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:45.836705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4eb6ef52-85dd-4e71-9c64-123d13320999",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c068cf16-b716-4ab5-b3eb-f58c5fe8e118",
+  "input": "{\"title\": \"Pain 1993\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Dark Lane Demo Tapes'",
+  "status": "verified"
+}

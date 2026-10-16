@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:02.866389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19424f58-1026-4a9a-abfd-d1e0f0aa24db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd9dda99-c30e-4c54-9691-b3fd52ccf5bc",
+  "input": "{\"title\": \"Promises\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Gold'",
+  "status": "verified"
+}

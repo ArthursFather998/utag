@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:47.401446+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd3feb60-ce14-494d-ae06-960e8f84f17b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06c3a3ee-aac6-458f-82d5-2a86f46109b3",
+  "input": "{\"title\": \"Invincible\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Chemical Warfare'",
+  "status": "verified"
+}

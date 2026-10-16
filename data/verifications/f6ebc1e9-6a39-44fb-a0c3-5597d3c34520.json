@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:28.886891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da500048-c30c-4aa5-a582-4602944828fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6ebc1e9-6a39-44fb-a0c3-5597d3c34520",
+  "input": "{\"title\": \"Cry About It!\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cry About It!'",
+  "status": "verified"
+}

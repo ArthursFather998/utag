@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:09.979238+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7cc62c31-6b5f-4f32-9542-7365c9fa556f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "080e6553-fcf3-43d3-85a8-4756cfd40507",
+  "input": "{\"title\": \"Save Me a Place\", \"track_number\": 50}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 50 of '25 Years – The Chain'",
+  "status": "verified"
+}

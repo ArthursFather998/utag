@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:01.484954+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40ae2b5a-bbe4-4934-8406-d7292ebc5fa4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a09ad4f-49d4-4948-958d-feb3351fe25e",
+  "input": "{\"title\": \"Love Kills - The Ballad\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live Around the World'",
+  "status": "verified"
+}

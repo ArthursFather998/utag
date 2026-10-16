@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:31.502568+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d059dbc-7017-40e9-bc6e-44240b327d3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c60f620-e1ad-48eb-b804-5f077814fa84",
+  "input": "{\"title\": \"Any Way You Want It\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Open Arms: Greatest Hits'",
+  "status": "verified"
+}

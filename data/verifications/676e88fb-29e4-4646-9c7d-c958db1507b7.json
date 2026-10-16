@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:47.368822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92cc01d2-c158-48c0-9ef2-bdf5a68b6566",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "676e88fb-29e4-4646-9c7d-c958db1507b7",
+  "input": "{\"title\": \"Lady Luck\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Evolution'",
+  "status": "verified"
+}

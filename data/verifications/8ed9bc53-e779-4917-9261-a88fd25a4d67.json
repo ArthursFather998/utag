@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:45.983671+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51bb249b-5a6c-4c6f-9bf5-dc6035bb1ff7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ed9bc53-e779-4917-9261-a88fd25a4d67",
+  "input": "{\"title\": \"Happily\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Midnight Memories'",
+  "status": "verified"
+}

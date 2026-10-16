@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:40.247153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3aeeac2-42f3-44f1-825d-2314ad6f1c99",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab5f23e4-155f-472d-b5c8-e50c52d8bb29",
+  "input": "{\"title\": \"This Time I Know It's Real\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Encore'",
+  "status": "verified"
+}

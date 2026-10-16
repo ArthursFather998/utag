@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:09.523068+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69f57472-7a9c-4d26-bcb7-6d325ff70cce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4b89b85-4750-46c1-8c07-2187e6a4fb3b",
+  "input": "{\"title\": \"Feel No Ways\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Views'",
+  "status": "verified"
+}

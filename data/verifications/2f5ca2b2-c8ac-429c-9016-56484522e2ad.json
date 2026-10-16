@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:14.742112+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3913718-bd40-4e7a-baa6-6cfb5c0f6668",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2f5ca2b2-c8ac-429c-9016-56484522e2ad",
+  "input": "{\"title\": \"Brooklyn Baby\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

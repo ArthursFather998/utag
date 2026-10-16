@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:13.864119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0baecaf-b056-48c4-aa99-473e3ddd6d26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ccfe0f6-e5d7-491f-886c-84d21fa2a1e8",
+  "input": "{\"title\": \"Dreamlover (Live from Top of the Pops)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Music Box: 30th Anniversary Edition'",
+  "status": "verified"
+}

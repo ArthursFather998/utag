@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:59.796427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f6cf16d-e35f-4139-a8d8-612912249e3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e2ad626-6cc5-4e3a-b4ef-f6408d641ac1",
+  "input": "{\"title\": \"Have Yourself a Merry Little Christmas\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Bethlehem'",
+  "status": "verified"
+}

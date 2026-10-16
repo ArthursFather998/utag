@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:01.774355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9209d30a-5f6f-411d-9472-5b6089eaed90",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "be561a06-2ea0-40b3-b70d-204426f53ab7",
+  "input": "{\"title\": \"Love\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

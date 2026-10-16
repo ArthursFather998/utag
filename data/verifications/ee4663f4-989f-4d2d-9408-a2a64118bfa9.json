@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:15.579549+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73e15c26-689e-448b-91d1-39bc802ab65d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee4663f4-989f-4d2d-9408-a2a64118bfa9",
+  "input": "{\"title\": \"Just Like Chet\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Everything I Know About Love'",
+  "status": "verified"
+}

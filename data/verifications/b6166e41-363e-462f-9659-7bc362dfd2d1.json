@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:15.497427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "32f88cb4-b445-4ea5-b0c5-ee4f4bac8d16",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6166e41-363e-462f-9659-7bc362dfd2d1",
+  "input": "{\"title\": \"Now I'm Here\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

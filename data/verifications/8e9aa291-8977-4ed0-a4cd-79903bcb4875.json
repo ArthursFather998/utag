@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:54.97893+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31722b98-bc3b-4a56-afd2-b6b8c18a9b68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e9aa291-8977-4ed0-a4cd-79903bcb4875",
+  "input": "{\"title\": \"Just Lose It\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Encore'",
+  "status": "verified"
+}

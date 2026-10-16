@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:18.073733+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af10200e-f91a-4e4c-ba0b-6646554c2221",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f3ee338b-f79b-44d9-a93b-26c3f8c44a94",
+  "input": "{\"title\": \"High by the Beach\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:32.700539+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c196b4bf-4071-41fb-9317-d34aaf51c60d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41e698b1-5660-47fd-b532-bab320324024",
+  "input": "{\"title\": \"I Want to Break Free\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live at Wembley '86'",
+  "status": "verified"
+}

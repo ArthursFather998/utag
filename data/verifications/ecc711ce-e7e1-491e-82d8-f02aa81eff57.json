@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:22.024467+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d81d845-4478-4a7f-9a2b-48cb77d878a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ecc711ce-e7e1-491e-82d8-f02aa81eff57",
+  "input": "{\"title\": \"Speed Demon\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Speed Demon'",
+  "status": "verified"
+}

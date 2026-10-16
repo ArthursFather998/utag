@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:09.409989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef4ad437-3c87-454e-bf52-a123132e525a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "431767a4-0f51-41dd-b45b-f0a7c26e694b",
+  "input": "{\"title\": \"42 (Grown Up Tipsy)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '42 (Grown Up Tipsy)'",
+  "status": "verified"
+}

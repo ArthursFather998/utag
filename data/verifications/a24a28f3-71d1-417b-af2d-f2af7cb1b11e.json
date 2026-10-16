@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:04.746996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9fe1acf6-2836-42ac-b1de-69e05557736b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a24a28f3-71d1-417b-af2d-f2af7cb1b11e",
+  "input": "{\"title\": \"772 Love Pt. 3 (Your Love)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Young New Wave'",
+  "status": "verified"
+}

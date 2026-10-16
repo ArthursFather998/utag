@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:07.896448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "048cbcef-4106-4207-9762-754c28933d7e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa2d5d76-c923-41fb-a30b-2bb8478a3485",
+  "input": "{\"title\": \"You Don't Know My Name\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Unplugged (20th Anniversary)'",
+  "status": "verified"
+}

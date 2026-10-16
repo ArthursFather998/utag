@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:26.200334+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de83591c-ec03-428a-8108-ca3495d28b04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a3a4ea1-fb6b-4be9-8e9b-15f580c3a6d3",
+  "input": "{\"title\": \"Love Letters in the Sand\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Tickets for a Prayer Wheel'",
+  "status": "verified"
+}

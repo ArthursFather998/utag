@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:16:51.599153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d02ab0d-ff09-4cd6-9be6-4c20ea7ea23c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "33a817dc-f0d2-435c-a8ad-fefd98d6ec06",
+  "input": "{\"title\": \"Going Under\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fallen (20th Anniversary Edition)'",
+  "status": "verified"
+}

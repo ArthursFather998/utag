@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:21.128322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "385f0281-176e-44aa-b0e3-5a3ff139576b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2fa00ea-6665-4648-8db1-2a131cf3b94d",
+  "input": "{\"title\": \"Val-Hala\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Empty Sky'",
+  "status": "verified"
+}

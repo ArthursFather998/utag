@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:26.217853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b808d82-9e36-43d3-a59f-7270b49f1d35",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7761dfaf-8c59-4829-aa24-8f149c11d774",
+  "input": "{\"title\": \"Top Ten\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:11.035599+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3cb01ac5-b78f-4e54-a28a-c0e11410028c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d0bd79f2-2f14-41b6-be48-a8a1b7df7737",
+  "input": "{\"title\": \"Heaven Surrounds You\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:59.928378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ddcc241e-8302-4267-bac4-3c5d2ba29f82",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "147d628b-58b1-4230-a90a-9ac1246c9eba",
+  "input": "{\"title\": \"One Sunny Day\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'English Rose'",
+  "status": "verified"
+}

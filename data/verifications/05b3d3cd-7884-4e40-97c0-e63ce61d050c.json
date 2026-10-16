@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:15.144337+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17ae9d3b-2dee-46cd-b4c5-294b56ecc7ee",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "05b3d3cd-7884-4e40-97c0-e63ce61d050c",
+  "input": "{\"title\": \"WY@\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:01.031836+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "548366b3-690a-4efd-b536-7f4476a2d386",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e3f1adf-6715-4f0c-a983-d48072005e24",
+  "input": "{\"title\": \"My Band\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Shady XV'",
+  "status": "verified"
+}

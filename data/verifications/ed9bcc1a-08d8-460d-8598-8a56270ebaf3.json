@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:51.601575+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5407e61c-1442-43c9-aaac-5d72c1b16251",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed9bcc1a-08d8-460d-8598-8a56270ebaf3",
+  "input": "{\"title\": \"The Sun Ain't Gonna Shine (Anymore)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Live 06'",
+  "status": "verified"
+}

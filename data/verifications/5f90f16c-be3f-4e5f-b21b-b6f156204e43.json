@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:02.121877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d869c8df-8ed3-4808-827d-c64ba231307b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5f90f16c-be3f-4e5f-b21b-b6f156204e43",
+  "input": "{\"title\": \"The Real Slim Shady\", \"release_type\": \"single\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

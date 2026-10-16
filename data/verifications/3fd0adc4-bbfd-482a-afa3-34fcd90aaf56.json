@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:34.083775+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c7333f2-7b47-41f1-8d7f-ed0c85dc63cf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3fd0adc4-bbfd-482a-afa3-34fcd90aaf56",
+  "input": "{\"title\": \"Checks\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

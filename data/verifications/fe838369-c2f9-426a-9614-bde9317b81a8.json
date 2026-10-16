@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:11.389901+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2824dbd0-e826-4763-a9a2-ff8730ca27f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe838369-c2f9-426a-9614-bde9317b81a8",
+  "input": "{\"title\": \"Everything is Everything\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Verzuz: Alicia Keys x John Legend (Live)'",
+  "status": "verified"
+}

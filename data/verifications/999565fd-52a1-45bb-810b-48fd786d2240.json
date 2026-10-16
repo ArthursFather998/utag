@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:21.68073+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "955ff876-a7de-45ad-82eb-3259b370e9a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "999565fd-52a1-45bb-810b-48fd786d2240",
+  "input": "{\"title\": \"Ransom\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ransom'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:49.264419+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39cd5fd1-5dab-4764-a376-a6fc9fee4b6c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d61df2a5-9565-40bf-ae0c-ad34b75bbe4b",
+  "input": "{\"title\": \"Sara\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live'",
+  "status": "verified"
+}

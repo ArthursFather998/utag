@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:37.353119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20174728-ece7-48d5-acf1-416100286a35",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89aab169-6cb6-4b6b-aa40-1b1e2d46dc74",
+  "input": "{\"title\": \"Killer Queen\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Greatest Hits'",
+  "status": "verified"
+}

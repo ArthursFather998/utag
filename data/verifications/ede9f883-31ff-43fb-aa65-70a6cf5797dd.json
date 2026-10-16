@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:25.242715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45ac61a1-91f8-4fe6-813f-e5d676018fa6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ede9f883-31ff-43fb-aa65-70a6cf5797dd",
+  "input": "{\"title\": \"Boy in Red\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

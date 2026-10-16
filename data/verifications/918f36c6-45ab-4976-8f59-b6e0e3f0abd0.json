@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:18.526065+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b40c6b48-cce7-4d3c-b431-b25d4207f3d1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "918f36c6-45ab-4976-8f59-b6e0e3f0abd0",
+  "input": "{\"title\": \"Only Acoustic\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

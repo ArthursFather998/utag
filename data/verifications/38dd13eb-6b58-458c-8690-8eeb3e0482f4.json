@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:21.773955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "666beb7d-d2bd-4898-8914-00e33e014b69",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "38dd13eb-6b58-458c-8690-8eeb3e0482f4",
+  "input": "{\"title\": \"Love of My Life\", \"release_type\": \"single\", \"release_year\": 1979}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

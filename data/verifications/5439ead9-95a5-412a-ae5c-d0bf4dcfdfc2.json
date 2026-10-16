@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:14.132989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a4ec67c-bae1-481a-ab1a-afad567269b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5439ead9-95a5-412a-ae5c-d0bf4dcfdfc2",
+  "input": "{\"title\": \"Liar\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'At the Beeb'",
+  "status": "verified"
+}

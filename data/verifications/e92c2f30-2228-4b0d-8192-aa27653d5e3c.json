@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:38.797232+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbbb00c2-e64c-4f17-8325-c1740fa3fc88",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e92c2f30-2228-4b0d-8192-aa27653d5e3c",
+  "input": "{\"title\": \"Destiny's Child: The Untold Story Presents Girls Tyme\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

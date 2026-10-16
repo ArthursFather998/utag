@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:23.658005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c727e04e-8e79-4666-8996-7562d30dac69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "787cf66c-d355-446e-a69a-205879bfb2cf",
+  "input": "{\"title\": \"Remember Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Remember Me'",
+  "status": "verified"
+}

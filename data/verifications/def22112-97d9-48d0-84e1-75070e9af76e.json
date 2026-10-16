@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:29.522018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "47eb52bf-4238-4475-92c0-047f899292d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "def22112-97d9-48d0-84e1-75070e9af76e",
+  "input": "{\"title\": \"Radio Ga Ga\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Classic Queen'",
+  "status": "verified"
+}

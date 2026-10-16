@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:42.977351+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85ad2d48-9161-4862-a78a-9f6ca4504cd9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "731f79e5-e292-49ae-93f8-d2c32eeb2293",
+  "input": "{\"title\": \"Say Somethin'\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

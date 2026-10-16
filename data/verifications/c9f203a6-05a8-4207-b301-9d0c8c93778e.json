@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:48.674069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f509be9-04c1-4021-a7d8-3c293c9d5e3c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9f203a6-05a8-4207-b301-9d0c8c93778e",
+  "input": "{\"title\": \"After You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Macon'",
+  "status": "verified"
+}

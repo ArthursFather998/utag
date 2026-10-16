@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:02.29219+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b90e1b2d-61dd-43e7-8935-38a938557d61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81922a76-29ed-4696-a6ab-fa4ccf3f719b",
+  "input": "{\"title\": \"Arcadia\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Blue Banisters'",
+  "status": "verified"
+}

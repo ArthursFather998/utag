@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:25.828566+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c440ac5c-be6b-4df2-bbfb-717f2a0fa9ec",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5470c2c8-af7e-46f8-9391-1807c10c53e7",
+  "input": "{\"title\": \"Meet Me in the Woods\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

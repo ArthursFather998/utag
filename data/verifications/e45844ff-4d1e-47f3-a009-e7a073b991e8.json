@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:15.825011+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37a0f823-8cad-4e65-bfd2-a9a7cd63e2b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e45844ff-4d1e-47f3-a009-e7a073b991e8",
+  "input": "{\"title\": \"Flight's Booked\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Honestly, Nevermind'",
+  "status": "verified"
+}

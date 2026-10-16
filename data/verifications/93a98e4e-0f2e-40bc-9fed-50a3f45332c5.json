@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:34.683655+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f0c7d1b-b913-4806-ae05-a32767dcdada",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93a98e4e-0f2e-40bc-9fed-50a3f45332c5",
+  "input": "{\"title\": \"Hope\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hope'",
+  "status": "verified"
+}

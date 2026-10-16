@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:38.78389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89756a81-d73d-4878-9908-601d82bc6864",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f27cc51-6f5a-4995-8fe7-f6729ffb9a3a",
+  "input": "{\"title\": \"Syndicate\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Fray (Deluxe Edition)'",
+  "status": "verified"
+}

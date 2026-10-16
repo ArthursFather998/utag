@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:51.639724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0cae2e3f-71b0-4e54-af91-e2169ace8206",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "de3a7372-d14c-4ca0-9036-365e43474c25",
+  "input": "{\"title\": \"Finally\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

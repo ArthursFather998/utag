@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:49.663638+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "release->Dead Man Walking"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "cf73ca4d-e406-4800-aca1-4a22baf3c602",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "7c42612c-d160-4cb1-896d-009109b92522",
+  "input": {
+    "artist": "Brent Faiyaz",
+    "release": "Dead Man Walking",
+    "title": "Dead Man Walking"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Song confirmed as a Sep 18, 2020 single (Lost Kids) and lead single of Wasteland (2022); the release exists as a single, not an album, so only the type needs fixing. | sources: https://en.wikipedia.org/wiki/Dead_Man_Walking_(Brent_Faiyaz_song), https://www.qobuz.com/fi-en/album/dead-man-walking-brent-faiyaz/cckbeis424cpb",
+  "status": "verified"
+}

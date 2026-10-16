@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:42.786952+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c6d3220-a073-4d2d-9dec-ac246d49ec30",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ed63a17-f71e-4fd3-b567-8665e0f591ed",
+  "input": "{\"title\": \"Pasture Child\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Sunburn'",
+  "status": "verified"
+}

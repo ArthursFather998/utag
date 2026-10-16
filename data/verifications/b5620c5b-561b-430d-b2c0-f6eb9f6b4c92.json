@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:08.777653+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee6e50b7-1e4a-4cd8-8c6b-306247727c1b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b5620c5b-561b-430d-b2c0-f6eb9f6b4c92",
+  "input": "{\"title\": \"Kid at Christmas\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

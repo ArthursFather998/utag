@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:55.846607+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc77dfe6-fa40-4f62-aaba-c8e2f9240aee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b54672c-7726-437e-9674-de667d2b7e55",
+  "input": "{\"title\": \"Use My Voice\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Bitter Truth'",
+  "status": "verified"
+}

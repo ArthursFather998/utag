@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:04.947888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7dd9de7-94fe-4eb7-8496-9dda09422377",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3d015d92-7729-46bf-95de-ad0118369a80",
+  "input": "{\"title\": \"Original Fleetwood Mac: The Blues Years\", \"release_type\": \"album\", \"release_year\": 1991}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

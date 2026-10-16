@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:43.356128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a0ab2f1-aeb7-4398-8884-74230d2541c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5cc98ee-54e2-48f5-a56e-179ed7a76c01",
+  "input": "{\"title\": \"She Ain't Tell Ya\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'A'",
+  "status": "verified"
+}

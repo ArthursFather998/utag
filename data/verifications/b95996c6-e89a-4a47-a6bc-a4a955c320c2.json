@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:53.329021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "765f2d14-a240-438d-b5bf-024d0f0c5e46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b95996c6-e89a-4a47-a6bc-a4a955c320c2",
+  "input": "{\"title\": \"Pale Shelter\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Pale Shelter'",
+  "status": "verified"
+}

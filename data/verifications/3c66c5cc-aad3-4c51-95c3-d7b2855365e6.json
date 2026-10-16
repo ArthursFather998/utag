@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:39.085943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "857461b5-2c1b-46be-a523-b609e3bdf375",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c66c5cc-aad3-4c51-95c3-d7b2855365e6",
+  "input": "{\"title\": \"Perfect Sense\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Car'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:12.450925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0474c4d3-670e-4227-b0fa-ec968976c759",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2821b54b-d86f-4cd9-8707-a433e24d98ec",
+  "input": "{\"title\": \"Virgo\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'We Love You Tecca 2 (Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:26.942898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98ff7184-d601-424a-a103-d78f64e1b5fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b890cbb-87b2-4e44-9866-6acdf6d0b898",
+  "input": "{\"title\": \"Pale Shelter (You Don't Give Me Love)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Pale Shelter (You Don't Give Me Love)'",
+  "status": "verified"
+}

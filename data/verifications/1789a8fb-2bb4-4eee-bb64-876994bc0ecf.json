@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:01.765868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79efc8db-091a-42ee-aab2-612b210de420",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1789a8fb-2bb4-4eee-bb64-876994bc0ecf",
+  "input": "{\"title\": \"And the House Fell Down\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Captain & the Kid'",
+  "status": "verified"
+}

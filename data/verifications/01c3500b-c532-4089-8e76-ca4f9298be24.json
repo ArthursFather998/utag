@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:06.897781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fdae1a8d-3a95-4f7b-a994-a63230250beb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01c3500b-c532-4089-8e76-ca4f9298be24",
+  "input": "{\"title\": \"Treatment\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Treatment'",
+  "status": "verified"
+}

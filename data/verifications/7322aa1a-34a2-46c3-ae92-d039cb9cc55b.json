@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:41.599422+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a9ae67d5-997f-4b94-a3a7-f28e27cbd3c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7322aa1a-34a2-46c3-ae92-d039cb9cc55b",
+  "input": "{\"title\": \"Costumbres\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'La Leyenda'",
+  "status": "verified"
+}

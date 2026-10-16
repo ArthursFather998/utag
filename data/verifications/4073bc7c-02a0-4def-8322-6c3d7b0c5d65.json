@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:05.437818+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f85a063-cbff-43a5-acee-4df6ca544b24",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4073bc7c-02a0-4def-8322-6c3d7b0c5d65",
+  "input": "{\"title\": \"T-Shirt\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Destiny Fulfilled'",
+  "status": "verified"
+}

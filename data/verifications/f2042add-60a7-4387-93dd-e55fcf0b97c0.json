@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:16.6358+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1da18858-ed23-42d9-b710-7082ad9d9eb2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2042add-60a7-4387-93dd-e55fcf0b97c0",
+  "input": "{\"title\": \"What Am I Gonna Do With You\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Before & After'",
+  "status": "verified"
+}

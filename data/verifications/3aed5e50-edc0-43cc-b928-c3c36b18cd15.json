@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:54.849473+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f546ec8-9924-42f6-910b-f3234b855637",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3aed5e50-edc0-43cc-b928-c3c36b18cd15",
+  "input": "{\"title\": \"Tobey\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

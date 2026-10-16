@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:35.232592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8323f27a-1057-4b6d-8c7f-f546250e5495",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6cef307e-2409-4957-884b-2b16578e24f9",
+  "input": "{\"title\": \"Beat It (featuring John Mayer)\", \"release_type\": \"single\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

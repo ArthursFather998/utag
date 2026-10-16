@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:42.773168+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e1c76c6a-cdea-4b28-b106-df15b30e2bbc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1db7327-cf0a-47df-a856-ef77e5f064d4",
+  "input": "{\"title\": \"She Don't Know\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Raymond v. Raymond'",
+  "status": "verified"
+}

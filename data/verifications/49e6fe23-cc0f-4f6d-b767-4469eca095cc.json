@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:36.937457+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89fd15c2-8e38-4a23-8173-ac1d436ef263",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49e6fe23-cc0f-4f6d-b767-4469eca095cc",
+  "input": "{\"title\": \"Fool's Gold\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Four (The Ultimate Edition)'",
+  "status": "verified"
+}

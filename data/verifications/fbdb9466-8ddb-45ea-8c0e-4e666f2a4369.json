@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:30.57164+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab5b994d-5f13-4c64-9a25-6d2f4750f3ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbdb9466-8ddb-45ea-8c0e-4e666f2a4369",
+  "input": "{\"title\": \"Little Richard's Bible\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Who Believes in Angels?'",
+  "status": "verified"
+}

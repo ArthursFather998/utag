@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:34.529245+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "release->Short n' Sweet"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "a5e7bba1-4feb-4731-8ccb-a899604df9a3",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "fcb7976a-8506-4458-9fa8-ac5c76d12bcd",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "NPR Music Tiny Desk Concert",
+    "title": "Espresso"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "\"Espresso\" is the April 2024 lead single of Short n' Sweet (Aug 2024); she did perform it on Tiny Desk, but no official 2024 \"NPR Music Tiny Desk Concert\" release exists (only unofficial bootlegs). | sources: https://www.nme.com/news/music/sabrina-carpenter-felt-she-had-literally-no-idea-if-the-public-would-like-espresso-3825392, https://talentarchive.tv/sabrina-carpenter-delivers-a-stunning-raw-tiny-desk-concert-that-captivates-with-powerful-hits-from-her-breakthrough-album/",
+  "status": "verified"
+}

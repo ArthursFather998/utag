@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:43.608838+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87ff78a3-1f7a-4003-b119-e9ff4b963ebe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e11c705b-78fd-44f2-8301-ed2990db6839",
+  "input": "{\"title\": \"More Than This\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'More Than This'",
+  "status": "verified"
+}

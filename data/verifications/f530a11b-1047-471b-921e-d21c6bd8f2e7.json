@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:29.464851+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e27bdfbc-866f-48e9-b84f-f78e8a549a0f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f530a11b-1047-471b-921e-d21c6bd8f2e7",
+  "input": "{\"title\": \"Did It Again\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'We Love You Tecca'",
+  "status": "verified"
+}

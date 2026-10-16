@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:57.510738+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7aaec66-f3cf-4369-be4b-f56bc03f2530",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29154e5a-242e-4346-8e42-4add2a8a6ef6",
+  "input": "{\"title\": \"Snow White Queen\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Open Door'",
+  "status": "verified"
+}

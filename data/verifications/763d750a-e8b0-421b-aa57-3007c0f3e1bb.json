@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:03.766725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a632a945-6ade-4014-ad7b-969afede5194",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "763d750a-e8b0-421b-aa57-3007c0f3e1bb",
+  "input": "{\"title\": \"Hold Up (Wait 1 Min)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'We All Shine'",
+  "status": "verified"
+}

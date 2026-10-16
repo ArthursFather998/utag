@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:56.013654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74e3bd47-6725-4ea2-8240-bc2ec81f39da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5bd95a8d-6e0b-4cb7-bdf8-11fb4d53facb",
+  "input": "{\"title\": \"girls\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'girls'",
+  "status": "verified"
+}

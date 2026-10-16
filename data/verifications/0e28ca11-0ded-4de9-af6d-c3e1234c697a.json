@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:57.343711+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "443e2628-2dc8-4c27-84c5-d4aaa3d1be30",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e28ca11-0ded-4de9-af6d-c3e1234c697a",
+  "input": "{\"title\": \"Corazon Abandonado\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'And the Winner Is...'",
+  "status": "verified"
+}

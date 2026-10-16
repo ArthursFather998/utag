@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:24.116086+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc254c21-5d82-4166-9c8f-b30191b4b087",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a6af4cd-afe2-410d-ba69-f628b744acab",
+  "input": "{\"title\": \"Temptation\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Writing's on the Wall'",
+  "status": "verified"
+}

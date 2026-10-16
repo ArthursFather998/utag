@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:03.355012+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61233196-237c-497e-a088-8bebb5f3d9ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07dc89dd-2eb8-48ba-a8df-2b1c94485690",
+  "input": "{\"title\": \"My Baby's Sweeter\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Vaudeville Years'",
+  "status": "verified"
+}

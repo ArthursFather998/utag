@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:49.602087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36dd31a2-c9a0-406b-91e8-29cdb3badbe6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0abb1a78-2b4e-4ff4-aa94-dfb0a6e2bc77",
+  "input": "{\"title\": \"Little Things\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:00.184078+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a35a2eb7-bfff-427c-8c4c-6a7e819b5214",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3233801-c4a6-4516-800e-bcdf97891491",
+  "input": "{\"title\": \"Eternal Life\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Grace (Legacy Edition)'",
+  "status": "verified"
+}

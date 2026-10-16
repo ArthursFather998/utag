@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:17.370328+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f2c00a0-17fe-4704-9ce7-1fdd90eef1cf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "385b0b44-3bb8-49ee-bd1e-8c66f0080d8b",
+  "input": "{\"title\": \"So Far Gone\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

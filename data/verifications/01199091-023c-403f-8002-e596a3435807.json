@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:36.634868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96a4d562-16ec-4d02-8477-0d0de435c06a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01199091-023c-403f-8002-e596a3435807",
+  "input": "{\"title\": \"California and Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Bewitched'",
+  "status": "verified"
+}

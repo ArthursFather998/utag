@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:21.002286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "194876e9-f907-48e6-9b23-b9b999837aba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9682023-5e1b-48d7-be15-4b18528f3318",
+  "input": "{\"title\": \"I Am Human\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'I Am Human (Deluxe Edition)'",
+  "status": "verified"
+}

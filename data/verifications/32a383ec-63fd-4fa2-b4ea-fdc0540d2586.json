@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:05.288937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4ddba13-ce70-4aa6-93ed-caccd7f4f718",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "32a383ec-63fd-4fa2-b4ea-fdc0540d2586",
+  "input": "{\"title\": \"Cherry\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 21",
+  "status": "verified"
+}

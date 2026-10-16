@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:27.27601+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "167179ae-0566-4096-aa71-7d63cba4e306",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ef9474a8-41db-433a-8823-0ab0acdc6f24",
+  "input": "{\"title\": \"let me go\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

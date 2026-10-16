@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:43.079083+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e20f2d6a-7473-4729-8506-aff9d20055a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e03eb26-df03-4cc2-a62a-12ca66308996",
+  "input": "{\"title\": \"Mr. Nice Watch\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mr. Nice Watch'",
+  "status": "verified"
+}

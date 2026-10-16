@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:57.40126+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5658e6ba-ff6a-408d-8a8e-28c73d00520f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36bc968b-83da-4ef7-8c7d-ee340a361bf0",
+  "input": "{\"title\": \"The Game Is Over\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Game Is Over'",
+  "status": "verified"
+}

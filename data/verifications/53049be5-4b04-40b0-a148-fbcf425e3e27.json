@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:13.099305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c1b3ae1-e70c-4cec-a829-8778f2a44b52",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53049be5-4b04-40b0-a148-fbcf425e3e27",
+  "input": "{\"title\": \"Hate Me\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Come Over When You're Sober, Pt. 2'",
+  "status": "verified"
+}

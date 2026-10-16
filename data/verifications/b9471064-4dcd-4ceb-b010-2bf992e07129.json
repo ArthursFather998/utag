@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:55.500062+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9d91f2d-6ad4-4995-9f06-b257e0aee88c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9471064-4dcd-4ceb-b010-2bf992e07129",
+  "input": "{\"title\": \"Elderberry Wine\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Don't Shoot Me I'm Only the Piano Player'",
+  "status": "verified"
+}

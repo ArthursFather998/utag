@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:06.890069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db525cad-fc62-47a2-91ba-5973e31808f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b392f09b-2728-4a0c-8f89-eebe63c9e6b5",
+  "input": "{\"title\": \"Portrait\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Caution'",
+  "status": "verified"
+}

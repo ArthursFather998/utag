@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:00.395746+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d70e22b9-c825-4867-9eb8-37fb3d6bb45b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d17d9354-d972-4e7b-8d35-a46f920ea3f6",
+  "input": "{\"title\": \"Climb Ev'ry Mountain\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Buried Treasure'",
+  "status": "verified"
+}

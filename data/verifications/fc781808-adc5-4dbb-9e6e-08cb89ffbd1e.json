@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:21.628864+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc0c991d-4872-41a0-a6f4-22064bad8375",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fc781808-adc5-4dbb-9e6e-08cb89ffbd1e",
+  "input": "{\"title\": \"Traguito\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

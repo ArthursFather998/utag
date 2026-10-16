@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:37.271369+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d11b0740-105a-4ee3-a5ac-7f47007afab7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "54f86bee-9853-401c-a78e-d9b3eab0268c",
+  "input": "{\"title\": \"ALLIGATOR\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

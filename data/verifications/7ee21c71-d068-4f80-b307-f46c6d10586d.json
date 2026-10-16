@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:12.955525+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c76c7daa-e88c-4cc0-97d7-b0d4e0bd938e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ee21c71-d068-4f80-b307-f46c6d10586d",
+  "input": "{\"title\": \"I Held My Baby Last Night\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'London Live '68'",
+  "status": "verified"
+}

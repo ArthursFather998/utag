@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:11.856152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e15e559-279b-4380-a54a-e6bfcc302556",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "591a000b-3950-4b1b-b29a-6a43f6f7d615",
+  "input": "{\"title\": \"She Loved Me\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Jason Aldean'",
+  "status": "verified"
+}

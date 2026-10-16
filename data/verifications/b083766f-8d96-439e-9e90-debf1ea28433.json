@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:46.547977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4ffafd2-a108-4841-b007-f465b79c5f84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b083766f-8d96-439e-9e90-debf1ea28433",
+  "input": "{\"title\": \"There Goes My Baby\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Versus'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:29.607483+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e000dc3b-3c07-4114-9518-248cabf3a6e8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "15cff729-bdcf-4951-9d1a-76ffee07ce4f",
+  "input": "{\"title\": \"Selena: The Series Soundtrack\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

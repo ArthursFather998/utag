@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:43.160937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d6c3b73-ad7a-4b6c-a24d-304f7c6bba49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4a22bda-f26e-43cb-9916-c1ce7a5e0996",
+  "input": "{\"title\": \"Something Inside of Me\", \"track_number\": 94}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 94 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

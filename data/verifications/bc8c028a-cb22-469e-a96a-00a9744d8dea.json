@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:43.038378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c350648-9780-4e94-9b95-4466f076bb3f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bc8c028a-cb22-469e-a96a-00a9744d8dea",
+  "input": "{\"title\": \"Rated R\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

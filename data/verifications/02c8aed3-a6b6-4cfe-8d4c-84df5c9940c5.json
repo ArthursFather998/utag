@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:22.764583+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2b64faf-1f1a-4e92-8767-a76491c9eb82",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02c8aed3-a6b6-4cfe-8d4c-84df5c9940c5",
+  "input": "{\"title\": \"Diana\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Midnight Memories (The Ultimate Edition)'",
+  "status": "verified"
+}

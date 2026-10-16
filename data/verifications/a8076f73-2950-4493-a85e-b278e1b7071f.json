@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:33.019207+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81acf43c-f149-4fcc-8950-958ef46f93d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8076f73-2950-4493-a85e-b278e1b7071f",
+  "input": "{\"title\": \"The Moon Doesn't Mind\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Long Lost'",
+  "status": "verified"
+}

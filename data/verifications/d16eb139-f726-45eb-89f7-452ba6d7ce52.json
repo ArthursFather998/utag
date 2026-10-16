@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:25.912419+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d7675ba-1530-4126-a7dc-565929d128f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d16eb139-f726-45eb-89f7-452ba6d7ce52",
+  "input": "{\"title\": \"Grace (BBC Late Show, London)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Grace Around the World'",
+  "status": "verified"
+}

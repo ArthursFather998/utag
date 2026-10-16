@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:42.219802+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7773d0a-b028-4abc-8625-730055984431",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f61624a-3d6c-4e11-8a62-bdeb92b4b3cf",
+  "input": "{\"title\": \"Irresistible (West Side Connection)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Charmbracelet'",
+  "status": "verified"
+}

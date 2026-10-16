@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:24.273205+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a12b470b-01ff-4b29-96ae-9e7273e956c8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bed09695-3161-4a7a-88a9-62f39e8f6768",
+  "input": "{\"title\": \"Valentines\", \"release_type\": \"album\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

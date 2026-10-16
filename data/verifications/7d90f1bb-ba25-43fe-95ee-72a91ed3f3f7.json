@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:28.875171+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "afe3200b-52f2-4bf7-baae-e12d9614f5d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d90f1bb-ba25-43fe-95ee-72a91ed3f3f7",
+  "input": "{\"title\": \"A Better Life\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Generations'",
+  "status": "verified"
+}

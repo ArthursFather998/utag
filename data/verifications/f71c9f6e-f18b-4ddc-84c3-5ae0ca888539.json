@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:12.783654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6239344b-fb42-41ff-bb7e-7f13feaf4b9f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f71c9f6e-f18b-4ddc-84c3-5ae0ca888539",
+  "input": "{\"title\": \"8 Days of Christmas\", \"release_type\": \"album\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

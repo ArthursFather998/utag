@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:11.524213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce42a761-f4e2-4951-ac21-749609fb7881",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57873336-3f02-4434-92ab-1b249fd21c62",
+  "input": "{\"title\": \"i need to be alone.\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'i need to be alone.'",
+  "status": "verified"
+}

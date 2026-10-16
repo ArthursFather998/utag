@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:49.164143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "562cb53d-a3a8-49ea-87cf-4046763f2bad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "467c58b9-d108-4bbf-a036-6db456da9e89",
+  "input": "{\"title\": \"Always in the Past\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Seeds of Love (Super Deluxe Edition)'",
+  "status": "verified"
+}

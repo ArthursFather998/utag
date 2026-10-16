@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:17.512321+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46bc2670-09bd-40f5-bec6-a8b5375c5672",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fcd565c1-5714-4464-93ab-3f724d10e3d5",
+  "input": "{\"title\": \"Say I\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live in San Antonio'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:59.247742+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e00fe947-49c9-417b-897a-cca9c981b1a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40444203-375e-45d0-ad5b-5d10d49b1399",
+  "input": "{\"title\": \"Sweet Girl\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Dance'",
+  "status": "verified"
+}

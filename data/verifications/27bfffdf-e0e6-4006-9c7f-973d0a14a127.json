@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:09.988843+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43d3df67-6d65-4b4f-8a0a-ce472fd04f6c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27bfffdf-e0e6-4006-9c7f-973d0a14a127",
+  "input": "{\"title\": \"Break It Off (with Sean Paul)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Music of the Sun / A Girl Like Me'",
+  "status": "verified"
+}

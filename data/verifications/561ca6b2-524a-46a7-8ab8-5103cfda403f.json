@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:05.80016+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19034e6a-d185-40c0-bc66-8e7997ddffa2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "561ca6b2-524a-46a7-8ab8-5103cfda403f",
+  "input": "{\"title\": \"Another Life\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Lana'",
+  "status": "verified"
+}

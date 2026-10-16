@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:37.375241+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96941e5e-de62-45d9-8f7b-6c1938d2fa50",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "166489d5-f38c-4f29-a3bb-9479fc01f095",
+  "input": "{\"title\": \"...Live in Chicago\", \"release_type\": \"album\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

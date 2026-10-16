@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:11.891118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3bd51373-7661-46e7-8c38-ad12eecb02c9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3d68825b-1aab-4094-bc94-546ac7481900",
+  "input": "{\"title\": \"Christmas with You\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

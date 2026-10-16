@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:00.606472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a96e61a5-49e0-40bd-be09-fa1fd7035088",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5932bbd-887a-4b9b-8a26-c1b069c17bb7",
+  "input": "{\"title\": \"Everyday I Have the Blues\", \"track_number\": 69}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 69 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

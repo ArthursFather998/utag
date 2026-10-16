@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:57.886537+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd2b9c7a-f0c5-4ecb-91f0-1302f4e80024",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbfd2c74-f344-43b3-b825-eb9372be1b01",
+  "input": "{\"title\": \"There's a Thug in My Life (featuring J-Status)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Music of the Sun'",
+  "status": "verified"
+}

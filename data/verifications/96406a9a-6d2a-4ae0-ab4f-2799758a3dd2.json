@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:09.032644+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a668f332-63f7-477a-b65c-6991dc535c68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96406a9a-6d2a-4ae0-ab4f-2799758a3dd2",
+  "input": "{\"title\": \"My Life (with 21 Savage and Morray)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Off-Season'",
+  "status": "verified"
+}

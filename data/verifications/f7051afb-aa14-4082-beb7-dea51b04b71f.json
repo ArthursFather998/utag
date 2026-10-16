@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:37.743141+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36abde37-4913-49a6-93b7-68e48ce4567c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7051afb-aa14-4082-beb7-dea51b04b71f",
+  "input": "{\"title\": \"When I Think of You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'When I Think of You'",
+  "status": "verified"
+}

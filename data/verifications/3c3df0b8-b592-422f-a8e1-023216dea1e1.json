@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:19.765857+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87cee47e-e87b-4ec4-ac52-24ef47667c67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c3df0b8-b592-422f-a8e1-023216dea1e1",
+  "input": "{\"title\": \"Don't Forget About Us\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of '#1 to Infinity'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:09.08003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "749cf684-45e8-472d-aa6f-0e14e23c4a49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1588712b-1641-4fd1-81b9-9019bb6b86bb",
+  "input": "{\"title\": \"The Sky Is a Landfill\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Jeff Buckley: Music & Photos'",
+  "status": "verified"
+}

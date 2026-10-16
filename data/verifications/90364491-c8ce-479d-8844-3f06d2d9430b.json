@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:49.941466+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7894b98-0794-4ca2-9add-6bf925e64ad9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90364491-c8ce-479d-8844-3f06d2d9430b",
+  "input": "{\"title\": \"Buenos Amigos\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Ones'",
+  "status": "verified"
+}

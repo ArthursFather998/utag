@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:06.807946+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c41193d-460d-4979-b93c-10676b305eb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "428b6406-0a18-4f11-87ee-a8b2f233115a",
+  "input": "{\"title\": \"Too Little, Too Late\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

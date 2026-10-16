@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:23.52613+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc788af8-3e1e-4b92-9d62-8115e851da11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "abb9799a-5ea4-4382-87aa-021395898751",
+  "input": "{\"title\": \"moonlight\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'love bites!'",
+  "status": "verified"
+}

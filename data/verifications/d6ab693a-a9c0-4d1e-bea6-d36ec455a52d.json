@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:31.423345+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd92ece2-b037-41a2-86ec-f0ee4b0bcb83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6ab693a-a9c0-4d1e-bea6-d36ec455a52d",
+  "input": "{\"title\": \"Need You Now (Acoustic)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Same Kind of Different (Acoustic)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:03.294131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7cda06e-9ed7-44b9-9bf6-3b745f3cde15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "86db1f26-d284-4e44-bd3e-f170f36f35de",
+  "input": "{\"title\": \"People and Places\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Departure'",
+  "status": "verified"
+}

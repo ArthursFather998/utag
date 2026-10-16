@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:03.662281+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8c3947f-d6f8-47b1-861a-1bca7705b453",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8cf2de88-8d68-42e0-94fe-cc0351f32a05",
+  "input": "{\"title\": \"Looking for America\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Looking for America'",
+  "status": "verified"
+}

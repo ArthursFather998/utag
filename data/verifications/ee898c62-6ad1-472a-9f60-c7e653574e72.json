@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:17.644793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f506a26-b68b-48d3-850d-559bc407a9c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee898c62-6ad1-472a-9f60-c7e653574e72",
+  "input": "{\"title\": \"Glock in My Purse\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Red & White'",
+  "status": "verified"
+}

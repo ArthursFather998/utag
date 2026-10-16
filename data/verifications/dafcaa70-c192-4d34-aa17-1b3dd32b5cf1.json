@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:40.366226+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d47fc21-625a-4b80-8660-e98b51ed8079",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dafcaa70-c192-4d34-aa17-1b3dd32b5cf1",
+  "input": "{\"title\": \"Sweet Painted Lady\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Live from the Rainbow Theatre'",
+  "status": "verified"
+}

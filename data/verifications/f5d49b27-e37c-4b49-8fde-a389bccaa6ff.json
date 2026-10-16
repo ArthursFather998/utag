@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:21.756005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55ba8079-f906-4983-98e9-c52b2927af39",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f5d49b27-e37c-4b49-8fde-a389bccaa6ff",
+  "input": "{\"title\": \"Pop\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:04.860059+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4210b05-70ef-4b10-a182-f06f0f862892",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "418e7485-5cc3-4fcd-ae10-2b5ad71bfe8c",
+  "input": "{\"title\": \"Vida Normal\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Femme Fatale'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:58.293357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9192ab01-c27a-4cb7-9632-293519439285",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "013158d0-46f4-4d98-af2d-521f9c3a9228",
+  "input": "{\"title\": \"All of My Life\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Lesley Gore Anthology'",
+  "status": "verified"
+}

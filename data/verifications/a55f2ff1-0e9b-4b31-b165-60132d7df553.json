@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:18.197056+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4863d96-b87e-49f1-a699-1cdd96eed403",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a55f2ff1-0e9b-4b31-b165-60132d7df553",
+  "input": "{\"title\": \"Sixteen Swishers\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Dead Broke'",
+  "status": "verified"
+}

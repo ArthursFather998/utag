@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:24.989831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bee2be44-2e79-4fb0-b81b-9bab3157a63c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdf14baa-f5ea-4740-83ab-513e8720ffd2",
+  "input": "{\"title\": \"Greatest X\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Discipline (Deluxe Edition)'",
+  "status": "verified"
+}

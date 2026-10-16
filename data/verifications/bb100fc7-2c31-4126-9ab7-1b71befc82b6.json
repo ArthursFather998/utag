@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:46.084993+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f8566d1-076b-4d76-a7a9-d25b7a619288",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb100fc7-2c31-4126-9ab7-1b71befc82b6",
+  "input": "{\"title\": \"I Love How You Love Me\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '20 All-Time Greatest Hits'",
+  "status": "verified"
+}

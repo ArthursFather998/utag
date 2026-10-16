@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:40:41.632858+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58ede0b1-7b3c-4741-b7d1-ecdad432eb52",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8297ceb9-1e23-42ff-b57e-9d81ac614c66",
+  "input": "{\"title\": \"Disc 5 - Ride a Tall White Horse\", \"track_number\": 124}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 124 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

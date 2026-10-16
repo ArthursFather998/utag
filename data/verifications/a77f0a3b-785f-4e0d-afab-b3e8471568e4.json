@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:27.859098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8cb2c7a-ffb9-4123-b606-5b1b4647dd95",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a77f0a3b-785f-4e0d-afab-b3e8471568e4",
+  "input": "{\"title\": \"Farewell\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Talk That Talk (Deluxe)'",
+  "status": "verified"
+}

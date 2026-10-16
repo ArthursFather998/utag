@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:44.386701+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c56db08-3526-4867-8048-f716fcd54378",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7456eb5-9c81-4334-a036-660999c5ca93",
+  "input": "{\"title\": \"La Tirana (with Nathy Peluso)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Femme Fatale'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:43.826376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e869102-b0a6-42d8-8c5a-0dea0735374f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5c75e4f0-f829-4b5d-b73b-838104305a03",
+  "input": "{\"title\": \"The Best\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

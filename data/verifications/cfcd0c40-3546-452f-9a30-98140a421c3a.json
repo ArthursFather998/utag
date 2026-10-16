@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:15.6685+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6faceee6-23de-4673-8474-0fffe5c29630",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfcd0c40-3546-452f-9a30-98140a421c3a",
+  "input": "{\"title\": \"Torn\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'My Own Prison'",
+  "status": "verified"
+}

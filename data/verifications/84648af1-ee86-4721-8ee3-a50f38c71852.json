@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:37.113309+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb71ba03-cb8c-4a3b-9e9b-59498bc6ba19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84648af1-ee86-4721-8ee3-a50f38c71852",
+  "input": "{\"title\": \"Pretty Little Birds\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Ctrl (Deluxe)'",
+  "status": "verified"
+}

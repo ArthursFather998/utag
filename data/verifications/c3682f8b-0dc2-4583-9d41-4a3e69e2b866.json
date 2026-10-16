@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:49.037427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86142ba7-0960-4849-84c9-5d75b7d98ea0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c3682f8b-0dc2-4583-9d41-4a3e69e2b866",
+  "input": "{\"title\": \"The Greatest\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

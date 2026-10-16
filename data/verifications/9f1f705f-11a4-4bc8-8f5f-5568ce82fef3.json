@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:26.727002+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd67b2b8-a0b1-45a9-9496-6bb6c494d8c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f1f705f-11a4-4bc8-8f5f-5568ce82fef3",
+  "input": "{\"title\": \"Vision of Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Valentines'",
+  "status": "verified"
+}

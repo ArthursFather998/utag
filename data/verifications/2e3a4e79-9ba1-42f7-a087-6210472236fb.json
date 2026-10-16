@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:30.416838+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4065fe5-4b2b-4661-839c-1160c471b709",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e3a4e79-9ba1-42f7-a087-6210472236fb",
+  "input": "{\"title\": \"Stuck in the Mud\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Got a Story to Tell'",
+  "status": "verified"
+}

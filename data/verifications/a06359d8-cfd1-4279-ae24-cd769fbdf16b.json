@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:01.728867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8aa72301-6ec7-4e0b-a295-86f81f4d7d5c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a06359d8-cfd1-4279-ae24-cd769fbdf16b",
+  "input": "{\"title\": \"Heaven\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Macon'",
+  "status": "verified"
+}

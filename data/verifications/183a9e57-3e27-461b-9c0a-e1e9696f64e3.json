@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:49.279284+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e900867-4d5f-4709-90a9-5431a7646858",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "183a9e57-3e27-461b-9c0a-e1e9696f64e3",
+  "input": "{\"title\": \"Lil Kennedy\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'California Girls'",
+  "status": "verified"
+}

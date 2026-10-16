@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:15.550657+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3ebd55d-1be1-41e2-a3d6-e533e17618c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9fc93079-a71a-4b0a-be42-626ca16abe4a",
+  "input": "{\"title\": \"Who's Crying Now\", \"track_number\": 33}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 33 of 'Time3'",
+  "status": "verified"
+}

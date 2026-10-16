@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:39.754451+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d79b6eb-3adc-4ded-aa6c-0badbcd3ed0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "529c5d91-2461-4699-ad4f-d203e47ad598",
+  "input": "{\"title\": \"Young Love\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Janet Jackson'",
+  "status": "verified"
+}

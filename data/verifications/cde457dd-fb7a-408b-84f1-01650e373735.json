@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:35.98104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5483c0f-4a34-4839-960d-b80ac30c9f6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cde457dd-fb7a-408b-84f1-01650e373735",
+  "input": "{\"title\": \"Just a Memory\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hate Me'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:10.832048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17d60569-94e6-4b2c-bccc-0eb7354ba7f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b203b23-3ff0-440f-8b5c-bed4a0213965",
+  "input": "{\"title\": \"River\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Revival'",
+  "status": "verified"
+}

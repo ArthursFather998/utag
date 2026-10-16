@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:33.149136+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ffc46ca7-5eac-4a8a-8fe8-4aab27489db8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a03e66e-514b-4eba-a803-cafafe974c4c",
+  "input": "{\"title\": \"Heartless\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Highlights (Deluxe)'",
+  "status": "verified"
+}

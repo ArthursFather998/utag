@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:09.130599+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4910150f-dac0-47b4-ae9e-13705ebb9f25",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c78e87c8-8ab0-41f8-98e5-87bf0cb9b859",
+  "input": "{\"title\": \"Hell or High Water\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Chip Chrome & the Mono-Tones (Deluxe)'",
+  "status": "verified"
+}

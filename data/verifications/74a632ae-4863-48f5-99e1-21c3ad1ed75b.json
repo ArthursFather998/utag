@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:02.573276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a01b9d67-8f47-4b16-8804-4a58cdb25ab8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "74a632ae-4863-48f5-99e1-21c3ad1ed75b",
+  "input": "{\"title\": \"Express Yourself\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

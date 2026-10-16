@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:39.486414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d454577-9cee-49f3-9b5b-37a0b3221c9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fddea430-05b9-4053-9f4d-a52ca54352ef",
+  "input": "{\"title\": \"Ashley\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'This War Is Ours'",
+  "status": "verified"
+}

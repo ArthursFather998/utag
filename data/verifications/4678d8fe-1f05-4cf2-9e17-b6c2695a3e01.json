@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:52.999719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a59675d-79e0-4da5-bb22-8b0686f4e061",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4678d8fe-1f05-4cf2-9e17-b6c2695a3e01",
+  "input": "{\"title\": \"Your Girl (Diplomat Remix)\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

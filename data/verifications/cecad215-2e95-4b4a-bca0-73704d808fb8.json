@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:08.597055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff897fe9-5ddd-41e6-8b4a-a79fa7c26111",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cecad215-2e95-4b4a-bca0-73704d808fb8",
+  "input": "{\"title\": \"Barry From Simpson\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'D-Day: A Gangsta Grillz Mixtape'",
+  "status": "verified"
+}

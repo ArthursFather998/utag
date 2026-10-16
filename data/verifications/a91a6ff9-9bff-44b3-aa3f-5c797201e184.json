@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:07.309768+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2c021ef-9e74-4bff-8b25-ee2a5b904bed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a91a6ff9-9bff-44b3-aa3f-5c797201e184",
+  "input": "{\"title\": \"Just a Little While\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Damita Jo'",
+  "status": "verified"
+}

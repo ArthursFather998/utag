@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:24.005322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10fe32f0-67d3-464d-99f2-d71a002d4ab4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d8ab7d16-3de7-4485-af2b-35ae205cfe1a",
+  "input": "{\"title\": \"La Tracalera\", \"release_type\": \"single\", \"release_year\": 1990}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

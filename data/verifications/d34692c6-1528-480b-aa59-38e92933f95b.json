@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:13.581936+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e36321f1-b0b3-40d4-849a-0def6f4394aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d34692c6-1528-480b-aa59-38e92933f95b",
+  "input": "{\"title\": \"I Ain't Lying\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Melly vs. Melvin'",
+  "status": "verified"
+}

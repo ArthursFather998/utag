@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:13.107646+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dee5f132-63e8-4d6c-87ce-9568ae025def",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d12abaa8-873e-43cf-9aa0-dcb494a2f8ac",
+  "input": "{\"title\": \"Ruin\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

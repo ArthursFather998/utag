@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:37.108072+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af74a44f-7456-4edd-8117-8d775f53cde8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3a0ee4b-d53e-4fb2-bcb2-bc16a638dc06",
+  "input": "{\"title\": \"Tears in the Rain\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Kiss Land'",
+  "status": "verified"
+}

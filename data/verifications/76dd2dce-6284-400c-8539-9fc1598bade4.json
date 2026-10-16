@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:37.034244+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8f568dd-97a2-4fad-96a7-2212c4092f05",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76dd2dce-6284-400c-8539-9fc1598bade4",
+  "input": "{\"title\": \"Slow Motion\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Jagged Era'",
+  "status": "verified"
+}

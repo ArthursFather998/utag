@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:37.846519+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5e3b06f-f09e-478b-bcde-626eeac513d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5dcbd512-3745-4a7c-a9ae-07f56a09a218",
+  "input": "{\"title\": \"Come & Go (with Marshmello)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Legends Never Die'",
+  "status": "verified"
+}

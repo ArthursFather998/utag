@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:21.533391+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58b8cf8d-82f2-40e3-973d-a72e9afafc82",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c93d6119-d6ba-48f3-ac6b-2837ce53e8e1",
+  "input": "{\"title\": \"Ever Changing\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

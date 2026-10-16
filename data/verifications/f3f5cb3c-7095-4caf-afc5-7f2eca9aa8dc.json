@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:01.419952+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1867476f-80f6-4880-b1af-24da9069251e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3f5cb3c-7095-4caf-afc5-7f2eca9aa8dc",
+  "input": "{\"title\": \"Time Machine\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Time Machine'",
+  "status": "verified"
+}

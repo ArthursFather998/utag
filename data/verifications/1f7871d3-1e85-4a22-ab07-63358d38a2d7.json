@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:14.870571+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce35f4f4-e38d-4ef4-b212-c1ec54c2479a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f7871d3-1e85-4a22-ab07-63358d38a2d7",
+  "input": "{\"title\": \"Let Me Know\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Romeo & Juliet'",
+  "status": "verified"
+}

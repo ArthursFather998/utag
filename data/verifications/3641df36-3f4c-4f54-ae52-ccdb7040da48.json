@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:23.732525+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46e878c7-4065-441c-98b1-c0572dc549b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3641df36-3f4c-4f54-ae52-ccdb7040da48",
+  "input": "{\"title\": \"Stay (featuring Mikky Ekko)\", \"track_number\": 81}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 81 of 'Vinyl Box Set'",
+  "status": "verified"
+}

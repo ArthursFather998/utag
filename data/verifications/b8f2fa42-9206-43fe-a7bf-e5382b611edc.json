@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:35.022194+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "443711e1-8197-404c-b9ad-5e695de19820",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8f2fa42-9206-43fe-a7bf-e5382b611edc",
+  "input": "{\"title\": \"Something's Got to Give\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Something's Got to Give'",
+  "status": "verified"
+}

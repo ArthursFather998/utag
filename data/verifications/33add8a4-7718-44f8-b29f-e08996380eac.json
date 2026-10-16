@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:30.882091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b4f0edce-66c4-4ce3-a009-9fa540e35983",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "33add8a4-7718-44f8-b29f-e08996380eac",
+  "input": "{\"title\": \"Lost in Paradise\", \"track_number\": 42}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 42 of 'The Ultimate Collection'",
+  "status": "verified"
+}

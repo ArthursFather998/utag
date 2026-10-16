@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:07.174006+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "143e5969-b274-4a8f-9028-b54ce455a092",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "97b89431-ea1c-4c9d-b2d0-e8c66f94886a",
+  "input": "{\"title\": \"Old Town Road\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '7'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:10.732408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51d2c1d1-bae8-4faa-abdb-cedc340dc034",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c98c5a7-bb51-4723-b995-4a52dc6030a5",
+  "input": "{\"title\": \"I'm Gonna Leave You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Time3'",
+  "status": "verified"
+}

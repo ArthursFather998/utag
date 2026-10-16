@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:06.884548+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ff5acb6-b05c-4217-b4f6-55461d463f01",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e990f6a1-01f4-4e7a-9310-86932b770db1",
+  "input": "{\"title\": \"First World Problemz / Nobody Carez\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Sonder Son'",
+  "status": "verified"
+}

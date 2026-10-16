@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:45.143284+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "960aa61c-d683-4ba1-baa0-4c9dfd2768e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d965433b-af03-4760-8876-d179e1aea754",
+  "input": "{\"title\": \"Drama Never Ends\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Southpaw: Music from and Inspired by the Motion Picture'",
+  "status": "verified"
+}

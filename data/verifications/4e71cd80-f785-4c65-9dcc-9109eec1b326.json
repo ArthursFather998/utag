@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:31.867592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "966b98c4-5b66-48e9-a51c-702601ca228a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e71cd80-f785-4c65-9dcc-9109eec1b326",
+  "input": "{\"title\": \"Game\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Amala (Deluxe)'",
+  "status": "verified"
+}

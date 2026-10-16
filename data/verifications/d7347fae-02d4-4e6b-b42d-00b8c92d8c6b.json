@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:49.434976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6c7a1b6-6a78-47ec-92c5-875bf774f20a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7347fae-02d4-4e6b-b42d-00b8c92d8c6b",
+  "input": "{\"title\": \"True Colors\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Starboy'",
+  "status": "verified"
+}

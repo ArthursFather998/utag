@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:02.928982+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5a65975-dc64-4157-8627-36ccdee3e165",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95a9fdbf-835f-4da7-9461-3cc1887c8ca4",
+  "input": "{\"title\": \"The Way I Feel\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Cause and Effect (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:29.286591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "080c7c69-8f9e-4d2a-8dbe-0e5823a8aed6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f43329c1-8596-40d8-abf7-5c0811887566",
+  "input": "{\"title\": \"Sign of the Times\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Transit of Venus'",
+  "status": "verified"
+}

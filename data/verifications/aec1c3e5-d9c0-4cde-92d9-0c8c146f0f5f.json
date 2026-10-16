@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:16.104091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17258114-4bfa-4c96-8dd4-f9be4751061d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aec1c3e5-d9c0-4cde-92d9-0c8c146f0f5f",
+  "input": "{\"title\": \"Boys\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Boys, Boys, Boys with Bonus Tracks'",
+  "status": "verified"
+}

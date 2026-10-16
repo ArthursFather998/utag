@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:27.288546+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a58a8112-99c8-4b89-a8c9-32949ef5a540",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "71810a4f-959c-4ce2-9051-f07bf94e8734",
+  "input": "{\"title\": \"Let the Heartaches Begin\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'As Time Goes By'",
+  "status": "verified"
+}

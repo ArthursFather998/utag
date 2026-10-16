@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:09.914578+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac8fb619-8f4a-4414-8454-2b1a79d04ad0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a2bf305-6fa5-4a58-b910-a19754765f73",
+  "input": "{\"title\": \"Fill the Void (with Lily-Rose Depp and Ramsey)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Idol, Vol. 1'",
+  "status": "verified"
+}

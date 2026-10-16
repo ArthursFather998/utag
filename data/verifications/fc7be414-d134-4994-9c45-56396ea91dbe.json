@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:55.956044+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5a77922-6fa0-45bb-80b3-643b7f8760d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc7be414-d134-4994-9c45-56396ea91dbe",
+  "input": "{\"title\": \"GLOCK 25\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'THE RUSH'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:07.942549+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4cf07849-36c4-494b-843c-79c42af32b66",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5a19bead-254f-4db0-bea8-51c46f55db93",
+  "input": "{\"title\": \"The Greatest Show\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

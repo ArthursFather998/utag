@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:33.934412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6788e62-8425-493b-98ee-7f5c5a1149c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4fdea8a-e845-4a9c-95f1-26d077e1efd5",
+  "input": "{\"title\": \"Closer\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Comeback Season'",
+  "status": "verified"
+}

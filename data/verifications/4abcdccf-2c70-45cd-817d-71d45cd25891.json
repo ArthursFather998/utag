@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:48.254781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ccdd71d-26eb-4112-af55-179e7b83f2f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4abcdccf-2c70-45cd-817d-71d45cd25891",
+  "input": "{\"title\": \"Change\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Songs for a Nervous Planet'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:18.299964+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf6af6a5-e461-4a30-9d9f-e45887879952",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "803647ee-630b-41a8-b2ee-e6ea5f92ae57",
+  "input": "{\"title\": \"Wanna Be (Romeo)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'J.E. Heartbreak II'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:10.589428+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc51f9aa-226b-4b2e-bc3c-1b02a42c319e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2306cfe8-58d5-4fd0-8be6-b8bd5cd1cc0c",
+  "input": "{\"title\": \"I Just Can't Get Enough of You\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Lesley Gore Sings All About Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:56.149436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ffed626-947a-479e-87ef-706f64b67819",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c2f6173-f9c8-410f-9b78-9d72b1e10d65",
+  "input": "{\"title\": \"The Beach\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Wiped Out!'",
+  "status": "verified"
+}

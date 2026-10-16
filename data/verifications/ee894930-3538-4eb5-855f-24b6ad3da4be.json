@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:31.520659+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca911284-905f-4593-b5eb-5ba406482953",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ee894930-3538-4eb5-855f-24b6ad3da4be",
+  "input": "{\"title\": \"IT'S NOT THAT SERIOUS\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Track order from Lyrkit; 5-track count confirmed by Last.fm + mp3million. [release_date: 2021-06-01]",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:18.079187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f2ec5eb-e6cc-40eb-916f-fc3c60b556f7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a5897d18-92b6-4d12-a5bd-e7900f0e4abb",
+  "input": "{\"title\": \"Golden Child\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

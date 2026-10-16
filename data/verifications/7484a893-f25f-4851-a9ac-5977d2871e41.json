@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:04.564828+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d789fc4-0b97-4e78-925f-34c513c6fa19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7484a893-f25f-4851-a9ac-5977d2871e41",
+  "input": "{\"title\": \"U Don't Have to Call\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'U Don't Have to Call'",
+  "status": "verified"
+}

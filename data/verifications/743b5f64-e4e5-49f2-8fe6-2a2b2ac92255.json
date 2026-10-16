@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:47.015414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8715a4c-f437-411b-8164-c5074bd94e96",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "743b5f64-e4e5-49f2-8fe6-2a2b2ac92255",
+  "input": "{\"title\": \"Miss You\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

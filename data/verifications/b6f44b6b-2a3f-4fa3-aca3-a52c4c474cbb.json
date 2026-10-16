@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:56.081071+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bdb6d748-7c1d-4244-982e-7c1527e02b0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6f44b6b-2a3f-4fa3-aca3-a52c4c474cbb",
+  "input": "{\"title\": \"Zeus\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Music to Be Murdered By – Side B (Deluxe Edition)'",
+  "status": "verified"
+}

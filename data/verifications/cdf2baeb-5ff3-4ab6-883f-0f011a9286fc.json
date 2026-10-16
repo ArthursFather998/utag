@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:03.086184+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "961b626c-4f9c-4ffe-a345-3847f3d0dab1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cdf2baeb-5ff3-4ab6-883f-0f011a9286fc",
+  "input": "{\"title\": \"Never Going Back Again\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Rumours Live'",
+  "status": "verified"
+}

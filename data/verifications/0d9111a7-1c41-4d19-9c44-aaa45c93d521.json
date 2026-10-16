@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:19.379719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58cbe42d-fb4e-4f34-bad6-f95fe975b489",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0d9111a7-1c41-4d19-9c44-aaa45c93d521",
+  "input": "{\"title\": \"Brian McKnight\", \"release_type\": \"album\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

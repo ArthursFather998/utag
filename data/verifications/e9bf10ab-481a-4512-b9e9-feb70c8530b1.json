@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:51.304399+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec83ddb1-10c9-4772-add7-5cb3fa9b742f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9bf10ab-481a-4512-b9e9-feb70c8530b1",
+  "input": "{\"title\": \"Nicotine (Live)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'All My Friends We're Glorious: Death of a Bachelor Tour Live'",
+  "status": "verified"
+}

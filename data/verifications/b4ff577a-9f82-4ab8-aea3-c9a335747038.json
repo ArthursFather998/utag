@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:41.703966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2cf0deed-0df1-463e-85b0-d976968c422f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4ff577a-9f82-4ab8-aea3-c9a335747038",
+  "input": "{\"title\": \"Cocoa Hooves (Stripped)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Zaba (Deluxe Edition)'",
+  "status": "verified"
+}

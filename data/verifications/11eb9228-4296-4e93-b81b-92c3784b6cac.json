@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:07.107494+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7babd94-3a10-4bb7-bd0f-0605431c1be1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "11eb9228-4296-4e93-b81b-92c3784b6cac",
+  "input": "{\"title\": \"Candle in the Wind\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'Never Too Late'",
+  "status": "verified"
+}

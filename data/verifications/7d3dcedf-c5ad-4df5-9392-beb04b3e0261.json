@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:06.506139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfb10bd3-4b24-4f9d-a9a7-a266680e5289",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d3dcedf-c5ad-4df5-9392-beb04b3e0261",
+  "input": "{\"title\": \"She Had the World (Alternate Version)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of '...Live in Chicago'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:45.867312+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec35daec-b327-4adf-bcc0-0ecb8d74e983",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36ca6d8f-e366-4bab-8771-2b30d35bd282",
+  "input": "{\"title\": \"Love Me Like You Used To\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Long Lost'",
+  "status": "verified"
+}

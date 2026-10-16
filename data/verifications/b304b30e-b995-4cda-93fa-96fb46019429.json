@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:58.111569+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "333328a7-6ebd-4c84-b09a-b7cc9e597c89",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b304b30e-b995-4cda-93fa-96fb46019429",
+  "input": "{\"title\": \"Let It Die\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'One-X (20th Anniversary Edition)'",
+  "status": "verified"
+}

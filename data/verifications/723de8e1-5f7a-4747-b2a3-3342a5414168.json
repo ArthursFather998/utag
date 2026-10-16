@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:57.308694+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1de62b4-4308-47a9-9fed-30515de87890",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "723de8e1-5f7a-4747-b2a3-3342a5414168",
+  "input": "{\"title\": \"Selfish Girl\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Coffret 4 CD'",
+  "status": "verified"
+}

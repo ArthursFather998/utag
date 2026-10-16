@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:46.525748+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36ef9f07-8245-4d4b-8dcd-13a5b9b264bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebf05e5e-1333-4cad-81c1-498bf9168c07",
+  "input": "{\"title\": \"Hurt Him\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Goodnight My Love'",
+  "status": "verified"
+}

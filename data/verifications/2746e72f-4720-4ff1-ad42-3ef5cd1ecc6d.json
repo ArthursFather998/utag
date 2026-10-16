@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:35.802348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "929d9f7f-0587-4a30-9af8-35df7a1d8b54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2746e72f-4720-4ff1-ad42-3ef5cd1ecc6d",
+  "input": "{\"title\": \"vanilla sky.\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Icon (Director's Cut)'",
+  "status": "verified"
+}

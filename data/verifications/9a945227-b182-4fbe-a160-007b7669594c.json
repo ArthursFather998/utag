@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:46.216225+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e44f0c3-a9e0-4dfb-92fb-f42ed708d999",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a945227-b182-4fbe-a160-007b7669594c",
+  "input": "{\"title\": \"Time to Dance\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'A Fever You Can't Sweat Out (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

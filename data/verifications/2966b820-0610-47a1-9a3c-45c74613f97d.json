@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:09.091476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "03ccd074-5e42-4b9a-ac6e-bb73b2328df1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2966b820-0610-47a1-9a3c-45c74613f97d",
+  "input": "{\"title\": \"You Don't Know My Name\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Diary of Alicia Keys'",
+  "status": "verified"
+}

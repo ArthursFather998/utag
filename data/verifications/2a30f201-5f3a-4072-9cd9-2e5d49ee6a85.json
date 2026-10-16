@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:49.110721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7970dcdc-e551-4936-a852-9cf684783daa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a30f201-5f3a-4072-9cd9-2e5d49ee6a85",
+  "input": "{\"title\": \"Always Be My Baby\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '#1's'",
+  "status": "verified"
+}

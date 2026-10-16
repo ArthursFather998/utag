@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:31.945228+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c6a44cd-6bbc-4eb9-8acf-21ad7f0c362e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "662d34f5-8c7d-48c4-a98c-e065f0012d07",
+  "input": "{\"title\": \"There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'A Fever You Can't Sweat Out'",
+  "status": "verified"
+}

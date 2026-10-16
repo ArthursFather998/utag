@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:14.667514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c57a5ef-fcc6-4e87-95a1-72cda9cad92f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89866e7a-1ff3-4d3c-ab2a-a7c97b0cea5f",
+  "input": "{\"title\": \"Sunlight on Your Skin\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sunlight on Your Skin'",
+  "status": "verified"
+}

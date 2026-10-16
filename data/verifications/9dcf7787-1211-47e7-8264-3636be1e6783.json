@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:53.814866+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "290ee7d4-60cc-4aa9-88f3-4463e6f9e690",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9dcf7787-1211-47e7-8264-3636be1e6783",
+  "input": "{\"title\": \"World Turning\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Opus Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:00.640288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c7f26d0-1f54-41cf-9f7c-386fc0f30c72",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de3fcafd-0e36-45f8-a9a4-14f2a280d2ff",
+  "input": "{\"title\": \"Tears Always Win\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tears Always Win'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:26.691063+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fef291c3-3c22-46c9-abe1-16944dbabb60",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4053458-d6d9-48f3-b449-dd877dcbc0a4",
+  "input": "{\"title\": \"To All the Girls I've Loved Before\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Encore'",
+  "status": "verified"
+}

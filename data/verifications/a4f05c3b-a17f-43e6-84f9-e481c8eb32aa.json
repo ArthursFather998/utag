@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:56.253594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "412776ff-cd66-4722-9fae-5128f4d11d0b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4f05c3b-a17f-43e6-84f9-e481c8eb32aa",
+  "input": "{\"title\": \"Imagination\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Buried Treasure'",
+  "status": "verified"
+}

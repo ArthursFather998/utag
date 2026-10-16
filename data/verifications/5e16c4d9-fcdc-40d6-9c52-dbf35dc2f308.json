@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:41.903987+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "title->Good Girls, Bad Guys"
+    ],
+    "verdict": "fix_title"
+  },
+  "entity_id": "c9ba6a6f-6448-4e69-b8a2-0b97a07c4bdc",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "5e16c4d9-fcdc-40d6-9c52-dbf35dc2f308",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Vans Warped Tour: 2012 Tour Compilation",
+    "title": "Good Girls Bad Guys"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Official title includes the comma (Wikipedia, Discogs, HMV all list track 5 of The Drug in Me Is You as Good Girls, Bad Guys); the track is also on Disc 2 track 7 of the Vans Warped Tour 2012 Tour Compilation, so the comp release is acceptable. | sources: https://en.wikipedia.org/wiki/The_Drug_in_Me_Is_You, https://www.discogs.com/release/3738385-Falling-In-Reverse-The-Drug-In-Me-Is-You",
+  "status": "verified"
+}

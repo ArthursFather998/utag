@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:15.374828+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8d4d2f3-d452-41ae-ac0f-fcb0c722e2dc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a9d3b46a-10e6-4302-bc21-41c8f1e4f142",
+  "input": "{\"title\": \"Bills, Bills, Bills\", \"release_type\": \"single\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

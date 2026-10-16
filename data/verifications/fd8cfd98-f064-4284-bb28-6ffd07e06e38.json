@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:58.119892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3de848d8-2884-40fa-8f95-3789aa874537",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fd8cfd98-f064-4284-bb28-6ffd07e06e38",
+  "input": "{\"title\": \"Only Live\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

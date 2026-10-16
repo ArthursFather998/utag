@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:43.682171+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42c9fa9e-3260-44ee-9da7-5a6d5c36e7da",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b28f4d17-bf04-45c1-8045-b8bf63a515df",
+  "input": "{\"title\": \"The Distance\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

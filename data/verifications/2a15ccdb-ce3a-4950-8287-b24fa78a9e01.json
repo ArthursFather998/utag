@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:54.387376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b8f6a45-acf4-4b3c-8b88-812a092d1929",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a15ccdb-ce3a-4950-8287-b24fa78a9e01",
+  "input": "{\"title\": \"New Drop\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'HARDSTONE PSYCHO (Deluxe)'",
+  "status": "verified"
+}

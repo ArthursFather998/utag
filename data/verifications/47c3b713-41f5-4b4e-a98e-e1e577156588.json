@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:20.9917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c4aae43-fdc7-4a97-9cdc-06d5cf39275f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47c3b713-41f5-4b4e-a98e-e1e577156588",
+  "input": "{\"title\": \"Bedshaped\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Best of Keane'",
+  "status": "verified"
+}

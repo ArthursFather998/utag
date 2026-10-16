@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:26.55402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f715a03-79e5-4e93-bb30-9da0d19db9ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "550f7c77-6f1d-4970-a61a-8fe180b093b6",
+  "input": "{\"title\": \"Hallelujah\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'In Transition'",
+  "status": "verified"
+}

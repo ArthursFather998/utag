@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:05.51852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dcda4ebc-f6ce-4558-b632-be2848ec836a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28517eb9-cef2-4daf-97b8-272d0717e905",
+  "input": "{\"title\": \"Crocodile Rock\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Never Too Late'",
+  "status": "verified"
+}

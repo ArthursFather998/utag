@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:58.748166+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b6cd019-11a0-4b2b-8851-55ed07206fd1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7fecfa6-7f19-4148-840f-06f4f4e70c79",
+  "input": "{\"title\": \"Don't Go\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Freedom'",
+  "status": "verified"
+}

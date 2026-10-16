@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:37.775758+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6f56e8b-c919-4e9c-ae4f-fa400431e784",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "482191ed-2de8-4224-aba5-843cc428b136",
+  "input": "{\"title\": \"My Saving Grace\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

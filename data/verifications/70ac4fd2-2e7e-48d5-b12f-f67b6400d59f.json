@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:27.462702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85d8aa5b-a488-47b2-9f78-02ca7720222a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "70ac4fd2-2e7e-48d5-b12f-f67b6400d59f",
+  "input": "{\"title\": \"Yo Te Sigo Queriendo\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Entre a Mi Mundo'",
+  "status": "verified"
+}

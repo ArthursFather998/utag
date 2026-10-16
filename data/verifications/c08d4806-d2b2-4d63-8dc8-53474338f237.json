@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:13.579589+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "467e63e8-382d-4384-94b3-48ca36f975a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c08d4806-d2b2-4d63-8dc8-53474338f237",
+  "input": "{\"title\": \"Made of Stone\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of 'The Ultimate Collection'",
+  "status": "verified"
+}

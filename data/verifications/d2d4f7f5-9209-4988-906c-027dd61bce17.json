@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:06.537926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea463f71-ff5a-4dd0-9bd6-51154b7a1832",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2d4f7f5-9209-4988-906c-027dd61bce17",
+  "input": "{\"title\": \"Sugar Plum Fairy Introlude\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Merry Christmas (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

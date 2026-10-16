@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:51.914934+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "26867ee8-c267-4769-8dbb-ba1a24085745",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b81f4a64-4325-4c6f-880f-3ee66cebb4ef",
+  "input": "{\"title\": \"Tia Tamera\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Amala (Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:43.883505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "350e5a4b-0bef-45b8-81ac-38fb23732162",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b493a01-ceb7-4c05-87ae-ee6b2cc28802",
+  "input": "{\"title\": \"Never Forget You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Music Box: 30th Anniversary Edition'",
+  "status": "verified"
+}

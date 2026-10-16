@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:55.275877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "78ac9d10-f296-4156-bdfa-33c7508a6755",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64d1716f-5dd9-4308-a66b-ffff9aed129f",
+  "input": "{\"title\": \"A Little Less Sixteen Candles, a Little More \\\"Touch Me\\\"\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'From Under the Cork Tree (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

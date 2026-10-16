@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:55.588032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "282af30d-de36-42bb-bfa8-b372e1f9199c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4560c9e7-fc15-43da-913d-56d1f05cd9de",
+  "input": "{\"title\": \"Stripes Like Burberry\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Pluto x Baby Pluto'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:33.236772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88e2c45e-c199-4df8-8b8f-5b72e555b1dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ffdbcf8-c581-42b9-a27f-bb72523042f7",
+  "input": "{\"title\": \"Don't Blame Your Daughter (Diamonds)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Super Extra Gravity'",
+  "status": "verified"
+}

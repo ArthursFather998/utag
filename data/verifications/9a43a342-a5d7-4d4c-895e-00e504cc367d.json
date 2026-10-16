@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:45.847659+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90e18af5-0ddc-4416-bf18-6f50d8dbd312",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a43a342-a5d7-4d4c-895e-00e504cc367d",
+  "input": "{\"title\": \"Sugar, We're Goin Down\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Believers Never Die – Greatest Hits'",
+  "status": "verified"
+}

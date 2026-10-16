@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:26.084834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61e4432c-d6b5-4347-a917-35e3e63e11f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ceb92a7-d253-4ac6-a9f5-0b55db2d9592",
+  "input": "{\"title\": \"Sure Looks Good to Me\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'As I Am: The Super Edition'",
+  "status": "verified"
+}

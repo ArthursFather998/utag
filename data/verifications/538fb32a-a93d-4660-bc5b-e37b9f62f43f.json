@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:14.738537+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6ef43a2-7230-4a70-9583-c1e296b400ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "538fb32a-a93d-4660-bc5b-e37b9f62f43f",
+  "input": "{\"title\": \"I'm in Love with My Car\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live in Ukraine'",
+  "status": "verified"
+}

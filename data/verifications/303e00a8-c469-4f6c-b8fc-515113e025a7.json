@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:02.688244+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7364e91-4f98-4119-95db-a99c4c9a763d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "303e00a8-c469-4f6c-b8fc-515113e025a7",
+  "input": "{\"title\": \"Understanding (Evanescence EP version)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Sound Asleep'",
+  "status": "verified"
+}

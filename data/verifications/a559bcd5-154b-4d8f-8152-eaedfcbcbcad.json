@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:34.977572+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8adf5d39-6a46-4db6-a510-aa55121cb2d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a559bcd5-154b-4d8f-8152-eaedfcbcbcad",
+  "input": "{\"title\": \"Far\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of 'Lana'",
+  "status": "verified"
+}

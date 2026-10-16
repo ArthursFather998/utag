@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:01.176162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d7397db-443b-44c7-8af4-db68238609e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28c37a19-e16d-4e62-afbd-1850e6c74d2f",
+  "input": "{\"title\": \"He Can't Love U\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Playlist: The Very Best of Jagged Edge'",
+  "status": "verified"
+}

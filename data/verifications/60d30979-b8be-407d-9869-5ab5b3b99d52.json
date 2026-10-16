@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:15.411054+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b59f6f3f-bf2b-404b-9ba1-fa5b9605dcb6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60d30979-b8be-407d-9869-5ab5b3b99d52",
+  "input": "{\"title\": \"Karaoke\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Karaoke'",
+  "status": "verified"
+}

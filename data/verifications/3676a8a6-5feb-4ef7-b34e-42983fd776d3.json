@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:52.292508+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89fd727d-50d1-4f7a-b4a9-87cfefe2eb9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3676a8a6-5feb-4ef7-b34e-42983fd776d3",
+  "input": "{\"title\": \"Painkiller\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Prom Queen + Sports'",
+  "status": "verified"
+}

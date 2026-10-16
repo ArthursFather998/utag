@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:10.461661+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67edbd2d-8648-4719-b4b5-0afac82609ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbeb1f17-ec23-4ba9-9261-1b97d277f544",
+  "input": "{\"title\": \"Never Enough\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Encore'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:08.5242+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d137331-2cef-4227-b4b7-ff5e53e5e645",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df5e9fa9-cab1-4223-b1a9-7aba3c731d6a",
+  "input": "{\"title\": \"Hamburg Song\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'iTunes - Live From London'",
+  "status": "verified"
+}

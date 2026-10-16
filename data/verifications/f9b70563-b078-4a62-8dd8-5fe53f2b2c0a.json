@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:42.965308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af744284-a33a-48fa-9e41-313c283c5d6a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9b70563-b078-4a62-8dd8-5fe53f2b2c0a",
+  "input": "{\"title\": \"Stick\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'D-Day: A Gangsta Grillz Mixtape'",
+  "status": "verified"
+}

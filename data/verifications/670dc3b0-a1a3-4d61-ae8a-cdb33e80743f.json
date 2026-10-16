@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:55.353094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21e0e76c-3d95-4215-8909-eb54f40e9f19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "670dc3b0-a1a3-4d61-ae8a-cdb33e80743f",
+  "input": "{\"title\": \"No One (Acoustic)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Vault Playlist, Vol. 1'",
+  "status": "verified"
+}

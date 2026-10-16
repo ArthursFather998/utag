@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:12.487304+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ffe0aa76-081d-4880-abe3-aecb970ea6ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ebec4f6-2a18-4529-908d-3fa19c49fa84",
+  "input": "{\"title\": \"Soldier\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Eminem Show'",
+  "status": "verified"
+}

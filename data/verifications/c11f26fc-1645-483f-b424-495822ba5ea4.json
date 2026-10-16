@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:34.450507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74107856-e5da-41f6-a0e4-b4e693cf8150",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c11f26fc-1645-483f-b424-495822ba5ea4",
+  "input": "{\"title\": \"Wind Mill\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'A Jagged Love Story'",
+  "status": "verified"
+}

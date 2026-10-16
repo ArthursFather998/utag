@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:02.244657+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d946c3f-c66e-4d65-99c0-951156315e40",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c516e514-b161-4b49-a5f9-612daf8de5f6",
+  "input": "{\"title\": \"Dime\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Dulce Amor'",
+  "status": "verified"
+}

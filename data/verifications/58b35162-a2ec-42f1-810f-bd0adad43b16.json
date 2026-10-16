@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:05.913021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54c12999-b2ab-4396-9c4a-9fda73828b98",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "58b35162-a2ec-42f1-810f-bd0adad43b16",
+  "input": "{\"title\": \"Anthology\", \"release_type\": \"album\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

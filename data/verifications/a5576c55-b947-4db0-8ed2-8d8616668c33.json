@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:38.179524+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7343de70-0069-4024-bcf3-6ae9bf56affd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5576c55-b947-4db0-8ed2-8d8616668c33",
+  "input": "{\"title\": \"First Train Home (Mono)\", \"track_number\": 91}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 91 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

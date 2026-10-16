@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:54.796615+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67a712c3-d6e3-4c64-8498-037afa4a5137",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "98bb5fcc-df39-4341-a302-4e09c33100bb",
+  "input": "{\"title\": \"24K Magic (Deluxe Edition)\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

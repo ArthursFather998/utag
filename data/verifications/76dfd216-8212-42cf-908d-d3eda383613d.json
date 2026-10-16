@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:56.902224+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae1865c4-292b-4d52-a2e8-e42cb2cb20dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76dfd216-8212-42cf-908d-d3eda383613d",
+  "input": "{\"title\": \"Valentine, TX\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Land: The Live Album'",
+  "status": "verified"
+}

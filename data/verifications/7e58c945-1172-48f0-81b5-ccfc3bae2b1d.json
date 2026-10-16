@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:51.960303+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d53ff46d-4412-4451-ad68-18888cd7db76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e58c945-1172-48f0-81b5-ccfc3bae2b1d",
+  "input": "{\"title\": \"omfg i want ur liver bae\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'my least favorite movie'",
+  "status": "verified"
+}

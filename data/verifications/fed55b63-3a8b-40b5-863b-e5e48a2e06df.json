@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:52.398777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48b1ad18-ac75-4dc4-b312-1b8bd266ea59",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fed55b63-3a8b-40b5-863b-e5e48a2e06df",
+  "input": "{\"title\": \"Till I Collapse (instrumental)\", \"track_number\": 38}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 38 of 'The Eminem Show (Expanded Edition)'",
+  "status": "verified"
+}

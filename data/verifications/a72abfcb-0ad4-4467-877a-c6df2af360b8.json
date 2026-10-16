@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:57.915296+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "620c068f-7874-4c3d-a76c-d157b3be898a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a72abfcb-0ad4-4467-877a-c6df2af360b8",
+  "input": "{\"title\": \"Tomorrow Never Came\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Lust for Life'",
+  "status": "verified"
+}

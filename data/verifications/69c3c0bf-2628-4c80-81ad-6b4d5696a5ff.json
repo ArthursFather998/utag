@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:50.732531+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd648134-9dde-4b9c-b88f-7e3d06eb8447",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69c3c0bf-2628-4c80-81ad-6b4d5696a5ff",
+  "input": "{\"title\": \"I Could Fall in Love\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Remembered'",
+  "status": "verified"
+}

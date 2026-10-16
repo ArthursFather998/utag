@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:21:37.130082+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8bd5f7b3-7b94-4aaa-8dab-86044a9a1522",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48993e01-67eb-45fd-bacf-bad2fc989910",
+  "input": "{\"title\": \"Not Even the King\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'VH1 Storytellers'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:35.889545+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35ed6e2d-5e35-428c-b14c-26b7a37df4a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f3a2337-dcfb-48f0-9f1b-c485e87f92c8",
+  "input": "{\"title\": \"Now or Never\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Three Days Grace'",
+  "status": "verified"
+}

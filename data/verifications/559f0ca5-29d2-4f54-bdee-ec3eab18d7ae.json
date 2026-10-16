@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:51.142112+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0a46e53-c0ec-438b-b683-df273f9ef98f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "559f0ca5-29d2-4f54-bdee-ec3eab18d7ae",
+  "input": "{\"title\": \"Circo Loco\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Her Loss'",
+  "status": "verified"
+}

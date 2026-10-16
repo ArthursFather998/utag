@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:07.767392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a53681eb-33e5-487c-b250-d8fc37f81d88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "651b8757-d14c-48ce-a040-c6b5a75f7a97",
+  "input": "{\"title\": \"It's Up\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '100 Gigs'",
+  "status": "verified"
+}

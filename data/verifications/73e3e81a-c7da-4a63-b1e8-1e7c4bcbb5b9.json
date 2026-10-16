@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:11.895629+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42d951b2-917c-4310-9e7c-0532462798f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73e3e81a-c7da-4a63-b1e8-1e7c4bcbb5b9",
+  "input": "{\"title\": \"Jigsaw Puzzle Blues\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'Original Fleetwood Mac: The Blues Years'",
+  "status": "verified"
+}

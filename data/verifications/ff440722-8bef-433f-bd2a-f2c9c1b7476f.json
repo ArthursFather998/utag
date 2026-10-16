@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:20.030745+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1515eb3f-e304-40a5-89fb-a1bb661edea4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff440722-8bef-433f-bd2a-f2c9c1b7476f",
+  "input": "{\"title\": \"Crying Lightning\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live at the Royal Albert Hall'",
+  "status": "verified"
+}

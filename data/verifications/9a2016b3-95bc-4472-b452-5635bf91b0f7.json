@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:39.384165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1331745-97a7-4bf8-8a1d-b466a0fd5fa7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a2016b3-95bc-4472-b452-5635bf91b0f7",
+  "input": "{\"title\": \"Painkiller\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Prom Queen / Crybaby + Sports'",
+  "status": "verified"
+}

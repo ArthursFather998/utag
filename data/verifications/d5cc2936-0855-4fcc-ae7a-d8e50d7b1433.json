@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:28.383696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "098244b9-ac9d-476a-8678-a81b4ebcaf36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5cc2936-0855-4fcc-ae7a-d8e50d7b1433",
+  "input": "{\"title\": \"Landslide\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'In Concert'",
+  "status": "verified"
+}

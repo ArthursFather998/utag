@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:25.246975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "274ad8ea-e44a-4b27-b87f-fde294235f12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "efa22fb5-fdec-491d-b8cb-b62c63e06f18",
+  "input": "{\"title\": \"All Around Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Changes'",
+  "status": "verified"
+}

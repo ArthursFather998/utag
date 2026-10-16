@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:32.307634+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1df0776c-1ff4-41d7-a04a-1691bb6d2858",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27c621fd-f526-4c0d-91e4-28449e432b63",
+  "input": "{\"title\": \"Homage\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Homage'",
+  "status": "verified"
+}

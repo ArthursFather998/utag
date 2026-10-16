@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:49.853458+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ceb97fb-7539-455e-9718-e803d61a9b84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e5b0f1d-1d1d-4d83-a064-857061112a59",
+  "input": "{\"title\": \"4 Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '4 Me'",
+  "status": "verified"
+}

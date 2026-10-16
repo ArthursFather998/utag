@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:58.723909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16f5ab60-bc01-4fa1-b6fd-beec8e9340b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b643bc2-0a3a-482a-a1dc-afcc39b8d2fc",
+  "input": "{\"title\": \"After Tonight\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Rainbow'",
+  "status": "verified"
+}

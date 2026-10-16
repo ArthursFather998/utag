@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:11.843496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99bebcb8-7ef2-47c9-9273-7a46fc991d5a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9bbd53aa-4d75-4086-8ec6-3dc83a930c28",
+  "input": "{\"title\": \"All at Once\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Through the Years: The Best of the Fray'",
+  "status": "verified"
+}

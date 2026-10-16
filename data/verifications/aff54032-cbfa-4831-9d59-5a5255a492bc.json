@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:29.007156+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a730632-15da-4e06-878b-30c117ba61f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aff54032-cbfa-4831-9d59-5a5255a492bc",
+  "input": "{\"title\": \"8 Mile\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '8 Mile: Music from and Inspired by the Motion Picture'",
+  "status": "verified"
+}

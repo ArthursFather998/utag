@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:32.710864+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db8e67d2-f099-4948-9e7a-fcf21b313310",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6dc65346-7f27-430f-be36-e41d7eed81c8",
+  "input": "{\"title\": \"What Would Pluto Do\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'For All the Dogs Scary Hours Edition'",
+  "status": "verified"
+}

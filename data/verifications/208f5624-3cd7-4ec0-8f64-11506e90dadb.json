@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:58.783721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d38bb8c9-53be-44e7-a646-08cb8eab8e23",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "208f5624-3cd7-4ec0-8f64-11506e90dadb",
+  "input": "{\"title\": \"Crack a Bottle\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Relapse: Refill'",
+  "status": "verified"
+}

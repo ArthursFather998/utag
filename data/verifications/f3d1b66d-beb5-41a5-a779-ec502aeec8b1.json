@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:08.841642+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "294b6e6e-2dd3-4e63-a3fe-4934d4d120a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3d1b66d-beb5-41a5-a779-ec502aeec8b1",
+  "input": "{\"title\": \"Bad One\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'The Death of Slim Shady (Coup de Grâce)'",
+  "status": "verified"
+}

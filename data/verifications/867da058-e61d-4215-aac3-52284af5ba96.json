@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:24.143651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7e303a0-41f5-44ef-a2f9-bf72cbf26130",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "867da058-e61d-4215-aac3-52284af5ba96",
+  "input": "{\"title\": \"Lover, You Should've Come Over\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Original Album Classics'",
+  "status": "verified"
+}

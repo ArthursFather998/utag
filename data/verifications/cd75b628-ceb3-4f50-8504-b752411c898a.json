@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:46.736638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7ebcdcd-4737-4e85-99e7-a306ee51ad4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd75b628-ceb3-4f50-8504-b752411c898a",
+  "input": "{\"title\": \"Whispers\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Usher'",
+  "status": "verified"
+}

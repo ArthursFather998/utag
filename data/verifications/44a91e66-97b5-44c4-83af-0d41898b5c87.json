@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:23.921848+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb10d311-8bad-41e4-8c22-249c246b5b67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44a91e66-97b5-44c4-83af-0d41898b5c87",
+  "input": "{\"title\": \"Lover, You Should've Come Over\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live at Sin-é'",
+  "status": "verified"
+}

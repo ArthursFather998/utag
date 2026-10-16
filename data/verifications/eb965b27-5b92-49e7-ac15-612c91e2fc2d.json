@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:26.770582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b66c225-c54f-4173-b1ed-881f60e1e6de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb965b27-5b92-49e7-ac15-612c91e2fc2d",
+  "input": "{\"title\": \"Drip\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Drip'",
+  "status": "verified"
+}

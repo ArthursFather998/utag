@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:15.774011+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f087d055-4c7a-4a5e-87d9-546dd4764335",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8102eb89-3f8c-417e-be1f-2c03e132b2d6",
+  "input": "{\"title\": \"My Heart's a Crowded Room\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

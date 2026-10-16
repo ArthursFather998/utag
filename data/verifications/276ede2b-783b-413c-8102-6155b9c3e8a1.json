@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:05.598941+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b4246de-825e-480a-802b-1891703c7225",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "276ede2b-783b-413c-8102-6155b9c3e8a1",
+  "input": "{\"title\": \"The Last Song\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Rated R + Loud'",
+  "status": "verified"
+}

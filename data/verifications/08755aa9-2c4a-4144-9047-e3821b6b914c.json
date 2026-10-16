@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:18.571077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "163e904f-5a6d-45f7-a42c-8e0ee8e8d265",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "08755aa9-2c4a-4144-9047-e3821b6b914c",
+  "input": "{\"title\": \"Now That She's Gone\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Love Songs'",
+  "status": "verified"
+}

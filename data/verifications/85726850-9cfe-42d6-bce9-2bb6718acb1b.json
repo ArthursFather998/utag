@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:20.333793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb0cde6e-ac9f-43c3-8b55-fbac9afc64e5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "85726850-9cfe-42d6-bce9-2bb6718acb1b",
+  "input": "{\"title\": \"Ya Ves\", \"release_type\": \"single\", \"release_year\": 1990}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

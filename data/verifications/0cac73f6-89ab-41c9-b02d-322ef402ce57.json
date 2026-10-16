@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:54.246628+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9573917-eef2-4bbf-834c-f4459db79da1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0cac73f6-89ab-41c9-b02d-322ef402ce57",
+  "input": "{\"title\": \"Live At Largo (Los Angeles)\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

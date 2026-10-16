@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:23.088988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d734c9c-5155-4f8e-a661-8347f860510b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88e304ff-b1d2-4fd6-940f-29c2a9d31887",
+  "input": "{\"title\": \"A New Way to Bleed\", \"track_number\": 56}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 56 of 'The Ultimate Collection'",
+  "status": "verified"
+}

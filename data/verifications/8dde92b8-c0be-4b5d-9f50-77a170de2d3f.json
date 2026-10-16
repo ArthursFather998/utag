@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:17.738303+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9933286c-62f9-4fb8-af70-a366da8eba05",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8dde92b8-c0be-4b5d-9f50-77a170de2d3f",
+  "input": "{\"title\": \"The Ballads\", \"release_type\": \"album\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

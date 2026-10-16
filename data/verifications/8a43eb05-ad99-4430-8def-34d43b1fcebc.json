@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:02.736111+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2eeb034-04bf-4b4b-905b-e61cae8badf7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a43eb05-ad99-4430-8def-34d43b1fcebc",
+  "input": "{\"title\": \"Away In A Manger\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Christmas EP'",
+  "status": "verified"
+}

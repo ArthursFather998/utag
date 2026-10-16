@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:07.153799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e0ba700-3cb5-4787-bfcc-a0aeb08398ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78a345a3-86ed-49bc-962b-d17de288b3d3",
+  "input": "{\"title\": \"Yukon\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Swag Live from Coachella (Weekend II)'",
+  "status": "verified"
+}

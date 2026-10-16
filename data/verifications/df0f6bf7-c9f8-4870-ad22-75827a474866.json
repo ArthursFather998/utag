@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:01.376892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b20609c-48cd-4400-8db2-ccd4efa9cbd9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df0f6bf7-c9f8-4870-ad22-75827a474866",
+  "input": "{\"title\": \"O.O.C.\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'E=MC² (Deluxe Version)'",
+  "status": "verified"
+}

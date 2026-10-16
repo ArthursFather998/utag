@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:50.269695+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8661802-4596-424a-8144-43a0d023443c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "631e170e-708a-48e0-a154-94b2f0e45a8a",
+  "input": "{\"title\": \"Opened the Door\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Ballade'",
+  "status": "verified"
+}

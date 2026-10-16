@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:24.360132+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da962a31-5097-4bef-a373-30a56734add9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3afda24b-53ee-4df1-9e3c-f99102cf5228",
+  "input": "{\"title\": \"Fall Asleep Slow\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fall Asleep Slow'",
+  "status": "verified"
+}

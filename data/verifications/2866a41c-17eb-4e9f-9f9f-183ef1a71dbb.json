@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:21.422125+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b4d996a9-fd02-46bf-b36c-a8ee63768005",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2866a41c-17eb-4e9f-9f9f-183ef1a71dbb",
+  "input": "{\"title\": \"Staring at the Ceiling\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

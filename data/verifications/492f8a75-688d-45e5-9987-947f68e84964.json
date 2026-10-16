@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:27.331274+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8949f8e8-922d-4087-b4ff-18fa1e8f3b52",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "492f8a75-688d-45e5-9987-947f68e84964",
+  "input": "{\"title\": \"Wonderful Nothing (Edit)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wonderful Nothing (Edit)'",
+  "status": "verified"
+}

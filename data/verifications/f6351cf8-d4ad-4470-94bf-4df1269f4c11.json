@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:13.106124+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24ed9a97-d0a4-4c8f-a65c-eefc28b8fd26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6351cf8-d4ad-4470-94bf-4df1269f4c11",
+  "input": "{\"title\": \"Lovin', Touchin', Squeezin'\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Journey Continues'",
+  "status": "verified"
+}

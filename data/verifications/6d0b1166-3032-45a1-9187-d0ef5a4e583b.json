@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:27.521424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ee896c0-e3bf-4cde-ab0f-1d3bf9bc31c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d0b1166-3032-45a1-9187-d0ef5a4e583b",
+  "input": "{\"title\": \"The Way I Am\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:18.685979+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f64c0b2e-4b47-4c7a-b409-42fce9ec489e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bdaef30b-2d98-493b-b081-65ff59e11ea5",
+  "input": "{\"title\": \"Electricity\", \"release_type\": \"single\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

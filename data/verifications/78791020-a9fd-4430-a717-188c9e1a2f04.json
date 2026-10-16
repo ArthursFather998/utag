@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:53.278356+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0618388-0224-4faf-97ff-8ceb3707dc5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78791020-a9fd-4430-a717-188c9e1a2f04",
+  "input": "{\"title\": \"Husband 2.1\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Just Me'",
+  "status": "verified"
+}

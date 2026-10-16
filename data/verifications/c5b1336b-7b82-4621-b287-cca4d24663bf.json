@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:14.692081+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c8f3d72-e045-409a-bcbd-c0c1fa125ef6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5b1336b-7b82-4621-b287-cca4d24663bf",
+  "input": "{\"title\": \"Sisters of the Moon\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Tusk'",
+  "status": "verified"
+}

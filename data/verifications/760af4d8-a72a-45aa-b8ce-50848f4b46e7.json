@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:21.563821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e8460c8-1e8e-4215-8756-5811fb84f691",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "760af4d8-a72a-45aa-b8ce-50848f4b46e7",
+  "input": "{\"title\": \"Paul (skit)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

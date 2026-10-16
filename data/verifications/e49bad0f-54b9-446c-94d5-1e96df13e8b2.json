@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:42.368468+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "010905fd-fa67-4b1c-ab11-57779a00fe34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e49bad0f-54b9-446c-94d5-1e96df13e8b2",
+  "input": "{\"title\": \"Tonight\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live from the Rainbow Theatre'",
+  "status": "verified"
+}

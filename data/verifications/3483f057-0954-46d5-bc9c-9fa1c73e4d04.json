@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:48.859148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58eba0ba-4d62-4241-85d2-10f21b9b407b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3483f057-0954-46d5-bc9c-9fa1c73e4d04",
+  "input": "{\"title\": \"Mosh\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Encore (Deluxe)'",
+  "status": "verified"
+}

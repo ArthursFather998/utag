@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:28.73501+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88554728-e382-4fa2-b965-e4f8abc904a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b358425-ff21-4e5f-8f96-737be45308bc",
+  "input": "{\"title\": \"Liar\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Queen (Deluxe Remastered Version)'",
+  "status": "verified"
+}

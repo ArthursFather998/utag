@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:17.938034+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9653fb2-3631-4665-93a9-83108f00cc97",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7391ce0-7e91-47f8-8331-e48abd264392",
+  "input": "{\"title\": \"Class of 2013\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Retired from Sad, New Career in Business'",
+  "status": "verified"
+}

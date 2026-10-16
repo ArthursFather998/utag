@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:49.990807+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df5552bf-565e-4085-9ce2-81dce7b3c62f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5388e2b4-7ff5-49ac-bf31-6a8dea7f642b",
+  "input": "{\"title\": \"I Want Someone Badly\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Grace (Legacy Edition)'",
+  "status": "verified"
+}

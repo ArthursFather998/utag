@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:01.323575+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "954c57bd-d414-4637-8358-250f2b24992a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3f49ba1-2338-4294-8100-5562cd8e9eac",
+  "input": "{\"title\": \"Don't You Know Who I Think I Am?\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Infinity on High'",
+  "status": "verified"
+}

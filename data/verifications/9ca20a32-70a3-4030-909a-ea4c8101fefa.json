@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:46.953618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa55041b-3ce4-4e2b-8631-841e79f291d5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9ca20a32-70a3-4030-909a-ea4c8101fefa",
+  "input": "{\"title\": \"Best Of\", \"release_type\": \"album\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:14.892021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "558489ac-e4e2-4889-a6ea-8bebe578978b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7918be7-f3da-44ba-9afc-f3660b7557ec",
+  "input": "{\"title\": \"Si Una Vez\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live! The Last Concert'",
+  "status": "verified"
+}

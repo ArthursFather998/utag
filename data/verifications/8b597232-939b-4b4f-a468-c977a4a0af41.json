@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:02.03402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f45eb361-58cd-4c26-a9d1-108662166772",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b597232-939b-4b4f-a468-c977a4a0af41",
+  "input": "{\"title\": \"Throb\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Throb'",
+  "status": "verified"
+}

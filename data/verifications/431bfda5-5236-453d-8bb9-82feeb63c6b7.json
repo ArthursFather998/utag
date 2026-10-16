@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:33.003282+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24b0b337-7a5d-4502-b93c-edd4655b21a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "431bfda5-5236-453d-8bb9-82feeb63c6b7",
+  "input": "{\"title\": \"Slow Dancing in the Dark\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Ballads 1'",
+  "status": "verified"
+}

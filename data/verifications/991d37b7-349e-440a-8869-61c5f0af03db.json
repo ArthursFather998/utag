@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:45.803561+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a924e195-e379-480b-8859-28236789c84b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "991d37b7-349e-440a-8869-61c5f0af03db",
+  "input": "{\"title\": \"I'm Getting Used to You\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'All My Hits: Todos Mis Éxitos'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:14.267003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d2a0b59-99af-42a9-a2ea-fc69a7992b32",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb6e24e0-eb53-41a4-b7f6-b12e9449c9bb",
+  "input": "{\"title\": \"We Will Rock You\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Live Around the World'",
+  "status": "verified"
+}

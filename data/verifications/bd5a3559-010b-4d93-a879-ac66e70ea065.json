@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:05.502159+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6dff3e53-9461-47d3-8d0c-3aeb97355c6f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd5a3559-010b-4d93-a879-ac66e70ea065",
+  "input": "{\"title\": \"Keep My Coo\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Keep My Coo'",
+  "status": "verified"
+}

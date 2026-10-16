@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:40.786251+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b61f3ef-cdd1-41a6-bfd4-db277eb93f27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18e72812-b8aa-44c5-be91-b17c8966f266",
+  "input": "{\"title\": \"Feathers And Down\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Long Gone Before Daylight (Remastered)'",
+  "status": "verified"
+}

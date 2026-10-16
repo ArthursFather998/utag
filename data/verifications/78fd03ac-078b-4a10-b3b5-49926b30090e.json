@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:14.88355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e36ce953-cd0a-46c8-b3c7-b2fbf69a2ea0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78fd03ac-078b-4a10-b3b5-49926b30090e",
+  "input": "{\"title\": \"Tonight\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

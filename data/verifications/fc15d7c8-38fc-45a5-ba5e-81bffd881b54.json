@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:04.064568+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d1f6de9-eaf5-4e51-ad64-d8ff90ceddc2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc15d7c8-38fc-45a5-ba5e-81bffd881b54",
+  "input": "{\"title\": \"Overture Little Mariah's Theme\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mariah Carey's Magical Christmas Special'",
+  "status": "verified"
+}

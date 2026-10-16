@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:30.201811+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91874a09-9adb-4955-895c-a394f809caf5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03ce6e2d-7d40-4723-9f45-c892f2c8ad0c",
+  "input": "{\"title\": \"Disc 1 - That's the Way Boys Are\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

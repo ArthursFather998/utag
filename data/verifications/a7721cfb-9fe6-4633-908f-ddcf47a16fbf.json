@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:23.141036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a902bb12-2368-4aa7-8f1f-6304d7aea79b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7721cfb-9fe6-4633-908f-ddcf47a16fbf",
+  "input": "{\"title\": \"Uber Pussy\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Pink Season'",
+  "status": "verified"
+}

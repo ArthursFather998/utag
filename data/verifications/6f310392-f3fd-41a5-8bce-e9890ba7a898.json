@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:17.547405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c44036f4-4fec-40f9-a333-e365d53006ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f310392-f3fd-41a5-8bce-e9890ba7a898",
+  "input": "{\"title\": \"Deck the Halls\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Kissin' Christmas: The Bobby Vinton Christmas Album'",
+  "status": "verified"
+}

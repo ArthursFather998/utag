@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:15.978085+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12d1dd99-fb5a-4245-94ac-f47283405788",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ca56f89-9e4b-4fe1-8561-f459dd79058d",
+  "input": "{\"title\": \"Silent Night\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Merry Christmas'",
+  "status": "verified"
+}

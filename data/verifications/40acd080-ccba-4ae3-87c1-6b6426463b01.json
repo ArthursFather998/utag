@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:21.710008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45908d4e-3b9d-424e-b33e-315147966863",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "40acd080-ccba-4ae3-87c1-6b6426463b01",
+  "input": "{\"title\": \"Welcome to the Freakshow\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:27.415048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a83fa95-8be1-402d-92ac-1abf8c470033",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79b5a478-7788-48b6-834c-edffabc15ac2",
+  "input": "{\"title\": \"Big Green Tractor (Live)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live Sessions'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:47.581329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "589eaea3-0e97-4fcf-ba95-772a566af774",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f940d5e-4f4a-42f2-a427-b3c55af743fb",
+  "input": "{\"title\": \"Mad World\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Rule the World: The Greatest Hits'",
+  "status": "verified"
+}

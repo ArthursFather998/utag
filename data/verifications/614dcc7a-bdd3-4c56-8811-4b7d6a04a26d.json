@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:32.127852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "734428dd-3a8a-4531-98e1-452ff59c85e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "614dcc7a-bdd3-4c56-8811-4b7d6a04a26d",
+  "input": "{\"title\": \"Dreamer's Ball\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live Killers'",
+  "status": "verified"
+}

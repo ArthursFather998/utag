@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:15.208344+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79a6e509-ff5c-425a-b5d8-c208f7ad1e63",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "71fc8eb5-ead7-41d5-8919-faf6b0fbe010",
+  "input": "{\"title\": \"Strike Up the Band for Love\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Party Music ~~ 20 Hits'",
+  "status": "verified"
+}

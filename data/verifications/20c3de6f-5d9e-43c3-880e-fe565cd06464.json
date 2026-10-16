@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:55.194513+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f83c03b4-5fc9-4f06-b6b1-069d22929d07",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "20c3de6f-5d9e-43c3-880e-fe565cd06464",
+  "input": "{\"title\": \"Say You Love Me\", \"release_type\": \"single\", \"release_year\": 1976}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

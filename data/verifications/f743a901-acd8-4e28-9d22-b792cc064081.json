@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:02.184191+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc2199be-ed20-411a-ae03-452ead754ce4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f743a901-acd8-4e28-9d22-b792cc064081",
+  "input": "{\"title\": \"This Plane Don't Go There\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'They Don't Know'",
+  "status": "verified"
+}

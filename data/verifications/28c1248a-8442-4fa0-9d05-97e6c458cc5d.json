@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:18.008488+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "751de91e-c3e3-45ef-a484-d7ce38f69fa2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "28c1248a-8442-4fa0-9d05-97e6c458cc5d",
+  "input": "{\"title\": \"Gold Lime\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

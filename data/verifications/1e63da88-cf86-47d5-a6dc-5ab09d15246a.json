@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:40.437844+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13cdae64-c3df-44d5-9f6a-6e3a34ccd3fc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1e63da88-cf86-47d5-a6dc-5ab09d15246a",
+  "input": "{\"title\": \"Not Dead Yet\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

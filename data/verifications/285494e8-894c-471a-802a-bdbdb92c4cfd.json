@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:25.914166+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30aad1b7-7bf5-4cb8-bb1d-22e9093f106e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "285494e8-894c-471a-802a-bdbdb92c4cfd",
+  "input": "{\"title\": \"Border Song\", \"release_type\": \"single\", \"release_year\": 1970}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

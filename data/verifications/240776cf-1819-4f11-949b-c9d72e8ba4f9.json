@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:46.155028+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9120b15f-e2c1-4bfd-8e78-001ac6ab60f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "240776cf-1819-4f11-949b-c9d72e8ba4f9",
+  "input": "{\"title\": \"Get Up, Get Out\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Hate Me'",
+  "status": "verified"
+}

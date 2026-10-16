@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:50.785098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "185a2d7c-745f-45c2-b352-e3791a7659ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9911860-f948-4d9a-83f2-5c582518587f",
+  "input": "{\"title\": \"And Then You Kissed Me II\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Super Extra Gravity'",
+  "status": "verified"
+}

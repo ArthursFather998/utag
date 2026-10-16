@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:25.523297+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8914dae0-fa90-431c-ad54-34b1b40faa71",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b04cf0e5-03c2-4706-a6c7-a74d92fbfa4b",
+  "input": "{\"title\": \"Traguito\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Traguito'",
+  "status": "verified"
+}

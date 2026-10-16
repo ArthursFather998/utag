@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:44.338698+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8d9ebd2-a80e-47fa-ac3f-cfdb8d75337a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d1b5de30-093f-4bcb-b622-6c386733316d",
+  "input": "{\"title\": \"This Is Gospel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Too Weird to Live, Too Rare to Die!'",
+  "status": "verified"
+}

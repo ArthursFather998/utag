@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:41.134776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3527842a-53fb-4ff1-8016-cfc4e9d82db1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dffa5547-d5b3-4b9b-ba9c-092fb3f5aa96",
+  "input": "{\"title\": \"Never Say Never\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

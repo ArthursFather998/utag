@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:00.565481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd7884c5-906d-40da-b16e-24bd80547ab8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b87785ed-44f2-4a10-913d-5985d5e3ed24",
+  "input": "{\"title\": \"Headlights\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Marshall Mathers LP 2'",
+  "status": "verified"
+}

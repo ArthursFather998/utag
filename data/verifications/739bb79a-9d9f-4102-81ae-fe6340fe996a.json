@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:50.005776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b702b47a-06a4-4c11-a754-912753efae4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "739bb79a-9d9f-4102-81ae-fe6340fe996a",
+  "input": "{\"title\": \"Mars vs. Venus\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Raymond v. Raymond'",
+  "status": "verified"
+}

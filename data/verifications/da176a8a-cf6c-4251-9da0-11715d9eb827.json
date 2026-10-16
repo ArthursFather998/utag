@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:27.393953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a41076f-644a-41ff-a2ef-9b09812f1017",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "da176a8a-cf6c-4251-9da0-11715d9eb827",
+  "input": "{\"title\": \"Patek\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:25.431458+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17218a50-836e-4be0-98a3-c21f6c707f5b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fcc43043-79de-44e7-85bf-4b939db2c49d",
+  "input": "{\"title\": \"The Song They Played (When I Crashed Into the Wall) (featuring Lil Tracy)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Hellboy'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:22.597591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50aa9d20-545e-4c8e-b561-f7c1db75267f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eeb8f626-7b22-4503-820f-cb8be256ce6f",
+  "input": "{\"title\": \"Das Model ('00)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Rest of the Best - Vol. 2'",
+  "status": "verified"
+}

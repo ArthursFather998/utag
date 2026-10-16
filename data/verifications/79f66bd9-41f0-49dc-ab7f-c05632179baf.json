@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:56.918128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46cc46a2-1da0-4de3-8010-c3337899a6e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79f66bd9-41f0-49dc-ab7f-c05632179baf",
+  "input": "{\"title\": \"Jack's Suite\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Mariah Carey's All I Want for Christmas Is You (Original Motion Picture Soundtrack)'",
+  "status": "verified"
+}

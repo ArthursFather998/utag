@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:24.443005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b20d82e2-110c-4369-87f0-9b5e16dde289",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "262c4633-115d-4b68-90f9-cb58a5b31460",
+  "input": "{\"title\": \"La Bamba\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Classic Series, Vol. 3'",
+  "status": "verified"
+}

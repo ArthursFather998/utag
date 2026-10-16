@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:36.006392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20635c5e-c49c-46df-9341-6532bbeae327",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c3eb89c-8085-451c-a71a-1248f23d2e72",
+  "input": "{\"title\": \"Let Me Be\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'I Am Human (Deluxe Edition)'",
+  "status": "verified"
+}

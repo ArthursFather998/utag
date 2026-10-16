@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:55.388896+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "408a2c79-041d-4ec1-9c90-6364a97c723b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d71b377-42fa-469f-b854-c043d1f89f0f",
+  "input": "{\"title\": \"Can't B Good\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Can't B Good'",
+  "status": "verified"
+}

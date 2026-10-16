@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:26.173711+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e48b09c2-6211-419b-8c51-84077b7eabc3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ccffd56-a2d4-4cf9-8d4a-9d8d141dc21a",
+  "input": "{\"title\": \"Down with Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Down with Me'",
+  "status": "verified"
+}

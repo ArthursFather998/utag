@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:04.636651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ff6585d-08ae-4efe-86a3-e5228a6802e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f1cd4a4-718c-48c5-9d24-a5e20abd3395",
+  "input": "{\"title\": \"Let Me\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of '3 CD Collector's Set'",
+  "status": "verified"
+}

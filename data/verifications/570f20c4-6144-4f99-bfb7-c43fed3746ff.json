@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:46.63096+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98eb604f-ff2c-4e95-92d6-db902c277f03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "570f20c4-6144-4f99-bfb7-c43fed3746ff",
+  "input": "{\"title\": \"Let's Get Married\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Greatest Hits'",
+  "status": "verified"
+}

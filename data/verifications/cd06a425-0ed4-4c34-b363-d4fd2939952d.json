@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:06.590402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "72a6a945-7a04-42aa-8535-fe492b1501c4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cd06a425-0ed4-4c34-b363-d4fd2939952d",
+  "input": "{\"title\": \"Saturn\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

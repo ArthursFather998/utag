@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:10.67094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f8d227b-c6b2-42df-94ee-d01c76f11450",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b94e605-e032-4bb0-8556-c2a5e9211f43",
+  "input": "{\"title\": \"When Will I See You Again\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Superhero'",
+  "status": "verified"
+}

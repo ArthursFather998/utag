@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:24.008056+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33663f75-c4ca-419c-8b11-311d788d8c1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96f9f5fb-3431-45e1-a491-2dc7069f94db",
+  "input": "{\"title\": \"Homeland\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Rosemary Hill'",
+  "status": "verified"
+}

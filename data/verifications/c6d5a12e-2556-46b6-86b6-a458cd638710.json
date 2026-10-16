@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:59.256306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "321f04b5-7ad1-406b-b0d2-afdef348d20b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6d5a12e-2556-46b6-86b6-a458cd638710",
+  "input": "{\"title\": \"Free to Decide\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'London 2012: Live at The Hammersmith Apollo'",
+  "status": "verified"
+}

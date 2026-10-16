@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:29.262891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c3b5d8b-02e8-4fac-ad7d-d54ecf1831cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "023b0961-8781-4a35-b3b6-df23ec27a5b9",
+  "input": "{\"title\": \"Goodbye My Love\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Brian McKnight'",
+  "status": "verified"
+}

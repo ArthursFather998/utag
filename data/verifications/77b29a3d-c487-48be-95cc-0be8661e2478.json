@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:00.848088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2315b4b8-6d51-4bdf-ae36-b5d6002e0e5d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77b29a3d-c487-48be-95cc-0be8661e2478",
+  "input": "{\"title\": \"Lean on My Body\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lean on My Body'",
+  "status": "verified"
+}

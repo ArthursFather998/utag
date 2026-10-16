@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:07.918212+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "762f5953-5b51-401b-aeb3-4f32567337ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5940b0fd-61c0-469a-bfcd-d1db7b09a4de",
+  "input": "{\"title\": \"When a Woman Doesn't Want You\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The One'",
+  "status": "verified"
+}

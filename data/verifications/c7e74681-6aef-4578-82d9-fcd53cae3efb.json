@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:25.975588+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40974f7e-9dab-471a-b05b-b42486d29bd1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c7e74681-6aef-4578-82d9-fcd53cae3efb",
+  "input": "{\"title\": \"Someone Saved My Life Tonight\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Captain Fantastic and the Brown Dirt Cowboy'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:00.222882+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97d5f353-379b-4463-a10d-fe6f1f7f07d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "375224a6-a17a-4bf7-bdac-b9a5ef039f3d",
+  "input": "{\"title\": \"When the Night Is Over\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Spotify Singles'",
+  "status": "verified"
+}

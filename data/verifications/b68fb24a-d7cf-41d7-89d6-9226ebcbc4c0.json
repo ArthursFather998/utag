@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:44.45705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98fb6217-b883-40d6-abf4-755d8e6ff51b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b68fb24a-d7cf-41d7-89d6-9226ebcbc4c0",
+  "input": "{\"title\": \"Something in Your Eyes\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

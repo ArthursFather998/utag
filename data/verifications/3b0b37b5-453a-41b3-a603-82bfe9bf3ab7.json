@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:33.526649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e85bc28-e624-4f15-9784-9a6b59e86196",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3b0b37b5-453a-41b3-a603-82bfe9bf3ab7",
+  "input": "{\"title\": \"First Episode at Hienton\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Elton John'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:51.076481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02b23e28-69ba-4593-bab3-74a2ae50f6ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3813b1dd-f75c-457d-b955-63607b942c55",
+  "input": "{\"title\": \"She Loves Me\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Music to Be Murdered By – Side B (Deluxe Edition)'",
+  "status": "verified"
+}

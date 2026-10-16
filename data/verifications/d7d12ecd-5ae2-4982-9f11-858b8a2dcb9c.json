@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:50.274208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92402ac5-d412-4517-b3a4-acb9878a5dd6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7d12ecd-5ae2-4982-9f11-858b8a2dcb9c",
+  "input": "{\"title\": \"Smokin'\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Diamonds'",
+  "status": "verified"
+}

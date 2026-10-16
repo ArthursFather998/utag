@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:59.924566+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a55e0ab-abc1-4a84-9a49-610c91263c84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9cd7e35-4d03-4f11-9474-ac8022862619",
+  "input": "{\"title\": \"Lucid Girl\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Got a Story to Tell'",
+  "status": "verified"
+}

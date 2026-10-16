@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:03.395205+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6cec3753-e06a-491d-854e-62251090bf43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db7b971a-a78b-43cd-9b03-ee19ce2e051c",
+  "input": "{\"title\": \"backroom shawty\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'backroom shawty'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:58.456149+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e904ac53-a62d-40de-8c63-394ba4cd79c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "074f1656-3021-4499-a03f-fcfa2768d2ff",
+  "input": "{\"title\": \"I Love Her Again\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'The Fall-Off'",
+  "status": "verified"
+}

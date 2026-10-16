@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:32.512299+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "63746125-3386-4e08-b033-ae678dbae02d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "803a31f4-4df8-4900-9393-33f1b795728a",
+  "input": "{\"title\": \"You've Come Back\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Girl Talk'",
+  "status": "verified"
+}

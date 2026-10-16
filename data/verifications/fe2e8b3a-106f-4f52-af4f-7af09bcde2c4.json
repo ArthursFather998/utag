@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:34.467267+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d088c70-6398-4018-8fcb-c8fe51f3a39e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fe2e8b3a-106f-4f52-af4f-7af09bcde2c4",
+  "input": "{\"title\": \"First Light\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

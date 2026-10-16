@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:10.060146+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "729c6349-0f1c-4799-92bf-015c3b29a23a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5b1f22db-cf89-4a05-828e-da2f21a86b95",
+  "input": "{\"title\": \"MELBA\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:26.119939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c442e22-3557-488b-8406-5786d0099ce6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1cef9455-faa6-4919-92b0-e9137d505dd5",
+  "input": "{\"title\": \"Believe\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

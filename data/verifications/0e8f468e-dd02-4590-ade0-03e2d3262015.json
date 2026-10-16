@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:45.551955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b68b1d2-2bd2-4110-887d-d0d4a0c0fe20",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e8f468e-dd02-4590-ade0-03e2d3262015",
+  "input": "{\"title\": \"World in Harmony (Version 2)\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

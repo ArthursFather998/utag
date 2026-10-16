@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:36:12.769614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79a8c96a-3185-466a-9bbd-6d99c9f2356a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6a59ff5-badf-4639-8eb2-06c7f05bd39c",
+  "input": "{\"title\": \"Live and Learn\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Girl Talk with Bonus Tracks'",
+  "status": "verified"
+}

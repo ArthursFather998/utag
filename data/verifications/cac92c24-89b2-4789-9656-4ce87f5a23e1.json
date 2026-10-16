@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:20.444702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5aacad5b-003c-4501-b56d-e6ff7004da7b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cac92c24-89b2-4789-9656-4ce87f5a23e1",
+  "input": "{\"title\": \"Street by Street\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Street by Street'",
+  "status": "verified"
+}

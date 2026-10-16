@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:01.345288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c665405-6d60-4b1d-8eb5-5b3dedac8c31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d10ce49-30fd-410c-91c0-d8632b8ca7f0",
+  "input": "{\"title\": \"Falling Down\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Falling Down'",
+  "status": "verified"
+}

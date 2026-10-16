@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:23.427953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "425647fc-aa4f-447e-a385-7cf346c63887",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e6cf4cf4-034e-4ae1-9c5f-830ac3dd1fbc",
+  "input": "{\"title\": \"Ode to My Family\", \"release_type\": \"single\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

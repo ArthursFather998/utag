@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:13.010388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92be164b-ca4d-4f18-a6c6-f77288b70e97",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28eccf49-ca42-41e3-8127-99f8b583ff5f",
+  "input": "{\"title\": \"Pon de Replay\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Music of the Sun / A Girl Like Me / Good Girl Gone Bad'",
+  "status": "verified"
+}

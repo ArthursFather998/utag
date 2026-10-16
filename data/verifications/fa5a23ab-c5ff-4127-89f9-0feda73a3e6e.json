@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:46.255758+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbbbd595-54b3-4de2-ba1c-dbd7d012e949",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa5a23ab-c5ff-4127-89f9-0feda73a3e6e",
+  "input": "{\"title\": \"Faithfully\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Frontiers'",
+  "status": "verified"
+}

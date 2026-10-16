@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:06.27265+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1de9958b-f363-4bf9-99ef-d34ea11e4ec9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41e2bf1b-4f0c-4a79-8ffd-d49419a233c5",
+  "input": "{\"title\": \"Disc 2 - Magic Colors\", \"track_number\": 44}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 44 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:05.400821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce8457f3-1073-48a1-9929-1abf25bc58c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dda584ec-cb1b-415f-88f9-1e416a3c70ee",
+  "input": "{\"title\": \"Butterflyz (Roger's Release Mix)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Remixed & Unplugged in A Minor'",
+  "status": "verified"
+}

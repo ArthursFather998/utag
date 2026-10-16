@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:54.604947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9febce15-9294-48fb-8d22-c32762e9edd3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb8961fc-f546-4b32-a2dd-d3402aee75de",
+  "input": "{\"title\": \"I Can't Catch You\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Sixpence None the Richer (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

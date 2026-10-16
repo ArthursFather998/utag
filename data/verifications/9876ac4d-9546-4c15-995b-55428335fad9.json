@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:24.08177+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "abfdda7f-1973-4c4a-9398-99751c0d5c6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9876ac4d-9546-4c15-995b-55428335fad9",
+  "input": "{\"title\": \"Willie and the Hand Jive\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

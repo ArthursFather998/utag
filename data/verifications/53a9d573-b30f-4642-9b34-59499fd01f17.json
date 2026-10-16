@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:46.434493+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16b796fb-1b67-477b-bfc5-d3f1263d7c6d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "53a9d573-b30f-4642-9b34-59499fd01f17",
+  "input": "{\"title\": \"Shirt\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:54.794167+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e2d1f03-3340-4cdb-822f-73dcec77ba1d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0b2c077f-140f-42b1-b7f6-65cccfce580c",
+  "input": "{\"title\": \"No Idea\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

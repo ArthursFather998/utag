@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:37.269724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d7ff732f-881d-4d5c-b0f6-af85eb46c48b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f6455c6-6342-43a3-b46b-e775519cf2ce",
+  "input": "{\"title\": \"Just Don't Give a Fuck\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Just Don't Give a Fuck'",
+  "status": "verified"
+}

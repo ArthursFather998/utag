@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:22.615276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6ec8727-412e-476a-aba9-92678e8bc947",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3db4503c-c6aa-462e-aac1-9b886ee7d209",
+  "input": "{\"title\": \"End of Night\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Tipping Point'",
+  "status": "verified"
+}

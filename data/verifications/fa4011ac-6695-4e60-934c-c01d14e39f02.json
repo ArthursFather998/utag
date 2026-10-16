@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:33.830852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2be20d99-ba1e-49a5-9a6a-b5a0a562227c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa4011ac-6695-4e60-934c-c01d14e39f02",
+  "input": "{\"title\": \"LA Don't Look Good On U\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'IT'S NOT THAT SERIOUS'",
+  "status": "verified"
+}

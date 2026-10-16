@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:47.620364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31061c24-ac17-4037-a383-82833ae175d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95f3d080-049d-49aa-bf4d-2c9f011556f6",
+  "input": "{\"title\": \"Shirt\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Shirt'",
+  "status": "verified"
+}

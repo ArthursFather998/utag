@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:07.860539+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9b3affa-7b1f-48dc-9d5a-37065140dbe3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "14164234-d2c2-45c6-acd9-1719313602e5",
+  "input": "{\"title\": \"Skate\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

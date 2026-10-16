@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:03.524574+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1221b6bf-78dd-44f6-9d1d-5575a2685945",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26703c3a-b7b7-4a8e-b807-dcf26ad274d8",
+  "input": "{\"title\": \"Without You\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Take It to the Limit'",
+  "status": "verified"
+}

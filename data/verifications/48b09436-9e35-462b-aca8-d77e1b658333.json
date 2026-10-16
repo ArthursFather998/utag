@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:00.948183+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cceedfed-3345-4d12-8105-da47e3f4448c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48b09436-9e35-462b-aca8-d77e1b658333",
+  "input": "{\"title\": \"Dionysian State\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dionysian State'",
+  "status": "verified"
+}

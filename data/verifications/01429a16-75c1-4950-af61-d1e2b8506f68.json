@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:54.803261+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35c047ba-35b7-465f-b951-8c2f04f9ff73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01429a16-75c1-4950-af61-d1e2b8506f68",
+  "input": "{\"title\": \"Miss You Much\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Janet Jackson's Rhythm Nation 1814'",
+  "status": "verified"
+}

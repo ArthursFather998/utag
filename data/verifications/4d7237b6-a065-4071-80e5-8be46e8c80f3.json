@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:34.875518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ce5e64e-5c36-487a-b764-4612202b31a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d7237b6-a065-4071-80e5-8be46e8c80f3",
+  "input": "{\"title\": \"Pose\", \"track_number\": 101}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 101 of 'Vinyl Box Set'",
+  "status": "verified"
+}

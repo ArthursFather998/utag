@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:46.80628+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64b0dd8c-f6f0-4e43-b0c6-0d30a13a23fa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "175b8dc8-aad6-4111-a762-a1c86635deb3",
+  "input": "{\"title\": \"Se Acab\\u00f3 El Amor\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Se Acabó El Amor'",
+  "status": "verified"
+}

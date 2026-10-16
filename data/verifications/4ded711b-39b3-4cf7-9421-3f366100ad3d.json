@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:10.292778+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3e655d1-e9d5-4aee-8098-a91510cf26a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ded711b-39b3-4cf7-9421-3f366100ad3d",
+  "input": "{\"title\": \"My Demons\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'My Demons'",
+  "status": "verified"
+}

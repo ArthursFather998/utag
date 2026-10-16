@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:11.091607+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "787a87e0-d298-470b-b31c-619b7bbab65f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d5be3946-6b48-4743-852a-5155899caa01",
+  "input": "{\"title\": \"Desert Moon (From \\\"Aladdin\\\")\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

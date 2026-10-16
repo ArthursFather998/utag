@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:39.912345+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a67b4ad7-6366-4b68-87e9-63b0c19bace5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa6390bb-cb8f-446c-8a88-23bd152dbb1f",
+  "input": "{\"title\": \"Grace\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'You and I'",
+  "status": "verified"
+}

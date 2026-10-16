@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:53.268859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6427ba02-1e88-4182-8830-d198adf615b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dea65a2b-b8bd-4de5-8b7d-aa5bdc32b275",
+  "input": "{\"title\": \"Little Miss Sad One\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'In a Mellow Mood'",
+  "status": "verified"
+}

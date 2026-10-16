@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:35.681915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "964a86d6-b725-40f2-bec8-4f56679e1acc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b9a64db-2e04-47cc-8b23-6b43c81e6fa7",
+  "input": "{\"title\": \"No Love Allowed\", \"track_number\": 85}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 85 of 'Vinyl Box Set'",
+  "status": "verified"
+}

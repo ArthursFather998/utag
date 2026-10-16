@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:50.7187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c073ba0-f290-422e-83e4-78249a0fe7a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b02c5b6c-9f98-41dd-8f78-b8d3901663db",
+  "input": "{\"title\": \"Wake Me When It's Over\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wake Me When It's Over'",
+  "status": "verified"
+}

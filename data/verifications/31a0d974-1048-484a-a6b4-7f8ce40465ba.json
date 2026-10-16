@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:27.556131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6d0d00d-1f96-4069-bc9a-511b327f5b7f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31a0d974-1048-484a-a6b4-7f8ce40465ba",
+  "input": "{\"title\": \"Send Her My Love\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Journey Continues'",
+  "status": "verified"
+}

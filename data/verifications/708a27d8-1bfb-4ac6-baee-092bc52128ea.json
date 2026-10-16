@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:41.811592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "958630e7-9494-4f07-ba62-b1649162722e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "708a27d8-1bfb-4ac6-baee-092bc52128ea",
+  "input": "{\"title\": \"String-A-Long\", \"track_number\": 65}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 65 of '25 Years – The Chain'",
+  "status": "verified"
+}

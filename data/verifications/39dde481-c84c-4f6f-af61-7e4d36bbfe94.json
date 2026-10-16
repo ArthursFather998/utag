@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:09.064945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae89b674-efc5-4a5d-a820-13b71b368120",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39dde481-c84c-4f6f-af61-7e4d36bbfe94",
+  "input": "{\"title\": \"Bicycle Race\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bicycle Race'",
+  "status": "verified"
+}

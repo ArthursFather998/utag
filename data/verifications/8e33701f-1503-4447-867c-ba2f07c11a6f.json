@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:25.784314+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f399af15-e7f0-4acc-ba1b-80185e66241d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8e33701f-1503-4447-867c-ba2f07c11a6f",
+  "input": "{\"title\": \"Carnival\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

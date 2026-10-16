@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:02.239209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "615ea37a-1b7c-4782-bd86-06ae98fd397e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04af5c98-d340-4a6a-9e4c-dbb697d7398a",
+  "input": "{\"title\": \"Don't Stop Me Now\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Platinum Collection: Greatest Hits I, II & III'",
+  "status": "verified"
+}

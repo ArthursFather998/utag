@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:57.771706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "936cc424-2a3c-4445-ad12-0241052b287f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8978260e-3d6a-4d01-95e8-0fdd19c9ec58",
+  "input": "{\"title\": \"Crazy Little Thing Called Love\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Hungarian Rhapsody: Queen Live in Budapest'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:06.210243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6643a32d-8e74-48b2-a9a3-2446bf3599ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7532a7e6-3f19-488a-b8b6-439f30429d54",
+  "input": "{\"title\": \"Living Proof\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Weatherman'",
+  "status": "verified"
+}

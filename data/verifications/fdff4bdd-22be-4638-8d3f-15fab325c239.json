@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:13.397544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f01f62f-98c5-47af-b5a4-3d351618bf9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdff4bdd-22be-4638-8d3f-15fab325c239",
+  "input": "{\"title\": \"Lighters\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Curtain Call 2'",
+  "status": "verified"
+}

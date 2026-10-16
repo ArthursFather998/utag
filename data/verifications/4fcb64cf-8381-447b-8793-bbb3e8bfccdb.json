@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:25.534443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3971b08f-7438-4002-a2e8-f642a53ac709",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4fcb64cf-8381-447b-8793-bbb3e8bfccdb",
+  "input": "{\"title\": \"Seven Seas of Rhye\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live at Wembley '86'",
+  "status": "verified"
+}

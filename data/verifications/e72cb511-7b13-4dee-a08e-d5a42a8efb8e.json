@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:10.451271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f0ba041-5a43-46bd-b70a-db082c669d70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e72cb511-7b13-4dee-a08e-d5a42a8efb8e",
+  "input": "{\"title\": \"The Only One for Me\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Gold'",
+  "status": "verified"
+}

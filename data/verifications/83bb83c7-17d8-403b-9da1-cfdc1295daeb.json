@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:30.382004+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1a87d57-d06a-4072-8a1f-0f962188d355",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83bb83c7-17d8-403b-9da1-cfdc1295daeb",
+  "input": "{\"title\": \"Pain\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Made in England'",
+  "status": "verified"
+}

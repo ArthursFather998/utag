@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:22.138597+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc333ba6-94fe-4e64-9da5-54a2476d132e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02ad0670-d655-43fa-bca4-e303cc1202b6",
+  "input": "{\"title\": \"Disc 1 - The Party's Over\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

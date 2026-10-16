@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:06.361085+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4df6b33b-f487-4956-a63f-8fd5793f497f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "22e4d560-1163-4038-a39f-82c7bb117c88",
+  "input": "{\"title\": \"Destiny's Child\", \"release_type\": \"album\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

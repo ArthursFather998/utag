@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:29.080305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae6a1d83-6848-4f17-8d6a-1dcbfd40166b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a319cae-3d2e-44ce-beed-5291882852b6",
+  "input": "{\"title\": \"Disrespectful\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Scarlet 2 Claude'",
+  "status": "verified"
+}

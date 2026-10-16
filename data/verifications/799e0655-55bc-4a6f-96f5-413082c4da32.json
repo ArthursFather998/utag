@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:16.444773+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b6aad01-cd26-4cca-913f-d57a878565f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "799e0655-55bc-4a6f-96f5-413082c4da32",
+  "input": "{\"title\": \"Donny Darko\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'HARDSTONE PSYCHO (Deluxe)'",
+  "status": "verified"
+}

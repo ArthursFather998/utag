@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:33.685464+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc7ee303-4200-4580-b15f-1b08b4d3c505",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f38d9857-bcfb-4a51-87f2-8efd7585a4bb",
+  "input": "{\"title\": \"shame on u\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Lil Peep; Part One'",
+  "status": "verified"
+}

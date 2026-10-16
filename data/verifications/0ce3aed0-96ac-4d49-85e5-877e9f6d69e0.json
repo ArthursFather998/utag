@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:38.426414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b91181c-2454-43d9-8df0-f9382ffd3560",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ce3aed0-96ac-4d49-85e5-877e9f6d69e0",
+  "input": "{\"title\": \"Finally\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Three Stripes'",
+  "status": "verified"
+}

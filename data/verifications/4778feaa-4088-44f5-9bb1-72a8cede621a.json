@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:05.425897+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81ad6cec-f682-498f-8aca-8a7cb1a7e72a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4778feaa-4088-44f5-9bb1-72a8cede621a",
+  "input": "{\"title\": \"Landslide\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Rumours Live'",
+  "status": "verified"
+}

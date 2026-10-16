@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:53.177868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d3a068fb-b110-4d3f-a537-8da578e3b0f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cdd2ede7-e604-402f-abd6-f4cb3aa8c826",
+  "input": "{\"title\": \"One of Them Ones\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Coming Home (Expanded Edition)'",
+  "status": "verified"
+}

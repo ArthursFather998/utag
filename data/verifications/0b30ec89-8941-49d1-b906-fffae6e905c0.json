@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:04.97075+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "126dc57d-8492-4c63-b765-b00095ef62e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b30ec89-8941-49d1-b906-fffae6e905c0",
+  "input": "{\"title\": \"You Don't Know My Name\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Inolvidable Buenos Aires Argentina (Live from Movistar Arena Buenos Aires Argentina)'",
+  "status": "verified"
+}

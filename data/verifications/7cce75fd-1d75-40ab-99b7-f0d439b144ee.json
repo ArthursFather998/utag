@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:16.792048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28ace62d-a0c6-4ce1-871d-54b157fae79a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7cce75fd-1d75-40ab-99b7-f0d439b144ee",
+  "input": "{\"title\": \"False Alarm\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

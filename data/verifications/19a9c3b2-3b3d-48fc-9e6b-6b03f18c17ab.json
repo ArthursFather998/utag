@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:24.953521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "18ffae8f-b641-44b0-a96f-8df99dd593f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19a9c3b2-3b3d-48fc-9e6b-6b03f18c17ab",
+  "input": "{\"title\": \"The Body That Loves You\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

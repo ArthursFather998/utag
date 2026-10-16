@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:41.514378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "03ce2db1-23f3-4947-818a-cad926cd8261",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebdb704e-866a-469a-8bb5-c0f862dc2365",
+  "input": "{\"title\": \"One Too Many\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Human (Deluxe Edition)'",
+  "status": "verified"
+}

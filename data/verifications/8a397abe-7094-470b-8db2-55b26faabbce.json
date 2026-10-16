@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:13.046317+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "created release 'No Strings Attached'",
+      "release->No Strings Attached"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "43f51122-51a7-4353-845a-4a6d8417bbf7",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "8a397abe-7094-470b-8db2-55b26faabbce",
+  "input": {
+    "artist": "*NSYNC",
+    "release": "Live From Madison Square Garden",
+    "title": "Bye Bye Bye"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "\"Bye Bye Bye\" is the lead single of No Strings Attached (2000); the MSG concert is a real video release but 2000-era, not a 2014 album, and the canonical release is No Strings Attached. | sources: https://en.wikipedia.org/wiki/Bye_Bye_Bye, https://en.wikipedia.org/wiki/No_Strings_Attached_(NSYNC_album)",
+  "status": "verified"
+}

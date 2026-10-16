@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:02.540069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fc9a74a-2f3e-4e68-b9eb-aa85c6084f12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c142d70-41e8-4ef8-9018-25c12e1dc43d",
+  "input": "{\"title\": \"Rather Be Dead\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Out of the Shadows 2.0'",
+  "status": "verified"
+}

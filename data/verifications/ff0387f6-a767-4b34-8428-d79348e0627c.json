@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:41:31.719938+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e49b111-d54a-4d40-962f-1657c9f0435b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff0387f6-a767-4b34-8428-d79348e0627c",
+  "input": "{\"title\": \"Disappointment\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'No Need to Argue'",
+  "status": "verified"
+}

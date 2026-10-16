@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:47.802681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12f6436f-9b74-4798-8798-e33e4ad5668b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "abf4e661-48b1-4fe4-b11f-5823cd1009d3",
+  "input": "{\"title\": \"U-Turn\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'My Way / 8701'",
+  "status": "verified"
+}

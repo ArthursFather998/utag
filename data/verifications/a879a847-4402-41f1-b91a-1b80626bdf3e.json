@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:10.414007+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0582522a-4ffc-4d0d-bba2-fd29f9b685a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a879a847-4402-41f1-b91a-1b80626bdf3e",
+  "input": "{\"title\": \"Black Cat\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Janet Jackson's Rhythm Nation 1814'",
+  "status": "verified"
+}

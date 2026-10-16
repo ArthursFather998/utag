@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:11.523383+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba83ef33-3876-4863-a7a0-f45387680d93",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d378496-5b75-4c86-9523-986acf0b9fb1",
+  "input": "{\"title\": \"Sunday Circus Song\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Life (Remastered)'",
+  "status": "verified"
+}

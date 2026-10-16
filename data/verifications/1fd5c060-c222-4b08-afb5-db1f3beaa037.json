@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:33.599619+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3867bc2e-2e07-42ba-860a-aa4addeebf54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1fd5c060-c222-4b08-afb5-db1f3beaa037",
+  "input": "{\"title\": \"Around Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Lost'",
+  "status": "verified"
+}

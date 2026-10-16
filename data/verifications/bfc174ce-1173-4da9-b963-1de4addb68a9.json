@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:24.087972+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59ed42c7-dc51-4c37-a8ae-d4a68f5ada17",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bfc174ce-1173-4da9-b963-1de4addb68a9",
+  "input": "{\"title\": \"Weakest Feeling\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'BEFORE I FORGET'",
+  "status": "verified"
+}

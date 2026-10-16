@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:09.901788+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c89350d-17f0-4490-bc4d-323b83b1fb43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b44915dd-e9fa-4e21-a477-f0c2086f9286",
+  "input": "{\"title\": \"King of the Letdown\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Reign'",
+  "status": "verified"
+}

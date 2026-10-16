@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:42.891524+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "238a0a33-b0da-43d7-9c91-1e446d527b27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5377ec0f-4563-433d-9759-816d38050516",
+  "input": "{\"title\": \"Never Say Never\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Never Say Never'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:32.79595+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85503f2c-924f-4af3-903c-7802daf4c014",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b904b0aa-b2c2-4a11-87e5-7d79e4b69acd",
+  "input": "{\"title\": \"Losing You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Losing You'",
+  "status": "verified"
+}

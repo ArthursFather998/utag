@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:39.413045+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "811ba4e7-cd14-44b1-b2a4-812527d52909",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "1449eaca-d815-40f0-820e-a4afeaedf5ad",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+    "title": "It's Only A Paper Moon (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Real beabadoobee cover of the standard for the Jack Antonoff-curated The New Look Apple TV+ soundtrack (track 6, released 2024); title parenthetical matches streaming-service styling. | sources: https://hit-channel.com/florence-the-machine-releases-white-cliffs-of-dover/, https://ourculturemag.com/2024/01/24/jack-antonoff-details-the-new-look-soundtrack-featuring-lana-del-rey-nick-cave-perfume-genius-and-more/",
+  "status": "verified"
+}

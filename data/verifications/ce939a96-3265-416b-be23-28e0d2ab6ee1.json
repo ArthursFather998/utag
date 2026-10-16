@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:20.819428+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15bc603d-5b9f-44e2-b4a0-14481562b940",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ce939a96-3265-416b-be23-28e0d2ab6ee1",
+  "input": "{\"title\": \"Prey\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

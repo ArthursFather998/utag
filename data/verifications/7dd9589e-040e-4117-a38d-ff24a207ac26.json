@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:10.884485+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3e51c65-d9ec-4488-8afb-ac8d1f452f0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dd9589e-040e-4117-a38d-ff24a207ac26",
+  "input": "{\"title\": \"Red Flag\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of '(((((ultraSOUND)))))+'",
+  "status": "verified"
+}

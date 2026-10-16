@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:01.256776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "886e80d4-3312-41b4-98e0-62613adeb604",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "10a09e5d-3c13-4034-9043-5c8ff5c293d1",
+  "input": "{\"title\": \"I'm Getting Well\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

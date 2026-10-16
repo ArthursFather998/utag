@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:25.699264+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0759ca7-59f9-4f57-8f84-c3aebfb3ab6f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "646cf1d2-80db-4755-a3fc-a5eb08fef235",
+  "input": "{\"title\": \"Crocodile Rock / Get Back / Back in the U.S.S.R.\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

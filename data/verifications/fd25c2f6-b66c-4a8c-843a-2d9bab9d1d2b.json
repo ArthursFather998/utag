@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:50.210581+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d591089-1949-49b4-a57e-1d494031c123",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fd25c2f6-b66c-4a8c-843a-2d9bab9d1d2b",
+  "input": "{\"title\": \"My Sacrifice\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

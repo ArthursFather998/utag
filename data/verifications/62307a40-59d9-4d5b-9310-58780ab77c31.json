@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:33.612055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c671114e-ace2-4ab5-8b60-8e6001bac014",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "62307a40-59d9-4d5b-9310-58780ab77c31",
+  "input": "{\"title\": \"Albatross\", \"release_type\": \"album\", \"release_year\": 1977}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

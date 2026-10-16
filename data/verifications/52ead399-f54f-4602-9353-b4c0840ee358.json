@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:06.846707+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4bb7584-544b-4964-b965-2b4fc4b8c499",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "52ead399-f54f-4602-9353-b4c0840ee358",
+  "input": "{\"title\": \"Linger\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

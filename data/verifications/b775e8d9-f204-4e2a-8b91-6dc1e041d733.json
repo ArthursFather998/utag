@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:20.87655+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=fix_release conf=medium -> no write",
+    "verdict": "fix_release"
+  },
+  "entity_id": "6e9041f4-7ea9-44d7-85b0-1a4f43da2903",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "medium"
+  },
+  "id": "b775e8d9-f204-4e2a-8b91-6dc1e041d733",
+  "input": {
+    "artist": "Nafeesisboujee",
+    "release": "Indie Winter's Day",
+    "title": "Stephanie"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "Artist Nafeesisboujee (Nafees Hossain) and song 'Stephanie' are real — went viral 2023, featured on 2025 EP 'Yours Truly, Nafees' (Shazam). No evidence supports the 'Indie Winter's Day' compilation; prefer the official EP.",
+  "status": "needs_review"
+}

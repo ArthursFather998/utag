@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:34.128539+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "922c64a5-06d3-4d4f-ad4a-9524ce2c4cd1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4132d005-14c0-4061-87b5-062f465ada75",
+  "input": "{\"title\": \"Wishing Well\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Return of the Champions'",
+  "status": "verified"
+}

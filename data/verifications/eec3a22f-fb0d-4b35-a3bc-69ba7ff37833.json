@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:11.129714+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a277c6c9-9d14-4938-9264-9a882191cdc4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eec3a22f-fb0d-4b35-a3bc-69ba7ff37833",
+  "input": "{\"title\": \"Pieces (feat. Queen Naija)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Just a Matter of Slime'",
+  "status": "verified"
+}

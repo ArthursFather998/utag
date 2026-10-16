@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:34.410878+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56a4f50d-2afd-46fa-9474-271ceca6b780",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e4262a8-844a-435c-b2e0-92b5a214d451",
+  "input": "{\"title\": \"Lazy Poker Blues\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Collection'",
+  "status": "verified"
+}

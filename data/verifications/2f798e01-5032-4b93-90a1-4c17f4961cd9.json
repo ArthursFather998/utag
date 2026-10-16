@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:49.667518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfccbd06-f02f-4570-b489-2a0a21831935",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f798e01-5032-4b93-90a1-4c17f4961cd9",
+  "input": "{\"title\": \"JE Intro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'J.E. Heartbreak II'",
+  "status": "verified"
+}

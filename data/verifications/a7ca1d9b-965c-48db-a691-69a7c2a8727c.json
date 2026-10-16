@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:02.684989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a749bbd-3d43-4d4f-851a-94648e22a516",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7ca1d9b-965c-48db-a691-69a7c2a8727c",
+  "input": "{\"title\": \"Churchill\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Colorado's On Fire Again'",
+  "status": "verified"
+}

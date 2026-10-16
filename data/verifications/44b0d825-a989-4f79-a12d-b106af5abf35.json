@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:05.54605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df9a5f0b-a209-4ade-a9ff-6304fa1cae48",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "44b0d825-a989-4f79-a12d-b106af5abf35",
+  "input": "{\"title\": \"Cheers (Drink to That)\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

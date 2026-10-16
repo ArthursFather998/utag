@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:24.490327+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fa91211-a8a6-49d2-9a08-77ac3cc9b99a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2459899-5276-465d-81c0-47e22421c812",
+  "input": "{\"title\": \"el freno\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'tragaperras'",
+  "status": "verified"
+}

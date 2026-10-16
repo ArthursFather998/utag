@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:54.927652+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7226ed00-8a8e-4f72-b71f-b54faccd7ddc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "84c504b2-e5ec-430d-8d98-b015dfa93b53",
+  "input": "{\"title\": \"More Than Words (Deluxe Edition)\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

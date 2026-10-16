@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:16.18095+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e6ca93b-08d1-4619-b1b9-ce527a0a86c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31907d0d-7a6e-4265-9394-0f873effc79b",
+  "input": "{\"title\": \"Nice for What\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Scorpion'",
+  "status": "verified"
+}

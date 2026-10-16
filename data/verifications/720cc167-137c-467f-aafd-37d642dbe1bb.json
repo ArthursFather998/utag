@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:42.618984+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f00b059e-daac-4fb2-afa1-dc858dd77f4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "720cc167-137c-467f-aafd-37d642dbe1bb",
+  "input": "{\"title\": \"Rue\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'if i could make it go quiet'",
+  "status": "verified"
+}

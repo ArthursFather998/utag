@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:07.506594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4de3fc18-53ca-4883-a0a5-d3503ada2987",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3235620a-32c9-43b8-8c5f-1fa39d4935d6",
+  "input": "{\"title\": \"But It's Better If You Do (Demo)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'A Fever You Can't Sweat Out (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

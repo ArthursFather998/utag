@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:26.965529+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43944082-35bc-4748-bb59-86111a8b07f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "869b79a2-9fbb-405d-8bbc-ced7987f8f66",
+  "input": "{\"title\": \"By My Side\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Eminem Presents: The Re-Up'",
+  "status": "verified"
+}

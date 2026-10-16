@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:19.523255+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d2134f5-cebc-47d7-805b-c0cb51ac7ef4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "daa8c77d-7961-49e3-ade6-67d32aee4e83",
+  "input": "{\"title\": \"The Mountain\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

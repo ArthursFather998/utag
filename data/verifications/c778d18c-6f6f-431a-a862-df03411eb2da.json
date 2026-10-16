@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:36.98784+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c77d5883-fd55-4cf7-aa83-ecbf4a12a519",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c778d18c-6f6f-431a-a862-df03411eb2da",
+  "input": "{\"title\": \"Massacre\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Escape the Fate'",
+  "status": "verified"
+}

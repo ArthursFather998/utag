@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:05.023018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "700b265a-ae7d-4222-8872-e1db779f81f3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4ec49a0e-8e68-465b-9e6a-d0a3f2c69f0b",
+  "input": "{\"title\": \"BOTHER ME\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

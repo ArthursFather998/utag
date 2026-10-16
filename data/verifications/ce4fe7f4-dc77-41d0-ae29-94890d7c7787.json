@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:57.503801+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c32a4490-e202-44a7-8e1a-0555fda59e47",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce4fe7f4-dc77-41d0-ae29-94890d7c7787",
+  "input": "{\"title\": \"Scott and Ramona\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Lil Uzi Vert vs. the World'",
+  "status": "verified"
+}

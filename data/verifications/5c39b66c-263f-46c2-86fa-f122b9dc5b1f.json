@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:14.44153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "373f4f63-1bbf-4af2-bd84-13fd2e60ad68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c39b66c-263f-46c2-86fa-f122b9dc5b1f",
+  "input": "{\"title\": \"Peanuts ...All I Want (Interlude)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Mariah Carey's Magical Christmas Special'",
+  "status": "verified"
+}

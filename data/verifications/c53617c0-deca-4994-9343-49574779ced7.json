@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:09.053825+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79079b5c-0d5a-4ab6-98d1-0ca415d9aaaf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c53617c0-deca-4994-9343-49574779ced7",
+  "input": "{\"title\": \"Same Old Song (feat. Juicy J)\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'Trilogy'",
+  "status": "verified"
+}

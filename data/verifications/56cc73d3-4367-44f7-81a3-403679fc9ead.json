@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:10.991991+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2de432fb-896e-49ed-ab23-33a12501f371",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56cc73d3-4367-44f7-81a3-403679fc9ead",
+  "input": "{\"title\": \"Sugar! Honey! Love!\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Sincerely (Special Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:38.542711+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5bb6f459-59e1-4531-b459-acd3a238e34a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7d2027e-8d5a-47d3-9d62-f1350eb6a37e",
+  "input": "{\"title\": \"Fat Bottomed Girls\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Greatest Hits'",
+  "status": "verified"
+}

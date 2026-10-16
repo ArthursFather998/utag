@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:01.084556+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35d0506a-4685-4ffe-9042-e75f6f5ddc19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5433e2af-9125-4b4d-9477-4461dfeb248e",
+  "input": "{\"title\": \"Mona Lisas and Mad Hatters\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Never Too Late'",
+  "status": "verified"
+}

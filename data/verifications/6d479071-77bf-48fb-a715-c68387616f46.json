@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:16.967731+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b461877c-e13b-45d4-a6dd-2f3be02e2f3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d479071-77bf-48fb-a715-c68387616f46",
+  "input": "{\"title\": \"Cherry Blossom\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Blue Banisters'",
+  "status": "verified"
+}

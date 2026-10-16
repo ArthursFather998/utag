@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:04.621024+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "be46c8db-36a9-4cf0-a3f2-29fb75ab1e9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4938388-95f5-4ea7-84a4-dfd2e2583709",
+  "input": "{\"title\": \"Loner\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Loner'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:36.215624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60d7299f-c3e9-4f80-afff-51cf9e965e8b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fbdccdbc-5f47-4afd-aa7c-b9b2a5dc23ee",
+  "input": "{\"title\": \"The Farmer's Daughter\", \"release_type\": \"single\", \"release_year\": 1981}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

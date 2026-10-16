@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:41.140541+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "202ee542-502a-4d3b-a394-e9ef7c8e4ff6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3aab541-a214-46bb-b974-52b161ab61a3",
+  "input": "{\"title\": \"Sierra Vista\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sierra Vista'",
+  "status": "verified"
+}

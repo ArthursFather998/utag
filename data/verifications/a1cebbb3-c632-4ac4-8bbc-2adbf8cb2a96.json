@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:51.692159+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "457d1ae2-1354-44f3-866f-ef33540c29be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1cebbb3-c632-4ac4-8bbc-2adbf8cb2a96",
+  "input": "{\"title\": \"Desperate Andy\", \"track_number\": 62}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 62 of 'Treasure Box – The Complete Sessions 1991–1999'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:13.863043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a265be2-c975-4147-abc1-3c50acae01c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f7cc4fe-fd99-4934-9a67-9754b57b677b",
+  "input": "{\"title\": \"Streets of Philadelphia\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Scars & Stories (Deluxe Edition)'",
+  "status": "verified"
+}

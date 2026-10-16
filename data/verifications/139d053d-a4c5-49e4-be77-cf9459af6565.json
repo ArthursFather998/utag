@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:08.33758+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe54a732-7945-4acf-9e57-40c084ba8bf6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "139d053d-a4c5-49e4-be77-cf9459af6565",
+  "input": "{\"title\": \"My Life Has Been Saved\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Made in Heaven'",
+  "status": "verified"
+}

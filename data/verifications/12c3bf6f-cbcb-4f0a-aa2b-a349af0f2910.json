@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:17.900486+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a564b40-d161-4f4b-9a2f-b7529f0d192c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12c3bf6f-cbcb-4f0a-aa2b-a349af0f2910",
+  "input": "{\"title\": \"Company\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'The Best'",
+  "status": "verified"
+}

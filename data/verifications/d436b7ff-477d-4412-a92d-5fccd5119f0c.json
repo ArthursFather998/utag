@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:45.868277+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e74e5e40-a958-4ea9-8a8b-0b4acee635b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d436b7ff-477d-4412-a92d-5fccd5119f0c",
+  "input": "{\"title\": \"Rush (featuring Kardinal Offishall)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Music of the Sun / A Girl Like Me / Good Girl Gone Bad'",
+  "status": "verified"
+}

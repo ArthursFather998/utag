@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:25.076524+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5d146c9-f059-45b0-a97d-c93b6cf490c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a192beba-a973-436b-b330-a3de003c26ce",
+  "input": "{\"title\": \"Think Fast\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Sunburn'",
+  "status": "verified"
+}

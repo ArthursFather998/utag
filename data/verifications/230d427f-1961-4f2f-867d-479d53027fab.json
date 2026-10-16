@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:30.90288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "187f1574-0c52-4c4a-accf-d5de174bfaf1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "230d427f-1961-4f2f-867d-479d53027fab",
+  "input": "{\"title\": \"Long Haul\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'A Jagged Love Story'",
+  "status": "verified"
+}

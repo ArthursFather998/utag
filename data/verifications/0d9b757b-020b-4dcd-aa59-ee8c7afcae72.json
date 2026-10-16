@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:14.997474+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "464474d5-ff49-460e-99be-e9af19924818",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d9b757b-020b-4dcd-aa59-ee8c7afcae72",
+  "input": "{\"title\": \"Jimmy Crack Corn\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Eminem Presents: The Re-Up'",
+  "status": "verified"
+}

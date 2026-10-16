@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:22.290311+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9805dc85-ce6f-4b9f-bfe8-268564e2dbb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0ce27a6-95c3-400c-8e07-6b48cdcf13d5",
+  "input": "{\"title\": \"Child and Man\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Rosemary Hill'",
+  "status": "verified"
+}

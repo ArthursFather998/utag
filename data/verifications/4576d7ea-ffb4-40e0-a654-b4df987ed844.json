@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:46.207358+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13c678b3-bc71-4664-a7e3-3eed9f0b132b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4576d7ea-ffb4-40e0-a654-b4df987ed844",
+  "input": "{\"title\": \"Lovely\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A.M. Paradox'",
+  "status": "verified"
+}

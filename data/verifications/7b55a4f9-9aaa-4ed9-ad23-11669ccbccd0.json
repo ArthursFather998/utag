@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:28.454362+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "060c2667-b7bb-4538-ab9d-ab4f5a756158",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b55a4f9-9aaa-4ed9-ad23-11669ccbccd0",
+  "input": "{\"title\": \"Yo Te Dare\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Classic Series, Vol. 3'",
+  "status": "verified"
+}

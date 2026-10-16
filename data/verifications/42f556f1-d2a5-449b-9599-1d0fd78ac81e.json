@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:31.896422+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44789ab1-2f99-4511-8c3e-01db584728c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42f556f1-d2a5-449b-9599-1d0fd78ac81e",
+  "input": "{\"title\": \"Midnight Memories\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Midnight Memories'",
+  "status": "verified"
+}

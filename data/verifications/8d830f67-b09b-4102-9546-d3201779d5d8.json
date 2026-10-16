@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:22.342567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f32c7cc6-7912-4f64-b956-da946470ecb0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8d830f67-b09b-4102-9546-d3201779d5d8",
+  "input": "{\"title\": \"Trilogy\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

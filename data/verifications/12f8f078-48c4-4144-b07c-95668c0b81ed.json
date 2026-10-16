@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:12.495475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e58e139-54a6-485f-b818-47fbc9a4c630",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12f8f078-48c4-4144-b07c-95668c0b81ed",
+  "input": "{\"title\": \"After All... Demo '93\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Rest of the Best - Vol. 1'",
+  "status": "verified"
+}

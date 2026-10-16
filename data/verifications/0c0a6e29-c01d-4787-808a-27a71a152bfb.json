@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:18.855786+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df24af08-4566-46af-8a78-de6008e707f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c0a6e29-c01d-4787-808a-27a71a152bfb",
+  "input": "{\"title\": \"Stupid Things (Sea Fog Acoustic Session)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Cause and Effect (Deluxe Edition)'",
+  "status": "verified"
+}

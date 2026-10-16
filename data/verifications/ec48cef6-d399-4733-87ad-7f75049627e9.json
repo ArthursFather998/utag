@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:30.767884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14196ff7-2b6c-4c07-b6bf-8c2721c33a06",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ec48cef6-d399-4733-87ad-7f75049627e9",
+  "input": "{\"title\": \"SOLO I\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:39.110448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd5d4873-98eb-4a3e-b961-5560abff4ae8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8d89611-a67f-4eb9-8169-b53a570f3a74",
+  "input": "{\"title\": \"Seven Seas of Rhye\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Queen'",
+  "status": "verified"
+}

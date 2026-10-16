@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:38.242185+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65467f83-e672-462a-a052-1e5b0ea4dd00",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac2c98b7-b999-4325-b309-acadcc9ed074",
+  "input": "{\"title\": \"Oh Glory (Demo)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Vices & Virtues (Deluxe Edition)'",
+  "status": "verified"
+}

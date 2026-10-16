@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:49.036088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fca37817-d635-40a4-b39b-06fc9e11e34b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c88fee48-9fea-4dc4-a31b-61553f1c8dd5",
+  "input": "{\"title\": \"Love Is\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

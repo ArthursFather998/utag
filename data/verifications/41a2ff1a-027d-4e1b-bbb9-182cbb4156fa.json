@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:13.237994+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fc86608-ad74-4763-8d57-085bb3bd683f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41a2ff1a-027d-4e1b-bbb9-182cbb4156fa",
+  "input": "{\"title\": \"Funeral for a Friend\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

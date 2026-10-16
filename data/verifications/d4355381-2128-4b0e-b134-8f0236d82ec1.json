@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:22.708968+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bb46aa3-1846-41ff-a155-48a0cf1eb39c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4355381-2128-4b0e-b134-8f0236d82ec1",
+  "input": "{\"title\": \"Ready to Go (Get Me Out of My Mind)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ready to Go (Get Me Out of My Mind)'",
+  "status": "verified"
+}

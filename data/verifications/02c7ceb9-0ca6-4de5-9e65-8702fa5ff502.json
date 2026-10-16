@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:08.58254+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0fdae51-0c76-4c86-a0d3-3c98654bb481",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02c7ceb9-0ca6-4de5-9e65-8702fa5ff502",
+  "input": "{\"title\": \"Don't Let the Sun Go Down on Me\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Who Believes in Angels? Live at the London Palladium'",
+  "status": "verified"
+}

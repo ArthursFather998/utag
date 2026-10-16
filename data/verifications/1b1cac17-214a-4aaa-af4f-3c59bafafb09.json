@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:07.675256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b4a138a-99d6-4c03-a65d-e28fb14eac9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b1cac17-214a-4aaa-af4f-3c59bafafb09",
+  "input": "{\"title\": \"Strawberry Blond\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Retired from Sad, New Career in Business'",
+  "status": "verified"
+}

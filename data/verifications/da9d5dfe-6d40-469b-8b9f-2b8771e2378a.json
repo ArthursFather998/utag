@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:39.39606+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "703889a1-f2d1-4066-b186-30394a0bec03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "da9d5dfe-6d40-469b-8b9f-2b8771e2378a",
+  "input": "{\"title\": \"Breakthru\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Miracle'",
+  "status": "verified"
+}

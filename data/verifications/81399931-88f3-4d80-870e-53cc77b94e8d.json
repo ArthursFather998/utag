@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:38.94617+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bd3f76f-37e8-4598-aae4-a0f90f4e75de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81399931-88f3-4d80-870e-53cc77b94e8d",
+  "input": "{\"title\": \"Is It Any Wonder?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Is It Any Wonder?'",
+  "status": "verified"
+}

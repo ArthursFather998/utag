@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:55.234677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c7ed97c-a834-4654-a7eb-8fe37faec57c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ffc3fe9-b01c-4396-b12b-a1064652639a",
+  "input": "{\"title\": \"I Feel Funny\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Feel Funny'",
+  "status": "verified"
+}

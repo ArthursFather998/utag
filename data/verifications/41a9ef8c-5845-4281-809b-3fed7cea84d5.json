@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:32.770457+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1dacdf6b-8dce-4690-b5da-02149e55b2b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41a9ef8c-5845-4281-809b-3fed7cea84d5",
+  "input": "{\"title\": \"More Than Words\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'More Than Words'",
+  "status": "verified"
+}

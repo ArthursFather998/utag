@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:30.837419+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19e4019a-6b58-463d-a92d-2531fbcd8ab9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "528e1047-598c-4b92-b77c-29875519f7d1",
+  "input": "{\"title\": \"The Invisible Man\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'The Platinum Collection: Greatest Hits I, II & III'",
+  "status": "verified"
+}

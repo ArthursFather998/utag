@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:19.001719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "779de1de-446c-40fc-93ae-1d39b65a37ce",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7d83bbd4-d9ff-45c0-b8fb-ffd3b18308ea",
+  "input": "{\"title\": \"Stone Cold Classics\", \"release_type\": \"album\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

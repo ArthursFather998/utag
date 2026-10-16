@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:40.808015+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f71cdce-1e86-4012-bfb6-fc2d3d63726d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca957935-3b3d-4753-af73-f0d068fc0702",
+  "input": "{\"title\": \"Salt And The Sea\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Salt And The Sea'",
+  "status": "verified"
+}

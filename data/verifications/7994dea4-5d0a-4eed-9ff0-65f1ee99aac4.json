@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:50.234618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf28ed72-95c1-4ee7-911a-daa389d89ceb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7994dea4-5d0a-4eed-9ff0-65f1ee99aac4",
+  "input": "{\"title\": \"Houdini\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

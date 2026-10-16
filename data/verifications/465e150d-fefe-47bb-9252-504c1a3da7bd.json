@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:41.022343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6cbad9ac-59bc-42f3-a52c-e319566113f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "465e150d-fefe-47bb-9252-504c1a3da7bd",
+  "input": "{\"title\": \"Honey (Classic Mix)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Remixes'",
+  "status": "verified"
+}

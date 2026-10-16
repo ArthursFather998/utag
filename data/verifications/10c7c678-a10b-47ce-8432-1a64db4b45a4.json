@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:17.142312+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "365cd970-a586-4a0f-b140-26741e64f8dd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "10c7c678-a10b-47ce-8432-1a64db4b45a4",
+  "input": "{\"title\": \"Fuel\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

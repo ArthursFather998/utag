@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:08.549939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe1e1574-b32f-4dda-bc05-d596fd641613",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1a79139-61eb-48e8-804a-344e7a5cfd07",
+  "input": "{\"title\": \"All Alone\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Pink Tape'",
+  "status": "verified"
+}

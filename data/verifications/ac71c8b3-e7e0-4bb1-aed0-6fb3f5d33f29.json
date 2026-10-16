@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:55.614825+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40523d4c-39b6-45fa-b0c5-aa113a756d8c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac71c8b3-e7e0-4bb1-aed0-6fb3f5d33f29",
+  "input": "{\"title\": \"Teardrops\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Bobby Vinton Sings the Golden Decade of Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:49.619108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2def182-b9e4-40c3-93fe-1e0fc0ecad3d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73f13f34-e207-4c70-97fb-791ca407264d",
+  "input": "{\"title\": \"Tell That Mick He Just Made My List of Things to Do Today\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'So Much For (2our) Dust: Live at Madison Square Garden'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:12.339866+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "200a806b-550c-450b-ba67-39b9718a7ec7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03ecd51b-b9db-46d4-b4e2-0f318530e4f0",
+  "input": "{\"title\": \"Things You Do (Acoustic)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Swag Live from Coachella (Weekend I)'",
+  "status": "verified"
+}

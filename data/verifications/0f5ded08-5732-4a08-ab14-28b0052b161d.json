@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:28.512751+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86d3df7e-01c1-43cb-91ea-982de7a68114",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f5ded08-5732-4a08-ab14-28b0052b161d",
+  "input": "{\"title\": \"Country\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'SZA'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:14.457567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "050f374b-ede0-4106-978e-368f5ef8eeea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f1c0309-3484-4c16-93e9-be2c73b45999",
+  "input": "{\"title\": \"The Brig\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Road to El Dorado'",
+  "status": "verified"
+}

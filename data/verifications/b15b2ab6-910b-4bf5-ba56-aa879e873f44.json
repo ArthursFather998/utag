@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:45.702573+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e1bb8cc6-72bd-4752-bb4f-947b1cd519ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b15b2ab6-910b-4bf5-ba56-aa879e873f44",
+  "input": "{\"title\": \"Baby Are You Home\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Lil Uzi Vert vs. the World'",
+  "status": "verified"
+}

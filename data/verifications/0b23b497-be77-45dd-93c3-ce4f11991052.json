@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:57.397269+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9df09cb-d67c-4aa6-af6d-9c4ae2f2d98f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b23b497-be77-45dd-93c3-ce4f11991052",
+  "input": "{\"title\": \"SLEEP PARALYSIS DEMON\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'luna park'",
+  "status": "verified"
+}

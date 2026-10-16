@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:40.151326+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0eff5889-bb6f-4366-9417-03639681015b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4e67318-756d-420a-92d8-2dfef02e694a",
+  "input": "{\"title\": \"Ven a Verme\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Classic Series, Vol. 3'",
+  "status": "verified"
+}

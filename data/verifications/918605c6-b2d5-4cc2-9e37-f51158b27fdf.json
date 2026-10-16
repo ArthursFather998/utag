@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:41.917266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b14bbc1-0555-4383-a470-fe02474817d5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "918605c6-b2d5-4cc2-9e37-f51158b27fdf",
+  "input": "{\"title\": \"pull\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

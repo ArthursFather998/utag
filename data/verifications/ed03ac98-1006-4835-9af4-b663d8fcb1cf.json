@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:52.067693+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7d43730-f26a-4d0e-bf71-6b196165d9d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed03ac98-1006-4835-9af4-b663d8fcb1cf",
+  "input": "{\"title\": \"Woman in Chains (Townhouse Jam)\", \"track_number\": 45}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 45 of 'The Seeds of Love (Super Deluxe Edition)'",
+  "status": "verified"
+}

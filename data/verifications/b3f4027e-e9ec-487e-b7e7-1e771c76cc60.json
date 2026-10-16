@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:25.556087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1cf950d3-4b64-4703-bacf-95872b13d0cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3f4027e-e9ec-487e-b7e7-1e771c76cc60",
+  "input": "{\"title\": \"Young Volcanoes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Young Volcanoes'",
+  "status": "verified"
+}

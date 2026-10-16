@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:26.483799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f54bca2-97f0-455b-a029-e1e11d743897",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cb7e36b-eb41-4126-bf1b-e75b3a1b3a45",
+  "input": "{\"title\": \"New York Times (feat. 50 Cent and Bas) (deluxe)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Born Sinner'",
+  "status": "verified"
+}

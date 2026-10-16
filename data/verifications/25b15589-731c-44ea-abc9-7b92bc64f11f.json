@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:32.78348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb419c76-7f6c-448e-a7fc-db3d50f5642b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25b15589-731c-44ea-abc9-7b92bc64f11f",
+  "input": "{\"title\": \"Higher\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live in San Antonio'",
+  "status": "verified"
+}

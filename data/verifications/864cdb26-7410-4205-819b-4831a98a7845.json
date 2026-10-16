@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:41.74932+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e6a5db6-1d58-4ee3-8330-825cf744d10c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "864cdb26-7410-4205-819b-4831a98a7845",
+  "input": "{\"title\": \"Daggers!\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Sincerely: P.S.'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:00.245418+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f0f2e03-0468-481e-bc55-23c6d7af6149",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c60e60fe-5864-4b4b-a7e2-e9f472b4d239",
+  "input": "{\"title\": \"Dolly\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Virgo Rising'",
+  "status": "verified"
+}

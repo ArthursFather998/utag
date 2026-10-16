@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:48.000242+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ecebb6eb-e57a-4acf-87f0-5b160b70bcbc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5433fee9-6819-4c55-a7a4-d0b3883f2816",
+  "input": "{\"title\": \"Walking in the Wind\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Made in the A.M. (Deluxe Edition)'",
+  "status": "verified"
+}

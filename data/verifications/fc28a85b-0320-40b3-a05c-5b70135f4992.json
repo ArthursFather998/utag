@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:28.908108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "32a6ba30-a1a7-4a25-aef0-d77e41edaf15",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fc28a85b-0320-40b3-a05c-5b70135f4992",
+  "input": "{\"title\": \"My Way / 8701\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

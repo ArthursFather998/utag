@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:59.274911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d737030d-1935-46bd-9a58-71de326e4b6a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2087cd12-a046-4cd8-bb1c-ced5471f36a0",
+  "input": "{\"title\": \"prom\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

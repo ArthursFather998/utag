@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:16.859699+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "208e2b65-ac8e-44b2-a6fa-7cc1627924ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1966b67-9b9b-4cc4-96d6-3cae9739dec1",
+  "input": "{\"title\": \"You Name It\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Boys, Boys, Boys'",
+  "status": "verified"
+}

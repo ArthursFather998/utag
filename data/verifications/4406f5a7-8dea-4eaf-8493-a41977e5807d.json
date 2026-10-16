@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:42.200232+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "882e4cab-a7f7-423a-b5b7-055f85effa44",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4406f5a7-8dea-4eaf-8493-a41977e5807d",
+  "input": "{\"title\": \"Fallin'\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In Tokyo 2025'",
+  "status": "verified"
+}

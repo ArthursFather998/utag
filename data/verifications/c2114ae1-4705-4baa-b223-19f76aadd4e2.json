@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:34.304987+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "57fd683b-6e1f-4e77-acfb-c198cf691cc4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c2114ae1-4705-4baa-b223-19f76aadd4e2",
+  "input": "{\"title\": \"Dark Vacay\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

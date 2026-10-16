@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:57.621015+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a39fe9cc-1c0d-4e77-bd8d-1bb4b20306fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "262f15ad-40c3-43d5-a0f1-e610b9826a82",
+  "input": "{\"title\": \"Talking Old Soldiers\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Tumbleweed Connection'",
+  "status": "verified"
+}

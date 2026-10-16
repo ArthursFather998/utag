@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:12.609055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "625453f9-4ee8-4f50-b824-2e5d2ae1aacc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "171e47c4-2d5e-4910-b94a-30bc9ecdd5d0",
+  "input": "{\"title\": \"L.A.\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Sonder Son'",
+  "status": "verified"
+}

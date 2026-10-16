@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:49.449211+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec2c2864-e2e7-4680-936b-b986e762f303",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be2569f5-45eb-4588-a074-ecced8ebb259",
+  "input": "{\"title\": \"Question Existing\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of '3 CD Collector's Set'",
+  "status": "verified"
+}

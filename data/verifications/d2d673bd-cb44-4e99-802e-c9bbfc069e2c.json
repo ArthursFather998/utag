@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:33.912296+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6caee6fc-d0a4-4560-aea6-4acaf0e91007",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d2d673bd-cb44-4e99-802e-c9bbfc069e2c",
+  "input": "{\"title\": \"The Only One for Me\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

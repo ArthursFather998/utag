@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:04.952434+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb445d57-b601-4eca-83c4-548fe0c42712",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "084436e6-0ff1-4520-af56-25a469959221",
+  "input": "{\"title\": \"This Is the Rock\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Kiln House'",
+  "status": "verified"
+}

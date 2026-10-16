@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:52.371784+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa6d38cb-e869-44d7-85e9-e632490302d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "947c5108-5c46-488f-a092-b2114a8bbf8d",
+  "input": "{\"title\": \"Embarrassed\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Love Sick (Deluxe)'",
+  "status": "verified"
+}

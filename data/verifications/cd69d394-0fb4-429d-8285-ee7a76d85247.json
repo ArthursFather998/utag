@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:40.745025+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "403d065f-c87f-4a16-9912-7a583243181d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd69d394-0fb4-429d-8285-ee7a76d85247",
+  "input": "{\"title\": \"Sorry Seems to Be the Hardest Word\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Love Songs'",
+  "status": "verified"
+}

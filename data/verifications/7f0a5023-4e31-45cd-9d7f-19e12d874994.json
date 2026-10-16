@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:03.081213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7488855-0946-4d17-bcf0-f9e1eefd9516",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f0a5023-4e31-45cd-9d7f-19e12d874994",
+  "input": "{\"title\": \"That Should Be Me (Acoustic Version)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'My Worlds: The Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:48.336029+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd32d7ef-3f17-4a8e-8fb7-ae46912f1b08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dfc5e71-3b60-48c7-a625-ac62cf564810",
+  "input": "{\"title\": \"Juicy\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Amala (Deluxe)'",
+  "status": "verified"
+}

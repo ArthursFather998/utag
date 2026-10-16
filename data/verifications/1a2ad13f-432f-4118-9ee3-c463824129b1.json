@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:52.062098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0cb67c14-79c1-421e-bb06-fc67ab7320c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1a2ad13f-432f-4118-9ee3-c463824129b1",
+  "input": "{\"title\": \"Reprise: Love Me By Name\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Love Me by Name'",
+  "status": "verified"
+}

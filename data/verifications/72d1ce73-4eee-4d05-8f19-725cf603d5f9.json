@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:12.522542+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22b57c0e-f630-40c2-a22e-c59c984e9f54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72d1ce73-4eee-4d05-8f19-725cf603d5f9",
+  "input": "{\"title\": \"Kim Jong\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Nasarati'",
+  "status": "verified"
+}

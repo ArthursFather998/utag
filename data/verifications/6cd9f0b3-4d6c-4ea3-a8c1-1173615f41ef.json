@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:48.654293+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9190f012-2a1b-43c8-8558-3487038a1a50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6cd9f0b3-4d6c-4ea3-a8c1-1173615f41ef",
+  "input": "{\"title\": \"Big Green Tractor\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '30 Number One Hits'",
+  "status": "verified"
+}

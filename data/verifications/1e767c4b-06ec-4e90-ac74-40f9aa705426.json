@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:57.17845+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "57b481c7-8cc5-43ae-b07e-f287151a5911",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e767c4b-06ec-4e90-ac74-40f9aa705426",
+  "input": "{\"title\": \"Not Afraid\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Recovery'",
+  "status": "verified"
+}

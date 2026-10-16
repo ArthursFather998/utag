@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:23.782184+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc9404ff-b9b0-4de0-ae45-a72fc1c54c83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d256189-7b91-45a3-ac9d-0afbe4797501",
+  "input": "{\"title\": \"Sidenote\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'We Love You Tecca'",
+  "status": "verified"
+}

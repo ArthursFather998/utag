@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:45.66224+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "995491a0-1035-4fe2-b0dc-d592127db6af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "714350bd-6c9e-4f73-bc9f-01ef1f708d33",
+  "input": "{\"title\": \"Sometimes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Me by Name (Expanded Version)'",
+  "status": "verified"
+}

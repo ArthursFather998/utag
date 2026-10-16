@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:03.506745+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc031042-0018-492a-bf5f-3afcdcd0f5a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8253fdcf-0b2a-48cd-aa0a-2657fa324a25",
+  "input": "{\"title\": \"myocardial\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'SCARLET'",
+  "status": "verified"
+}

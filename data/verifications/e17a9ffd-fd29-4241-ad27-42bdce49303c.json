@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:44.225575+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c182c8d5-12bb-496c-9ee4-d9cd870736d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e17a9ffd-fd29-4241-ad27-42bdce49303c",
+  "input": "{\"title\": \"Castle\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Revival'",
+  "status": "verified"
+}

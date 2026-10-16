@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:38.194361+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d65706ad-dcaf-4c69-97cb-90205c8e9b89",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2bc08808-cedc-47e2-986b-d976d8109914",
+  "input": "{\"title\": \"777\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'An Evening with Silk Sonic'",
+  "status": "verified"
+}

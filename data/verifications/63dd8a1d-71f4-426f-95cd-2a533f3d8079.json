@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:55.927109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05ab6a72-6efd-49df-8b4a-a359d8727374",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "63dd8a1d-71f4-426f-95cd-2a533f3d8079",
+  "input": "{\"title\": \"Energy\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'If You're Reading This It's Too Late'",
+  "status": "verified"
+}

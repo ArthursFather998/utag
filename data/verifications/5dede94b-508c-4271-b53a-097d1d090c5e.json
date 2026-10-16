@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:15.983586+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a938df88-bf6d-4be2-8f2a-844ca33db448",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5dede94b-508c-4271-b53a-097d1d090c5e",
+  "input": "{\"title\": \"Ode to My Family\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Bualadh Bos – The Cranberries Live'",
+  "status": "verified"
+}

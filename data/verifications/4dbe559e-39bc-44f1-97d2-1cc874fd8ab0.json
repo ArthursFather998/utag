@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:36.224804+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98f9b3da-cc88-44da-a14b-8221ac9ac497",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dbe559e-39bc-44f1-97d2-1cc874fd8ab0",
+  "input": "{\"title\": \"Situations (Music Video)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Situations EP'",
+  "status": "verified"
+}

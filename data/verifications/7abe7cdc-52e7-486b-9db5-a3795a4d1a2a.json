@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:48.185021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48216b64-b78e-4ddc-ac4e-fb80e698d292",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7abe7cdc-52e7-486b-9db5-a3795a4d1a2a",
+  "input": "{\"title\": \"Bye Bye\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

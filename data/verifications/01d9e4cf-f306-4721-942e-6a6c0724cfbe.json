@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:43.897326+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e3aecc3-7171-44cc-b767-52a62d312f3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01d9e4cf-f306-4721-942e-6a6c0724cfbe",
+  "input": "{\"title\": \"03.45: No Sleep\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Long Gone Before Daylight (Remastered)'",
+  "status": "verified"
+}

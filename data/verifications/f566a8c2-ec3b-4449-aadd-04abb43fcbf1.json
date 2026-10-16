@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:05.532718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92bddd62-4de2-4d15-92e4-6181b5025a2a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f566a8c2-ec3b-4449-aadd-04abb43fcbf1",
+  "input": "{\"title\": \"Really Loving You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Diamonds'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:10.057964+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "743f57ae-ffb6-44fa-bc93-9eae34e33310",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e768b315-d0c3-42ea-aed1-e588355ff3cd",
+  "input": "{\"title\": \"Magnus' Favorite Song\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'iTunes Originals'",
+  "status": "verified"
+}

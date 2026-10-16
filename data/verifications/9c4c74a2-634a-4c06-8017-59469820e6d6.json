@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:07.638724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b0567fc-4141-451d-9d98-2c6cbb92d562",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c4c74a2-634a-4c06-8017-59469820e6d6",
+  "input": "{\"title\": \"Please Love Me Forever\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Ultimate Epic Singles Collection'",
+  "status": "verified"
+}

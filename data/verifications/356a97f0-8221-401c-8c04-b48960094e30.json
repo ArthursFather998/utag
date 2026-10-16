@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:34.283128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b65c68b-90bf-472f-90b2-1a4ec72a4713",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "356a97f0-8221-401c-8c04-b48960094e30",
+  "input": "{\"title\": \"Karaoke\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Emotional Creature'",
+  "status": "verified"
+}

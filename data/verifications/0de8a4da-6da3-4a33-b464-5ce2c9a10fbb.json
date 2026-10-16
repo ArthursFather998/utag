@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:28.397457+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5a0bfe9-b003-46e8-a089-deddfa6763ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0de8a4da-6da3-4a33-b464-5ce2c9a10fbb",
+  "input": "{\"title\": \"True Colors\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Starboy (Deluxe)'",
+  "status": "verified"
+}

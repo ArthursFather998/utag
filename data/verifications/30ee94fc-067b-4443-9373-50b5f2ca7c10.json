@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:31.498898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "abd6834b-8009-41cb-b3ad-10d41a4b4c6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30ee94fc-067b-4443-9373-50b5f2ca7c10",
+  "input": "{\"title\": \"Before the Beginning\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

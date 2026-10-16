@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:17.696955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8d22982-22bc-4605-952e-0f461a583bf4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2eee1e55-4f3e-4568-8a53-1fe7815ace32",
+  "input": "{\"title\": \"Heywood\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Colorado's On Fire Again'",
+  "status": "verified"
+}

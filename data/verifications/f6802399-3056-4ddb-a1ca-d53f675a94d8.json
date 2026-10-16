@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:58.890702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "efeba132-dce8-4514-8ae1-81c0855f019d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6802399-3056-4ddb-a1ca-d53f675a94d8",
+  "input": "{\"title\": \"Too Much\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'I'm Doing It Again Baby!'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:12.635606+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4615cab3-a08c-4a15-9f15-4784ecad342d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a0388c0d-e754-4b56-8a1d-758e580fca20",
+  "input": "{\"title\": \"More Than Words\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

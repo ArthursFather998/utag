@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:44.374628+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c41e6cec-c7e8-4996-89c7-4dc562d2c50c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d52394cf-5b44-4760-a4c6-f9c46b17079a",
+  "input": "{\"title\": \"Best You Had\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

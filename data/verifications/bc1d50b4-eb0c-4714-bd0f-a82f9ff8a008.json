@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:40.270305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e11ae759-30f0-4de7-a179-8588c0aaee16",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bc1d50b4-eb0c-4714-bd0f-a82f9ff8a008",
+  "input": "{\"title\": \"Fantasy (featuring O.D.B.)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

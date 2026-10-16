@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:23.847095+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52520434-197c-45b2-ba18-bf052d254217",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9a90d28e-a731-478f-b6f5-4565ffcff902",
+  "input": "{\"title\": \"Yeah!\", \"release_type\": \"single\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:30.410971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6579f9e7-95ec-45a1-bbaf-3e717d944a4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e45f8215-e80c-4107-8065-b7a851a7f1aa",
+  "input": "{\"title\": \"What Makes You Think You're the One\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'In Concert'",
+  "status": "verified"
+}

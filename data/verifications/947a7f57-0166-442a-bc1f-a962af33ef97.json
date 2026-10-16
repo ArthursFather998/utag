@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:29.409549+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e0bda59-d6ee-43d2-8945-83486a1b6347",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "947a7f57-0166-442a-bc1f-a962af33ef97",
+  "input": "{\"title\": \"So What\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Human (Deluxe Edition)'",
+  "status": "verified"
+}

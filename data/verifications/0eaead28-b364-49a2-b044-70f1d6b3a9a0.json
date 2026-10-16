@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:44.067128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a074cebf-14e7-4b56-b846-6fb29020641e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0eaead28-b364-49a2-b044-70f1d6b3a9a0",
+  "input": "{\"title\": \"Baila Esta Cumbia\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Éxitos y Recuerdos'",
+  "status": "verified"
+}

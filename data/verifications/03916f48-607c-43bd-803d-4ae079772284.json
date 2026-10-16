@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:27.304699+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "130dfdc9-ed46-4a6e-a71a-1fd34114a9cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03916f48-607c-43bd-803d-4ae079772284",
+  "input": "{\"title\": \"First Train Home\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of 'Original Fleetwood Mac: The Blues Years'",
+  "status": "verified"
+}

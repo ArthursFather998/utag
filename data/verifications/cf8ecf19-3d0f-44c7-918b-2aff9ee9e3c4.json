@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:54.217746+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "456a9bd2-6d9c-4d82-bacf-e8f97afb8392",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf8ecf19-3d0f-44c7-918b-2aff9ee9e3c4",
+  "input": "{\"title\": \"Up (feat. Chris Brown)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Never Say Never: The Remixes'",
+  "status": "verified"
+}

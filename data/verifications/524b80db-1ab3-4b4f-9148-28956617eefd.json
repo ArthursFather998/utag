@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:12.058889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ebc59f2c-6212-4142-b98f-c957c26d1639",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "524b80db-1ab3-4b4f-9148-28956617eefd",
+  "input": "{\"title\": \"California Nights\", \"release_type\": \"album\", \"release_year\": 1967}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

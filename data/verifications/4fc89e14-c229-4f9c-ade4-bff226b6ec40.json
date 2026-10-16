@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:56.99761+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9ccde68-f441-486e-9e48-7af063aa0fb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4fc89e14-c229-4f9c-ade4-bff226b6ec40",
+  "input": "{\"title\": \"Tyrant\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Isolation'",
+  "status": "verified"
+}

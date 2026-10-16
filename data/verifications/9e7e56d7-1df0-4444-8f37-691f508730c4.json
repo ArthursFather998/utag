@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:42.696777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b54f69d5-aac8-4c72-8914-7677cc3a3816",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e7e56d7-1df0-4444-8f37-691f508730c4",
+  "input": "{\"title\": \"No Questions Asked\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

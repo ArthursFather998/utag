@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:09.360412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1379adc6-8d9b-4a59-b658-806965370ead",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7bb74e8-ec6c-4e86-9577-dbd4ea1d5b44",
+  "input": "{\"title\": \"Graduation's Here\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Come Softly to Me: The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

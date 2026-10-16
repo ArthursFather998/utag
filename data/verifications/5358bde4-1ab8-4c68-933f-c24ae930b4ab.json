@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:59.964633+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "dc008838-a205-4040-bfc2-60782c9c80e5",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "5358bde4-1ab8-4c68-933f-c24ae930b4ab",
+  "input": {
+    "artist": "Jagged Edge",
+    "release": "J.E. Heartbreak",
+    "title": "Let's Get Married"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Confirmed: Jagged Edge's 'Let's Get Married' from second studio album J.E. Heartbreak (1999), single released April 11, 2000. | sources: https://en.wikipedia.org/wiki/Let%27s_Get_Married_(Jagged_Edge_song), https://www.discogs.com/release/2251928-Jagged-Edge-JE-Heartbreak",
+  "status": "verified"
+}

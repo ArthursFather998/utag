@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:30.490755+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc9d3081-8e69-4c94-ae50-18023a2aa4a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77283b7d-c66f-4019-a147-b468c421728f",
+  "input": "{\"title\": \"The Time\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Red 13'",
+  "status": "verified"
+}

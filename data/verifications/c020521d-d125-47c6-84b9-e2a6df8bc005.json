@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:32.764594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9703363-f592-4918-8dd1-aae5bd1ea955",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c020521d-d125-47c6-84b9-e2a6df8bc005",
+  "input": "{\"title\": \"Can't Take That Away (Mariah's Theme)\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'The Essential Mariah Carey'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:35.810842+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "201969b4-0cf1-44a3-bf5e-9a069274a9a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67cf1604-0a8d-48aa-9dda-b2ca6e7f3129",
+  "input": "{\"title\": \"Atomic\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Atomic'",
+  "status": "verified"
+}

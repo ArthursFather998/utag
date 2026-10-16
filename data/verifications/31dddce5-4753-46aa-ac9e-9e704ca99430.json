@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:56.642942+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4fa63e28-a3d7-4ee2-a2c8-329af4c248ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31dddce5-4753-46aa-ac9e-9e704ca99430",
+  "input": "{\"title\": \"Moving Mountains (Pokerface Remix)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Moving Mountains'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:32.501171+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "686c4ed1-fe83-4196-b996-9066160c073d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02e9a00e-a1da-4632-bee7-3278c7ae0643",
+  "input": "{\"title\": \"Curtains Up\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Encore (Deluxe)'",
+  "status": "verified"
+}

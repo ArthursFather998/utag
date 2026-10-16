@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:47.189207+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a544a13-c86c-4cfc-b28d-4f1bfd5dfcca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3604510d-4417-4ea5-8d24-11c38e505ac0",
+  "input": "{\"title\": \"Light Show\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Changes'",
+  "status": "verified"
+}

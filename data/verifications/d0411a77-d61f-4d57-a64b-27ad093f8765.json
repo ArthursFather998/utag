@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:12.448936+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29ae2c45-9e13-4c6e-be57-88125a76c920",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0411a77-d61f-4d57-a64b-27ad093f8765",
+  "input": "{\"title\": \"I'm Going Slightly Mad\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Greatest Hits II'",
+  "status": "verified"
+}

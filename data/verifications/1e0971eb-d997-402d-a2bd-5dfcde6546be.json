@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:48.059971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70836c02-53db-4d87-9e77-060d0f2d1e0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e0971eb-d997-402d-a2bd-5dfcde6546be",
+  "input": "{\"title\": \"Memory of Love\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Leather Jackets'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:52.223375+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b428ac2c-a4c0-48f4-9b36-f71c645ab2b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07620d8a-c205-47f0-b620-a10bf252e36b",
+  "input": "{\"title\": \"I Will\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'My Way / 8701'",
+  "status": "verified"
+}

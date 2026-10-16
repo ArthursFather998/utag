@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:29.300395+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "445789ea-6743-43f7-a0b0-27c54ac72833",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06b406b8-dadd-4d39-9581-9f3bf2075675",
+  "input": "{\"title\": \"Rendezvous\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Octane'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:04.421372+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7e05874-3e30-43b2-99af-7ea7002cb30d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09e7a6a2-9925-4679-8a3f-85afe858f34a",
+  "input": "{\"title\": \"Communication\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Dream Street'",
+  "status": "verified"
+}

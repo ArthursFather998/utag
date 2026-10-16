@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:26.320341+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c4d92b8-6b22-440a-a67c-ea2444f280ff",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9e2b7dae-5e07-4a2a-b4ac-67744aa86cb7",
+  "input": "{\"title\": \"No Matter What\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:54.399846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "76878b4a-fb17-456d-991b-8cd3e182b204",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "907ae7b4-1058-4866-8345-63f0d4c1f133",
+  "input": "{\"title\": \"Lost in the Citadel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lost in the Citadel'",
+  "status": "verified"
+}

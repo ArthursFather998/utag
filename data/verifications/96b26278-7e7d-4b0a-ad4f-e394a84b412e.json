@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:00.961868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f4a90f2-d392-4605-989e-a0d7d4bc8e4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96b26278-7e7d-4b0a-ad4f-e394a84b412e",
+  "input": "{\"title\": \"I Want You Back (Radio Edit)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '*NSYNC'",
+  "status": "verified"
+}

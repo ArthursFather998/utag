@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:00.190468+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc1983f4-0e4b-4285-85f3-aee43c2d81a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec68ca99-b5ae-45c5-809e-0d03bf921ffc",
+  "input": "{\"title\": \"Letsomebodyluvu\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'More Than Words (Deluxe Edition)'",
+  "status": "verified"
+}

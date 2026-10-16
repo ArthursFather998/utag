@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:33.940809+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02c6db21-3356-4308-a199-f758d07e0ab2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1007ef96-2bc6-462c-8bac-ae725ba3ef1f",
+  "input": "{\"title\": \"Love in This Club (Remix)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Here I Stand (Deluxe Version)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:04.557658+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a9c236b-7db1-4c8f-9e0b-ce1005a820be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbbc0c50-63c8-43ef-8f2b-8b99822e8d81",
+  "input": "{\"title\": \"Dust My Broom\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Madison Blues'",
+  "status": "verified"
+}

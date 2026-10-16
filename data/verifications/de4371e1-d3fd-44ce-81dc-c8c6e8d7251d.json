@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:37.195611+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9ab71e8-ea66-420c-9f09-e880e2b7da44",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de4371e1-d3fd-44ce-81dc-c8c6e8d7251d",
+  "input": "{\"title\": \"Interlude - Speaker Phone\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Velvet Rope'",
+  "status": "verified"
+}

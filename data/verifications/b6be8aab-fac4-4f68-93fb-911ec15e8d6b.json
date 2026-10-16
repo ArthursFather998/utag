@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:19.419972+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "372339c5-27f9-40b5-9718-5589f19e93b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6be8aab-fac4-4f68-93fb-911ec15e8d6b",
+  "input": "{\"title\": \"Letsomebodyluvu\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'More Than Words'",
+  "status": "verified"
+}

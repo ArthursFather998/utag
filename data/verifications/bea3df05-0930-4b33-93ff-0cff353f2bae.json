@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:56.967516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6bc95309-5b38-4609-995f-b0f041c57e9a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bea3df05-0930-4b33-93ff-0cff353f2bae",
+  "input": "{\"title\": \"Live in Houston 1981: The Escape Tour\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:12.424879+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d213a2b-8a7c-4b2e-a9ee-0371ffc415d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4191da2-05ee-47f6-912e-5a95b584e55b",
+  "input": "{\"title\": \"vanilla sky.\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Icon'",
+  "status": "verified"
+}

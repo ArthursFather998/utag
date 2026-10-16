@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:32.775527+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cef436f4-c8c5-4249-860b-e91e80ed86bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "65d00582-bab5-4643-88fb-0fd0cdc3f432",
+  "input": "{\"title\": \"Religion\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Honeymoon'",
+  "status": "verified"
+}

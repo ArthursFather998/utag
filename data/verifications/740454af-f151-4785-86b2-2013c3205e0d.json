@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:06.482138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77eb13c3-0a3e-40e4-b43f-4e1554fec6bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "740454af-f151-4785-86b2-2013c3205e0d",
+  "input": "{\"title\": \"Something\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'This War Is Ours (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:18.099919+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1045e15-b097-4c57-8089-cfaf729a8322",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec1ed7f1-e570-4415-922c-bc1b1eff99a2",
+  "input": "{\"title\": \"Scared of Love\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Goodbye & Good Riddance'",
+  "status": "verified"
+}

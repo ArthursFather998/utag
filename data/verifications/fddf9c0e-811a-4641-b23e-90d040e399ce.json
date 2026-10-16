@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:24.555679+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02f51ef1-319e-45fe-b132-af52737fc9cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fddf9c0e-811a-4641-b23e-90d040e399ce",
+  "input": "{\"title\": \"Higher\", \"track_number\": 98}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 98 of 'Vinyl Box Set'",
+  "status": "verified"
+}

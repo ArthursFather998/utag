@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:27.556227+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5faa17d5-55dd-4db0-b9a9-ae4ffea6f7be",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f7e7066e-38bd-403b-8178-529a2573b0c8",
+  "input": "{\"title\": \"Hold On\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

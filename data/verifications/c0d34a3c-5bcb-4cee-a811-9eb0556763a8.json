@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:27.588298+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ecaaacc4-3bcd-4fa9-bb7b-d9c5b8d5d3cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0d34a3c-5bcb-4cee-a811-9eb0556763a8",
+  "input": "{\"title\": \"Gorilla\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Gorilla'",
+  "status": "verified"
+}

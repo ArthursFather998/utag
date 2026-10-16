@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:33.322971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a00cb448-1dae-4ca2-987c-74ca0aaed679",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eda64348-2870-40b0-be3a-c35d5540d9e2",
+  "input": "{\"title\": \"Porch Swing in Tupelo\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Peachtree Road'",
+  "status": "verified"
+}

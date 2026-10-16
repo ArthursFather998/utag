@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:25.617854+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36776f00-6327-4cc0-b330-1ae1d8f4375a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1f50edb-cb42-4938-be60-d96fa9cd4ede",
+  "input": "{\"title\": \"Mother, Father\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Escape'",
+  "status": "verified"
+}

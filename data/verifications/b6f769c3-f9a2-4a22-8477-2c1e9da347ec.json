@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:26.91905+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "edd8082a-4ccd-4207-9a98-d8ddce323ed9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b6f769c3-f9a2-4a22-8477-2c1e9da347ec",
+  "input": "{\"title\": \"Who Believes in Angels?\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:54.448259+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ceee21e9-7a28-4c47-af2f-fb47e40472e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f17ba07c-0630-4e6c-ab91-7388c155f6e3",
+  "input": "{\"title\": \"F2F\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Apple Music Live: SZA'",
+  "status": "verified"
+}

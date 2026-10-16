@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:40.874341+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d20470c-ea27-43ce-b7e5-bb3089e6d160",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b28f3c92-890b-4fe9-8eb7-bbd2c527c156",
+  "input": "{\"title\": \"Earned It (Fifty Shades of Grey)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Highlights (Deluxe)'",
+  "status": "verified"
+}

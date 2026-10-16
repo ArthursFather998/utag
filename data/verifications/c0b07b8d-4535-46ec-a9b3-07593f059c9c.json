@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:08.188321+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2e42f88-0728-4413-a10e-6b5a03b9cf3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0b07b8d-4535-46ec-a9b3-07593f059c9c",
+  "input": "{\"title\": \"Breathe Your Name\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Divine Discontent'",
+  "status": "verified"
+}

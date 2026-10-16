@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:08.369707+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1591ff50-9b62-44be-984c-b85dcaecadf9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e438aad-633f-4e44-bf64-32b8469d39db",
+  "input": "{\"title\": \"My Way (Ryan James Carr remake)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'My Way (25th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:47.740262+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b7626f4-3ba8-45e1-9d73-f0ba11f6adca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7f00d6e-55fb-4694-bf1e-2811dad4a49e",
+  "input": "{\"title\": \"Say My Name\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Writing's on the Wall'",
+  "status": "verified"
+}

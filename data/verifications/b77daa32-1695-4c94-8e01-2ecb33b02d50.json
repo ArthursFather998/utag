@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:54.699349+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3f145a9-50c7-4181-bad2-15e21cc7aab9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b77daa32-1695-4c94-8e01-2ecb33b02d50",
+  "input": "{\"title\": \"Straight Back\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Mirage'",
+  "status": "verified"
+}

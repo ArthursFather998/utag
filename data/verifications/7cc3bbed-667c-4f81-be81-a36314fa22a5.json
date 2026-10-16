@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:18.299981+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b52f297-aedd-43a8-83d6-9cb71b7c1daa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7cc3bbed-667c-4f81-be81-a36314fa22a5",
+  "input": "{\"title\": \"I've Been Loving You\", \"release_type\": \"album\", \"release_year\": 1968}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

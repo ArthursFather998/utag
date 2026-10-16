@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:15.637043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30f40b35-27e7-425b-bc7c-f90252d1ca88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "70ac94c3-ae4a-42c6-af73-0197a2c1b4df",
+  "input": "{\"title\": \"Heartbreaker\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Journals'",
+  "status": "verified"
+}

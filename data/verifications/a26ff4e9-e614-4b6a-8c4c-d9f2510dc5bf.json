@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:57.666727+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "08d49e74-d189-42cb-a115-24b453535a9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a26ff4e9-e614-4b6a-8c4c-d9f2510dc5bf",
+  "input": "{\"title\": \"Independent Women Part I\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Independent Women Part I'",
+  "status": "verified"
+}

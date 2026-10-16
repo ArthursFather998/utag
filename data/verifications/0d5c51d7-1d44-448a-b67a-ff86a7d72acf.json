@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:43.121018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6a979bb-9f76-4a4e-a179-acadf60d189a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d5c51d7-1d44-448a-b67a-ff86a7d72acf",
+  "input": "{\"title\": \"Live Fast, Die Beautiful\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Ungrateful'",
+  "status": "verified"
+}

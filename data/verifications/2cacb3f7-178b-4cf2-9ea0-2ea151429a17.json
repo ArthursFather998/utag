@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:31.786427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4cd31485-8d67-45b8-973f-824163be4d3b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2cacb3f7-178b-4cf2-9ea0-2ea151429a17",
+  "input": "{\"title\": \"A Day at the Races\", \"release_type\": \"album\", \"release_year\": 1976}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:21.631478+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "76182f50-883b-4db0-a7d8-48f865597539",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbaea1eb-b2d0-4fc5-b152-5b45f365a106",
+  "input": "{\"title\": \"Steve Berman (skit)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Marshall Mathers LP'",
+  "status": "verified"
+}

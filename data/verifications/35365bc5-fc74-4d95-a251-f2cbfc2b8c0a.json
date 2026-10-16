@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:00.383608+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "baab1db5-ce91-44da-a910-c5d4fbb91ab1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "35365bc5-fc74-4d95-a251-f2cbfc2b8c0a",
+  "input": "{\"title\": \"Made in the A.M. (Deluxe Edition)\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

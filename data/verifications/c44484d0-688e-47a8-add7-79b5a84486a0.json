@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:33.293548+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae1aca6d-f0c5-49d2-908a-2eaa505f8dbf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c44484d0-688e-47a8-add7-79b5a84486a0",
+  "input": "{\"title\": \"White Christmas\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '8 Days of Christmas'",
+  "status": "verified"
+}

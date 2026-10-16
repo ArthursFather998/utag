@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:53.747193+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fbd9fc29-12bf-478f-9ffe-7ca82c9fdb3c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9d8b1f00-0210-42d3-989c-56eaf8e37591",
+  "input": "{\"title\": \"500lbs\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

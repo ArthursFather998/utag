@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:56.594571+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7a678cb-05be-42e5-9036-e2708472f1ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b349a751-731b-4b91-9248-11b20b446c3e",
+  "input": "{\"title\": \"Amor Prohibido\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Ones'",
+  "status": "verified"
+}

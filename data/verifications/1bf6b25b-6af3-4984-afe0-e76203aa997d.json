@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:54.260994+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c9eaeb6-7388-461b-9265-cb08844c4dc1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1bf6b25b-6af3-4984-afe0-e76203aa997d",
+  "input": "{\"title\": \"Albatross\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Vintage Years'",
+  "status": "verified"
+}

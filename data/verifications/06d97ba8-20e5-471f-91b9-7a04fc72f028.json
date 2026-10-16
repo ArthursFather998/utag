@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:39.957251+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc49115c-bb4c-4916-9928-a2fe35e19663",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06d97ba8-20e5-471f-91b9-7a04fc72f028",
+  "input": "{\"title\": \"I'm So Afraid\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Dance'",
+  "status": "verified"
+}

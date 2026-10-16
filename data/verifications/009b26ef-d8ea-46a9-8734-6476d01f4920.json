@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:37.556236+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f42a8cf-4e42-49a6-a245-deef46798226",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "009b26ef-d8ea-46a9-8734-6476d01f4920",
+  "input": "{\"title\": \"LV Bag\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'LV Bag'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:57.438+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "471b996b-07f3-4a0f-a390-0122ed57583a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af211e40-9947-4dbf-9874-e03bc873ea68",
+  "input": "{\"title\": \"One for the Money\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'One for the Money'",
+  "status": "verified"
+}

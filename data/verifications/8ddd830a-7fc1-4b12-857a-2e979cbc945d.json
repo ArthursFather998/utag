@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:45.130199+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1dfc0da7-ef75-49d0-97e0-9e302e50a476",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8ddd830a-7fc1-4b12-857a-2e979cbc945d",
+  "input": "{\"title\": \"Hard\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

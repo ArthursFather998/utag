@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:45.157057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d8f5649-af7f-4533-9a41-42c1e5d165d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d950143-2a25-4432-b2a1-3e2307af16c9",
+  "input": "{\"title\": \"Confessions Part II (Remix)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Confessions (Special Edition)'",
+  "status": "verified"
+}

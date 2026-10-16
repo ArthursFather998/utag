@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:48.073829+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a25b584-3813-438c-a877-033fed90aae7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9cef6804-e3e4-498b-afdd-c1d98a72e830",
+  "input": "{\"title\": \"Just to Hold You Once Again\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Music Box: 30th Anniversary Edition'",
+  "status": "verified"
+}

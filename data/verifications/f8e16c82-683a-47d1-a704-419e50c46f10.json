@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:42.518133+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a737349d-6910-46f2-ad83-18f713c5493f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f8e16c82-683a-47d1-a704-419e50c46f10",
+  "input": "{\"title\": \"Trying to Get Home\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Back to Life'",
+  "status": "verified"
+}

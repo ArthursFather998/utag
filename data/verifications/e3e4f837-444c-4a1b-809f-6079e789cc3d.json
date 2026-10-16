@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:10.476255+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "18f31c9d-c8f1-470d-9017-c59c3be27b5a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e3e4f837-444c-4a1b-809f-6079e789cc3d",
+  "input": "{\"title\": \"Hammer to Fall\", \"release_type\": \"single\", \"release_year\": 1984}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

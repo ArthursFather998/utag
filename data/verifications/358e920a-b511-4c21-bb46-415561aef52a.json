@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:44.482565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8250fa4-f3dc-4a80-8455-716f50285481",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "358e920a-b511-4c21-bb46-415561aef52a",
+  "input": "{\"title\": \"Who Wears These Shoes?\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Breaking Hearts'",
+  "status": "verified"
+}

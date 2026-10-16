@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:23.38976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50bfff42-9ba3-472c-ad5a-9e8915ca8a01",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ccea8ae-0908-40aa-9d7a-20e492fbf6f2",
+  "input": "{\"title\": \"Adeste Fideles\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'I'll Be Home for Christmas'",
+  "status": "verified"
+}

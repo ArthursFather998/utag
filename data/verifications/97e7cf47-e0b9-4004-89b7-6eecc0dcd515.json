@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:29.321324+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a26f1c68-0b66-425b-aadd-847da02aeb0c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "97e7cf47-e0b9-4004-89b7-6eecc0dcd515",
+  "input": "{\"title\": \"Tony Soprano\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:35.631446+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3696297-87fb-4b66-b8d6-f05d946628b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5636398-75cf-4388-b416-1eed1b289df8",
+  "input": "{\"title\": \"Crew Love\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live at SoFi Stadium'",
+  "status": "verified"
+}

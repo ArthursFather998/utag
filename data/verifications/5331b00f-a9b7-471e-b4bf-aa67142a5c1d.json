@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:52.431229+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10a1c8db-3699-4245-b263-e193a02fe640",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5331b00f-a9b7-471e-b4bf-aa67142a5c1d",
+  "input": "{\"title\": \"Tough Luck\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'A Matter of Time: The Final Hour'",
+  "status": "verified"
+}

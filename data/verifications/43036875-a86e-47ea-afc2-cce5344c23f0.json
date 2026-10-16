@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:42.147792+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54d0aed2-29ee-4769-a658-de3936a63065",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43036875-a86e-47ea-afc2-cce5344c23f0",
+  "input": "{\"title\": \"The King and I\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The King and I'",
+  "status": "verified"
+}

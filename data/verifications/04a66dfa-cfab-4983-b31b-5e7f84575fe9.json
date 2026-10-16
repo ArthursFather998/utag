@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:10.917889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "545a4169-b5ec-4d3d-bb09-55a9a6f65127",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "04a66dfa-cfab-4983-b31b-5e7f84575fe9",
+  "input": "{\"title\": \"Penguin\", \"release_type\": \"album\", \"release_year\": 1973}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

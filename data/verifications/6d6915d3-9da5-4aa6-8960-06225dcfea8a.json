@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:32.187523+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5350b77-dca8-4ffd-a766-f1ece43c92b7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6d6915d3-9da5-4aa6-8960-06225dcfea8a",
+  "input": "{\"title\": \"Pretty Boy\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

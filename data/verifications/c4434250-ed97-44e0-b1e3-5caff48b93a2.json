@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:20.961978+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e418e173-140d-4775-b57e-49f3ff229e87",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4434250-ed97-44e0-b1e3-5caff48b93a2",
+  "input": "{\"title\": \"Needed\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Sonder Son'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:37.648975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b6cab73-9010-4249-9224-14389c7fde4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ec739d2-711b-47c0-9697-68f6524b6ae8",
+  "input": "{\"title\": \"Shout (Extended)\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of 'Songs from the Big Chair (40th Anniversary Edition)'",
+  "status": "verified"
+}

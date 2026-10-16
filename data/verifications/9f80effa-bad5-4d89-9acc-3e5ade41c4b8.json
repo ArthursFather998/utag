@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:00.331097+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "471b6b73-127b-40f8-9aef-fd42123977c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f80effa-bad5-4d89-9acc-3e5ade41c4b8",
+  "input": "{\"title\": \"I'll Make It Right\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Usher'",
+  "status": "verified"
+}

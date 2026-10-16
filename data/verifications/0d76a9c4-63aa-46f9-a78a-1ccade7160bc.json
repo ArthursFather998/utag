@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:45.397881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bdfc2a00-d567-49ad-a722-5f8b594fd412",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d76a9c4-63aa-46f9-a78a-1ccade7160bc",
+  "input": "{\"title\": \"Powder\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Portals (Deluxe Edition)'",
+  "status": "verified"
+}

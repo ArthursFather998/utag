@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:02.999507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0fb0b98-7591-47f0-bea4-dc68e302f584",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "46598982-3a64-4cb8-bd63-829a63f19318",
+  "input": "{\"title\": \"Rise & Shine\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Emmerdale'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:31.571061+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "076ffec3-b0dd-4844-8bfc-4f56609dace4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68083466-482a-4a79-b95e-7c3283944cec",
+  "input": "{\"title\": \"My Fairy King\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Queen'",
+  "status": "verified"
+}

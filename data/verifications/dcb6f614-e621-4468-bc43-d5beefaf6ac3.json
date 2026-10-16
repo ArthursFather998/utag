@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:18.569723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "651e62ed-073e-47d0-8ac6-efbe67001d2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcb6f614-e621-4468-bc43-d5beefaf6ac3",
+  "input": "{\"title\": \"Strawberry Street\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'In Transition'",
+  "status": "verified"
+}

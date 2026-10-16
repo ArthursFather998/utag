@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:16.355317+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3278ed85-83d3-4008-aa32-189a0b1dc4b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5fe9cf9-d566-4664-83ed-b58ce7a3b975",
+  "input": "{\"title\": \"Poor Little Fool\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Fleetwoods Sing the Best Goodies of the Oldies'",
+  "status": "verified"
+}

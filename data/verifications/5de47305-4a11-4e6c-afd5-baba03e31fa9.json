@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:07.742308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ee0c917-7042-42e2-9840-282f9dce8fbe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5de47305-4a11-4e6c-afd5-baba03e31fa9",
+  "input": "{\"title\": \"Young, Rich & In Love\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Orquídeas'",
+  "status": "verified"
+}

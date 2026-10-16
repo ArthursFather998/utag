@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:02.678753+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a953fc6d-78d3-4827-912a-c0cdc36df6f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebaac678-343d-461f-b6e5-9b7f6d405a7b",
+  "input": "{\"title\": \"Intoxicated\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Stripped'",
+  "status": "verified"
+}

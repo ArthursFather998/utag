@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:39.897966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a160118-9530-41ab-a28b-4bdda66bd095",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e704bb12-eab5-43b3-a8f1-ecb5a6fe5455",
+  "input": "{\"title\": \"We All Want Love\", \"track_number\": 68}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 68 of 'Vinyl Box Set'",
+  "status": "verified"
+}

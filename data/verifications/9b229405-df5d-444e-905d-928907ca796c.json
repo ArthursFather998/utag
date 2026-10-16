@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:51.900018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d82a28b-3ea9-4194-ad67-0aa2df24335a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b229405-df5d-444e-905d-928907ca796c",
+  "input": "{\"title\": \"American Beauty/American Psycho\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

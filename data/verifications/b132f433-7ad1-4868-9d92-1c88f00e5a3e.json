@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:37.92843+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce6192e8-bf99-4709-85b1-a9aa65de94c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b132f433-7ad1-4868-9d92-1c88f00e5a3e",
+  "input": "{\"title\": \"Call Out My Name\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Highlights (Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:22.712348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbe126c1-40b3-4935-bb6e-c7048fa6c729",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a976225-cea9-40c4-9d08-e07479cd28f9",
+  "input": "{\"title\": \"Fat Bottomed Girls\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Stone Cold Classics'",
+  "status": "verified"
+}

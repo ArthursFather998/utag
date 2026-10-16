@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:03.584523+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c12ff13-02fc-434b-8df3-2a56d07c9cb6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54fa9af5-0712-49b5-8cb1-92837cefb190",
+  "input": "{\"title\": \"Big Weenie\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Encore (Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:01.664969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fc7bf20-6881-4466-a97b-fa5a9873b695",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a961cdd-5327-4bfd-83bc-fcf7c781b01c",
+  "input": "{\"title\": \"Drips\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Eminem Show (Expanded Edition)'",
+  "status": "verified"
+}

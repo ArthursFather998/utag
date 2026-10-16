@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:47.745937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0be28f5-6e51-47b3-b331-1b3c725e9d61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dca9621b-fbf7-4a4d-b8e9-a23d8207ad0f",
+  "input": "{\"title\": \"Tell Me Why\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'To Each His Own'",
+  "status": "verified"
+}

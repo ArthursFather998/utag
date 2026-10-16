@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:51.697174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "323d5cba-c06a-4f5a-aee4-0daa27f9a091",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d79d91a2-8794-43aa-baea-ff25505b5ee6",
+  "input": "{\"title\": \"Ode\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'My Own Prison (25th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:01.600026+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d87d517-a48f-4fa9-a5aa-6d73ed4afcea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b07f6078-2438-44cb-bc4b-6d913474339c",
+  "input": "{\"title\": \"Twenty Long Years\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Long Lost'",
+  "status": "verified"
+}

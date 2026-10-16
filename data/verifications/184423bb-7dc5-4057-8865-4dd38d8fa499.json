@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:41.945479+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c1489bb-3a6d-42c4-b530-5de10690cbd2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "184423bb-7dc5-4057-8865-4dd38d8fa499",
+  "input": "{\"title\": \"Feedback\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Feedback'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:36.16679+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ad0aea4-cd53-4e4c-93c1-c1fed00714d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7f57a85-83e6-4781-b08f-130f9d7940b0",
+  "input": "{\"title\": \"My Way\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'My Way (25th Anniversary Edition)'",
+  "status": "verified"
+}

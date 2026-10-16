@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:17.375984+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49f39a35-2128-472e-98fc-af01f047512c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db51a1c3-8672-4264-9aff-bd222b57a4a6",
+  "input": "{\"title\": \"\\\"The Take Over, the Breaks Over\\\"\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live in Phoenix'",
+  "status": "verified"
+}

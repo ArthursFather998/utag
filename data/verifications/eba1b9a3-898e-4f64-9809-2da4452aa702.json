@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:31.367574+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5fe48ac6-02b6-4899-b53a-8276de0ad30a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eba1b9a3-898e-4f64-9809-2da4452aa702",
+  "input": "{\"title\": \"It Takes Time\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Extended Play'",
+  "status": "verified"
+}

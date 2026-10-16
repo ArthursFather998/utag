@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:54.469362+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3e2e633-eb49-4a6a-bc6a-433a8260e34b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c0d1491-a6b4-4cec-b8b8-b3718329f807",
+  "input": "{\"title\": \"Postcards from Richard Nixon\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Captain & the Kid'",
+  "status": "verified"
+}

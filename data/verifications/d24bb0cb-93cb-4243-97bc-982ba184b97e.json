@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:16.664932+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a8fc9c18-9a19-4eb5-b627-62e6bb2aff73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d24bb0cb-93cb-4243-97bc-982ba184b97e",
+  "input": "{\"title\": \"The Good Life\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Life Starts Now'",
+  "status": "verified"
+}

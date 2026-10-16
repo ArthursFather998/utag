@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:13.490655+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "adbcb07a-7d47-46c3-b28f-2a96055b6a80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f84cfe9c-b5ee-499d-b04d-5d1c2111de9d",
+  "input": "{\"title\": \"Si La Quieres\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'La Leyenda'",
+  "status": "verified"
+}

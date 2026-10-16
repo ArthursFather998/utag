@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:08.235649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6472ca3c-8d9f-45bc-bde0-fc585a13e6ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca2678f4-282d-4ee1-b090-06218412cfba",
+  "input": "{\"title\": \"Real Baby Pluto (featuring Lil Uzi Vert)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Pluto x Baby Pluto'",
+  "status": "verified"
+}

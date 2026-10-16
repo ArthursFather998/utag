@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:48.690041+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ad23c26-ee58-4111-a1db-46d2568de7ba",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ac552b85-00c3-494d-97c8-74a33c7604c0",
+  "input": "{\"title\": \"Stop the Car\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

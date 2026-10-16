@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:14.125421+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61773ca0-575e-4326-861f-57aadac54978",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f09a5659-1e46-4da4-bef9-a2619c32187e",
+  "input": "{\"title\": \"Cien A\\u00f1os\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Preciosa'",
+  "status": "verified"
+}

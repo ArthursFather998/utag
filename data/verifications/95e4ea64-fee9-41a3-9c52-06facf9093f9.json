@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:02.920985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e896430f-f310-4f52-b14a-db9c3464860b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "95e4ea64-fee9-41a3-9c52-06facf9093f9",
+  "input": "{\"title\": \"On a Saturday Night\", \"release_type\": \"single\", \"release_year\": 1976}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

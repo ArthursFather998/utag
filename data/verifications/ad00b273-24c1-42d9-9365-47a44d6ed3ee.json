@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:01.009867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5624f536-1d66-4c9d-aee5-968eac0ef69a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad00b273-24c1-42d9-9365-47a44d6ed3ee",
+  "input": "{\"title\": \"When I Think of You\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Design of a Decade: 1986–1996'",
+  "status": "verified"
+}

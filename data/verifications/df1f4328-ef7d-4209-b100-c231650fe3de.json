@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:33.624513+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c58c716b-ab46-48d7-84ba-4061e5343da8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df1f4328-ef7d-4209-b100-c231650fe3de",
+  "input": "{\"title\": \"Whoops Now\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

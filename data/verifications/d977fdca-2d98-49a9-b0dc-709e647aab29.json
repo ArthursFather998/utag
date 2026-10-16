@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:17.621565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc48ec2b-d261-4254-9564-4738e9e4773b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d977fdca-2d98-49a9-b0dc-709e647aab29",
+  "input": "{\"title\": \"Dot (The E-Poppi Mix)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'This Is the Remix'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:34.677913+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ae90b99-47ac-4267-b5d0-2461c3440310",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca1ad453-3620-415c-b051-6cc9b567334c",
+  "input": "{\"title\": \"No Half Steppin'\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'J.E. Heartbreak II'",
+  "status": "verified"
+}

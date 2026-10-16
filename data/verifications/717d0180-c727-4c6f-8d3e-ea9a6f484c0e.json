@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:54.014265+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "338bfd58-4737-4047-9c12-c90b521b778e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "717d0180-c727-4c6f-8d3e-ea9a6f484c0e",
+  "input": "{\"title\": \"Karma\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'In Tokyo 2025'",
+  "status": "verified"
+}

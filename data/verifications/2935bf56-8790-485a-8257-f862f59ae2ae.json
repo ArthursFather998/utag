@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:57.336902+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae91546f-0398-4a58-9ac8-5daf7df15b08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2935bf56-8790-485a-8257-f862f59ae2ae",
+  "input": "{\"title\": \"Saturday Night's Alright for Fighting\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Saturday Night's Alright for Fighting'",
+  "status": "verified"
+}

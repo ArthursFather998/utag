@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:51.44635+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db885bfe-3f28-4e9f-8209-54c62104a4c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb36b5c8-20f3-44b3-a451-2146620bc452",
+  "input": "{\"title\": \"My Baby's Good to Me\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Black Magic Woman'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:45.754322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e12db1b6-1401-461e-8abe-c2ea3eb03484",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce15628e-05ed-4147-b21d-35a9d2e81c42",
+  "input": "{\"title\": \"Rockin' Boogie\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'The Essential Fleetwood Mac'",
+  "status": "verified"
+}

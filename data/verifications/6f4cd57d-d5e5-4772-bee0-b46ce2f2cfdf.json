@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:28.361627+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d178d63-3daf-4903-9e71-a3cb12302ac1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f4cd57d-d5e5-4772-bee0-b46ce2f2cfdf",
+  "input": "{\"title\": \"When to Say When\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Dark Lane Demo Tapes'",
+  "status": "verified"
+}

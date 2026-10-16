@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:57.532286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3bcd235-37db-4c84-8faa-9a93b59ccb3d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1f46f6f6-24de-4819-b701-16486d17317e",
+  "input": "{\"title\": \"Chains\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:23.834943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0bde7ca7-561a-41e6-9b86-a328c12f7ebf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80a7a6ed-0d90-4e4d-91f9-af6daeca3efa",
+  "input": "{\"title\": \"Feed Your Horses\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Appaloosa Bones'",
+  "status": "verified"
+}

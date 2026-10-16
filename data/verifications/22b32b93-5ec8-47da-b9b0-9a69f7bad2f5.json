@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:51.938378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9360cfc6-5fb5-4579-872b-658afc722436",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "22b32b93-5ec8-47da-b9b0-9a69f7bad2f5",
+  "input": "{\"title\": \"I Know What You Want\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

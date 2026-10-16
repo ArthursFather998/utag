@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:55.826094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3fa54d6-0eb7-48c8-b623-4f98fa210e7f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2f4597f2-b178-4b86-a491-3f73a8634170",
+  "input": "{\"title\": \"Only Human\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

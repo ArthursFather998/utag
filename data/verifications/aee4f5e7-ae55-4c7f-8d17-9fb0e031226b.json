@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:25.89508+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da57895f-b424-43fe-b25a-375c0ede03b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aee4f5e7-ae55-4c7f-8d17-9fb0e031226b",
+  "input": "{\"title\": \"What You Need\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Trilogy'",
+  "status": "verified"
+}

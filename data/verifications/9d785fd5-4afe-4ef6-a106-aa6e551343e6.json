@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:07.055237+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0d2d2e6-4ac7-4466-95d5-e097eca2b2ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d785fd5-4afe-4ef6-a106-aa6e551343e6",
+  "input": "{\"title\": \"Cuffs\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'A Jagged Love Story'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:58.117456+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de48239d-e9dc-41a7-a1a7-d7be8b02c9e8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43c5f141-e463-47a2-b92f-baafcb6b9632",
+  "input": "{\"title\": \"In America\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'My Own Prison (25th Anniversary Edition)'",
+  "status": "verified"
+}

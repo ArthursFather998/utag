@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:19.566902+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab0e069f-8718-46b8-93bf-ffbf71cf1d68",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f8eca68e-34b0-445b-9013-429ca0df16c2",
+  "input": "{\"title\": \"I Cry\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

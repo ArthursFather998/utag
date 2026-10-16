@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:59.394782+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01e357a3-f83d-486d-8e5d-9bffbd275280",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a6a485b-2f35-404d-b8fb-b8640468c96e",
+  "input": "{\"title\": \"Sunshine, Lollipops and Rainbows\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Lesley Gore Anthology'",
+  "status": "verified"
+}

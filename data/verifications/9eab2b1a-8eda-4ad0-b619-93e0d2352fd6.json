@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:57.994423+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98d1e8da-6aff-4f7a-a22d-01fbd04267dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9eab2b1a-8eda-4ad0-b619-93e0d2352fd6",
+  "input": "{\"title\": \"Diamond Piano Freestyle (Outro)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Diamonds'",
+  "status": "verified"
+}

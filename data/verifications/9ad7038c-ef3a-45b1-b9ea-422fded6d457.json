@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:36.859775+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3436a2af-6b4f-48e7-a342-c340e27ebb98",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ad7038c-ef3a-45b1-b9ea-422fded6d457",
+  "input": "{\"title\": \"DOING IT AGAIN BABY\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'DOING IT AGAIN BABY'",
+  "status": "verified"
+}

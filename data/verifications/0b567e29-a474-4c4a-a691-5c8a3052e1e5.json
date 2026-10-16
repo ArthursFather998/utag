@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:12.399512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfa5e5ea-dc2c-475b-b5eb-da44c227df97",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b567e29-a474-4c4a-a691-5c8a3052e1e5",
+  "input": "{\"title\": \"I Remember Loving You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Name Is Love'",
+  "status": "verified"
+}

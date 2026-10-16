@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:51.838101+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f08a8754-35e8-4bf4-abaa-3a14b2e776ac",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3ed01afc-fb20-40da-b8f2-7e1aa428b742",
+  "input": "{\"title\": \"Try Again\", \"release_type\": \"single\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:02.319638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "192f997c-284c-4e59-9021-a95b3ac73c66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab9ae239-7a04-43e3-9313-49ee1a108a2a",
+  "input": "{\"title\": \"Can't Feel My Legs\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Can't Feel My Legs'",
+  "status": "verified"
+}

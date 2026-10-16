@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:56.59518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae8799a3-9b9a-44ec-bc9f-bbc4e41b7e14",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1943b1e1-e576-49bc-89cf-24a402ca0daa",
+  "input": "{\"title\": \"Mikey and the Frogs\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

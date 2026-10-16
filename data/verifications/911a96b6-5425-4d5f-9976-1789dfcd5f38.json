@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:15.68388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1cefb6f-a4e1-486f-a917-691496b5bb36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "911a96b6-5425-4d5f-9976-1789dfcd5f38",
+  "input": "{\"title\": \"Tear It Up\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Queen Rocks'",
+  "status": "verified"
+}

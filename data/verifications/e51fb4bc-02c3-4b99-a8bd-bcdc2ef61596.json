@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:02.418408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ba62e1b-dc39-4621-b5aa-ee6f75fedbb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e51fb4bc-02c3-4b99-a8bd-bcdc2ef61596",
+  "input": "{\"title\": \"Sixteen Lines\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Come Over When You're Sober, Pt. 2 (OG Version)'",
+  "status": "verified"
+}

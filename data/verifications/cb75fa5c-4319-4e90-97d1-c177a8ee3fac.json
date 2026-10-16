@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:14.036353+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "06e55178-8ebb-4eeb-81e0-64b803783da8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb75fa5c-4319-4e90-97d1-c177a8ee3fac",
+  "input": "{\"title\": \"Warm Love in a Cold World\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Victim of Love'",
+  "status": "verified"
+}

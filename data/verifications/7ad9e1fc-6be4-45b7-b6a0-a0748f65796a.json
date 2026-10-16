@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:11.698293+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25e6fe11-77a8-46f9-b388-329cb52bd57b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ad9e1fc-6be4-45b7-b6a0-a0748f65796a",
+  "input": "{\"title\": \"Window (Actress Remix)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'In Tongues (Deluxe)'",
+  "status": "verified"
+}

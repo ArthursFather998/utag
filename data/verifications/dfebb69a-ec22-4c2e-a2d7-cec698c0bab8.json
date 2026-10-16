@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:14.224856+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42dc3adb-94ec-410c-9ddf-a4f4cf189f76",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dfebb69a-ec22-4c2e-a2d7-cec698c0bab8",
+  "input": "{\"title\": \"Rules\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

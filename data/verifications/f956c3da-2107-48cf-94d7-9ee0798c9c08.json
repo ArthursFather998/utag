@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:50.415341+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bb8108f-4a5b-42c2-b790-01df0a792e4d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f956c3da-2107-48cf-94d7-9ee0798c9c08",
+  "input": "{\"title\": \"Together Again\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Velvet Rope'",
+  "status": "verified"
+}

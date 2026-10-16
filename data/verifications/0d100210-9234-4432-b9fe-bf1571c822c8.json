@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:10.82139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4e5ff52-deb8-4453-833a-af5ad952d1c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d100210-9234-4432-b9fe-bf1571c822c8",
+  "input": "{\"title\": \"Got to Move\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'London Live '68'",
+  "status": "verified"
+}

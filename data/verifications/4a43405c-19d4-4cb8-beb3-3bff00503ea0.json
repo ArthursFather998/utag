@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:49.226506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb38dd49-a440-48ac-a287-98a6a58ce9e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a43405c-19d4-4cb8-beb3-3bff00503ea0",
+  "input": "{\"title\": \"Primaveral\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mon Laferte. Amor Completo'",
+  "status": "verified"
+}

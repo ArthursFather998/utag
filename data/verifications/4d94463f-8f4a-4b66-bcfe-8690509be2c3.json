@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:14.045538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a57f860b-e784-4a7e-8622-c4c90fb1afe9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d94463f-8f4a-4b66-bcfe-8690509be2c3",
+  "input": "{\"title\": \"Until I Found You (Em Beihold Version)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Until I Found You (Em Beihold Version)'",
+  "status": "verified"
+}

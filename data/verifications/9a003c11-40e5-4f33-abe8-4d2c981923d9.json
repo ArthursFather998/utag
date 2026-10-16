@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:49.944049+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a58e441-15f3-49fc-b67e-06556bd7d4d4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9a003c11-40e5-4f33-abe8-4d2c981923d9",
+  "input": "{\"title\": \"The Land: The Live Album\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:42:26.927963+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b08bffb4-7f06-4bf9-a592-0dcf10a11d0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "400bc64f-04a2-4c43-96a7-5c0e1ccaed92",
+  "input": "{\"title\": \"Bosnia\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'To the Faithful Departed'",
+  "status": "verified"
+}

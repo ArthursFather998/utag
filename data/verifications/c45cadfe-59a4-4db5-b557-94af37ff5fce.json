@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:22.364952+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a9a90e90-e828-4474-8d2d-74b237f47c18",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c45cadfe-59a4-4db5-b557-94af37ff5fce",
+  "input": "{\"title\": \"Bohemian Rhapsody: The Original Soundtrack\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

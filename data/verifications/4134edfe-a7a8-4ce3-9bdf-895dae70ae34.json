@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:00.389112+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3551d57a-f4ea-4205-82f8-9c0b4d7b236b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4134edfe-a7a8-4ce3-9bdf-895dae70ae34",
+  "input": "{\"title\": \"Nancy\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Softly'",
+  "status": "verified"
+}

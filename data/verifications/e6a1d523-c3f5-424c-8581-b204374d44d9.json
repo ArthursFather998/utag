@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:19.332626+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96605afd-db6a-4c10-a8a5-af160a4d6b42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6a1d523-c3f5-424c-8581-b204374d44d9",
+  "input": "{\"title\": \"Shut It Down\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Thank Me Later'",
+  "status": "verified"
+}

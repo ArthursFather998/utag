@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:14.647889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27e5b88b-cd04-4ec3-89a9-62a0868e87d4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8270434a-6e9c-4830-8c14-6ee47fe28ec7",
+  "input": "{\"title\": \"This I Promise You\", \"release_type\": \"single\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

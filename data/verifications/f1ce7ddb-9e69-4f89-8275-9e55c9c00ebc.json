@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:23.817977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f956c87-72d7-42ab-b751-9ee5e6426cd6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f1ce7ddb-9e69-4f89-8275-9e55c9c00ebc",
+  "input": "{\"title\": \"Hollywood\", \"release_type\": \"single\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

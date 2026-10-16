@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:50.197886+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e47cdb9d-44e7-4252-afbd-587a803ba176",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c46b4ce-d6e6-4ecf-af33-3c097fb31403",
+  "input": "{\"title\": \"Medium Fries\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Medium Fries'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:32.4691+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05b150f8-16e4-4496-a2b9-3b98fa9edb68",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "58ab8608-fa4d-4d95-b3a9-f565b2ba0a23",
+  "input": "{\"title\": \"Your Man\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

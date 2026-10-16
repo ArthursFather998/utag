@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:13.105616+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e59466d-4b75-423b-a093-f2f9798fc5d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43e7fd3e-007a-4a62-a038-237422fcd411",
+  "input": "{\"title\": \"Rather Hate Than Hurt\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'When the Smoke Clears'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:50.394106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3cc2286-5923-42a6-a016-5a7df87ca529",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a382294-9d5d-445c-a2fa-ef54facf8967",
+  "input": "{\"title\": \"One Time (Acoustic Version)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'My Worlds: The Collection'",
+  "status": "verified"
+}

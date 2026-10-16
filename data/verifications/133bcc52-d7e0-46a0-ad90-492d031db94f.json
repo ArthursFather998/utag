@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:25.817086+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6f2c8ce-3f85-4ef8-ac8b-20f523a631af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "133bcc52-d7e0-46a0-ad90-492d031db94f",
+  "input": "{\"title\": \"Heaven's Gate\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Mania'",
+  "status": "verified"
+}

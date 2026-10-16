@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:01.622372+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d35d6337-1913-4792-b29a-f91ff4d8f2e9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "93bbddea-40b5-450a-ba39-84935fcf564d",
+  "input": "{\"title\": \"The Hurting\", \"release_type\": \"album\", \"release_year\": 1983}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:17.44725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f77c842-fe6d-4187-85e2-4c04e54c132a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "974cfd6e-ffc1-4d92-b844-128637230f5b",
+  "input": "{\"title\": \"I Loved Another Woman\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Collection'",
+  "status": "verified"
+}

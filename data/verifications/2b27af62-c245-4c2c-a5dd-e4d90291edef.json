@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:13.681156+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83092eda-d92a-45ae-a628-49b11c7589db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b27af62-c245-4c2c-a5dd-e4d90291edef",
+  "input": "{\"title\": \"Unchained Melody (A Cappella Version)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Come Softly to Me: The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

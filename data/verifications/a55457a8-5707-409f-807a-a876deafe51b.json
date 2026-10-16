@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:18.234695+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "26894238-8cf2-4d70-8850-2fc88cbb8eff",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a55457a8-5707-409f-807a-a876deafe51b",
+  "input": "{\"title\": \"Little Drummer Boy\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:57.513183+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f90d65ac-5bbe-42a6-a2e4-8476e1561e3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd44daa9-b172-48e3-bafb-a0d929b7c931",
+  "input": "{\"title\": \"Shutcho\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Scarlet'",
+  "status": "verified"
+}

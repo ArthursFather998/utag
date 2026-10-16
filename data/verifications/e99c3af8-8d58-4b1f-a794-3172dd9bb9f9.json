@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:25.767429+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ebbfb4b-f54b-44e4-aacd-0e4fef17d810",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e99c3af8-8d58-4b1f-a794-3172dd9bb9f9",
+  "input": "{\"title\": \"I Want You Back\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Greatest Hits'",
+  "status": "verified"
+}

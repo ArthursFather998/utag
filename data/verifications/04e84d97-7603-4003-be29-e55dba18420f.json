@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:16.090298+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86fe9996-3c91-4eff-98ee-bb9e0d48a34a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04e84d97-7603-4003-be29-e55dba18420f",
+  "input": "{\"title\": \"Unbreakable\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Unplugged'",
+  "status": "verified"
+}

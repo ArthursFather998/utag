@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:01.955654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "909641b1-6aaa-4388-b485-62973a765c9a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e9f1ce04-91ff-48df-8575-f67eb50a1f25",
+  "input": "{\"title\": \"Fire Escape\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

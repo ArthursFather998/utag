@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:36.731577+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e111c7f6-109c-440a-bfcb-9ac276d22dd3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f483a8e-f7b1-447d-8b9d-6abdc987baaf",
+  "input": "{\"title\": \"Exxus\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Glass Animals'",
+  "status": "verified"
+}

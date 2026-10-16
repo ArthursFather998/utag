@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:41:25.201588+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "580f7341-e045-4921-95fb-f9dc15652d63",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a20c6f1-ca20-4291-ba4c-904e5c8158d7",
+  "input": "{\"title\": \"The Icicle Melts\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'No Need to Argue'",
+  "status": "verified"
+}

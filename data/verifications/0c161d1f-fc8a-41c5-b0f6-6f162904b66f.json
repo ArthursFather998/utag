@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:09.500171+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87252ec2-685f-498b-8c2c-910d66d9b565",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c161d1f-fc8a-41c5-b0f6-6f162904b66f",
+  "input": "{\"title\": \"DUI\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'We Love You Tecca'",
+  "status": "verified"
+}

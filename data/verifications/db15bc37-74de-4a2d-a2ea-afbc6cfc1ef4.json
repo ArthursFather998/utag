@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:45.317409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88c2948d-2c87-4add-b532-13a0cb0eced4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db15bc37-74de-4a2d-a2ea-afbc6cfc1ef4",
+  "input": "{\"title\": \"Mothers Talk (Alternate U.S. Remix)\", \"track_number\": 42}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 42 of 'Songs from the Big Chair (40th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:34.935908+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c40ec687-c8f0-4dad-bdf6-1fcc78cfa0ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f40b5832-2395-4b37-8a38-00204c8c97d8",
+  "input": "{\"title\": \"Northstar\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Northstar'",
+  "status": "verified"
+}

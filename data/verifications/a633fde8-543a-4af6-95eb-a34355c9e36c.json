@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:23.651914+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5961ccc-a091-400d-8100-1ca58b3337c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a633fde8-543a-4af6-95eb-a34355c9e36c",
+  "input": "{\"title\": \"Nails for Breakfast, Tacks for Snacks (Live in Denver)\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'A Fever You Can't Sweat Out (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

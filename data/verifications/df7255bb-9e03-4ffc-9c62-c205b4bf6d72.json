@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:12.907177+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f91cfc1c-1529-4b92-a0ff-440f7ee99b40",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df7255bb-9e03-4ffc-9c62-c205b4bf6d72",
+  "input": "{\"title\": \"Queen of Compromise\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Raoul and the Kings of Spain (2009 Reissue)'",
+  "status": "verified"
+}

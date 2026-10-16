@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:17.285263+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eecaf4d1-0515-4d79-9afc-8e6ebab6288e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea715b6b-8e4a-486d-ac7a-da6c711368da",
+  "input": "{\"title\": \"Shame\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Shame'",
+  "status": "verified"
+}

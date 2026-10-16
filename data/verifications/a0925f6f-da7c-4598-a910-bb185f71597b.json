@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:13.607149+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b135f99a-fed6-4538-a8dd-b24be657989c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a0925f6f-da7c-4598-a910-bb185f71597b",
+  "input": "{\"title\": \"8 Mile\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

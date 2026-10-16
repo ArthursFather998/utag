@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:42.735945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6678509c-be03-4094-b8f5-d6f24732c932",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c436865-d8e6-421f-ba02-f438a1a0d8b2",
+  "input": "{\"title\": \"Love When You Call My Name\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Keys'",
+  "status": "verified"
+}

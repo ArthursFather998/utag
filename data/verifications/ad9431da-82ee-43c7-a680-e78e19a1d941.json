@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:22.887477+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "deeb977a-3c5e-4b4e-98c4-0487b5833418",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad9431da-82ee-43c7-a680-e78e19a1d941",
+  "input": "{\"title\": \"Broken Clocks\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Broken Clocks'",
+  "status": "verified"
+}

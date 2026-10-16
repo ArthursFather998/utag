@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:46.359196+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c090b2d9-71c3-4d7f-9f30-f92910c506b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f0cbe44-435b-4943-8d21-cf67279211de",
+  "input": "{\"title\": \"We Build Then We Break\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live from the 9:30 Club: Bootleg No. 3'",
+  "status": "verified"
+}

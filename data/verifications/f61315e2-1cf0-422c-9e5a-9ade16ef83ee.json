@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:26.346677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3564f571-0847-4f86-878d-e87a07e8ec88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f61315e2-1cf0-422c-9e5a-9ade16ef83ee",
+  "input": "{\"title\": \"Plain (skit)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Come Up'",
+  "status": "verified"
+}

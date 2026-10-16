@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:33.21205+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d695e7d-86d4-42f6-81c5-18b4959a1bd6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f48a538-6991-4e29-9cb3-b6da92c7ed8c",
+  "input": "{\"title\": \"Don't Stop (Funkin' 4 Jamaica)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Stop (Funkin' 4 Jamaica)'",
+  "status": "verified"
+}

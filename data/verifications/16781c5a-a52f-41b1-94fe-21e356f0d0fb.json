@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:34.83152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db1f82d3-313a-4962-9c49-58b967395b1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16781c5a-a52f-41b1-94fe-21e356f0d0fb",
+  "input": "{\"title\": \"I Care for U\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Looking 4 Myself'",
+  "status": "verified"
+}

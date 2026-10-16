@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:06.894242+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10998bc3-5e3b-4886-b110-4323d1dac48b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d4b2bbd-de83-47f5-84e8-8e9c8d55cf3d",
+  "input": "{\"title\": \"Once in a Lifetime\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Four (The Ultimate Edition)'",
+  "status": "verified"
+}

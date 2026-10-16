@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:55.895137+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd37038d-9225-471b-9396-8e74015f9849",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa8c9d5a-d961-4acd-894a-70640fa22a26",
+  "input": "{\"title\": \"Pity for a Dime\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'My Own Prison (25th Anniversary Edition)'",
+  "status": "verified"
+}

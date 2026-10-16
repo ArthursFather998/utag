@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:49.592297+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "571e5e3f-5a65-4a90-9431-f4158d9402d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "149223ee-8cc7-4982-8b76-eef44c278a0b",
+  "input": "{\"title\": \"Pas de Cheval\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Pretty. Odd.'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:29.225617+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed284c2a-bc3a-4a44-a1f6-aafc9db67507",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdc6ffac-1e09-4191-99f0-81a0d051b742",
+  "input": "{\"title\": \"Lasse's Favorite Song\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'iTunes Originals'",
+  "status": "verified"
+}

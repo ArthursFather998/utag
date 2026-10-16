@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:57.802683+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85de1139-fa64-42cc-bc0c-bc25e478a205",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21e2d7f4-1bdb-48cb-a5d3-adfa80c9ffc1",
+  "input": "{\"title\": \"Brown Eyes\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Survivor'",
+  "status": "verified"
+}

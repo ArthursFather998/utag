@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:46.567519+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9fa507e-c882-44ce-b61a-0aa8b3511bde",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0a8952d-f13f-41fa-a0a3-d4429abe113a",
+  "input": "{\"title\": \"Pa'Qu\\u00e9 Me Sirve La Vida\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Alpha'",
+  "status": "verified"
+}

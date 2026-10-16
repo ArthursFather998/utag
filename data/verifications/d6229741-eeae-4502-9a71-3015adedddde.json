@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:32.836614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6bc4afd-9346-4dc8-bbcb-8b1ff3fa899d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6229741-eeae-4502-9a71-3015adedddde",
+  "input": "{\"title\": \"Another One Bites the Dust\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

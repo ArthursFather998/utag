@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:17.38228+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79128fde-76f6-48c4-adba-dbf4f72e662e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83a16a95-aaaf-4c1f-b002-b3712f5a3cd8",
+  "input": "{\"title\": \"Astronauts\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Wrld on Drugs'",
+  "status": "verified"
+}

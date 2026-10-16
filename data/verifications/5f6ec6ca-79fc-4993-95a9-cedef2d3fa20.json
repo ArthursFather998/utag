@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:43.755638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ff013eb-00c8-483d-84ff-31381ff67fd2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f6ec6ca-79fc-4993-95a9-cedef2d3fa20",
+  "input": "{\"title\": \"Unbreakable\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Unplugged (20th Anniversary)'",
+  "status": "verified"
+}

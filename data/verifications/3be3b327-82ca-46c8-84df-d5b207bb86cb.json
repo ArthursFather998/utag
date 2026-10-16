@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:24.129917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49af410d-75ae-4d1e-9a65-66473197844a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3be3b327-82ca-46c8-84df-d5b207bb86cb",
+  "input": "{\"title\": \"Live Forever\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

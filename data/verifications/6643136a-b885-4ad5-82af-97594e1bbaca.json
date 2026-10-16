@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:53.341472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b420db59-a7ed-40fa-ba7d-ff1948b53414",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6643136a-b885-4ad5-82af-97594e1bbaca",
+  "input": "{\"title\": \"Disc 1 - Time to Go\", \"track_number\": 32}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 32 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

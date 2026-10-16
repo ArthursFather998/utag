@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:00.827642+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "efed387e-7440-4caa-aa76-83f0d9d33056",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3f94e93-ba77-4779-9d2c-e9cc75f29720",
+  "input": "{\"title\": \"Crushed\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of '(((((ultraSOUND)))))+'",
+  "status": "verified"
+}

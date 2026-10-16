@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:47.542415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27a8378b-e4e9-4a82-b1b3-e8f374bb70ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5802a649-de6d-4183-b9ee-ce1e84521e72",
+  "input": "{\"title\": \"It's All About Music\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'It's All About Music'",
+  "status": "verified"
+}

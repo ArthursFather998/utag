@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:13.053173+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e2706ad-7a34-4b30-a840-088d9ec0afe5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a45a5892-63cd-4d35-88fe-4f493a271a36",
+  "input": "{\"title\": \"The Diving Board\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:21.955954+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2c497d1-44b4-4a14-8e94-2e76107c8c88",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c45ee5e2-0ab4-4f2b-a171-902e8c0ebf18",
+  "input": "{\"title\": \"When We Were Kings\", \"release_type\": \"single\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

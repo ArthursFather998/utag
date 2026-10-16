@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:38.164168+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0a27adc-86db-4616-9b73-cf624ef1a7c9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f7fba2eb-de54-4c96-aee0-57848ec1e3f8",
+  "input": "{\"title\": \"Circles\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:53.39064+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ed7fa13-1f77-49eb-bada-bf0819bd89ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c75c9e05-d1c1-4fe6-919b-abc6508220c8",
+  "input": "{\"title\": \"OVERKILL\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'REPRISAL'",
+  "status": "verified"
+}

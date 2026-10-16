@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:11.784257+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d78bb800-3039-490e-9424-21f1d9dba170",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a43e0ab2-2398-4442-8a54-d89607504cb0",
+  "input": "{\"title\": \"The Last of the Real Ones\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Last of the Real Ones'",
+  "status": "verified"
+}

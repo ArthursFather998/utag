@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:24.960431+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a8008b8-48dc-4ca4-8c12-277f7ce4acb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "989f9cb5-2db7-4a19-8f24-a3aacc2e0812",
+  "input": "{\"title\": \"Farewell\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Friday Night Lights'",
+  "status": "verified"
+}

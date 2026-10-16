@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:52.706203+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07266286-225e-4143-88ca-718d9f9b40ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cccf642-9f84-4f57-bea8-59c9557771b9",
+  "input": "{\"title\": \"Eric\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Lush'",
+  "status": "verified"
+}

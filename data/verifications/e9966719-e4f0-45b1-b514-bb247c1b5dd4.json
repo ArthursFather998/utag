@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:20.056618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "319d7941-7fc0-4c9b-9cc2-f16e6a6feb09",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e9966719-e4f0-45b1-b514-bb247c1b5dd4",
+  "input": "{\"title\": \"Did You Know That There's a Tunnel Under Ocean Blvd\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

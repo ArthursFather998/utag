@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:30.524012+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8fc40d6d-cebf-42c9-8228-9282adec7ec4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0246086c-a575-491c-a4a5-4318a550e07b",
+  "input": "{\"title\": \"Yves\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tec'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:53.895117+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19575b81-7520-4b9d-8b10-c1236f58ab9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2fcdedf3-775d-4c7a-997c-67c289c95b24",
+  "input": "{\"title\": \"Going Through Changes\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Recovery'",
+  "status": "verified"
+}

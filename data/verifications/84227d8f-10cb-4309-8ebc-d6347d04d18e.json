@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:11.855953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83ce9359-0e6d-4ac8-a0ce-91768767270e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84227d8f-10cb-4309-8ebc-d6347d04d18e",
+  "input": "{\"title\": \"Your Other Life\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Your Other Life'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:19.712401+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20877fc4-d96a-4c60-a437-d04d4b600c78",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d3222c8-1be9-49d8-b26c-9879c223bea4",
+  "input": "{\"title\": \"Away in Silence\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Full Circle'",
+  "status": "verified"
+}

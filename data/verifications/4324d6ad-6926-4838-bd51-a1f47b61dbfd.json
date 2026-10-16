@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:37.719376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1063eaa-6feb-49c6-95d6-eeb94a06bfb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4324d6ad-6926-4838-bd51-a1f47b61dbfd",
+  "input": "{\"title\": \"World Is Empty\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Warm Up'",
+  "status": "verified"
+}

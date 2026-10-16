@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:44.796481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ea56d9f-d16f-4526-9b76-16d864851e38",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd3e1025-b02d-45e2-a988-da9d27bff208",
+  "input": "{\"title\": \"Nikita\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Love Songs'",
+  "status": "verified"
+}

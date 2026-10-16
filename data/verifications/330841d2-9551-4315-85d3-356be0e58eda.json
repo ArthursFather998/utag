@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:32.853505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3218666f-1f8b-4d78-800c-d260f557555f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "330841d2-9551-4315-85d3-356be0e58eda",
+  "input": "{\"title\": \"Todos Quieren Ser Un Gato Jazz\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Todos Quieren Ser Un Gato Jazz'",
+  "status": "verified"
+}

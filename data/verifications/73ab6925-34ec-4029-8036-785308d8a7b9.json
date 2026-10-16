@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:12.422722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7374c79-05a7-4350-b071-1a6e9733d189",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73ab6925-34ec-4029-8036-785308d8a7b9",
+  "input": "{\"title\": \"Missin' You (Freestyle)\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Comeback Season'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:54.021698+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df47b95d-1baf-4f1b-848f-2eeeca528a6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f791166-76ec-4e38-a487-35780b6a54f4",
+  "input": "{\"title\": \"Funny How Love Is\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Queen II (Deluxe Remastered Version)'",
+  "status": "verified"
+}

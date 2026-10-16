@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:38.647702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "93f909db-8f18-4ae9-913b-52f44481b956",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "887381ac-2451-4669-bdcf-b89578f7ae04",
+  "input": "{\"title\": \"Merry Go Round\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Black Magic Woman'",
+  "status": "verified"
+}

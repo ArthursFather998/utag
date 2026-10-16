@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:25.413659+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45ee4c5d-b321-464c-8d77-b6d289400c00",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "16f958d4-0914-4881-b1e8-dac568cae162",
+  "input": "{\"title\": \"Cheers to Goodbye\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

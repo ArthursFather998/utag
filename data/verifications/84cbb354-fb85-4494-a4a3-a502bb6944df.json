@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:20.204211+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "caf4fbf6-f336-473b-818b-38899ebf52d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84cbb354-fb85-4494-a4a3-a502bb6944df",
+  "input": "{\"title\": \"Hourglass\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Regimental Sgt. Zippo'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:51.702932+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4377916f-92d4-4bff-ada2-65fbda582343",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be8a0126-d309-488d-927b-a114e6bafc5b",
+  "input": "{\"title\": \"Breathe Your Name\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Best of Sixpence None the Richer'",
+  "status": "verified"
+}

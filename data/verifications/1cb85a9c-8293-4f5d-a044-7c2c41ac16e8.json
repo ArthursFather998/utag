@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:48.765995+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ff49811-c452-41d5-a7c4-efa6b02410d0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1cb85a9c-8293-4f5d-a044-7c2c41ac16e8",
+  "input": "{\"title\": \"Animal Instinct\", \"release_type\": \"single\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

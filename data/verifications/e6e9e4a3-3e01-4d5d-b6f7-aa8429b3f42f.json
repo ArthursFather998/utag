@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:16.351683+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa81f6ed-a794-4764-a8eb-a62bae40e671",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6e9e4a3-3e01-4d5d-b6f7-aa8429b3f42f",
+  "input": "{\"title\": \"Go Your Own Way\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Rumours Live'",
+  "status": "verified"
+}

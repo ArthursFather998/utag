@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:27.91322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b44847fb-bc6c-45ce-bafd-4d4641325866",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2e54f0e2-64c2-4164-a72a-e059dbea3cef",
+  "input": "{\"title\": \"Get on the Bus\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

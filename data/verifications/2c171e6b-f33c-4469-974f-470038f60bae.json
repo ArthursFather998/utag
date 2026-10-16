@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:34.783412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3dd79757-bd3e-475c-af59-3fbb26214450",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c171e6b-f33c-4469-974f-470038f60bae",
+  "input": "{\"title\": \"Missing My Baby\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '12 Super Éxitos'",
+  "status": "verified"
+}

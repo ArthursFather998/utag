@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:53.278031+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6ab7587-5584-4d92-96bc-3996f77cd0b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee3fc1d0-90bd-41af-a2c1-1192516f1464",
+  "input": "{\"title\": \"The Last Time\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '3 CD Collector's Set'",
+  "status": "verified"
+}

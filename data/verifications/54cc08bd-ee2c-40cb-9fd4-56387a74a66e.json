@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:57.396011+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8f5e8e5-5b8f-49f5-8a07-8482848b876a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54cc08bd-ee2c-40cb-9fd4-56387a74a66e",
+  "input": "{\"title\": \"White Queen (As It Began) (Live at Hammersmith Odeon, December 1975)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Queen II (Deluxe Remastered Version)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:17.376023+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce8e86f1-eab8-4ad4-8ed5-cf5b5ef8651b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "648d79f1-9183-4a30-9b31-0406e05eea5a",
+  "input": "{\"title\": \"Flaws\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Bridges'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:26.903276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ada1685-1346-4464-bff6-041ca3c90b21",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4844a44-dcec-4ea4-9a6a-c02c5f3eb82b",
+  "input": "{\"title\": \"Sugar, We're Goin Down (Acoustic Version)\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'From Under the Cork Tree (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

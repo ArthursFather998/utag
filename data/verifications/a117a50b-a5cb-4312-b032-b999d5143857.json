@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:39.049105+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "661e9528-91d0-4046-842d-2d4c4566efcd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a117a50b-a5cb-4312-b032-b999d5143857",
+  "input": "{\"title\": \"Raining in Houston\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Some Sexy Songs 4 U'",
+  "status": "verified"
+}

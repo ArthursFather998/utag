@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:41.471106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb282357-3365-49b0-a093-bf905b9af0c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f5e9b35-9a30-488b-a114-eca03934708c",
+  "input": "{\"title\": \"Pools\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Zaba'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:51.390308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b043a83-406b-4af1-b895-eaa712b6c1e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c65a68b-b69d-4b58-bd09-473c6b97d3f6",
+  "input": "{\"title\": \"Hey Now\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '20th Century Masters: The Millennium Collection'",
+  "status": "verified"
+}

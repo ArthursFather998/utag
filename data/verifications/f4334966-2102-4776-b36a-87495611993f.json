@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:10.457115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea5fd68c-0811-4eec-9ce2-293d8c844d3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4334966-2102-4776-b36a-87495611993f",
+  "input": "{\"title\": \"Lucid Dreams\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Goodbye & Good Riddance'",
+  "status": "verified"
+}

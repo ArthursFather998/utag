@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:35.698888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9559efbf-59f8-4853-868c-7fbc01ed4e97",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95699057-d475-4c4f-b7b8-18f76f6d3e3a",
+  "input": "{\"title\": \"Keep Yourself Alive (De Lane Lea Demo, December 1971)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Queen (Deluxe Remastered Version)'",
+  "status": "verified"
+}

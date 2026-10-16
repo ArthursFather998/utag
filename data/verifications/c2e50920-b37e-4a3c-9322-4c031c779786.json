@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:34.743444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d5a3694-ead1-4199-a3ca-b8a3248a60c3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c2e50920-b37e-4a3c-9322-4c031c779786",
+  "input": "{\"title\": \"I'm Still Standing\", \"release_type\": \"single\", \"release_year\": 1983}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

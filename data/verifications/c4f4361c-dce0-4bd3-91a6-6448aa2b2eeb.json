@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:07.802275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c507afe-51c3-4592-85af-cb93aa243f03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4f4361c-dce0-4bd3-91a6-6448aa2b2eeb",
+  "input": "{\"title\": \"Goodbye\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Playlist: The Very Best of Jagged Edge'",
+  "status": "verified"
+}

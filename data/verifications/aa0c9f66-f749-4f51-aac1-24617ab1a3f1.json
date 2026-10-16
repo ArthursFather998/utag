@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:28.250581+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fbe3d296-bb40-4928-a8d3-05023e44e500",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aa0c9f66-f749-4f51-aac1-24617ab1a3f1",
+  "input": "{\"title\": \"Rumours\", \"release_type\": \"album\", \"release_year\": 1977}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

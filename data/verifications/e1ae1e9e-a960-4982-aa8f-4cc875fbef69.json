@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:41.877705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6bfd2f62-9f72-4977-90b2-b7bc3c6259f1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e1ae1e9e-a960-4982-aa8f-4cc875fbef69",
+  "input": "{\"title\": \"Then Play On\", \"release_type\": \"album\", \"release_year\": 1969}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

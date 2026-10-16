@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:49.008034+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6dc20c8e-8beb-484d-84e0-10b24b105c4d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3bb7a8d-3009-4079-bff7-f0a000df017d",
+  "input": "{\"title\": \"Too Long\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Swag Live from Coachella (Weekend II)'",
+  "status": "verified"
+}

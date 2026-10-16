@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:16.623681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c57b2aac-3883-4250-b3ca-5911785c0927",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e97f98f-4d12-4dad-8d87-e6f0bbff4ac5",
+  "input": "{\"title\": \"Lifetime\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lifetime'",
+  "status": "verified"
+}

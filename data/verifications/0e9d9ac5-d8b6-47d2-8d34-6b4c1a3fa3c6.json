@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:19.017963+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4499a8c2-dd6b-427f-a747-5edaac80a50d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e9d9ac5-d8b6-47d2-8d34-6b4c1a3fa3c6",
+  "input": "{\"title\": \"You're My Best Friend\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'A Night at the Opera'",
+  "status": "verified"
+}

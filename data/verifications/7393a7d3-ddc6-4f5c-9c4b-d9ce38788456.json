@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:44.125174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fcaf2c06-0831-4103-a3bf-93f263bafb73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7393a7d3-ddc6-4f5c-9c4b-d9ce38788456",
+  "input": "{\"title\": \"Breeze!\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Sincerely: P.S.'",
+  "status": "verified"
+}

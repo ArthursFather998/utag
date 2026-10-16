@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:58.238411+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3d7e54e-a0f8-48cc-b725-451f8189c8a5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f0526c65-244b-4ab6-89d9-bd1aa989fa57",
+  "input": "{\"title\": \"Private Landing\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

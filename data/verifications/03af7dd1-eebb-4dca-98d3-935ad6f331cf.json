@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:37.051324+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3de6ddad-fdf9-4919-8dda-534b84c7582d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "03af7dd1-eebb-4dca-98d3-935ad6f331cf",
+  "input": "{\"title\": \"Now I'm Here\", \"release_type\": \"single\", \"release_year\": 1975}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

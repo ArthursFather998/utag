@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:46.538939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a924f2d-6923-48d9-a066-b500362d1c84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00e88b4a-39dc-4428-af46-eb46a1b8742d",
+  "input": "{\"title\": \"Over My Head\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Over My Head'",
+  "status": "verified"
+}

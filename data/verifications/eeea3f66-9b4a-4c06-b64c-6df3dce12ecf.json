@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:42.737735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dff1f6a9-c58f-4b57-8f92-73098760263b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eeea3f66-9b4a-4c06-b64c-6df3dce12ecf",
+  "input": "{\"title\": \"Samsonite Man\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Diary of Alicia Keys'",
+  "status": "verified"
+}

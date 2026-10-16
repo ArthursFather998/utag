@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:03.899225+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21db9dd3-ea8d-4282-9ecf-ae60bd87ebc0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c8b0b99-b239-481b-ac5a-f2ad1b7bfe6a",
+  "input": "{\"title\": \"So Bad\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Recovery (Deluxe)'",
+  "status": "verified"
+}

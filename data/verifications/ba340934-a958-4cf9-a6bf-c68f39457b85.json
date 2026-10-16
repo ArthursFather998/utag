@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:43.711682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f439988-6d06-4849-bbbb-70f05ac7d35a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba340934-a958-4cf9-a6bf-c68f39457b85",
+  "input": "{\"title\": \"Zoom\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Pink Tape: Boss Battle'",
+  "status": "verified"
+}

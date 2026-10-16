@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:41.271653+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aada0cf5-c914-437a-a551-3819f8555ea0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fc376e5d-6411-4568-9193-2ab874de642d",
+  "input": "{\"title\": \"A Matter of Time\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

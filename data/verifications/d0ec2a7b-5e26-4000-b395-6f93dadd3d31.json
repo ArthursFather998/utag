@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:03.359808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "47d1350f-935f-479e-97e9-dca78a01fbfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0ec2a7b-5e26-4000-b395-6f93dadd3d31",
+  "input": "{\"title\": \"Greetings from Califournia\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Wiped Out!'",
+  "status": "verified"
+}

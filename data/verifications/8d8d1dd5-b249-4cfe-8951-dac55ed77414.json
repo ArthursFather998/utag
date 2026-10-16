@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:33.652628+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfe545fe-081b-47f3-9da0-135328d5e355",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d8d1dd5-b249-4cfe-8951-dac55ed77414",
+  "input": "{\"title\": \"I'll Show You Love\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Usher'",
+  "status": "verified"
+}

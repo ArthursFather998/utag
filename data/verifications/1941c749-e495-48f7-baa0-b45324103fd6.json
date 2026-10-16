@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:26.472508+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6566a645-ee0e-4a51-9f5a-59b307497f37",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1941c749-e495-48f7-baa0-b45324103fd6",
+  "input": "{\"title\": \"Liar\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'On Air'",
+  "status": "verified"
+}

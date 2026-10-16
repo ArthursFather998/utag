@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:45.998848+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "release->In the Lonely Hour"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "5b83348f-3f8b-4140-840a-b840b7fff525",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "b5abba81-79b6-4966-9bdd-d325c44544dc",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "KlangCafé II",
+    "title": "Lay Me Down"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "'Lay Me Down' is track 10 on Sam Smith's debut album In the Lonely Hour (released May 2014), not the 'KlangCafé II' compilation. | sources: https://www.hellorayo.co.uk/news/music/pop/sam-smith-lonely-hour, https://www.fishpond.co.nz/Music/Lonley-Hour-Vinyl-by-Sam-Smith-1Record-Sam-Smith/0602537691708",
+  "status": "verified"
+}

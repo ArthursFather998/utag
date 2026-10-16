@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:25.403918+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c90d32bb-e953-4090-99ed-539b381cfd13",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ada3e26-a898-4925-81cc-226a94dd88c4",
+  "input": "{\"title\": \"No Surprises\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'No Surprises'",
+  "status": "verified"
+}

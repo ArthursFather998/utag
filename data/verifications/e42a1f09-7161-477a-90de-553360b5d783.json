@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:58.609415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6a10b2b-eb4c-476d-b6c9-1692ce7e83de",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e42a1f09-7161-477a-90de-553360b5d783",
+  "input": "{\"title\": \"Calling All Girls\", \"release_type\": \"single\", \"release_year\": 1982}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

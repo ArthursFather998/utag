@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:02.895942+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53b22d44-8566-45dd-9023-0e9bf0b98314",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31ab3054-05ea-4200-a765-e5419892456d",
+  "input": "{\"title\": \"Heaven, Iowa\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'So Much (for) Stardust'",
+  "status": "verified"
+}

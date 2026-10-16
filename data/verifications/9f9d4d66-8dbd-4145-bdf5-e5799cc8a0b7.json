@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:04.009499+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c188f512-2961-4eed-9695-a9742875f093",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f9d4d66-8dbd-4145-bdf5-e5799cc8a0b7",
+  "input": "{\"title\": \"Believe\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Revival'",
+  "status": "verified"
+}

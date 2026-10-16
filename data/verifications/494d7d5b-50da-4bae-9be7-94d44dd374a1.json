@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:54.789962+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5a465b6-538f-4e5f-9171-6f5d00ce31cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "494d7d5b-50da-4bae-9be7-94d44dd374a1",
+  "input": "{\"title\": \"My 1st Single\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Encore (Deluxe)'",
+  "status": "verified"
+}

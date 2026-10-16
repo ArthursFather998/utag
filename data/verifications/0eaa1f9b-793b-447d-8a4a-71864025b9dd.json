@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:44.332574+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00aa4702-31d6-4a7a-8bf1-1db8e3a1af4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0eaa1f9b-793b-447d-8a4a-71864025b9dd",
+  "input": "{\"title\": \"Hotel Room\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Only Human (Special Edition)'",
+  "status": "verified"
+}

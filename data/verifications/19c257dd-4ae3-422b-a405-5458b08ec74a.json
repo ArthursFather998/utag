@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:07.748521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "769ec728-506b-4a0d-a87b-e7844ed201f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19c257dd-4ae3-422b-a405-5458b08ec74a",
+  "input": "{\"title\": \"Rise & Shine\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rise & Shine'",
+  "status": "verified"
+}

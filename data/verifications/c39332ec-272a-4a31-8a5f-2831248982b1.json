@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:10.24949+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1bc288f-28a3-4a88-9c33-cd7141de9ac4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c39332ec-272a-4a31-8a5f-2831248982b1",
+  "input": "{\"title\": \"Wake Up and Smell the Coffee\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Wake Up and Smell the Coffee'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:27.26926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d88bc7f0-6d3a-480c-bcd7-ffc3542cb8bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "933f8747-b7e5-49aa-9492-eb39689bd81f",
+  "input": "{\"title\": \"SIMON SAYS\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'REPRISAL'",
+  "status": "verified"
+}

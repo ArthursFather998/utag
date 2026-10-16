@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:39.978509+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ad7e2b7a-67e5-4a04-9f5f-9ecd37ad4fb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6633b76-8f3e-44e9-9a56-1d483c0a576a",
+  "input": "{\"title\": \"Kashmir\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live À L'Olympia'",
+  "status": "verified"
+}

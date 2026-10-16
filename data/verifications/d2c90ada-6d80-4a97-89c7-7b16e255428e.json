@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:08.471493+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "312df82f-d146-4b6d-a7f7-effff8a3a451",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2c90ada-6d80-4a97-89c7-7b16e255428e",
+  "input": "{\"title\": \"Endless Fashion (featuring Nicki Minaj)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Pink Tape: Level 1'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:22.784875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "63a71db7-d91a-45ca-bebc-c29b62e0c370",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35aef670-e312-4157-be63-9de9e03d2fb2",
+  "input": "{\"title\": \"CS\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Pink Tape'",
+  "status": "verified"
+}

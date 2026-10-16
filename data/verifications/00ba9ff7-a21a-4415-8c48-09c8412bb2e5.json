@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:08.054156+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25ec1c4a-184a-4b85-aa8e-e027fa926ff1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00ba9ff7-a21a-4415-8c48-09c8412bb2e5",
+  "input": "{\"title\": \"Straight Up & Down\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '24K Magic (Deluxe Edition)'",
+  "status": "verified"
+}

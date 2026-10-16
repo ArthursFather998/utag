@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:49.831714+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f06828a2-9d25-4f80-b055-0a7123ea2d30",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca55432b-2afc-4581-b5e8-b439d9454548",
+  "input": "{\"title\": \"Hocus Pocus\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Diamonds'",
+  "status": "verified"
+}

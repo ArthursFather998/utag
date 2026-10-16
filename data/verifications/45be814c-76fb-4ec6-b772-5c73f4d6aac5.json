@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:23.108507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa59a773-2c30-4d7e-ba63-0847a836987d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45be814c-76fb-4ec6-b772-5c73f4d6aac5",
+  "input": "{\"title\": \"I Ain't Quite Where I Think I Am\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Car'",
+  "status": "verified"
+}

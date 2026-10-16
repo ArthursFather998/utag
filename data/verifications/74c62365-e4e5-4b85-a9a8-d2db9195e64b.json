@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:34.845321+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "177b93bf-6fac-41aa-9a77-3e343fbab721",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74c62365-e4e5-4b85-a9a8-d2db9195e64b",
+  "input": "{\"title\": \"Day Will Come\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Strangeland'",
+  "status": "verified"
+}

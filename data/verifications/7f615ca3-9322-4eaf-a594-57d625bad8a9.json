@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:54.88534+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97dbd671-4ad9-4eeb-b102-75e357cd4560",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f615ca3-9322-4eaf-a594-57d625bad8a9",
+  "input": "{\"title\": \"No Place to Go\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Live at the Marquee 1967'",
+  "status": "verified"
+}

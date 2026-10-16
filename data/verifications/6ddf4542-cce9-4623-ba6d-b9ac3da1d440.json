@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:49.995727+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5e3259d-29ca-4b5e-bb9f-55272a709439",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6ddf4542-cce9-4623-ba6d-b9ac3da1d440",
+  "input": "{\"title\": \"REM\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:28.806819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1b80db9-720f-482f-a8f4-8aea9a66c487",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2709a57e-0aaf-49c3-811b-c6525844d096",
+  "input": "{\"title\": \"Genesis\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Genesis'",
+  "status": "verified"
+}

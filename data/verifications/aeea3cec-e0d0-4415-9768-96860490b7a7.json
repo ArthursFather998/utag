@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:50.999538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d56fc62d-02fc-402b-afcf-922193286098",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aeea3cec-e0d0-4415-9768-96860490b7a7",
+  "input": "{\"title\": \"Very Good Boy\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Cosmic Opera: Act II'",
+  "status": "verified"
+}

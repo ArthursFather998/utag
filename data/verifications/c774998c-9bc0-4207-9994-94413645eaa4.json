@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:09.13144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "03ff3ba0-226d-4c9b-925e-c74530d0d91d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c774998c-9bc0-4207-9994-94413645eaa4",
+  "input": "{\"title\": \"Dead Broke\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

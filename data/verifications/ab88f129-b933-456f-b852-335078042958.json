@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:54.033948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6eaab426-80ce-4261-8da3-f2d5f798062e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab88f129-b933-456f-b852-335078042958",
+  "input": "{\"title\": \"Hum Hallelujah\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Infinity on High'",
+  "status": "verified"
+}

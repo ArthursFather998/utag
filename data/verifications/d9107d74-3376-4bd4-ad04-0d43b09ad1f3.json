@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:21.995649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98c92201-2c15-4f86-9e73-96919ace82ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9107d74-3376-4bd4-ad04-0d43b09ad1f3",
+  "input": "{\"title\": \"Breakin' Dishes\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of '3 CD Collector's Set'",
+  "status": "verified"
+}

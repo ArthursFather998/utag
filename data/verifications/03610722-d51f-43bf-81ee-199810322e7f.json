@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:08.558624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8cb35b3-a875-49d0-90b6-c50337698425",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03610722-d51f-43bf-81ee-199810322e7f",
+  "input": "{\"title\": \"Missing Out\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Sonder Son'",
+  "status": "verified"
+}

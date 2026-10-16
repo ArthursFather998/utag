@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:48.269717+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "63fe0d24-9541-486a-8c45-c236294e0a3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99d1267a-af1d-4c21-b0b2-43eaa9ec59a5",
+  "input": "{\"title\": \"Nothing to Lose but You\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Outsider'",
+  "status": "verified"
+}

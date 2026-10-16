@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:25.587794+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d22b51e-622d-4072-8fe3-bd9fd8e1d9f1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7a4cd3c4-763e-45fa-8d43-74909803eabf",
+  "input": "{\"title\": \"Everybody Wants to Rule the World\", \"release_type\": \"single\", \"release_year\": 1985}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

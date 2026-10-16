@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:32.110204+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac012bf5-8f83-4833-a6eb-b7f180cdf54a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "65a71ccf-d06d-4d97-bcec-e2c221a4af40",
+  "input": "{\"title\": \"So Done\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:29.531477+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4af62b6-2375-45af-8edd-082ea0059745",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dd0cd5b-756d-4eff-8a38-1b4f86ea4051",
+  "input": "{\"title\": \"You're Lost\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Perfect LUV Tape'",
+  "status": "verified"
+}

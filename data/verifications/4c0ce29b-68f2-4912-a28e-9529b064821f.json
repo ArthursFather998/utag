@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:53.908441+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "93df3c1b-ae04-4504-b2c8-567dfe6b0f19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c0ce29b-68f2-4912-a28e-9529b064821f",
+  "input": "{\"title\": \"Go Deep (Masters at Work Thunder Mix)\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'The Velvet Rope (Deluxe Edition)'",
+  "status": "verified"
+}

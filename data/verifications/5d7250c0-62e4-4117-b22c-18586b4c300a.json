@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:06.562677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b5c00ab1-f620-406f-ab58-cac27ddb39bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d7250c0-62e4-4117-b22c-18586b4c300a",
+  "input": "{\"title\": \"Valentine\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Everything I Know About Love'",
+  "status": "verified"
+}

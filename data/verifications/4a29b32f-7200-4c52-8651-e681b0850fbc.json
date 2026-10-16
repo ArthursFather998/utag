@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:53.617622+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b92e0d2-09da-4dfc-a825-fe3faa3d9bc3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a29b32f-7200-4c52-8651-e681b0850fbc",
+  "input": "{\"title\": \"Holdin On\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Freedom'",
+  "status": "verified"
+}

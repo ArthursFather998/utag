@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:52:39.514484+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed990861-b713-47a6-a0dc-b22307f100ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a91a2f08-3e10-4a1c-977b-b0f6f89eb5d2",
+  "input": "{\"title\": \"Into the Breeze\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Hardest Love'",
+  "status": "verified"
+}

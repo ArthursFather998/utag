@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:35.619899+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54344c90-4aeb-4908-bdd4-4649be48526d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a944ef6-b704-46a0-8abe-53dde85b2b69",
+  "input": "{\"title\": \"Sweetheart\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sweetheart'",
+  "status": "verified"
+}

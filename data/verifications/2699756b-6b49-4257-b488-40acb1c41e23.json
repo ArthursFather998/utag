@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:36.285797+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3695e7d7-f3f2-49bc-b004-8bca9910d623",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2699756b-6b49-4257-b488-40acb1c41e23",
+  "input": "{\"title\": \"MLK Interlude\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Justice (Triple Chucks Deluxe)'",
+  "status": "verified"
+}

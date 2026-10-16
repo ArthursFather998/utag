@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:34.888186+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eca3e7e4-8892-4fe4-8985-50fb53db2110",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3793cfbc-8759-4d10-a9b6-8b3922b695c8",
+  "input": "{\"title\": \"Undo\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Undo'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:13.918966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3ad0c42-cb5a-45fb-b152-0d43efb7fa4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6708a2b9-9923-43f7-90c1-9c80610119b4",
+  "input": "{\"title\": \"Perfect Symmetry\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Perfect Symmetry'",
+  "status": "verified"
+}

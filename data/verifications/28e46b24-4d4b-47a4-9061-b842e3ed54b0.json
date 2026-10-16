@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:51.828462+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa31fe2b-f14f-4a3e-a146-ef7c7e4a0e9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28e46b24-4d4b-47a4-9061-b842e3ed54b0",
+  "input": "{\"title\": \"Typewriter\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Songs in A Minor: 10th Anniversary Edition'",
+  "status": "verified"
+}

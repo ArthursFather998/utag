@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:33.945108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c8d22f7-09da-48ee-907a-9866558d0b76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95a1bebc-b478-45f0-b9cc-c2a76e44888b",
+  "input": "{\"title\": \"DJ Got Us Fallin' in Love (Dino Roc Radio Mix)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'DJ Got Us Fallin' in Love (Remixes)'",
+  "status": "verified"
+}

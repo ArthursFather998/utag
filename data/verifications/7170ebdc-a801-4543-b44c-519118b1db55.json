@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:11.631973+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9b9d58d-0bf3-424c-94ac-edc3bed7ad8f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7170ebdc-a801-4543-b44c-519118b1db55",
+  "input": "{\"title\": \"New Love\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'I'm Doing It Again Baby!'",
+  "status": "verified"
+}

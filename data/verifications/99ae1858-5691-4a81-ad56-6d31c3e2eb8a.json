@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:03.394625+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa50240a-fa1a-4e79-aba8-111f93f21f3c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99ae1858-5691-4a81-ad56-6d31c3e2eb8a",
+  "input": "{\"title\": \"Bored\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

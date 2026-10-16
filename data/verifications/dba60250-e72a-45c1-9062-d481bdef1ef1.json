@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:47.597335+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e9c23e7-62c3-4c8b-a8cd-161c7bbde08f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dba60250-e72a-45c1-9062-d481bdef1ef1",
+  "input": "{\"title\": \"The Old Crowd\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Lesley Gore Anthology'",
+  "status": "verified"
+}

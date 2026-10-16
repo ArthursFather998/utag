@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:32.489724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe78de7c-692a-4ed5-b034-4bcfd62fe28d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c1dea23-ac88-4fbf-b366-d9586b29f687",
+  "input": "{\"title\": \"The Calendar\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Vices & Virtues (Deluxe Edition)'",
+  "status": "verified"
+}

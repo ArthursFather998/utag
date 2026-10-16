@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:24.895521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1a28ce6-4597-4d9d-b197-77d0ab7c4a62",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5fb05c7-c814-41cf-ac49-a4d2c884f2f8",
+  "input": "{\"title\": \"Slow Love\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Usher'",
+  "status": "verified"
+}

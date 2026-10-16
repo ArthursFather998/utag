@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:44.320032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6652b9a-37c5-44b2-b7f6-57c57632f042",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30e2ecf5-ccd5-4827-8a45-b17d4e3f5541",
+  "input": "{\"title\": \"Live While We're Young - Dave Aude Remix\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Remixes'",
+  "status": "verified"
+}

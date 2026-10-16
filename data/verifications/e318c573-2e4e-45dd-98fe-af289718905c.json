@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:10.391058+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09027f87-a5a7-4b27-9c86-2d10aaa29ea2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e318c573-2e4e-45dd-98fe-af289718905c",
+  "input": "{\"title\": \"Words We Don't Say\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Ever Since (Deluxe Edition)'",
+  "status": "verified"
+}

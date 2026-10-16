@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:41:18.976082+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de056edd-16c7-4d1c-b3f5-5111201cd904",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6fda1d05-77de-411d-bc79-3ebc9fd9d5c7",
+  "input": "{\"title\": \"Zombie\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'No Need to Argue'",
+  "status": "verified"
+}

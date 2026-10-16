@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:26.512916+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ac283af-b5e8-4b84-9840-a24e394418ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "058979b6-974e-42cc-bd54-ba56ef4d4e91",
+  "input": "{\"title\": \"Selection\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Virgo World'",
+  "status": "verified"
+}

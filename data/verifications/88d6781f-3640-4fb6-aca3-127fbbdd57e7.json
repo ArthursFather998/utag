@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:23.52995+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28a4a0ee-4fe9-4339-b716-6e0fd95c6f19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88d6781f-3640-4fb6-aca3-127fbbdd57e7",
+  "input": "{\"title\": \"Waves (Acoustic)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Same Kind of Different (Acoustic)'",
+  "status": "verified"
+}

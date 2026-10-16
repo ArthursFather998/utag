@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:05.995165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "550051f5-ca5c-4ba8-a93f-40b943ccbad8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d71dd21-abf0-465c-955e-32a62258b381",
+  "input": "{\"title\": \"I'll See You in 40\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Ballads 1'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:04.565387+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19c55c13-b55e-49dd-9451-8534cee8a451",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aa950c0b-906b-493f-8f16-9ccf5d4586d7",
+  "input": "{\"title\": \"I Want to Break Free\", \"release_type\": \"single\", \"release_year\": 1984}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

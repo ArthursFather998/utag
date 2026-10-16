@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:36.029339+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54ca9a2b-730e-460c-b023-5babec199560",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76a43681-50a9-45fa-b3ee-2ffc1caca6e8",
+  "input": "{\"title\": \"One for the Road\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'One for the Road'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:11.58139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ef69fb5-735e-4967-a0ca-0c3edebe6120",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "012c0104-cacc-44e4-bb0e-96690022c353",
+  "input": "{\"title\": \"Forget About Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Ungrateful (Deluxe)'",
+  "status": "verified"
+}

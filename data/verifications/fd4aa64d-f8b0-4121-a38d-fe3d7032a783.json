@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:13.698592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96f083f0-b031-4aea-a1f5-f9fcd95a8c0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd4aa64d-f8b0-4121-a38d-fe3d7032a783",
+  "input": "{\"title\": \"SOS\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Girl Like Me'",
+  "status": "verified"
+}

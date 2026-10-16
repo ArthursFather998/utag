@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:15.406527+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b0860a9-5b22-494f-bdb5-0ec336291367",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19c50ee4-986f-4735-b80a-26df9e36d11b",
+  "input": "{\"title\": \"Are You Ready for Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Are You Ready for Love'",
+  "status": "verified"
+}

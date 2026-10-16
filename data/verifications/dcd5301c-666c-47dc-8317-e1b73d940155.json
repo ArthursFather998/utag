@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:19.806082+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f86eed36-5477-4bb4-9fb9-70177c5b7d91",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcd5301c-666c-47dc-8317-e1b73d940155",
+  "input": "{\"title\": \"Off and Running\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'California Nights'",
+  "status": "verified"
+}

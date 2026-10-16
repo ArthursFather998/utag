@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:52.865912+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42d2bd54-8aca-401d-b0fa-b5d06613859a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd2bcd34-9be8-4c02-9633-8a9cc2b1cb5c",
+  "input": "{\"title\": \"pick me (second attempt)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'pick me (second attempt)'",
+  "status": "verified"
+}

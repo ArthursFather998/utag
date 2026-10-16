@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:00.175145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd213ae1-1e42-43d9-a5ec-56ee32d296e5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6a7fb46e-162f-4292-bd39-13c12ce1c17b",
+  "input": "{\"title\": \"We Didn't Start the Fire\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

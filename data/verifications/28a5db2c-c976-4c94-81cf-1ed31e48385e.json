@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:12.995832+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "801ec59c-5f05-4086-ac87-d7b3c1738e2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28a5db2c-c976-4c94-81cf-1ed31e48385e",
+  "input": "{\"title\": \"Liar\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'A Night at the Odeon - Hammersmith 1975'",
+  "status": "verified"
+}

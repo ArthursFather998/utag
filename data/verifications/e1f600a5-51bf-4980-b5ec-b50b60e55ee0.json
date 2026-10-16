@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:30.565093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "558a286b-d82d-4175-91b0-28d963c6aa80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e1f600a5-51bf-4980-b5ec-b50b60e55ee0",
+  "input": "{\"title\": \"Velvet Rope\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Velvet Rope'",
+  "status": "verified"
+}

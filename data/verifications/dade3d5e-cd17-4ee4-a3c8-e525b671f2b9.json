@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:07.233603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eaf5b651-7b08-4d64-b29b-94587bbd4f03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dade3d5e-cd17-4ee4-a3c8-e525b671f2b9",
+  "input": "{\"title\": \"What Will You Say\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Live at Wetlands, New York, NY, August 16, 1994'",
+  "status": "verified"
+}

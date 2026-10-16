@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:38.61687+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e406ae5-812d-446e-bfcf-a244f5a46e75",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2753761b-7f3b-44b3-8252-97e9693c09e4",
+  "input": "{\"title\": \"Slow Down\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Diary of Alicia Keys'",
+  "status": "verified"
+}

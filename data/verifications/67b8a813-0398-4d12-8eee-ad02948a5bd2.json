@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:27.868392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "383845d1-afc4-43bc-902e-b99873e4c2f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67b8a813-0398-4d12-8eee-ad02948a5bd2",
+  "input": "{\"title\": \"Don't Try So Hard\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Queen Forever'",
+  "status": "verified"
+}

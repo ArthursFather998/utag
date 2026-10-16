@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:59.462452+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f94c6b2-bc88-40bc-8f66-419e5b807a21",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6ea7dab-d330-468c-86df-1e24e2e8f20a",
+  "input": "{\"title\": \"Mighty Long Time\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Live at the Marquee 1967'",
+  "status": "verified"
+}

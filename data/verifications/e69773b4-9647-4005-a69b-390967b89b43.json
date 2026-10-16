@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:51.667266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f887ed9c-a3a6-44b9-a3e1-c09fdfc1cb79",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e69773b4-9647-4005-a69b-390967b89b43",
+  "input": "{\"title\": \"Mr. Lonely\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Bobby Vinton's All-Time Greatest Hits'",
+  "status": "verified"
+}

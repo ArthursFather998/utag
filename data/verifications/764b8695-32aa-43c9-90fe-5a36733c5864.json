@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:50.609781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0befb961-3902-497a-8958-b1429e326c50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "764b8695-32aa-43c9-90fe-5a36733c5864",
+  "input": "{\"title\": \"You Took My Heart\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Usher'",
+  "status": "verified"
+}

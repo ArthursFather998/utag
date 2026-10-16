@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:54.863174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37382f44-fc9f-4679-84d6-b5acfe1c71c6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ea160027-abd8-4f4c-8009-e6d6294f22b4",
+  "input": "{\"title\": \"La Llamada\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

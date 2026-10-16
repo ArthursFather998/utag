@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:30.025065+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f539dcc1-69f9-473d-8c8d-8a5052d96bb2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6914f21-8033-47e1-87c9-f094c365fbd8",
+  "input": "{\"title\": \"Man Down\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Rated R + Loud'",
+  "status": "verified"
+}

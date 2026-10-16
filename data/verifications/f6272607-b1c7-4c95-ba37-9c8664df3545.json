@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:47.692237+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "feeae4db-da68-4463-bc7c-c10cba8fd189",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6272607-b1c7-4c95-ba37-9c8664df3545",
+  "input": "{\"title\": \"Every Little Step\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live'",
+  "status": "verified"
+}

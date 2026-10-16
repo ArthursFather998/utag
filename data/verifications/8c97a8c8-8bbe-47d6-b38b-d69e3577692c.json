@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:49.206486+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e369e13-76ea-465a-9e34-b8fc80281662",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c97a8c8-8bbe-47d6-b38b-d69e3577692c",
+  "input": "{\"title\": \"Oh Daddy\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Rumours'",
+  "status": "verified"
+}

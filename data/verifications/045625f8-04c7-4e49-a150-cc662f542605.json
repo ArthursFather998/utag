@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:57.601725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b2dfa2c-5537-4751-9ab0-d266172cb02a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "045625f8-04c7-4e49-a150-cc662f542605",
+  "input": "{\"title\": \"Willing to Wait\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '3 CD Collector's Set'",
+  "status": "verified"
+}

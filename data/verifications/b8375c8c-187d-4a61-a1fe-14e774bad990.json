@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:02.506016+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dcbc9688-31b9-4695-9d5b-31ce0e292b8d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8375c8c-187d-4a61-a1fe-14e774bad990",
+  "input": "{\"title\": \"Campaign Speech\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Campaign Speech'",
+  "status": "verified"
+}

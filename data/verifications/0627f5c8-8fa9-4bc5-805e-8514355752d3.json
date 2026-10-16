@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:10.325394+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0eaf60f-c579-4fa5-8a4a-eefc82f1871e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0627f5c8-8fa9-4bc5-805e-8514355752d3",
+  "input": "{\"title\": \"The Collection\", \"release_type\": \"album\", \"release_year\": 1987}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

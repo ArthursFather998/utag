@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:21.265706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d211b13-05e9-4b86-be35-29f3887384d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4d54bc2-1b9d-4caa-9b76-d65ff7d03a31",
+  "input": "{\"title\": \"Goodbye\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Madman Across the Water'",
+  "status": "verified"
+}

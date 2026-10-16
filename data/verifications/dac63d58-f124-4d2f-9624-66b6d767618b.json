@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:52.377934+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ff79665-bce0-484a-9b4c-2a5a406edaf0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dac63d58-f124-4d2f-9624-66b6d767618b",
+  "input": "{\"title\": \"Love from the Other Side\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'So Much (for) Stardust'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:09.519425+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cad6b258-0d94-4175-9484-4dd43456f25e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7d44c12-f151-4911-8ee5-cc8697edda3a",
+  "input": "{\"title\": \"Orange Juice\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'K-12'",
+  "status": "verified"
+}

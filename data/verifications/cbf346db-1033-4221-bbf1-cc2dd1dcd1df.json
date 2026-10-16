@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:06.076762+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e1a23718-c88b-4352-8c1c-32b86255c7e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cbf346db-1033-4221-bbf1-cc2dd1dcd1df",
+  "input": "{\"title\": \"Almost Famous\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Recovery (Deluxe)'",
+  "status": "verified"
+}

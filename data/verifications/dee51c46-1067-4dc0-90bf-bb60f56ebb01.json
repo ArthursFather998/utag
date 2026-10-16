@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:47.518155+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f72ed7ae-1261-4470-a172-3145acf7cae2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dee51c46-1067-4dc0-90bf-bb60f56ebb01",
+  "input": "{\"title\": \"Dream Boy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dream Boy'",
+  "status": "verified"
+}

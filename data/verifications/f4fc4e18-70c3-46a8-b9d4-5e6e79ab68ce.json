@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:33.610891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a885340b-b309-41c6-a86c-2f59a890dd8f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4fc4e18-70c3-46a8-b9d4-5e6e79ab68ce",
+  "input": "{\"title\": \"Sweater Weather\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'I Love You. (10th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:08.70144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2ee62d2-ac05-4c1e-a045-337b555f014a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d5a4661a-1bf0-417a-a26f-e1241dc50263",
+  "input": "{\"title\": \"My World 2.0\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

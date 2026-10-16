@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:02.981217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61cccc1f-4065-4de9-aae7-d759410760a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b0bce70-df64-4ead-81a6-d2499122e166",
+  "input": "{\"title\": \"If I Never See Your Face Again (with Maroon 5)\", \"track_number\": 41}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 41 of '3 CD Collector's Set'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:53.080351+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2de5878-ab90-4cac-9380-ae8a9b5c91f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd06d13d-402a-4c51-bb98-514ec2fd09c3",
+  "input": "{\"title\": \"Kick It\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of '7'",
+  "status": "verified"
+}

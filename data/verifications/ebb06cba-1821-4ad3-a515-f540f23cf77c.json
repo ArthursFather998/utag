@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:30.42256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c3b6d6e-6264-4689-bb1b-1dcc19272742",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebb06cba-1821-4ad3-a515-f540f23cf77c",
+  "input": "{\"title\": \"Revenge\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Neighbourhood'",
+  "status": "verified"
+}

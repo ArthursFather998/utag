@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:01.107903+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d50c642a-ce43-4b70-8636-4ac1bfdc3419",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53c9eb9b-af5a-4b8c-8e6d-7eca3a5022d4",
+  "input": "{\"title\": \"Think About Me\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Tusk'",
+  "status": "verified"
+}

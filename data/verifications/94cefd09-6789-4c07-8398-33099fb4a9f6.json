@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:08.810138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91d6d7d5-68b5-4ca2-96b4-5a838c8617be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94cefd09-6789-4c07-8398-33099fb4a9f6",
+  "input": "{\"title\": \"Live and Breathe\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Arrival'",
+  "status": "verified"
+}

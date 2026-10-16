@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:05.188436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "32206544-e582-4e3c-8199-84b27499945d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab86d492-a01c-4576-b5bf-99e6c8494e13",
+  "input": "{\"title\": \"Silver Bells\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'I'll Be Home for Christmas'",
+  "status": "verified"
+}

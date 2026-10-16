@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:50.08605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "374aa383-d63e-4669-ad35-0ecbfb847e26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bfd08035-a38f-4bd3-b99b-fb12af3f297b",
+  "input": "{\"title\": \"Death Of A Heart\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'hurting'",
+  "status": "verified"
+}

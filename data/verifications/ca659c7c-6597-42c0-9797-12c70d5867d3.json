@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:36.562628+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "901ba49a-cfc5-4173-9a9b-20dca5e3284b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca659c7c-6597-42c0-9797-12c70d5867d3",
+  "input": "{\"title\": \"Nothing's Fair in Love and War\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Human (Deluxe Edition)'",
+  "status": "verified"
+}

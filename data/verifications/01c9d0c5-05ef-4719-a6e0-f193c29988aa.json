@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:39.780252+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20fe426d-2a66-4d42-ae9a-1129e868dbb1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01c9d0c5-05ef-4719-a6e0-f193c29988aa",
+  "input": "{\"title\": \"Why U Look Mad\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Why U Look Mad'",
+  "status": "verified"
+}

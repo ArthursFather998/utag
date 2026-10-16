@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:21:14.913449+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "906151aa-5d3e-41c1-b2b0-3a9f47ba57f6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b3b10394-0db1-4ea2-80cd-c2c057acc921",
+  "input": "{\"title\": \"Madwoman\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

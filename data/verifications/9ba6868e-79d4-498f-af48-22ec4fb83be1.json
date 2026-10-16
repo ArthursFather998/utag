@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:16.107022+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d02f43bf-033b-46c1-8584-91a4b52b8986",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ba6868e-79d4-498f-af48-22ec4fb83be1",
+  "input": "{\"title\": \"Stay the Same\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Far From Close'",
+  "status": "verified"
+}

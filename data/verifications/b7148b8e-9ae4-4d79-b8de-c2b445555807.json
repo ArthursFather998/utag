@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:25.021737+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d55b409d-4bc1-4034-99d8-2435624b6e02",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7148b8e-9ae4-4d79-b8de-c2b445555807",
+  "input": "{\"title\": \"Nikita\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'The Very Best of Elton John'",
+  "status": "verified"
+}

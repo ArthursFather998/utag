@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:54.066378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0e13db4-47dd-4c34-8980-21b1785ece50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a728b255-24fc-4c9e-8ea0-cfda0d2dd500",
+  "input": "{\"title\": \"Illusion (featuring Wyclef Jean & Pras)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Destiny's Child'",
+  "status": "verified"
+}

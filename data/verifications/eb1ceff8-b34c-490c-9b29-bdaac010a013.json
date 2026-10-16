@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:10.38294+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d295df9-666f-4c75-a4ca-7314ffe7b7ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb1ceff8-b34c-490c-9b29-bdaac010a013",
+  "input": "{\"title\": \"Science Fiction\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Tranquility Base Hotel & Casino'",
+  "status": "verified"
+}

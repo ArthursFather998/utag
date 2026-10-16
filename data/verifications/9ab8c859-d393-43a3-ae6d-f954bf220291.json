@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:27.990133+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09e936eb-f14b-4733-9e50-2fc1aac88090",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9ab8c859-d393-43a3-ae6d-f954bf220291",
+  "input": "{\"title\": \"Transit of Venus\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

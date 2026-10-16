@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:18.088656+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "57adaf89-1da7-403c-aed0-3d8f8648a48f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f8448dd0-5f3b-43f0-9b1f-80eabbb03a32",
+  "input": "{\"title\": \"Heat Waves (Riton Remix)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Heat Waves (Expansion Pack)'",
+  "status": "verified"
+}

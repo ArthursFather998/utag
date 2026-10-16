@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:00.541759+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "126b11ef-ea36-4a82-8354-867bb190041e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12ebd2b7-593b-46e3-b84f-9810a3cec2aa",
+  "input": "{\"title\": \"5AM in Toronto\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Care Package'",
+  "status": "verified"
+}

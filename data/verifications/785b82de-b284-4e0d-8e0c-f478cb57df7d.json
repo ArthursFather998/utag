@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:32.584808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a0df09e-9a49-4adf-9dbf-7d674130535b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "785b82de-b284-4e0d-8e0c-f478cb57df7d",
+  "input": "{\"title\": \"When Will I Be Loved\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live at the BBC'",
+  "status": "verified"
+}

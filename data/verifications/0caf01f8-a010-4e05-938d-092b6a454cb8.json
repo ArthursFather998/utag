@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:12.775387+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7594a277-2f42-4cc6-9fad-c9e350ac6a84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0caf01f8-a010-4e05-938d-092b6a454cb8",
+  "input": "{\"title\": \"Young at Heart\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'As Time Goes By'",
+  "status": "verified"
+}

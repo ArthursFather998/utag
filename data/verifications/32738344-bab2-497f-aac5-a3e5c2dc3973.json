@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:46.052292+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d636a9e-dfe7-4531-ab5d-37dd3b76e9db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32738344-bab2-497f-aac5-a3e5c2dc3973",
+  "input": "{\"title\": \"Say My Name\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Playlist: The Very Best of Destiny's Child'",
+  "status": "verified"
+}

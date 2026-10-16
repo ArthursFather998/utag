@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:40.507885+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6310613c-cf06-4a98-b8cd-57c58a5d9326",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "11239ccb-8866-4c92-ba21-32cbe83fdbb3",
+  "input": "{\"title\": \"Under the Knife\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Atomic'",
+  "status": "verified"
+}

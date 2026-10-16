@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:41.343708+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e813f5d-e28f-4253-b5b3-db34575c2f1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "212ec55e-4241-4a6a-b764-66451778f34c",
+  "input": "{\"title\": \"Only You\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Inolvidable Buenos Aires Argentina (Live from Movistar Arena Buenos Aires Argentina)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:57.083362+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "32924435-e3f2-451f-a12d-4c1d9314df65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07fc13ae-8947-4173-a24b-47def78581f0",
+  "input": "{\"title\": \"Hold Me\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Mirage'",
+  "status": "verified"
+}

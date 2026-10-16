@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:32.801364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e59bc8a-c8e6-4af0-9f6a-0f9cf9c051f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "500572bb-a86a-433c-9fa6-c618407ba9e9",
+  "input": "{\"title\": \"With You\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Epilogue (Deluxe)'",
+  "status": "verified"
+}

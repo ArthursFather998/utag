@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:37.51274+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0f8c4af-e06c-432d-a033-7d22191d65ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff2e9405-d924-4c16-85a2-4ef217834233",
+  "input": "{\"title\": \"Get It Over With\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Unapologetic (Deluxe)'",
+  "status": "verified"
+}

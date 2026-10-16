@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:11.675945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bdc2869c-773d-4794-ba3f-04587391bd2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b9ecc80-5750-48f1-bd90-5a0c44eceb65",
+  "input": "{\"title\": \"So Real\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'So Real'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:27.674424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71ca1e9c-356a-4b3e-bd6f-fef26cd0ea90",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e09fb5e3-1806-41fb-8da2-d50426a7be1f",
+  "input": "{\"title\": \"Strawberry Bounce\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Damita Jo'",
+  "status": "verified"
+}

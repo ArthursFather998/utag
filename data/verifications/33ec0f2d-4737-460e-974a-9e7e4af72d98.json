@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:56.021377+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3083f4c1-f5f9-448b-b1d7-f35392a7dd39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "33ec0f2d-4737-460e-974a-9e7e4af72d98",
+  "input": "{\"title\": \"Emerald\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'A Light That Waits'",
+  "status": "verified"
+}

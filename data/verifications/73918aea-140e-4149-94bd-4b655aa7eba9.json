@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:45.197147+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d5b01fd-384e-4456-b2f7-6be7c4d59343",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73918aea-140e-4149-94bd-4b655aa7eba9",
+  "input": "{\"title\": \"All the Way\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Swag Live from Coachella (Weekend II)'",
+  "status": "verified"
+}

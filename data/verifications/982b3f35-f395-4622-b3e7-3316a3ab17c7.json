@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:01.263001+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b08cf63-d4a1-4b52-9122-7f44fea98f96",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "982b3f35-f395-4622-b3e7-3316a3ab17c7",
+  "input": "{\"title\": \"Better Than This\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

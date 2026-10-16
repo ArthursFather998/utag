@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:55.455341+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "223414fd-3d5a-4d9d-b710-774ceaa96cad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e2c6d228-2cb6-4725-b82e-c86cd16db5c7",
+  "input": "{\"title\": \"Cuffed\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Party Never Ends'",
+  "status": "verified"
+}

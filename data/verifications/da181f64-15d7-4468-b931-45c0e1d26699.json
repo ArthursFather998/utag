@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:43.52636+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d320217f-4c1e-41d6-8463-72e2213ab6a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "da181f64-15d7-4468-b931-45c0e1d26699",
+  "input": "{\"title\": \"Try Again\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live 06'",
+  "status": "verified"
+}

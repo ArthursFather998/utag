@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:50.13246+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2747cd9-db2b-4407-8aa4-5ab6faa425c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4127776-74ed-4b3c-b42e-8d33bf999ccf",
+  "input": "{\"title\": \"Groupie Love\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Lust for Life'",
+  "status": "verified"
+}

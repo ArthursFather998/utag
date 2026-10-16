@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:24.912244+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83bbc450-375c-4ee1-bc6d-0feb8bae87a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9915fa29-ec1e-46a1-bbe4-bde635f03d56",
+  "input": "{\"title\": \"I Think You're Special (with Tems)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Swag Live from Coachella (Weekend I)'",
+  "status": "verified"
+}

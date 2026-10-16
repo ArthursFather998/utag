@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:13.660219+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f8dbc34-13f6-44dc-b823-290ecbaf43ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47640029-8f90-4146-923f-ad9a59c27b90",
+  "input": "{\"title\": \"Love of My Life\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Icon: Love Songs'",
+  "status": "verified"
+}

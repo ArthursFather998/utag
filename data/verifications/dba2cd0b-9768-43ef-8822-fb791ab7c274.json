@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:05.244845+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44f562cd-bf21-4734-b5df-950d0090af03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dba2cd0b-9768-43ef-8822-fb791ab7c274",
+  "input": "{\"title\": \"Chaining Day\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Born Sinner'",
+  "status": "verified"
+}

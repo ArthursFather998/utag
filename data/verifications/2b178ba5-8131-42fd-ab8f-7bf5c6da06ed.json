@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:37.510575+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "faf2d8ac-a120-4826-bcff-f6fb2de9a36e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b178ba5-8131-42fd-ab8f-7bf5c6da06ed",
+  "input": "{\"title\": \"You Got the Best of Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Freedom'",
+  "status": "verified"
+}

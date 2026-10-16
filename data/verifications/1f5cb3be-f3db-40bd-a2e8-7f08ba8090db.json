@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:55.260419+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0608b053-cbcf-44a4-9783-fde978972ca7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f5cb3be-f3db-40bd-a2e8-7f08ba8090db",
+  "input": "{\"title\": \"No Matter What\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Only Love'",
+  "status": "verified"
+}

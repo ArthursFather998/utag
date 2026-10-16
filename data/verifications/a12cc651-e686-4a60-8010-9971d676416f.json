@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:47.385317+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3febbc1f-0c3e-4d4d-be34-91e0a9faeb48",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a12cc651-e686-4a60-8010-9971d676416f",
+  "input": "{\"title\": \"Letting Go\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'When the Smoke Clears'",
+  "status": "verified"
+}

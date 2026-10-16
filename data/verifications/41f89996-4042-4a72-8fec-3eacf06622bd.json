@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:41.706005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0666c06-f36d-4a0c-ab9f-be884823d412",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41f89996-4042-4a72-8fec-3eacf06622bd",
+  "input": "{\"title\": \"Nobody's Watching\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'WHAT A NIGHT TO BE IN LOVE'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:27.86599+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19d7dc0d-f365-4668-8da7-8ef5dc022b70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca2bcb7e-6a03-427b-8333-a1c85bb4e566",
+  "input": "{\"title\": \"Lay You Down\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Remedy'",
+  "status": "verified"
+}

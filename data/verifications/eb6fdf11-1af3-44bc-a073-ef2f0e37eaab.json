@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:05.333111+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c393402-9088-4823-b930-b591a346d61b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb6fdf11-1af3-44bc-a073-ef2f0e37eaab",
+  "input": "{\"title\": \"Bewitched\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Bewitched'",
+  "status": "verified"
+}

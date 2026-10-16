@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:44.198855+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd1c43ae-b0c2-4688-9b7f-29d30c09d880",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42df67a1-d50b-45a0-9300-0c585fba467d",
+  "input": "{\"title\": \"Loverboy (Remix)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Glitter'",
+  "status": "verified"
+}

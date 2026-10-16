@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:43.230729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b8829b3-406b-4fe2-acb3-fb17eef93439",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92a7780c-b388-4b00-bf79-9f8400c37a97",
+  "input": "{\"title\": \"You're The Storm (Sandkvie Session)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Rest of the Best - Vol. 2'",
+  "status": "verified"
+}

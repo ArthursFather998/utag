@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:42.432951+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2a0a685-1333-40c1-bcea-d28853983f0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90ad4228-cbd7-482e-b56e-b4da86fc3805",
+  "input": "{\"title\": \"I\\u2019m Back\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Marshall Mathers LP'",
+  "status": "verified"
+}

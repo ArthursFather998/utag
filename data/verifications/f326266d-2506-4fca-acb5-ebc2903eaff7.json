@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:42.254593+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fb72ef6-a8e8-4fe9-92b3-7ca0a1023c34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f326266d-2506-4fca-acb5-ebc2903eaff7",
+  "input": "{\"title\": \"Hailie\\u2019s Song\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Eminem Show'",
+  "status": "verified"
+}

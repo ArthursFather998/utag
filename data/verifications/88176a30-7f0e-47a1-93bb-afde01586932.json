@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:06.320114+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65cd3721-9226-44f9-b80f-1ea55d4b6923",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "88176a30-7f0e-47a1-93bb-afde01586932",
+  "input": "{\"title\": \"Affection\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

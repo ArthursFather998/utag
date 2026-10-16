@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:48.637768+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5c01fcc-f7fc-4c1f-9406-a07e2f3b9bc8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74a0fab0-6299-4b13-9fe5-5a66f5b64ffe",
+  "input": "{\"title\": \"Rain (Pop Mix)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'With Arms Wide Open: A Retrospective'",
+  "status": "verified"
+}

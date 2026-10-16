@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:01.771008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e2032cf-98e9-40bf-9823-19b1c09ad58a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ddb5f35-7532-491a-ac89-342a16da1ef5",
+  "input": "{\"title\": \"Mad as Rabbits (Live)\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of '...Live in Chicago'",
+  "status": "verified"
+}

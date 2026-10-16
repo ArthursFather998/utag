@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:41.969719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9ab0ac8-e81b-4efb-a266-17f66b89eb2a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5073e320-817a-4816-9045-6235f637990d",
+  "input": "{\"title\": \"If That's the Way You Want It\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Boys, Boys, Boys with Bonus Tracks'",
+  "status": "verified"
+}

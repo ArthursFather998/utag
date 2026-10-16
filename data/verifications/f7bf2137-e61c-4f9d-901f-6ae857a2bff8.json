@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:19.567034+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1807644-46d8-4631-a456-13b3a19b94d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7bf2137-e61c-4f9d-901f-6ae857a2bff8",
+  "input": "{\"title\": \"Fast Girls\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fast Girls'",
+  "status": "verified"
+}

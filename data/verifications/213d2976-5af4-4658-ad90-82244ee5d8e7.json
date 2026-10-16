@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:49.632812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "281e49ac-d04b-4d3d-97bc-dcc797afc887",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "213d2976-5af4-4658-ad90-82244ee5d8e7",
+  "input": "{\"title\": \"The Marauders\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Songs from the Big Chair (40th Anniversary Edition)'",
+  "status": "verified"
+}

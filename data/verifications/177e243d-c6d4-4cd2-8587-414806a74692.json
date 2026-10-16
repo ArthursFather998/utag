@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:45.541477+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b69ca724-fa48-43b8-8ce3-8f65e64843d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "177e243d-c6d4-4cd2-8587-414806a74692",
+  "input": "{\"title\": \"Son and Daughter (Reprise)\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'Live at the Rainbow '74'",
+  "status": "verified"
+}

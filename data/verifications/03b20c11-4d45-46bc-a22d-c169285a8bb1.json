@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:55.485831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1c363ab-3518-43d2-91b8-aaca0e11bb06",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03b20c11-4d45-46bc-a22d-c169285a8bb1",
+  "input": "{\"title\": \"Jesus Born on This Day\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Merry Christmas (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

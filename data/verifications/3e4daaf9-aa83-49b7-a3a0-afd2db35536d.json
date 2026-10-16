@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:45.625436+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "3f0c5e8b-9df8-4693-bc63-6a91187f9cd7",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "3e4daaf9-aa83-49b7-a3a0-afd2db35536d",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "Switchblade",
+    "title": "Switchblade"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Real second single from Pylon, released 14 July 2026 via Dirty Hit/Interscope with lyric video; title/artist/2026 year all match. | sources: https://en.wikipedia.org/wiki/Switchblade_(song), https://www.udiscovermusic.com/news/beabadoobee-switchblade/",
+  "status": "verified"
+}

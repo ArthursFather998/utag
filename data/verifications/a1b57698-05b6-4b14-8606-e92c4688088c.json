@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:16.472786+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ec74ad7-af75-4805-b599-4aa1e6f968cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1b57698-05b6-4b14-8606-e92c4688088c",
+  "input": "{\"title\": \"The Ultracheese\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Tranquility Base Hotel & Casino'",
+  "status": "verified"
+}

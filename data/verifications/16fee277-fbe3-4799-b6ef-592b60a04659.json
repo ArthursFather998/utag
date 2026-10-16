@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:03.564684+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2aae66f-3b4e-49f9-8194-96f3ada4469f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "16fee277-fbe3-4799-b6ef-592b60a04659",
+  "input": "{\"title\": \"My Heart Is Broken\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

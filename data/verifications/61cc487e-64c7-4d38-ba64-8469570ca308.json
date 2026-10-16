@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:23.807332+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbc8e591-0c8b-4770-a7ac-b9e42c38c5f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "61cc487e-64c7-4d38-ba64-8469570ca308",
+  "input": "{\"title\": \"We Will Rock You\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Queen on Fire - Live at the Bowl'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:11.636481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b33b9fa7-463f-4a38-b564-c2363a90c72e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cdefacbe-b114-44e6-b9cb-46d5e9d90868",
+  "input": "{\"title\": \"On the Down Low\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'On the Down Low'",
+  "status": "verified"
+}

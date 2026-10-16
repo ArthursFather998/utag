@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:40.381327+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bada8ece-2ea2-43ca-8f7e-9f90b9d9cd6a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13f3104a-55da-4b48-9025-83fd82ee2ec5",
+  "input": "{\"title\": \"Rain Must Fall\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Miracle'",
+  "status": "verified"
+}

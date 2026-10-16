@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:46.913647+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df5f3a57-e0cd-4078-b449-fed7cbbd2d3f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e774b61e-8ce0-43b9-a804-7c181d5a9135",
+  "input": "{\"title\": \"Dead End Road (Unlocked)\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Keys'",
+  "status": "verified"
+}

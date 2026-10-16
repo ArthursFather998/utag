@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:02.215203+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bbae088f-fe21-4455-98bf-18d73856aae5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fcd865eb-f312-4de3-ad88-8fcf2c18155e",
+  "input": "{\"title\": \"That's Not How This Works\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

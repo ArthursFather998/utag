@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:30.303417+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15a3bbb4-395c-4bf0-b156-1d729c041b28",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7725d2fc-ffae-4cfc-91f5-58f9c9340919",
+  "input": "{\"title\": \"These Are the Days of Our Lives\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Queen Forever'",
+  "status": "verified"
+}

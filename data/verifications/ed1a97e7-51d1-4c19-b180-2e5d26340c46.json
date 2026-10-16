@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:02.255479+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1745e893-af01-45ae-96c1-897368ad7cd7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ed1a97e7-51d1-4c19-b180-2e5d26340c46",
+  "input": "{\"title\": \"Hero\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:02.911875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "04de83fb-3f51-4bdd-865c-f5f078c5d95f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1dd4d0a4-c34e-4db8-a802-f925de8cf129",
+  "input": "{\"title\": \"Man of the World\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Best of Peter Green's Fleetwood Mac'",
+  "status": "verified"
+}

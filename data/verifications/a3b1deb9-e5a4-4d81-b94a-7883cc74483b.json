@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:50.627787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62498823-933c-4052-95b5-7b1ed917b887",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3b1deb9-e5a4-4d81-b94a-7883cc74483b",
+  "input": "{\"title\": \"The Last Christmas Without You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Dawn of Grace'",
+  "status": "verified"
+}

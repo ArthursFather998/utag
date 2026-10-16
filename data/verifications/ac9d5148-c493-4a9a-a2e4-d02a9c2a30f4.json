@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:57.490555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db326fb9-4dce-41bc-b604-0db68ed1dbda",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ac9d5148-c493-4a9a-a2e4-d02a9c2a30f4",
+  "input": "{\"title\": \"Men of the World: The Blues Years\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

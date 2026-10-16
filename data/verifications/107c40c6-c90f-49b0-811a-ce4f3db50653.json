@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:39.942576+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ea39b6a-43f1-483f-a8cf-4bf300eaa06a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "107c40c6-c90f-49b0-811a-ce4f3db50653",
+  "input": "{\"title\": \"Tr\\u00e1tame Bien\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Tornasol'",
+  "status": "verified"
+}

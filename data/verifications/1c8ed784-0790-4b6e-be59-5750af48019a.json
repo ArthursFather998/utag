@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:32.321412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c72c044-a13f-4e85-88d3-f21de34bb0e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c8ed784-0790-4b6e-be59-5750af48019a",
+  "input": "{\"title\": \"Love Again\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Again'",
+  "status": "verified"
+}

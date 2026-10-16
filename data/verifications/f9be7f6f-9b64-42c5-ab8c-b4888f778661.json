@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:38.391723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c30c56f0-8110-40c9-80ef-b0ea6f07324f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9be7f6f-9b64-42c5-ab8c-b4888f778661",
+  "input": "{\"title\": \"Grown Woman (duet with Miranda Lambert)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Relentless'",
+  "status": "verified"
+}

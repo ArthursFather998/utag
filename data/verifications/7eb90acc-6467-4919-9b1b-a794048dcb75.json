@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:42.303024+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6921e51-b1ca-4160-84aa-6bf4aa37a96b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7eb90acc-6467-4919-9b1b-a794048dcb75",
+  "input": "{\"title\": \"The Show Must Go On\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Classic Queen'",
+  "status": "verified"
+}

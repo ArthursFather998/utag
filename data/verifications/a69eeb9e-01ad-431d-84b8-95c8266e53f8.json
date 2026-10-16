@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:26.24785+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9dead0d-abdb-450f-8879-7ca1a0242053",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a69eeb9e-01ad-431d-84b8-95c8266e53f8",
+  "input": "{\"title\": \"The Ballade\", \"release_type\": \"album\", \"release_year\": 1991}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

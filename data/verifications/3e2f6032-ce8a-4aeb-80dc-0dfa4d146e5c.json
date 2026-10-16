@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:14.341387+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "371c1c0d-d8f5-4a40-b125-4124813535e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e2f6032-ce8a-4aeb-80dc-0dfa4d146e5c",
+  "input": "{\"title\": \"I Will Make It Up to You\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'I Am Human (Deluxe Edition)'",
+  "status": "verified"
+}

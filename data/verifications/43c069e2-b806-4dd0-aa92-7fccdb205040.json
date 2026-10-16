@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:00.779995+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "664ebbfe-3b42-4c44-ae38-c1cb135370f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43c069e2-b806-4dd0-aa92-7fccdb205040",
+  "input": "{\"title\": \"All I Can Say\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Sincerely'",
+  "status": "verified"
+}

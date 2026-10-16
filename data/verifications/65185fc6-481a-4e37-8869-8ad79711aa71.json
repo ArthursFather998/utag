@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:02.961555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d89c70a-2a26-43d6-886b-3dde909873c3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "65185fc6-481a-4e37-8869-8ad79711aa71",
+  "input": "{\"title\": \"Heaven\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:28.174115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3aa9bb95-b9d5-4776-8bf8-08ad5f209fcd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4261634-9ed9-4f59-a812-1ef6073fcee1",
+  "input": "{\"title\": \"Mojo Pin\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Original Album Classics'",
+  "status": "verified"
+}

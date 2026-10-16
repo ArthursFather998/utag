@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:33.008859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9932589f-6e73-490c-b1cb-b5194e88e7d6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "45027bc0-14ba-4b11-a3c0-14de2d360b25",
+  "input": "{\"title\": \"Gangsta\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

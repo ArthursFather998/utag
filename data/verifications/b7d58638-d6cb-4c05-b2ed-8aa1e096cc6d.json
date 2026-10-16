@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:47.013651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9e1e2de-7bb9-412e-a8de-0510848d95e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7d58638-d6cb-4c05-b2ed-8aa1e096cc6d",
+  "input": "{\"title\": \"Lover, You Should've Come Over\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live at Cabaret Metro, Chicago, IL, May 13, 1995'",
+  "status": "verified"
+}

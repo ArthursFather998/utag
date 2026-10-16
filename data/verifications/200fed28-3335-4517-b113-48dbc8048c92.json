@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:26.829396+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3fb9916d-0042-4c6c-8ff4-ed606dc8517d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "200fed28-3335-4517-b113-48dbc8048c92",
+  "input": "{\"title\": \"Kisses Don't Lie\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of '3 CD Collector's Set'",
+  "status": "verified"
+}

@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Connie Francis",
+    "confidence": "unknown",
+    "created_at": "2026-10-16T17:59:45.569707+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "b8cf7fb2-e6f2-44f5-adec-575408cf7a79",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-16T17:59:45.569707+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Connie Francis",
+        "id": "b8cf7fb2-e6f2-44f5-adec-575408cf7a79"
+      },
+      "artwork": [
+        {
+          "id": "4e728a1d-f9de-4644-b752-3a9f6c703f5e",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/f1aa407a-1bd6-4ccf-ab39-cc986b8b377e/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T17:59:45.678495+00:00",
+      "edition": "original",
+      "id": "90b158b8-ab14-49af-bd75-ceab528cc8b1",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Souvenirs"
+    }
+  ],
+  "verifications": []
+}

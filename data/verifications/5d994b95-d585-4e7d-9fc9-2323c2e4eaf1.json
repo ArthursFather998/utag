@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:55.727706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56d39a42-894e-4b2c-b645-158e4e43db57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d994b95-d585-4e7d-9fc9-2323c2e4eaf1",
+  "input": "{\"title\": \"A Million Miles Away\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'A Girl Like Me'",
+  "status": "verified"
+}

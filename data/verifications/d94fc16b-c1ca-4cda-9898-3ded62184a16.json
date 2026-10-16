@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:28.919043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0e81342-4b5b-4405-8e6e-508d228d8de1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d94fc16b-c1ca-4cda-9898-3ded62184a16",
+  "input": "{\"title\": \"Greatest Hits III\", \"release_type\": \"album\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

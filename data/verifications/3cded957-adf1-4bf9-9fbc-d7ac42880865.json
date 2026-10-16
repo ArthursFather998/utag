@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:21.017457+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89f73ef0-dbd6-444b-bf3c-d939cf0ddc77",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3cded957-adf1-4bf9-9fbc-d7ac42880865",
+  "input": "{\"title\": \"Sunset\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Drunken Babble'",
+  "status": "verified"
+}

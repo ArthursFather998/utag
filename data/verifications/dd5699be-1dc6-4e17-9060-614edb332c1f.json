@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:10.573544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6078b7ea-93bb-4433-94c1-00b3a74f81ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd5699be-1dc6-4e17-9060-614edb332c1f",
+  "input": "{\"title\": \"The Last Song\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Good Girl Gone Bad / Rated R'",
+  "status": "verified"
+}

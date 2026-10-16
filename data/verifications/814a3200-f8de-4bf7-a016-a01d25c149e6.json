@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:25.196883+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a200c34-25d7-47fa-ac20-91f4ea135958",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "814a3200-f8de-4bf7-a016-a01d25c149e6",
+  "input": "{\"title\": \"Rudolph the Red-Nosed Reindeer\", \"release_type\": \"single\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

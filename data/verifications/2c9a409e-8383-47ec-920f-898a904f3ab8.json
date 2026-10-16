@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:15.461166+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c61f88b0-74cc-40a8-a6d0-51ab36f398b9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c9a409e-8383-47ec-920f-898a904f3ab8",
+  "input": "{\"title\": \"One Shot 2 Shot\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Encore'",
+  "status": "verified"
+}

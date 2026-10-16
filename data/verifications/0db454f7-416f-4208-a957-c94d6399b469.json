@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:02.050935+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a130aeb-fd2f-4a9a-b627-293140036f31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0db454f7-416f-4208-a957-c94d6399b469",
+  "input": "{\"title\": \"Jimmy Beware\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'In a Mellow Mood'",
+  "status": "verified"
+}

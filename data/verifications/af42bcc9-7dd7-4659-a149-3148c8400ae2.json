@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:11.718728+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6dab05e0-cf0a-43d1-b042-7929bdf15098",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af42bcc9-7dd7-4659-a149-3148c8400ae2",
+  "input": "{\"title\": \"Cold Blooded\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Coming Home'",
+  "status": "verified"
+}

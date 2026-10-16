@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:25.8528+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12ab54da-fd92-427c-a9b5-7abd92db65ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4460299b-9933-4a76-b1ab-29b2c8a3b32f",
+  "input": "{\"title\": \"When Christmas Comes\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Merry Christmas (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

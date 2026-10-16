@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:28.323454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89398d65-3caf-423d-ac19-a5e296082f19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02b3f0b1-cdae-4b7c-a430-a06174347e7e",
+  "input": "{\"title\": \"All The Signs\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'All The Signs'",
+  "status": "verified"
+}

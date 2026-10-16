@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:08.04769+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79543aa9-6d7d-4a3e-9c89-d9adc86ddb09",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92dc6510-a814-4bcb-aaeb-33755d93b873",
+  "input": "{\"title\": \"Luv\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Discipline (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:18.071251+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e368c3cf-664f-4b67-bd62-d3e494b70a43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd0a0ad3-0827-4f86-9b3e-fea4643681eb",
+  "input": "{\"title\": \"Mothers Talk\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Rule the World: The Greatest Hits'",
+  "status": "verified"
+}

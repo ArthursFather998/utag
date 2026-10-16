@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:30.581367+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df171ee7-9bad-4819-9c05-befd6811f358",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0ebb2dfe-042e-42b0-9045-6b8c86a03fdb",
+  "input": "{\"title\": \"Disney Princess\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

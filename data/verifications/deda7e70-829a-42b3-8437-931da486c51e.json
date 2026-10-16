@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:03.199511+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5fea26a-e4af-4036-9429-4d2ea3174034",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "deda7e70-829a-42b3-8437-931da486c51e",
+  "input": "{\"title\": \"distance\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:40:13.810677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6fa0baa-3607-4ec3-9053-53022304a1e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1a85a70-6cce-4a53-bd5c-32cba61aaed9",
+  "input": "{\"title\": \"Disc 4 - I'm Going Out (The Same Way I Came In)\", \"track_number\": 101}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 101 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

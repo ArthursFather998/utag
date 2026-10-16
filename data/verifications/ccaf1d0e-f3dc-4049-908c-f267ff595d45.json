@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:16.056448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6a91783-6332-4b00-8c73-8c5e2edf6aef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ccaf1d0e-f3dc-4049-908c-f267ff595d45",
+  "input": "{\"title\": \"Sail Away Sweet Sister\", \"track_number\": 32}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 32 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

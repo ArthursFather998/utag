@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:40.327673+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e17443d4-ab6b-4ddd-945f-f4ad4c1448b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07369ed1-529a-4bd7-bc49-5d97dfc8a1f4",
+  "input": "{\"title\": \"A Journey To (S)Hell\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Sketches of Brunswick East'",
+  "status": "verified"
+}

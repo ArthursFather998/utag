@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:51.626178+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "663bb25a-bf02-4adc-8cbe-2e314f3c89a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15b8048a-8e14-41f3-a82d-011626b5adb8",
+  "input": "{\"title\": \"Man In A Raincoat\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Buried Treasure'",
+  "status": "verified"
+}

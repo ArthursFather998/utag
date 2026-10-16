@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:02.958194+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "03cc1e9e-67d9-4fc1-a43f-cc83fccf91bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "964a7688-2e47-427c-be7d-000c534ef975",
+  "input": "{\"title\": \"For the Last Time\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'A Place We Knew'",
+  "status": "verified"
+}

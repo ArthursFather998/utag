@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:48.583009+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea394e58-efd9-47e6-a8ab-f9027945ee10",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c332f885-c101-41cd-93e4-dcd80ca63ec7",
+  "input": "{\"title\": \"I'll Be There\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Japan Best'",
+  "status": "verified"
+}

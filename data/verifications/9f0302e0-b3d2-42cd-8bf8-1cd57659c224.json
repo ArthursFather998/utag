@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:12.004025+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b412ce8e-57a0-42da-a6fb-262f4b9a6e66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f0302e0-b3d2-42cd-8bf8-1cd57659c224",
+  "input": "{\"title\": \"Chalk Outline\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Chalk Outline'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:57.359809+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de9cda52-98fc-42dd-952d-c37e4dd6ebf7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1cbf6e4-9456-4def-9955-7f5a600e9ebf",
+  "input": "{\"title\": \"Shoulda, Woulda, Coulda (Live)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'An Evening with Brian McKnight'",
+  "status": "verified"
+}

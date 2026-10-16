@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:58.256632+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31ef635e-a508-4c6f-a9bb-ab99c2a8ddf4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4778a610-4f22-465c-902d-c5dfaef61da3",
+  "input": "{\"title\": \"Valentine\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'A Night at the Symphony: Hollywood Bowl'",
+  "status": "verified"
+}

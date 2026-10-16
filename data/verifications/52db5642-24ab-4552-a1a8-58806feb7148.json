@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:29.769809+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0698afde-9be4-461b-b597-d59681381850",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "52db5642-24ab-4552-a1a8-58806feb7148",
+  "input": "{\"title\": \"Your Song\", \"release_type\": \"single\", \"release_year\": 1970}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

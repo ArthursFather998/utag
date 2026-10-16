@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:16.232534+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "921478d0-d0b0-42ec-87c3-e91de5ba0529",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d3e1c83-c3c6-4c64-ad97-d0f2ffbe24f2",
+  "input": "{\"title\": \"The Show Must Go On\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Jewels'",
+  "status": "verified"
+}

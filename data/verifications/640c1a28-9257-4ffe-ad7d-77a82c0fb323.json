@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:06.158631+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62d7c704-2081-412a-850a-4f500062c24a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "640c1a28-9257-4ffe-ad7d-77a82c0fb323",
+  "input": "{\"title\": \"Better Man\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Swag II'",
+  "status": "verified"
+}

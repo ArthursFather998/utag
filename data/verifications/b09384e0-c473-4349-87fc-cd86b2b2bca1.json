@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:55.886389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34e6e541-04e9-44eb-9dba-2d27d437bf89",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b09384e0-c473-4349-87fc-cd86b2b2bca1",
+  "input": "{\"title\": \"Lovin U\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Songs in A Minor: 20th Anniversary Edition'",
+  "status": "verified"
+}

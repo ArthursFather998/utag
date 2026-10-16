@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:14.578567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7c2b8f1-bcf6-45ec-8917-13f0490b50d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35a63ebf-8f5e-4f27-b2b8-d951b2324c2b",
+  "input": "{\"title\": \"Discipline\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Discipline'",
+  "status": "verified"
+}

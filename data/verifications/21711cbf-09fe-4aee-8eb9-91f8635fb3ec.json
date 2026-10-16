@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:44.115605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29b9c4a6-3d3a-4adc-b636-bf7c880bd6fa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21711cbf-09fe-4aee-8eb9-91f8635fb3ec",
+  "input": "{\"title\": \"Mojo Pin\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live at Wetlands, New York, NY, August 16, 1994'",
+  "status": "verified"
+}

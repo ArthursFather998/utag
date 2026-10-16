@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:46.958144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b09fe07-a6f8-4330-a1c7-c32f1f71bbd1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9ee62d2-0af3-4945-b5ad-9f134585cb05",
+  "input": "{\"title\": \"Black & White\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Goodbye & Good Riddance (5th Anniversary Edition)'",
+  "status": "verified"
+}

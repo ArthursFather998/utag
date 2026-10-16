@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:05.596724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d7b4fec-70d5-4dfe-af75-3feed7bf493f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5962596-7fb0-41bf-b285-11b794224901",
+  "input": "{\"title\": \"Kill Bill\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Apple Music Live: SZA'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:38.928768+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7301e989-09c0-4601-bd2a-8ba29c278f59",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d5da5f56-16a2-4067-8ae3-570b4a1c096c",
+  "input": "{\"title\": \"Thats What I Want\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

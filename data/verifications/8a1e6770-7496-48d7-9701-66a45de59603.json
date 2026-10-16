@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:04.491916+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d85b47d9-3c33-4ce0-a602-f0bc7f6162e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a1e6770-7496-48d7-9701-66a45de59603",
+  "input": "{\"title\": \"Valentine\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'A Night at the Symphony'",
+  "status": "verified"
+}

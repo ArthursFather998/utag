@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:22.849801+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5585cde0-9bcd-4485-ac58-b6894b33169d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cec7cb60-36b6-432a-8560-96b8b5434124",
+  "input": "{\"title\": \"Dragonfly\", \"release_type\": \"single\", \"release_year\": 1971}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

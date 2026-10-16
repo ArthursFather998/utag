@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:20.207937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f18049d-80b9-49d3-8c39-17866efc6573",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b94289de-15bd-4069-a714-3cabbcd7a73a",
+  "input": "{\"title\": \"Mustapha\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mustapha'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:05.521876+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc2b6306-d8cc-463c-a5f6-8aba2402047a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb48fbb0-c3be-4e49-a51d-ffec76cf0249",
+  "input": "{\"title\": \"Honey Hi\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Opus Collection'",
+  "status": "verified"
+}

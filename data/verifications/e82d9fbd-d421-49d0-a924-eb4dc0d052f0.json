@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:31.834172+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eff33e2c-fcb2-47db-ac82-892c2d939b71",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e82d9fbd-d421-49d0-a924-eb4dc0d052f0",
+  "input": "{\"title\": \"Whistle\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Whistle'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:53:07.311931+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e4424dee-2d11-44b9-8cc0-605728749681",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a17aefe2-85fd-4853-ba33-11776ee47eb4",
+  "input": "{\"title\": \"I've Never Been in Love Before\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Everything I Know About Love (Deluxe Edition)'",
+  "status": "verified"
+}

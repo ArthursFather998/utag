@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:06.981209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b9f11f1-1631-4f1c-b4dc-1c8c7bb3373e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8aa6aa6d-4f4e-4e59-9726-356368c700a9",
+  "input": "{\"title\": \"Drag Me Down\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Made in the A.M. (Deluxe Edition)'",
+  "status": "verified"
+}

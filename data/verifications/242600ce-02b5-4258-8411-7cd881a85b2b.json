@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:02.326248+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92dbcbdd-a9d4-4e6b-a19f-ca9f4e51a096",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "242600ce-02b5-4258-8411-7cd881a85b2b",
+  "input": "{\"title\": \"Winter Storm Freestyle\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Birthday Blizzard '26'",
+  "status": "verified"
+}

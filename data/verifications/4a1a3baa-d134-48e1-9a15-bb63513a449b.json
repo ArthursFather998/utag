@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:57.393754+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17b419f9-10f2-4160-8bee-2ddf1955fc2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a1a3baa-d134-48e1-9a15-bb63513a449b",
+  "input": "{\"title\": \"Night Flight\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'You and I'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:50.113387+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9b5fe82-05d2-4fe4-89d8-2114ee9a75d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0537fc3-3f0b-4bf0-9012-8ff1a60d6b21",
+  "input": "{\"title\": \"It's a Hard Life\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The 12\" Collection'",
+  "status": "verified"
+}

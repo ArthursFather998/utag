@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:05.854347+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81f42818-1a01-4521-98cf-bb03f7adc760",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "246fed68-92f7-474d-9fcc-f6d6adafe921",
+  "input": "{\"title\": \"House of Memories (Sped Up Version)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'House of Memories EP'",
+  "status": "verified"
+}

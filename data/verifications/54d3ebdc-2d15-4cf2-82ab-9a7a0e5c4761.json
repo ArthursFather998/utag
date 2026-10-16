@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:40.291265+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa6d85c2-e4e8-49e7-a313-70eae8d58936",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "54d3ebdc-2d15-4cf2-82ab-9a7a0e5c4761",
+  "input": "{\"title\": \"Falling Behind\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

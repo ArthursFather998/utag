@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:42.857648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5d30165-e6a9-4f1e-8b5d-d3dd8355ba21",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb64c86e-7c53-4fbf-9310-6469c66af762",
+  "input": "{\"title\": \"You Want This\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Japanese Singles Collection: Greatest Hits'",
+  "status": "verified"
+}

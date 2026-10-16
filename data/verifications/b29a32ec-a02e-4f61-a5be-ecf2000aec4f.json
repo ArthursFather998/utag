@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:17.738707+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d675035-8e73-4a02-9860-10b47171c37e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b29a32ec-a02e-4f61-a5be-ecf2000aec4f",
+  "input": "{\"title\": \"white noise.\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Icon (Director's Cut)'",
+  "status": "verified"
+}

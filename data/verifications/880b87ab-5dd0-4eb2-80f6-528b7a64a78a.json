@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:20.027609+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d67227d4-c500-4c13-b42e-71cbb98f48ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "880b87ab-5dd0-4eb2-80f6-528b7a64a78a",
+  "input": "{\"title\": \"\\u00bfC\\u00f3mo As\\u00ed?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Orquídeas Parte 2'",
+  "status": "verified"
+}

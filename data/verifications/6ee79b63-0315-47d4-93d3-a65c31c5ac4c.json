@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:39.156925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aaa9f693-90a9-4645-9be4-dbc7ae22f179",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6ee79b63-0315-47d4-93d3-a65c31c5ac4c",
+  "input": "{\"title\": \"Make It Happen\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

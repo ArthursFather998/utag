@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:57.006512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a96a37e5-f6e8-4520-82a4-ebfa5a65169a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5906ca83-2110-4111-b356-7e341eabcffb",
+  "input": "{\"title\": \"Tobey\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tobey'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:42:17.257344+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5aa709cf-ff36-4487-832c-8f61a90d2a53",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d2fa801-bead-4fe0-90ff-824444aa8a9e",
+  "input": "{\"title\": \"I Just Shot John Lennon\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'To the Faithful Departed'",
+  "status": "verified"
+}

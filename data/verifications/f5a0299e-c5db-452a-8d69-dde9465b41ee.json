@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:12:42.418408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b96ee3ab-4deb-4b23-b7a7-70d14b2cf6aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5a0299e-c5db-452a-8d69-dde9465b41ee",
+  "input": "{\"title\": \"Live For (feat. Drake)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live For'",
+  "status": "verified"
+}

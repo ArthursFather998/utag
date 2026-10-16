@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:12.219688+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "581adb66-029b-44af-a1d2-ae852ce2c02b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab617191-4417-4efa-92bd-3e8156e6e564",
+  "input": "{\"title\": \"The Joy\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Prelude'",
+  "status": "verified"
+}

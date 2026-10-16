@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:38.553035+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b5fc8b3e-fd3f-484a-8996-f43fbb774dea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d73f6632-66f6-42c6-b3c1-367f0b83aafe",
+  "input": "{\"title\": \"What's It Gonna Take\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'IT'S NOT THAT SERIOUS'",
+  "status": "verified"
+}

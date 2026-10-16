@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:38.54847+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74cee7af-afae-4618-ba19-174c8a451de4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2442371b-ff0c-4a3b-9f15-83a9da5e77c4",
+  "input": "{\"title\": \"Better Off Dead\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live from the Rainbow Theatre'",
+  "status": "verified"
+}

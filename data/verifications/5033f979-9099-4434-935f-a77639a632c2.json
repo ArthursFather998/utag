@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:03.756558+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "289f8f43-8d71-4ee2-a45e-4eabeaeba7aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5033f979-9099-4434-935f-a77639a632c2",
+  "input": "{\"title\": \"Bohemian Rhapsody\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Absolute Greatest'",
+  "status": "verified"
+}

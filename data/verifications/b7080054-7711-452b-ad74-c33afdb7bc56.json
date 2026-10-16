@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:03.486146+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce3ba6a1-d10a-43a6-9449-cb7f2655c171",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7080054-7711-452b-ad74-c33afdb7bc56",
+  "input": "{\"title\": \"Sugar, We're Goin Down (Live on BBC Radio)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'From Under the Cork Tree (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:48.332198+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "acaf7168-2cbb-4af9-9899-77fb265c1736",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50a0d8b0-3b3b-45bb-ad53-2561f4d9c179",
+  "input": "{\"title\": \"Spread a Little Love on Christmas Day\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '8 Days of Christmas'",
+  "status": "verified"
+}

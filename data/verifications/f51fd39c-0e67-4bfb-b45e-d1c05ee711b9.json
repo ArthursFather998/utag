@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:39.393769+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d24595d-7e21-4547-9f57-4026e7eeaffb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f51fd39c-0e67-4bfb-b45e-d1c05ee711b9",
+  "input": "{\"title\": \"Swap It Out\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Journals'",
+  "status": "verified"
+}

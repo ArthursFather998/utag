@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:51.333474+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2891daa-989a-4708-b19a-10ddd315ea52",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30b1802c-5195-4619-9220-c82767916647",
+  "input": "{\"title\": \"Red Button\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'For All the Dogs Scary Hours Edition'",
+  "status": "verified"
+}

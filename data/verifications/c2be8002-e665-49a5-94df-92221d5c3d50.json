@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:09.478821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13363a3d-32dc-4d1b-92d3-f347273f62e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c2be8002-e665-49a5-94df-92221d5c3d50",
+  "input": "{\"title\": \"Ride\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Paradise'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:12.793425+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "894067a6-21ba-4f38-9809-97a2fde1513a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "736f5aeb-5679-494b-9c7c-0d1ae3bd11a3",
+  "input": "{\"title\": \"Lifetime\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

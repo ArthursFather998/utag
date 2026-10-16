@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:08.256249+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7399cc55-5c41-4fde-b75a-bde95c14c1f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be5f4235-366b-48ac-9673-fe4af3644658",
+  "input": "{\"title\": \"arsonists\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'arsonists'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:56.536122+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6aaa6a85-8baa-4344-875c-735a63dbe2b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2cc08c4c-a71f-44f9-894d-6ddd99eaadb2",
+  "input": "{\"title\": \"Need Your Love So Bad\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Best of Peter Green's Fleetwood Mac'",
+  "status": "verified"
+}

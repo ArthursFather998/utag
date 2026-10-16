@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:53.102276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a0aa248-714c-43db-973d-a5bde4b0b3d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "522d45e1-5ee5-49ee-ad5b-1c000f156278",
+  "input": "{\"title\": \"Hate That I Love You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hate That I Love You'",
+  "status": "verified"
+}

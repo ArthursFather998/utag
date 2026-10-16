@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:46.752213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30ea022e-dcd2-4c5f-a33e-b05d7a1be5eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1f9254b-354f-43a9-87dc-d6d8266272db",
+  "input": "{\"title\": \"Lay Low (Reprise)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Love Songs for Other People'",
+  "status": "verified"
+}

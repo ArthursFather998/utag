@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:05.071528+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22dddebd-07d5-485c-9c8d-77701634fc3f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "04331bee-1c88-4a18-827a-b4fc52828f10",
+  "input": "{\"title\": \"Mighty\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

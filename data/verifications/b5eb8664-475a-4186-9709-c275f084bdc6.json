@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:02.808043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f283d4dd-ff9e-4850-b8e6-15d3048108a8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b5eb8664-475a-4186-9709-c275f084bdc6",
+  "input": "{\"title\": \"Madman Across the Water\", \"release_type\": \"album\", \"release_year\": 1971}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

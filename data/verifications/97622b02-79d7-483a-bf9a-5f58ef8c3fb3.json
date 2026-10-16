@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:32.204985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cef37edd-b640-4325-a5d3-eec7ba61d206",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "97622b02-79d7-483a-bf9a-5f58ef8c3fb3",
+  "input": "{\"title\": \"Somebody to Love\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

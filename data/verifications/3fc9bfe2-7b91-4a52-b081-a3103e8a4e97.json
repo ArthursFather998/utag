@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:34.69838+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9b45d86-d62a-4bd4-a6fd-358db16eefde",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3fc9bfe2-7b91-4a52-b081-a3103e8a4e97",
+  "input": "{\"title\": \"YSL\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Luv Is Rage 1.5'",
+  "status": "verified"
+}

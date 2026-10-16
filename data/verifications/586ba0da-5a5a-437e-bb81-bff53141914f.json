@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:07.036682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "358040a9-de69-49b8-88f2-c51e14fb92ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "586ba0da-5a5a-437e-bb81-bff53141914f",
+  "input": "{\"title\": \"Hallelujah / I Know It's Over\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live from King Theater, Seattle, WA, May 7, 1995'",
+  "status": "verified"
+}

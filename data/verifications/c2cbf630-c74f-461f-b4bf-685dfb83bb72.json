@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:23.064995+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a1fa751-ca6e-409e-bcf5-f1ebb90a3efa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c2cbf630-c74f-461f-b4bf-685dfb83bb72",
+  "input": "{\"title\": \"Tell Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Destiny's Child'",
+  "status": "verified"
+}

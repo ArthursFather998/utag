@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:59.277674+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0dbc90d2-9c91-4f2f-8182-80996862ec76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0fd0bcdd-a0ff-4eb8-9430-e48ce1e09001",
+  "input": "{\"title\": \"Farewell\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'The Vaudeville Years'",
+  "status": "verified"
+}

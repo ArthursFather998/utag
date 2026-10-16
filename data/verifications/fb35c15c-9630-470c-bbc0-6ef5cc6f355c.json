@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:43.657515+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85a3b8fe-0def-4e81-bbb0-f25a2378ce3f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb35c15c-9630-470c-bbc0-6ef5cc6f355c",
+  "input": "{\"title\": \"Fotos Y Recuerdos\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'La Leyenda'",
+  "status": "verified"
+}

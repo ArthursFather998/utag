@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:51.50844+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60a5cf54-5bf7-4bcc-9aca-1b217ace2e71",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ad057f3-255d-42da-bd49-8d24235802f3",
+  "input": "{\"title\": \"Didn't Mean to Turn You On\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Glitter'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:51.937839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cad1af4b-12ef-4e49-8836-1c761daf6926",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83d5385b-a252-4b1f-9b3a-396128d4774c",
+  "input": "{\"title\": \"Baby (Acoustic Version)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'My Worlds: The Collection'",
+  "status": "verified"
+}

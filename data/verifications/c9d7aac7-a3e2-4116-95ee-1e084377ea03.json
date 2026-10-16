@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:30.197424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f8b6dee-060a-46f6-9c5e-7c389a1c2bf7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c9d7aac7-a3e2-4116-95ee-1e084377ea03",
+  "input": "{\"title\": \"...baby one more time\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

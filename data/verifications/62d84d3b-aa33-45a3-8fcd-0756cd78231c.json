@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:42.081143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f69a99b-d208-430e-bc47-96fc78e66499",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62d84d3b-aa33-45a3-8fcd-0756cd78231c",
+  "input": "{\"title\": \"Just Like Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:16.177404+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83a7c196-10fa-4781-b861-0214bf00bde5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac2edbd5-9833-4c42-ab8f-0d17755ad322",
+  "input": "{\"title\": \"Last Goodbye\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'So Real: Songs from Jeff Buckley'",
+  "status": "verified"
+}

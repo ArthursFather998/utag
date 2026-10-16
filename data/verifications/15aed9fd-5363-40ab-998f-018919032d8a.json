@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:34.219111+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "328f63fa-c495-4a84-97e8-6946d23432ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15aed9fd-5363-40ab-998f-018919032d8a",
+  "input": "{\"title\": \"Blues in B Flat Minor\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'Men of the World: The Blues Years'",
+  "status": "verified"
+}

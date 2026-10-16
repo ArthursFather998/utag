@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:19.570619+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f92aeaf-8253-461a-aafb-06a0ac2a5c23",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89bae5e3-48d9-488f-9787-26355143284f",
+  "input": "{\"title\": \"Hell's Front Porch\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Hades'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:02.502805+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d78e464e-525d-48ea-9719-78b8fdaa8cd6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f860287c-2f81-4b47-a924-b994f11e36e5",
+  "input": "{\"title\": \"Your Song\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Greatest Hits 1970–2002'",
+  "status": "verified"
+}

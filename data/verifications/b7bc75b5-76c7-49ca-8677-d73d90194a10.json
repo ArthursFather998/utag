@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:22.583149+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8cc7509d-5d52-4610-b911-b83f1ee2b64f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7bc75b5-76c7-49ca-8677-d73d90194a10",
+  "input": "{\"title\": \"Patience (Don Toliver solo)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Pink Tape: Level 4'",
+  "status": "verified"
+}

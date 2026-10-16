@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:21.681501+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6a1457e-7028-48ba-87ef-945ee3f5c014",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9f49506f-4d8c-40a8-910e-2da653936e69",
+  "input": "{\"title\": \"Fragile\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

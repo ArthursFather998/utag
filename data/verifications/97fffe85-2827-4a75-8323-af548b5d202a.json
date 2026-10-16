@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:34.692115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f626d312-ce38-4fc6-b0a3-03e463f231ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "97fffe85-2827-4a75-8323-af548b5d202a",
+  "input": "{\"title\": \"Coming Down\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Trilogy'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:13.602456+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d057a46-a521-4d41-a120-7bf42763069e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d02cf4b-4f1f-4cd5-a876-252ea6e4a07b",
+  "input": "{\"title\": \"Help\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'Pink Season'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:53.514679+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4605840-4201-4123-b4e7-0f9c25531991",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a298238d-c17f-436e-ba30-b3073d2847e8",
+  "input": "{\"title\": \"Weeping Willow\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Timeline'",
+  "status": "verified"
+}

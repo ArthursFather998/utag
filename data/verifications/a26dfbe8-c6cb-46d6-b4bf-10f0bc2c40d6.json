@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:39.106118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f998903f-168f-427a-bb7d-24b7255df4f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a26dfbe8-c6cb-46d6-b4bf-10f0bc2c40d6",
+  "input": "{\"title\": \"Drug Ballad\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:24.871364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7dc8a23d-7c5f-4e87-b2f6-95c86234af39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4cc146e4-d535-4b38-b47c-52f95775233c",
+  "input": "{\"title\": \"Furthest Thing\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Nothing Was the Same'",
+  "status": "verified"
+}

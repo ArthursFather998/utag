@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:16.72271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10f7ffd2-98e7-44a2-8900-f48440ce97dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c24d431a-7cc8-48c9-86c3-e46f551881a8",
+  "input": "{\"title\": \"Yo Te Sigo Queriendo\", \"track_number\": 33}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 33 of 'La Leyenda'",
+  "status": "verified"
+}

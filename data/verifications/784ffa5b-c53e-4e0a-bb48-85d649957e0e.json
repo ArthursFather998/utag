@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:37.0209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ee5ca0f-5877-4a9a-ab72-ebcfc2bcae1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "784ffa5b-c53e-4e0a-bb48-85d649957e0e",
+  "input": "{\"title\": \"Hey Ladies\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Writing's on the Wall'",
+  "status": "verified"
+}

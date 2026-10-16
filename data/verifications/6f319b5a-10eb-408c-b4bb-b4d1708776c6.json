@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:16.97603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "389a4da9-7016-4c6d-9c5a-5292a6a93e65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f319b5a-10eb-408c-b4bb-b4d1708776c6",
+  "input": "{\"title\": \"Rules\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rules'",
+  "status": "verified"
+}

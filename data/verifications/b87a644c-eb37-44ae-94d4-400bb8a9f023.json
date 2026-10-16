@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:03.476698+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "007f9cf6-eb93-4822-911b-f33f76cca53a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b87a644c-eb37-44ae-94d4-400bb8a9f023",
+  "input": "{\"title\": \"Hate That I Love You (featuring Ne-Yo)\", \"track_number\": 32}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 32 of 'Music of the Sun / A Girl Like Me / Good Girl Gone Bad'",
+  "status": "verified"
+}

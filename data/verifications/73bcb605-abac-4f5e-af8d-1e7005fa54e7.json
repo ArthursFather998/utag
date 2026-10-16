@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:49.128861+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "655a364c-5922-48d8-ae57-801fdf66eaed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "73bcb605-abac-4f5e-af8d-1e7005fa54e7",
+  "input": "{\"title\": \"Encontre El Amor\", \"release_type\": \"single\", \"release_year\": 1983}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

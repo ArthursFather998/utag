@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:02.9692+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ddcb15e2-5e30-4585-bacf-51b1604bccef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4496b480-9d25-467a-8ea4-23cc33bc7a61",
+  "input": "{\"title\": \"The Man That Got Away\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live from King Theater, Seattle, WA, May 7, 1995'",
+  "status": "verified"
+}

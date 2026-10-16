@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:53.627725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f346ba5c-59ba-4f6e-a46d-84d8480daac1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a53b2f67-699e-4d03-892d-a6df641ddb45",
+  "input": "{\"title\": \"girls\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

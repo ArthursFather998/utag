@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:07.747044+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "415dea66-6611-43a1-a987-e46980005a1a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "531dd6e3-6b14-4211-b6a4-1bc001b983d3",
+  "input": "{\"title\": \"Liquor Store Blues (feat. Damian Marley)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Doo-Wops & Hooligans (Deluxe Edition)'",
+  "status": "verified"
+}

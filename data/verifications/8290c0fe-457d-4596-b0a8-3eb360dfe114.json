@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:22.326684+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37cc0f7b-30a4-4914-9ec8-f1b90dc30c83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8290c0fe-457d-4596-b0a8-3eb360dfe114",
+  "input": "{\"title\": \"Saturday\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Live in Phoenix'",
+  "status": "verified"
+}

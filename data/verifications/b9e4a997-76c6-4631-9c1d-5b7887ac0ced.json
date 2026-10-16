@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:00.25544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9aa06e41-c813-4ebd-96f6-be1450eee753",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b9e4a997-76c6-4631-9c1d-5b7887ac0ced",
+  "input": "{\"title\": \"Jimmy Crack Corn\", \"release_type\": \"single\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

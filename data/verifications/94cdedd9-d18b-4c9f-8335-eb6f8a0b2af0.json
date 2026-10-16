@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:22.873961+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84311fbd-b09c-4b18-856d-9053135face3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94cdedd9-d18b-4c9f-8335-eb6f8a0b2af0",
+  "input": "{\"title\": \"Don't Stop the Music\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'Coffret 4 CD'",
+  "status": "verified"
+}

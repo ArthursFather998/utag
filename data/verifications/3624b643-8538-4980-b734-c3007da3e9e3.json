@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:37.185812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d728fa50-7cc1-4af4-b46b-e9f6b5ab5546",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3624b643-8538-4980-b734-c3007da3e9e3",
+  "input": "{\"title\": \"Someone Saved My Life Tonight\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Elton John's Greatest Hits Volume II'",
+  "status": "verified"
+}

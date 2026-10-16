@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:56.855057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2bac90fc-34fd-4fee-ac0e-617a5d2502b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fcda72d8-d9a9-41d3-91b2-39128668cd1d",
+  "input": "{\"title\": \"KTM Drip\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Party Never Ends'",
+  "status": "verified"
+}

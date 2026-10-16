@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:27.739205+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d6cfeb2-7c9e-4ba6-9d2e-6fbbf7c0ea0b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a5dd3a2f-ae29-4f9a-addb-71efb277acd0",
+  "input": "{\"title\": \"The Dawn of Grace (Deluxe Edition)\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

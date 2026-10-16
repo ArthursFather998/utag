@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:04.512027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e249c843-489d-4bb5-9682-49ba2b4644f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b543d251-a2fd-4996-a518-0f7d00c10518",
+  "input": "{\"title\": \"Unstable (feat. The Kid Laroi)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Justice'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:58.39625+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c242e529-1e27-4bd7-9104-d168f1c491d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50aab9bb-1b4d-443a-8e98-a53ab1c606f1",
+  "input": "{\"title\": \"Used to Be My Girl\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Used to Be My Girl'",
+  "status": "verified"
+}

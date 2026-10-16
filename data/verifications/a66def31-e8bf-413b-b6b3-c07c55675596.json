@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:32.168855+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "57d1b28d-0464-461e-95ac-e0ae00f4d82f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a66def31-e8bf-413b-b6b3-c07c55675596",
+  "input": "{\"title\": \"Broken Hearts Heal\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Unbreakable'",
+  "status": "verified"
+}

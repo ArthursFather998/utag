@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:41.396492+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ef79d80-2f1b-4bb5-899f-10f78f94f4c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d284b543-5b0b-4275-b312-68baae8628ab",
+  "input": "{\"title\": \"Gently\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'For All the Dogs Scary Hours Edition'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:15.216721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "134d3732-1c23-4644-a07e-b9378a84c228",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbb765a2-ef9e-422c-8a9b-9175ffd3447b",
+  "input": "{\"title\": \"Dr. West (skit)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Relapse: Refill'",
+  "status": "verified"
+}

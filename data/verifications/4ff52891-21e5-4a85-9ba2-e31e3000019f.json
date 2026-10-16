@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:22.557195+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c805568-dd4d-46ba-904a-8cb520032c86",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ff52891-21e5-4a85-9ba2-e31e3000019f",
+  "input": "{\"title\": \"Lost in the Sun\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Take It to the Limit'",
+  "status": "verified"
+}

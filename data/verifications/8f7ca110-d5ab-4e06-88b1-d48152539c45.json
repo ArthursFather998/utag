@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:48.945909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21e17fdd-6360-432a-a61a-affc7a7ef97d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f7ca110-d5ab-4e06-88b1-d48152539c45",
+  "input": "{\"title\": \"Dance, Dance\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

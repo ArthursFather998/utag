@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:54.114306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0895fad0-177a-4c73-8ae8-2be60a457ce9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cbf6fd34-3938-4ec9-9959-ab213ac8e2c5",
+  "input": "{\"title\": \"Nose Ring\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Hellboy'",
+  "status": "verified"
+}

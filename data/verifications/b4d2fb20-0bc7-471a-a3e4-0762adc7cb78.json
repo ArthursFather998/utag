@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:42.408601+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "545a28d1-0f84-4906-9a44-6f151a02e8a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4d2fb20-0bc7-471a-a3e4-0762adc7cb78",
+  "input": "{\"title\": \"Bei Mir Bist du Sch\\u00f6n (Means That You're Grand)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live at the Copa'",
+  "status": "verified"
+}

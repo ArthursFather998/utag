@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:41.200358+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52ffc7ed-3d30-4f20-85fa-44db40dbe10e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8bb3348-ae04-402e-bb36-18b51989d791",
+  "input": "{\"title\": \"Holdin' Steel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Holdin' Steel'",
+  "status": "verified"
+}

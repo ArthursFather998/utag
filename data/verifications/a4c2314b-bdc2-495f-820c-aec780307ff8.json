@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:22.287465+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25e59ede-4fcf-4e0f-bf45-823f4a975a3d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4c2314b-bdc2-495f-820c-aec780307ff8",
+  "input": "{\"title\": \"Any Ol' Barstool\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'They Don't Know'",
+  "status": "verified"
+}

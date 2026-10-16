@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:54.314096+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e2b6fdf-738d-4fdc-9969-3a6cfad3af82",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5a7bae5e-1752-4a0d-a81f-50c351726b4b",
+  "input": "{\"title\": \"My World\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

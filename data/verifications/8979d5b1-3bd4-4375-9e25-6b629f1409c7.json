@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:01.359821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c843ad1d-f316-4acf-9d19-f4ee04d25932",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8979d5b1-3bd4-4375-9e25-6b629f1409c7",
+  "input": "{\"title\": \"Let Me Know Something?!\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'WBBD-Bootcity!: The Remix Album'",
+  "status": "verified"
+}

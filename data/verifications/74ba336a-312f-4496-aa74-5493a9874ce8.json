@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:12.038752+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "228598ed-ef80-46c2-a494-71232d25b4d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74ba336a-312f-4496-aa74-5493a9874ce8",
+  "input": "{\"title\": \"Music Box (Acapella)\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Music Box: 30th Anniversary Edition'",
+  "status": "verified"
+}

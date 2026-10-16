@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:00.01382+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b3cf76f-e799-46a6-ac3b-9a23f045ae49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a0a80fe-1cd7-4fd4-9758-c887b10e3b5e",
+  "input": "{\"title\": \"Down to Earth\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'My World'",
+  "status": "verified"
+}

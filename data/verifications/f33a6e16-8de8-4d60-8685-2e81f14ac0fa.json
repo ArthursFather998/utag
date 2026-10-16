@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:36.851472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d5e77df-59df-4d4e-8484-19f40422053e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f33a6e16-8de8-4d60-8685-2e81f14ac0fa",
+  "input": "{\"title\": \"Higher Place\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Arrival'",
+  "status": "verified"
+}

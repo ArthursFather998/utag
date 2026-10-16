@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:47.205914+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3a52cb7-ae51-4c57-b14f-ba53d12e13c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f557fc0-c770-4fa0-a1f3-6f39281c56b7",
+  "input": "{\"title\": \"Over My Head\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:02.164231+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46aca849-2f24-4312-871c-3d4d54dcbd84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e90cdb4c-9f1e-4df1-8af3-e72faf38b3e1",
+  "input": "{\"title\": \"Note To Self (Instrumental Demo)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mild High Club'",
+  "status": "verified"
+}

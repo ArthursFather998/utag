@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:07.006749+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcee55a5-a0e0-444e-bd3d-19aae179d1ee",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "881d4989-cd8b-49ab-972b-336d34bb791a",
+  "input": "{\"title\": \"It's Gonna Be Me\", \"release_type\": \"single\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:18.961046+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b87c5c7-5b2e-4f94-944d-6e8601ce4785",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d34b185d-aa78-4a67-965e-3ba850ed4244",
+  "input": "{\"title\": \"Hailie\\u2019s Song\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Eminem Show (Expanded Edition)'",
+  "status": "verified"
+}

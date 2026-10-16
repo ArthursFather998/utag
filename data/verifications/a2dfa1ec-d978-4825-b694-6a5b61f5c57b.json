@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:19.83045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14cd1f44-e8c8-4b4a-93b3-f01b65d5f35e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2dfa1ec-d978-4825-b694-6a5b61f5c57b",
+  "input": "{\"title\": \"I Gotta\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Gotta'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:24.034323+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef1d1583-5853-4f17-92b6-c7e18eb0097f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "be65bc7b-ec54-41d5-9055-565fb726c32d",
+  "input": "{\"title\": \"Anytime\", \"release_type\": \"single\", \"release_year\": 1978}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

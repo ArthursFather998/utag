@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:31.415475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f0b379e-97e7-44ce-ac02-b65c4f4d3191",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "334b2ff9-a8c7-42d9-852d-b13e7a3b39b2",
+  "input": "{\"title\": \"Lovefool\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'First Band on the Moon'",
+  "status": "verified"
+}

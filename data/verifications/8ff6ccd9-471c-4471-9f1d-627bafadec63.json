@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:18:56.600087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ecabdc5a-3843-4212-91d4-e0003589e064",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ff6ccd9-471c-4471-9f1d-627bafadec63",
+  "input": "{\"title\": \"Why\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Why'",
+  "status": "verified"
+}

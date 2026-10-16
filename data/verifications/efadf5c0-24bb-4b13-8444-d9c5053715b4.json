@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:28.208354+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ccde5bfe-5aa1-4ad5-9866-e249c5b7d6e1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "efadf5c0-24bb-4b13-8444-d9c5053715b4",
+  "input": "{\"title\": \"Japan Best\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

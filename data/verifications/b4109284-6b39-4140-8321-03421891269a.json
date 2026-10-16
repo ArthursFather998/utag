@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:44.044832+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36cba26b-bb6d-4153-aafb-4edb1e6e29ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4109284-6b39-4140-8321-03421891269a",
+  "input": "{\"title\": \"Jingle Bells\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Great Songs of Christmas'",
+  "status": "verified"
+}

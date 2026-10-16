@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:56.508872+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b987342e-a776-45c2-b957-6d2e7ce40ea0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af61fe01-4c09-4170-a674-9e6fd79cef96",
+  "input": "{\"title\": \"Tomorrow\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Life (Remastered)'",
+  "status": "verified"
+}

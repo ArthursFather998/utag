@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:05.922184+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c616b14b-7327-415f-8f9f-b76df8fc79d2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "af2fd3ab-c109-40d2-992b-c0c667ca06aa",
+  "input": "{\"title\": \"I Am Human (Deluxe Edition)\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

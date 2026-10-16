@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:32.007387+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a224d1fc-81ee-4846-aedf-d75597a6811b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4837a3d3-bc07-4d2f-a89a-01252a22eeb4",
+  "input": "{\"title\": \"Sister\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'My Own Prison'",
+  "status": "verified"
+}

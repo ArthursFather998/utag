@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:26.190186+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aaacad3f-7b85-4896-93ef-8b49fc27c02a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7395c981-9464-473e-86b4-6a376b0eec3c",
+  "input": "{\"title\": \"S.W.M.F.\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Cosmic Opera: Act I'",
+  "status": "verified"
+}

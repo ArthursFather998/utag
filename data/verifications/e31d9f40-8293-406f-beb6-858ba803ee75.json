@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:21.370427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f36a767b-172e-4713-acf8-cf456065ec56",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e31d9f40-8293-406f-beb6-858ba803ee75",
+  "input": "{\"title\": \"How Come You Don't Call Me\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Unplugged'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:58.551852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "340e72cc-96f6-4882-8caf-5541df6bbba5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ace93f6f-9a8d-4748-81b7-a8f8fb283795",
+  "input": "{\"title\": \"Anytime\", \"release_type\": \"album\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

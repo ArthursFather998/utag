@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:26.31243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3dd799ca-b246-42f9-9e71-cac3839ff30d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09c33b5d-2847-4410-ad7d-fbd3448fa48c",
+  "input": "{\"title\": \"For Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Someplace Else Now'",
+  "status": "verified"
+}

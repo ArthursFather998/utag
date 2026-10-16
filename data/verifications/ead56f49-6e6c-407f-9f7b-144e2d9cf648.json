@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:59.947227+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cdfa9076-45cd-4823-b57c-3a57ba4fc4db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ead56f49-6e6c-407f-9f7b-144e2d9cf648",
+  "input": "{\"title\": \"Mother, Father\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Escape & Frontiers Live in Japan'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:38.624494+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6bde9dd9-f4fc-4841-af79-c61e3781d882",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "89a3f062-eee2-4c87-b813-859610bd3210",
+  "input": "{\"title\": \"Absolute Greatest\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

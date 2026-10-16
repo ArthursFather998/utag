@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:20.333354+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ac74409-62e9-4e41-9deb-543bfa83cc36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b578e5d-5875-431a-a0f4-a6ee88c1d0b1",
+  "input": "{\"title\": \"The Bitch Is Back\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Greatest Hits 1970–2002'",
+  "status": "verified"
+}

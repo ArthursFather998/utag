@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:53.646881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a230d52-061e-4f42-b0fe-1e4b79b17fe6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53375585-2e67-442f-8c8f-991d1c0987b7",
+  "input": "{\"title\": \"Lah-Dee-Dah\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Deep in a Dream'",
+  "status": "verified"
+}

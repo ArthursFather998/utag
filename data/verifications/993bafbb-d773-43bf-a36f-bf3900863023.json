@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:16.974698+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30858a46-39a4-4838-80eb-20444294dd09",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "993bafbb-d773-43bf-a36f-bf3900863023",
+  "input": "{\"title\": \"Disc 1 - Hello Young Lover\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:26.0848+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8395cff-0e36-40af-ae82-1cd49cfd5e8a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1359e7f8-e304-444d-993e-43d6aefde4ea",
+  "input": "{\"title\": \"California King Bed\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Rated R + Loud'",
+  "status": "verified"
+}

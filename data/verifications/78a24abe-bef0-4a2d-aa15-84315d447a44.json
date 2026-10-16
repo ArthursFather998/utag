@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:46.13405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc6ed3bb-a256-44e9-8eb5-7d4ee0ee0e88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78a24abe-bef0-4a2d-aa15-84315d447a44",
+  "input": "{\"title\": \"Crazy Little Thing Called Love\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Absolute Greatest'",
+  "status": "verified"
+}

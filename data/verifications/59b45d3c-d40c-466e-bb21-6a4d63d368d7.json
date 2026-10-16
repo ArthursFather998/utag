@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:54.480822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef25d9c4-9b2b-4689-85cc-c061bca97d1e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "59b45d3c-d40c-466e-bb21-6a4d63d368d7",
+  "input": "{\"title\": \"Last Goodbye (MTV Most Wanted, London)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Grace Around the World'",
+  "status": "verified"
+}

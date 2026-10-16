@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:44.097366+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79119c23-de98-4d00-a9bd-ac6881b3d84c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "31c8a3ca-e46e-4cc6-baf7-9010f1c8fdb1",
+  "input": "{\"title\": \"A.M. Paradox\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

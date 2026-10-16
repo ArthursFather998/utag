@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:42.149917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58f67fe6-4191-4447-a07f-1b154029c42f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fff0ac57-3570-486b-bb26-e7414d1ce928",
+  "input": "{\"title\": \"Ridiculous Thoughts\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

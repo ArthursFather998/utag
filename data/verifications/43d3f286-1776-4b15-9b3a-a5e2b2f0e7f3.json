@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:07.487003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7a44e04-ba5a-449a-8e23-0e1be8dd527c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43d3f286-1776-4b15-9b3a-a5e2b2f0e7f3",
+  "input": "{\"title\": \"Don't Blame Your Daughter (Diamonds)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Super Extra Gravity (Remastered)'",
+  "status": "verified"
+}

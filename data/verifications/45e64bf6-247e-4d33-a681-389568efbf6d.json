@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:19.924942+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a60ef50-e9f8-4e10-8b85-b46a7ff15684",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45e64bf6-247e-4d33-a681-389568efbf6d",
+  "input": "{\"title\": \"God Save the Queen\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'A Night at the Odeon - Hammersmith 1975'",
+  "status": "verified"
+}

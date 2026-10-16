@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:49.482106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "caf5d60c-568c-4820-9d30-4586d97c1a9c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "30f476cf-472a-4608-ae3c-bc4bf71c4f1d",
+  "input": "{\"title\": \"Back to Life\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

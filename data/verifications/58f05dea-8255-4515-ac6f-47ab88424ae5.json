@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:28.440971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "730362e8-ed12-4e5f-a87c-33a530329286",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "58f05dea-8255-4515-ac6f-47ab88424ae5",
+  "input": "{\"title\": \"Misty\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Bewitched: The Goddess Edition'",
+  "status": "verified"
+}

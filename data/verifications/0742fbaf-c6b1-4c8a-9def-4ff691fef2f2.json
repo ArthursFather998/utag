@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:34.643557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96169b0d-eb43-45c3-9846-92112fa9303d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0742fbaf-c6b1-4c8a-9def-4ff691fef2f2",
+  "input": "{\"title\": \"The Real You\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Human'",
+  "status": "verified"
+}

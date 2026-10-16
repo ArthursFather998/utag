@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:26.961438+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84f93806-0250-4699-a8d6-d43ef6d73533",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d327b4c0-0710-44ac-afa9-751f4c3530e5",
+  "input": "{\"title\": \"You Don't Have to Be Alone\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Santa Baby'",
+  "status": "verified"
+}

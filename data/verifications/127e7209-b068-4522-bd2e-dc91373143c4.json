@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:05.363535+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38c1c27d-e678-4e54-a9cf-5caac41fffb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "127e7209-b068-4522-bd2e-dc91373143c4",
+  "input": "{\"title\": \"Lessons for the Lover\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Looking 4 Myself'",
+  "status": "verified"
+}

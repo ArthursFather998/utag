@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:59.704969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d16ff922-4714-48c3-966c-726a5fc77860",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "106443ed-ef47-4043-92fe-b8af3f8c895f",
+  "input": "{\"title\": \"Seaside\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'We Love You Tecca 2 (Deluxe)'",
+  "status": "verified"
+}

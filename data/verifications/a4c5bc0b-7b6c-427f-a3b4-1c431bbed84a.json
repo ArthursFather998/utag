@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:45.127243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4173d5d0-3ac6-4322-8794-ceb42d8b88a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4c5bc0b-7b6c-427f-a3b4-1c431bbed84a",
+  "input": "{\"title\": \"Dreamland\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Adulthood'",
+  "status": "verified"
+}

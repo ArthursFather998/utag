@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:20.795286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54d4033c-0da5-448e-a5b2-b49cbdeefff9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6085ab2c-29de-4f4c-8653-3ee276b473f9",
+  "input": "{\"title\": \"If I Had\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Love Sick (Deluxe)'",
+  "status": "verified"
+}

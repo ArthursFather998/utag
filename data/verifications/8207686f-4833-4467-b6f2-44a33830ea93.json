@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:46.044696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1befa89c-9e9d-4695-aa20-49218559342d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8207686f-4833-4467-b6f2-44a33830ea93",
+  "input": "{\"title\": \"Ave Maria\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

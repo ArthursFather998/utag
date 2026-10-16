@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:56.570331+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "115f9cb4-0ebf-40b8-b424-e140686dffd9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9cbda3c8-f4be-4b15-bb3e-86cc6ce8af78",
+  "input": "{\"title\": \"Bring Me to Life (Live on Triple M's Garage Session, Australia - June, 2020)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Fallen (20th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:33.533355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2e8e098-6a78-4100-8bf1-4e657d2e8eb3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3b25a52-770c-4593-9295-e98c30ac5071",
+  "input": "{\"title\": \"Schizophrenic Playboys\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Roses'",
+  "status": "verified"
+}

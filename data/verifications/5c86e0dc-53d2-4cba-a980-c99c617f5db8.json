@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:36.082027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "440fc2a7-576d-44e8-80bf-a15418bca113",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c86e0dc-53d2-4cba-a980-c99c617f5db8",
+  "input": "{\"title\": \"Fade Into You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fade Into You'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:23.726247+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9472ed93-ba28-4957-ad8a-bfce6b4d5278",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74e53a2f-faf2-4547-8b6a-91902f6570a8",
+  "input": "{\"title\": \"Absolute\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'iTunes Live from Soho'",
+  "status": "verified"
+}

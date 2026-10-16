@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:39.178846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27a5c7cd-c2d9-4105-a0ce-385eb487777a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de067f9f-9245-4edc-9142-ae32ea987515",
+  "input": "{\"title\": \"Demons\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'In Tongues (Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:46.017715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a77ec490-86db-4a6b-a4b0-6c286d409b09",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e5980cb-cefb-4e1d-a473-e27b1e85e86d",
+  "input": "{\"title\": \"Ridiculous Thoughts\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ridiculous Thoughts'",
+  "status": "verified"
+}

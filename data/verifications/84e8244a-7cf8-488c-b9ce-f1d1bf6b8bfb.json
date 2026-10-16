@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:12.88544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5ff2976-ed6e-4d06-9e87-02d518c0234f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "84e8244a-7cf8-488c-b9ce-f1d1bf6b8bfb",
+  "input": "{\"title\": \"Dead or Alive\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

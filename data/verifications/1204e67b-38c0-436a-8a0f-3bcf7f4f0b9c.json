@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:45.111907+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89fb20fa-71b0-4d12-9049-2090c70855ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1204e67b-38c0-436a-8a0f-3bcf7f4f0b9c",
+  "input": "{\"title\": \"Love\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Mon Laferte. Amor Completo'",
+  "status": "verified"
+}

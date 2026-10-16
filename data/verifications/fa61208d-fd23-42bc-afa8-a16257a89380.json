@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:26.880152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db0f98fa-dd94-4eae-90a2-9468d1f68bab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa61208d-fd23-42bc-afa8-a16257a89380",
+  "input": "{\"title\": \"Bridges\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Destiny's Child'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:19.136975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "162e38c1-96da-4e21-9e56-26922d5e28d6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2e207b5b-228a-4bbf-a907-3abe87da2e37",
+  "input": "{\"title\": \"Survivor\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

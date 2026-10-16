@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:35.23975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c56202a5-d3b3-48b1-9b76-8f4c806aa037",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebc511ef-471c-4305-854f-64c581e93da8",
+  "input": "{\"title\": \"Dragon Attack\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Deep Cuts, Volume 2 (1977-1982)'",
+  "status": "verified"
+}

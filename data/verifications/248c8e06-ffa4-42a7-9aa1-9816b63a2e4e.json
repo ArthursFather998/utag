@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:09.8551+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "069de6ec-68f1-432a-a353-4ff2e2a7492d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "248c8e06-ffa4-42a7-9aa1-9816b63a2e4e",
+  "input": "{\"title\": \"Doin' Time\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Norman Fucking Rockwell!'",
+  "status": "verified"
+}

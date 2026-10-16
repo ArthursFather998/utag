@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:38.803191+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0bbf6b27-66f5-4779-a2e8-757b185b0cb2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "43dc3b2f-5e8a-4e54-a1ea-ce97038b9ff8",
+  "input": "{\"title\": \"Up All Night\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

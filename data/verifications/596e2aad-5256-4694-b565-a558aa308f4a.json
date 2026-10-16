@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:03.67126+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ab42b48-082e-4e5d-a5cb-95cf1b2f51e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "596e2aad-5256-4694-b565-a558aa308f4a",
+  "input": "{\"title\": \"Start the Party Again\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'The Lesley Gore Anthology'",
+  "status": "verified"
+}

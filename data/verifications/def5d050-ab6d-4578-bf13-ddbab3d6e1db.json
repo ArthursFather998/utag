@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:56.264805+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9fd2aaa9-a302-48fb-ba03-10a3d3882f3d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "def5d050-ab6d-4578-bf13-ddbab3d6e1db",
+  "input": "{\"title\": \"Roller Coaster\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

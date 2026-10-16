@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:25.816769+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86245f24-e9c5-445f-8520-32b9da618064",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c48f406a-7bde-4d6f-a21e-d04bd8adfb21",
+  "input": "{\"title\": \"Fighting Demons\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

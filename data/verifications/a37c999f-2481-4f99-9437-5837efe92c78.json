@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:18.113592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b32479f1-968b-4bf2-8d18-c6404c7344e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a37c999f-2481-4f99-9437-5837efe92c78",
+  "input": "{\"title\": \"Intruxx\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Zaba (Deluxe Edition)'",
+  "status": "verified"
+}

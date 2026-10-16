@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:51.198915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a555ee8b-dcec-4652-8ee7-cb5d2c246201",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5428702e-47bc-49bd-9d1a-794a119f7eb4",
+  "input": "{\"title\": \"Go (with Juice Wrld)\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

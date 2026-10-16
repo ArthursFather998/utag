@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:54.789266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f68933e3-8b25-4525-8b50-81f7df100d96",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e2b9cdda-9503-4fa6-bf6b-e8070b534b85",
+  "input": "{\"title\": \"hate me (feat. anji)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'dovetail'",
+  "status": "verified"
+}

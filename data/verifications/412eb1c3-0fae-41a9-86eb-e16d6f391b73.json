@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:40.121603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "440221bc-0e46-46bb-80a6-f29ad23e2b66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "412eb1c3-0fae-41a9-86eb-e16d6f391b73",
+  "input": "{\"title\": \"Mr. Wrong\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Remedy'",
+  "status": "verified"
+}

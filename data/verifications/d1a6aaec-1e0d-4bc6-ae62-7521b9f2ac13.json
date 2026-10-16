@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:59.400142+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a04dbdf5-e153-4bb7-9c6d-d74311aff95e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d1a6aaec-1e0d-4bc6-ae62-7521b9f2ac13",
+  "input": "{\"title\": \"Level Up\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Virgo World'",
+  "status": "verified"
+}

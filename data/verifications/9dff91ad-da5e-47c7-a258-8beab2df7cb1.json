@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:02.405509+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a2de904-a8cb-4986-a26c-88641187d0f9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9dff91ad-da5e-47c7-a258-8beab2df7cb1",
+  "input": "{\"title\": \"Dreams\", \"release_type\": \"single\", \"release_year\": 1977}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

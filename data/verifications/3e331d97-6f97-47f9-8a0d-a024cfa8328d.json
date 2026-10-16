@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:41.897078+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7e7dc8f-c938-440c-9e83-1472cae37208",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e331d97-6f97-47f9-8a0d-a024cfa8328d",
+  "input": "{\"title\": \"Consideration (featuring SZA)\", \"track_number\": 87}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 87 of 'Vinyl Box Set'",
+  "status": "verified"
+}

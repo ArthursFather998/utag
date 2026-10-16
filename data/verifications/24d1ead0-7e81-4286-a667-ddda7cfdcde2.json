@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:58.899204+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe9874a7-7ef1-473f-bb0d-a62c9c78fa50",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "24d1ead0-7e81-4286-a667-ddda7cfdcde2",
+  "input": "{\"title\": \"This Is the Remix\", \"release_type\": \"album\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

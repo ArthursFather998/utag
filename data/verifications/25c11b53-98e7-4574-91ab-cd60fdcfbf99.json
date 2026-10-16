@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:37.883866+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5441e2cc-dcdf-4d54-a319-4e96aad1591d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25c11b53-98e7-4574-91ab-cd60fdcfbf99",
+  "input": "{\"title\": \"I Don't Wanna Cry\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Essential Mariah Carey'",
+  "status": "verified"
+}

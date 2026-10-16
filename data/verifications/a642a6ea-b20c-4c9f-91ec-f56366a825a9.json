@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:43.253512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4dde8ced-7494-43f8-ae5a-30060c2e454e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a642a6ea-b20c-4c9f-91ec-f56366a825a9",
+  "input": "{\"title\": \"Downy\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:53.830052+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8effd11-8952-49e2-aa62-9a43987bf57f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f34626e3-9728-49bb-a9cf-23825eda6c2d",
+  "input": "{\"title\": \"The Way I Am (Live From MTV VMAs / 2000)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

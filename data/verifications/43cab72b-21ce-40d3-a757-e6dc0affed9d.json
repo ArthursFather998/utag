@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:41.13582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d73a53dc-bdae-4d36-b177-aefb97bec065",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43cab72b-21ce-40d3-a757-e6dc0affed9d",
+  "input": "{\"title\": \"Hold Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hold Me'",
+  "status": "verified"
+}

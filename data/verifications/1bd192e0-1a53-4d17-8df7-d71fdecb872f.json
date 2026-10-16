@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:21.056806+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74c64b4d-ccdd-4070-8a2c-b3a22e6e281d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1bd192e0-1a53-4d17-8df7-d71fdecb872f",
+  "input": "{\"title\": \"Hustler\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Next'",
+  "status": "verified"
+}

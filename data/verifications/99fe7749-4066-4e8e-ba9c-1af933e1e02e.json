@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:47.125493+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "adb9b4b8-119e-479a-a450-7d32eacbf959",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99fe7749-4066-4e8e-ba9c-1af933e1e02e",
+  "input": "{\"title\": \"Multiple Personality\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Muse'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:43.339955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "669940d3-b7e2-417c-8e7a-07d84349039c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4da1bf0d-6fc1-414c-9214-0fa619003983",
+  "input": "{\"title\": \"I Still Believe\", \"release_type\": \"single\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

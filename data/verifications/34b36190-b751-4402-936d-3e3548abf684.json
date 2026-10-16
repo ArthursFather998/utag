@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:51.248402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "362a16f4-7bb1-49f2-ba7b-8604ddb519e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34b36190-b751-4402-936d-3e3548abf684",
+  "input": "{\"title\": \"One Sweet Day\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '#1's'",
+  "status": "verified"
+}

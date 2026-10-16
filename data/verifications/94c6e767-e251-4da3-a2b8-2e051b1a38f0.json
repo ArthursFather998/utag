@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:52.291731+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53d915db-d577-49e9-b2b1-ba0c0d0625d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94c6e767-e251-4da3-a2b8-2e051b1a38f0",
+  "input": "{\"title\": \"Emotions\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Emotions'",
+  "status": "verified"
+}

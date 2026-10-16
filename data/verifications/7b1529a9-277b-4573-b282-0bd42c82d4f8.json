@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:43.784039+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6effd253-60a1-4cf0-83ee-42e919b1dceb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b1529a9-277b-4573-b282-0bd42c82d4f8",
+  "input": "{\"title\": \"Go Deep (Timbaland/Missy Mix)\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'The Velvet Rope (Deluxe Edition)'",
+  "status": "verified"
+}

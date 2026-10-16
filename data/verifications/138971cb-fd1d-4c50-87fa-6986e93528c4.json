@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:17.890718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "116e88d1-6dc7-440a-a3bd-cbd54dd96832",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "138971cb-fd1d-4c50-87fa-6986e93528c4",
+  "input": "{\"title\": \"Chemicals\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Same Kind of Different'",
+  "status": "verified"
+}

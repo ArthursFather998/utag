@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:47.048848+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49d9865f-723b-4515-ae08-6e6bea9cdced",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1a3c6f9e-6ca8-49ea-a5ac-be8df559b63e",
+  "input": "{\"title\": \"Hail Mary\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bethlehem'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:30.662988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ba2d997-41ab-49bb-90ed-f88f3d4945ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3fb5fc2-6ee2-4a46-8c0d-badf000de090",
+  "input": "{\"title\": \"Two Truths And A Lie\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'WHAT A NIGHT TO BE IN LOVE'",
+  "status": "verified"
+}

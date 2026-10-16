@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:28.950153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "852e50ef-10dd-4ec7-b809-ec4af1be669a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aec6fa6a-d93e-4758-bad9-6dc13811d15b",
+  "input": "{\"title\": \"Canci\\u00f3n Feliz\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Seis'",
+  "status": "verified"
+}

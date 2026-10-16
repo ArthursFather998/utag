@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:58.832729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d3e6c842-86a2-4ed1-9659-5637387afc78",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a803d13d-720d-4d50-98ce-c9447c6bf0c1",
+  "input": "{\"title\": \"The Last Time\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Coffret 4 CD'",
+  "status": "verified"
+}

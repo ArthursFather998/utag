@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:08.804992+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9e21d10-7e9a-46da-819f-235083d0cac4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "228c71e0-e581-43d9-8355-c7a144c906ab",
+  "input": "{\"title\": \"Stupid Justice\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Bite Reality'",
+  "status": "verified"
+}

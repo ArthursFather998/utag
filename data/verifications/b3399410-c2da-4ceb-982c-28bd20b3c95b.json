@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:26.283495+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0c7f556-2b10-4ec8-b5a4-d2c27b36304c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3399410-c2da-4ceb-982c-28bd20b3c95b",
+  "input": "{\"title\": \"I'll Make It Up to You\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Boys, Boys, Boys with Bonus Tracks'",
+  "status": "verified"
+}

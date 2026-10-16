@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:56.53926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a48e3c95-8824-46fa-ac64-9da418317b88",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "485e250d-2a26-4043-9c1f-e8d1f280eb67",
+  "input": "{\"title\": \"A Night at the Odeon - Hammersmith 1975\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

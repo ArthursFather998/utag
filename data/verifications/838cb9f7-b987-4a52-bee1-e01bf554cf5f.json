@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:38.629138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6f52a0e-0b3d-45d9-a76e-b4a139a3ce63",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "838cb9f7-b987-4a52-bee1-e01bf554cf5f",
+  "input": "{\"title\": \"The Chain\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

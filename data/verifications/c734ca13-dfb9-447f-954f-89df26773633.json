@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:51.692484+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5065a081-ba3a-41f0-abb9-6ffd7dab0ee0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c734ca13-dfb9-447f-954f-89df26773633",
+  "input": "{\"title\": \"Departure\", \"release_type\": \"album\", \"release_year\": 1980}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

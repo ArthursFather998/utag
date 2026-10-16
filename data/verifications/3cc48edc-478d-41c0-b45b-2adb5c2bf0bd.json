@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:15.183364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd194384-9fae-49a3-8c32-d7547284570b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3cc48edc-478d-41c0-b45b-2adb5c2bf0bd",
+  "input": "{\"title\": \"OMG (Ripper Dirty Club Mix)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'OMG (Remixes)'",
+  "status": "verified"
+}

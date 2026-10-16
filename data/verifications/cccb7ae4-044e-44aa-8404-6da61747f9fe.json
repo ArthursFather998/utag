@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:01.625519+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f30bf42-726e-4f65-a1c6-2a3ad5f05e45",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cccb7ae4-044e-44aa-8404-6da61747f9fe",
+  "input": "{\"title\": \"Hotel Members Unite\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Ugly Duck'",
+  "status": "verified"
+}

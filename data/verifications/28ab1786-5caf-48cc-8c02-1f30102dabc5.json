@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:40.618036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7f25c32-96a4-4231-861c-c561e043c945",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28ab1786-5caf-48cc-8c02-1f30102dabc5",
+  "input": "{\"title\": \"It's Just About That Time\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Girl Talk'",
+  "status": "verified"
+}

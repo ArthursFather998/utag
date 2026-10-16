@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:58.39793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d7848dc4-325a-4cd0-b366-d0ef37596e4d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "71c36ad4-e0e3-416a-90ce-93da2bd7c2e3",
+  "input": "{\"title\": \"The Way You Are\", \"release_type\": \"single\", \"release_year\": 1983}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

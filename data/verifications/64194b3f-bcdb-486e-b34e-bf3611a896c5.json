@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:10.837379+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7f9ecbb-5248-40db-a5d9-03d0fbddb507",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64194b3f-bcdb-486e-b34e-bf3611a896c5",
+  "input": "{\"title\": \"Is It Any Wonder?\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'iTunes - Live From London'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:02.347199+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef4f6e16-1491-4402-ab4d-e6d173d30b12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94ed247b-2ed4-47bc-920a-478a0a034d6c",
+  "input": "{\"title\": \"I Need Love\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live'",
+  "status": "verified"
+}

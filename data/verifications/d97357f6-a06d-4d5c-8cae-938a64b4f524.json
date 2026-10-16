@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:57.083015+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "421616fd-bec2-45bc-a113-df2e092728d5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d97357f6-a06d-4d5c-8cae-938a64b4f524",
+  "input": "{\"title\": \"Project Rocket / Fall Out Boy\", \"release_type\": \"album\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

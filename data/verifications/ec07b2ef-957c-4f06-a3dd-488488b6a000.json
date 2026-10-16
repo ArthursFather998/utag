@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:21.613108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c39280fe-2060-4438-acba-c1a0cb055703",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ec07b2ef-957c-4f06-a3dd-488488b6a000",
+  "input": "{\"title\": \"Think About Me\", \"release_type\": \"single\", \"release_year\": 1980}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

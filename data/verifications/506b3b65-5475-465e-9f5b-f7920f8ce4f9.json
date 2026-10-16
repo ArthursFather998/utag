@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:18.091865+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb38b786-b4bc-4282-ac7c-16ad14281da4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "506b3b65-5475-465e-9f5b-f7920f8ce4f9",
+  "input": "{\"title\": \"Classic Series, Vol. 3\", \"release_type\": \"album\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

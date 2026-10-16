@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:10.555381+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "896cb9f4-1b66-40da-bd02-e0b2e5f4d1b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b0b8d57-efd0-4747-91b5-03250a0f06fb",
+  "input": "{\"title\": \"I'm on My Way\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Madison Blues'",
+  "status": "verified"
+}

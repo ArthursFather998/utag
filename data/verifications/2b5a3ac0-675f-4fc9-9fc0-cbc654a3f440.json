@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:11.056874+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "288ef097-0111-4f88-a594-74d20451eaf8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b5a3ac0-675f-4fc9-9fc0-cbc654a3f440",
+  "input": "{\"title\": \"Heart of Stone\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Selections from 25 Years – The Chain'",
+  "status": "verified"
+}

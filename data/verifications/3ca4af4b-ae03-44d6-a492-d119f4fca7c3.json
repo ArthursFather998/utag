@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:40.927659+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62d658e8-b6e0-41dd-97f4-f93670732e12",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3ca4af4b-ae03-44d6-a492-d119f4fca7c3",
+  "input": "{\"title\": \"Kissin' Christmas: The Bobby Vinton Christmas Album\", \"release_type\": \"album\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

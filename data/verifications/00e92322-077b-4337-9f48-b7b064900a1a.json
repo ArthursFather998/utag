@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:07.796413+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b065afdc-3d86-4a36-af6e-37ae44fc15c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00e92322-077b-4337-9f48-b7b064900a1a",
+  "input": "{\"title\": \"Carry On\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'SADDEST TRUTH'",
+  "status": "verified"
+}

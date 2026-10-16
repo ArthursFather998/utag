@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:34.108427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7e2b98f-49ad-4bc3-a9bd-661981d935a1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "959e635d-1bfc-4931-886e-d22fce66455d",
+  "input": "{\"title\": \"Life of a Don\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

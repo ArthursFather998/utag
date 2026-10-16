@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:29.380268+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f9177b5-ffa8-40e1-8a43-f07e2d7da919",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "febb92f2-8be3-40db-9d92-0aff243292b6",
+  "input": "{\"title\": \"florida keys\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'sunshowers / florida keys'",
+  "status": "verified"
+}

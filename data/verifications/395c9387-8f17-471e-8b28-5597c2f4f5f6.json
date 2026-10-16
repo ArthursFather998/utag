@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:17.368148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90c9e8f9-d949-4fbd-a6d1-b4e848ac3a6c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "395c9387-8f17-471e-8b28-5597c2f4f5f6",
+  "input": "{\"title\": \"Maybe Now\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'California Nights'",
+  "status": "verified"
+}

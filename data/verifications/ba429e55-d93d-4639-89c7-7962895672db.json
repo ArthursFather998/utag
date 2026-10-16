@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:20.650743+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "785cdc3a-174f-442e-b75a-f3d450f73f41",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba429e55-d93d-4639-89c7-7962895672db",
+  "input": "{\"title\": \"Showbiz Blues\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Jumping at Shadows: The Blues Years'",
+  "status": "verified"
+}

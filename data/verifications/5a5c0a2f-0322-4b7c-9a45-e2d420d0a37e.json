@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:14.275607+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff77fa1a-14ca-4756-a07d-5dd828ed2a33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a5c0a2f-0322-4b7c-9a45-e2d420d0a37e",
+  "input": "{\"title\": \"Coming Home\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Pious Bird of Good Omen'",
+  "status": "verified"
+}

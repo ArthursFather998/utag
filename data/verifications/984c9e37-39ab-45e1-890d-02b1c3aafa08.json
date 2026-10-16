@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:43.164313+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "900f1f38-8c52-44f7-913c-8b418cf833ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "984c9e37-39ab-45e1-890d-02b1c3aafa08",
+  "input": "{\"title\": \"Percolator\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Ctrl (Deluxe)'",
+  "status": "verified"
+}

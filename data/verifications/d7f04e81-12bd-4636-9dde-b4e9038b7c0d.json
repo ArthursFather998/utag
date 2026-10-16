@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:49.585388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "80441712-67d4-4f9b-ae9a-c9daa9cc50c1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d7f04e81-12bd-4636-9dde-b4e9038b7c0d",
+  "input": "{\"title\": \"Cornerstone\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

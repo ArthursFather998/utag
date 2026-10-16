@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:41:02.880122+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fac346f5-a7dd-467c-b074-b55a0295fd85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1024f56c-65a7-459c-a21b-037558fb44f6",
+  "input": "{\"title\": \"I Will Always\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Everybody Else Is Doing It, So Why Can't We?'",
+  "status": "verified"
+}

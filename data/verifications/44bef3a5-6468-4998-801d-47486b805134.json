@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:13.625403+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "8dcb8252-1d0d-4584-bea3-4b8c627e1c11",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "44bef3a5-6468-4998-801d-47486b805134",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "17",
+    "title": "Dead Inside (Interlude)"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "\"Dead Inside (Interlude)\" is track 7 on \"17\" (2017) per Wikipedia and vinyl tracklist. | sources: https://en.wikipedia.org/wiki/17_(XXXTentacion_album), https://uk.rarevinyl.com/products/xxxtentacion-17-plus-hype-sticker-us-vinyl-lp-album-record-888915663776-782920",
+  "status": "verified"
+}

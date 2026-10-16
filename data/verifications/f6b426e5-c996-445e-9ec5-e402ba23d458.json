@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:04.383909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d94fb8f5-a843-4e88-ae09-dd150057dbd5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f6b426e5-c996-445e-9ec5-e402ba23d458",
+  "input": "{\"title\": \"Donald Trump\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

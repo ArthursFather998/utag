@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:24.06063+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5e03335-59bf-4d50-b199-48b9bcb5e354",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b19fc72-b489-43e1-9cd8-3c73d1623fc5",
+  "input": "{\"title\": \"There's Got to Be a Way\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Mariah Carey'",
+  "status": "verified"
+}

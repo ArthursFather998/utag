@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:36.756894+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1fb4c47-b6cd-44f4-bba5-2a662e08d5c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f95c98f8-0f1d-4eca-8760-2cedf5542bba",
+  "input": "{\"title\": \"Soy Amiga\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Classic Series, Vol. 1'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:45.07763+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0376cd42-9587-47e2-a160-ca1fc7c8ea01",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e644118-e762-4600-9d4b-9a30318cf0a8",
+  "input": "{\"title\": \"Bend and Break\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

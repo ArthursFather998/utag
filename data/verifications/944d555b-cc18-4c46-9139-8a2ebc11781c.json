@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:52.966487+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fdaed6e9-2dff-4239-a115-b39f4aaacb68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "944d555b-cc18-4c46-9139-8a2ebc11781c",
+  "input": "{\"title\": \"Niko's Lullaby\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'I Remember You'",
+  "status": "verified"
+}

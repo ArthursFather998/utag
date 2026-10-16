@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:13.286311+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef1a3236-0835-448e-9ef8-0be5e701b544",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e647841-d448-48ab-bcec-7149e2a0e03b",
+  "input": "{\"title\": \"Show Me\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Unorthodox Jukebox (Deluxe Edition)'",
+  "status": "verified"
+}

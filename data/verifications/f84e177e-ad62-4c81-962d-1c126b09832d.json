@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:39.502691+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b1176ea-13a6-45b2-b805-f80dc09d462a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f84e177e-ad62-4c81-962d-1c126b09832d",
+  "input": "{\"title\": \"Second Best\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Bewitched: The Goddess Edition'",
+  "status": "verified"
+}

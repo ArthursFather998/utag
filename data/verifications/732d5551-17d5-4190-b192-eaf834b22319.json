@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:01.313069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6de882b-a884-49c7-8b7f-8230122e1e39",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "732d5551-17d5-4190-b192-eaf834b22319",
+  "input": "{\"title\": \"Runaround\", \"release_type\": \"album\", \"release_year\": 1960}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

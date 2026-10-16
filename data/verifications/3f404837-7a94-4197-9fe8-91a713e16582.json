@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:18:38.756904+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7be197e2-a77a-41ef-822f-5d537f44ef4e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3f404837-7a94-4197-9fe8-91a713e16582",
+  "input": "{\"title\": \"Why\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

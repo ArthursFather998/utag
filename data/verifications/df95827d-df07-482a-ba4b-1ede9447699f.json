@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:27.541641+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43aef99f-f493-4627-b19f-3cea57b0b845",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "df95827d-df07-482a-ba4b-1ede9447699f",
+  "input": "{\"title\": \"Empire\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

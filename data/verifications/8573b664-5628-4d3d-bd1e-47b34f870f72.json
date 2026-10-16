@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:33.769324+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84857bac-d87f-41e0-bfe0-40b9926f3d07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8573b664-5628-4d3d-bd1e-47b34f870f72",
+  "input": "{\"title\": \"Book of Rhymes\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Music to Be Murdered By – Side B (Deluxe Edition)'",
+  "status": "verified"
+}

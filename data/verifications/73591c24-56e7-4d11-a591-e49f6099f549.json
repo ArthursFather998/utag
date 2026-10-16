@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:12.783068+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa3c390d-b064-4f1c-a060-15082f52232f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73591c24-56e7-4d11-a591-e49f6099f549",
+  "input": "{\"title\": \"Wake Me When It's Over\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'In the End'",
+  "status": "verified"
+}

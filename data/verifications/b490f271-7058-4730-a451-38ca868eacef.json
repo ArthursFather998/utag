@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:54.732891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "800a1ee6-c21a-4c15-88a2-08c05a671d1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b490f271-7058-4730-a451-38ca868eacef",
+  "input": "{\"title\": \"Fantasy (Def Club Mix)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

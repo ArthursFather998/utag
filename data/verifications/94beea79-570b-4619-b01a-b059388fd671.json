@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:35.909339+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a634bc6-90a3-4275-bff2-b37769abe617",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94beea79-570b-4619-b01a-b059388fd671",
+  "input": "{\"title\": \"Let the Light In\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Did You Know That There's a Tunnel Under Ocean Blvd'",
+  "status": "verified"
+}

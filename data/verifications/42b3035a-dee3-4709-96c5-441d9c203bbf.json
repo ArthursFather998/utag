@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:11.755612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e3ddc95-3b69-4ca6-be15-5171f10b5c34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42b3035a-dee3-4709-96c5-441d9c203bbf",
+  "input": "{\"title\": \"Just Be Good to Me\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'The Rarities'",
+  "status": "verified"
+}

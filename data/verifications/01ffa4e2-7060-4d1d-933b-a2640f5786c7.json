@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:46.244368+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "207cf882-9550-41ae-bd04-202ef8bb679d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01ffa4e2-7060-4d1d-933b-a2640f5786c7",
+  "input": "{\"title\": \"One and Only\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Emancipation of Mimi (Ultra Platinum Edition)'",
+  "status": "verified"
+}

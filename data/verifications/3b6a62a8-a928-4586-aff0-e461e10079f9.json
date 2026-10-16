@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:10.902495+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c20f9d7c-1387-4dec-9b00-00c7b013e5c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3b6a62a8-a928-4586-aff0-e461e10079f9",
+  "input": "{\"title\": \"Don't Throw Away My Love\", \"track_number\": 64}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 64 of 'La Leyenda'",
+  "status": "verified"
+}

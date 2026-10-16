@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:34.250158+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34b56de4-7fb5-4d8e-9fa9-21563c11bc80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "655bdbeb-8ea9-4216-8b35-0772afc6c3c5",
+  "input": "{\"title\": \"Is It Insane (Unlocked)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Keys'",
+  "status": "verified"
+}

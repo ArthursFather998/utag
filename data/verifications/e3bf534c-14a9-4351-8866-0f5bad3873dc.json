@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:39.989093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48da94f3-32ae-4f82-b6ef-ffcf800a2b66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e3bf534c-14a9-4351-8866-0f5bad3873dc",
+  "input": "{\"title\": \"Good Days\", \"track_number\": 41}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 41 of 'Lana'",
+  "status": "verified"
+}

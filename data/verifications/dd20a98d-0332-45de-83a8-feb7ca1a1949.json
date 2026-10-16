@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:04.192924+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3c7fc4d-ed9b-4ed3-98a7-ea84d9baed57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd20a98d-0332-45de-83a8-feb7ca1a1949",
+  "input": "{\"title\": \"Open Arms\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'The Essential Mariah Carey'",
+  "status": "verified"
+}

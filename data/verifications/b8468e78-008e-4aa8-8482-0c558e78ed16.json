@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:08.19507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70e35804-8490-4f86-b59c-0b869698244a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8468e78-008e-4aa8-8482-0c558e78ed16",
+  "input": "{\"title\": \"Take My Breath\", \"track_number\": 32}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 32 of 'The Highlights (Deluxe)'",
+  "status": "verified"
+}

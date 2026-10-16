@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:28.172307+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8bc0f580-86ac-4dab-b3ea-00757e6376cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89d8cf84-6f17-4d56-b008-8c1cc79e12ed",
+  "input": "{\"title\": \"Melancol\\u00eda - Spotify Sessions\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mon Laferte (Spotify Sessions)'",
+  "status": "verified"
+}

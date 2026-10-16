@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:23.229473+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eeb5282c-0c2b-45bb-b949-35874b1e9032",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ab602ace-e49b-49ca-90c0-8bb777f8a2ff",
+  "input": "{\"title\": \"A Very Merry Christmas: The Complete Epic Christmas Collection\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

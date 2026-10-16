@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:29.357309+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ffb6c78-c6a1-43c9-8100-4001b58ab01a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ff781e9-ef5d-4783-9711-43d11231d966",
+  "input": "{\"title\": \"Baby I'm a Leavin' You\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Trial by Fire'",
+  "status": "verified"
+}

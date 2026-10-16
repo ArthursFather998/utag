@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:14.001707+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73e5e770-cbab-4443-a6bf-87c8955c9780",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eace19bb-c50b-4b68-ba83-5e5a42acdb66",
+  "input": "{\"title\": \"Bidi Bidi Bom Bom\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Unforgettable: The Studio Album'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:59.982087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b821974-7ab2-4cfc-8760-98529f0d0a1a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f99e5cd3-8c79-4b62-a64f-3ae227015f45",
+  "input": "{\"title\": \"Never Comin' Back\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'One in a Million'",
+  "status": "verified"
+}

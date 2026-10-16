@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:40.053128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f1b168d-19d8-4849-95b6-06ebb677c1b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bccc7a6e-5c7c-4e0f-af5f-ab2d0c0efc67",
+  "input": "{\"title\": \"Come Back\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'My Way (25th Anniversary Edition)'",
+  "status": "verified"
+}

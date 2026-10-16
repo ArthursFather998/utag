@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:13.73054+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a03b3186-fc6a-4dff-8102-9ddc04d0b86b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "52df1c9e-beb4-409e-a6c4-43350d29a048",
+  "input": "{\"title\": \"Goodnight My Love\", \"release_type\": \"album\", \"release_year\": 1963}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:30.814229+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6307d8e0-216e-424f-8b91-92ac44d4fecc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8a05b836-4006-45f1-8be7-1a57810bf0fb",
+  "input": "{\"title\": \"Kiss\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

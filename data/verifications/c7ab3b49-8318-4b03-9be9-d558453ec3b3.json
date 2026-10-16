@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:03.576716+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97fa1621-35eb-4ddd-9c35-7fbab263f21f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c7ab3b49-8318-4b03-9be9-d558453ec3b3",
+  "input": "{\"title\": \"Se Va La Vida\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Seis'",
+  "status": "verified"
+}

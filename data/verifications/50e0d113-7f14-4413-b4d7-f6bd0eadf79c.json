@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:13.265778+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "056b8b5b-1ea9-4273-9a61-1998de0f3e23",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50e0d113-7f14-4413-b4d7-f6bd0eadf79c",
+  "input": "{\"title\": \"\\u2605\\u2605\\u2605\\u2605\\u2605\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'I'm Doing It Again Baby!'",
+  "status": "verified"
+}

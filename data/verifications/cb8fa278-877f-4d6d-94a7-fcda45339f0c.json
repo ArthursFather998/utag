@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:50.495174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29f7bfe0-6b8f-4146-b192-4ff94ec7bdbc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb8fa278-877f-4d6d-94a7-fcda45339f0c",
+  "input": "{\"title\": \"Tengo Ganas De Llorar\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Éxitos y Recuerdos'",
+  "status": "verified"
+}

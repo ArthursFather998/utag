@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:50.940959+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4aba628-6cf0-48e2-b7bc-cdab3e43d734",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28e47100-545d-4286-a1fc-bf8abd509ebc",
+  "input": "{\"title\": \"Any Ol' Barstool (Live from Knoxville, TN)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Georgia'",
+  "status": "verified"
+}

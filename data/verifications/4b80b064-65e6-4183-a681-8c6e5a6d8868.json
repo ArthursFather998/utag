@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:11.257358+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65210e62-eff7-41a2-adc6-6befea6278c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b80b064-65e6-4183-a681-8c6e5a6d8868",
+  "input": "{\"title\": \"LAST NITE\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'LAST NITE'",
+  "status": "verified"
+}

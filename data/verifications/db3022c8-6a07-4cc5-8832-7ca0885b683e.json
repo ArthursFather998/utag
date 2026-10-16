@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:33.611174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "295cb117-b1ad-41c4-a986-3eb528553c7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db3022c8-6a07-4cc5-8832-7ca0885b683e",
+  "input": "{\"title\": \"100 Layers\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '100 Layers'",
+  "status": "verified"
+}

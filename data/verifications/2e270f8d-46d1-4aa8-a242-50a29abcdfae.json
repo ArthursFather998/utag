@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:24.104383+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4332b9b8-260f-4083-9511-346f8eabd784",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2e270f8d-46d1-4aa8-a242-50a29abcdfae",
+  "input": "{\"title\": \"The Weeknd in Japan\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

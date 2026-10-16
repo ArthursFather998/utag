@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:53.570753+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a552318-87ef-43d9-b440-95e8f037fef9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25a74bd2-22bf-4e4c-94fa-980756f30396",
+  "input": "{\"title\": \"Why\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'What Could Possibly Go Wrong'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:53.449259+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bed218f-6471-4bb3-a336-2bfa42c45857",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48dd6a36-a747-49c3-9dc2-b2b5efca2627",
+  "input": "{\"title\": \"Apocalypse\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Cigarettes After Sex'",
+  "status": "verified"
+}

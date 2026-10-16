@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:43.155339+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01164b28-dce1-4058-9ae0-2abdeb99e0f1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "947ec0bc-0bf9-4157-9686-0ba1d26c58af",
+  "input": "{\"title\": \"Astronaut\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

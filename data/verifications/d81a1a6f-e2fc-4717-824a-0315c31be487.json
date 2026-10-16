@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:34.881568+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "593dfb96-463e-4d61-aeac-e2aa9fb89783",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d81a1a6f-e2fc-4717-824a-0315c31be487",
+  "input": "{\"title\": \"Little Girl\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Greatest Hits 2'",
+  "status": "verified"
+}

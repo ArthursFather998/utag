@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:05.660091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ccb87a35-f245-4db0-92d9-b53df1a5c6c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "999d1c1d-3f16-456c-8aed-0f2bef5980f4",
+  "input": "{\"title\": \"Be Who You Are\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Be Who You Are'",
+  "status": "verified"
+}

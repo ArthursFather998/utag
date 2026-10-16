@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:08.401107+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "536d70f8-17d6-4bd0-b0c9-d8f58554839b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c03547a4-b99b-4875-b674-2f06ac16d412",
+  "input": "{\"title\": \"Guilty\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Raymond v. Raymond'",
+  "status": "verified"
+}

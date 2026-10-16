@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:51.516248+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bbe2ef8-e556-468b-a17b-6a7988846f19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8fda8816-ee5c-4c52-a50b-c2c34301f866",
+  "input": "{\"title\": \"We Gotta Pray\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We Gotta Pray'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:15.901284+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f945acc-f482-4256-89fa-ffad5755267b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bc6211c7-a1f0-465c-b7ee-15b8afea53f5",
+  "input": "{\"title\": \"Hurry Up Tomorrow\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

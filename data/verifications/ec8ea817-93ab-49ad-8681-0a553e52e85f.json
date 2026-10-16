@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:43.957027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a43d5c99-7b4b-4d73-8a79-1e309632be32",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec8ea817-93ab-49ad-8681-0a553e52e85f",
+  "input": "{\"title\": \"Fake Tales of San Francisco\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'At the Apollo'",
+  "status": "verified"
+}

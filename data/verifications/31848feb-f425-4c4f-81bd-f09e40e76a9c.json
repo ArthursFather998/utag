@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:30.312504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7adff494-eb32-4189-b299-a955c54db06a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31848feb-f425-4c4f-81bd-f09e40e76a9c",
+  "input": "{\"title\": \"Jesus Born on This Day\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Merry Christmas'",
+  "status": "verified"
+}

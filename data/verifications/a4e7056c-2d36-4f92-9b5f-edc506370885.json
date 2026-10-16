@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:05.664611+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c947e735-d572-40ef-97b5-d3bee812da3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4e7056c-2d36-4f92-9b5f-edc506370885",
+  "input": "{\"title\": \"Amor Prohibido\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Unforgettable: The Studio Album'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:48.668181+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "680e2916-5d1e-4a1f-8cfa-10d0e5a204a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d69cf4ad-c54c-40de-9ba4-2a7a4ed70d89",
+  "input": "{\"title\": \"Doctor Brown\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'The Essential Fleetwood Mac'",
+  "status": "verified"
+}

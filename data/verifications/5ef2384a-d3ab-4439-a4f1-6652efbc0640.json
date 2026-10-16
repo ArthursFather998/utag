@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:59.818595+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "671ecba1-506a-439e-87a8-6f2c851357b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ef2384a-d3ab-4439-a4f1-6652efbc0640",
+  "input": "{\"title\": \"Hallelujah / I Know It's Over (Medley)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Mystery White Boy'",
+  "status": "verified"
+}

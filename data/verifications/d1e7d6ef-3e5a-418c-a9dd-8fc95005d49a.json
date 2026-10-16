@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:12.07125+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b5bc7b6e-0d2c-4b61-9b3f-3badf45fc24d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d1e7d6ef-3e5a-418c-a9dd-8fc95005d49a",
+  "input": "{\"title\": \"PSA\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Lana'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:56.567629+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b793acab-c312-4d27-8dff-15b3ced3cef5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff1ac5dd-a1a6-4559-a46f-e3dd5c3a8b43",
+  "input": "{\"title\": \"WET SOCKS\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Subliming'",
+  "status": "verified"
+}

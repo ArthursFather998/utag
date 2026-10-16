@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:23.27594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59a61fdb-c0d5-4558-83c7-4fea7738339e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d845bcc3-9046-42c3-8cbd-b432b80c9d68",
+  "input": "{\"title\": \"Only the Young\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Revelation'",
+  "status": "verified"
+}

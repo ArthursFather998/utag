@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:47.622814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dafdbbc8-d0d0-499f-911f-0d06c060cfcd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c00abf4-ac21-4a69-a746-c962586f5425",
+  "input": "{\"title\": \"Greetings from Califournia (Demo)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Wiped Out! (10th Anniversary Edition)'",
+  "status": "verified"
+}

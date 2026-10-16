@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:46.474534+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48fdfa98-8c32-4fe4-b1c9-ae068c39f184",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f71f95cd-7e90-427f-9d28-71e9f30c65e4",
+  "input": "{\"title\": \"Disc 1 - My Foolish Heart\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

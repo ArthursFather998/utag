@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:06.565588+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25b08a17-bd04-4834-a4b4-9fe0e83b618b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fead5a4e-f65b-43ea-9144-42e80e760ff8",
+  "input": "{\"title\": \"Golden Slumbers (Recorded At Spotify Studios NYC)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Only Live'",
+  "status": "verified"
+}

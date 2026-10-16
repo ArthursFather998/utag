@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:05.264177+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0095bc4-9bd3-4e4f-bae6-6247d6e7edf8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a441893b-4b87-4271-9493-0ef207fb74a4",
+  "input": "{\"title\": \"You're So Cold\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Emotions'",
+  "status": "verified"
+}

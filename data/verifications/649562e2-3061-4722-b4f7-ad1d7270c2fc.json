@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:12.21058+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1e9a1aa-447d-492c-80a6-814f2e87c60b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "649562e2-3061-4722-b4f7-ad1d7270c2fc",
+  "input": "{\"title\": \"There's a Thug in My Life (featuring J-Status)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of '3 CD Collector's Set'",
+  "status": "verified"
+}

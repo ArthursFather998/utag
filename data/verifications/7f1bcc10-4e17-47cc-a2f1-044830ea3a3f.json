@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:00.80881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e75936bb-2f98-4690-9cfa-7d9fec87ac41",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f1bcc10-4e17-47cc-a2f1-044830ea3a3f",
+  "input": "{\"title\": \"I Am Your Robot\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Jump Up!'",
+  "status": "verified"
+}

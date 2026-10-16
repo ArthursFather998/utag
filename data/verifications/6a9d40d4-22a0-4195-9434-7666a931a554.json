@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:53.381998+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c1380aa-6701-4dbe-b0db-a0b1ef9f89b9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a9d40d4-22a0-4195-9434-7666a931a554",
+  "input": "{\"title\": \"Champions\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Champions'",
+  "status": "verified"
+}

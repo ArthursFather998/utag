@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:35.487376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84dc6dd2-7bac-4047-88a1-e3b4a37be439",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbbc05cc-ae3d-4bba-a98d-643dfc93396e",
+  "input": "{\"title\": \"Pills\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'In Tongues (Deluxe)'",
+  "status": "verified"
+}

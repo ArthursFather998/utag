@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:17:20.420148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41e71b49-6a9b-44a5-a45f-bb142bac5416",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bf6f880f-4e76-4126-ba0c-bff1d4876c11",
+  "input": "{\"title\": \"This Is the Day\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:07.54203+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f36bb12-582f-4da1-9a36-30721e0d030d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "56c8f402-df75-4c3f-b246-da8dd86a5c98",
+  "input": "{\"title\": \"Thunderhead\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

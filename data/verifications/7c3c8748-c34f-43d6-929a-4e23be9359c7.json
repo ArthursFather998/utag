@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:35.629329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "950bbdc0-8483-4f99-a30b-52bc2768fd56",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c3c8748-c34f-43d6-929a-4e23be9359c7",
+  "input": "{\"title\": \"Don't Stop (Funkin' 4 Jamaica)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Glitter (25th Anniversary)'",
+  "status": "verified"
+}

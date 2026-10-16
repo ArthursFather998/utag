@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:55.747986+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b438e3d9-52d9-4ae3-96eb-8219774f7e74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9633b35b-ac13-4a5c-9743-0c5a3a2a1fd2",
+  "input": "{\"title\": \"Riu Riu Chiu\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Dawn of Grace'",
+  "status": "verified"
+}

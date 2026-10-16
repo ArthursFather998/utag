@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:05.980004+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f83b6d92-af94-4575-ae60-ec56a4c56535",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b9663de-f6d1-455a-860c-67d3fb10d7a4",
+  "input": "{\"title\": \"Arcadia\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Arcadia'",
+  "status": "verified"
+}

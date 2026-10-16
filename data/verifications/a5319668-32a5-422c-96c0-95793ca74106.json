@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:11.415612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81e7a71c-bebb-45fd-a69f-a3ef10b1f17a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5319668-32a5-422c-96c0-95793ca74106",
+  "input": "{\"title\": \"Notebook\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'After School'",
+  "status": "verified"
+}

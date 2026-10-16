@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:58.363856+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6afc2e1-43d1-4354-9c48-c2e8a4dd84b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "481ec790-5d77-4bee-8c8e-d12fa9b0e4c9",
+  "input": "{\"title\": \"Luckiest Man\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Coming Home'",
+  "status": "verified"
+}

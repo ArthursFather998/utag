@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:38.722506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d379f3bf-ac7b-482f-9d6b-7bd4e128c6d9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ee1057c9-af1d-48c6-adcc-4d41c7ad4e5e",
+  "input": "{\"title\": \"Age Ain't Nothing but a Number\", \"release_type\": \"album\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Standard edition (13 tracks; track 13 is the bonus remix). European/Japanese/vinyl editions replace it with 'The Thing I Like' (track 13) followed by the remix (track 14).",
+  "status": "verified"
+}

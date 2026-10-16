@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:40.416794+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8be8716b-9f39-4054-9051-264626cbc457",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a4824ba-93ea-4c01-9f69-8bd5a66f4dc2",
+  "input": "{\"title\": \"After the Love\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Gold'",
+  "status": "verified"
+}

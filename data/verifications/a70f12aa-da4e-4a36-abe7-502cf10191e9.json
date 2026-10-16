@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:00.361753+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c5d30b3-3771-4b29-b407-6992980e6f94",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a70f12aa-da4e-4a36-abe7-502cf10191e9",
+  "input": "{\"title\": \"Do Me!\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of '20th Century Masters: The Millennium Collection: The Best of Bell Biv DeVoe'",
+  "status": "verified"
+}

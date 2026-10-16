@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:35.932708+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1714efc8-3ece-4267-b3cf-aa2f20fa5901",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d82fd7d5-07c5-4cf9-81ad-3337cfee6536",
+  "input": "{\"title\": \"Pianist Hands (Interlude)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Room for Improvement'",
+  "status": "verified"
+}

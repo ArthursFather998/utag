@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:26.159751+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "713f8ed9-ad95-4b1e-a776-b524921c82c3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aee28372-26e2-4ffd-850a-2e1a1e074f48",
+  "input": "{\"title\": \"Music to Be Murdered By\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

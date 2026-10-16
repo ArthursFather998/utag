@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:03.28888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6eca9993-526f-4d44-b4ee-9543b4769fb0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "958a9a86-8378-4ef8-83e2-32af8ab9d4bc",
+  "input": "{\"title\": \"You Say\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 21",
+  "status": "verified"
+}

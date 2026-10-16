@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:53.736253+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3f4afd8-3b19-473d-81be-90f8d15e15bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1dc789b5-9cb5-4bd8-ab44-33d49f7905be",
+  "input": "{\"title\": \"Lonesome Love\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Be the Cowboy'",
+  "status": "verified"
+}

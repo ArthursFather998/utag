@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:09.888759+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "93caa77f-52fc-4e27-8ddd-bb873ee3a4f4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2d94be2d-e27e-4365-943f-9c9729075fc8",
+  "input": "{\"title\": \"iTunes Live\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

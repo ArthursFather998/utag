@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:09.33148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b871c85d-d861-4bba-95cc-cfb0131cb2fd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "518049e8-c606-4bfe-9244-e3a03911b77e",
+  "input": "{\"title\": \"Lovin', Touchin', Squeezin'\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Essential Journey'",
+  "status": "verified"
+}

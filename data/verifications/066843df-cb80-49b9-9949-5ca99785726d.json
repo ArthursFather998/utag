@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:33.912528+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f06e3c36-14d2-4181-9eaa-d1ad32b5f4d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "066843df-cb80-49b9-9949-5ca99785726d",
+  "input": "{\"title\": \"Sheer Heart Attack\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:37.382872+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "be5b1408-074b-4675-b351-53e8aac72f20",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48e901c2-9346-43d2-8535-ae6fd174c548",
+  "input": "{\"title\": \"Go It Alone\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Leather Jackets'",
+  "status": "verified"
+}

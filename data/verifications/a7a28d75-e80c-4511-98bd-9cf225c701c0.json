@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:29.700423+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6acef1b6-efb6-4fb5-8a3d-15839da83a11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7a28d75-e80c-4511-98bd-9cf225c701c0",
+  "input": "{\"title\": \"Is She Gon Pop (deluxe)\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Born Sinner'",
+  "status": "verified"
+}

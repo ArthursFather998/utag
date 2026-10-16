@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:44.841469+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ced7c4dd-3b74-4004-9070-047aa45dd229",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "87fbb27c-500c-4dc6-9a49-abf8b02a8581",
+  "input": "{\"title\": \"Pretty Visitors\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Live at the Royal Albert Hall'",
+  "status": "verified"
+}

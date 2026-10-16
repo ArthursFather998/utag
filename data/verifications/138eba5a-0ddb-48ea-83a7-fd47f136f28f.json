@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:16.422386+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5aee8c19-3994-4f86-ac95-d5e412a34495",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "138eba5a-0ddb-48ea-83a7-fd47f136f28f",
+  "input": "{\"title\": \"All Around the World\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

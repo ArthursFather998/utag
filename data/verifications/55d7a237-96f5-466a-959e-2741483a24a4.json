@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:52.671155+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f1c4afe-6f8b-41bf-9a3f-136162fed6cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55d7a237-96f5-466a-959e-2741483a24a4",
+  "input": "{\"title\": \"Glassy\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Changes'",
+  "status": "verified"
+}

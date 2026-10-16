@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:57.419827+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7bb91387-0d87-4243-80f4-6996c260cc67",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9f8d47c2-7b19-4f74-93cb-08dd7ec2be06",
+  "input": "{\"title\": \"Big Love\", \"release_type\": \"single\", \"release_year\": 1987}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

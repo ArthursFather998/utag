@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:58.558536+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fbf3872-2f26-40f1-97c7-04c8cb1c16fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cdfb51d-05c3-4889-bfdc-c920e937e051",
+  "input": "{\"title\": \"Options\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Planet Her (Deluxe)'",
+  "status": "verified"
+}

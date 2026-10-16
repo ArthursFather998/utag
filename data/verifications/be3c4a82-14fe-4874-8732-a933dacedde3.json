@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:41.297136+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc4a1367-05d6-43cc-8900-cadbdc3430d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be3c4a82-14fe-4874-8732-a933dacedde3",
+  "input": "{\"title\": \"Fool in Love\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Talk That Talk (Deluxe)'",
+  "status": "verified"
+}

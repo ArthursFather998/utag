@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:48.44204+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab33aa5b-2376-4318-b27f-6c392325073c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e410de8-c482-4c7a-8808-fa9953cf74d0",
+  "input": "{\"title\": \"so dangerous (ft. berryblue)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'yours truly, nafees'",
+  "status": "verified"
+}

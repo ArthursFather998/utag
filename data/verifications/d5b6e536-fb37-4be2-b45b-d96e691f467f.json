@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:41.643485+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84a938e0-0fc4-4de5-8468-8219d7acb14b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d5b6e536-fb37-4be2-b45b-d96e691f467f",
+  "input": "{\"title\": \"Merry Christmas (Deluxe Anniversary Edition)\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:12.268301+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39aa1a5e-8a3d-4796-9dad-d50bdbc3e2a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0274b252-ed3d-4b26-b47e-d1530d93c9f3",
+  "input": "{\"title\": \"You Should Be Mine (Don't Waste Your Time)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'From There to Here: 1989-2002'",
+  "status": "verified"
+}

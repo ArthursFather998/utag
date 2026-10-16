@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:31.39585+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb6f404e-134c-4654-9f4e-bd4a19aa920e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4009b76-0454-405a-aa8f-22e8a5f4d1e5",
+  "input": "{\"title\": \"Nobody Puts Baby in the Corner\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'My Heart Will Always Be the B-Side to My Tongue'",
+  "status": "verified"
+}

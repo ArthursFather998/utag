@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:19.944719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "368f2f48-4984-4f59-9c0c-5bd7e8ac178b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79bd1e17-a662-4692-a20c-ed97cb3222f4",
+  "input": "{\"title\": \"Ladies, Ladies, Ladies\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Revenge of the Dreamers III'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:40.396777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a788724f-1acd-4e4f-90d9-b5b6615076d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b420dfd-178f-4e39-99fe-26feb38508f9",
+  "input": "{\"title\": \"Dust My Broom\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

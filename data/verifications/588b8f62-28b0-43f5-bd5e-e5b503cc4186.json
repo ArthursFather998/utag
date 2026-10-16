@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:39.503359+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d1b052e-3089-47e7-9592-2fedc79e1de5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "588b8f62-28b0-43f5-bd5e-e5b503cc4186",
+  "input": "{\"title\": \"To Whom It May Concern\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Higher'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:54.839188+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c063ab52-8dbd-45a9-8333-6c0221f68aba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0b85d78-941d-4fdb-8dad-c1c70eb81fc8",
+  "input": "{\"title\": \"I'm Upset\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Scorpion'",
+  "status": "verified"
+}

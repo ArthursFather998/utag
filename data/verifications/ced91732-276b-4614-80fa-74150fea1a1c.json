@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:56.786607+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4609cfae-b7cd-445e-9d1d-5cb66ea1412d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ced91732-276b-4614-80fa-74150fea1a1c",
+  "input": "{\"title\": \"Fat Bottomed Girls\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live Around the World'",
+  "status": "verified"
+}

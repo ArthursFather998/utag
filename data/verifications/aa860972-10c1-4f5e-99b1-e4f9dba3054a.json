@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:43.161118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e80f7575-9b0e-4e7c-9a0a-141ef8e43cf1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aa860972-10c1-4f5e-99b1-e4f9dba3054a",
+  "input": "{\"title\": \"Stephanie\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

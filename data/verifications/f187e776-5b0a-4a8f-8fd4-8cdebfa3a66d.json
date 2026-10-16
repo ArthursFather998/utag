@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:35.145611+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e5ceb23-11c7-48aa-a16e-ad2f5dd29864",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f187e776-5b0a-4a8f-8fd4-8cdebfa3a66d",
+  "input": "{\"title\": \"Lilac Wine\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Grace (Legacy Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:42.653905+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a7cf386-ee58-45e9-a9b3-8fbb2fc22e07",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7e8e1bf3-0dfa-4fbb-bcba-f59184a7b88d",
+  "input": "{\"title\": \"Say You Will\", \"release_type\": \"album\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

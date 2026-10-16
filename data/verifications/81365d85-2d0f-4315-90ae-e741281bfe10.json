@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:26.553852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3555737b-adc0-4dfd-a03d-fb5a25a5191f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81365d85-2d0f-4315-90ae-e741281bfe10",
+  "input": "{\"title\": \"Mad House\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Good Girl Gone Bad / Rated R'",
+  "status": "verified"
+}

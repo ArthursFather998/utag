@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:55.705294+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1897955-229f-4ef7-b74a-c8301ec93a2b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0847983-559f-4bf5-b6b2-80f121ca0ef3",
+  "input": "{\"title\": \"Attention\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Attention'",
+  "status": "verified"
+}

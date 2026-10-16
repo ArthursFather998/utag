@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:34.780856+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5e6f626-a5eb-45ef-a97e-c680a32a4135",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cac22dcc-7e29-4ae7-92dc-31f4c4e9113b",
+  "input": "{\"title\": \"Losers\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'First Band on the Moon'",
+  "status": "verified"
+}

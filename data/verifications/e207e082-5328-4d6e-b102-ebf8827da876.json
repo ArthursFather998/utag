@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:30.209078+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f442d9b5-8eac-4bd8-bfb4-bf8c13dfd10f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e207e082-5328-4d6e-b102-ebf8827da876",
+  "input": "{\"title\": \"Hero\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Japan Best'",
+  "status": "verified"
+}

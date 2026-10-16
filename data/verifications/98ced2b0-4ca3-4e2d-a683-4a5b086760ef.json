@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:31.727026+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71efee48-d52b-4bfc-b3c9-362c02738f4d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "98ced2b0-4ca3-4e2d-a683-4a5b086760ef",
+  "input": "{\"title\": \"Rearview Town\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

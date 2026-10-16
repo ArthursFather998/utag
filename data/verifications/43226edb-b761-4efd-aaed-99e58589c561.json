@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:46.777629+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7841ec8-82a6-47ec-80d3-fdab54b238ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43226edb-b761-4efd-aaed-99e58589c561",
+  "input": "{\"title\": \"Tear It Up\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Deep Cuts, Volume 3 (1984-1995)'",
+  "status": "verified"
+}

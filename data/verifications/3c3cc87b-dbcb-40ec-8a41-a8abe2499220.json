@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:59.948934+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6399158c-8488-4e71-a0fa-059453e9b1b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c3cc87b-dbcb-40ec-8a41-a8abe2499220",
+  "input": "{\"title\": \"Blow\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Blow'",
+  "status": "verified"
+}

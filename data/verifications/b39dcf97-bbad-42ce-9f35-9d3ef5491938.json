@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:12.106867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a429ee9-2de1-4205-a5dd-749e2f9c4419",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b39dcf97-bbad-42ce-9f35-9d3ef5491938",
+  "input": "{\"title\": \"Relapse: Refill\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

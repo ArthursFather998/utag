@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:23.872353+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c403db2-0b7e-4298-88d4-a4ef7e7a4fd3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2bb4bc81-2622-4d06-b451-74de334e95e3",
+  "input": "{\"title\": \"Ace Up My Sleeve\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ace Up My Sleeve'",
+  "status": "verified"
+}

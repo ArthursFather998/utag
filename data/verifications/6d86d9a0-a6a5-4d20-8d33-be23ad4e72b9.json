@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:04.298197+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c04a3c3-0652-4cba-a8e6-4dd861953690",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d86d9a0-a6a5-4d20-8d33-be23ad4e72b9",
+  "input": "{\"title\": \"We're the Lucky Ones\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We're the Lucky Ones'",
+  "status": "verified"
+}

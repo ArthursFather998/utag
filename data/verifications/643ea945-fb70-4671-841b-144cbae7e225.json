@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:22.234836+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "5b9360f2-98ac-4acb-a4b8-9e11f8a81865",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "643ea945-fb70-4671-841b-144cbae7e225",
+  "input": {
+    "artist": "Lil Peep",
+    "release": "Star Shopping (Live)",
+    "title": "Star Shopping"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "'Star Shopping (Live)' is a real official 3-track release (original + two live versions from London and Belgium, spring 2017 Peep Show tour) issued by Lil Peep's estate on DSPs in June 2024 via AWAL. The attribution is legitimate, not a catalog artifact. | sources: https://www.broadwayworld.com/bwwmusic/article/Lil-Peeps-Teen-Romance-EP-Available-on-DSPs-for-the-First-Time-20240620, https://lilpeep.com/collections/sale-items/products/star-shopping-7-vinyl-black-sparkle",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:52.376338+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a03f783-e54e-491a-8968-1cd4cbae7358",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "98f90a88-9725-4a26-90cd-d1c00b2c013a",
+  "input": "{\"title\": \"Superclean Vol. I\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: [release_date: 2017-11-03]",
+  "status": "verified"
+}

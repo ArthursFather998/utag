@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:26.264462+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b270d5d-c0ca-4c01-9128-328881d37a48",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4fb318ec-512f-4fe4-b437-0bd82a7ba1e9",
+  "input": "{\"title\": \"Disconnected\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Strangeland'",
+  "status": "verified"
+}

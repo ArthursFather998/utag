@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:34.101618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fb17357-1fff-41a7-a8ef-ea8f2d9a529a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28fa10b9-4684-411f-99ae-31fdd9e35e28",
+  "input": "{\"title\": \"70's Love Groove\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Janet Remixed'",
+  "status": "verified"
+}

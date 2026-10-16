@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:19.491791+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "846ad8e4-dcd9-425d-8eff-e6ac5daec8b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "077497e8-bb58-4686-8e41-a55e9ff3e313",
+  "input": "{\"title\": \"Hero\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Ballads'",
+  "status": "verified"
+}

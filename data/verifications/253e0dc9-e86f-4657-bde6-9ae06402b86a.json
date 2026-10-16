@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:36.626046+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d1af549-256b-4a72-abc2-1a2aeee4e33e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "253e0dc9-e86f-4657-bde6-9ae06402b86a",
+  "input": "{\"title\": \"Heaven Forbid\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live at the Electric Factory: Bootleg No. 1'",
+  "status": "verified"
+}

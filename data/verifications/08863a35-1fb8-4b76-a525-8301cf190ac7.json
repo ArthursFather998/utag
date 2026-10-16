@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:57.070718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "405941c5-3d10-4b85-80de-9389e4515afe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "08863a35-1fb8-4b76-a525-8301cf190ac7",
+  "input": "{\"title\": \"Call Me Baby\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Animalism'",
+  "status": "verified"
+}

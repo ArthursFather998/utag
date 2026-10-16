@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:38.603349+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81a4e617-f711-4b52-a2c5-3b7659e38aed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dd5f86c3-d53a-4ec5-8961-edd44bd829d3",
+  "input": "{\"title\": \"When You Believe\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

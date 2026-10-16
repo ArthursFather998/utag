@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:51.215823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54ad1e66-7018-48d9-9434-9155f8b2d424",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d5eb5cc5-a4ac-44a1-981a-547f849bab20",
+  "input": "{\"title\": \"Gran Turismo\", \"release_type\": \"album\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:58.303911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "80be08d5-7268-4f69-bdb4-003a6d60ed9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93de61d4-23cc-48c3-9553-0afb45352e56",
+  "input": "{\"title\": \"Dreams\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Opus Collection'",
+  "status": "verified"
+}

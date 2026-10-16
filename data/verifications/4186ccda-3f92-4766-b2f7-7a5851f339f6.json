@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:00.849543+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc6d7c3a-8fa5-4f56-acb5-89b78202bd31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4186ccda-3f92-4766-b2f7-7a5851f339f6",
+  "input": "{\"title\": \"If I Ain't Got You (Kanye West Mix)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Remixed'",
+  "status": "verified"
+}

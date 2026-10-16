@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:30.204815+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5c2a47c-00a9-4c39-94b1-d9feb4bf5d5d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "207054a1-002a-445e-bf70-53fbbd1d528a",
+  "input": "{\"title\": \"Come Here\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Apple Music Live: Dominic Fike'",
+  "status": "verified"
+}

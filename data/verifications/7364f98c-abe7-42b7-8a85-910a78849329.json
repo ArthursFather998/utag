@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:10.971082+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea54961d-9b16-45bd-aad3-d2f6b727e1e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7364f98c-abe7-42b7-8a85-910a78849329",
+  "input": "{\"title\": \"I'm in Love with My Car\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Icon'",
+  "status": "verified"
+}

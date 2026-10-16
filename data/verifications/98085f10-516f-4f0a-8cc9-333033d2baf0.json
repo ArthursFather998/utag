@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:30.495886+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5caeacd-526a-4e79-957c-83a7d54cd5f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "98085f10-516f-4f0a-8cc9-333033d2baf0",
+  "input": "{\"title\": \"Someone's Final Song\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Blue Moves'",
+  "status": "verified"
+}

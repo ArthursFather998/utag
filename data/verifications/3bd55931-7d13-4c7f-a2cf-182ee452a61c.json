@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:56.429619+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9a30812-7f92-4253-ae00-3c4aaa3963f3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3bd55931-7d13-4c7f-a2cf-182ee452a61c",
+  "input": "{\"title\": \"Tragedy\", \"release_type\": \"single\", \"release_year\": 1961}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

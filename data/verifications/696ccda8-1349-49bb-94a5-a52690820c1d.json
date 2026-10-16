@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:42.25275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae766d2e-d81c-4c32-817f-bdbdd9ade299",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "696ccda8-1349-49bb-94a5-a52690820c1d",
+  "input": "{\"title\": \"My Own Prison (Radio Edit)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Best of Creed'",
+  "status": "verified"
+}

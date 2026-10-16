@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:26.205377+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b644121-84cd-410e-98a1-ab83d2aefad1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "eb90b99e-ad8b-4f07-838a-4626c6f66394",
+  "input": "{\"title\": \"Versus\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

@@ -5,7 +5,25 @@
   },
   "artwork": [],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION & Matt OX",
+        "id": "8f3fbf40-91d7-4987-a9dd-05ae3a9ccd48"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:28:45.528853+00:00",
+      "edition": "original",
+      "id": "9cc8567d-0000-4829-af65-98eaf2bcce68",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "?"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "8f3fbf40-91d7-4987-a9dd-05ae3a9ccd48",
@@ -29,25 +47,6 @@
     "title": "17",
     "updated_at": "2026-10-14T06:43:57.177752+00:00"
   },
-  "tracks": [
-    {
-      "apple_id": null,
-      "artist_id": "8f3fbf40-91d7-4987-a9dd-05ae3a9ccd48",
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:43:57.280393+00:00",
-      "deezer_id": null,
-      "disc_number": 1,
-      "duration_ms": null,
-      "id": "4fc0ab04-7592-42d8-80e9-2a8030a8d413",
-      "isrc": null,
-      "mbid": null,
-      "release_id": "b3fec7db-d1c6-4004-9f0c-e5f68d2ee304",
-      "spotify_id": null,
-      "status": "needs_review",
-      "title": "$$$",
-      "track_number": null,
-      "updated_at": "2026-10-14T06:43:57.280393+00:00"
-    }
-  ],
+  "tracks": [],
   "verifications": []
 }

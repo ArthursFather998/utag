@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:19.602056+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53483688-d7b9-4236-891e-b36279ab746a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "670502c7-9faa-4362-84f3-b592a4eec828",
+  "input": "{\"title\": \"Awful Things\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Awful Things'",
+  "status": "verified"
+}

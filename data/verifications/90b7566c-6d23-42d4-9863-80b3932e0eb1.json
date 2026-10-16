@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:40.815551+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c34d544-6e97-4912-b3d6-81bdf8333ab1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90b7566c-6d23-42d4-9863-80b3932e0eb1",
+  "input": "{\"title\": \"Hypnotized\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Out of the Shadows'",
+  "status": "verified"
+}

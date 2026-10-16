@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:33.63476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1dee700-d69f-413d-b833-32cf065f8e0f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "31f08586-083f-4686-afa3-db5a66122aa0",
+  "input": "{\"title\": \"The Last One to Know\", \"release_type\": \"single\", \"release_year\": 1960}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

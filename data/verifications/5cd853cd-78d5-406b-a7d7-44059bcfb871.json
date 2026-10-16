@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:26.591757+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f3c39af-c9c0-4dd7-b3e2-c6dc929388be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cd853cd-78d5-406b-a7d7-44059bcfb871",
+  "input": "{\"title\": \"Just a Stranger\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Just a Stranger'",
+  "status": "verified"
+}

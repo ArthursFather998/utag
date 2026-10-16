@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:10.774402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca26301c-cc6b-4c67-a601-fd5dbdedc636",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a790e5d-248d-425e-ba79-b8c0d042d748",
+  "input": "{\"title\": \"La Llamada\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Unforgettable: The Live Album'",
+  "status": "verified"
+}

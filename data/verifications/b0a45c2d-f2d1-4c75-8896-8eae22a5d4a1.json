@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:47.926508+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87332e65-7a23-4f73-a4c9-33533aff9aaa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0a45c2d-f2d1-4c75-8896-8eae22a5d4a1",
+  "input": "{\"title\": \"Syndicate\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Syndicate'",
+  "status": "verified"
+}

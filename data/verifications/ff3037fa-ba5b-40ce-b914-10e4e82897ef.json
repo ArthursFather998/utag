@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:57.52977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f572c48-71ec-423f-a60a-3a6aacbcc294",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff3037fa-ba5b-40ce-b914-10e4e82897ef",
+  "input": "{\"title\": \"This Is Where I See Her\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Folk Rock'",
+  "status": "verified"
+}

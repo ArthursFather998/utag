@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:16.683211+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79ee3ddd-b346-4610-b57b-42ced777dc15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "849c5b94-6440-4db3-a0e6-829abe272801",
+  "input": "{\"title\": \"Cruise Control\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'E=MC²'",
+  "status": "verified"
+}

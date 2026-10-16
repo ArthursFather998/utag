@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:15.131157+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e4e3998c-ee0f-43f5-af93-bf651edbb22c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "18dd5eab-5b96-4b8d-b015-ffc058a1cc47",
+  "input": "{\"title\": \"Tickets for a Prayer Wheel\", \"release_type\": \"album\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

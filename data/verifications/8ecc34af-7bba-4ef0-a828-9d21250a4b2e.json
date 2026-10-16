@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:34.527477+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fcb1eefd-ace6-41a4-ac0a-98f32dd55eeb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8ecc34af-7bba-4ef0-a828-9d21250a4b2e",
+  "input": "{\"title\": \"Black Magic Woman\", \"release_type\": \"album\", \"release_year\": 1971}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

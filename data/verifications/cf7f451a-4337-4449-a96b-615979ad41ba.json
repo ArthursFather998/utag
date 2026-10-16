@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:40.768648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab116690-a46a-4e77-a3c3-09294d0b27f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf7f451a-4337-4449-a96b-615979ad41ba",
+  "input": "{\"title\": \"Bohemian Rhapsody\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Live Killers'",
+  "status": "verified"
+}

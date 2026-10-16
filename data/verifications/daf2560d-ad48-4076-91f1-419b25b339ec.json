@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:15.884775+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "500f1bc7-0b94-4765-adcd-7ed7148d0b9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "daf2560d-ad48-4076-91f1-419b25b339ec",
+  "input": "{\"title\": \"Upset\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Larger Than Life'",
+  "status": "verified"
+}

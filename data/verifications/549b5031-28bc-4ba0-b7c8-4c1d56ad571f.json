@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:57.856465+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13bafd73-b3d4-41d4-b68a-e4a359a7c4f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "549b5031-28bc-4ba0-b7c8-4c1d56ad571f",
+  "input": "{\"title\": \"3DB\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '3DB'",
+  "status": "verified"
+}

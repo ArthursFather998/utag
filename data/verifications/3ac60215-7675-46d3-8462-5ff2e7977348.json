@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:36:07.559183+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51feacad-be3a-4a4b-bee4-c27c7ec4c3ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ac60215-7675-46d3-8462-5ff2e7977348",
+  "input": "{\"title\": \"We Know We're in Love\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Love Love Love'",
+  "status": "verified"
+}

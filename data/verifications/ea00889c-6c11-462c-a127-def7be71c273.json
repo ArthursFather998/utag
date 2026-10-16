@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:12.070756+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a43e242e-df22-4923-97fb-3443e3b3407c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea00889c-6c11-462c-a127-def7be71c273",
+  "input": "{\"title\": \"Paisaje Japon\\u00e9s\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Paisaje Japonés'",
+  "status": "verified"
+}

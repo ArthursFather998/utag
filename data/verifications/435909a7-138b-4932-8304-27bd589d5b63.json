@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:43.899424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a5e93bf-a873-47ca-80e2-24276be2f858",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "435909a7-138b-4932-8304-27bd589d5b63",
+  "input": "{\"title\": \"Cry Me a River\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'I'll Cry If I Want To'",
+  "status": "verified"
+}

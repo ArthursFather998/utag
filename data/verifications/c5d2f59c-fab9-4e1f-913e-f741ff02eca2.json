@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:05.367748+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81ee8b47-88af-45c1-b086-2d1859067707",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5d2f59c-fab9-4e1f-913e-f741ff02eca2",
+  "input": "{\"title\": \"As Long as You Love Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'As Long as You Love Me'",
+  "status": "verified"
+}

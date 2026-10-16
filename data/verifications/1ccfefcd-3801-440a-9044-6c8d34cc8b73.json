@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:30.105737+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d959783-6beb-4ad8-ac4b-34c5b6f48b99",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ccfefcd-3801-440a-9044-6c8d34cc8b73",
+  "input": "{\"title\": \"Morning Rain\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Future Games'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:18.767979+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "80d9debe-297a-477d-8a36-ed335c14a1de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e47ed3f1-9121-49a0-9ad1-77d1b4ea62a0",
+  "input": "{\"title\": \"Oh Lord Let It Be (B-side)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Graduation's Here'",
+  "status": "verified"
+}

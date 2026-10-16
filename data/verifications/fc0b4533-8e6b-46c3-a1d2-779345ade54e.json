@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:38.941637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9893ef14-bf27-49e1-ba2c-a672b79e5993",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fc0b4533-8e6b-46c3-a1d2-779345ade54e",
+  "input": "{\"title\": \"charades\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

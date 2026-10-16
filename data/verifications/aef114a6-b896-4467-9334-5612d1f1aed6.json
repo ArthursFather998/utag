@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:03.340843+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "047c83c2-180b-417e-87c0-c9e224d18044",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aef114a6-b896-4467-9334-5612d1f1aed6",
+  "input": "{\"title\": \"772 Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '772 Love'",
+  "status": "verified"
+}

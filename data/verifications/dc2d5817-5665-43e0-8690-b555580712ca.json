@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:47.594376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cee0648a-5115-4a44-ba1e-2689a1b356c8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dc2d5817-5665-43e0-8690-b555580712ca",
+  "input": "{\"title\": \"Songs in A Minor\", \"release_type\": \"album\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

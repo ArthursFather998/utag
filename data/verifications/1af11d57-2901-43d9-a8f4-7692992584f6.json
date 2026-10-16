@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:55.85859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a89d223f-c2d3-41f4-b4b3-167c6cec7d70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1af11d57-2901-43d9-a8f4-7692992584f6",
+  "input": "{\"title\": \"Fading\", \"track_number\": 54}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 54 of 'Vinyl Box Set'",
+  "status": "verified"
+}

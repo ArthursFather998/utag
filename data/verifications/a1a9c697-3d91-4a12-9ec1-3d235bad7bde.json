@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:30.646381+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5153b2e9-cbfc-4006-ace8-4c689d74b04d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1a9c697-3d91-4a12-9ec1-3d235bad7bde",
+  "input": "{\"title\": \"I'll Be Damned\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Baby Makin' Project'",
+  "status": "verified"
+}

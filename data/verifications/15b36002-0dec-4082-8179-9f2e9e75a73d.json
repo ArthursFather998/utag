@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:18.664901+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90f5b38e-0508-4bde-a932-c7b8ca4de9bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15b36002-0dec-4082-8179-9f2e9e75a73d",
+  "input": "{\"title\": \"hang me on the oak tree\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'i wish i was pretty'",
+  "status": "verified"
+}

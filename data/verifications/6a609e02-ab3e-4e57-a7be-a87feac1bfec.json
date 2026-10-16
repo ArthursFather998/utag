@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:27.645868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ec51e4c-2494-40cd-b8d3-f7806447c428",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a609e02-ab3e-4e57-a7be-a87feac1bfec",
+  "input": "{\"title\": \"Hallelujah (Live)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Grace EPs'",
+  "status": "verified"
+}

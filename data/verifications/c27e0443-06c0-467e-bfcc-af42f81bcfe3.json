@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:18.905621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a56ee895-8311-45c0-960d-ea376c422db2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c27e0443-06c0-467e-bfcc-af42f81bcfe3",
+  "input": "{\"title\": \"I Write Sins Not Tragedies (Live)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'iTunes Live'",
+  "status": "verified"
+}

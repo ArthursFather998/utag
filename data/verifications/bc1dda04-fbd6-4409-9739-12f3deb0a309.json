@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:21.238107+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5899f5be-f043-43b6-a6d0-3e37b3f234f3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bc1dda04-fbd6-4409-9739-12f3deb0a309",
+  "input": "{\"title\": \"A\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

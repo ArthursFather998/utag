@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:21.861727+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ecfa6d6-18de-4970-b59d-16ca6620f165",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "002cff35-c619-4e8a-9c1f-4dbdd4ef8705",
+  "input": "{\"title\": \"A Kind of Magic\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Classic Queen'",
+  "status": "verified"
+}

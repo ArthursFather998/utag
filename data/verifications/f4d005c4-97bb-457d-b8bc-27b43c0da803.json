@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:04.60645+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2648c8a6-fe09-4014-8c73-e835c93082b2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f4d005c4-97bb-457d-b8bc-27b43c0da803",
+  "input": "{\"title\": \"Sasuke\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

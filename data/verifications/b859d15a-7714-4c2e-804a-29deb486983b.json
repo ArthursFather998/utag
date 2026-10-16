@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:17.314275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6be626b9-af81-42a1-a1d5-899c95c3176d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b859d15a-7714-4c2e-804a-29deb486983b",
+  "input": "{\"title\": \"Santa Must Be Polish\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Santa Must Be Polish'",
+  "status": "verified"
+}

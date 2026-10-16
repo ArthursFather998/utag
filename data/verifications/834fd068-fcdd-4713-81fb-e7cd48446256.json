@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:00.625031+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b046575-3e59-48eb-be9c-1d6a2c0f56ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "834fd068-fcdd-4713-81fb-e7cd48446256",
+  "input": "{\"title\": \"Mothers Talk (Video Version)\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'Songs from the Big Chair (40th Anniversary Edition)'",
+  "status": "verified"
+}

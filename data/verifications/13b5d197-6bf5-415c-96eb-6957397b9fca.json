@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:21:15.76722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9fc54e92-9bf6-406e-8c40-76eea24fdf0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13b5d197-6bf5-415c-96eb-6957397b9fca",
+  "input": "{\"title\": \"She Sells Sanctuary (The Cult Cover)\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Under the Iron Sea (20th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:32.902051+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6bcdc8f5-5014-457e-8dc6-4ff32ff74429",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a98ce076-da19-4f60-9a7a-2e4acd495e35",
+  "input": "{\"title\": \"Worst Behavior\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Nothing Was the Same'",
+  "status": "verified"
+}

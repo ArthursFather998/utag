@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:16.7325+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e9adc43-f464-463f-8b02-c01eeb071d2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9a1a1c2-7ccb-4f29-b5ca-3f8e2b61e63e",
+  "input": "{\"title\": \"We Belong Together\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of '#1 to Infinity'",
+  "status": "verified"
+}

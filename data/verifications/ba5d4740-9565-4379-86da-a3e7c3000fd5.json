@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:35.184548+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e55d7f8-02fc-402f-9cf0-7a6a01322397",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba5d4740-9565-4379-86da-a3e7c3000fd5",
+  "input": "{\"title\": \"Waves (Acoustic)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Waves (Acoustic)'",
+  "status": "verified"
+}

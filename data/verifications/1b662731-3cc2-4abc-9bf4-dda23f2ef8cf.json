@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:56.749427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9fed1183-532e-44b9-bbbd-f40bfea0979d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b662731-3cc2-4abc-9bf4-dda23f2ef8cf",
+  "input": "{\"title\": \"Sell Me Candy\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Good Girl Gone Bad: Reloaded'",
+  "status": "verified"
+}

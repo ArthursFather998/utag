@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:51.909454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae188f8a-e949-4be5-b559-a9450ee123f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e58f467-507f-4f0b-bad6-064d7ef6a421",
+  "input": "{\"title\": \"Just My Name (Piano Version)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Smile 2: The Skye Riley EP'",
+  "status": "verified"
+}

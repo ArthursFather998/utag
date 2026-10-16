@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:01.868458+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "a765abac-7372-4bab-9e36-4cbdbdc37566",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "1923e70c-42f1-4b93-aaed-2f561cd4b958",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "Coming Home",
+    "title": "Coming Home"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Real single released 5 June 2024, second single from This Is How Tomorrow Moves; title/artist/year all match. | sources: https://en.wikipedia.org/wiki/This_Is_How_Tomorrow_Moves, https://www.music-news.com/news/Underground/173539/Beabadoobee-announces-third-studio-album-This-Is-How-Tomorrow-Moves-and-new-single-Take-A-Bite",
+  "status": "verified"
+}

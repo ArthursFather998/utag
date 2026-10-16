@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:14.132534+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d18553dd-5c5c-40a3-8c5a-04c67e07dccf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51202835-689e-4802-9af8-ed08da78822e",
+  "input": "{\"title\": \"Wine Pon You\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Amala (Deluxe)'",
+  "status": "verified"
+}

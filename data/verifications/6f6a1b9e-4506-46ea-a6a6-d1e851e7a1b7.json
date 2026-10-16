@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:33.720223+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac13f40c-64a0-4acf-8196-7408a46631d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f6a1b9e-4506-46ea-a6a6-d1e851e7a1b7",
+  "input": "{\"title\": \"Love Takes Time\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Essential Mariah Carey'",
+  "status": "verified"
+}

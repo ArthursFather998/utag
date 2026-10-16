@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:10.986819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a412bdf-f22a-4e07-be37-3ab9a8b2af60",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d7fe1bec-e45c-4d03-b85f-4922e1b431e1",
+  "input": "{\"title\": \"Better Without You\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

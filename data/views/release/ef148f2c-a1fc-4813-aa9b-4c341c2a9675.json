@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Gigi Perez",
+    "id": "62a9f55e-1bd1-450d-bec1-63376aa962ee"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T17:59:57.718569+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "9ea8f1b1-8336-4006-9009-14a73f102f94",
+      "phash": null,
+      "release_id": "ef148f2c-a1fc-4813-aa9b-4c341c2a9675",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/28f99604-8cb4-4ee4-9609-9d596675a03e/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "62a9f55e-1bd1-450d-bec1-63376aa962ee",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-16T17:59:57.471849+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ef148f2c-a1fc-4813-aa9b-4c341c2a9675",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Sailor Song",
+    "updated_at": "2026-10-16T17:59:57.471849+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "62a9f55e-1bd1-450d-bec1-63376aa962ee",
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T17:59:57.564027+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6e1b4ac2-8ef6-48a6-b018-9dea2d1d028e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ef148f2c-a1fc-4813-aa9b-4c341c2a9675",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Sailor Song",
+      "track_number": null,
+      "updated_at": "2026-10-16T17:59:57.564027+00:00"
+    }
+  ],
+  "verifications": []
+}

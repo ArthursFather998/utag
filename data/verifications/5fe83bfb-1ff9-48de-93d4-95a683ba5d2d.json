@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:06.826799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b7dd4a1-782b-426b-a41b-02a3eef24913",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5fe83bfb-1ff9-48de-93d4-95a683ba5d2d",
+  "input": "{\"title\": \"I Guess It's Fuck Me\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Her Loss'",
+  "status": "verified"
+}

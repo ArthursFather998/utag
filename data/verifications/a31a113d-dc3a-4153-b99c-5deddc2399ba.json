@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:33.506128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "391298e4-049b-4208-a818-27dcdf1f2c83",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a31a113d-dc3a-4153-b99c-5deddc2399ba",
+  "input": "{\"title\": \"All American Nightmare\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

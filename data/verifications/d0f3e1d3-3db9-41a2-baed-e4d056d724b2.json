@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:01.019139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6ebe960-00f0-4095-8106-d1cbc35b2f1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0f3e1d3-3db9-41a2-baed-e4d056d724b2",
+  "input": "{\"title\": \"No Debes Jugar\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Unforgettable: The Studio Album'",
+  "status": "verified"
+}

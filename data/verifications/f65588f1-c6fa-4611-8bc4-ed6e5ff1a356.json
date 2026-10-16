@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:32.160989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f244f0b4-7e31-44ce-a8c4-61934527b1ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f65588f1-c6fa-4611-8bc4-ed6e5ff1a356",
+  "input": "{\"title\": \"Nowhere Fast\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Revival'",
+  "status": "verified"
+}

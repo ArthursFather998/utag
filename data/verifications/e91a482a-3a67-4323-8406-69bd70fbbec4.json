@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:18.059256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cec1f866-5dc1-48af-9019-582861bb4145",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e91a482a-3a67-4323-8406-69bd70fbbec4",
+  "input": "{\"title\": \"Selena\", \"release_type\": \"album\", \"release_year\": 1989}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

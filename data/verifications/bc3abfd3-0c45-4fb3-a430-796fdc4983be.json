@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:39.513442+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70a450e5-449b-413c-a44e-ebd8795f157b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bc3abfd3-0c45-4fb3-a430-796fdc4983be",
+  "input": "{\"title\": \"Fantasy\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:46.096462+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6437b4f1-243d-408b-95de-4a685c35a7f8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "06c4bdf1-d537-45e8-a36a-6c4955d497dc",
+  "input": "{\"title\": \"Nikita\", \"release_type\": \"single\", \"release_year\": 1985}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

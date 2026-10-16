@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:59.245175+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00f1b985-d6e0-4eb7-a781-d6e383f04bdf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c8e8490-4152-4b75-82f3-cbd02f8cc225",
+  "input": "{\"title\": \"Animal Instinct\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Gold'",
+  "status": "verified"
+}

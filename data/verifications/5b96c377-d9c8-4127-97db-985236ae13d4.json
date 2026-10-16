@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:09.92451+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88d2b97d-ef51-471b-a159-7d7ee927003d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b96c377-d9c8-4127-97db-985236ae13d4",
+  "input": "{\"title\": \"Thursday Girl\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Puberty 2 (10th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

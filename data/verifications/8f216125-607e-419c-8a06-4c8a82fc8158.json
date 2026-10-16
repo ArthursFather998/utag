@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:16.413733+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "891b5dde-d207-408a-a609-4d90fd87c9c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f216125-607e-419c-8a06-4c8a82fc8158",
+  "input": "{\"title\": \"Zuma House (Acoustic)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Swag Live from Coachella (Weekend I)'",
+  "status": "verified"
+}

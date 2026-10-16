@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:47.411772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b0fb6df-e254-4f98-9f56-4390d4d11c3d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b27635e1-a05f-40e3-9bac-a6883532fc7c",
+  "input": "{\"title\": \"Don't Stop Me\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Love Me by Name'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:30.43362+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27c63fe7-f676-492f-9952-4a723d28c866",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23772b5a-2fba-4858-8eff-b7f8ae07f043",
+  "input": "{\"title\": \"Lilac Wine\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Jeff Buckley Collection'",
+  "status": "verified"
+}

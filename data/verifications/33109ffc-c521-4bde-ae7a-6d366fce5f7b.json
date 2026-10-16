@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:29.565887+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44ad6ffd-d6b0-475b-a28f-5b296cb4c168",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "33109ffc-c521-4bde-ae7a-6d366fce5f7b",
+  "input": "{\"title\": \"What I Miss Most (acoustic, 1 mic 1 take / live from Abbey Road Studios)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Only Acoustic'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:45.946473+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a0206ee-780f-4ed2-b675-e0e886415bbb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "75f44443-6756-4e52-989c-57fc4e2bcba3",
+  "input": "{\"title\": \"Painkiller\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Painkiller'",
+  "status": "verified"
+}

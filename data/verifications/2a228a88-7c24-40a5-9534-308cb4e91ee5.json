@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:53.362742+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6fefe7e-8f98-4134-995b-5e254d52c0c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a228a88-7c24-40a5-9534-308cb4e91ee5",
+  "input": "{\"title\": \"Heartbeat\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Heartbeat'",
+  "status": "verified"
+}

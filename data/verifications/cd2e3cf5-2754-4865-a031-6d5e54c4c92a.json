@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:50.226389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb49e481-b444-436a-88db-bad3ff30b0d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd2e3cf5-2754-4865-a031-6d5e54c4c92a",
+  "input": "{\"title\": \"Ready to Start\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Ready Boy & Girls?'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:47.440411+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a98b4d3d-b86d-449a-88d8-2e89bb392857",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9eabebd-e8df-48d9-85bb-10598668a9de",
+  "input": "{\"title\": \"This Is the Last Time\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

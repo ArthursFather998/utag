@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:41.861498+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "47e52b08-6561-4744-b778-02636a89e4c6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "46a5da79-4c00-40c9-a3e6-99bd7d49bdb7",
+  "input": "{\"title\": \"Run\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

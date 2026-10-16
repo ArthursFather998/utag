@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:01.500802+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4503fc59-6ff6-4fd9-b32c-fcb78abfcd8d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a96e1fcb-b9ca-4d9b-838c-43c606dc4d26",
+  "input": "{\"title\": \"The Green Manalishi (With the Two Prong Crown)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Best of Peter Green's Fleetwood Mac'",
+  "status": "verified"
+}

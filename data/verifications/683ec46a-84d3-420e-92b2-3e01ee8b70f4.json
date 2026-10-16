@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:16.064512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1877028-a047-4535-a69f-bb6217bec344",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "683ec46a-84d3-420e-92b2-3e01ee8b70f4",
+  "input": "{\"title\": \"The Fall\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Echoes of Silence'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:55.210913+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5da6f2b8-6ac1-4224-92dd-d10b3af611da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7696cd25-9941-4c08-a0dd-ff29445adba2",
+  "input": "{\"title\": \"Runaway\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Design of a Decade: 1986–1996'",
+  "status": "verified"
+}

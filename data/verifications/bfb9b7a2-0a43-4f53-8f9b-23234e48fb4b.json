@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:54.89933+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68c8f124-4813-4bdd-8a5c-b927263732b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bfb9b7a2-0a43-4f53-8f9b-23234e48fb4b",
+  "input": "{\"title\": \"Put Out the Fire\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Hot Space'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:49.265707+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7e3766a-60a9-48c1-b067-e7892a6e6f8d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b1341efb-a1da-48f2-ad8e-ddd9a813af3d",
+  "input": "{\"title\": \"Sugar\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:35.503786+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cdaee4cc-e2e7-4f6d-9d05-e53274529526",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa6cf667-7390-425e-b82e-be5dc5965c83",
+  "input": "{\"title\": \"Love You Goodbye\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Made in the A.M. (Deluxe Edition)'",
+  "status": "verified"
+}

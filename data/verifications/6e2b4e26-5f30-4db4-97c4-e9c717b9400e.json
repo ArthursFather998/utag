@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:16.265305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e3297a9-aaf4-4948-8465-5e07b6b8a12e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e2b4e26-5f30-4db4-97c4-e9c717b9400e",
+  "input": "{\"title\": \"Master & A Hound\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'This Empty Northern Hemisphere'",
+  "status": "verified"
+}

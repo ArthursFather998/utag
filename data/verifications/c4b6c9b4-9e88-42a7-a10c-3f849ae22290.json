@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:59.550176+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6e1d329-33f3-4b0b-9806-f4f470319acb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c4b6c9b4-9e88-42a7-a10c-3f849ae22290",
+  "input": "{\"title\": \"Cloud 9\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

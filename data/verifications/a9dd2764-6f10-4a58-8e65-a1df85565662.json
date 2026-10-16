@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:00.853407+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f87342af-a5ec-4d98-9eab-31372c304fbd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a9dd2764-6f10-4a58-8e65-a1df85565662",
+  "input": "{\"title\": \"Fire Drill\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

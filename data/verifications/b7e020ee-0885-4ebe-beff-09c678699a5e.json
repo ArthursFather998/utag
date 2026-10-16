@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:58.62127+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0072dd4-ec44-4043-85c2-51f63d9f10fb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b7e020ee-0885-4ebe-beff-09c678699a5e",
+  "input": "{\"title\": \"Live in Ukraine\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

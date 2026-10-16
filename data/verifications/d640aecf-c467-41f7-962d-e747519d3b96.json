@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:57.509436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf142c9e-ee9e-4ef0-95e3-f978e329c044",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d640aecf-c467-41f7-962d-e747519d3b96",
+  "input": "{\"title\": \"Cole World\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Cole World: The Sideline Story'",
+  "status": "verified"
+}

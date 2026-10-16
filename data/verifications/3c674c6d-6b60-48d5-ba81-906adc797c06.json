@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:39.794174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4252381-b758-4e69-8e84-a9d82c153c7c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c674c6d-6b60-48d5-ba81-906adc797c06",
+  "input": "{\"title\": \"Peppers\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Did You Know That There's a Tunnel Under Ocean Blvd'",
+  "status": "verified"
+}

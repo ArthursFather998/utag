@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:47.441983+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0eefa9e2-15a9-413a-b78b-e4d421907cde",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0dbfbcc-b676-4e32-9909-45c722f35e51",
+  "input": "{\"title\": \"Rusty Intro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Habibti'",
+  "status": "verified"
+}

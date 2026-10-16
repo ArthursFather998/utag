@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:04.39599+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ecd74eab-d274-4df1-9f77-c7e11a5f8fef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eaac7b71-2ea0-4dd2-84d4-667aaf13edaf",
+  "input": "{\"title\": \"Mona Lisas and Mad Hatters (Part Two)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Reg Strikes Back'",
+  "status": "verified"
+}

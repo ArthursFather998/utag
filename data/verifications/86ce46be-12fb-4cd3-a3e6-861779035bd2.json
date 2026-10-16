@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:41.392156+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "101db6e8-40dd-4a6f-b610-58e8a18a0ce5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "86ce46be-12fb-4cd3-a3e6-861779035bd2",
+  "input": "{\"title\": \"Like a Movie\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Like a Movie'",
+  "status": "verified"
+}

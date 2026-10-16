@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:55.49607+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "78844acf-315e-412f-bafb-3c63f650b954",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2629b90d-fc65-443a-9004-eba5cdc58f2f",
+  "input": "{\"title\": \"Hallelujah\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:00.349996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48c1088e-43f8-4c0d-ac59-4e326393ddd4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37663263-cc4d-4a9f-8658-aa6a32a9b1c9",
+  "input": "{\"title\": \"Don't Waste My Time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Waste My Time'",
+  "status": "verified"
+}

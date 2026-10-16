@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:34.057808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "909d7fe8-08b1-4adb-9485-9fd2f1f00a15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7dfaa3b-f9a9-4a8f-93e2-b7639eb03429",
+  "input": "{\"title\": \"Doom\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Fighting Demons'",
+  "status": "verified"
+}

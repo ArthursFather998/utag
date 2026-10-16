@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:55.059626+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a9ec5e4b-5ad4-4193-8b58-883bd17bd0de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c2f0f11-7ae3-4302-a71a-97a8f98f3d2b",
+  "input": "{\"title\": \"Walnut Tree (Demo)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Retrospective EP 2: Sunshine'",
+  "status": "verified"
+}

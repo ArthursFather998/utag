@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:33.15749+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3623aca6-63ad-4eb7-955c-37b2ce0fb271",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b843a40c-7259-45e4-a51a-1d29128e56dc",
+  "input": "{\"title\": \"Walks Like a Lady\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Greatest Hits 2'",
+  "status": "verified"
+}

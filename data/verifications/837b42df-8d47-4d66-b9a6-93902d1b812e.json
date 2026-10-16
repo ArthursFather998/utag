@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:14.372217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d016fb5-b66a-419b-a23d-d7820548125b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "837b42df-8d47-4d66-b9a6-93902d1b812e",
+  "input": "{\"title\": \"Wednesday Night Interlude\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'If You're Reading This It's Too Late'",
+  "status": "verified"
+}

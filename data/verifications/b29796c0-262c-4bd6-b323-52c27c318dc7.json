@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:42.487971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "206aa0f4-fc87-42ea-829a-5ab925f1857f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b29796c0-262c-4bd6-b323-52c27c318dc7",
+  "input": "{\"title\": \"Nothing Left to Lose\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'When the Smoke Clears'",
+  "status": "verified"
+}

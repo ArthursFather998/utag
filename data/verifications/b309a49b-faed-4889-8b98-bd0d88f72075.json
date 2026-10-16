@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:03.376262+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "e7179ee9-813f-4692-9333-5ae53fea4330",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "b309a49b-faed-4889-8b98-bd0d88f72075",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "Coffee",
+    "title": "Coffee"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Debut single 'Coffee' by beabadoobee, 2017 (Wikipedia: first song released Sept 2017; Discogs single release Nov 4, 2017). | sources: https://en.wikipedia.org/wiki/Beabadoobee, https://www.discogs.com/release/26579042-beabadoobee-Coffee",
+  "status": "verified"
+}

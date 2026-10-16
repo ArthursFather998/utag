@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:28.392521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ab1fcbc-5ad9-4e22-b5b7-cae22ceaf965",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15451709-52be-42d8-b946-db69073d7736",
+  "input": "{\"title\": \"Out of Love\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Someplace Else Now'",
+  "status": "verified"
+}

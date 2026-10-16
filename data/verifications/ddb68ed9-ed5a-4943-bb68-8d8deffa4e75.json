@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:36:31.304039+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9f41c3d-cbe1-4792-8403-2be2d9d91f6e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ddb68ed9-ed5a-4943-bb68-8d8deffa4e75",
+  "input": "{\"title\": \"That's the Boy\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Girl Talk with Bonus Tracks'",
+  "status": "verified"
+}

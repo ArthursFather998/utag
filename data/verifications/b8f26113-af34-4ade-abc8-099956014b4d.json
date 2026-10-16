@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:42.757335+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f20cfab7-ef75-490f-a5f9-107153471d6d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b8f26113-af34-4ade-abc8-099956014b4d",
+  "input": "{\"title\": \"THE RUSH\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

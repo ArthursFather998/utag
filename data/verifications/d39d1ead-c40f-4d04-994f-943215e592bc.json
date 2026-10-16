@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:54.615106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d0bd253-0fc8-4dd2-84d7-419bb28a6a3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d39d1ead-c40f-4d04-994f-943215e592bc",
+  "input": "{\"title\": \"Used To Be My Girl (Live)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'An Evening with Brian McKnight'",
+  "status": "verified"
+}

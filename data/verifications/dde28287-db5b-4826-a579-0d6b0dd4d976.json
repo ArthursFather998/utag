@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:33.072518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5778030-8cbf-4d94-bd34-9fb308b4b38a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dde28287-db5b-4826-a579-0d6b0dd4d976",
+  "input": "{\"title\": \"Waves (Guitar Acoustic)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Same Kind of Different (Acoustic)'",
+  "status": "verified"
+}

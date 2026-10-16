@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:42.976603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff9207b9-cbc3-4557-b769-a4c8d9078bdb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e1a08fc-8e40-441e-8aa1-78cdbcb53e68",
+  "input": "{\"title\": \"Outside All Night (CHOPNOTSLOP REMIX)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Larger Than Life (Chopped Not Slopped)'",
+  "status": "verified"
+}

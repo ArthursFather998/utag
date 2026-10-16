@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:37.282221+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db0e526e-d94a-4a51-96e9-1e43f0d27309",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b48ed9ff-6b22-4d90-94ef-9b99e8840f61",
+  "input": "{\"title\": \"Did You Ever Love Me\", \"release_type\": \"single\", \"release_year\": 1973}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:19.697053+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98444fc0-f4ad-471b-b0e6-9e9f98389155",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f155cec-7a6e-4b49-81c7-479269658152",
+  "input": "{\"title\": \"Story of My Life\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Story of My Life'",
+  "status": "verified"
+}

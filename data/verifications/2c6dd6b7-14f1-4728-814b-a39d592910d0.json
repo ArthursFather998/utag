@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:19.268417+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d55006f3-8aa8-4f97-8faf-93700c53a9cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c6dd6b7-14f1-4728-814b-a39d592910d0",
+  "input": "{\"title\": \"Julia\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Rosemary Hill'",
+  "status": "verified"
+}

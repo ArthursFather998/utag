@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:09.318251+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4cd1ec43-dfb1-4691-a4ad-e7a4aabbd967",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5ef1f41-eab6-4cb8-845f-fc5afe62b1cf",
+  "input": "{\"title\": \"Within a Room Somewhere\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'The Best of Sixpence None the Richer'",
+  "status": "verified"
+}

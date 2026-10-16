@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:11.689835+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f97ef11e-55f6-4c3f-8041-0defd17c5959",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "000e4fb1-49ac-438a-840d-26fc79ba2173",
+  "input": "{\"title\": \"On the Floor\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'I Remember You'",
+  "status": "verified"
+}

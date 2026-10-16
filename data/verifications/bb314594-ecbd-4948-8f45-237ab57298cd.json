@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:26.989375+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2bd89ae-2b83-4e27-b181-08e03665c637",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb314594-ecbd-4948-8f45-237ab57298cd",
+  "input": "{\"title\": \"Meet Me At Our Spot (Live)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Meet Me At Our Spot (Live)'",
+  "status": "verified"
+}

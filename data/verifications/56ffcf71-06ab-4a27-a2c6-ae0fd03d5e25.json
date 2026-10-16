@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:42.152287+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51d9de08-9484-4d16-b91b-1149d5e1024a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56ffcf71-06ab-4a27-a2c6-ae0fd03d5e25",
+  "input": "{\"title\": \"Miles\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Ctrl (Deluxe)'",
+  "status": "verified"
+}

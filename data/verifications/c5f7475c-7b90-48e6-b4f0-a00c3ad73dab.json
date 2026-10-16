@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T10:00:01.767805+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c9732ff-e129-4e9f-b838-34853a432825",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c5f7475c-7b90-48e6-b4f0-a00c3ad73dab",
+  "input": "{\"title\": \"A Winter's Tale\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

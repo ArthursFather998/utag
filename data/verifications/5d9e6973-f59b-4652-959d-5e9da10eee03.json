@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:10.750319+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3acd607d-0050-4532-8ccb-25ab3d213ab3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d9e6973-f59b-4652-959d-5e9da10eee03",
+  "input": "{\"title\": \"Together Again\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Velvet Rope (Deluxe Edition)'",
+  "status": "verified"
+}

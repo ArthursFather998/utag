@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:36.534454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9a137ab-f84d-4e5f-ab6d-9fdd120670cc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "76b68380-486f-47a2-aea1-7eb9465e0df0",
+  "input": "{\"title\": \"The Fray (Deluxe Edition)\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

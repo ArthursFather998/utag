@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:16.748915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56b2ff09-1d9b-4783-8926-cba35bd3da78",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "991a0a75-f536-4d6f-9422-946f76031fb4",
+  "input": "{\"title\": \"Always Be My Baby (Live at Madison Square Garden)\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

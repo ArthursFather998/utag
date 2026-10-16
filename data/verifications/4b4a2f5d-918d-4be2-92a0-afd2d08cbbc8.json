@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:38.057519+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de8c437c-e38f-47b9-913a-d2c74185bb11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b4a2f5d-918d-4be2-92a0-afd2d08cbbc8",
+  "input": "{\"title\": \"point blank range\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'point blank range'",
+  "status": "verified"
+}

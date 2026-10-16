@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:26.606816+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1a598f4-b85c-427f-a483-9ec284f1bb95",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f187e8a3-7793-4c43-883f-3e94b418c7a9",
+  "input": "{\"title\": \"Disc 1 - Cry Me a River\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

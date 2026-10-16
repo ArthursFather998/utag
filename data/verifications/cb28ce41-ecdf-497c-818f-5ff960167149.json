@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:52.358635+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "742e9da9-0b7d-4235-91a8-7c68eb29584b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb28ce41-ecdf-497c-818f-5ff960167149",
+  "input": "{\"title\": \"No Debes Jugar\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'No Debes Jugar'",
+  "status": "verified"
+}

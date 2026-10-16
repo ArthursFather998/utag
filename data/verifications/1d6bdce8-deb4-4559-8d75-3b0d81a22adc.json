@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:32.946701+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37f1eba2-ff97-4b3a-a920-b9d33dcae524",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d6bdce8-deb4-4559-8d75-3b0d81a22adc",
+  "input": "{\"title\": \"La Mujer\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Seis'",
+  "status": "verified"
+}

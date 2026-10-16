@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:54.076621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c401d368-7343-42d0-ac50-677a8baef5ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f891abd9-c192-40f6-9052-774de19c62ae",
+  "input": "{\"title\": \"Girlfriend\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Songs in A Minor'",
+  "status": "verified"
+}

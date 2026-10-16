@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:42.897746+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e10fbfd9-aa21-4c51-8ae7-c2eea198d72a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9fcf2e1-87e8-4c41-9218-812863759982",
+  "input": "{\"title\": \"Rainbow Connection\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'McKnighttime Lullabies'",
+  "status": "verified"
+}

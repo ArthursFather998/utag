@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:04.43937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8febbf58-468d-4109-a79c-043441d0e8c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "310330e4-c6c0-40a5-b8e1-66103eec53b6",
+  "input": "{\"title\": \"Cold Blooded\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Coming Home (Expanded Edition)'",
+  "status": "verified"
+}

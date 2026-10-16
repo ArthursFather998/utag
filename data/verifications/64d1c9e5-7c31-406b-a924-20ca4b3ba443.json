@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:11.214102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a78d7840-fe8e-4895-8981-74dbdbf6bfb0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64d1c9e5-7c31-406b-a924-20ca4b3ba443",
+  "input": "{\"title\": \"Hula Girl\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '(((((ultraSOUND)))))'",
+  "status": "verified"
+}

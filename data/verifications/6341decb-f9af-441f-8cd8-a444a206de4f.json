@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:51.621276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab93cd60-e74e-4b7c-be1d-b2aeab622f24",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6341decb-f9af-441f-8cd8-a444a206de4f",
+  "input": "{\"title\": \"PYD\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:18.025424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fec52f27-fd76-4b71-aee0-92a83ac7ff1a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2ab7ba48-3f4d-4a99-993e-e449914a9245",
+  "input": "{\"title\": \"Viva Las Vengeance\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

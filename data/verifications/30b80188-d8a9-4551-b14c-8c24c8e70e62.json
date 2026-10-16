@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:18.113133+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2aca345-9817-4880-9201-f80c6e79c55d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30b80188-d8a9-4551-b14c-8c24c8e70e62",
+  "input": "{\"title\": \"Baby Instructions\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'McKnighttime Lullabies'",
+  "status": "verified"
+}

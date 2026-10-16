@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:50.440971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa1ed6b9-3278-4c49-853b-943bda90a45c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "96ced7a7-34bf-4844-8697-d9cefbf7923b",
+  "input": "{\"title\": \"Salvation\", \"release_type\": \"single\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

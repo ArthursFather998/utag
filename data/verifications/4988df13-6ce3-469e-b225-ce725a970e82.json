@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:27.794706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50a8d253-d1e8-4571-979c-89675c6e2854",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4988df13-6ce3-469e-b225-ce725a970e82",
+  "input": "{\"title\": \"Sunset Boulevard\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Femme Fatale Vol. 2'",
+  "status": "verified"
+}

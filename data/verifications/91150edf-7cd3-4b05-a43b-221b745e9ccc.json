@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:55.654541+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d48ae5c1-c53f-4414-9cd1-f733c70083a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "91150edf-7cd3-4b05-a43b-221b745e9ccc",
+  "input": "{\"title\": \"D\\u00e9j\\u00e0 vu\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Relapse'",
+  "status": "verified"
+}

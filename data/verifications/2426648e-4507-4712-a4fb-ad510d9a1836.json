@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:41.21204+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e87db2f-a533-41ca-b0c1-ace4cae4f0d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2426648e-4507-4712-a4fb-ad510d9a1836",
+  "input": "{\"title\": \"all ur fault\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'IT'S NOT THAT SERIOUS'",
+  "status": "verified"
+}

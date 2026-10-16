@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:46.772968+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd86a9d2-8a7f-4cc1-ae49-97ce8ecef792",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8b90d745-942e-4c33-a389-6550c05384e6",
+  "input": "{\"title\": \"I'm Going Slightly Mad\", \"release_type\": \"single\", \"release_year\": 1991}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

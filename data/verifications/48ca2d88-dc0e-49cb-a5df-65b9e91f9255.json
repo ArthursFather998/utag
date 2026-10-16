@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:15.616504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc99a25d-2ec5-4d50-a1f1-a07e9807d36e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48ca2d88-dc0e-49cb-a5df-65b9e91f9255",
+  "input": "{\"title\": \"start\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'start / cLosure'",
+  "status": "verified"
+}

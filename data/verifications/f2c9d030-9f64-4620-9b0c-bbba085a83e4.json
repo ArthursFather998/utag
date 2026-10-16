@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:47.968375+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3fde78d8-4254-40aa-b2f3-1a7fa5d88518",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2c9d030-9f64-4620-9b0c-bbba085a83e4",
+  "input": "{\"title\": \"I'm Going Slightly Mad\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I'm Going Slightly Mad'",
+  "status": "verified"
+}

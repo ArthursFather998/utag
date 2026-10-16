@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:23.074992+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3189738-cc95-49d9-bed1-dd84a5be587d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0f65e9f-3823-4e77-909a-d79a830f7ca9",
+  "input": "{\"title\": \"Tear Up This Town\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tear Up This Town'",
+  "status": "verified"
+}

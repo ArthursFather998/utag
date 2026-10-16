@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:57.340066+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec03f185-afd7-43b1-94ce-183dd161c5bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f8a2c73-f5f1-43c9-8619-1abc9f304da2",
+  "input": "{\"title\": \"On My Own\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'One-X'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:41.221462+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a92da54b-5463-4a94-be2c-e4346c7135c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "150ce110-caed-4772-8180-a0a062a47744",
+  "input": "{\"title\": \"Amazing Grace (Give It Back)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'My Dear Machine'",
+  "status": "verified"
+}

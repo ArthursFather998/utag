@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:47.92202+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54dfc20a-12a7-42c6-b7ae-4da38c6fd756",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8a17a6d-fb75-4c9a-bb99-7b9d80f01ce1",
+  "input": "{\"title\": \"\\u00c1mame\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ámame'",
+  "status": "verified"
+}

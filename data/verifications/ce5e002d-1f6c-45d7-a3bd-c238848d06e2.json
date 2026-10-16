@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:59.985699+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e74c76b7-4f65-47a8-8042-2a8770c56ea0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce5e002d-1f6c-45d7-a3bd-c238848d06e2",
+  "input": "{\"title\": \"No Idea\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Heaven or Hell'",
+  "status": "verified"
+}

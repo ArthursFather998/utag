@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:53.089064+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7579b38-8dee-4c00-94b7-446a11d0d68e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e664aea-0222-4530-a997-fbd68e08d418",
+  "input": "{\"title\": \"Glo'd Up\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Goodbye & Good Riddance (5th Anniversary Edition)'",
+  "status": "verified"
+}

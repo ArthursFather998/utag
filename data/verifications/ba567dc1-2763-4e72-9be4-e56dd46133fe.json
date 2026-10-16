@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:34.513131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "537d098b-cd23-447a-915e-66d63cff8af0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba567dc1-2763-4e72-9be4-e56dd46133fe",
+  "input": "{\"title\": \"Mayday\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mayday'",
+  "status": "verified"
+}

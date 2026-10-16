@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:03.122583+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0c15ae9-9981-4af2-8de3-e148f626f12d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db5758d8-a877-418c-9657-a95e820df579",
+  "input": "{\"title\": \"I Want to Break Free\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Greatest Hits II'",
+  "status": "verified"
+}

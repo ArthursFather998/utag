@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:10.402415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4cabc725-642e-4bf1-9504-36673faadfae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b82dac20-a517-4639-b463-a252a71f0b10",
+  "input": "{\"title\": \"Mojo Pin (Takes 1&2)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In Transition'",
+  "status": "verified"
+}

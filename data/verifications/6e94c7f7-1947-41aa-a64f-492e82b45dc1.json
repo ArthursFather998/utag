@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:43.822111+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d249de7c-45f0-426d-b75c-c185343bc02a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e94c7f7-1947-41aa-a64f-492e82b45dc1",
+  "input": "{\"title\": \"Disc 1 - I Just Don't Know If I Can\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

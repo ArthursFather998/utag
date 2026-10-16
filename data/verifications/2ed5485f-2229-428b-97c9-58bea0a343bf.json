@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:14.706861+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7dc3fdde-8f2d-4c57-9b42-1656786d1d6a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ed5485f-2229-428b-97c9-58bea0a343bf",
+  "input": "{\"title\": \"Star Walkin'\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Star Walkin''",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:19.264131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98026663-8cd4-470b-ad1b-7bc250ac6d2b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cba54be4-3063-4d50-8b60-24f58720c097",
+  "input": "{\"title\": \"That's Enough for Me\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Tusk'",
+  "status": "verified"
+}

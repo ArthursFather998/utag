@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:33.667715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c5f9373-d3c8-4173-aab1-50d71e087062",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9bfd7355-30d1-4fbb-9ad2-7682d169f3fc",
+  "input": "{\"title\": \"I'm Not Leaving\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I'm Not Leaving'",
+  "status": "verified"
+}

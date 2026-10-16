@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:38.629203+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fad784b4-78b7-46e0-9eec-082e79e530fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b169f39-6d2d-42cb-aca5-a08e3c4d372a",
+  "input": "{\"title\": \"dum bich dream wrong witout u:(\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'my least favorite movie'",
+  "status": "verified"
+}

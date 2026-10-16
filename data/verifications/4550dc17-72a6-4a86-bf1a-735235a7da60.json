@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:37.868651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "090b1e21-b741-4aa9-bb50-c6f6d7739508",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4550dc17-72a6-4a86-bf1a-735235a7da60",
+  "input": "{\"title\": \"Rambling Pony\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Albatross'",
+  "status": "verified"
+}

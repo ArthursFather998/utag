@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:01.426774+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56343c2a-31ff-4df7-80cd-de9c90363245",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b3500da-6f8b-43eb-a1a1-ce50c9ebd2f6",
+  "input": "{\"title\": \"One in a Million\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ultimate Aaliyah'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:38.967555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fbef82f-15be-4382-a8b3-a2a07a10216b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "308eb485-f2bd-4a1f-8242-ff306e21e9cb",
+  "input": "{\"title\": \"Not Now\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Fray Is Back'",
+  "status": "verified"
+}

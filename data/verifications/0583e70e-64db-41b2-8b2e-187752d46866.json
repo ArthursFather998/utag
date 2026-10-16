@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:54.835555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2505972-76e4-4371-8c1e-68c4545ba362",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0583e70e-64db-41b2-8b2e-187752d46866",
+  "input": "{\"title\": \"You're Almost There\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'You're Almost There'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:51.524582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65be2250-9f1b-4d4f-978a-4c2cc44bc2b2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9e900a0e-ab6a-4a1b-8fdc-70d6075512e2",
+  "input": "{\"title\": \"Any Time, Any Place\", \"release_type\": \"single\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

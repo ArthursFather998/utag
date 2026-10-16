@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:01.420755+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfb4f372-2de2-4b17-8adc-217034bc68f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb15ecd1-ab30-454c-a6b7-9f3032551480",
+  "input": "{\"title\": \"Gooey Rework (feat. Chester Watson)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Gooey'",
+  "status": "verified"
+}

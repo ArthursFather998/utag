@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:21.222853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e987cbe-4c66-4c99-842e-412a9d6fca1d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a4247a1d-e061-4847-b590-88526dcc5e6d",
+  "input": "{\"title\": \"Save the Day\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

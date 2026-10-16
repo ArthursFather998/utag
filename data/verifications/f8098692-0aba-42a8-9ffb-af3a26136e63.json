@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:19.063344+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37fab911-edd7-488d-a8a3-515d2d9dc437",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f8098692-0aba-42a8-9ffb-af3a26136e63",
+  "input": "{\"title\": \"Someone to Call My Lover\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'Number Ones'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:07.607938+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ae0f167-e7cd-4dcc-879f-cb1919f3b3e0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5db8e7f1-667a-419b-95ec-b6166c357382",
+  "input": "{\"title\": \"Bewitched\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

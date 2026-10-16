@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:51.618959+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "release->From Under the Cork Tree"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "2e51631d-20bc-42d8-894d-d5704404f8ef",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "af37b17f-daeb-462d-9275-98dd6e9514c0",
+  "input": {
+    "artist": "Fall Out Boy",
+    "release": "Greatest Hits: Believers Never Die",
+    "title": "Dance, Dance"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "'Dance, Dance' is track 3 on the original studio album 'From Under the Cork Tree' (2005). It appears as 'Believers Never Die – Greatest Hits' (2009) is a later compilation; the original/canonical release is 'From Under the Cork Tree' (2005). | sources: https://shop.udiscovermusic.com/collections/fall-out-boy/products/fall-out-boy-from-under-the-cork-tree-cd, https://www.discogs.com/master/119726-Fall-Out-Boy-From-Under-The-Cork-Tree",
+  "status": "verified"
+}

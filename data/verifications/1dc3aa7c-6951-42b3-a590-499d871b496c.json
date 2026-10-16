@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:07.991463+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "656ec3e4-85c0-4277-96f1-7f8e5d6d4fc5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1dc3aa7c-6951-42b3-a590-499d871b496c",
+  "input": "{\"title\": \"There She Goes\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Live at Gruene Hall'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:50.398174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12f13542-c8f8-4daa-8002-4e49a80d75dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c0e763d-b153-40a7-8dd8-2ac80014a9ed",
+  "input": "{\"title\": \"I Understand\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'I'll Cry If I Want To'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:42.66815+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0cf64e5-6768-4b1c-a807-c3325487ce0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "568380e7-6bd5-4a25-ab4d-7327f23e91d0",
+  "input": "{\"title\": \"Sugar and Tea (Sped Up)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sugar and Tea (Sped Up)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:58.976142+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e25dfd1a-69a8-43af-b0ff-4965f05d13fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c25c973-3281-4e87-8da0-13d160d22a69",
+  "input": "{\"title\": \"I Won't (Crazy World)\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Songs in A Minor: 10th Anniversary Edition'",
+  "status": "verified"
+}

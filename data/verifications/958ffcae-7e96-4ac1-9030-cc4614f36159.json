@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:06.654624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb353510-21b6-4a26-a27f-d306e40aceb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "958ffcae-7e96-4ac1-9030-cc4614f36159",
+  "input": "{\"title\": \"No Me Queda M\\u00e1s\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'No Me Queda Más'",
+  "status": "verified"
+}

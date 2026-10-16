@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:58.303069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b57c9341-a3b3-4a55-bdd3-8e9b890547c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "805bfc34-4884-44b1-8ff0-80158b333d42",
+  "input": "{\"title\": \"A Lonely Night\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Starboy'",
+  "status": "verified"
+}

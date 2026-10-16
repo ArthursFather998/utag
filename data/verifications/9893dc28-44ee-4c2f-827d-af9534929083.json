@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:51.052277+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b5eb65c2-49fe-4d98-a298-ce0fc887d7d0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9893dc28-44ee-4c2f-827d-af9534929083",
+  "input": "{\"title\": \"Bandit\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

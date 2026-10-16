@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:03.795693+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1da6fdd5-cfd9-4953-8fb2-4c4e5c814ad6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b466cb2a-42d8-4bbe-8b24-6449d02700da",
+  "input": "{\"title\": \"You Were Only Fooling\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Bobby Vinton Sings the Big Ones'",
+  "status": "verified"
+}

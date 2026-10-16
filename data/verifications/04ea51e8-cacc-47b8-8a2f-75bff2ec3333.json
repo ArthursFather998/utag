@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:07.001648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e0d114f-f0f5-4e5b-820b-421b9010de10",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04ea51e8-cacc-47b8-8a2f-75bff2ec3333",
+  "input": "{\"title\": \"Jesus Born on This Day\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Merry Christmas: 30th Anniversary Edition'",
+  "status": "verified"
+}

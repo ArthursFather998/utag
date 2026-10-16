@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:16.408324+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b23e3e70-872b-4e1f-80c9-d704f1449207",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe1d107b-f7a9-4546-b8cc-0f131fc4d764",
+  "input": "{\"title\": \"Otra Noche de Llorar - Spotify Sessions\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Mon Laferte (Spotify Sessions)'",
+  "status": "verified"
+}

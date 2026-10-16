@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:25.166345+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6472999c-0b63-4f4c-90a5-1bb87f385d07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8921b79f-f884-469a-a3e0-0a7ab0c7e07a",
+  "input": "{\"title\": \"Mansfield\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Songs from the West Coast'",
+  "status": "verified"
+}

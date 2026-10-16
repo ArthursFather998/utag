@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:30.238841+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f06a5da5-086d-4a21-b859-0b0c835821b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5e405fa-5da6-4228-b056-c2a9340d8a18",
+  "input": "{\"title\": \"Lil Snowman\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Merry Christmas (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:52.852347+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4b68cfb-33cb-4300-8558-4f4399d58a68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "adfeb841-5dff-4648-ae2a-f314577241f5",
+  "input": "{\"title\": \"Moving Mountains (Full Phatt Remix)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Moving Mountains'",
+  "status": "verified"
+}

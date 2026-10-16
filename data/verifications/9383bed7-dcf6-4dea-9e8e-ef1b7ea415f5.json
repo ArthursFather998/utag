@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:39:10.771174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "72aa9247-dc5e-45fd-b106-7b6ac47e980a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9383bed7-dcf6-4dea-9e8e-ef1b7ea415f5",
+  "input": "{\"title\": \"Disc 2 - Live and Learn\", \"track_number\": 47}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 47 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

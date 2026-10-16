@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:32.146722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0e70f16-29a9-4d40-beba-6e6e78329244",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9930c5a4-0bcc-4561-a61e-2f5f18b9f220",
+  "input": "{\"title\": \"All for Us\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'All for Us'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:27.094019+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b430925-166b-4f7d-a3c6-3cb5156e217b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ebdb7d1f-c05b-411e-b84c-487634c51a02",
+  "input": "{\"title\": \"I Love You. (10th Anniversary Edition)\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

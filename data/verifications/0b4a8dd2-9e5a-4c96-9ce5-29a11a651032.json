@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:36.724404+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b54a3248-6077-49f8-9a83-38d0ee6ab4cf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0b4a8dd2-9e5a-4c96-9ce5-29a11a651032",
+  "input": "{\"title\": \"The Best of Alicia Keys\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

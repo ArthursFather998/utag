@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:40.857921+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9b64e9a-b8b0-4d5b-a504-b8c2c0e283fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7221a489-3289-48dc-a757-726ff954f180",
+  "input": "{\"title\": \"Bless This House\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'I'll Be Home for Christmas'",
+  "status": "verified"
+}

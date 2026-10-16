@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:43.52659+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d912d1cf-ee28-4994-95a5-555103925ad9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4202ef03-b0ed-4fb8-a3fa-5474f328bece",
+  "input": "{\"title\": \"Stay or Let It Go\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Ultimate Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:27.558367+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "141f5362-35e6-45b2-b083-2f7a3d2a153c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e9e4734-f8fb-49f9-a960-1b3af0eb88b2",
+  "input": "{\"title\": \"Jamie\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Heaven Surrounds You'",
+  "status": "verified"
+}

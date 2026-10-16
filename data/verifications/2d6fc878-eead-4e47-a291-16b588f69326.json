@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:08.830917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f31c75e1-06bb-4133-93e6-a26501b39ce4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2d6fc878-eead-4e47-a291-16b588f69326",
+  "input": "{\"title\": \"Leave Me Alone\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

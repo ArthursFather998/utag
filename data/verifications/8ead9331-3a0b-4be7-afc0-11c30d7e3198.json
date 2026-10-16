@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:02.17299+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "238f7991-24a3-45c2-a51f-a187b79d4db5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ead9331-3a0b-4be7-afc0-11c30d7e3198",
+  "input": "{\"title\": \"What I Miss Most (Acoustic, 1 Mic 1 Take / Live From Abbey Road Studios)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Only Live'",
+  "status": "verified"
+}

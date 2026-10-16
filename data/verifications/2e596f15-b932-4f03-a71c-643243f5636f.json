@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:24.059486+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d977f0d-8f31-4afa-9978-56fe97075ce2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e596f15-b932-4f03-a71c-643243f5636f",
+  "input": "{\"title\": \"La Carcacha\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'La Leyenda'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:50.761392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e8e2b38-5453-49f4-ba53-b2ebe7564fbb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9ec3f58f-89cf-4f14-b39f-a5f513b6ca1f",
+  "input": "{\"title\": \"Easier Said Than Done\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

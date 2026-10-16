@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:40.914312+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a85d1ab8-fa93-4285-bfe5-9c33883d2041",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "945767c4-2fb8-49df-bf90-5e1afa279f1f",
+  "input": "{\"title\": \"Chasm\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Tunnel Vision'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:28.766459+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4336e678-61af-48fc-a672-e58a4f4bf2e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6336505-68ea-42f9-980c-4f0e40de8197",
+  "input": "{\"title\": \"Never Go Back\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Synthesis'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:07.776153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e84e4fb7-3ad0-4553-ae05-7037b09dfd6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c57989c5-3102-4e8f-888b-610276675eba",
+  "input": "{\"title\": \"The Emperor's New Clothes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Songs from the West Coast'",
+  "status": "verified"
+}

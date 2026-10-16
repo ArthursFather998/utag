@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:27.427333+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3af1196f-635f-489e-803b-255a5a23e15c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a68805d1-7f83-47ed-8813-815e7c7ddc3f",
+  "input": "{\"title\": \"Good Company\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'A Night at the Opera'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:38.707086+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "be4c56fb-b780-40da-a68c-13eaea700262",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7603735c-d1f8-4289-88e4-e64a4b6eaf1e",
+  "input": "{\"title\": \"Heat Waves (Diplo Remix)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Heat Waves (Diplo Remix)'",
+  "status": "verified"
+}

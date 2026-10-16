@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:09.956209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e0b4a1a-a6ff-4f03-954a-3cbcbda9cfc9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d236d50-1a11-4047-bb1e-87e6803f8f4a",
+  "input": "{\"title\": \"The Journey\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'London 2012: Live at The Hammersmith Apollo'",
+  "status": "verified"
+}

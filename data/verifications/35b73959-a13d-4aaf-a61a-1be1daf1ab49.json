@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:13.727228+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b3cb25e7-932c-4b60-a503-f620c3433ae7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35b73959-a13d-4aaf-a61a-1be1daf1ab49",
+  "input": "{\"title\": \"Don't Dream It's Over\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Divine Discontent'",
+  "status": "verified"
+}

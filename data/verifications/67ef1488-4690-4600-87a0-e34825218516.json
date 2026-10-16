@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:37.32814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a401a26e-2969-4812-8f60-d8a01873115d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "67ef1488-4690-4600-87a0-e34825218516",
+  "input": "{\"title\": \"The Best in the World Pack\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

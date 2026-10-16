@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:54.975601+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9ec536e-e345-4003-b5c4-0ff803f7eb87",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d41ceb18-47ef-4724-aa3f-b407ff1d51a3",
+  "input": "{\"title\": \"Down to Earth (Acoustic Version)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'My Worlds: The Collection'",
+  "status": "verified"
+}

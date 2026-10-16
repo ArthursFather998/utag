@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:57.607724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3be7175c-98b0-4005-a34b-c9c3d35dd35b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e161a1e-5bfe-45d2-adb9-cd20d8468c0f",
+  "input": "{\"title\": \"Undercover\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'So Low / Undercover'",
+  "status": "verified"
+}

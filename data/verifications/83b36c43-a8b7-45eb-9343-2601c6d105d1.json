@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:02.203562+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf32fee2-8aa8-4940-bf98-402b1a20cd2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83b36c43-a8b7-45eb-9343-2601c6d105d1",
+  "input": "{\"title\": \"Madness\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'A Single Man'",
+  "status": "verified"
+}

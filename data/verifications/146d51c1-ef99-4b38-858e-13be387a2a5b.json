@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:31.849516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d46e9d3-6f49-4d82-b2f9-af53824ca13c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "146d51c1-ef99-4b38-858e-13be387a2a5b",
+  "input": "{\"title\": \"Pipe Down\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Certified Lover Boy'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:59.907354+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5da0b2c6-ff12-4e3b-96c5-d83cba81380d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1c2c34b-e2bc-4738-b8e1-392eda8a001f",
+  "input": "{\"title\": \"Demons\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Chemical Warfare'",
+  "status": "verified"
+}

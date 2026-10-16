@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:36.307227+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d7ed2a82-c1af-41d8-baa7-b608b06a5903",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b12dea8d-dad4-4790-95f6-f2aa9d20c49b",
+  "input": "{\"title\": \"Dance Floor\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Hard'",
+  "status": "verified"
+}

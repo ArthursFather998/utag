@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:38.140409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d857d5a1-d3d0-4546-af34-481d03559214",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e48d4f5-c25f-4aa1-a512-aa81c2f088c2",
+  "input": "{\"title\": \"Salta La Ranita\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Classic Series, Vol. 3'",
+  "status": "verified"
+}

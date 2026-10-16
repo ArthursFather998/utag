@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:41.875462+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89b67317-acaf-4147-8c28-ded21edba30a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a096bfd7-4f5c-4aef-9914-ab825b4f1dda",
+  "input": "{\"title\": \"Sunday\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Gold'",
+  "status": "verified"
+}

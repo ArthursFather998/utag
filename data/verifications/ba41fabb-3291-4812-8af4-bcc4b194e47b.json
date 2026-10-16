@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:30.831556+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ba19dec-7b5a-4df4-9f5a-3da8e7f8d37f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba41fabb-3291-4812-8af4-bcc4b194e47b",
+  "input": "{\"title\": \"I'm Gettin' Sentimental Over You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Bobby Vinton Sings the Big Ones'",
+  "status": "verified"
+}

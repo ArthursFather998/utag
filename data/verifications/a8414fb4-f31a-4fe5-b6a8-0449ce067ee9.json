@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:13.286109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f393d7d-4765-41e3-9ff8-0ed36e1246b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8414fb4-f31a-4fe5-b6a8-0449ce067ee9",
+  "input": "{\"title\": \"Traumatized\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Out of the Shadows 2.0'",
+  "status": "verified"
+}

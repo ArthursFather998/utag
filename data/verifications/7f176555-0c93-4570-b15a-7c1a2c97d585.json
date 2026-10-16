@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:47.692534+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b01b7f07-b52b-4a4b-b666-5dcab6a158d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f176555-0c93-4570-b15a-7c1a2c97d585",
+  "input": "{\"title\": \"Hesitations\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Romeo & Juliet'",
+  "status": "verified"
+}

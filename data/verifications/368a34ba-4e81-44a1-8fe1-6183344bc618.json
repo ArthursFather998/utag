@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:11.603563+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "26f4d8fd-eba1-407d-b6a2-54cef687404d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "368a34ba-4e81-44a1-8fe1-6183344bc618",
+  "input": "{\"title\": \"Lost in Paradise\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

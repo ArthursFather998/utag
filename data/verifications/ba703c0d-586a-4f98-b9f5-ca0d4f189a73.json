@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:55.62305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91657d83-cb36-4c09-9fdf-b32c0698a885",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba703c0d-586a-4f98-b9f5-ca0d4f189a73",
+  "input": "{\"title\": \"For: You\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Sincerely'",
+  "status": "verified"
+}

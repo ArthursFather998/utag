@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:20.099937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a838554-2154-4b49-a9dc-9397c53e9c39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6eb3868-e8d1-4562-9bf8-4ca86b7fe6e5",
+  "input": "{\"title\": \"Sorry Seems to Be the Hardest Word\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:33.345222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46b48de1-a792-44ce-aee4-b90bd28b2055",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a9fa482-835e-4b48-82d2-7f68f76fa629",
+  "input": "{\"title\": \"Suffer the Children\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Shout: The Very Best of Tears for Fears'",
+  "status": "verified"
+}

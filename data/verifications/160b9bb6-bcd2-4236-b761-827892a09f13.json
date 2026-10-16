@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:47.233098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bbae1fe4-7cad-4dcb-9891-71a0a39980df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "160b9bb6-bcd2-4236-b761-827892a09f13",
+  "input": "{\"title\": \"The Show Must Go On\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:26.657236+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce083837-5c98-463d-97dd-b021a94dc0fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ca2b024-3984-47d8-9517-c601e0b0aac5",
+  "input": "{\"title\": \"We Back\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of '9'",
+  "status": "verified"
+}

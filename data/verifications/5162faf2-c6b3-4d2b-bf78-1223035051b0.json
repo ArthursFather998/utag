@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:03.465744+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79d50791-8202-4730-9960-7cb9dd3f01bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5162faf2-c6b3-4d2b-bf78-1223035051b0",
+  "input": "{\"title\": \"Daddy's Car\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Best Of'",
+  "status": "verified"
+}

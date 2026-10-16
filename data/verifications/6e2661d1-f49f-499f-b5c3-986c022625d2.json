@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:03.761948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a296d2c3-bc40-4abc-8bb2-b035bf09ff94",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e2661d1-f49f-499f-b5c3-986c022625d2",
+  "input": "{\"title\": \"Open Arms (Live at Madison Square Garden)\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

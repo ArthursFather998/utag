@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:58.678558+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27fef793-baa9-44c3-bba2-3f6fb28f6af4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f160bd7b-ca24-48ab-a3b9-3085d9bf23d3",
+  "input": "{\"title\": \"Tattoos on This Town\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '30 Number One Hits'",
+  "status": "verified"
+}

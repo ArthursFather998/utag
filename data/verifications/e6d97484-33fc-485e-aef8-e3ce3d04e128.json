@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:58.855404+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71a4d97d-6e1f-40d5-9aca-2a6527acebd3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6d97484-33fc-485e-aef8-e3ce3d04e128",
+  "input": "{\"title\": \"Walks Like a Lady (Live)\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Time3'",
+  "status": "verified"
+}

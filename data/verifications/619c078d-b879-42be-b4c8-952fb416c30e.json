@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:24.239005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19e59055-62bc-4c80-ba5f-4979796c00c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "619c078d-b879-42be-b4c8-952fb416c30e",
+  "input": "{\"title\": \"Album of the Year (Freestyle)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Album of the Year (Freestyle)'",
+  "status": "verified"
+}

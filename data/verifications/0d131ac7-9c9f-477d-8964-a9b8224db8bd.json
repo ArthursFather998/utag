@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:36.000683+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74b5e8e4-6cb5-4581-9d31-cce7a7b0188d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d131ac7-9c9f-477d-8964-a9b8224db8bd",
+  "input": "{\"title\": \"Country\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Country'",
+  "status": "verified"
+}

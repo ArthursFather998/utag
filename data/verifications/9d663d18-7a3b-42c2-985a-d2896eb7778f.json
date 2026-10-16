@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:25.068722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f7ac400-2915-4823-8d40-30a42ba2a194",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d663d18-7a3b-42c2-985a-d2896eb7778f",
+  "input": "{\"title\": \"American Boy\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'Verzuz: Alicia Keys x John Legend (Live)'",
+  "status": "verified"
+}

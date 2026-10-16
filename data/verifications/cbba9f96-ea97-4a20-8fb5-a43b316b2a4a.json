@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:59.699314+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8cb5789f-c406-4ee1-a24f-625c0befac80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cbba9f96-ea97-4a20-8fb5-a43b316b2a4a",
+  "input": "{\"title\": \"To the Floor\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

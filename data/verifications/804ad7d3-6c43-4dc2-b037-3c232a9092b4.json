@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:24.353901+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9527114-3933-487e-ba3b-a9d57ba77d6c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "804ad7d3-6c43-4dc2-b037-3c232a9092b4",
+  "input": "{\"title\": \"Ready to Run\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Four (The Ultimate Edition)'",
+  "status": "verified"
+}

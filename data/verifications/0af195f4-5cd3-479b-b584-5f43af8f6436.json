@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:57.197846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "862ab660-abe3-4e56-9e61-295cd20a8333",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0af195f4-5cd3-479b-b584-5f43af8f6436",
+  "input": "{\"title\": \"Hazey (Gabriel Garzon-Montano Remix)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Remixes'",
+  "status": "verified"
+}

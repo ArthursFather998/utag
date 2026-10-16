@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:52.119623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cdb5b058-dbcc-44ad-9774-af9c8cceb4f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2396dcb-fada-4642-9455-9895fd812d55",
+  "input": "{\"title\": \"Goodbye/Butterflyz\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Unplugged (20th Anniversary)'",
+  "status": "verified"
+}

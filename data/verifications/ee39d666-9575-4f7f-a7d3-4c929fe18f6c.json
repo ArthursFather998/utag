@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:11.686583+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "994ac878-5c16-4d14-909b-287fbb840873",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee39d666-9575-4f7f-a7d3-4c929fe18f6c",
+  "input": "{\"title\": \"Moonshine\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Moonshine'",
+  "status": "verified"
+}

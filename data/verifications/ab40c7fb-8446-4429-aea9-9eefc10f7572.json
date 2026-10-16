@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:14.252098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3827dad3-c8af-449d-98f2-1da0dcd0e308",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab40c7fb-8446-4429-aea9-9eefc10f7572",
+  "input": "{\"title\": \"Valentine\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

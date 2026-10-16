@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:21.549273+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70302416-3ceb-45b8-b71d-2d5429ad746f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6ffd8e63-0712-4c14-b95a-b026d90cfe4a",
+  "input": "{\"title\": \"That Sea, The Gambler\", \"release_type\": \"album\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

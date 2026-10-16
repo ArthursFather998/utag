@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:25.961119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "723a674a-d991-411c-8223-eb0b64a3210d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3bdc32a9-56de-4d16-8fcd-05fa3a7cb21a",
+  "input": "{\"title\": \"Out of the Shadows\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

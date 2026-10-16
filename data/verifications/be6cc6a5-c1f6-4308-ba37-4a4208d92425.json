@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:22.352347+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31fd18d2-f26d-4d52-a812-72635851ecfc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be6cc6a5-c1f6-4308-ba37-4a4208d92425",
+  "input": "{\"title\": \"Candle in the Wind (Acoustic Mix)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Remixed'",
+  "status": "verified"
+}

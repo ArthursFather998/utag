@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:40.799314+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8756d97-ad39-4940-9ecd-cd2fbb73f298",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1adddb67-777c-444a-9813-3ddac84ef13c",
+  "input": "{\"title\": \"One Thing (Acoustic)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Acoustic'",
+  "status": "verified"
+}

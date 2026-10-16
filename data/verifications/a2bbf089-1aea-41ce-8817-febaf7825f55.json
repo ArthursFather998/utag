@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:37.236927+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "567e6d97-2635-4fd7-8632-b2d454289239",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2bbf089-1aea-41ce-8817-febaf7825f55",
+  "input": "{\"title\": \"Faded Corsage\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Faded Corsage'",
+  "status": "verified"
+}

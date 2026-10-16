@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:34.295814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68ff1267-5295-4666-b65c-0e41eaeef901",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf8c853d-6ebd-4e67-94d4-35f75f8cbac5",
+  "input": "{\"title\": \"Future Games\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Future Games'",
+  "status": "verified"
+}

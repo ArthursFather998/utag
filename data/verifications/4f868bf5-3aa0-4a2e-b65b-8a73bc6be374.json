@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:19.134259+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "063f805c-1dc7-4ecb-95b4-ded77c8aa09d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f868bf5-3aa0-4a2e-b65b-8a73bc6be374",
+  "input": "{\"title\": \"OVERKILL\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'OVERKILL'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:59.701055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2cd549f-6d2f-4d83-9aba-c515625ee84b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0916c74d-0acf-4e0b-bdb2-914cb0a13a9f",
+  "input": "{\"title\": \"Blonde Brigitte\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '1017 vs. the World'",
+  "status": "verified"
+}

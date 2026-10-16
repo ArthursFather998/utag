@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:38.488507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b483e56-7b16-4574-a875-e35f4e06694b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9659788c-acbe-49f6-9e2e-fbc1668e89cc",
+  "input": "{\"title\": \"Hold Me\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

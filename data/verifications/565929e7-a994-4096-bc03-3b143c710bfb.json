@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:51.890461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "810ff07a-ac92-47ab-b93f-39d23c782103",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "565929e7-a994-4096-bc03-3b143c710bfb",
+  "input": "{\"title\": \"Get Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Get Me'",
+  "status": "verified"
+}

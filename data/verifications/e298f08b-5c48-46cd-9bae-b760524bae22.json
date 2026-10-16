@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:16.305638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1780186c-ea8d-4db4-82cc-37492634b19a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e298f08b-5c48-46cd-9bae-b760524bae22",
+  "input": "{\"title\": \"Jet Lag (featuring Young Scooter)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wrld on Drugs'",
+  "status": "verified"
+}

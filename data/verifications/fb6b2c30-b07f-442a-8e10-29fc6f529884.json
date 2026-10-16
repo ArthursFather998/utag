@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:33.159102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b3dd202e-af8e-40d7-984e-9d773c69b037",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb6b2c30-b07f-442a-8e10-29fc6f529884",
+  "input": "{\"title\": \"Although the Sun Is Shining\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'The Vaudeville Years'",
+  "status": "verified"
+}

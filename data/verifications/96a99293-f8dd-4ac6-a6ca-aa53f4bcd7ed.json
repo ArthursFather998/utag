@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:20.524658+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb93def5-0404-43e0-a4da-9b90266ed8b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96a99293-f8dd-4ac6-a6ca-aa53f4bcd7ed",
+  "input": "{\"title\": \"We Might as Well Be Strangers (DJ Shadow Remix)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Hopes and Fears (Deluxe Edition)'",
+  "status": "verified"
+}

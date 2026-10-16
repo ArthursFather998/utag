@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:32.770851+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b618610a-51bc-4487-b3dd-26ebc7575c8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e3986518-dc42-410a-a81d-6f71a9f24eb9",
+  "input": "{\"title\": \"Badman's Song\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Songs for a Nervous Planet'",
+  "status": "verified"
+}

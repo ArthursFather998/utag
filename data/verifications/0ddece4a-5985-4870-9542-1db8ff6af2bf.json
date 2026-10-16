@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:17.66504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8af89650-db92-4d23-a35a-3b1962f0289d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ddece4a-5985-4870-9542-1db8ff6af2bf",
+  "input": "{\"title\": \"Russian Roulette\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Rated R (Nokia Singles Edition)'",
+  "status": "verified"
+}

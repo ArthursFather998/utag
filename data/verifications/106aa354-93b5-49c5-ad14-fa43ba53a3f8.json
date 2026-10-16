@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:15.810363+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1721729e-edab-4f13-a39a-4ff191a684aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "106aa354-93b5-49c5-ad14-fa43ba53a3f8",
+  "input": "{\"title\": \"30 for 30\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '30 for 30'",
+  "status": "verified"
+}

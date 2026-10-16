@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:54.681702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9f3a33c-8b9d-455c-a960-50c474a3c2f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5befc41-4afc-4094-911a-ebe22619396c",
+  "input": "{\"title\": \"Let Me Be\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Hate Me'",
+  "status": "verified"
+}

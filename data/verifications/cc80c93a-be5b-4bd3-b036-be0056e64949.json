@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:25.810219+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21cabab3-70b2-49fa-a764-5e18b6529d67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc80c93a-be5b-4bd3-b036-be0056e64949",
+  "input": "{\"title\": \"Albatross\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Pious Bird of Good Omen'",
+  "status": "verified"
+}

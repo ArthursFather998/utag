@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:46.026265+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "edc391c5-8fdb-41ca-bd4c-39c37918677a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5e33d06-b50a-43bb-a5b5-fcf5cc46c524",
+  "input": "{\"title\": \"Linger (acoustic version)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Something Else'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:04.275018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36b2969e-06b6-4873-9eb8-97ec6a03dd77",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e2afed0-323e-44d0-aa2e-cafbe1649cfd",
+  "input": "{\"title\": \"Just to Hold You Once Again\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Music Box'",
+  "status": "verified"
+}

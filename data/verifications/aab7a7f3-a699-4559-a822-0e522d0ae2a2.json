@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:38.037621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60f7878c-ecf2-4f86-824d-de1a688f789c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aab7a7f3-a699-4559-a822-0e522d0ae2a2",
+  "input": "{\"title\": \"That's What It's Made For\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Confessions (20th Anniversary Edition)'",
+  "status": "verified"
+}

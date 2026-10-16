@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:13.363655+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f33c0da-6a79-4a9a-b552-3831fa8a1691",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df0a7c15-05ec-4293-9f31-49307116399f",
+  "input": "{\"title\": \"Standing Next to You (Remix)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Coming Home'",
+  "status": "verified"
+}

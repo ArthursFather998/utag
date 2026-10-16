@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:21:30.071489+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8af65b1-8338-4e38-815b-d54b1c2cf169",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c1a718bc-b9e5-4ab9-9029-3a9148bcb3a8",
+  "input": "{\"title\": \"Lil Peep; Part One\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

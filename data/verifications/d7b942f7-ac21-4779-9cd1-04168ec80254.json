@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:42.604966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24b73740-6df8-4b82-a0b1-e0719bf5a23f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7b942f7-ac21-4779-9cd1-04168ec80254",
+  "input": "{\"title\": \"You Don't Fool Me\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of 'The Platinum Collection: Greatest Hits I, II & III'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:56.188088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3eea625f-31f2-49c7-837d-72db3a78b7af",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a099e956-b167-4de3-8912-ab42cb204e21",
+  "input": "{\"title\": \"Used to Be My Girl\", \"release_type\": \"single\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

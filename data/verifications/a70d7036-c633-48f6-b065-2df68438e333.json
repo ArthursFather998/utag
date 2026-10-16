@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:29.136826+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99ba690e-3222-499a-a666-96ac637f1cfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a70d7036-c633-48f6-b065-2df68438e333",
+  "input": "{\"title\": \"Ice Melts\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'More Life'",
+  "status": "verified"
+}

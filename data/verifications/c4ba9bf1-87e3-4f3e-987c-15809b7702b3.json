@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:16.118913+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f5fa56f-256c-4590-b39a-f02dfeee032d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4ba9bf1-87e3-4f3e-987c-15809b7702b3",
+  "input": "{\"title\": \"For What It's Worth (iTunes Originals Version)\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'iTunes Originals'",
+  "status": "verified"
+}

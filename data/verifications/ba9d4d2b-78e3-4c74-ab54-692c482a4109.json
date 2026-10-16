@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:33.960459+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d15091fa-db52-449a-990d-70e0741e4188",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba9d4d2b-78e3-4c74-ab54-692c482a4109",
+  "input": "{\"title\": \"Blame It on You\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of '30 Number One Hits'",
+  "status": "verified"
+}

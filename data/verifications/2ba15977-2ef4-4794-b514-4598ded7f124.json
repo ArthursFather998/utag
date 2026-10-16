@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:12.741345+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce0c322f-8186-4729-86b1-1c9922f36ab0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ba15977-2ef4-4794-b514-4598ded7f124",
+  "input": "{\"title\": \"First Place\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'First Place'",
+  "status": "verified"
+}

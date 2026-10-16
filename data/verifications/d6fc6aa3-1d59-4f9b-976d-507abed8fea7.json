@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:52.135267+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fbfcdd02-635f-4a66-a63b-d2759163aca7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d6fc6aa3-1d59-4f9b-976d-507abed8fea7",
+  "input": "{\"title\": \"Please Me\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

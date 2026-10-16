@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:06.877734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9af6393a-ee14-4ac6-ab5b-a5494fe807b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47b3915b-8d24-42b1-9ae2-9f2aa2ebf3a0",
+  "input": "{\"title\": \"Landslide\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Opus Collection'",
+  "status": "verified"
+}

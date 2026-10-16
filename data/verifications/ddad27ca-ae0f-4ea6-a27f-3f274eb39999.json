@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:42.022338+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11d6e11c-e45c-4220-bfb4-a088617ed840",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ddad27ca-ae0f-4ea6-a27f-3f274eb39999",
+  "input": "{\"title\": \"Downtime\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Hard II Love'",
+  "status": "verified"
+}

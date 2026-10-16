@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:45.135795+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca00f881-9cc9-43e4-9d05-23e9b3dd2912",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c945d18-33d9-4e28-96f6-9aff0eac9409",
+  "input": "{\"title\": \"Disc 1 - All of My Life\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

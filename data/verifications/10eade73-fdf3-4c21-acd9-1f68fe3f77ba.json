@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:51.932348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8fea3d48-384f-4325-924f-db03d7cf245e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10eade73-fdf3-4c21-acd9-1f68fe3f77ba",
+  "input": "{\"title\": \"Never Left\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'We Love You Tecca 2 (Deluxe)'",
+  "status": "verified"
+}

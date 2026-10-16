@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:32.329396+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e614729-51ed-4195-b105-658c968afeab",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f23dc051-a900-4919-a405-c3b3abcf4764",
+  "input": "{\"title\": \"Oh Santa!\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:22.015023+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5951d2a-438e-4994-a3bc-a50ea5eb5007",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ceb0957-bb4a-44a7-8d3d-e9140dfd78fc",
+  "input": "{\"title\": \"Any Ol' Barstool\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of '30 Number One Hits'",
+  "status": "verified"
+}

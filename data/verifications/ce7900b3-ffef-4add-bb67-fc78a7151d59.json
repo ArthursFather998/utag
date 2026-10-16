@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:44.420307+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d24ddf71-df77-447f-be99-5f7bf46e9d3a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ce7900b3-ffef-4add-bb67-fc78a7151d59",
+  "input": "{\"title\": \"Something Else\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Orchestral/acoustic re-recordings + 3 new songs.",
+  "status": "verified"
+}

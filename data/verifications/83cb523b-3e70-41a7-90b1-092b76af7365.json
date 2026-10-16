@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:20.077639+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb132781-e0ab-4185-a63b-e5c90b0205dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83cb523b-3e70-41a7-90b1-092b76af7365",
+  "input": "{\"title\": \"Cry Baby\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Wiped Out! (10th Anniversary Edition)'",
+  "status": "verified"
+}

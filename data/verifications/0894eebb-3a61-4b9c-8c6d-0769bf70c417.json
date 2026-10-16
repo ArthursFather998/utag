@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:51.23591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d89355a-e906-4d83-96e3-0aea98500ed1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0894eebb-3a61-4b9c-8c6d-0769bf70c417",
+  "input": "{\"title\": \"Seduction\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Recovery (Deluxe)'",
+  "status": "verified"
+}

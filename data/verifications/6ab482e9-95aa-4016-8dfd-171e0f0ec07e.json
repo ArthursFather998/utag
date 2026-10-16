@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:55.332976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02c40c46-bac1-42d4-a31e-e772b84181b7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6ab482e9-95aa-4016-8dfd-171e0f0ec07e",
+  "input": "{\"title\": \"Jesus Born on This Day\", \"release_type\": \"single\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

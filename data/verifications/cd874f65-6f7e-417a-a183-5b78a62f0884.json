@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:12.556574+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39194976-3d12-4bae-95f3-789725e0135e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd874f65-6f7e-417a-a183-5b78a62f0884",
+  "input": "{\"title\": \"Kisses in the Wind\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Kisses in the Wind'",
+  "status": "verified"
+}

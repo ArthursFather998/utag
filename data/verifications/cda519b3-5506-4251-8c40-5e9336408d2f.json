@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:28.326548+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6cf21e33-8b4d-44fa-a785-620b5c142ccc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cda519b3-5506-4251-8c40-5e9336408d2f",
+  "input": "{\"title\": \"Driving to Universal\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Muse'",
+  "status": "verified"
+}

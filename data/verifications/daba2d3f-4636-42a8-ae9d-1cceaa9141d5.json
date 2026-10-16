@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:36.953973+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "08c5c8c4-7991-4d63-907b-608ba0e6d054",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "daba2d3f-4636-42a8-ae9d-1cceaa9141d5",
+  "input": "{\"title\": \"Renaissance\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Death of Slim Shady (Coup de Grâce)'",
+  "status": "verified"
+}

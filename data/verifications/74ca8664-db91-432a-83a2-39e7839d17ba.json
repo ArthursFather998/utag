@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:07.829873+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcfa64c2-cecd-44ff-acbf-dbce91d0f164",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "74ca8664-db91-432a-83a2-39e7839d17ba",
+  "input": "{\"title\": \"Crybaby\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

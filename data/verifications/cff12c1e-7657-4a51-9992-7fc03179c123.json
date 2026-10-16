@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:47.889453+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ea13b16-efee-42fb-bc9b-35ad73512550",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cff12c1e-7657-4a51-9992-7fc03179c123",
+  "input": "{\"title\": \"Comatose\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Last Goodbye'",
+  "status": "verified"
+}

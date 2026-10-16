@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:04.815962+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fca7fe0f-2764-454c-b2db-b61128af0483",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3d9e6c9-278a-464b-a3c2-9ab5f4d78bc2",
+  "input": "{\"title\": \"Fell In Love\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Tec (Bonus)'",
+  "status": "verified"
+}

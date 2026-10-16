@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:47.438574+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ce9b7e9-2b80-4d24-b5e1-370c11aee232",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3924f0ae-f30a-43f0-acd2-2dbb4628637f",
+  "input": "{\"title\": \"Behind the Sea (Live)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '...Live in Chicago'",
+  "status": "verified"
+}

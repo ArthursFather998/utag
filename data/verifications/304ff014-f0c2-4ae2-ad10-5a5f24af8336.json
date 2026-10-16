@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:32.805284+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "447a1c1c-6203-4ebf-9f64-4f59e426e560",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "304ff014-f0c2-4ae2-ad10-5a5f24af8336",
+  "input": "{\"title\": \"Someday (Live at Proctor's Theater, NY \\u2013 1993)\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'Music Box: 30th Anniversary Edition'",
+  "status": "verified"
+}

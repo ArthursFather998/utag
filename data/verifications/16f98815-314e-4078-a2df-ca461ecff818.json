@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:11.986267+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30a4624d-78e2-4e0a-9bac-b71e5bd9bfcb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16f98815-314e-4078-a2df-ca461ecff818",
+  "input": "{\"title\": \"I Need Your Love [Take 1]\", \"track_number\": 76}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 76 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

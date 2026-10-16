@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:12.018507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe17e1d4-ee38-44f6-a725-227538f84f1a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b05d2588-514b-48d3-8723-0a67bbd06b42",
+  "input": "{\"title\": \"Live at Massey Hall Toronto, Canada / 1985\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

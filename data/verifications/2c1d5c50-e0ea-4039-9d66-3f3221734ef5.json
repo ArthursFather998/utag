@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:50.222312+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aacbf5f8-9508-4526-a302-5bc1599a9127",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2c1d5c50-e0ea-4039-9d66-3f3221734ef5",
+  "input": "{\"title\": \"Go Deep\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

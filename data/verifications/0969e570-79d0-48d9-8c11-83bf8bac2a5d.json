@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:41.291488+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb2f40ca-32e9-44dd-88af-3d15db8845f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0969e570-79d0-48d9-8c11-83bf8bac2a5d",
+  "input": "{\"title\": \"Yo Te Qui\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Yo Te Qui'",
+  "status": "verified"
+}

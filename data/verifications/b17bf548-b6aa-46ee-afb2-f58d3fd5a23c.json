@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:45.699109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1b951b8-0446-45fa-a51a-6e01f85decb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b17bf548-b6aa-46ee-afb2-f58d3fd5a23c",
+  "input": "{\"title\": \"Rhiannon\", \"track_number\": 38}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 38 of '25 Years – The Chain'",
+  "status": "verified"
+}

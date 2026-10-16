@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:36.314258+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "839c07df-8f6d-4eb6-9954-fb304cd0cfa5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "72248d4c-90e6-466f-a677-769005b740cc",
+  "input": "{\"title\": \"Ones\", \"release_type\": \"album\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

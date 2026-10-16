@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:06.612622+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "270624d7-a6e2-4672-af7e-438e7fa1f531",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5ffb2d8-6c05-4801-9b86-9f286f18ff0c",
+  "input": "{\"title\": \"I've Been Thinking About You\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Music Box'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:12.534334+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69cf8fbd-4e79-4a1f-8f03-b60d979c3afb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69cf8be2-30a6-455b-9209-63913f79223b",
+  "input": "{\"title\": \"Pink in the Night\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'The Land: The Live Album'",
+  "status": "verified"
+}

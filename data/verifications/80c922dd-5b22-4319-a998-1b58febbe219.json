@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:37.380201+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16866718-6728-464e-a3a4-3d7e6ced87df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80c922dd-5b22-4319-a998-1b58febbe219",
+  "input": "{\"title\": \"Fire Alarm (featuring Snow Strippers)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Pink Tape: Boss Battle'",
+  "status": "verified"
+}

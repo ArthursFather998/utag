@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:25.890757+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a1ecaf4-c176-4622-89ed-e28a16f6d518",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4bbbde42-925f-4b84-9723-03de4ed9d11c",
+  "input": "{\"title\": \"Express Yourself\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Electronic Earth'",
+  "status": "verified"
+}

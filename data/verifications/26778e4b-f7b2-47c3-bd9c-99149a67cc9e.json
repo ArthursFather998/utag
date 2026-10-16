@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:37.026415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64a3c864-cf64-4618-baa6-c762f1a70171",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26778e4b-f7b2-47c3-bd9c-99149a67cc9e",
+  "input": "{\"title\": \"Wait Til You See My Smile\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wait Til You See My Smile'",
+  "status": "verified"
+}

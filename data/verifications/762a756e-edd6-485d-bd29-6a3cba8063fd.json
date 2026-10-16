@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:32.140306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7440319-8c1d-49b6-8ef3-dd24f62a89af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "762a756e-edd6-485d-bd29-6a3cba8063fd",
+  "input": "{\"title\": \"The High Road\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Transit of Venus'",
+  "status": "verified"
+}

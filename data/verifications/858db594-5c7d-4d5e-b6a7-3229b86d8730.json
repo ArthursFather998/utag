@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:47.072097+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "483181fc-cd54-4d4f-a9e5-4c1119429349",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "858db594-5c7d-4d5e-b6a7-3229b86d8730",
+  "input": "{\"title\": \"Limitedless\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'In Tokyo 2025'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:56.180415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef41246e-7ec8-4897-b0ed-590fe02ee915",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "61921b7b-452b-4552-83fe-a1d787f3157b",
+  "input": "{\"title\": \"Opened Once\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Sketches for My Sweetheart the Drunk'",
+  "status": "verified"
+}

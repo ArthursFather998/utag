@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:33.691211+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bee9f1b8-b017-4cb2-9870-ecd00ed7bb7c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "887e7901-e44e-46bb-9bea-77d964d5c506",
+  "input": "{\"title\": \"And the Winner Is...\", \"release_type\": \"album\", \"release_year\": 1987}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

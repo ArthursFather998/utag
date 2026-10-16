@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:17.310054+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f425b03-8d11-40a5-9459-6c3e1d7407c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d8c3af7-91b8-491d-9e28-ed939bdf79aa",
+  "input": "{\"title\": \"Playing Along\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Perfect Symmetry'",
+  "status": "verified"
+}

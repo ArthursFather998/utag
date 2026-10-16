@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:14.84521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60a1c326-dd55-4810-826f-1256d5fe09f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd838237-168a-452f-9186-6c678178b238",
+  "input": "{\"title\": \"If Only for Tonight\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Stripped'",
+  "status": "verified"
+}

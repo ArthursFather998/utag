@@ -1,0 +1,46 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Avenoir",
+    "confidence": "unknown",
+    "created_at": "2026-10-16T18:00:19.173162+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "6e002910-ba41-4d2c-bb4d-d863c9c5c3d3",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-16T18:00:19.173162+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Avenoir",
+        "id": "6e002910-ba41-4d2c-bb4d-d863c9c5c3d3"
+      },
+      "artwork": [
+        {
+          "id": "b84f8d1f-7a34-4350-81e9-d9a144149bca",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/e3b67f97-b612-447a-9950-ed663b2cf32b/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:19.36736+00:00",
+      "edition": "original",
+      "id": "19797f5a-166b-40aa-aa65-6a60a720b52a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Shameless"
+    }
+  ],
+  "verifications": []
+}

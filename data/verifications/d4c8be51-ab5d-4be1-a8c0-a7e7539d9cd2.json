@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:10.531821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac8e3a56-1f78-4847-b744-0b926b76100b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4c8be51-ab5d-4be1-a8c0-a7e7539d9cd2",
+  "input": "{\"title\": \"Get on the Bus\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Get on the Bus'",
+  "status": "verified"
+}

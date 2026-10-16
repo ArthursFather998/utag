@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:47.651215+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0111336-96ec-4e69-b74c-e6a723b5d520",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5f667db-3772-46b1-95af-f87e9f6c1fcc",
+  "input": "{\"title\": \"Love That Woman\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Original Fleetwood Mac'",
+  "status": "verified"
+}

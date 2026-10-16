@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:26.133815+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07a2a27e-aab4-47f2-bf66-41a10c5dd76d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "84e8cd33-1f51-4f5e-9b50-b0c28ec210fc",
+  "input": "{\"title\": \"Suzanne\", \"release_type\": \"single\", \"release_year\": 1986}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

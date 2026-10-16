@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:14.135436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8246537d-c26a-4d1e-9b18-0d2e1c026b1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd96b2c6-34b0-44ea-9271-bb65841dd3c5",
+  "input": "{\"title\": \"Lights Please\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lights Please'",
+  "status": "verified"
+}

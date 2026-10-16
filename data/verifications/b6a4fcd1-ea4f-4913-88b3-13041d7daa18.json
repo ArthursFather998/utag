@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:11.832437+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6838d8b5-40f1-4282-81cd-0ea0b55f328e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b6a4fcd1-ea4f-4913-88b3-13041d7daa18",
+  "input": "{\"title\": \"Fuel (Shady Edition)\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

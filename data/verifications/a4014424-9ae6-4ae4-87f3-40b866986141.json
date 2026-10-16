@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:29.089947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd4f0bf4-3829-482f-a843-2e5b714db5d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4014424-9ae6-4ae4-87f3-40b866986141",
+  "input": "{\"title\": \"Weeds\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Emotional Creature'",
+  "status": "verified"
+}

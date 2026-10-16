@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:09.694872+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "088b7587-be8f-4bda-b8d9-bcbe83b4b3a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b4bb14b-bf1c-4aca-8ddd-ce898ff7f3b8",
+  "input": "{\"title\": \"Pesos\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'BBD'",
+  "status": "verified"
+}

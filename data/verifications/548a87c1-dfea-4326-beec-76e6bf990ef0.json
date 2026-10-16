@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:22.504328+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "115b976b-6b12-4647-9749-e814c8ea06fa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "548a87c1-dfea-4326-beec-76e6bf990ef0",
+  "input": "{\"title\": \"Something About You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Some Sexy Songs 4 U'",
+  "status": "verified"
+}

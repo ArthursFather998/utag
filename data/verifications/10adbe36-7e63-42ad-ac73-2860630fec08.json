@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:48.402807+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a999e24-fc0c-4770-8c15-5aaf055567bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10adbe36-7e63-42ad-ac73-2860630fec08",
+  "input": "{\"title\": \"Earthquake\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Beneath Your Beautiful'",
+  "status": "verified"
+}

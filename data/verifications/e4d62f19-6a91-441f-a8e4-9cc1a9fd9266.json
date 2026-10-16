@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:41.497524+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa7f27a4-8185-4868-8602-048b7f1361be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4d62f19-6a91-441f-a8e4-9cc1a9fd9266",
+  "input": "{\"title\": \"Thriller\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live in Phoenix'",
+  "status": "verified"
+}

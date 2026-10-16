@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:34.131681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4856635-98ae-4fd3-856a-79c3f460b960",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "36e47946-01b8-498c-aafc-3e2ec6122f53",
+  "input": "{\"title\": \"The Open Door\", \"release_type\": \"album\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

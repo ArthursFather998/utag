@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:47.827302+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0338772f-f726-4e70-a6fa-170adb4d5b30",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca5693d3-0608-4127-87bd-89d23438bbea",
+  "input": "{\"title\": \"You da One\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Talk That Talk (Deluxe)'",
+  "status": "verified"
+}

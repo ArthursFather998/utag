@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:40.877776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cce82be0-8b91-4e5b-a0ab-ddbca970e345",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7bc6f5b-6fc6-4905-b7fb-d12483de153d",
+  "input": "{\"title\": \"The Other Woman\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Grace (Legacy Edition)'",
+  "status": "verified"
+}

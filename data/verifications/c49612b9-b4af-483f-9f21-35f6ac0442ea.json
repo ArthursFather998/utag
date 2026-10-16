@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:25.599762+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "009b8128-ebcf-4b6e-b9c6-fcc9bf7d5dd1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c49612b9-b4af-483f-9f21-35f6ac0442ea",
+  "input": "{\"title\": \"Pistachios\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Larger Than Life'",
+  "status": "verified"
+}

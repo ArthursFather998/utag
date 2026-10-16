@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:25.607032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b907b33e-4591-4bfa-8699-6cac3e82ed32",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32bd9980-4388-491b-901e-d672c1a739c1",
+  "input": "{\"title\": \"AMG\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Donny Womack'",
+  "status": "verified"
+}

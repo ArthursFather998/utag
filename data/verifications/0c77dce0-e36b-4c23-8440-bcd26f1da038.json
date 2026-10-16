@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:45.166888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba31531b-2c75-47ae-be9d-15da3844eb04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c77dce0-e36b-4c23-8440-bcd26f1da038",
+  "input": "{\"title\": \"Take Me to the Pilot\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Never Too Late'",
+  "status": "verified"
+}

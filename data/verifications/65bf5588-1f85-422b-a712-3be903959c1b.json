@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:19.919954+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40093a1d-f2cf-461d-b7e9-890d131f1f0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "65bf5588-1f85-422b-a712-3be903959c1b",
+  "input": "{\"title\": \"Softcore\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Hard to Imagine the Neighbourhood Ever Changing'",
+  "status": "verified"
+}

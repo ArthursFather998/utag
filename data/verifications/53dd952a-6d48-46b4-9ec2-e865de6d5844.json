@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:22.896979+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "683fe66c-fcae-41c6-b83a-0e75317be232",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53dd952a-6d48-46b4-9ec2-e865de6d5844",
+  "input": "{\"title\": \"Miss America (deluxe)\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Born Sinner'",
+  "status": "verified"
+}

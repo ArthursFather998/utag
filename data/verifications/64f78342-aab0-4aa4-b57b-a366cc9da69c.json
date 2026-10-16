@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:55.321412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "812db962-d43a-47fd-b16f-8cc2e2d52248",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64f78342-aab0-4aa4-b57b-a366cc9da69c",
+  "input": "{\"title\": \"The Chain (live)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Chain (live)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:45.37448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e664f33-4b70-4f38-abb8-c5c31f215a34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd1d53f4-0fcf-4ec6-97e8-fbe2dd76baff",
+  "input": "{\"title\": \"Awkward\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Ctrl (Deluxe)'",
+  "status": "verified"
+}

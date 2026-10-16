@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:47.383949+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01d696c3-975d-4d6a-bd2c-f4d9c8594365",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4629adee-f7ba-4275-96fe-e6168f881cbb",
+  "input": "{\"title\": \"Fighting for Madge\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Then Play On'",
+  "status": "verified"
+}

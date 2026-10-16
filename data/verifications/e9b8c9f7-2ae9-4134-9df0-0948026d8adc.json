@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:40.548742+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a73f929-426a-433d-add9-89f003836518",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9b8c9f7-2ae9-4134-9df0-0948026d8adc",
+  "input": "{\"title\": \"2 Weeks\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Archive 002'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:29.762849+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d682a349-9354-4587-b2c5-07bb6eb3c155",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "948234fb-1e7a-47f1-8a2d-287424e2935f",
+  "input": "{\"title\": \"Yo Fui Aquella\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'All My Hits: Todos Mis Éxitos Vol. 2'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:08.739036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94e745e3-5445-4d28-9fa7-b822285973cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78ac3d93-d273-4936-bdf8-28d22913ad34",
+  "input": "{\"title\": \"Baila Esta Cumbia\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Ven Conmigo'",
+  "status": "verified"
+}

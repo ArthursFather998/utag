@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:31.952122+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5c34b2e-eb1d-425b-9947-f60a3c69bb99",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38050976-df94-416b-9804-de7fefedcf89",
+  "input": "{\"title\": \"Confident (feat. Chance the Rapper)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Journals'",
+  "status": "verified"
+}

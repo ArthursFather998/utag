@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:06.189224+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e904591-1b3c-41d6-9293-1fa49e120de5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "218b478f-2611-4706-9156-37b528257c95",
+  "input": "{\"title\": \"Shake Your Moneymaker\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live at the Marquee 1967'",
+  "status": "verified"
+}

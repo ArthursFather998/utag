@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:47.886696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ffbf6e2f-1621-4d56-80d8-b16948fb6b9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "142a25b1-8a41-444e-886c-6d5271ce10a4",
+  "input": "{\"title\": \"Heat Waves (with iann dior)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Heat Waves (with iann dior)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:54.048559+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee3e2b36-6bb4-42e6-9618-43343ab4633e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aba38f31-3273-4b87-b0b3-b4aea3e21130",
+  "input": "{\"title\": \"Stand on the Rock\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Behind the Mask'",
+  "status": "verified"
+}

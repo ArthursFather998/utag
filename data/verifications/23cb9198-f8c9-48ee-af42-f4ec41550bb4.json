@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:21.793009+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30e280f2-f566-4c37-991f-d9988935406a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23cb9198-f8c9-48ee-af42-f4ec41550bb4",
+  "input": "{\"title\": \"Show-Biz Blues\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Show-Biz Blues: Fleetwood Mac 1968–1970'",
+  "status": "verified"
+}

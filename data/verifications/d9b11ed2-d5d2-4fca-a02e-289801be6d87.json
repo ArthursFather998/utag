@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:01.469033+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4a805e7-b034-41b4-a243-7d4052b87fe0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9b11ed2-d5d2-4fca-a02e-289801be6d87",
+  "input": "{\"title\": \"we fell in love in october\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'we fell in love in october'",
+  "status": "verified"
+}

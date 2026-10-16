@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:12.093023+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60d18798-cd29-4ca2-bf43-32501e10d680",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "095e3062-17d2-474c-9f1c-be34d09fbd16",
+  "input": "{\"title\": \"Everybody Wants to Run the World\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Everybody Wants to Run the World'",
+  "status": "verified"
+}

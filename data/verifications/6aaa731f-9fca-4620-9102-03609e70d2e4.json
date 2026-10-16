@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:07.61546+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b271ee6-d0bb-4090-9985-79243a2794cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6aaa731f-9fca-4620-9102-03609e70d2e4",
+  "input": "{\"title\": \"Over My Head\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Rumours Live'",
+  "status": "verified"
+}

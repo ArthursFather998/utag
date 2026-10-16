@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:04.393317+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e18dfce1-d37e-4f30-9054-ef14116d759c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "452d2f8a-e739-4953-b1b4-9c26537c6ca9",
+  "input": "{\"title\": \"Wicked Ways\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'The Marshall Mathers LP 2 (Deluxe)'",
+  "status": "verified"
+}

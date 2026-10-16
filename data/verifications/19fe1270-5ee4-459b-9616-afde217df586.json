@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:19.362767+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "017f515d-25e1-4cdd-9344-f2ecff9cf72a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19fe1270-5ee4-459b-9616-afde217df586",
+  "input": "{\"title\": \"Stan\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

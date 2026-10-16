@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:28.350058+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "283635cf-1a74-447c-821c-80e750c78ce3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17e3bd6f-66b6-4d16-a51a-c21c216eace4",
+  "input": "{\"title\": \"Rope Burn\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'The Velvet Rope (Deluxe Edition)'",
+  "status": "verified"
+}

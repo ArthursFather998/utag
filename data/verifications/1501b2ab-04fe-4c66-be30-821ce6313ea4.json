@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:52.881961+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "270a7038-97c4-415e-8ecd-ac6d1c55b376",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1501b2ab-04fe-4c66-be30-821ce6313ea4",
+  "input": "{\"title\": \"Watcha Gonna Do?\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Gemini'",
+  "status": "verified"
+}

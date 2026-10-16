@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:31.429068+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35b42fae-f0a3-40c1-a06d-f01d3fcd16be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f045cf1a-e1b8-462a-9d64-1e9083835030",
+  "input": "{\"title\": \"Just Like A Woman\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Live at Sin-é (Legacy Edition)'",
+  "status": "verified"
+}

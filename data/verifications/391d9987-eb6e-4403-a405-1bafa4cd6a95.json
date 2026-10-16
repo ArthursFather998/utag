@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:20.120628+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7fca74a-8210-4bfc-b687-88568e2b0a3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "391d9987-eb6e-4403-a405-1bafa4cd6a95",
+  "input": "{\"title\": \"Dead Or Alive\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Tec (Bonus)'",
+  "status": "verified"
+}

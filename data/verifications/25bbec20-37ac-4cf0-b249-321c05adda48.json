@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:54.872721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "923bae5b-5c7e-4451-a6b8-b1ab07eb3126",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25bbec20-37ac-4cf0-b249-321c05adda48",
+  "input": "{\"title\": \"Lovely\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Hootie Mack'",
+  "status": "verified"
+}

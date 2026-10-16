@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:23.626781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfd2d8e4-6a6f-4cfc-b461-e8c4793991e1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9cac98e0-e628-450e-b2bc-3a24aaa75c45",
+  "input": "{\"title\": \"Rain\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

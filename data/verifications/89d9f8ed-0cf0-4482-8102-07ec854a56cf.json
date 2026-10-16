@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:05.02883+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92097b5e-d5aa-4cf2-a88b-9fd4ecb5142a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89d9f8ed-0cf0-4482-8102-07ec854a56cf",
+  "input": "{\"title\": \"I Can't Be with You\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '20th Century Masters – The Millennium Collection: The Best of The Cranberries'",
+  "status": "verified"
+}

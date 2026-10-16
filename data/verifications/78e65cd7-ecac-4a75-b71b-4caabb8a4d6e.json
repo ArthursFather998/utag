@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:47.008781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44d4b475-5254-4a6d-a0ee-f421a1f57715",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78e65cd7-ecac-4a75-b71b-4caabb8a4d6e",
+  "input": "{\"title\": \"BBL Love (Interlude)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'For All the Dogs'",
+  "status": "verified"
+}

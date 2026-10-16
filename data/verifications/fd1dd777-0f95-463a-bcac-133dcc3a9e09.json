@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:19.278357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8985e02b-c8d4-4f81-b52e-e581a82214a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd1dd777-0f95-463a-bcac-133dcc3a9e09",
+  "input": "{\"title\": \"Never Let You Go\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'My World 2.0'",
+  "status": "verified"
+}

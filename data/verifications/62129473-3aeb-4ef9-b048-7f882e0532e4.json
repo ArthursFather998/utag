@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:45.137046+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0022fa25-e787-40d0-a73a-25ab46e19b46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62129473-3aeb-4ef9-b048-7f882e0532e4",
+  "input": "{\"title\": \"Cop Car\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cop Car'",
+  "status": "verified"
+}

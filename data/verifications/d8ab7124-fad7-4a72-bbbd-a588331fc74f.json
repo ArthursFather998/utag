@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:39.714121+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b4f2f7f-7dc0-444e-bd6b-c82c6a75e2c5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d8ab7124-fad7-4a72-bbbd-a588331fc74f",
+  "input": "{\"title\": \"Bother Me\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

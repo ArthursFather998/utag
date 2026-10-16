@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:01.445393+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "615e51ae-a72a-4a04-9bd0-1f34938bf295",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "830304a9-fa91-4c8f-8652-eae602e80d42",
+  "input": "{\"title\": \"Yo Te Qui\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'La Trenza (Deluxe)'",
+  "status": "verified"
+}

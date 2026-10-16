@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:33.626389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d43772b1-ca8f-483c-a278-e8fb3addc6e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a244bf3-3df7-4f7f-a26e-8bc5e220c228",
+  "input": "{\"title\": \"The New Fever Waltz\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Diving Board'",
+  "status": "verified"
+}

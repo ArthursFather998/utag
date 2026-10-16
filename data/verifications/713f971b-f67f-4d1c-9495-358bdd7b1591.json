@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:21.420818+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a417cc3b-b7b8-4b62-9234-5fc1bc5b9c2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "713f971b-f67f-4d1c-9495-358bdd7b1591",
+  "input": "{\"title\": \"The End Of The World\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Goodnight My Love'",
+  "status": "verified"
+}

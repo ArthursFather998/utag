@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:01.008011+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00dc4f1a-494e-4a0f-8efd-8dd031750d46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6eaf77da-d339-49ac-92a0-51ab946db215",
+  "input": "{\"title\": \"I Know It's Over\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'You and I'",
+  "status": "verified"
+}

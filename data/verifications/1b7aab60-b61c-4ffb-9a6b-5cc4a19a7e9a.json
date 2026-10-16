@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:54.053388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02e63e97-5401-47e9-9b04-d16b89faa13d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b7aab60-b61c-4ffb-9a6b-5cc4a19a7e9a",
+  "input": "{\"title\": \"Sea Song\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Saturnine Martial & Lunatic'",
+  "status": "verified"
+}

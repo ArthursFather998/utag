@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:41.289447+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a958064-014c-40ad-b3a0-c2d768cc4ef2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e246f9ca-8d88-425f-9a3a-bbba5752f0ad",
+  "input": "{\"title\": \"The Hurting (30th Anniversary Edition)\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

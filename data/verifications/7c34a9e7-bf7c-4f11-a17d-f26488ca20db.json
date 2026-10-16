@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:56.762018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fae1786c-ea7a-431b-b9f4-3b0588f83db6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c34a9e7-bf7c-4f11-a17d-f26488ca20db",
+  "input": "{\"title\": \"Hard Feelings\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Behind the Mask'",
+  "status": "verified"
+}

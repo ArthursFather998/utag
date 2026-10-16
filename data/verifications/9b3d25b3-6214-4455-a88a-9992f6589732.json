@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:58.182266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64ad8ba7-0b94-4f5a-a1d1-07643b86ebeb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9b3d25b3-6214-4455-a88a-9992f6589732",
+  "input": "{\"title\": \"Hate Me (Deluxe)\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

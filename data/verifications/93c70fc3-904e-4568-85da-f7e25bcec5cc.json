@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:29.026928+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "169d8171-8e2c-41d4-b53c-c1ba80caa878",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93c70fc3-904e-4568-85da-f7e25bcec5cc",
+  "input": "{\"title\": \"Gangsta\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '20th Century Masters: The Millennium Collection: The Best of Bell Biv DeVoe'",
+  "status": "verified"
+}

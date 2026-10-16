@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:24.289135+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c00e4c8-783b-4e07-90d2-1acfd1e1e4ad",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8bd35be3-d602-4281-a3b5-eb7b0188ef75",
+  "input": "{\"title\": \"Gran Turismo (Remastered)\", \"release_type\": \"album\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:19.261833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a096930e-1768-4362-adb1-2373e0d5fd84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9cb10a9-e181-482f-b802-db1113959b4f",
+  "input": "{\"title\": \"Fuel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fuel'",
+  "status": "verified"
+}

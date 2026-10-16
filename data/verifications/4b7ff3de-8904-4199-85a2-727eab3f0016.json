@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:52.822777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4fd8ff13-7dbe-4172-a9fa-a525612b6edf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b7ff3de-8904-4199-85a2-727eab3f0016",
+  "input": "{\"title\": \"Yukon (Interlude)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Yukon (Interlude)'",
+  "status": "verified"
+}

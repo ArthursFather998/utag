@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:07.195336+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a221178-ca8e-4da4-a08f-937019957abb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bacc1012-4a3c-4705-80b7-a8ca0c62fe5b",
+  "input": "{\"title\": \"You've Come Back\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Sound of Young Love'",
+  "status": "verified"
+}

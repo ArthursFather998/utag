@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:35.169036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0fdd022-778d-4ee7-bb27-fe8d362bf8a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7f74387-0694-4c16-8a4b-a1303187232b",
+  "input": "{\"title\": \"Forget-Me-Not\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:57.304065+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5c0fa3a-3982-496e-bb37-0f928a0f3816",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3b5937c1-6604-4281-a4f1-29a0d5a953f4",
+  "input": "{\"title\": \"Too Long\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Swag'",
+  "status": "verified"
+}

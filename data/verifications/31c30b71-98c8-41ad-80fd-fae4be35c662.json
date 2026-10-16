@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:02.576533+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8a9b6f2-9833-4f59-97eb-249ce7622fef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31c30b71-98c8-41ad-80fd-fae4be35c662",
+  "input": "{\"title\": \"Interlude - Fasten Your Seatbelts\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Velvet Rope (Deluxe Edition)'",
+  "status": "verified"
+}

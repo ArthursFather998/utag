@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:59.708081+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a401ba2-74a1-4fee-8dc1-23f77883e391",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5722cbd4-2248-42b9-a083-1682fc3ab2db",
+  "input": "{\"title\": \"Little Things Mean A Lot\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Before & After'",
+  "status": "verified"
+}

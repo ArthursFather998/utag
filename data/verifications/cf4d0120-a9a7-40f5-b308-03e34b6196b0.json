@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:57.320352+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0d57691-7bfa-4af3-aba6-436f6f9d16e8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cf4d0120-a9a7-40f5-b308-03e34b6196b0",
+  "input": "{\"title\": \"No Me Ame\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

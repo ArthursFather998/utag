@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:38.917737+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a088dedb-f5ae-4fcb-9e97-2f40aecb20a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ece9652-225b-462c-ad86-99914056b3ba",
+  "input": "{\"title\": \"Jesus (De Lane Lea Demo, December 1971)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Queen (Deluxe Remastered Version)'",
+  "status": "verified"
+}

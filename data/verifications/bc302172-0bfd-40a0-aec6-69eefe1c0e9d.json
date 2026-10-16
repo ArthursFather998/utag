@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:05.886343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a67febb-5172-419b-919f-0690aab03c96",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bc302172-0bfd-40a0-aec6-69eefe1c0e9d",
+  "input": "{\"title\": \"Three Stripes\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

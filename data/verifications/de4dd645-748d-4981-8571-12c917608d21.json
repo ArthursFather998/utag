@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:29.164448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "902d64c8-2913-4dc3-bb10-11cef1b43d2f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "de4dd645-748d-4981-8571-12c917608d21",
+  "input": "{\"title\": \"Killer Queen\", \"release_type\": \"single\", \"release_year\": 1974}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:29.256156+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2241cb18-9954-4350-ba70-bedd03b0a384",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "957b5315-8923-4f67-9388-6b60ecc3373d",
+  "input": "{\"title\": \"Body Paint\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Car'",
+  "status": "verified"
+}

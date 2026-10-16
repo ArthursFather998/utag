@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:41.482372+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0615fd70-4610-4408-a9dd-1cc9e90c901c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a4858de-895a-481e-ac06-6562b64e645f",
+  "input": "{\"title\": \"Advice for the Young at Heart\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Advice for the Young at Heart'",
+  "status": "verified"
+}

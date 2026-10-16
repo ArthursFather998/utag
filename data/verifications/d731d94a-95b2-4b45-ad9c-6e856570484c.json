@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:06.179469+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bd6669a-68d3-421d-8c27-7ba19acda26f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d731d94a-95b2-4b45-ad9c-6e856570484c",
+  "input": "{\"title\": \"Reason\", \"release_type\": \"album\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

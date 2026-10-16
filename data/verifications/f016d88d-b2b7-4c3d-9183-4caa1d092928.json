@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:07.232336+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5bccdac3-4fe0-4c12-b330-d394599901ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f016d88d-b2b7-4c3d-9183-4caa1d092928",
+  "input": "{\"title\": \"Hard (featuring Jeezy)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Rated R'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:47.55454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35b39273-8822-4e34-a5a0-bd277304b61a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78d33a12-c1c1-4f8b-b740-168fe9e35d91",
+  "input": "{\"title\": \"Machines (or 'Back to Humans')\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The 12\" Collection'",
+  "status": "verified"
+}

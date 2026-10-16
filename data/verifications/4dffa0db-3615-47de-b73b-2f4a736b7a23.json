@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:40.833288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e401588-2f84-4d5a-872c-17d8612daa3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dffa0db-3615-47de-b73b-2f4a736b7a23",
+  "input": "{\"title\": \"Cardigan\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Heaven or Hell'",
+  "status": "verified"
+}

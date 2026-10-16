@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:16.423881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd0ed8a9-afb3-44d6-a68d-08513c1ca79c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01664f4a-587d-49c4-896c-7bcfd19186da",
+  "input": "{\"title\": \"Field of Flowers\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Early Favorites'",
+  "status": "verified"
+}

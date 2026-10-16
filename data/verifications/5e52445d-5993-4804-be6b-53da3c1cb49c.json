@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:11.800101+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0daab04-4e12-4985-a78b-9dc940c74751",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e52445d-5993-4804-be6b-53da3c1cb49c",
+  "input": "{\"title\": \"When Christmas Comes\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Merry Christmas II You'",
+  "status": "verified"
+}

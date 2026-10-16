@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:07.40258+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ef62c5a-858a-427a-9b1a-84ac59570a73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1622c58-af03-4131-908e-5b1412373bdc",
+  "input": "{\"title\": \"House of Memories (Slowed Down Version)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'House of Memories EP'",
+  "status": "verified"
+}

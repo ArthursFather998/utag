@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:05.972727+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "206f3bcc-dbc1-49ce-be7f-eb1f84d08755",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7add7e7-68b9-42fa-9e1b-2fa875b68a1c",
+  "input": "{\"title\": \"Weeping Willow (Demo)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Mild High Club'",
+  "status": "verified"
+}

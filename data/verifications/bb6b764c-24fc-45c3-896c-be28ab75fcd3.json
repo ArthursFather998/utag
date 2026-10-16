@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:11.191176+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e285637b-5ddb-4502-9bb9-aae3b113eb35",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb6b764c-24fc-45c3-896c-be28ab75fcd3",
+  "input": "{\"title\": \"Just Gettin' Started\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Old Boots, New Dirt'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:11.253314+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac8d7f28-c4c7-48a4-a2ec-dd6045e7ce7c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7e4e4db-558a-43fd-8373-90f5387d6e35",
+  "input": "{\"title\": \"A Scorpio's Mind\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Room for Improvement'",
+  "status": "verified"
+}

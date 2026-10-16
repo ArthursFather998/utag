@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:58.879187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f0a7067-4c31-4446-b61f-e6a954637f70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a71392de-498f-4928-abdf-02cc9d58afbf",
+  "input": "{\"title\": \"Here I Go Again (featuring J-Status)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Vinyl Box Set'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:36.602084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89e354f8-7b17-4c4b-b092-a53a47f15711",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f8a4f7f8-4b67-4c5f-96f6-d4d7ecaacfc1",
+  "input": "{\"title\": \"I'll Be There\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'MTV Unplugged'",
+  "status": "verified"
+}

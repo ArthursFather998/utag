@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:37.261959+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "194e34cf-6133-49fb-b16c-1625ea955713",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "209a2cb3-7ed8-4abc-9bda-b34db7d9bf9e",
+  "input": "{\"title\": \"my dear i've been waiting all night\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:56.169646+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4260a8c4-1bd9-4b59-ab29-c82df72d8203",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72d74c5a-d80f-48ed-85ab-09b9cf3fa539",
+  "input": "{\"title\": \"Stephanie\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'yours truly, nafees'",
+  "status": "verified"
+}

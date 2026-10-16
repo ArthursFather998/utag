@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:06.453252+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f37bca6d-1e93-4289-a0d0-027315bb798e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35e86c8f-a945-45fb-96bc-3b64462d7c84",
+  "input": "{\"title\": \"Tell Me Why\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tell Me Why'",
+  "status": "verified"
+}

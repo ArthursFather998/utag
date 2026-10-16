@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:56.519612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "444fd81b-a94e-4d5b-a45e-ec0b2cbae251",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06fc3f3c-3295-470c-9e92-47957e48d108",
+  "input": "{\"title\": \"Opera of the Bells\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of '8 Days of Christmas'",
+  "status": "verified"
+}

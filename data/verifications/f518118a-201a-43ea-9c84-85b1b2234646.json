@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:44.041784+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bdd8452b-2d24-4bad-bc99-18da2090d24e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f518118a-201a-43ea-9c84-85b1b2234646",
+  "input": "{\"title\": \"Stay Awake\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'A Place We Knew'",
+  "status": "verified"
+}

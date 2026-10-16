@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:38.844744+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68ac1fb1-cdcb-4697-8d4e-111ceb1f89ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a468243f-1391-425b-87d2-8bb8bfa0a3d3",
+  "input": "{\"title\": \"Russian Roulette\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Rated R + Loud'",
+  "status": "verified"
+}

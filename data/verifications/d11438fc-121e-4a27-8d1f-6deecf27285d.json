@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:35.33653+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7aef0fc4-1bb0-4b9c-8041-389a3ce69502",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d11438fc-121e-4a27-8d1f-6deecf27285d",
+  "input": "{\"title\": \"Twisted\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Diamonds'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:18.926422+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f5575f3-f030-4c1c-8331-b6867a90f6a5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "30edc0fa-2b1e-49d7-8fd1-9a5be0d4d5ce",
+  "input": "{\"title\": \"The Roof (Back in Time)\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

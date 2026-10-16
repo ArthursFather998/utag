@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:15.59761+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c6714d6-583f-486e-96ed-ca6f4e47c7ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20d3273c-b216-4b09-98e6-5c1c7f82a0cd",
+  "input": "{\"title\": \"I'm Your Man\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Land: The Live Album'",
+  "status": "verified"
+}

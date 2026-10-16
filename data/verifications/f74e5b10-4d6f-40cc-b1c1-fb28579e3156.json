@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:04.556423+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62aaa563-b12a-4ef7-9ef2-cfc7f9e9d5ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f74e5b10-4d6f-40cc-b1c1-fb28579e3156",
+  "input": "{\"title\": \"We Found Love (featuring Calvin Harris)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Talk That Talk'",
+  "status": "verified"
+}

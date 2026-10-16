@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:58.728214+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59e34ad7-461a-447c-9695-c9ceed2dfa78",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41230706-3d58-4ecd-8ce9-a9314ea26170",
+  "input": "{\"title\": \"Say It\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Good Girl Gone Bad'",
+  "status": "verified"
+}

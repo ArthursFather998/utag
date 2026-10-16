@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:26.236104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a27f5794-839b-4b8e-9a2b-b0ef717e3695",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c7a0d8d8-84cf-422b-aa78-a2142fc84c25",
+  "input": "{\"title\": \"You Save Me (featuring Snoh Aalegra)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Alicia: The Selects'",
+  "status": "verified"
+}

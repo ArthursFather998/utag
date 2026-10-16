@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:21.615658+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc32f090-91cb-49d4-af60-c419718d7811",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "362acb2b-ff98-4958-b21a-7b3acf0065d9",
+  "input": "{\"title\": \"My Special Angel\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Bobby Vinton Sings the Golden Decade of Love'",
+  "status": "verified"
+}

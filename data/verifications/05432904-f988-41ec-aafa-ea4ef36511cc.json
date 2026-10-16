@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:04.011614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28599cc4-9a04-4cd8-a479-38fd593cfce5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05432904-f988-41ec-aafa-ea4ef36511cc",
+  "input": "{\"title\": \"Now I'm Here\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Sheer Heart Attack'",
+  "status": "verified"
+}

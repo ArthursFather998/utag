@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:09.510204+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34f51a70-519c-43e5-9540-0dc0a4f9c4c7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3ba068cd-00be-4a52-8c7e-a192bb4fcd76",
+  "input": "{\"title\": \"Promises\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

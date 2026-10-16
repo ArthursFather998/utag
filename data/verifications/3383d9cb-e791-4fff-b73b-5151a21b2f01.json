@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:37.909944+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19fdd513-5a3f-4e5b-91e3-f6c134913192",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3383d9cb-e791-4fff-b73b-5151a21b2f01",
+  "input": "{\"title\": \"Grieved You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Grieved You'",
+  "status": "verified"
+}

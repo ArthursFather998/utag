@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:36.232581+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "afd519eb-1d42-49a9-80b6-14d29ee8ccb6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09a04e65-5757-4ed0-a028-6779feca4ca8",
+  "input": "{\"title\": \"Don't Cry Mary Jo\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Party Music ~~ 20 Hits'",
+  "status": "verified"
+}

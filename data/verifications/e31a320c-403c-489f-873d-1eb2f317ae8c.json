@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:30.037209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a75fc08a-658f-48a6-b405-afc4411b9c27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e31a320c-403c-489f-873d-1eb2f317ae8c",
+  "input": "{\"title\": \"This Corner\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Southpaw: Music from and Inspired by the Motion Picture'",
+  "status": "verified"
+}

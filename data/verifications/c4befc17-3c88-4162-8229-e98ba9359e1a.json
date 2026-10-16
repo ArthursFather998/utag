@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:45.819878+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "03a2a5c0-3a52-469f-bb83-7e7d651f79a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4befc17-3c88-4162-8229-e98ba9359e1a",
+  "input": "{\"title\": \"Star Shopping\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Star Shopping'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:02.966498+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd7571ba-f3e6-438d-9f20-98eb3a48fae7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c23bad73-bc08-41f1-9c51-72e7e75818e4",
+  "input": "{\"title\": \"Good To You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Drunken Babble'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:29.890124+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b53b694b-e7d5-4f86-80fa-21fa78025f50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "257c5f38-789c-4e4c-bec4-915d77e3ca33",
+  "input": "{\"title\": \"Better Off Dead\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Captain Fantastic and the Brown Dirt Cowboy'",
+  "status": "verified"
+}

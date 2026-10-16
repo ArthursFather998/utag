@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:24.887262+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4f31ee5-6e98-45d5-b671-3a8101d8b9a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "98ee8526-08bd-4208-ba02-df0b2c12963f",
+  "input": "{\"title\": \"Rubicon\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Escape & Frontiers Live in Japan'",
+  "status": "verified"
+}

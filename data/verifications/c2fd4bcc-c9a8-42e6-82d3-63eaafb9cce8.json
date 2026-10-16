@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:45.080414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5068244b-1e10-43df-8db3-f59b8dc8fe95",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c2fd4bcc-c9a8-42e6-82d3-63eaafb9cce8",
+  "input": "{\"title\": \"Zombie\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Dreams – The Collection'",
+  "status": "verified"
+}

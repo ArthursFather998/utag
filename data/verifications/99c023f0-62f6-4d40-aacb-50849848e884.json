@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:07.99625+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85dd74c6-de59-4656-b7a1-069cb44300eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99c023f0-62f6-4d40-aacb-50849848e884",
+  "input": "{\"title\": \"Suffer the Children\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Hurting (30th Anniversary Edition)'",
+  "status": "verified"
+}

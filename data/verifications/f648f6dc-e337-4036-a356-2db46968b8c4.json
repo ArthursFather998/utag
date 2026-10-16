@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:01.337355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1724922e-fd68-4859-a6eb-ee4348d3d67d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f648f6dc-e337-4036-a356-2db46968b8c4",
+  "input": "{\"title\": \"Johnny Panic and the Bible of Dreams\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Johnny Panic and the Bible of Dreams'",
+  "status": "verified"
+}

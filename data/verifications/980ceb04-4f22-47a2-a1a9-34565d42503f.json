@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:36.797282+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "469a2c0e-99d4-4c45-952d-50735bd79b49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "980ceb04-4f22-47a2-a1a9-34565d42503f",
+  "input": "{\"title\": \"Perm\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '24K Magic'",
+  "status": "verified"
+}

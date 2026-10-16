@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:43.513794+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d1a87cc-6699-47d6-bc31-f3aeb2526164",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a87e1bde-9873-4fb2-8a21-bfef46f9be9a",
+  "input": "{\"title\": \"That Should Be Me\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'My Worlds: The Collection'",
+  "status": "verified"
+}

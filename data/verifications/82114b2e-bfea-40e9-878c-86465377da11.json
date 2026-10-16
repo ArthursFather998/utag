@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:58.498203+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "667e1366-e6f8-4851-83f3-6f4cde2a8318",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82114b2e-bfea-40e9-878c-86465377da11",
+  "input": "{\"title\": \"Yayo\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Lana Del Ray'",
+  "status": "verified"
+}

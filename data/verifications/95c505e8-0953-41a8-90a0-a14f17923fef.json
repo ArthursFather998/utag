@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:54:06.779236+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ea49e8c-a988-48df-a116-f5e071a08112",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95c505e8-0953-41a8-90a0-a14f17923fef",
+  "input": "{\"title\": \"Dance with You Tonight\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Everything I Know About Love (Deluxe Edition)'",
+  "status": "verified"
+}

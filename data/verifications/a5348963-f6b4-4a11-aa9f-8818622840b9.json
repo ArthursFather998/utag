@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:30.758911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53b93fd3-7b69-41d3-a392-dca447c59c88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5348963-f6b4-4a11-aa9f-8818622840b9",
+  "input": "{\"title\": \"Make It Clear\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'J.E. Heartbreak II'",
+  "status": "verified"
+}

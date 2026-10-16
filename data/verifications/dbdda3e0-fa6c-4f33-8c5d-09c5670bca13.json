@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:47.541892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e0a957b-6f1b-4398-aadf-6779d5dd0bed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbdda3e0-fa6c-4f33-8c5d-09c5670bca13",
+  "input": "{\"title\": \"Complicated\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Loud'",
+  "status": "verified"
+}

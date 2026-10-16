@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:42.415418+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b616bb4-7ed4-4719-8ba4-e22bb9ac7ac0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8d557076-944f-4b89-8e7b-57096018babc",
+  "input": "{\"title\": \"Elliot's Song\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

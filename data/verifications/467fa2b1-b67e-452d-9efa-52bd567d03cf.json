@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:58.166186+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "991e4c8e-bd8a-4324-8ab6-72a4af1ceea2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "467fa2b1-b67e-452d-9efa-52bd567d03cf",
+  "input": "{\"title\": \"Butterflies\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Swag Live from Coachella (Weekend I)'",
+  "status": "verified"
+}

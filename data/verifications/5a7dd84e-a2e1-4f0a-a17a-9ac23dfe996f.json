@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:24.051134+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a343f9a-8b31-457e-b25b-4c807bdaf4d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a7dd84e-a2e1-4f0a-a17a-9ac23dfe996f",
+  "input": "{\"title\": \"Music of the Sun\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Music of the Sun / A Girl Like Me'",
+  "status": "verified"
+}

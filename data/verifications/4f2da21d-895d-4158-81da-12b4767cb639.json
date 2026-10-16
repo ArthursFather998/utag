@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:35.169199+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ab6040a-efbc-4c8b-aa02-2b7bffca5bf5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4f2da21d-895d-4158-81da-12b4767cb639",
+  "input": "{\"title\": \"Remixes\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:29.071949+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8140e22b-8604-4791-afc9-48c14e7fefcc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e6ca2a9-97a2-4893-b527-53d9d9e64ddb",
+  "input": "{\"title\": \"Grace\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live at Sin-é'",
+  "status": "verified"
+}

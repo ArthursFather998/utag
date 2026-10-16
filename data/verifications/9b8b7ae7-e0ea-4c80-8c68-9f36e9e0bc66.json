@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:49.815729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af4a8399-2979-4bcc-b19c-e2b51c22f07b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b8b7ae7-e0ea-4c80-8c68-9f36e9e0bc66",
+  "input": "{\"title\": \"The Climb Back\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Climb Back'",
+  "status": "verified"
+}

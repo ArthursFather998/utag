@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:28.415966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c85042d-b741-4ca5-83a2-896e8899ac40",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b48fa844-76e6-49c2-9acb-4dcff5351f1c",
+  "input": "{\"title\": \"bad idea!\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'bad idea!'",
+  "status": "verified"
+}

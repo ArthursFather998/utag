@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:20.484413+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f354e0ec-ad15-458b-96f3-f8dc1e48d8c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f00b8acc-da0a-418d-8d35-30cc83048a90",
+  "input": "{\"title\": \"Alone Together\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Alone Together'",
+  "status": "verified"
+}

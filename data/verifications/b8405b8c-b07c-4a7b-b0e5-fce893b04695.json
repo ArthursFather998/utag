@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:45.391906+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24b49205-ed4e-45f5-bb8e-ed69e338a251",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8405b8c-b07c-4a7b-b0e5-fce893b04695",
+  "input": "{\"title\": \"My Legacy\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'McKnighttime Lullabies'",
+  "status": "verified"
+}

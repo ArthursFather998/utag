@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:44.02995+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bfd1da3b-293e-4fb3-b148-d3700102dbfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23f0909e-84db-492a-90be-b2e432f32e4e",
+  "input": "{\"title\": \"Girl on Fire\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Apple Music Live: Alicia Keys'",
+  "status": "verified"
+}

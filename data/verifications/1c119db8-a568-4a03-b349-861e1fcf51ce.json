@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:26.529134+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1a779d3-c17b-4a9f-8082-cc73d60a1aa7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1c119db8-a568-4a03-b349-861e1fcf51ce",
+  "input": "{\"title\": \"Queen\", \"release_type\": \"album\", \"release_year\": 1973}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

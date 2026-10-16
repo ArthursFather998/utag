@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:58.646398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99dd0cc2-a66b-4378-8c88-0c1bf2e556b9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5cb1919b-0c14-4141-aea6-9bc1fc551e6f",
+  "input": "{\"title\": \"Blue Banisters\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

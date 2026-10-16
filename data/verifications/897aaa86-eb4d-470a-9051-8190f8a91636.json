@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:40.215901+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5e7a628-f99c-4521-b3df-e538012cf2a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "897aaa86-eb4d-470a-9051-8190f8a91636",
+  "input": "{\"title\": \"te pongo mal(prendelo)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Sin Miedo (del Amor y Otros Demonios) ∞ [Deluxe Version]'",
+  "status": "verified"
+}

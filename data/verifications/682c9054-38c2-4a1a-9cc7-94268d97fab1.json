@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:45.289501+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e4c9647a-9d31-4181-a664-019ac8d2684f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "682c9054-38c2-4a1a-9cc7-94268d97fab1",
+  "input": "{\"title\": \"Shake Your Moneymaker\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Black Magic Woman'",
+  "status": "verified"
+}

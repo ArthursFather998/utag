@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:26.638055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e404e595-2e84-4f79-b89c-4f905f934a59",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "042460c0-7313-458c-9128-756511c027b1",
+  "input": "{\"title\": \"God Killed Rock and Roll\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Viva Las Vengeance'",
+  "status": "verified"
+}

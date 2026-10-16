@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:04.904772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "086095c3-e4ee-4fa4-a3a3-cdb7266dfa38",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "63f4fb88-e151-41e2-8ccd-d4cdd1e8b68d",
+  "input": "{\"title\": \"Fun in Funeral\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Out of the Shadows 2.0'",
+  "status": "verified"
+}

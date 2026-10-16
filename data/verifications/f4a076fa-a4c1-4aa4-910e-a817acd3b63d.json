@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:18.872211+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf92bb20-b36b-4e09-b1b7-9910c6f11bdf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4a076fa-a4c1-4aa4-910e-a817acd3b63d",
+  "input": "{\"title\": \"She's the One\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Death Race for Love'",
+  "status": "verified"
+}

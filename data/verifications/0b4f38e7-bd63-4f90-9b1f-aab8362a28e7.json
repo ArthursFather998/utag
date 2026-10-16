@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:26.165985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01b702a5-20b6-4338-83df-73b7c3994b67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b4f38e7-bd63-4f90-9b1f-aab8362a28e7",
+  "input": "{\"title\": \"Love of My Life\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'A Night at the Opera'",
+  "status": "verified"
+}

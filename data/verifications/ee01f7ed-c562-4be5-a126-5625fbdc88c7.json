@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:25.07807+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f554a89-ae74-46a2-9339-8e383a6cd8fc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ee01f7ed-c562-4be5-a126-5625fbdc88c7",
+  "input": "{\"title\": \"Someplace Else Now\", \"release_type\": \"album\", \"release_year\": 1972}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

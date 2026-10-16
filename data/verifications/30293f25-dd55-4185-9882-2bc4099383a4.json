@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:30.52607+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "526cf2bd-7149-4c22-8074-30b2d6bbe3cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30293f25-dd55-4185-9882-2bc4099383a4",
+  "input": "{\"title\": \"vaya con dios\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Sin Miedo (del Amor y Otros Demonios) ∞ [Deluxe Version]'",
+  "status": "verified"
+}

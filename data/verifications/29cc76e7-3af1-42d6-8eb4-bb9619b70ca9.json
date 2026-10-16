@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:11.462023+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9ec97c2-d8c3-446b-beb4-2af106f98b03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29cc76e7-3af1-42d6-8eb4-bb9619b70ca9",
+  "input": "{\"title\": \"Fotos y Recuerdos\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fotos y Recuerdos'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:24.200465+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc7683a4-bb0f-45e1-a54a-1f6954e12538",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "883cb6a8-f006-49a2-953c-8aaadcc1e04d",
+  "input": "{\"title\": \"In the Space Capsule (The Love Theme)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Flash Gordon'",
+  "status": "verified"
+}

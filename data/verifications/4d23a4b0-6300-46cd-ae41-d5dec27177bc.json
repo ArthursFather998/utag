@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:12.799118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "57c22a54-c181-4ba5-8280-c7fa1318d568",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d23a4b0-6300-46cd-ae41-d5dec27177bc",
+  "input": "{\"title\": \"Just One Yesterday\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'So Much For (2our) Dust: Live at Madison Square Garden'",
+  "status": "verified"
+}

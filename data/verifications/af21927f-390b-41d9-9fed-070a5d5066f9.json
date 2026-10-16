@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:39.600654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0cca5f81-5d31-4d58-9251-e4c751f16e39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af21927f-390b-41d9-9fed-070a5d5066f9",
+  "input": "{\"title\": \"Disc 1 - The Old Crowd\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

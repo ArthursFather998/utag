@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:04.569739+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4d43a0b-5b6c-49b2-9209-d996ef57c749",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c80005f-ebc0-4bec-af8a-5754ef11f928",
+  "input": "{\"title\": \"Time Is Ticking Out\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Wake Up and Smell the Coffee'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:01.193684+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02731875-25da-4c18-9487-240561265e88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73aadf7c-19b6-4a4b-b90f-0db48b29db8f",
+  "input": "{\"title\": \"Never Left\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Never Left'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:23.999729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f62aaf66-a55e-4df6-a92a-a7db4920b330",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6ec10e93-0943-489d-9539-081ffaf15e1a",
+  "input": "{\"title\": \"One More Try\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

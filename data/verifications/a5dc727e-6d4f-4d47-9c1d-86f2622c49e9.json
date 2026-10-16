@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:14.31316+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5052f8b3-ec5c-4675-9b07-2a37a87ffc8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5dc727e-6d4f-4d47-9c1d-86f2622c49e9",
+  "input": "{\"title\": \"Batphone\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Tranquility Base Hotel & Casino'",
+  "status": "verified"
+}

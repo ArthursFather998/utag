@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:21:27.417827+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f06e79e7-692e-4c0f-99c7-4a1000f29e51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fddcc177-be6c-4fd0-bbc9-0392954fb012",
+  "input": "{\"title\": \"You Don't Know My Name\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'VH1 Storytellers'",
+  "status": "verified"
+}

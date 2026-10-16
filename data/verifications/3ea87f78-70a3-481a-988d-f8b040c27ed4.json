@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:46.476646+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97775482-78e1-47f5-9b4c-6c7fc426b626",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ea87f78-70a3-481a-988d-f8b040c27ed4",
+  "input": "{\"title\": \"Lil Ol Me\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '(((((ultraSOUND)))))+'",
+  "status": "verified"
+}

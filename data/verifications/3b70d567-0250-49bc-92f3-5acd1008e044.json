@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:17.105256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d666f1c6-b7e5-4c47-8026-312b904de01c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3b70d567-0250-49bc-92f3-5acd1008e044",
+  "input": "{\"title\": \"Love the Way You Lie (Part II) (featuring Eminem)\", \"track_number\": 61}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 61 of 'Vinyl Box Set'",
+  "status": "verified"
+}

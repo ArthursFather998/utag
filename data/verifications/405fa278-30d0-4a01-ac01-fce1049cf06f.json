@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:49.142211+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "280aa7e0-d162-462d-9568-09e9bbb89093",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "405fa278-30d0-4a01-ac01-fce1049cf06f",
+  "input": "{\"title\": \"The Last One To Know\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In a Mellow Mood'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:46.570364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98145a9e-f42b-43e0-b5fb-52862f6a5d67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38c8c9f8-6c45-486b-9508-24b7a1b99324",
+  "input": "{\"title\": \"Depresion\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Desechable'",
+  "status": "verified"
+}

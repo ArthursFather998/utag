@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:58.108295+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58543238-5a5c-4d77-8aab-2ad7e26f6360",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c27c30ff-27df-4f4e-8e77-e7ef2baa4757",
+  "input": "{\"title\": \"serotonin\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:31.734093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d799516-c4ba-49ce-b12b-627f938a852b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c72e0be-c255-4ee9-9ab4-60832f2b51b8",
+  "input": "{\"title\": \"It's You I Miss\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Madison Blues'",
+  "status": "verified"
+}

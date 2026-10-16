@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:24.39917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e21728e7-6cc8-4fa4-8b8a-8b0186cb37d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05e914d9-72f1-4cbc-80ef-2e965978b6e6",
+  "input": "{\"title\": \"Where The Story Ends\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Fray'",
+  "status": "verified"
+}

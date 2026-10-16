@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:20.654407+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12ce89c1-19be-4878-aaff-e1b652077db1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84d809f9-ca6e-468d-b786-87508e5d898f",
+  "input": "{\"title\": \"Cheers (Drink to That)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Loud'",
+  "status": "verified"
+}

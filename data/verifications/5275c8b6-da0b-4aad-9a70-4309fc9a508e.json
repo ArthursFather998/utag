@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:57.748305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4fd15140-3406-482c-973f-02ba394cb51a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5275c8b6-da0b-4aad-9a70-4309fc9a508e",
+  "input": "{\"title\": \"Beautiful Stranger\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'A Night at the Symphony'",
+  "status": "verified"
+}

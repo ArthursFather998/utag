@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:04.877547+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0998aea-14ec-4533-9f30-f8dccb5b17df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3b668a1c-46d1-470c-810d-d6133dc0971f",
+  "input": "{\"title\": \"Tobacco Sunburst\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Chip Chrome & the Mono-Tones'",
+  "status": "verified"
+}

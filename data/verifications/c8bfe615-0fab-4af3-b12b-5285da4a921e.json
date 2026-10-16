@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:35.578561+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a59ce1a1-29d6-4922-9d7c-289115b6e95a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8bfe615-0fab-4af3-b12b-5285da4a921e",
+  "input": "{\"title\": \"Long Away\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'A Day at the Races'",
+  "status": "verified"
+}

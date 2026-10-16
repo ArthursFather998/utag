@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:42.991114+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7a4b57d-ed77-4d8a-b160-e3335fa2ddd3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2db1b11b-c5ac-4fce-9a31-d0fb8b672c59",
+  "input": "{\"title\": \"Stay Wide Awake\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Relapse'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:17.209696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62805716-9fd5-4779-bb7c-639d4ffd3d9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e20ea76c-24e5-4c2d-a3f2-f8bddefe8ea0",
+  "input": "{\"title\": \"Finesse (Remix) (feat. Cardi B)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '24K Magic (Deluxe Edition)'",
+  "status": "verified"
+}

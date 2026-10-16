@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:31.514578+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e19c30a7-3bdc-4924-9323-c4d7799fe066",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2651f49d-63d4-4631-bd38-05a48347068d",
+  "input": "{\"title\": \"#1's\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:29.152875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a143d46f-0086-45bb-84b6-4d56b80e7c31",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "78d941cb-3c27-486d-84f7-f833d63d331a",
+  "input": "{\"title\": \"Massacre\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

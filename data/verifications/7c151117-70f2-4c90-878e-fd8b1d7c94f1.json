@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:43.699468+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "151188e4-90eb-42ec-be74-42b93106e187",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c151117-70f2-4c90-878e-fd8b1d7c94f1",
+  "input": "{\"title\": \"Scandal\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Scandal'",
+  "status": "verified"
+}

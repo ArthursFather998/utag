@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:11.66186+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "064bf825-658b-44a0-ad2e-494012f68f29",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9270948c-0bfa-4bc6-8c7d-b0e3f5f9e5bb",
+  "input": "{\"title\": \"Call Me Mellow\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Call Me Mellow'",
+  "status": "verified"
+}

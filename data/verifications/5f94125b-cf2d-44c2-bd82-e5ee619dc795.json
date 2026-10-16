@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:22.489342+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e3a9bff-d8d3-4753-80ec-e398f0b28e78",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f94125b-cf2d-44c2-bd82-e5ee619dc795",
+  "input": "{\"title\": \"Did You Know That There's a Tunnel Under Ocean Blvd\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Did You Know That There's a Tunnel Under Ocean Blvd'",
+  "status": "verified"
+}

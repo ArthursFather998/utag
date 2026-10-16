@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:00.692865+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b34de6a1-24a9-4c54-87fa-b06eaefdd808",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "590e89fd-5a5a-458d-bd66-f5c39cbf1b3f",
+  "input": "{\"title\": \"Three Wise Men, Wise Men Three\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'A Very Merry Christmas: The Complete Epic Christmas Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:37.631365+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40b03ef0-46ac-4c38-bcc9-665e431a43b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5745318e-2c43-424f-a398-d5abeb29ca1d",
+  "input": "{\"title\": \"Do You Know Where You're Going To (Theme from Mahogany)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Valentines'",
+  "status": "verified"
+}

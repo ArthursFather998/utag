@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:04.438299+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f60887ed-b347-4bf0-ba6f-5b7b3da4eddc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbe78b2f-1e62-459d-9480-32ae88395941",
+  "input": "{\"title\": \"It's Like That\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'It's Like That'",
+  "status": "verified"
+}

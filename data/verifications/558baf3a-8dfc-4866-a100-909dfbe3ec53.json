@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:30.339246+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5bca708d-5a58-4cd5-a636-ac1e4aec36d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "558baf3a-8dfc-4866-a100-909dfbe3ec53",
+  "input": "{\"title\": \"Tragedy\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Fleetwoods' Greatest Hits'",
+  "status": "verified"
+}

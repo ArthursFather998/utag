@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:51.560495+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a226b50d-60d1-4922-8d03-c58c85c65545",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82a19967-ded9-4369-8fa2-d037622b398b",
+  "input": "{\"title\": \"This Is the Last Time (Demo 26 October)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Retrospective EP 2: Sunshine'",
+  "status": "verified"
+}

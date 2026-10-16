@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:05.816651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d6e456d-f8cf-4c27-b86b-94c66352a379",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36c2f788-586d-42b5-b6b2-8dd8ab98499d",
+  "input": "{\"title\": \"Baby\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Remedy'",
+  "status": "verified"
+}

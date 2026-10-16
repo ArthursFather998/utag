@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:05.965832+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aeee5458-b021-4717-bf25-d76aa0cffc11",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "04fbc83a-0f9a-4374-bd98-45a312b3d492",
+  "input": "{\"title\": \"Friends\", \"release_type\": \"album\", \"release_year\": 1971}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

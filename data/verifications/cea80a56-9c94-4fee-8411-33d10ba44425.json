@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:15.664484+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a31d82dc-54d2-4293-8f2d-a0d201eac65c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cea80a56-9c94-4fee-8411-33d10ba44425",
+  "input": "{\"title\": \"Woke Up in Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Woke Up in Love'",
+  "status": "verified"
+}

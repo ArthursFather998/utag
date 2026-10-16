@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:34.516331+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d3e11cb-4c48-4805-9b8c-7658f3537547",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b363b630-d9ae-4768-a7a5-9c18e22d3e4a",
+  "input": "{\"title\": \"My Saving Grace\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Charmbracelet'",
+  "status": "verified"
+}

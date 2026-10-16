@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:14.245092+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d40ee12-d100-4ebf-8ed1-d0d314471c0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f798be1-181c-4a73-acd3-26ceed2840c3",
+  "input": "{\"title\": \"Whodie\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Whodie'",
+  "status": "verified"
+}

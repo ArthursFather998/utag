@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:07.064326+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6d68ca1-6348-42fd-be76-67c29e72801d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2cbf4099-1461-474a-8ed1-df5c199e9f6a",
+  "input": "{\"title\": \"Striptease\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'All American Nightmare'",
+  "status": "verified"
+}

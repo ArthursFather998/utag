@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:10.114853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1798467b-c3f7-4f97-9dfa-9467d14c5663",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ccec5855-65a8-4707-aa3c-29a29166c6c9",
+  "input": "{\"title\": \"One of Them Ones\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Coming Home'",
+  "status": "verified"
+}

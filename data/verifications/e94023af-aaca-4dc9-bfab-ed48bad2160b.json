@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:58.859002+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e0f253f-aa57-4f52-ab3c-c272cfbbb9b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e94023af-aaca-4dc9-bfab-ed48bad2160b",
+  "input": "{\"title\": \"Into the Sun\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Into the Sun'",
+  "status": "verified"
+}

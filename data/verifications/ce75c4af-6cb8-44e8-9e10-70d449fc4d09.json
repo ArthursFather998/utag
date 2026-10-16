@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:29.099702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38e6f2bd-e316-47bb-827b-a92743614cd2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce75c4af-6cb8-44e8-9e10-70d449fc4d09",
+  "input": "{\"title\": \"Dust My Blues (Live)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Green Shadows: Classics and Rarities Featuring Peter Green'",
+  "status": "verified"
+}

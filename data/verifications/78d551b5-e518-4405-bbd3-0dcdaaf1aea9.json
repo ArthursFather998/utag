@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:07.551088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83528619-c3e3-439b-b379-d05dcbd40d69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78d551b5-e518-4405-bbd3-0dcdaaf1aea9",
+  "input": "{\"title\": \"La Carcacha\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Live! The Last Concert'",
+  "status": "verified"
+}

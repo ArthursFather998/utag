@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:23.663416+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f16e320d-b930-41af-90b4-2fe5abe3f0c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53194660-168d-4024-8e89-95b6102d34f7",
+  "input": "{\"title\": \"Sentimental Lady\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Best of Fleetwood Mac 1969-1974'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:21.645344+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5dc7630b-f9ca-487b-91de-f5c65a75411d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f897ab80-215c-4660-8d23-30f3b8a0e5ab",
+  "input": "{\"title\": \"Unforgettable\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Thank Me Later'",
+  "status": "verified"
+}

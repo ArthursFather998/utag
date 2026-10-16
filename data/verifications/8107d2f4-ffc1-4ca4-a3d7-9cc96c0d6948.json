@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:40.57752+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c7015b5-c7a6-4640-9570-6d69a1855129",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8107d2f4-ffc1-4ca4-a3d7-9cc96c0d6948",
+  "input": "{\"title\": \"Babydoll\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

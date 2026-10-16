@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:03.822527+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d4b7cbe-1ced-46bc-8743-b1acab7b7fac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ba48551-410e-4c5a-999d-d7d3b4dce5a1",
+  "input": "{\"title\": \"Sweater Weather\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sweater Weather'",
+  "status": "verified"
+}

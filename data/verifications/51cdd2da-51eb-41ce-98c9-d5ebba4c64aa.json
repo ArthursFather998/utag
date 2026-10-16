@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:36.46658+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f5fe009-30f5-45ee-a216-71cabf4c2e4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51cdd2da-51eb-41ce-98c9-d5ebba4c64aa",
+  "input": "{\"title\": \"Bally\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bally'",
+  "status": "verified"
+}

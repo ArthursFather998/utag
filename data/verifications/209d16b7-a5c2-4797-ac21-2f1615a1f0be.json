@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:45.986062+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f612f37-129a-43e2-a0b3-7b3e0846981c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "209d16b7-a5c2-4797-ac21-2f1615a1f0be",
+  "input": "{\"title\": \"What Ya Gonna Do\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'All American Nightmare'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:05.078199+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5003a94e-f3a3-40b3-9b30-40bd03131865",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0bcb6ad4-b5c0-43d0-b41d-18f511a9c55c",
+  "input": "{\"title\": \"Now I'm Here\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Queen on Fire - Live at the Bowl'",
+  "status": "verified"
+}

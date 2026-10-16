@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:29.32548+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c1970b7-20ad-4dda-85d3-8fca616af87b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a12d1db-4f0c-46b7-993c-2d417c9458e9",
+  "input": "{\"title\": \"Summer Bummer\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Summer Bummer'",
+  "status": "verified"
+}

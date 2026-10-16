@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:14.439703+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "785aaf71-bc1b-44c1-86b0-5d63ea753dbd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e337cfdb-72e3-4fc1-a8e3-12dd1c83efd3",
+  "input": "{\"title\": \"Champagne Town\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '9'",
+  "status": "verified"
+}

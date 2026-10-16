@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:20.978846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a8cec16c-a528-4ffa-866d-089c41992410",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f415665-45a6-4a38-adff-6b2504341833",
+  "input": "{\"title\": \"No One (Jony Rockstar Mix)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Remixed'",
+  "status": "verified"
+}

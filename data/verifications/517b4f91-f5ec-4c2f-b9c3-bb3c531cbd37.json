@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:23.188552+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f11e348-d777-4154-ba0e-3f72d5d85c26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "517b4f91-f5ec-4c2f-b9c3-bb3c531cbd37",
+  "input": "{\"title\": \"The Chain\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Rumours Live'",
+  "status": "verified"
+}

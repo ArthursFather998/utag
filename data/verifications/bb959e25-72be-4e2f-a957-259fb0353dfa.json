@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:39.503421+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01d61033-f964-4a45-99eb-0c326dd3958f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb959e25-72be-4e2f-a957-259fb0353dfa",
+  "input": "{\"title\": \"Wanted U\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Ballads 1'",
+  "status": "verified"
+}

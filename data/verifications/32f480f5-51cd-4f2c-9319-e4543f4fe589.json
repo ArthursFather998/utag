@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:51.697058+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfbe97be-0904-4bdd-8a5d-b9f3b814475a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32f480f5-51cd-4f2c-9319-e4543f4fe589",
+  "input": "{\"title\": \"Chase the Night Away\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Cause and Effect'",
+  "status": "verified"
+}

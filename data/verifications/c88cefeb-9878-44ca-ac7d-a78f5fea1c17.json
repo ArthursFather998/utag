@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:55.947357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d14a9c8-f010-4465-8ae9-bb9d06413682",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c88cefeb-9878-44ca-ac7d-a78f5fea1c17",
+  "input": "{\"title\": \"Dame Tu Amor\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Alpha'",
+  "status": "verified"
+}

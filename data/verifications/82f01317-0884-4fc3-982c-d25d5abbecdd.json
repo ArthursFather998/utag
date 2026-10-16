@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:04.632079+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64de0c69-fb4f-414c-85b7-cd3c7ec62176",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "82f01317-0884-4fc3-982c-d25d5abbecdd",
+  "input": "{\"title\": \"The Real Uzi\", \"release_type\": \"album\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

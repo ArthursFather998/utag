@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:58.815687+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c27b45e9-c2f0-470f-b51e-bdc0c0ae4e85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "70b21766-aca2-4c9a-8f1c-28d2182ec5e4",
+  "input": "{\"title\": \"Hamburg Song\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Under the Iron Sea'",
+  "status": "verified"
+}

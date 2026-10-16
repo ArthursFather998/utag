@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:56.697897+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33d9fd1d-fe79-4acf-b038-36b0ba98cb70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c68b926-fe2a-4656-9ba0-f1c11d45535f",
+  "input": "{\"title\": \"We Might as Well Be Strangers (Live at Largo, Los Angeles, CA / 2008)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live At Largo (Los Angeles)'",
+  "status": "verified"
+}

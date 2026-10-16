@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:44.591723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bfb16663-9d6f-4741-acba-7b1c5cdf5216",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "538ddaaf-631a-4c2a-8f37-c1cd6fa9c551",
+  "input": "{\"title\": \"E.T.A.\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Changes'",
+  "status": "verified"
+}

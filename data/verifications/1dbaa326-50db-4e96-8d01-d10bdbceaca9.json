@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:01.144786+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f51bf19f-1a6f-448d-a137-184bc28dbddf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1dbaa326-50db-4e96-8d01-d10bdbceaca9",
+  "input": "{\"title\": \"30 TILL MIDNIGHT\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '30 TILL MIDNIGHT'",
+  "status": "verified"
+}

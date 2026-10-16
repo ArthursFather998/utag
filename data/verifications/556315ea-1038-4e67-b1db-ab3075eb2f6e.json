@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:58.163614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f636b450-bb12-4513-9cb1-24414baf788b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "556315ea-1038-4e67-b1db-ab3075eb2f6e",
+  "input": "{\"title\": \"Thanos (Blow It)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Thanos (Blow It)'",
+  "status": "verified"
+}

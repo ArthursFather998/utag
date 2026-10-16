@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:58.810291+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c2303d01-8528-4daf-826e-e01a4197d20b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01b41e30-1d8e-4fe4-8123-d167873d761b",
+  "input": "{\"title\": \"Christmas Island\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Dawn of Grace'",
+  "status": "verified"
+}

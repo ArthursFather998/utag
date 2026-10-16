@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:28.351656+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0752ae7c-1bf9-46aa-8c49-10cc385b75e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b93bef13-4519-4fdd-90a0-2fdd0a37f6de",
+  "input": "{\"title\": \"Liars and Monsters\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Escape the Fate (Deluxe Version)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:52.512681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "176f6695-b15c-4a96-95ef-f71d33da56b2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1663c1a8-6369-4d6f-99da-8630f9032b38",
+  "input": "{\"title\": \"Flannel\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

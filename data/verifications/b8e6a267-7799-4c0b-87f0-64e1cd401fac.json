@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:31.122079+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46952301-001a-4964-adeb-842efc7d3fe1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8e6a267-7799-4c0b-87f0-64e1cd401fac",
+  "input": "{\"title\": \"Do Me a Favour\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live at the Royal Albert Hall'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:34.042633+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb52d3be-c7d0-44f9-b558-12b676c63eba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "930788b1-e4fc-4878-8195-839c41fc8b82",
+  "input": "{\"title\": \"Fireflies\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fireflies'",
+  "status": "verified"
+}

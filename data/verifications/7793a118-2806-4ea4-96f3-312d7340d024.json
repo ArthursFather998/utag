@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:39.868529+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "917f6b92-1283-48e3-bb7b-17568b1153f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7793a118-2806-4ea4-96f3-312d7340d024",
+  "input": "{\"title\": \"My Love\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Selena'",
+  "status": "verified"
+}

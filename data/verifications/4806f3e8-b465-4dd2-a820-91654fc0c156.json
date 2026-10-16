@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:30.917619+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcdd0b6e-9aa5-4df6-b02e-4d722612b308",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4806f3e8-b465-4dd2-a820-91654fc0c156",
+  "input": "{\"title\": \"Spotify Sessions\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:13.763206+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "727bd036-d94c-4f38-8895-b938c3726e06",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a5d471fd-eaf0-4960-8633-eea3a6f71c94",
+  "input": "{\"title\": \"Genesis (Deluxe)\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

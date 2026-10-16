@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:19.09855+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c392fd38-0e2e-4397-bbc3-5ad4d70e5f5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4f2f728-2774-4ae0-9688-479628671488",
+  "input": "{\"title\": \"We Went Wild\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Mighty + Into the Sun'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:37.5187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac7119ba-c44e-4c7e-a997-68a7bacd8718",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e04462cc-888e-4c06-97b7-6c1d4148c2ee",
+  "input": "{\"title\": \"Girlfriend\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

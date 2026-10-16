@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:52.659155+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3e2a0d6-a434-4780-abd4-64e5e05ecd43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a416854-8374-4dde-92f3-dcd47b1b652c",
+  "input": "{\"title\": \"Our Last Days\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Helios'",
+  "status": "verified"
+}

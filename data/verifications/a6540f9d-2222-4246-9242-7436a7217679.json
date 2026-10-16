@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:25.563025+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1bceb3b9-66b3-4b6a-a208-ac7c4c486930",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a6540f9d-2222-4246-9242-7436a7217679",
+  "input": "{\"title\": \"Euphraxia\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'See.SZA.Run'",
+  "status": "verified"
+}

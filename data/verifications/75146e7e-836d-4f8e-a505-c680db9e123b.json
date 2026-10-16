@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:31.420792+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b75c2227-eb57-4f09-b2bf-0ad5aa3bf9bf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "75146e7e-836d-4f8e-a505-c680db9e123b",
+  "input": "{\"title\": \"How Come You Don't Call Me\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

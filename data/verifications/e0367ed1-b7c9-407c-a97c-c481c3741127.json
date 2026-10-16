@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:36.275549+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8be28ea0-6e96-4357-8e58-dfe43ce854a6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e0367ed1-b7c9-407c-a97c-c481c3741127",
+  "input": "{\"title\": \"Ready Boy & Girls?\", \"release_type\": \"album\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

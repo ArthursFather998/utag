@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:17.126837+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43a8e419-6c9b-416b-b315-d64eec971393",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5cce21b-69f5-4a3f-b11e-e262616d0274",
+  "input": "{\"title\": \"A Boy Like That\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Selena: The Original Motion Picture Soundtrack'",
+  "status": "verified"
+}

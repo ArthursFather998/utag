@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:42.261311+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b56b4af2-e137-48d5-bff1-374b7016c75b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d3ef7fc-2d27-4efe-923a-1236d39a992f",
+  "input": "{\"title\": \"Do You Recall\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Evolution'",
+  "status": "verified"
+}

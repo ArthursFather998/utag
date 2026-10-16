@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:08.490471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e52a979-3876-4cdb-ae47-5e1fe23b1c39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b96a3597-f26e-4dcc-a712-cf76e671dfb6",
+  "input": "{\"title\": \"Storms\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Tusk'",
+  "status": "verified"
+}

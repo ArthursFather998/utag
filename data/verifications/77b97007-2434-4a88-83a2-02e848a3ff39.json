@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:05.251265+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e485dcbd-b47b-47f1-99a2-df47ad254859",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77b97007-2434-4a88-83a2-02e848a3ff39",
+  "input": "{\"title\": \"4 Me\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Love Sick (Deluxe)'",
+  "status": "verified"
+}

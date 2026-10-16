@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:33.878444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e92a2cd8-6263-4fc8-8671-2b9857b3784c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88b4529c-ccb2-4693-95e2-84b23fcff878",
+  "input": "{\"title\": \"Stop Myself (Only Human)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Only Human (Special Edition)'",
+  "status": "verified"
+}

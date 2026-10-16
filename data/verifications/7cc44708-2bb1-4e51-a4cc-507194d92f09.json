@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:41.352707+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb9085d9-9ede-4caf-b096-68a5ba126b65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cc44708-2bb1-4e51-a4cc-507194d92f09",
+  "input": "{\"title\": \"Disc 1 - Movin' Away\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

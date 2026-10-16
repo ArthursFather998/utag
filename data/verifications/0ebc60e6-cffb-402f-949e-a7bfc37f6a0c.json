@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:21.866903+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa67743e-b067-4e34-a1fa-57c9a2276cf1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ebc60e6-cffb-402f-949e-a7bfc37f6a0c",
+  "input": "{\"title\": \"The Old Crowd\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Best of Lesley Gore: Sunshine, Lollipops & Rainbows'",
+  "status": "verified"
+}

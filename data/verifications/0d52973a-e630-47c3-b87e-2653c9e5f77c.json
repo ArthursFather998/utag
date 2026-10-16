@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:26.461004+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2323d59e-f2bb-4bdc-afae-1313d3c14237",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d52973a-e630-47c3-b87e-2653c9e5f77c",
+  "input": "{\"title\": \"Lights\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Greatest Hits Live'",
+  "status": "verified"
+}

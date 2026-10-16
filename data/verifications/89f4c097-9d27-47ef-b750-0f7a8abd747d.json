@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:16.42979+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c82c9495-238f-41bb-9962-8e461027c922",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89f4c097-9d27-47ef-b750-0f7a8abd747d",
+  "input": "{\"title\": \"Sarah Smiles\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Vices & Virtues'",
+  "status": "verified"
+}

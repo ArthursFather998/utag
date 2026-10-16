@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:09.101021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ae805e5-e91b-4707-9390-6856c673a568",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "815cc10f-451d-46a0-aa4d-75c509cad297",
+  "input": "{\"title\": \"Broken Glass\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Transit of Venus'",
+  "status": "verified"
+}

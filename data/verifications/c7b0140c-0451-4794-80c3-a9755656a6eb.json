@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:18.477186+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e92ed5ee-26b2-47ad-bc4b-fa06958e7904",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c7b0140c-0451-4794-80c3-a9755656a6eb",
+  "input": "{\"title\": \"Lose You\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'More Life'",
+  "status": "verified"
+}

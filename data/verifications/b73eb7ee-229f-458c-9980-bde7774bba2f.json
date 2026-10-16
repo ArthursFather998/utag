@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:27.445494+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd3a07d6-b65a-4ad4-88c6-876f53d9abd2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b73eb7ee-229f-458c-9980-bde7774bba2f",
+  "input": "{\"title\": \"Crystal Ball\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Best of Keane'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:27.169288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0db08d36-eda3-4bd9-9640-c5dd6460ad4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c3badee-9aea-467c-9db9-e9bc4c5b1d96",
+  "input": "{\"title\": \"Upgrade\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Nectar'",
+  "status": "verified"
+}

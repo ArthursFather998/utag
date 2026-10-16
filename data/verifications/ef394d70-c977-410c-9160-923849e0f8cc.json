@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:01.498679+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a58a7f1-1ad0-4d2e-b8f4-a1d456f18f15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef394d70-c977-410c-9160-923849e0f8cc",
+  "input": "{\"title\": \"Silent Teacher\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'With Arms Wide Open: A Retrospective'",
+  "status": "verified"
+}

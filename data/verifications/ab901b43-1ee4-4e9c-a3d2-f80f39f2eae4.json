@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:55.212762+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f23904b-9d2a-4ff9-9e4a-187d2513166c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab901b43-1ee4-4e9c-a3d2-f80f39f2eae4",
+  "input": "{\"title\": \"Can You Feel the Love Tonight\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Can You Feel the Love Tonight'",
+  "status": "verified"
+}

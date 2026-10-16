@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:37.611316+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc0883b1-0d26-4e27-a695-ed1adc12f7a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "361c790a-ee6e-49c6-ae7c-c263399745f3",
+  "input": "{\"title\": \"Aaahh Men!\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Vie'",
+  "status": "verified"
+}

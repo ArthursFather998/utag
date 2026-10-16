@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:08.857147+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4a7e8d9-af5a-4cb0-803a-3a94465da80b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa7c4924-e9de-49ce-8d5d-64edf76a2781",
+  "input": "{\"title\": \"Silver Springs\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of '25 Years – The Chain'",
+  "status": "verified"
+}

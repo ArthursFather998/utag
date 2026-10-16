@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:32.023976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e4ce549-6781-4398-bb88-58f3295b96ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7be7412b-a7cd-46a8-8b82-423edf46cc0e",
+  "input": "{\"title\": \"Blue Eyes\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Greatest Hits 1970–2002'",
+  "status": "verified"
+}

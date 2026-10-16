@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:33.694129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1e9a019-7fda-4cda-ab64-3bd21cac1a3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c03eef08-c81b-4127-a6b0-be473113f8c1",
+  "input": "{\"title\": \"Berzerk\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Curtain Call 2'",
+  "status": "verified"
+}

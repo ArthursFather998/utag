@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:42.883771+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ce53c8e-5153-4129-a167-4cdaefbf6a15",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "499fed4b-fdf6-4f0c-b87c-1130d6f3256c",
+  "input": "{\"title\": \"Middle of Somewhere\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

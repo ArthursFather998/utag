@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:14.810648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f1702f3-28d7-4ea0-9ef2-81ad47c29521",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f09edd2-833a-4b5f-85ff-61f240dac641",
+  "input": "{\"title\": \"I'm Over You\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Highway Desperado'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:43.726169+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6ada1ee-82b7-4443-a4d5-33919d106b48",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28c338bd-7ffb-474c-b4bc-5824ba1f0147",
+  "input": "{\"title\": \"Selfish Girl\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'A Girl Like Me (Deluxe Edition)'",
+  "status": "verified"
+}

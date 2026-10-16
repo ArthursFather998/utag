@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:19.600865+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "title->Until I Found You (Em Beihold Version)"
+    ],
+    "verdict": "fix_title"
+  },
+  "entity_id": "e6e57362-abe8-46f6-8966-fae1f2f63659",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "c2afc2ee-17e5-402e-b340-c1d742240d56",
+  "input": {
+    "artist": "Stephen Sanchez, Em Beihold",
+    "release": "Angel Face (Club Deluxe)",
+    "title": "Until I Found You (with Em Beihold) - Em Beihold Version"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Official title is 'Until I Found You (Em Beihold Version)' (Discogs, Qobuz, YouTube UMG auto-generated); it was released as a standalone single on 2022-04-22, not on Angel Face (Club Deluxe) 2024. | sources: https://www.discogs.com/release/25973473-Stephen-Sanchez-Em-Beihold-Until-I-Found-You-Em-Beihold-Version, https://www.qobuz.com/us-en/album/until-i-found-you-em-beihold-stephen-sanchez/g7jjg1idc8h7a",
+  "status": "verified"
+}

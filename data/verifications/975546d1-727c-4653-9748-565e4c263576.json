@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:14.982063+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b731e67-47c0-46da-aba3-49fe3c2b37dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "975546d1-727c-4653-9748-565e4c263576",
+  "input": "{\"title\": \"Whisper\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'The Ultimate Collection'",
+  "status": "verified"
+}

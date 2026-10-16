@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:07.720464+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55630e12-734b-43c9-b85c-88e8df9d92f5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "20da5809-7fe6-40f9-b07b-73ca75171ef1",
+  "input": "{\"title\": \"Lift Me Up\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

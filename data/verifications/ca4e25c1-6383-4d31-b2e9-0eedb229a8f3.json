@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:29.204928+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e81fb498-55ba-43db-b1e9-074d48480d6c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ca4e25c1-6383-4d31-b2e9-0eedb229a8f3",
+  "input": "{\"title\": \"I Am an Outsider\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

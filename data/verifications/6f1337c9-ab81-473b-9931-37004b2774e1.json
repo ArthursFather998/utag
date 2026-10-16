@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:56.129657+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e37e8068-9f80-4e78-9fc2-0e7514f2dc2e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f1337c9-ab81-473b-9931-37004b2774e1",
+  "input": "{\"title\": \"Allure\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Allure'",
+  "status": "verified"
+}

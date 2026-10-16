@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:23.045879+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ddad671-8a79-42d3-b679-e97c5dcac9a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ba3f9b6-2225-4c00-aba6-60c0ab252018",
+  "input": "{\"title\": \"Don't Fence Me In\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Fence Me In'",
+  "status": "verified"
+}

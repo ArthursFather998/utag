@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:02.482118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3486442d-75db-4cab-89e9-0a2694a89db8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60f12e4f-cfbf-40ae-959f-7bd1c73c36b0",
+  "input": "{\"title\": \"Curtains Up\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Encore'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:23.190413+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48dc28a3-0c2b-4f1c-81e0-38ac9b5bb199",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f67b4e6b-058a-432a-b655-4dbf2025f7b5",
+  "input": "{\"title\": \"Changing Bars\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Highway Desperado'",
+  "status": "verified"
+}

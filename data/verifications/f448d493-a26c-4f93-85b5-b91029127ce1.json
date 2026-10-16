@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:21.870867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ee61dc0-03e1-4375-b8af-1edaac379958",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f448d493-a26c-4f93-85b5-b91029127ce1",
+  "input": "{\"title\": \"The Only Heartbreaker\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Laurel Hell'",
+  "status": "verified"
+}

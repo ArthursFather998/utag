@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:02.837899+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f2e00ba-acd7-4b89-98d9-63d68c22f4f9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f32466be-2072-4b9b-b6bc-073afd6238b7",
+  "input": "{\"title\": \"Got's My Own\", \"release_type\": \"single\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

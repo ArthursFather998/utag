@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:10.912914+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99471a4e-fee2-4be8-be74-689d95db8a25",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3b1d858-cae4-431d-82dd-c4c1b3e48768",
+  "input": "{\"title\": \"When I Lie\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Everybody's Everything'",
+  "status": "verified"
+}

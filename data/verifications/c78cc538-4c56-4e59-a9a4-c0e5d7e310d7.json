@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:15.119315+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab6edf6d-cff5-4a45-939c-2a765bd8f17c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c78cc538-4c56-4e59-a9a4-c0e5d7e310d7",
+  "input": "{\"title\": \"Black Magic Woman\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Black Magic Woman'",
+  "status": "verified"
+}

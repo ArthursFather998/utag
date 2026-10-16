@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:23.314636+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7a19191-6c4c-4248-a19b-3661205a36e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06f42352-0f4e-45b5-9706-925b6dee8e64",
+  "input": "{\"title\": \"Fast Talkin' Woman Blues\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Show-Biz Blues: Fleetwood Mac 1968–1970'",
+  "status": "verified"
+}

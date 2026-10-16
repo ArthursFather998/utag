@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:02.373473+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b7ea145-66e2-4320-a21c-8417390c6cd0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28cbe32c-68a2-4dd6-8b37-85dcd0e80f09",
+  "input": "{\"title\": \"The Show Must Go On\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live in Ukraine'",
+  "status": "verified"
+}

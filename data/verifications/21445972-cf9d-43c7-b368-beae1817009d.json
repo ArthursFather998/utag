@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:27.770809+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3cda10f-cc08-4a23-a2bc-0cff3512335d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21445972-cf9d-43c7-b368-beae1817009d",
+  "input": "{\"title\": \"Wonder Boy\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Best of Lesley Gore: Sunshine, Lollipops & Rainbows'",
+  "status": "verified"
+}

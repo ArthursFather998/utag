@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:43.772488+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "152e0181-766f-41ab-8a57-e9a373766604",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "adde938e-1c89-4193-be6d-556df9f8b1d8",
+  "input": "{\"title\": \"Favorite Record\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'American Beauty/American Psycho'",
+  "status": "verified"
+}

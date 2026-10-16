@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:21.611861+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3478c01-53be-4920-89e5-db6fdc8305dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a95e84e4-4478-49ac-be9c-d26f25642494",
+  "input": "{\"title\": \"Prepare Your Weapon\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Escape the Fate (Deluxe Version)'",
+  "status": "verified"
+}

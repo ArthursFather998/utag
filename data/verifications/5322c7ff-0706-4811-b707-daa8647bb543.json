@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:29.547+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef27dcc1-537e-4be7-af85-843e78414e5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5322c7ff-0706-4811-b707-daa8647bb543",
+  "input": "{\"title\": \"Streets\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Hot Pink'",
+  "status": "verified"
+}

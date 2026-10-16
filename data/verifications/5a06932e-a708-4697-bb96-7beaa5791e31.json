@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:54.665484+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81edf08b-b2fa-41e3-9bfe-ef4d10fd821c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a06932e-a708-4697-bb96-7beaa5791e31",
+  "input": "{\"title\": \"Cry Alone\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Come Over When You're Sober, Pt. 2 (OG Version)'",
+  "status": "verified"
+}

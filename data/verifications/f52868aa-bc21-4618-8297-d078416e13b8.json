@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:25.5426+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3027b6f-5133-4daa-95c2-ee3f26e19b2b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f52868aa-bc21-4618-8297-d078416e13b8",
+  "input": "{\"title\": \"1993\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Revenge of the Dreamers III'",
+  "status": "verified"
+}

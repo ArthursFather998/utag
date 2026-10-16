@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:45.245144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "768a963c-d954-449e-b5a7-81e340f9d85c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "18fc6a58-2c4d-4a16-ad78-5ffdcfa483d0",
+  "input": "{\"title\": \"girlfriend is better\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

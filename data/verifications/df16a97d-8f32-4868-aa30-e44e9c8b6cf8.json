@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:50.188293+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "313188af-609f-43b3-80b5-fb18b7c0916e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df16a97d-8f32-4868-aa30-e44e9c8b6cf8",
+  "input": "{\"title\": \"Disco Medley\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'All My Hits: Todos Mis Éxitos'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:26.433977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70665f52-2d7b-412f-931c-7dbed803d4b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "513df77e-e82c-4e35-b3ee-a5a315cdbfc6",
+  "input": "{\"title\": \"Mr. Crowley\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Rest of the Best - Vol. 1'",
+  "status": "verified"
+}

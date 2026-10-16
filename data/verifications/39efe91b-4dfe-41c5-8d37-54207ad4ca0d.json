@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:39.765696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19c2c22c-df0e-4f5b-88d8-971d416c9ed4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39efe91b-4dfe-41c5-8d37-54207ad4ca0d",
+  "input": "{\"title\": \"2 B Loved\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Unbreakable'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:34.550451+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ef022bd-7de8-4b00-874b-57426f1e7dcb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce9e21e0-60cb-4265-b04d-d94a2b562031",
+  "input": "{\"title\": \"Never Going Back Again\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Rumours'",
+  "status": "verified"
+}

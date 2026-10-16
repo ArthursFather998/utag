@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:19.829304+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e63db587-eb83-4753-81a8-f7b76a0d10b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d0f7769-9f25-4401-b854-fc088b470d0e",
+  "input": "{\"title\": \"The Weekend\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Weekend'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:49.057113+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73502410-8436-4ea2-9b3d-3af1f0f65402",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "946382c8-0742-4286-8df3-8db5ed7a7f8f",
+  "input": "{\"title\": \"Greatest Hits in Japan\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

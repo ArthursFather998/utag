@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:51.287582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00088162-0ab0-4b2c-872a-ead1d5697c2e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1f16d6d3-55fa-4453-ae83-e984393ab261",
+  "input": "{\"title\": \"Hades\", \"release_type\": \"album\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

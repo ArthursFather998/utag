@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:43.055697+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ee4f56f-d05d-4164-9438-6253173e0732",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b0a3ac9-0368-4b9d-a637-997e9d86cdba",
+  "input": "{\"title\": \"Bennie and the Jets\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Elton John One Night Only – The Greatest Hits'",
+  "status": "verified"
+}

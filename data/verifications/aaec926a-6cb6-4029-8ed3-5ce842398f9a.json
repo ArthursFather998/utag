@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:53.632726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eee84a23-3b61-453b-9ed8-7ace6102c312",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aaec926a-6cb6-4029-8ed3-5ce842398f9a",
+  "input": "{\"title\": \"2nite\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Discipline'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:54.568045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e54f12d7-6c97-4f36-8086-f4a1ec8547b9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5930d3aa-fad1-4a32-95fe-4bac7869f62f",
+  "input": "{\"title\": \"A Kind of Magic\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The 12\" Collection'",
+  "status": "verified"
+}

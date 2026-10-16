@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:08.391767+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ded193d-9e2d-47a8-bc8c-6e6013193b69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8895d058-f0d9-4be9-9797-56b430c43990",
+  "input": "{\"title\": \"Rush (featuring Kardinal Offishall)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '3 CD Collector's Set'",
+  "status": "verified"
+}

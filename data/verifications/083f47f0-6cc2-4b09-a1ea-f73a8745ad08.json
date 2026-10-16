@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:40.294597+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8837fdb-1154-40a2-8673-1ae47a6fe07b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "083f47f0-6cc2-4b09-a1ea-f73a8745ad08",
+  "input": "{\"title\": \"More than Just Friends\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Memoirs of an Imperfect Angel'",
+  "status": "verified"
+}

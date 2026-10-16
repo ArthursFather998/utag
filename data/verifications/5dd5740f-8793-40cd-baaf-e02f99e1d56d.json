@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:12.418736+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c6b62ac-f7ff-4142-998b-f8b9e249e702",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5dd5740f-8793-40cd-baaf-e02f99e1d56d",
+  "input": "{\"title\": \"Theme (The First Kiss)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Friends'",
+  "status": "verified"
+}

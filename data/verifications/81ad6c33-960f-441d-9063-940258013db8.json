@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:57.805943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c2d3c05-438b-48ad-a2d7-f48b208fae2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81ad6c33-960f-441d-9063-940258013db8",
+  "input": "{\"title\": \"Superhero\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Superhero'",
+  "status": "verified"
+}

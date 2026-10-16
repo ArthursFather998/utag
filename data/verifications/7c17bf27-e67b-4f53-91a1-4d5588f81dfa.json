@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:54.826858+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d4a264c-dde2-4576-a9ab-c622564ae876",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c17bf27-e67b-4f53-91a1-4d5588f81dfa",
+  "input": "{\"title\": \"Nearly Witches (Demo) - The Paul Revere Jumpsuit Apparatus AKA Panic! at the Disco\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Welcome to the New Administration'",
+  "status": "verified"
+}

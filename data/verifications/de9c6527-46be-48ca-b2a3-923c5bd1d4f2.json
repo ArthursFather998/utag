@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:56.089708+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f234699-b23e-47da-ae5d-c41e927f6d07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de9c6527-46be-48ca-b2a3-923c5bd1d4f2",
+  "input": "{\"title\": \"Just Might Get It\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'All Original Parts: Volume 1'",
+  "status": "verified"
+}

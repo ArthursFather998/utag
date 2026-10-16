@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:14.481877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b80c03d2-f716-4246-8e68-396190d5d875",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6094e19d-dd4d-4554-9a3b-31991160c609",
+  "input": "{\"title\": \"When I Think of You\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Trial by Fire'",
+  "status": "verified"
+}

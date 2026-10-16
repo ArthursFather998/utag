@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:07.933658+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee18d448-a6ed-4c97-b7b7-f4d168add751",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e2b25cfa-af42-4e71-a7e0-519196d03f96",
+  "input": "{\"title\": \"Fire We Make (duet with Maxwell)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Girl on Fire'",
+  "status": "verified"
+}

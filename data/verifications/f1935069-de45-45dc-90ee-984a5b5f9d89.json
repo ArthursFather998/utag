@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:37.798797+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2430eb4-1322-4fae-9c79-d467a001e719",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1935069-de45-45dc-90ee-984a5b5f9d89",
+  "input": "{\"title\": \"A Fool No More\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Original Fleetwood Mac'",
+  "status": "verified"
+}

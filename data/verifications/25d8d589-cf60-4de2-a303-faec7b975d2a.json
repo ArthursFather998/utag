@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:18.573622+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "32525b98-543e-4e2b-b250-32049d6b8de7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25d8d589-cf60-4de2-a303-faec7b975d2a",
+  "input": "{\"title\": \"Waltzing Back\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Treasure Box – The Complete Sessions 1991–1999'",
+  "status": "verified"
+}

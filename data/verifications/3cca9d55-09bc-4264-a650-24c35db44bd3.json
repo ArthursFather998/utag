@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:04.08218+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e902dd6c-4bf4-44f8-a71e-5421131bc51a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3cca9d55-09bc-4264-a650-24c35db44bd3",
+  "input": "{\"title\": \"Faded\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Comeback Season'",
+  "status": "verified"
+}

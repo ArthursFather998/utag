@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:58.069353+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3dc0a1c8-509c-4cce-bde2-dcdc0a392f19",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e7125bc3-1ca5-4655-935d-732ba14b730c",
+  "input": "{\"title\": \"Cocoa Hooves\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

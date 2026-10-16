@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:51.032214+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36c158c3-bd87-4c3c-83ef-7bd94dc61467",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c8cf1cd-e0cf-4e27-b9f1-6312bd9fda43",
+  "input": "{\"title\": \"Stop the Car\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Stop the Car'",
+  "status": "verified"
+}

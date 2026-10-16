@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:12.556819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9586c315-4a4b-46d7-b7e5-7e0c3031b33a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ab3a629-297f-47b7-8e80-491202f76e73",
+  "input": "{\"title\": \"Heat Waves\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Heat Waves (Expansion Pack)'",
+  "status": "verified"
+}

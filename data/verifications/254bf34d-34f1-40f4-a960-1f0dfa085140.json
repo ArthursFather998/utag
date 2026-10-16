@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:20.890435+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c2d743f-0a6a-4143-8014-0fbe530af8f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "254bf34d-34f1-40f4-a960-1f0dfa085140",
+  "input": "{\"title\": \"Lies\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Ultimate Collection'",
+  "status": "verified"
+}

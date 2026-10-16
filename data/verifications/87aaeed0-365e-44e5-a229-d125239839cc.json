@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:21.19905+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07ecc3af-a3bf-448c-900a-f01a88c2769b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "87aaeed0-365e-44e5-a229-d125239839cc",
+  "input": "{\"title\": \"Entropy\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

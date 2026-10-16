@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:32.262693+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "132225e0-fcc9-4621-8787-60501e809b5d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d12ea14a-f356-4529-97c7-1839a71f3006",
+  "input": "{\"title\": \"Peace Sign\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'A'",
+  "status": "verified"
+}

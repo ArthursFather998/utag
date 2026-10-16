@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:22.481724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41a6305b-3e59-4a37-97ff-c9bdd8d1aead",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa04d5ec-c911-472e-a8b6-dd8457d96a8a",
+  "input": "{\"title\": \"Sabes\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Preciosa'",
+  "status": "verified"
+}

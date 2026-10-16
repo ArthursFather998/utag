@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:39.840612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "198172e9-7d1d-4d66-b2a4-488044c46c1b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f182716e-3649-4dfb-8ac3-dcac33449f47",
+  "input": "{\"title\": \"Appaloosa Bones\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

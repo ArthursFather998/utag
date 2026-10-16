@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:02.411693+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f88ceb7-774d-42db-a7e4-c4b46e4772c6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3764db8f-7539-4609-82f8-968990601403",
+  "input": "{\"title\": \"Algo Es Mejor\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:21:49.653124+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8a26e52-bdee-46db-8c70-3bdc17cda89a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03f22c0f-1630-47a1-89c2-f44e10a3fc07",
+  "input": "{\"title\": \"Day Will Come\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Strangeland (Deluxe Edition)'",
+  "status": "verified"
+}

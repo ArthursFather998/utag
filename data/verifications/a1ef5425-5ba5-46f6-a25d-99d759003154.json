@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:02.596688+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff21abb5-0522-45c6-ac12-900a86cca595",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1ef5425-5ba5-46f6-a25d-99d759003154",
+  "input": "{\"title\": \"Love On You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Remedy'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:41.904594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f52d0157-fc8d-41d1-bb8f-7c7cb0a0295e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dc7af073-04f2-4cc1-b12e-ec860471e523",
+  "input": "{\"title\": \"Missing My Baby\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

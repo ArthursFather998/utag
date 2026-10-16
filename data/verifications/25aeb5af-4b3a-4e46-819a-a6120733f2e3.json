@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:44.60343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "100fd862-8229-485c-8637-023eafbb7695",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25aeb5af-4b3a-4e46-819a-a6120733f2e3",
+  "input": "{\"title\": \"Moon Theme\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Dream, After Dream'",
+  "status": "verified"
+}

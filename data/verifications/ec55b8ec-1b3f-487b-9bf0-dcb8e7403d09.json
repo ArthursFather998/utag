@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:07.707491+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9c12491-4c94-495e-a140-77434e767911",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec55b8ec-1b3f-487b-9bf0-dcb8e7403d09",
+  "input": "{\"title\": \"Long Lost\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Long Lost (Deluxe Edition)'",
+  "status": "verified"
+}

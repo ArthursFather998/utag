@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:02.708969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca923e92-8e35-4a35-bf5e-7604ad565c6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dde4a587-acbe-46ec-a8dc-999ebb2344eb",
+  "input": "{\"title\": \"I Get Lonely\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Care Package'",
+  "status": "verified"
+}

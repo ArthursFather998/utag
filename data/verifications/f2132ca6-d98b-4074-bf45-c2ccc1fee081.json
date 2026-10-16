@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:31.158168+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3636194e-e171-4df4-a3ed-f780b58af7a9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f2132ca6-d98b-4074-bf45-c2ccc1fee081",
+  "input": "{\"title\": \"Cole World: The Sideline Story\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

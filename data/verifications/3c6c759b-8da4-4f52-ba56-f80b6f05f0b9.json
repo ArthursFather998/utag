@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:44.816366+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55765e4c-1294-4ce9-a958-8300a4be343e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c6c759b-8da4-4f52-ba56-f80b6f05f0b9",
+  "input": "{\"title\": \"I Have Friends in Holy Spaces\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Pretty. Odd.'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:20.153144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6780d7e8-47c9-48ac-8dee-a7e6d22e3462",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eaa8b7bb-d774-4c34-8aa1-11abf72f26db",
+  "input": "{\"title\": \"The Ballad of Blind Tom\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Diving Board'",
+  "status": "verified"
+}

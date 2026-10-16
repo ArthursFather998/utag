@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:30.000053+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25cef016-529d-4565-b438-70d3f4fe2caf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e6e5ac1-10cf-42a7-b080-85366222027c",
+  "input": "{\"title\": \"Blood on My Jeans\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Legends Never Die'",
+  "status": "verified"
+}

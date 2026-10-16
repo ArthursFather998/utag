@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:01.103582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aab659eb-99da-4544-9499-9a2e15d29cb5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "571f9bd1-3fe7-450e-ae79-6b72fcce0f94",
+  "input": "{\"title\": \"beginnings\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:23.870414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02bbac8f-d2db-40b5-8e0f-f19d8a2d3faf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6cf6ce0e-6419-4655-af9b-541f248ceb0c",
+  "input": "{\"title\": \"Morning Light\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Amala (Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:58.044551+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f98c9bab-956f-4a42-bcdb-812054a2d8a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9482b68a-a549-4211-bc70-d38cda5158ef",
+  "input": "{\"title\": \"And I Was a Boy from School\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Ready Boy & Girls?'",
+  "status": "verified"
+}

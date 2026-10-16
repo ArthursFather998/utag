@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:27.532802+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3411e10-f2a3-4f2f-9232-5dbbbfbfb908",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d442b11-8cd7-43ba-8d1b-fcc750b62416",
+  "input": "{\"title\": \"Gimme the Prize (Kurgan's Theme)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'A Kind of Magic'",
+  "status": "verified"
+}

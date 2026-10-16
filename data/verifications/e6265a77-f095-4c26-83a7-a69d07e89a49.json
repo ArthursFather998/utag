@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:52.369803+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "903d644e-8322-4161-980f-b17d3ff4a0b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6265a77-f095-4c26-83a7-a69d07e89a49",
+  "input": "{\"title\": \"Troubled Child\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Frontiers'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:10.696799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da169a36-7c71-4e02-ae92-80ada5d0e95d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "afafab5c-3615-479f-9300-e8f0fafd37ae",
+  "input": "{\"title\": \"U Got It Bad (Soulpower Remix)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Essential Mixes'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:55.361722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3b4d102-9490-4a0b-8803-a9d788d69676",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6df9bbdb-fc38-4f7c-9fe0-04d88062f965",
+  "input": "{\"title\": \"Demon High\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Demon High'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:02.474814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb380603-7720-4d86-8ee6-4be602eb07ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e1af4d87-13be-4d09-a4e2-f561899b6c36",
+  "input": "{\"title\": \"Somebody Save Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Somebody Save Me'",
+  "status": "verified"
+}

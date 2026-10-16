@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:40.917313+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8441c329-4a7b-4d8f-b8c4-1f6151bccbea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54557ed3-8dec-4757-8856-6de45b3e5a1c",
+  "input": "{\"title\": \"Everybody Here Wants You\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'So Real: Songs from Jeff Buckley'",
+  "status": "verified"
+}

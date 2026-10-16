@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:33.787874+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77846c10-b815-485c-9fb0-6945b43bde60",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "91405955-fb99-461b-ba33-13e3875cda6a",
+  "input": "{\"title\": \"My Shadow\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Best of Keane'",
+  "status": "verified"
+}

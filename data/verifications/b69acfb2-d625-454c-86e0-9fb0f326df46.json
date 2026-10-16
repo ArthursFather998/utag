@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:52.534725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29cd5764-96e5-4d42-b942-c00067f098b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b69acfb2-d625-454c-86e0-9fb0f326df46",
+  "input": "{\"title\": \"The Sun Is Shining\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Vintage Years'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:55.815637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5349013-689a-4980-b0b4-3147891f26cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21a5c7db-02db-4382-87d1-c0dc9136a3b5",
+  "input": "{\"title\": \"Salty\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Tec'",
+  "status": "verified"
+}

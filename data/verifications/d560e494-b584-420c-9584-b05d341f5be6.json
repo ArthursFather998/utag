@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:26.29794+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ced3b3b7-0b99-4c09-910d-98227d579d5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d560e494-b584-420c-9584-b05d341f5be6",
+  "input": "{\"title\": \"Puede Ser\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Unforgettable: The Studio Album'",
+  "status": "verified"
+}

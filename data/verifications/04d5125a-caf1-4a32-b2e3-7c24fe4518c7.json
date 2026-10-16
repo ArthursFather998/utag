@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:32.217755+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f8b57c7-4b3d-4595-b13d-28e68ea969eb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "04d5125a-caf1-4a32-b2e3-7c24fe4518c7",
+  "input": "{\"title\": \"Umbrella\", \"release_type\": \"single\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

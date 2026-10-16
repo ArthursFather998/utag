@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:01.131309+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0570a39d-cc1d-4200-bca3-1ccf0bfd3e76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84a2f4cc-cf46-49b8-9d39-e455848c32c7",
+  "input": "{\"title\": \"Bennie and the Jets\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bennie and the Jets'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:07.877582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "385ede1b-5b20-4485-8393-a432a7b378f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e2dd4eb-15b7-4f43-8ac8-a33f23176d30",
+  "input": "{\"title\": \"Cookie Jar\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Amala (Deluxe)'",
+  "status": "verified"
+}

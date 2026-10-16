@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:14.761412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c313948c-48f5-448f-afff-e23b3a5c987e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21bbce93-1a4b-40f7-b940-3e741d5424b0",
+  "input": "{\"title\": \"Too Good to Say Goodbye\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of '24K Magic (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:24.220388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce49cf39-cd0c-4da6-bc1c-c5b7c1c9a4ab",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "43aa29a0-fd61-4e8c-8b94-9acaea2ace50",
+  "input": "{\"title\": \"U Turn\", \"release_type\": \"album\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

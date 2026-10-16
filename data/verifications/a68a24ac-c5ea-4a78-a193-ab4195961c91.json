@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:21.839424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17dbbe98-1577-437e-884a-1a48d1299cf2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a68a24ac-c5ea-4a78-a193-ab4195961c91",
+  "input": "{\"title\": \"One-X\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'One-X / Live at the Palace'",
+  "status": "verified"
+}

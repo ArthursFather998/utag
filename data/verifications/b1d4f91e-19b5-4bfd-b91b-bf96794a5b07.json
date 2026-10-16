@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:30.32884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0bd92878-5ef4-45c3-b670-7e1633826a8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1d4f91e-19b5-4bfd-b91b-bf96794a5b07",
+  "input": "{\"title\": \"Every Angel Is Terrifying\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Dawn FM'",
+  "status": "verified"
+}

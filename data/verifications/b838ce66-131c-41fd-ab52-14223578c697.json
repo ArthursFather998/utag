@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:28.338496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e266fdb0-f6a0-45dd-8fcb-b53fb4e66271",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b838ce66-131c-41fd-ab52-14223578c697",
+  "input": "{\"title\": \"Como la Flor\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

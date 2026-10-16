@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:08.416824+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ccde27c4-f3d5-43da-99e3-27dbe67441d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa34b9a8-0a1c-4ce7-affd-da468d128d8b",
+  "input": "{\"title\": \"Silenced by the Night\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Silenced by the Night'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:30.565846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f15ad087-fcf2-4cb4-9bc9-ba859ece5c69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "24b2161e-fc24-427f-8c18-aad9eaaba6fd",
+  "input": "{\"title\": \"Private Landing\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Love Sick'",
+  "status": "verified"
+}

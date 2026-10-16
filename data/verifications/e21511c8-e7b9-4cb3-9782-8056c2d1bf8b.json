@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:50.48428+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "205324aa-c1d9-47a9-b4c0-33ad1be06396",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e21511c8-e7b9-4cb3-9782-8056c2d1bf8b",
+  "input": "{\"title\": \"I Can't Live with You\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Innuendo'",
+  "status": "verified"
+}

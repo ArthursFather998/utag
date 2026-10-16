@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:50.963621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15ebe88d-5cf9-49a8-9f5c-ec198d055756",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b35705f-8e11-4188-9d94-2b8ed32566f3",
+  "input": "{\"title\": \"Futsal Shuffle 2020\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Futsal Shuffle 2020'",
+  "status": "verified"
+}

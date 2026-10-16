@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:59.53259+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f10bd851-0c51-4695-b817-1289f0cc46f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "467792e8-55be-4299-bf48-ee18a647a1dd",
+  "input": "{\"title\": \"It's Mostly Psychological\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Hurry Up Tomorrow (Original Motion Picture Score)'",
+  "status": "verified"
+}

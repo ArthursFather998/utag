@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:01.953823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d903af43-f6f8-42f4-8cd6-33a7a51fb8cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17b1118a-4d24-4ef4-bc97-d8fd2785fc8f",
+  "input": "{\"title\": \"Grace\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'So Real: Songs from Jeff Buckley'",
+  "status": "verified"
+}

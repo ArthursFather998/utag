@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:53.834455+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3192b64a-c6f8-42c3-84f1-bcfba9356de9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bdc73935-6e98-43de-88e3-5f3ac1fb8995",
+  "input": "{\"title\": \"Let Her Go\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Buried Treasure'",
+  "status": "verified"
+}

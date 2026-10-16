@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:06.652342+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4002df6-02f6-4cb8-a717-f9069482a79a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90464da4-7869-47ee-910c-a008ce2c2b52",
+  "input": "{\"title\": \"After the Fall\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'After the Fall'",
+  "status": "verified"
+}

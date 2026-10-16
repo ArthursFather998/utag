@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:37.680498+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42ca750c-0768-46e2-819e-065e20ff6721",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "24185f7a-6028-4052-8df1-1c51a5922bcf",
+  "input": "{\"title\": \"Call Me a Mack\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:24.33704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30cd1def-917f-4037-9cb4-f451a6a36e56",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74f4fa20-b400-4e1c-ba07-8df9aa853012",
+  "input": "{\"title\": \"Winter Wonderland (Sped Up)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'A Very Mei Mei Holiday!'",
+  "status": "verified"
+}

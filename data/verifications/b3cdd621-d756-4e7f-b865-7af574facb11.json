@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:25.365938+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67b9372a-bc8f-4255-a701-ff2e8c0d3f53",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3cdd621-d756-4e7f-b865-7af574facb11",
+  "input": "{\"title\": \"Happy to Give\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Raised on Radio'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:53:06.607103+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "169fd91a-1fe9-4ff6-94b5-0a30021f4d61",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f29a7a94-8027-40ca-9cc0-5f96aaf40939",
+  "input": "{\"title\": \"The Epilogue\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

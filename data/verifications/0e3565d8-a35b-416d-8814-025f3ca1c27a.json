@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:47.851904+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e32ae168-8343-43ec-8362-6a7f46501b66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e3565d8-a35b-416d-8814-025f3ca1c27a",
+  "input": "{\"title\": \"Do Me! (Smoothe)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'WBBD-Bootcity!: The Remix Album'",
+  "status": "verified"
+}

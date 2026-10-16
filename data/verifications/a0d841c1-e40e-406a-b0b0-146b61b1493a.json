@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:57.665364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6251576-96e4-4b3f-954d-e19812c6e9f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0d841c1-e40e-406a-b0b0-146b61b1493a",
+  "input": "{\"title\": \"I've Lost My Baby\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'English Rose'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:55.799286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c2c81227-5279-481f-9765-4837110a775f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b7882a9-e615-4436-8e2e-60eca684bc1d",
+  "input": "{\"title\": \"Mr. Hollywood\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Nectar'",
+  "status": "verified"
+}

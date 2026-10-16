@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:48.849067+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0438d1fe-5d6f-4391-91c9-4a331919bdc8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9f5db3f-cc4e-4738-b39d-063dfb0653c4",
+  "input": "{\"title\": \"Birthday\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Destiny's Child'",
+  "status": "verified"
+}

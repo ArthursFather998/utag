@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:40.890612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb068522-4a08-4fb5-9923-0e240a6b5679",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6699e64f-2402-42c7-a743-8a0313a57a8a",
+  "input": "{\"title\": \"Low Life\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Live at SoFi Stadium'",
+  "status": "verified"
+}

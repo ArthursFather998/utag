@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:58.860403+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4dce91ec-1225-4077-8858-5e455cf6bf2b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb83f3ca-e8e7-4d82-8a64-8fa0d234fefa",
+  "input": "{\"title\": \"Stan\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'STANS: The Official Soundtrack'",
+  "status": "verified"
+}

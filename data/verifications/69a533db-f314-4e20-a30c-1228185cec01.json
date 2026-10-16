@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:02.074493+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92f2db4b-663e-4f0c-931c-4bd19e3b5380",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69a533db-f314-4e20-a30c-1228185cec01",
+  "input": "{\"title\": \"Black Cat \\u2013 LP Version\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Black Cat: The Remixes'",
+  "status": "verified"
+}

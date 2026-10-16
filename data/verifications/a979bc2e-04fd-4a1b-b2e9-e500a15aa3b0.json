@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:50.502724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82b7c65d-4671-46ac-875f-bdeeb718a5c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a979bc2e-04fd-4a1b-b2e9-e500a15aa3b0",
+  "input": "{\"title\": \"Harmony\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Goodbye Yellow Brick Road'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:43.216019+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e05ddfad-9ffc-4fed-a9c0-095126276d7d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c8dacf3b-d57e-420a-901c-6c1c099f8ddf",
+  "input": "{\"title\": \"Goodbye My Love\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

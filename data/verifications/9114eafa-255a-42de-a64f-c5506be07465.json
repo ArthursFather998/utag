@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:15.41616+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a593cd9-9e9b-498f-bbdd-901bcb2dd43d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9114eafa-255a-42de-a64f-c5506be07465",
+  "input": "{\"title\": \"Still in Love\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

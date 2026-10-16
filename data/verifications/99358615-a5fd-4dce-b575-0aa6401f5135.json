@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:43.806953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e26afb52-b057-437c-8811-b56f5f2015f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99358615-a5fd-4dce-b575-0aa6401f5135",
+  "input": "{\"title\": \"Mona Lisas and Mad Hatters\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Honky Château'",
+  "status": "verified"
+}

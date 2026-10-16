@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:49.45791+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21baabc4-0820-4e02-b142-268a7fc63719",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e4656d9-9139-4604-af09-870662d4d707",
+  "input": "{\"title\": \"Christmas (Baby Please Come Home)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Merry Christmas (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

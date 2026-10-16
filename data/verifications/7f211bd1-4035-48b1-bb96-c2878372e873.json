@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:20.892534+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee6336fd-6f85-4546-8acd-df7da918aa84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f211bd1-4035-48b1-bb96-c2878372e873",
+  "input": "{\"title\": \"F.F.\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Red & White'",
+  "status": "verified"
+}

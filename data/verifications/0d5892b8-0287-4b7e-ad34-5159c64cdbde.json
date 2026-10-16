@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:26.309933+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b7e6823-97fd-48c5-b8f9-e34a59bcc824",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d5892b8-0287-4b7e-ad34-5159c64cdbde",
+  "input": "{\"title\": \"I Get Lonely\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Velvet Rope (Deluxe Edition)'",
+  "status": "verified"
+}

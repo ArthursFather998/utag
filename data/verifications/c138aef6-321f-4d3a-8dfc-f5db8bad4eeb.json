@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:49.186144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c58fbb65-9ffa-45d0-ab33-7ef8fd84a81d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c138aef6-321f-4d3a-8dfc-f5db8bad4eeb",
+  "input": "{\"title\": \"You Don't Know My Name\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'In Tokyo 2025'",
+  "status": "verified"
+}

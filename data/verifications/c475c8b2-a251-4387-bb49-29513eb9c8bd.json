@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:00.170524+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "952f2faa-33bb-435c-9829-3c1127a9b037",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c475c8b2-a251-4387-bb49-29513eb9c8bd",
+  "input": "{\"title\": \"Somebody Save Me\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

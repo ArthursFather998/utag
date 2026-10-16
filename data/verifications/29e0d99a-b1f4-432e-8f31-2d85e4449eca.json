@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:37.278497+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f6027fc2-43d8-49ec-a761-4e20acc97e6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29e0d99a-b1f4-432e-8f31-2d85e4449eca",
+  "input": "{\"title\": \"Anytime You Need a Friend\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Music Box: 30th Anniversary Edition'",
+  "status": "verified"
+}

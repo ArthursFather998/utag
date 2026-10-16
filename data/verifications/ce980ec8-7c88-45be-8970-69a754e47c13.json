@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:39.125072+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88041b95-7b04-4a4c-9a9c-1f06bb461bf0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce980ec8-7c88-45be-8970-69a754e47c13",
+  "input": "{\"title\": \"Try Our Love Again\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'U Turn'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:03.009543+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9136e2df-001c-46b8-9f0e-eed17005c10f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "59d116b9-2a09-49d2-bdb2-f389b081e79c",
+  "input": "{\"title\": \"Fire Drill\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fire Drill'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:06.783296+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d18656e-c946-4722-9a82-f9cc45ab422e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df244172-6715-48ab-ab98-88fc060470ab",
+  "input": "{\"title\": \"There! I've Said It Again\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of '20 All-Time Greatest Hits'",
+  "status": "verified"
+}

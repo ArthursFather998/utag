@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:57.398547+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb0ecdbe-3ed6-43ac-bde3-ddd43991897c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1ef4a50-9e65-48b1-bc06-12a069fef62f",
+  "input": "{\"title\": \"Brighton Rock\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sheer Heart Attack'",
+  "status": "verified"
+}

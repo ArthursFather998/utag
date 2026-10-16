@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:36.810494+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "421b9d4d-7814-4469-9830-40073de57d83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c83a9d6e-c9e8-49bc-a2f7-47ac8dae632c",
+  "input": "{\"title\": \"Thursday Girl\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Puberty 2'",
+  "status": "verified"
+}

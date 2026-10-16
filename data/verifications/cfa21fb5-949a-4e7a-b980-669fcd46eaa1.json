@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:28.120762+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa08dcb5-2c5b-46e1-83c3-fa29938033b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfa21fb5-949a-4e7a-b980-669fcd46eaa1",
+  "input": "{\"title\": \"Prelude\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Superhero'",
+  "status": "verified"
+}

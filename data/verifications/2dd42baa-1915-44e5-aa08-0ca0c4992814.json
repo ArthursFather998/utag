@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:15.885304+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30e9ed9a-35a4-4593-b463-d21088b0e0ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2dd42baa-1915-44e5-aa08-0ca0c4992814",
+  "input": "{\"title\": \"Say Goodbye Hollywood\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Eminem Show'",
+  "status": "verified"
+}

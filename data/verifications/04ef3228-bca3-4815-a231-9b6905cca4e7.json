@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:38.351745+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e525f351-01d7-4ee0-9553-91450f61e5a7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "04ef3228-bca3-4815-a231-9b6905cca4e7",
+  "input": "{\"title\": \"Garden\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

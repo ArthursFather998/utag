@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:51.399955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fdf5042a-aba5-4e51-bf0a-fe32728cbaac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c13133b6-3f3a-44fe-bf0c-071f7cbdcfa9",
+  "input": "{\"title\": \"Cheers to Goodbye\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Out of the Shadows'",
+  "status": "verified"
+}

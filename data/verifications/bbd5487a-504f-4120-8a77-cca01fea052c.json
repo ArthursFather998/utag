@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:50.922704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "03caa345-5768-4d99-af7d-2fcc296f1e1a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbd5487a-504f-4120-8a77-cca01fea052c",
+  "input": "{\"title\": \"White Is Right\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Pink Season'",
+  "status": "verified"
+}

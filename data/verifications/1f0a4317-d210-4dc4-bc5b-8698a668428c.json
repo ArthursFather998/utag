@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:33.7725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8a8c2bc-7d3c-49c6-a3fb-2eb76bb9a593",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1f0a4317-d210-4dc4-bc5b-8698a668428c",
+  "input": "{\"title\": \"Live from the Bataclan\", \"release_type\": \"album\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

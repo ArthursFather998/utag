@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:18.687721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8bc36279-657c-4b69-927e-985d9e86f5b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a6412db-607c-48b5-8a2f-30d6e572b38d",
+  "input": "{\"title\": \"Michelle's Song\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Friends'",
+  "status": "verified"
+}

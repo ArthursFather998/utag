@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:09.150623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02b0606b-7946-405a-9011-9c2c2c9ee630",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c73c4e4e-6e42-4315-9d92-88536fcf3ab7",
+  "input": "{\"title\": \"Let Me Entertain You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Jazz'",
+  "status": "verified"
+}

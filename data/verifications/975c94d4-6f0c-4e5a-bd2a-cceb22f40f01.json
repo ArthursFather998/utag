@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:29.738697+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6239a963-2cbb-4e16-bd22-6bf0dc2ea105",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "975c94d4-6f0c-4e5a-bd2a-cceb22f40f01",
+  "input": "{\"title\": \"El Circo\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Muñequito de Trapo'",
+  "status": "verified"
+}

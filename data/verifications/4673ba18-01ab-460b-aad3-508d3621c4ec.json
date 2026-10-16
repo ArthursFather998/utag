@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:36.120329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c784d16a-fc3d-40bb-aea8-d57e83cc4e6a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4673ba18-01ab-460b-aad3-508d3621c4ec",
+  "input": "{\"title\": \"Disc 1 - If That's the Way You Want It\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

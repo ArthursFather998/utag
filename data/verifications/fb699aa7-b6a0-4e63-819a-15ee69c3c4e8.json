@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:06.503814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e65f7320-8889-4178-8249-c9d15a07c97b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb699aa7-b6a0-4e63-819a-15ee69c3c4e8",
+  "input": "{\"title\": \"Got's My Own\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Got's My Own'",
+  "status": "verified"
+}

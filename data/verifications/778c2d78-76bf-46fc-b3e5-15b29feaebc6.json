@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:44.840747+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea7e8906-ee69-4af5-8230-d2486ce977a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "778c2d78-76bf-46fc-b3e5-15b29feaebc6",
+  "input": "{\"title\": \"Jigsaw Puzzle Blues\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'English Rose'",
+  "status": "verified"
+}

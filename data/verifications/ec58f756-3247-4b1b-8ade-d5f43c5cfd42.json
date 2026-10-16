@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:47.285988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fadf290a-9414-4620-8f01-5fd145849ada",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec58f756-3247-4b1b-8ade-d5f43c5cfd42",
+  "input": "{\"title\": \"Over & Over\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live'",
+  "status": "verified"
+}

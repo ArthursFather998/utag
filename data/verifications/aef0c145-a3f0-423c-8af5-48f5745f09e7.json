@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:43.538732+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d03d237-fc5a-43a1-9310-ae628515042d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aef0c145-a3f0-423c-8af5-48f5745f09e7",
+  "input": "{\"title\": \"My City (with Onefour)\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Closing track of Onefour's 'Against All Odds' EP.",
+  "status": "verified"
+}

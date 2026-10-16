@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:52.922758+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f6279c2-3287-493a-8b26-41088ba9622b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "115dced1-dfa9-444e-af32-f01fd411914d",
+  "input": "{\"title\": \"Sisters of the Moon\", \"track_number\": 42}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 42 of '25 Years – The Chain'",
+  "status": "verified"
+}

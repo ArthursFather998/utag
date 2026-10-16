@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:27.430802+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d60e084-b411-4edd-8c5a-8b61405ebd97",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed61bd05-003a-49f4-90ad-8198ee08e177",
+  "input": "{\"title\": \"luna park (lullaby)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'luna park (the lullabies)'",
+  "status": "verified"
+}

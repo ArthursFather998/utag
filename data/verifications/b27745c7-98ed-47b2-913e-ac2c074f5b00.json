@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:59.136714+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a2799cc-a260-4144-8d5f-560c80121348",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b27745c7-98ed-47b2-913e-ac2c074f5b00",
+  "input": "{\"title\": \"There She Goes\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Best of Sixpence None the Richer'",
+  "status": "verified"
+}

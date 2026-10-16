@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:12.559123+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37ae5917-e684-4f45-a9a1-bc35634fc46e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7ffcd58-a758-4f2e-9da0-1faa7a7d7ecb",
+  "input": "{\"title\": \"Chase the Night Away\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Cause and Effect (Deluxe Edition)'",
+  "status": "verified"
+}

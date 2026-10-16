@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:49.384059+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae4f83b1-2d83-496e-9c08-f15f6f2b74eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a889a86e-3892-4733-963b-6040163cd163",
+  "input": "{\"title\": \"Cha Cha Cha\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Romantic'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:21.345286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf480bc5-e16f-404a-83bc-7893f1a24736",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78b213bd-5909-4cde-95e4-26efa1309205",
+  "input": "{\"title\": \"Christmas Magic\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'A Very Laufey Holiday!'",
+  "status": "verified"
+}

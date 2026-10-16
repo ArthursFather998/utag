@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:43.965565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42114e86-7e40-4588-81e3-3278d0795c60",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26f1c230-6d73-4885-8006-642407397e75",
+  "input": "{\"title\": \"Lovefool\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lovefool'",
+  "status": "verified"
+}

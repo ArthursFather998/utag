@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:16.256522+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c894cd06-3d67-4d42-87e7-2a16223b90d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3585c2f-5b46-4155-87a8-5625bfdb1784",
+  "input": "{\"title\": \"Tell Me All the Things You Do\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Best of Fleetwood Mac 1969-1974'",
+  "status": "verified"
+}

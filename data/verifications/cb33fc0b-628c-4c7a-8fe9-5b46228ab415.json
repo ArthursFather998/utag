@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:18.451947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c23fc809-3223-48fe-a664-b10f6c95f097",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb33fc0b-628c-4c7a-8fe9-5b46228ab415",
+  "input": "{\"title\": \"Still in Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Still in Love'",
+  "status": "verified"
+}

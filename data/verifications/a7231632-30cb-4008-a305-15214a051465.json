@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:22.63363+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbca5027-0544-4ee7-ac9b-9dfcb572a552",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7231632-30cb-4008-a305-15214a051465",
+  "input": "{\"title\": \"God Must Have Spent a Little More Time on You (Radio Version)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Greatest Hits'",
+  "status": "verified"
+}

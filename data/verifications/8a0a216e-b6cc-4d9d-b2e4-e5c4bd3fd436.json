@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:29.781282+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcde200c-9be4-49a3-b19c-905bc1bad0ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a0a216e-b6cc-4d9d-b2e4-e5c4bd3fd436",
+  "input": "{\"title\": \"Everybody's Changing\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live Recordings 2004'",
+  "status": "verified"
+}

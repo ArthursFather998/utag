@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:36.101686+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b088123c-0ff7-4988-9c43-6972b4d8ec4f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2724893-bdf1-49ba-99a0-686be8578866",
+  "input": "{\"title\": \"Parece Que Va a Llover\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mis Primeras Grabaciones'",
+  "status": "verified"
+}

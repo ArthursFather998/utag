@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:39.397481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37d13dde-2fe8-4fb7-aeb9-e50e9cadfa46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "774d4437-873a-4fd9-80ec-fd22d69aa17e",
+  "input": "{\"title\": \"Crunch Time\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Truly Yours'",
+  "status": "verified"
+}

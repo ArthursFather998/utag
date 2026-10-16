@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:00.048533+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7ef589d-f878-4c7d-930c-9bbac9bacc44",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "baaf5a9d-e3c7-4477-8378-c448bcc14f5a",
+  "input": "{\"title\": \"D1\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Plan A'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:01.442804+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2ef9f17-7352-42a5-aab3-e54031d0ea02",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "eb866a5c-5545-459e-9349-d6edc2e183f0",
+  "input": "{\"title\": \"Juicy\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

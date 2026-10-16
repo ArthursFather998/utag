@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:40:55.333909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d799bbfe-66a4-48c8-81ed-44e7785f45c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e17dde7-b25e-45a1-bc97-7e2038725e25",
+  "input": "{\"title\": \"Not Sorry\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Everybody Else Is Doing It, So Why Can't We?'",
+  "status": "verified"
+}

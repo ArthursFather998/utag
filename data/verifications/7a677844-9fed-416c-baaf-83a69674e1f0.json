@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:35.985368+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d3d4b0b-4fd2-4d1c-8385-850c52453345",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a677844-9fed-416c-baaf-83a69674e1f0",
+  "input": "{\"title\": \"Sincerely\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Bobby Vinton Sings the Golden Decade of Love'",
+  "status": "verified"
+}

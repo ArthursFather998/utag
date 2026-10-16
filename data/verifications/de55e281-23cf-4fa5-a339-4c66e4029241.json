@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:53.458272+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af370901-9b48-47e1-9efa-83138d4d81cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de55e281-23cf-4fa5-a339-4c66e4029241",
+  "input": "{\"title\": \"Slap the City\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Habibti'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:34.22355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe85b0d2-2cf4-4214-bda7-783e08635eee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1fa04e2e-6ee9-4b09-9a3c-3664f49b174e",
+  "input": "{\"title\": \"Happiness\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'iTunes Live from Soho'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:54.770555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82e6b31f-1583-461e-afa5-93e8f870d3c3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c818d8d2-6ba5-42eb-be63-199f65567542",
+  "input": "{\"title\": \"Gooey\", \"release_type\": \"album\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

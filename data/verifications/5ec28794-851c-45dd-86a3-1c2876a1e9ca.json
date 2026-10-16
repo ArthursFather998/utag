@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:52.350467+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52a66ed3-6381-4f7f-b5bc-27dade577152",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ec28794-851c-45dd-86a3-1c2876a1e9ca",
+  "input": "{\"title\": \"paperthin skin\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'dovetail'",
+  "status": "verified"
+}

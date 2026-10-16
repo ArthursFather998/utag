@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:01.882464+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed6f686c-d99e-4c81-ba99-e616789b2679",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9f8dc31b-82fc-45cb-8de9-52566c5c6df7",
+  "input": "{\"title\": \"7 Minutes\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:20.857064+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5889c1b-0ca7-49ab-99da-febe85cf7e61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d15f29f-210d-405d-8d39-5f809f02e874",
+  "input": "{\"title\": \"Oh Mama\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The New Girl in Town'",
+  "status": "verified"
+}

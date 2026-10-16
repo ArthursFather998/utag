@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:51.497712+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f54626fe-6743-4c6e-9015-7603012940a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3704d8a-1ee6-4e7e-9f94-092aa990c932",
+  "input": "{\"title\": \"Bent\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'SOLACE'",
+  "status": "verified"
+}

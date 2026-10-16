@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:36.797805+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34025d88-4763-4e61-9f7a-9ab813cd8560",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ddf625c3-43ce-43d7-8215-6f5c2436f1a7",
+  "input": "{\"title\": \"70's Love Groove\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

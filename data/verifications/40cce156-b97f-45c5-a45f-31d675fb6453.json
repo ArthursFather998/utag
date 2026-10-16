@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:29.324642+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1600b19d-b3b4-4903-b717-8649e5e282f2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "40cce156-b97f-45c5-a45f-31d675fb6453",
+  "input": "{\"title\": \"Todos Quieren Ser Un Gato Jazz\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:46.129847+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ed5938e-f513-4614-b378-8888a145cd83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b9b84e7-6f55-4843-840b-f0de55031c57",
+  "input": "{\"title\": \"Let the Sun Shine\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Beneath Your Beautiful'",
+  "status": "verified"
+}

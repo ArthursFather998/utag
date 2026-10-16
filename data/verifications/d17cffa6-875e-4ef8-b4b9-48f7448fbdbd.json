@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:07.574401+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5001341-9fca-47db-a37e-f1aae809688b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d17cffa6-875e-4ef8-b4b9-48f7448fbdbd",
+  "input": "{\"title\": \"It's a Hard Life\", \"release_type\": \"single\", \"release_year\": 1984}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

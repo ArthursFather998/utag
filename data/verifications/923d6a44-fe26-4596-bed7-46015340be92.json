@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:38.777163+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc60c52c-ef19-4675-9280-2a0b5f4f406e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "923d6a44-fe26-4596-bed7-46015340be92",
+  "input": "{\"title\": \"I Held My Baby Last Night\", \"track_number\": 56}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 56 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

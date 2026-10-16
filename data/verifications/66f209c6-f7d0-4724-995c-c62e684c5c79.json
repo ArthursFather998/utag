@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:14.41822+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "f132908f-ef0c-4920-9ceb-784a2746df4c",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "66f209c6-f7d0-4724-995c-c62e684c5c79",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "IGOR",
+    "title": "I THINK"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "'I Think' is track 3 on IGOR (2019); note the Apple Music Presents version is a distinct live recording of the same song, not the studio original. | sources: https://en.wikipedia.org/wiki/Igor_(album), https://www.discogs.com/master/3215259-TylerCreator-Apple-Music-Presents-TylerCreator",
+  "status": "verified"
+}

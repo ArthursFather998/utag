@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:00.530798+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e94a34d9-fdc8-4aed-bde4-fba1823ffad1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62e294dd-2d06-4a16-9282-149b50fb2654",
+  "input": "{\"title\": \"Sore Eyes\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Only Human (Special Edition)'",
+  "status": "verified"
+}

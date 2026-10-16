@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:40:44.691309+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af2f5898-1dbf-4682-8b40-610e55de7207",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7335375b-4d22-4b4a-b044-6de47c95afb0",
+  "input": "{\"title\": \"I Still Do\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Everybody Else Is Doing It, So Why Can't We?'",
+  "status": "verified"
+}

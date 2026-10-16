@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:19.595885+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "426f4f4a-0c82-4f6b-a6d3-9c4603aac964",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90c57538-cbfa-406c-bc20-664786a53160",
+  "input": "{\"title\": \"Sara\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'In Concert'",
+  "status": "verified"
+}

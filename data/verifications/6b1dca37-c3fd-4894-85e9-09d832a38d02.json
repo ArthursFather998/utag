@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:05.606894+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05a0b704-3893-48e5-97b8-0a64b3f2ea2b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b1dca37-c3fd-4894-85e9-09d832a38d02",
+  "input": "{\"title\": \"Hard (featuring Jeezy)\", \"track_number\": 41}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 41 of 'Coffret 4 CD'",
+  "status": "verified"
+}

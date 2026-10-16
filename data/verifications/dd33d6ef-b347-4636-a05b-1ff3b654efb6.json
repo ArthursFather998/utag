@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:04.201299+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef3641f6-c80a-4227-8b05-678369934f80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd33d6ef-b347-4636-a05b-1ff3b654efb6",
+  "input": "{\"title\": \"Em Calls Paul (skit)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Kamikaze'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:32.271765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fb0f989-1a6e-40a5-9aec-48f8daa9c639",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6e27a4ff-d7a5-4a91-b1c1-38efda2b33c9",
+  "input": "{\"title\": \"I Can't Be with You\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:43.169725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29af3a21-6597-4e34-afde-e1c986b88cf5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99c357f6-00fe-43c4-993c-11e98cb1d83b",
+  "input": "{\"title\": \"Superwoman\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'As I Am: The Super Edition'",
+  "status": "verified"
+}

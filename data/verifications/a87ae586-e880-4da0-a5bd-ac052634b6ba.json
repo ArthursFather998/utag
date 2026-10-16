@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:20.908176+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "491e6ef4-f7c2-4193-aad8-d548639fa8fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a87ae586-e880-4da0-a5bd-ac052634b6ba",
+  "input": "{\"title\": \"Night Light\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'A Night at the Symphony'",
+  "status": "verified"
+}

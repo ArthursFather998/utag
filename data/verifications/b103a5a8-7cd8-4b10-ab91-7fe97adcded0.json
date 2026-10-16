@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:49.369857+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d905936-e9c9-41b7-9b8a-c27e54d39030",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b103a5a8-7cd8-4b10-ab91-7fe97adcded0",
+  "input": "{\"title\": \"Ghost in the Machine\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Apple Music Live: SZA'",
+  "status": "verified"
+}

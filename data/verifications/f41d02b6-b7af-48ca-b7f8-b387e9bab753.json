@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:29.771792+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "580a9139-a781-4139-ab7a-66b22e4d919c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f41d02b6-b7af-48ca-b7f8-b387e9bab753",
+  "input": "{\"title\": \"Whiskey Drink\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

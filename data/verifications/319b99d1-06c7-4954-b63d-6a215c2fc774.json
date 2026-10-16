@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:14.850512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ada8221-0b75-47c8-8669-a17573c11d42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "319b99d1-06c7-4954-b63d-6a215c2fc774",
+  "input": "{\"title\": \"Oceans Away\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Diving Board'",
+  "status": "verified"
+}

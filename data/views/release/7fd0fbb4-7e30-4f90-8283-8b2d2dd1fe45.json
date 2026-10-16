@@ -21,7 +21,25 @@
     }
   ],
   "corrections": [],
-  "more_from_artist": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Lil Peep, XXXTENTACION",
+        "id": "c242683f-76b8-442c-a75b-60b4c4c6388e"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T13:50:36.987396+00:00",
+      "edition": "original",
+      "id": "19087b36-814b-4172-b790-038c317b1e40",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "Falling Down"
+    }
+  ],
   "release": {
     "apple_id": null,
     "artist_id": "c242683f-76b8-442c-a75b-60b4c4c6388e",
@@ -49,7 +67,7 @@
     {
       "apple_id": null,
       "artist_id": "c242683f-76b8-442c-a75b-60b4c4c6388e",
-      "confidence": "needs_review",
+      "confidence": "high_confidence",
       "created_at": "2026-10-14T00:35:53.023805+00:00",
       "deezer_id": null,
       "disc_number": 1,
@@ -62,7 +80,7 @@
       "status": "needs_review",
       "title": "Falling Down",
       "track_number": null,
-      "updated_at": "2026-10-14T01:26:37.87095+00:00"
+      "updated_at": "2026-10-16T08:09:23.158926+00:00"
     }
   ],
   "verifications": []

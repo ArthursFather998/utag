@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:57.914393+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e623519-9534-48f2-bdcc-630ff8d97b9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25ff9e2e-7457-4fdc-8d0a-93dac8bee665",
+  "input": "{\"title\": \"Just Don't Tell Me That\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Celebrity'",
+  "status": "verified"
+}

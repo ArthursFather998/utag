@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:17.042859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a96f28a9-1c06-4967-8cc9-c559a355dad9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ddf1b70-0aba-4708-8e78-d8ff9f5b4d6f",
+  "input": "{\"title\": \"Wishing Well\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wishing Well'",
+  "status": "verified"
+}

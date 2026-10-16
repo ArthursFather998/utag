@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:06.060301+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b783f64-ce1c-4336-a265-9aba4241c345",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "481b2e77-182f-4826-a048-5904fee5feaf",
+  "input": "{\"title\": \"That's the Way Boys Are\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'That's the Way Boys Are'",
+  "status": "verified"
+}

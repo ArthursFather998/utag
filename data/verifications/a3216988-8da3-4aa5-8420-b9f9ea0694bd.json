@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:57.971695+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "04cd8b7d-87aa-486f-abb7-3abf25fa262e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3216988-8da3-4aa5-8420-b9f9ea0694bd",
+  "input": "{\"title\": \"Don't Lie\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'Gold'",
+  "status": "verified"
+}

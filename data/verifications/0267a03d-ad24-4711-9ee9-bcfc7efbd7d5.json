@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:16.727332+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b952a819-2a16-4d2a-a76c-7d46bdc95e1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0267a03d-ad24-4711-9ee9-bcfc7efbd7d5",
+  "input": "{\"title\": \"Lazing on a Sunday Afternoon\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'A Night at the Opera'",
+  "status": "verified"
+}

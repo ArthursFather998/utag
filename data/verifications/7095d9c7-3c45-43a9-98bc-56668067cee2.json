@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:50.368456+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07c97d46-f4fb-45cd-ae62-c21758faa5df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7095d9c7-3c45-43a9-98bc-56668067cee2",
+  "input": "{\"title\": \"From Florida with Love\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Dark Lane Demo Tapes'",
+  "status": "verified"
+}

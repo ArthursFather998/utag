@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:36.792635+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17c388a1-ef19-4b62-b393-8660f7b51b6c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4cf4db0f-e484-4431-b688-086b15abdd96",
+  "input": "{\"title\": \"You Got the Best of Me\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

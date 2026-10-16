@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:45.016993+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b913a93f-a440-482e-9e98-03efaa791a00",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b24441be-4c39-4b7a-ba20-98605d0ccbed",
+  "input": "{\"title\": \"Do It Right\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Do It Right'",
+  "status": "verified"
+}

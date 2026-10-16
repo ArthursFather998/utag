@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:05.441592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b36326a-1982-47dd-96c5-110aef4e85ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31a6b25e-aa1d-4bce-8aa8-d07c92222cad",
+  "input": "{\"title\": \"Only Thing I Ever Get for Christmas\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Under the Mistletoe'",
+  "status": "verified"
+}

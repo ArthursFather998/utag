@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:23.775771+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5af08525-928f-4ed2-b167-b692be6f555d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "478fe8d5-2c07-4459-89df-409c6468a813",
+  "input": "{\"title\": \"Saturday Night's Alright (For Fighting) / Pinball Wizard\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

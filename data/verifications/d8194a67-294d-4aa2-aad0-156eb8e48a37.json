@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:09.464722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3976e3dc-a033-4d2f-a741-609ccd33acc9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8194a67-294d-4aa2-aad0-156eb8e48a37",
+  "input": "{\"title\": \"Bedroom Wall\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Last Goodbye'",
+  "status": "verified"
+}

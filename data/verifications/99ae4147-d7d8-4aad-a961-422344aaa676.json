@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:38.270584+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15f16f3f-b354-456a-a508-a54282673ca8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99ae4147-d7d8-4aad-a961-422344aaa676",
+  "input": "{\"title\": \"The Only Way to Go\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'As Time Goes By'",
+  "status": "verified"
+}

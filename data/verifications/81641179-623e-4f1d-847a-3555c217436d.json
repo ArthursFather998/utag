@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:06.714932+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8c3db3e-647d-4acb-ad53-a2a8a83ec47a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81641179-623e-4f1d-847a-3555c217436d",
+  "input": "{\"title\": \"Doctor Brown\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Black Magic Woman'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:46.695217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4f68050-5fdc-4b89-a8ad-dea154842091",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ca44ddc-13fd-4811-895a-bbbc2d249e67",
+  "input": "{\"title\": \"Someday (MTV Unplugged version)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '#1 to Infinity'",
+  "status": "verified"
+}

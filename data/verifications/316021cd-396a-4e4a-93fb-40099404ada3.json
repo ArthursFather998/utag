@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:25.480332+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4c1862b-d20c-47d1-8bed-b544ce75fe4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "316021cd-396a-4e4a-93fb-40099404ada3",
+  "input": "{\"title\": \"Butterflies\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Leave Me Before I Love You'",
+  "status": "verified"
+}

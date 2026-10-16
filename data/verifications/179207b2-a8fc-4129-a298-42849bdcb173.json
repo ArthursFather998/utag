@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:06.10227+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90025541-5117-48b9-bba7-1fbaaedb8349",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "179207b2-a8fc-4129-a298-42849bdcb173",
+  "input": "{\"title\": \"La Tracalera\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Ven Conmigo'",
+  "status": "verified"
+}

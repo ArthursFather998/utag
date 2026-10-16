@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:08.879843+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7282f865-56d4-4973-87aa-0ef4afc20915",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5251ee2-ba74-4d6a-be43-8ec4c3b91cba",
+  "input": "{\"title\": \"Exxus\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Exxus'",
+  "status": "verified"
+}

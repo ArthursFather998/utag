@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:20.170614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "995d3f19-d08d-4118-be83-87610e20dd7b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3af45898-6c92-4096-8fc6-bd115017d0da",
+  "input": "{\"title\": \"The Saga Continues\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Jagged Little Thrill'",
+  "status": "verified"
+}

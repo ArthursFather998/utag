@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:08.804542+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3d97298-ba86-47bd-89c5-c141f571fc81",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44e9336f-ed64-420a-a681-ac134b38e9cc",
+  "input": "{\"title\": \"Blood on the Floor\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Kiln House'",
+  "status": "verified"
+}

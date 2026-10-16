@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:23.598472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49fdd380-f5ae-4c4f-80ce-b2150f398f1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e2d918b6-346f-4daa-b69b-3f9a6f268d9c",
+  "input": "{\"title\": \"The Mountain\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Mountain'",
+  "status": "verified"
+}

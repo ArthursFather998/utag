@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:43.895829+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef41d30d-170c-49b9-9265-c57bc60d3473",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c70a0e91-9ebb-4819-80ff-12d280557971",
+  "input": "{\"title\": \"Bored\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Bewitched: The Goddess Edition'",
+  "status": "verified"
+}

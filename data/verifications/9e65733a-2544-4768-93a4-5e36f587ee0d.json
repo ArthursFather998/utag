@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:57.615851+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da69916d-c0fc-489b-8366-239af3d2d139",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e65733a-2544-4768-93a4-5e36f587ee0d",
+  "input": "{\"title\": \"If I Didn't Love You (feat. Carrie Underwood)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Macon'",
+  "status": "verified"
+}

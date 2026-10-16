@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:05.766289+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "739a5eca-b63c-4911-9c8f-8a09c1e64df2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "204bcb33-b19b-4a29-bfca-f8a53be98a8f",
+  "input": "{\"title\": \"Crazy Love (Live)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'An Evening with Brian McKnight'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:08.386177+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2061bfb2-a0c2-4e96-b8ed-726833d823c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "278e245c-2028-405d-9ac3-e6e4840c7b7a",
+  "input": "{\"title\": \"Saturn\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Saturn'",
+  "status": "verified"
+}

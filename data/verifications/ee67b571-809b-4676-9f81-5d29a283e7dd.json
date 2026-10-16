@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:26.765405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f56755d-7623-427d-aac1-ca1be6ce8e88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee67b571-809b-4676-9f81-5d29a283e7dd",
+  "input": "{\"title\": \"House\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Made in England'",
+  "status": "verified"
+}

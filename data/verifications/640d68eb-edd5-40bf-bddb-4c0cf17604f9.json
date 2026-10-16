@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:52.735395+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "76f7d868-b49f-49c3-b74b-b5b16f00b1e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "640d68eb-edd5-40bf-bddb-4c0cf17604f9",
+  "input": "{\"title\": \"Caged Bird\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Songs in A Minor: 20th Anniversary Edition'",
+  "status": "verified"
+}

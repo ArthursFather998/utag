@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:52.730048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "192bc8c5-b59b-4cbf-8972-a82bd7143710",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fbf2ee3c-0d52-423d-82bc-7b7a4fa3703f",
+  "input": "{\"title\": \"Staying Power\", \"release_type\": \"single\", \"release_year\": 1982}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

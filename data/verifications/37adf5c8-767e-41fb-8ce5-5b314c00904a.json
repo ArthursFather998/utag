@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:52.511192+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aafbd1f9-7fb5-4390-a7fc-695037ae49f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37adf5c8-767e-41fb-8ce5-5b314c00904a",
+  "input": "{\"title\": \"No Hay Ley\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'No Hay Ley'",
+  "status": "verified"
+}

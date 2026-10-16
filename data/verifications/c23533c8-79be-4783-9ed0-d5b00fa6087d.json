@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:05.05785+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b6a0cf5-3df5-4f1d-9227-af18168f0f3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c23533c8-79be-4783-9ed0-d5b00fa6087d",
+  "input": "{\"title\": \"Interlude 1\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Usher'",
+  "status": "verified"
+}

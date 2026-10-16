@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:02.550202+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc09d784-479c-4c50-9f53-95f0dd335b9a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b81e19bc-ad70-47e6-9aa8-8344d64b8fd5",
+  "input": "{\"title\": \"Benz Truck (\\u0433\\u0435\\u043b\\u0438\\u043a)\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

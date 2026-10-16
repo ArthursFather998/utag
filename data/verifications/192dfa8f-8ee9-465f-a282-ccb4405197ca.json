@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:05.752578+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86a21388-2e78-4799-9ae2-548d0922f5f9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "192dfa8f-8ee9-465f-a282-ccb4405197ca",
+  "input": "{\"title\": \"Lil Freak\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

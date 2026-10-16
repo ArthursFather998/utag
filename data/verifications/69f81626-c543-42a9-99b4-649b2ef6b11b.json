@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:15.28747+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5c18198-d438-42eb-8694-86208b28849b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69f81626-c543-42a9-99b4-649b2ef6b11b",
+  "input": "{\"title\": \"Hammer to Fall\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Works'",
+  "status": "verified"
+}

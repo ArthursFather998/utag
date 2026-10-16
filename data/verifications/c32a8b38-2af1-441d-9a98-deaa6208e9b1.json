@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:11.272422+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ddea036-2cbc-4c1f-b803-18c320223f0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c32a8b38-2af1-441d-9a98-deaa6208e9b1",
+  "input": "{\"title\": \"The Way You Want It\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

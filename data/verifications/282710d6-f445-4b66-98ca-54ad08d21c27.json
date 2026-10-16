@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:05.145472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e52fb105-4127-43b3-9887-5f077b5ada9f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "282710d6-f445-4b66-98ca-54ad08d21c27",
+  "input": "{\"title\": \"Gays 4 Donald\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Pink Season'",
+  "status": "verified"
+}

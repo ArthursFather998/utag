@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:55.052712+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62bd6857-2af4-40db-849c-698f7fa7ae41",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "66e10768-c6aa-4c8f-ac22-90b4cb06c01a",
+  "input": "{\"title\": \"Christmas Angel\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Kissin' Christmas: The Bobby Vinton Christmas Album'",
+  "status": "verified"
+}

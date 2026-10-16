@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:16:30.280234+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "009e4b0b-1514-4974-af9c-a262af698646",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f3ccc31d-524d-428c-98e4-f2518d9fe92a",
+  "input": "{\"title\": \"Analyse\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

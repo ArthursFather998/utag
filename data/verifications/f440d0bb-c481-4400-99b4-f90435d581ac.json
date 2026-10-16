@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:49.969175+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2cb42bdd-7562-47ea-adb5-10d74e3648a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f440d0bb-c481-4400-99b4-f90435d581ac",
+  "input": "{\"title\": \"My Heart Belongs to Only You\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '20 All-Time Greatest Hits'",
+  "status": "verified"
+}

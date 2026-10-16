@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:59.089239+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d3c0e053-bb05-4160-8e6c-eb71fead84ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d65ac396-90fe-428f-b1d7-59c16ac10bd3",
+  "input": "{\"title\": \"Beautiful Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Beautiful Love'",
+  "status": "verified"
+}

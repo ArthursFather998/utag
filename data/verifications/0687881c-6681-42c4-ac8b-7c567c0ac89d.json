@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:27.942902+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e02f7d24-18b2-47a4-9825-1f11e7e0018a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0687881c-6681-42c4-ac8b-7c567c0ac89d",
+  "input": "{\"title\": \"NFL\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

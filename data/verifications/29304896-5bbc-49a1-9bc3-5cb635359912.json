@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:53.817996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "abf4f510-aebe-4f3c-824e-92f1c42eb9f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29304896-5bbc-49a1-9bc3-5cb635359912",
+  "input": "{\"title\": \"Mr. Lonely\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Essence of Bobby Vinton'",
+  "status": "verified"
+}

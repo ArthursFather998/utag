@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:07.304709+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b10f98d7-8c7d-4f55-9893-856de16cd961",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f027e9e-8ba2-45ef-995c-7a3df3903beb",
+  "input": "{\"title\": \"Good Job\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Alicia'",
+  "status": "verified"
+}

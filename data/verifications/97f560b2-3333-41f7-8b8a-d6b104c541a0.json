@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:55.912491+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05f80fc0-666e-4c5d-b6fd-95fc2b232c50",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "97f560b2-3333-41f7-8b8a-d6b104c541a0",
+  "input": "{\"title\": \"Ant Pile\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

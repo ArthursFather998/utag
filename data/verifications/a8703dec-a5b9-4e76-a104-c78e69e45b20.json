@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:55.551222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a61ffa7-0027-4bce-83ca-8698ab3fe0a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8703dec-a5b9-4e76-a104-c78e69e45b20",
+  "input": "{\"title\": \"6,8,12\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Greatest Hits'",
+  "status": "verified"
+}

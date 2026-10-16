@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:02.799271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df2c66cb-a558-4f5c-8bb7-07b4b3169505",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b9825c5a-f559-424f-833f-adbb13c94eae",
+  "input": "{\"title\": \"My Immortal\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

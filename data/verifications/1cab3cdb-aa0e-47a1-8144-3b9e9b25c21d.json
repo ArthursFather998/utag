@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:01.109169+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48dd21c0-21bd-4a08-8e16-2de345427219",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1cab3cdb-aa0e-47a1-8144-3b9e9b25c21d",
+  "input": "{\"title\": \"Hot Pink\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

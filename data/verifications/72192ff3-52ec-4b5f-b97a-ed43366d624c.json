@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:27.5937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc2aa675-de1a-4372-bdc5-55ab181ab44e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72192ff3-52ec-4b5f-b97a-ed43366d624c",
+  "input": "{\"title\": \"How to Save a Life\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'iTunes Live from Soho'",
+  "status": "verified"
+}

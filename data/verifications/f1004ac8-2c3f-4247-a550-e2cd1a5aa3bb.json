@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:05.148206+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "698573e0-f84f-4c7f-ab39-1d989d6be2df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1004ac8-2c3f-4247-a550-e2cd1a5aa3bb",
+  "input": "{\"title\": \"Nuyork Nights at 21\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Luv Is Rage'",
+  "status": "verified"
+}

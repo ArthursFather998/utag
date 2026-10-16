@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:57.834399+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9eeb9bc-460e-4ca9-ad6e-df3bdbd9a9d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c080a055-7462-4856-8abd-2f9f3bad9aa7",
+  "input": "{\"title\": \"Him\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Collect Call II'",
+  "status": "verified"
+}

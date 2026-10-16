@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:38.218173+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1826507b-acab-40ab-b767-7f22c1af275e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68ad8a73-25e6-4d2e-baa4-1f12f52b87c2",
+  "input": "{\"title\": \"I Wanna\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'A Jagged Love Story'",
+  "status": "verified"
+}

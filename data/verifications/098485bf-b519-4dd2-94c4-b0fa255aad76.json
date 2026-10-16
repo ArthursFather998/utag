@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:31.145522+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3f184d8-1d15-4faa-8fdb-4ef6823d0b34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "098485bf-b519-4dd2-94c4-b0fa255aad76",
+  "input": "{\"title\": \"You Found Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'You Found Me'",
+  "status": "verified"
+}

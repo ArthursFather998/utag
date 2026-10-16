@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:25.288761+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7bf1e16-dd8d-4add-b76c-dc14c7587a6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c3f08cc-3778-4e30-8592-14d0532aebaf",
+  "input": "{\"title\": \"Never Wanna See You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Never Wanna See You'",
+  "status": "verified"
+}

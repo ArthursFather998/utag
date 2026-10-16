@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:54.289884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9910780a-c481-4456-bd05-0f2c48194566",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18a824b2-fed6-4f47-bd67-1ff5226a4766",
+  "input": "{\"title\": \"The Life\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'All American Nightmare'",
+  "status": "verified"
+}

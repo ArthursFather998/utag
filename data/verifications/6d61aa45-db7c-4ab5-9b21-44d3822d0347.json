@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:17.784592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58059fa0-1b42-43c6-80a8-7252ae2eca86",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d61aa45-db7c-4ab5-9b21-44d3822d0347",
+  "input": "{\"title\": \"Silver Heels\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Heroes Are Hard to Find'",
+  "status": "verified"
+}

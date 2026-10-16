@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:45.560582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28873d07-eb2f-4e71-9c86-5fdd689ec419",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85d7f74b-24cc-4e90-af39-2ae2e903cb91",
+  "input": "{\"title\": \"7 Minutes in Heaven (Atavan Halen)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'From Under the Cork Tree (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

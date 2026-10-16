@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:25.101261+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f72468d9-bb6f-4d9d-9d4d-bc9dce785752",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b04ce01b-d1fe-46dc-af5c-e7a461285376",
+  "input": "{\"title\": \"\\u00c9g Veit \\u00fe\\u00fa Kemur\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'A Night at the Symphony'",
+  "status": "verified"
+}

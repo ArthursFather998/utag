@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:13.18077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43623df5-a3d1-4ba5-ba8a-122e08a73625",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3304c9e-32bf-4ac3-b62c-de6ebe9c406e",
+  "input": "{\"title\": \"Mr. Sandman (A-side)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mr. Sandman'",
+  "status": "verified"
+}

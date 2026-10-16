@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:25.749773+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c03201c-9fd2-4d6e-bcc3-d95874e25101",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f6144e06-4056-4d54-9ee9-3f31415242d4",
+  "input": "{\"title\": \"Never Too Far\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

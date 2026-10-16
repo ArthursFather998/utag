@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:38.680923+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "be0d320c-d8a4-496e-a130-18cadece4059",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1eec72ea-8673-40f5-9442-bba98b5c6f94",
+  "input": "{\"title\": \"Dancing in the Flames\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

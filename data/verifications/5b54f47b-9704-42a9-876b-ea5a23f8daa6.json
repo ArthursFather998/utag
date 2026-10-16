@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:02.665228+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db4f18bf-f4bc-4253-a3ca-9f5d83403310",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5b54f47b-9704-42a9-876b-ea5a23f8daa6",
+  "input": "{\"title\": \"Friction\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

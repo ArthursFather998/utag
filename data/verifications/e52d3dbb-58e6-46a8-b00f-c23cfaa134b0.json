@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:50.008513+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7534f37b-b198-46b0-af9c-96626b22c1be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e52d3dbb-58e6-46a8-b00f-c23cfaa134b0",
+  "input": "{\"title\": \"Let Me Know\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Fuck the World'",
+  "status": "verified"
+}

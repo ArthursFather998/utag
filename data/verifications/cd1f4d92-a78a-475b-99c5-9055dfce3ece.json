@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:54.495369+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14a26d95-e1ec-4d29-9ddf-35e01b92c5a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd1f4d92-a78a-475b-99c5-9055dfce3ece",
+  "input": "{\"title\": \"Misbehaving (The Misfit Version)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Imagination & the Misfit Kid'",
+  "status": "verified"
+}

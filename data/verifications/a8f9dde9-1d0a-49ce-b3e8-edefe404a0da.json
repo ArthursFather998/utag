@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:38.679126+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b000fdc8-c700-48da-84eb-8264b74a9aa7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8f9dde9-1d0a-49ce-b3e8-edefe404a0da",
+  "input": "{\"title\": \"Interlude I\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live at the Electric Factory: Bootleg No. 1'",
+  "status": "verified"
+}

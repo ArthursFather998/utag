@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:52:04.663275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66ff7c1b-e33f-4afd-a992-41c67cba043b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05a82dfc-85c4-4b29-943a-d6186c397157",
+  "input": "{\"title\": \"Fragile\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Everything I Know About Love (Deluxe Edition)'",
+  "status": "verified"
+}

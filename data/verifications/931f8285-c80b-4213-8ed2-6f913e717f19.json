@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:17.816359+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "32989922-9791-4d17-828d-51fa3af36c38",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "931f8285-c80b-4213-8ed2-6f913e717f19",
+  "input": "{\"title\": \"Bel Air\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Paradise'",
+  "status": "verified"
+}

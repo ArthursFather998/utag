@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:49.810093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c27d7c3-84cc-468f-af18-164b61993c04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "760ab34f-4337-476f-bed7-df53820a64d6",
+  "input": "{\"title\": \"Drowse\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

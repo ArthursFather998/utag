@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:42.774352+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fd33d09-5290-4fa9-b64b-f7341c456de3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dabb323f-fec2-4d18-b183-e7cc09ea7595",
+  "input": "{\"title\": \"Old Memories\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Keys II'",
+  "status": "verified"
+}

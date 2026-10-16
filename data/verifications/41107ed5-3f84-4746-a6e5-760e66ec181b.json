@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:39.603647+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98dca857-8b9d-46a6-b266-648bc606225b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "41107ed5-3f84-4746-a6e5-760e66ec181b",
+  "input": "{\"title\": \"Just Like You\", \"release_type\": \"single\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

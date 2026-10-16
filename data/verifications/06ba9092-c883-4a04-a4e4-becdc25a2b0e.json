@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:35.256057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4a8c9b3-5b1e-4797-93e0-21640ccccb4e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "06ba9092-c883-4a04-a4e4-becdc25a2b0e",
+  "input": "{\"title\": \"Peace Sign\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

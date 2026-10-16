@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:16.739704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "391922b7-f56e-4593-9fa7-8433ce7e81d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "daddbc0f-2e2c-41c6-ac86-afaa2738b109",
+  "input": "{\"title\": \"My Sacrifice (Live Acoustic)\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'With Arms Wide Open: A Retrospective'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:05.332402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed3aeea9-e37d-4a9c-97e6-0151f383c8ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb1cf8a1-dfb5-429e-8c7d-cf91478a2bec",
+  "input": "{\"title\": \"Come Softly To Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Come Softly to Me: The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:21.705962+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19c5259e-25b1-4ab7-8ed6-f95f62e0a980",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c2a30b3-7851-4f26-b339-43ef6d28319f",
+  "input": "{\"title\": \"Local God\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Local God'",
+  "status": "verified"
+}

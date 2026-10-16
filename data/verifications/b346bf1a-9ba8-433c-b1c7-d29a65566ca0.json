@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:36.966584+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "031ed246-644d-488d-bd99-04b7d1020d32",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b346bf1a-9ba8-433c-b1c7-d29a65566ca0",
+  "input": "{\"title\": \"Sure Is Lonesome Downtown (A-side)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sure Is Lonesome Downtown'",
+  "status": "verified"
+}

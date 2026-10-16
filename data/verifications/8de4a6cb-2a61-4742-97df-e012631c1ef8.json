@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:54.062631+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "72b742b0-cdc9-4a95-93e4-9142303f9d4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8de4a6cb-2a61-4742-97df-e012631c1ef8",
+  "input": "{\"title\": \"Trinity\", \"track_number\": 71}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 71 of '25 Years – The Chain'",
+  "status": "verified"
+}

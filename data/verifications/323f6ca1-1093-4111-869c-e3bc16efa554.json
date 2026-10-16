@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:41.809463+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f449d1d-2dd1-4bfa-9ada-da68b5151edc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "323f6ca1-1093-4111-869c-e3bc16efa554",
+  "input": "{\"title\": \"Bother Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bother Me'",
+  "status": "verified"
+}

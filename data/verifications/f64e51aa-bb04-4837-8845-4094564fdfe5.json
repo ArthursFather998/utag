@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:49.278316+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79f1481c-1d4d-48b9-86f4-8514dc9f8a5c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f64e51aa-bb04-4837-8845-4094564fdfe5",
+  "input": "{\"title\": \"Wild & Crazy Christmas\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Mariah Carey's All I Want for Christmas Is You (Original Motion Picture Soundtrack)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:07.028046+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b3d0cc65-4c2e-4425-83a7-85f60514e75c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0e48185-d9ae-41fc-b227-5f6bb948f9d0",
+  "input": "{\"title\": \"Pick Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'I'm Doing It Again Baby!'",
+  "status": "verified"
+}

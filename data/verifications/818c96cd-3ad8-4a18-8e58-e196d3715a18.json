@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:14.028705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee0a3baa-da20-4c4e-aefb-dcf90bb4ccf4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "818c96cd-3ad8-4a18-8e58-e196d3715a18",
+  "input": "{\"title\": \"Unforgettable: Ultimate Edition\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:51.969213+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=correct conf=medium -> no write",
+    "verdict": "correct"
+  },
+  "entity_id": "29aec72f-8946-4600-a759-64152544e3d3",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "medium"
+  },
+  "id": "50cf9e89-52fe-4b40-98ec-4485d1b8bea3",
+  "input": {
+    "artist": "d4vd",
+    "release": "Unknown Album",
+    "title": "Satan's Pursuit"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "Real d4vd unreleased archive song: fan YouTube upload labeled '(Unreleased)' plus sonichits 'd4vd vault' track listing.",
+  "status": "needs_review"
+}

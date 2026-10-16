@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:08.465573+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e85718b-f321-42dc-877a-2aea784523a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9b54c93-54d3-4907-8598-ca4858d7eeee",
+  "input": "{\"title\": \"I Want to Break Free\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live in Ukraine'",
+  "status": "verified"
+}

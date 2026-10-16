@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:31.891254+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "72bafe63-f7f0-4fdb-b726-225f8aa9d8e4",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "32123813-d0a1-4d68-aa89-c7557f6b9bd8",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Malcolm Todd",
+    "title": "Concrete"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Track 11 of the self-titled Malcolm Todd album (2025) confirmed on Wikipedia and multiple retail tracklists. | sources: https://en.wikipedia.org/wiki/Malcolm_Todd_(album), https://www.revivedvinylrecords.co.uk/pre-order-malcolm-todd---self-titled---vinyl-lp",
+  "status": "verified"
+}

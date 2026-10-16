@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:40.680392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8a4b6f5-d827-4021-971f-241e90476d50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "885d1abf-34b6-40e9-be8f-e067f8ab8b32",
+  "input": "{\"title\": \"La Llamada\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'All My Hits: Todos Mis Éxitos'",
+  "status": "verified"
+}

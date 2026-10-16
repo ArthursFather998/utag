@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:01.592411+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ee14bfa-20a2-4755-8f80-3f4df598fbd9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1fb1da4-aae0-4df5-b3b8-1b0abbeb8e87",
+  "input": "{\"title\": \"Wicked Games\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Live at SoFi Stadium'",
+  "status": "verified"
+}

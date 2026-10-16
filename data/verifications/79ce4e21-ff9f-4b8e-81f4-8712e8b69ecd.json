@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:40:25.719923+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d42482e6-2295-4078-b6e8-7182f6efffde",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79ce4e21-ff9f-4b8e-81f4-8712e8b69ecd",
+  "input": "{\"title\": \"Disc 4 - He Won't See the Light\", \"track_number\": 111}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 111 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:48.641025+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb0a44d5-804a-45e1-9844-e3abc4ff40f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba93ec55-eba2-49e5-b478-292e2c5c15a5",
+  "input": "{\"title\": \"Cavalier\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Pre-Party (Extended)'",
+  "status": "verified"
+}

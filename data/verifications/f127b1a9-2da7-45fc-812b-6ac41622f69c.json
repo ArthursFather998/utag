@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:05.226431+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66dd7083-886b-449c-979e-82d9a7a3a00e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f127b1a9-2da7-45fc-812b-6ac41622f69c",
+  "input": "{\"title\": \"Best Friend\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Friday Night Lights'",
+  "status": "verified"
+}

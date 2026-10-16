@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:04.234793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d4f560b-f4e8-4e91-9f35-13bf79be039b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b82a84c6-61e1-42ca-a2bd-64351f2d7228",
+  "input": "{\"title\": \"Good Morning Janet\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Discipline'",
+  "status": "verified"
+}

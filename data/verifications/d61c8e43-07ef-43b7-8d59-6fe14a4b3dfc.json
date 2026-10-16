@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:52.25553+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b30cf54e-24ec-4137-a03a-f95279314d00",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d61c8e43-07ef-43b7-8d59-6fe14a4b3dfc",
+  "input": "{\"title\": \"Prepare Your Weapon\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Escape the Fate'",
+  "status": "verified"
+}

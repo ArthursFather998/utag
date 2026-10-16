@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:11.078031+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "414443bd-5bc5-4fe7-a39c-fa64621721fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7dd9644-eb47-4736-9de7-5bf9e68a7a5d",
+  "input": "{\"title\": \"No other words\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'All Original Parts: Volume 1'",
+  "status": "verified"
+}

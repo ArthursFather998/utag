@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:46.380377+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1559696d-4e7b-4b82-820a-047f2915c985",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68ba0187-480e-43b3-a79f-e9d52ccc57a4",
+  "input": "{\"title\": \"Sara\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '25 Years – The Chain'",
+  "status": "verified"
+}

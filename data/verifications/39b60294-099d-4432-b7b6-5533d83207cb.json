@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:07.906133+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af26c426-cf9c-4657-bfd5-268c40be0a83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39b60294-099d-4432-b7b6-5533d83207cb",
+  "input": "{\"title\": \"Dive\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

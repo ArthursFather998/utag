@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:54.095193+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bda18fa4-c28b-47a9-be48-44a97ff39fc9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4996442-b4e8-4d2e-a648-d0e7c5323f41",
+  "input": "{\"title\": \"Captive Heart\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Captive Heart'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:18.393592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c44fad3-4df1-4e1f-95d4-98716df950e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7071335f-bdec-403c-94f8-41cfcc6f5df5",
+  "input": "{\"title\": \"Eye Candy\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Swag II'",
+  "status": "verified"
+}

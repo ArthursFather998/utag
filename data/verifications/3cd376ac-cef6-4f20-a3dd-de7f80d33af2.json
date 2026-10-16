@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:39.690856+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe6e37bb-7619-4672-be51-f01926823c0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3cd376ac-cef6-4f20-a3dd-de7f80d33af2",
+  "input": "{\"title\": \"I've Been Waiting\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I've Been Waiting'",
+  "status": "verified"
+}

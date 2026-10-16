@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:44.346735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41b9ecf1-b1fe-41f8-b954-17ad576e48fe",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dc496a60-2a5f-414c-b2df-b65c34d3ac95",
+  "input": "{\"title\": \"Spotify Singles\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Spotify-exclusive EP (filed as release_type='album' per convention), released 24 Mar 2021. Side A: acoustic version of 'Without You'; Side B: piano cover of Drake's 'Shot For Me'.",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:14.753344+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0eeca77c-fbb2-4c06-a31e-f7c0159d681e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3fa547df-2d04-48e4-9ed8-e50e6683c6eb",
+  "input": "{\"title\": \"Heaven\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Hard to Imagine'",
+  "status": "verified"
+}

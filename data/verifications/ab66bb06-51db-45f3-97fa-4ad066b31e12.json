@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:36.30751+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9a78f82-0562-41d4-84a6-a3bbe1e46739",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab66bb06-51db-45f3-97fa-4ad066b31e12",
+  "input": "{\"title\": \"Acuerdate de Mi\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'And the Winner Is...'",
+  "status": "verified"
+}

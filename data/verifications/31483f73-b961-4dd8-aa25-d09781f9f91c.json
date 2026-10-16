@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:57.782452+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b74bd101-37b9-4dca-a47b-d24ac4a0f057",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31483f73-b961-4dd8-aa25-d09781f9f91c",
+  "input": "{\"title\": \"All Nighter\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Amala'",
+  "status": "verified"
+}

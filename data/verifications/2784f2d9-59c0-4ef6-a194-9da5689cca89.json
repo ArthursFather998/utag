@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:24.92029+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9b2b66e-af0a-4f0c-9be9-02079f81b742",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2784f2d9-59c0-4ef6-a194-9da5689cca89",
+  "input": "{\"title\": \"Liability\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Honestly, Nevermind'",
+  "status": "verified"
+}

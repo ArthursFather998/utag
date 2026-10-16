@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:50.692939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b650ddf-8e33-4b95-91a0-21eae3320ccb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c65cb8a-1cdf-4fe2-948c-a28f4792cffe",
+  "input": "{\"title\": \"Culpable (a duo con Solange)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Desechable'",
+  "status": "verified"
+}

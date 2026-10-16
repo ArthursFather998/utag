@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:33.340693+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75abb3f1-bfc3-49df-946c-42f0390ef72b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d737b6a7-0922-4f01-9d61-9d68db826e27",
+  "input": "{\"title\": \"There! I've Said It Again\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'The Ultimate Epic Singles Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:53.837224+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "993a0c6d-72de-4cb7-af9e-4788c15850a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dd99fdd-c2e3-491d-982a-32ff9d1a4b6f",
+  "input": "{\"title\": \"Had Enough\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Heaven or Hell'",
+  "status": "verified"
+}

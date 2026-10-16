@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:43.370799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1f6e5bb-3349-42b2-908b-79375b85ce4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e96fcd9-7b5b-4f8a-9072-1c949a948d61",
+  "input": "{\"title\": \"Don't Want A Love Song\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Want A Love Song'",
+  "status": "verified"
+}

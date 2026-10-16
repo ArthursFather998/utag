@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:25.502574+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9dd2833-712e-4a9a-b6d4-a588d1a15235",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85ece2a4-99d2-4bdd-b7c0-2b49534edbc9",
+  "input": "{\"title\": \"Lullaby (performed by Lil Uzi Vert)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Pluto x Baby Pluto'",
+  "status": "verified"
+}

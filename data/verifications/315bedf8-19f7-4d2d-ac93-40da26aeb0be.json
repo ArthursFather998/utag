@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:13.502501+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "544c272c-253e-403f-8308-9db7724c25ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "315bedf8-19f7-4d2d-ac93-40da26aeb0be",
+  "input": "{\"title\": \"I Loved Another Woman\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Best of Peter Green's Fleetwood Mac'",
+  "status": "verified"
+}

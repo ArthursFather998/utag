@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:30.191353+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1efa9a4-73bd-4f7c-9ce9-70c9955b8faa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8de48666-f032-403e-8ada-ad03a7370e0e",
+  "input": "{\"title\": \"My Way\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:33.767037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a31c47b-3ac9-4470-aefe-74b9b5ade70f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bdf0744b-545b-405a-be69-b72e439f6718",
+  "input": "{\"title\": \"One Life\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Journals'",
+  "status": "verified"
+}

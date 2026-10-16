@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:15.601267+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f3b7ed2-135e-4e26-9e04-fd91db72b4a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b14fcf0-0ede-43f3-bc4b-cfe96979f49a",
+  "input": "{\"title\": \"The Party's Over (Hopelessly in Love)\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Captured'",
+  "status": "verified"
+}

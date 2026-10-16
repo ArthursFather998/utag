@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:51.363102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "168275a7-1b12-4668-b0d0-f5221949e241",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a74564e-c4c4-4b9e-9588-5552e9647ff6",
+  "input": "{\"title\": \"The Real Slim Shady (Live From MTV VMAs / 2000)\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

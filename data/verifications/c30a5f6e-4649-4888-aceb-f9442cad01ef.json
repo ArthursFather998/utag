@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:26.219529+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "009b03f3-e981-4c8f-8a92-a24011e38b09",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c30a5f6e-4649-4888-aceb-f9442cad01ef",
+  "input": "{\"title\": \"Good Enough\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Open Door'",
+  "status": "verified"
+}

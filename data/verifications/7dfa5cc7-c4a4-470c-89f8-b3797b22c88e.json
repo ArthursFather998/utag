@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:14.745021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f8454d1-18bb-47a9-ab93-a0ee38c03e85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dfa5cc7-c4a4-470c-89f8-b3797b22c88e",
+  "input": "{\"title\": \"Heaven Sent\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Take It to the Limit'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:28.00734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43298422-83c5-4751-9f59-9925dbb6b951",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9683a6a2-5ec0-4b7b-bee7-e45af3305242",
+  "input": "{\"title\": \"Rainy Zurich\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Scars & Stories'",
+  "status": "verified"
+}

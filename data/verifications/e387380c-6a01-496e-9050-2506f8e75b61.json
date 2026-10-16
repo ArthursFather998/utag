@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:50.564933+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24e37eda-133e-4511-bffd-8922e9249278",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e387380c-6a01-496e-9050-2506f8e75b61",
+  "input": "{\"title\": \"5 O'Clock Shadow\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Rust Colored Stones'",
+  "status": "verified"
+}

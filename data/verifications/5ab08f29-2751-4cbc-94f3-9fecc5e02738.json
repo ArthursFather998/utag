@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:22.833911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d4d7526-0493-4a81-aa3c-0dca6642b84b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5ab08f29-2751-4cbc-94f3-9fecc5e02738",
+  "input": "{\"title\": \"Queen (Deluxe Remastered Version)\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

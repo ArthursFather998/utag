@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:51.873736+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de7f9fde-cb20-4b72-a70c-cc28e7ced63c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "07dff484-5b3c-4268-8b9c-1787141a9575",
+  "input": "{\"title\": \"Happier Than Ever\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Billie Eilish cover; viral Nov 2021 (56.6M TikTok views).",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:05.461152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50706ed8-40ab-4807-b2a2-5b4984642b44",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d39f02f9-fa5e-4e75-8260-f6ad31bffa42",
+  "input": "{\"title\": \"Talking to the Moon\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Doo-Wops & Hooligans (Deluxe Edition)'",
+  "status": "verified"
+}

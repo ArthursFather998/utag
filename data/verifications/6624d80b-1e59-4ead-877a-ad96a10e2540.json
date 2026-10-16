@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:14.038923+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87983c40-7bca-413e-9ef1-c30b59d06d0b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6624d80b-1e59-4ead-877a-ad96a10e2540",
+  "input": "{\"title\": \"Medium Fries\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Collect Call'",
+  "status": "verified"
+}

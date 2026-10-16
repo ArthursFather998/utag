@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:27.716577+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7263459-f682-4173-b9fb-e36ce565464a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "146f7845-0975-42f5-915b-09317ef6cd29",
+  "input": "{\"title\": \"Kiss Me (Top Ten Edit)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Top Ten'",
+  "status": "verified"
+}

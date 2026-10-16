@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:21.971677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13df935c-8592-4ef9-bf2c-86ab632d622b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ece1bab9-a951-4245-9513-4d486d4bf814",
+  "input": "{\"title\": \"Hurt Me\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Goodbye & Good Riddance'",
+  "status": "verified"
+}

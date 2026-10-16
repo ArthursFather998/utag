@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:41.267001+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87c1e36e-e16e-430e-be55-c021c0591a0f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c846f793-9265-4a00-81fa-802f0896bee0",
+  "input": "{\"title\": \"Back at One\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Ultimate Collection'",
+  "status": "verified"
+}

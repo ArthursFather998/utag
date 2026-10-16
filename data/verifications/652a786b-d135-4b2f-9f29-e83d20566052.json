@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:38.298472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77201b42-1f45-44d8-8120-a6e3bb92001b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "652a786b-d135-4b2f-9f29-e83d20566052",
+  "input": "{\"title\": \"Don't Stop\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Mirage Tour '82'",
+  "status": "verified"
+}

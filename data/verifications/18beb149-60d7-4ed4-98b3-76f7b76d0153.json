@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:50.526159+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01a063bc-402b-4b84-a8b0-9dc1e9822f57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18beb149-60d7-4ed4-98b3-76f7b76d0153",
+  "input": "{\"title\": \"Emotionless\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Scorpion'",
+  "status": "verified"
+}

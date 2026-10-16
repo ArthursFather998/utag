@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:40.570881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27c169ca-753f-4b44-a952-d805ecc4ef55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ecbab0ec-41a6-45d6-b221-ebe20b7d7e59",
+  "input": "{\"title\": \"Melly the Menace\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Melly the Menace'",
+  "status": "verified"
+}

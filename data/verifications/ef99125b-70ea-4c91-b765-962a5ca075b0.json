@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:54.109854+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9a2033f-5542-4633-a5f2-227b68996bee",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ef99125b-70ea-4c91-b765-962a5ca075b0",
+  "input": "{\"title\": \"Face 2 Face\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

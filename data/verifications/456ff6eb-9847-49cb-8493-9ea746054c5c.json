@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:50.891633+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ffe4e534-0a26-4d1c-8fe6-26f6b7281123",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "456ff6eb-9847-49cb-8493-9ea746054c5c",
+  "input": "{\"title\": \"Tenochtitl\\u00e1n\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

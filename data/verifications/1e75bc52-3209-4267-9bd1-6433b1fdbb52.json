@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:23.510141+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86b35724-74ab-4531-9051-2431df74e4c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e75bc52-3209-4267-9bd1-6433b1fdbb52",
+  "input": "{\"title\": \"Damita Jo\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Damita Jo'",
+  "status": "verified"
+}

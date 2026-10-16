@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:16.374834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c2fff6b-fcad-44cf-b9bf-d7fb84bde0df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe96aa6a-054d-49b5-9bce-1d8d02732786",
+  "input": "{\"title\": \"You Mean Everything To Me\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Come Softly to Me: The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

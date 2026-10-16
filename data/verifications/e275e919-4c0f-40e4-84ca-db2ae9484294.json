@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:00.740312+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f6dbf1c-e98e-42f2-a2ed-d094d5a9c930",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e275e919-4c0f-40e4-84ca-db2ae9484294",
+  "input": "{\"title\": \"Put Me Down\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Treasure Box – The Complete Sessions 1991–1999'",
+  "status": "verified"
+}

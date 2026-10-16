@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:48.505922+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39b24b0b-be05-4df4-85bc-3da181e728c8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c7963c8a-1b7a-4360-9fe8-240f690f1f4e",
+  "input": "{\"title\": \"Sincerely\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

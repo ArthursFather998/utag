@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:10.381793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1293c292-a11c-402e-aee0-e53bf9d115c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "829d1e12-1e41-4cb0-b6f4-baa370c6bdbc",
+  "input": "{\"title\": \"Hold on Baby\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'janet.'",
+  "status": "verified"
+}

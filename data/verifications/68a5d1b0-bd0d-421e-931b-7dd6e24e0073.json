@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:49.333573+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb4991e0-d9ef-458e-86f8-0df4b4c3cfd0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68a5d1b0-bd0d-421e-931b-7dd6e24e0073",
+  "input": "{\"title\": \"From the Start\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Bewitched'",
+  "status": "verified"
+}

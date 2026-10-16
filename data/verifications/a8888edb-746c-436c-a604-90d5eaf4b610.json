@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:33.764759+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5cbf44b0-8954-4ed8-9d3a-4d20b7f79b58",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8888edb-746c-436c-a604-90d5eaf4b610",
+  "input": "{\"title\": \"Syndicate\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Fray - The Collection'",
+  "status": "verified"
+}

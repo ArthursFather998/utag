@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:17.338535+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "18d42875-7a21-4af9-804f-a8063ff4c5b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9767eed7-9f65-426d-a001-915d1c75350d",
+  "input": "{\"title\": \"When I Was Your Man\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'When I Was Your Man'",
+  "status": "verified"
+}

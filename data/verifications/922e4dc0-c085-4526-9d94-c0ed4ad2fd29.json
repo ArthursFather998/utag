@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:26.17765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60272fb7-b964-44e2-abc2-52c691bb373d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "922e4dc0-c085-4526-9d94-c0ed4ad2fd29",
+  "input": "{\"title\": \"Welcome to the New Administration\", \"release_type\": \"album\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

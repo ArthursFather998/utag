@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:46.498014+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31c222fa-3e8c-4390-9057-9b45828ed623",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c275adf-8b8d-41c5-a551-955b3f322001",
+  "input": "{\"title\": \"We Will Rock You (Fast Version)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'On Air'",
+  "status": "verified"
+}

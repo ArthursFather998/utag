@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:49.156865+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c786663-7364-4c23-bfc6-9c817c1745cf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1857b5d6-1a2d-4afc-8118-002c996693b2",
+  "input": "{\"title\": \"Here We Go Around Again\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

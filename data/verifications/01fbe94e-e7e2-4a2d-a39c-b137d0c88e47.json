@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:47.482459+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e373bf0-f8a2-4816-b3f6-f76383656488",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01fbe94e-e7e2-4a2d-a39c-b137d0c88e47",
+  "input": "{\"title\": \"Nikita\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Nikita'",
+  "status": "verified"
+}

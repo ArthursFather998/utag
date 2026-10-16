@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:34.682886+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4579b9cf-7bd1-4396-9544-6a866457a53a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e1d809e6-915e-454a-a57e-2f88db15c422",
+  "input": "{\"title\": \"Black Mambo\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Glass Animals'",
+  "status": "verified"
+}

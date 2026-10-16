@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:26.851321+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2cb8a9e3-98d1-4dcd-a881-dbc05c0474c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4bc8acb5-8b82-4ecc-8de0-d19ace96496d",
+  "input": "{\"title\": \"7969 Santa\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'For All the Dogs'",
+  "status": "verified"
+}

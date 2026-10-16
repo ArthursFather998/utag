@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:50.327876+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "262ea3a5-a8f4-4ef7-9731-fb065c93fe88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8dc0c90-151e-4344-a1be-09ed0f547c53",
+  "input": "{\"title\": \"Someone's Gonna Get Their Head Kicked in Tonite\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Collection'",
+  "status": "verified"
+}

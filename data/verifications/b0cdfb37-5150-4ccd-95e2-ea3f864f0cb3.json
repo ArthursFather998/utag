@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:42.135038+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84734afb-a491-4aa7-bf15-636991c905e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0cdfb37-5150-4ccd-95e2-ea3f864f0cb3",
+  "input": "{\"title\": \"The Champ\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Champ'",
+  "status": "verified"
+}

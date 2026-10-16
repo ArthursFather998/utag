@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:32.300913+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f33b5fa-192e-4c19-af2a-b44ebd0c57f3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5fdc46e3-4945-4923-8b26-df2145fa6b12",
+  "input": "{\"title\": \"Peaches\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

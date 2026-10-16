@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:04.908765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4edb3e31-9557-4804-a23c-4a0efd19bd5a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a28a53b3-0262-40df-966e-8f6b32b32b2a",
+  "input": "{\"title\": \"She's Dope! (Epod Mix)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'WBBD-Bootcity!: The Remix Album'",
+  "status": "verified"
+}

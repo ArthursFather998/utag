@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:09.729815+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07589d78-2e18-4533-ac87-4183ac9f5680",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "494fc267-0ebe-480e-93ff-9c64ccc52884",
+  "input": "{\"title\": \"Emily\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The One'",
+  "status": "verified"
+}

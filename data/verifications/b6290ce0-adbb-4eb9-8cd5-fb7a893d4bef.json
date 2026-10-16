@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:26.673792+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77a9d88b-d7ee-466b-b5de-764b3d13c047",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6290ce0-adbb-4eb9-8cd5-fb7a893d4bef",
+  "input": "{\"title\": \"I'll Be Fine\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Goodbye & Good Riddance'",
+  "status": "verified"
+}

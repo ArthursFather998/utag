@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:30.144678+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64fa586e-5099-41e8-be2c-e84a38620eef",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7104b155-91fa-45f7-8f6e-8b35f0fc0f71",
+  "input": "{\"title\": \"Disco\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:07.585139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19366ab9-6c80-4e96-a2a5-5ba1bb01ae5d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d38d4f7-b715-4b4a-ab10-ba0d697523df",
+  "input": "{\"title\": \"lost my heart\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'lost my heart'",
+  "status": "verified"
+}

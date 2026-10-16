@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:31.509709+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15a01f0f-c74e-43ad-95e3-086faf448340",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ee0368b-fae1-4dbc-b2f4-5f63349a52ae",
+  "input": "{\"title\": \"Ferragamo\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ferragamo'",
+  "status": "verified"
+}

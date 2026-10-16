@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:42.233168+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e23b94f-3610-4741-a370-497aba28e24a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "97458a93-69ba-46d2-b392-ab6e9417ab5a",
+  "input": "{\"title\": \"FourFiveSeconds\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

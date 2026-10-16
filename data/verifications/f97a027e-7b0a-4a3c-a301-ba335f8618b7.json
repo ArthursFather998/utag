@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:57.131702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1feb3add-2d92-4ed6-9b9a-53dfd4e011d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f97a027e-7b0a-4a3c-a301-ba335f8618b7",
+  "input": "{\"title\": \"Jill Scott (featuring Jill Scott)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Alicia'",
+  "status": "verified"
+}

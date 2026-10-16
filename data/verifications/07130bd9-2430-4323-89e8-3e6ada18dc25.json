@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:32.430006+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "565346e7-ef1f-4282-a30c-f65a268e340f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "07130bd9-2430-4323-89e8-3e6ada18dc25",
+  "input": "{\"title\": \"...baby one more time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '...baby one more time'",
+  "status": "verified"
+}

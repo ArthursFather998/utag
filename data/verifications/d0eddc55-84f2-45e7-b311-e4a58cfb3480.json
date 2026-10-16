@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:32.871325+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aae7256f-89df-41d7-a856-39dafe6dc8e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0eddc55-84f2-45e7-b311-e4a58cfb3480",
+  "input": "{\"title\": \"Woman in Chains\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Woman in Chains'",
+  "status": "verified"
+}

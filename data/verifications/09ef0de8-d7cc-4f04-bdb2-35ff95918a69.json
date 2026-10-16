@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:50.46787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae40aa68-53a7-4932-86fc-9cc03c34cbac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09ef0de8-d7cc-4f04-bdb2-35ff95918a69",
+  "input": "{\"title\": \"Tell Me from the Start\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'The Vaudeville Years'",
+  "status": "verified"
+}

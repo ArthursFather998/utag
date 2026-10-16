@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:41.698261+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de3daad4-7234-4554-99c7-1ceb372f1c6c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8cc3175c-9f4a-42dd-a6cb-3e9f86aae11f",
+  "input": "{\"title\": \"Adicto\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Orquídeas Parte 2'",
+  "status": "verified"
+}

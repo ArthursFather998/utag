@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:29.763303+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "382ad276-58de-4cac-9a19-aef92301a31b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8cdecd89-ac69-4a69-a01a-00a6989bb19f",
+  "input": "{\"title\": \"Waves (Acoustic)\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

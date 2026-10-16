@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:46.948445+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0b51663-e0d9-4b0a-a22c-5d1f03828e60",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d077a753-1c11-4fdc-82b2-64de8dcdf0f4",
+  "input": "{\"title\": \"Doin' Time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Doin' Time'",
+  "status": "verified"
+}

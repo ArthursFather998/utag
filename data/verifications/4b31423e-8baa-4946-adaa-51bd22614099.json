@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:02.567272+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d72d28a-eef7-4f45-85f7-114b331bc527",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b31423e-8baa-4946-adaa-51bd22614099",
+  "input": "{\"title\": \"Alright\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Janet Jackson's Rhythm Nation 1814'",
+  "status": "verified"
+}

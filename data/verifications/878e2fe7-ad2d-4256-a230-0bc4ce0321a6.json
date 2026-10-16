@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:01.139069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a8771f6-ae44-40e9-bf4c-c0a9eb6010f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "878e2fe7-ad2d-4256-a230-0bc4ce0321a6",
+  "input": "{\"title\": \"Come Winter\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Room for Improvement'",
+  "status": "verified"
+}

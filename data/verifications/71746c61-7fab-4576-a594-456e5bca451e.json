@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:17:11.906006+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "created release 'Don't Forget About Me, Demos'",
+      "release->Don't Forget About Me, Demos"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "84864af6-3e08-479d-95bb-11bacc81143b",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "71746c61-7fab-4576-a594-456e5bca451e",
+  "input": {
+    "artist": "Dominic Fike",
+    "release": "Now That’s What I Call Music! 123",
+    "title": "Babydoll"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "'Babydoll' was originally released October 2018 as the third track on Dominic Fike's debut EP Don't Forget About Me, Demos; the NOW 123 comp filing should be corrected to the canonical EP release. | sources: https://en.wikipedia.org/wiki/Babydoll_(Dominic_Fike_song), https://dominicfike.fandom.com/wiki/Babydoll",
+  "status": "verified"
+}

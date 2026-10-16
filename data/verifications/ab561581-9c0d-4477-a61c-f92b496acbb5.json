@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:40.814614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92a745b1-f2f2-4f06-a8e1-9c5c61492b51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab561581-9c0d-4477-a61c-f92b496acbb5",
+  "input": "{\"title\": \"Werewolf (featuring Bring Me the Horizon)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Pink Tape: Boss Battle'",
+  "status": "verified"
+}

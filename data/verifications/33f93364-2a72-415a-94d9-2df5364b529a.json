@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:29.764682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98f73bd8-ec10-4c5e-8c65-c7c707c34a03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "33f93364-2a72-415a-94d9-2df5364b529a",
+  "input": "{\"title\": \"America's Suitehearts (acoustic)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'America's Suitehearts: Remixed, Retouched, Rehabbed and Retoxed'",
+  "status": "verified"
+}

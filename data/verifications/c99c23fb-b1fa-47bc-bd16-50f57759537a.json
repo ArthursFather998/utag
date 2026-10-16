@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:56.863242+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77ca9d99-4d67-45d8-b7b3-1552734edabc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c99c23fb-b1fa-47bc-bd16-50f57759537a",
+  "input": "{\"title\": \"U Smile (Acoustic Version)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'My Worlds: The Collection'",
+  "status": "verified"
+}

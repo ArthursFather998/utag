@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:39.955008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "280ddbd4-b1da-4dcc-b38a-4a8adfeb3969",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa656b9d-e2ca-42ad-808a-02b0edd4cd2b",
+  "input": "{\"title\": \"Cats\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Nothing's About to Happen to Me'",
+  "status": "verified"
+}

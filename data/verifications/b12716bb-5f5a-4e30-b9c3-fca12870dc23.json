@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:16.479475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e600fa32-1772-4598-bad5-ef74495f237a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b12716bb-5f5a-4e30-b9c3-fca12870dc23",
+  "input": "{\"title\": \"Plentiful (featuring Pusha T)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Keys'",
+  "status": "verified"
+}

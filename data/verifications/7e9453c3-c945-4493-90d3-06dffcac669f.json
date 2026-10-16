@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:31.668928+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "932df3a1-4f0d-42a8-9662-5bee5ae0f99f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7e9453c3-c945-4493-90d3-06dffcac669f",
+  "input": "{\"title\": \"Flick of the Wrist\", \"release_type\": \"single\", \"release_year\": 1974}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

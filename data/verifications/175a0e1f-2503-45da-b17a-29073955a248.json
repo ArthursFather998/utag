@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:33.363522+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fd9cb61-f047-45dc-863c-63f28d46ca4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "175a0e1f-2503-45da-b17a-29073955a248",
+  "input": "{\"title\": \"We'll Be Fine\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'In the Bedroom, I Confess'",
+  "status": "verified"
+}

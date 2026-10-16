@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:01.653923+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f70df0e-6bd1-4ec8-8e32-d4240d71fb1f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b3ce2ca8-3fdb-4f90-8721-cde0dc661148",
+  "input": "{\"title\": \"My Favourite Game\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

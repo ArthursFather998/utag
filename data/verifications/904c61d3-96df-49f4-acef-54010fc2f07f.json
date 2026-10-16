@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:05.220516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bfd8b87f-75b3-472f-8d1f-d11681b46696",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "904c61d3-96df-49f4-acef-54010fc2f07f",
+  "input": "{\"title\": \"Coming Home\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Heroes Are Hard to Find'",
+  "status": "verified"
+}

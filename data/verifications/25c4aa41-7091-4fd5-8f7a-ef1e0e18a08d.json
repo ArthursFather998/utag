@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:13.788939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4af09e97-94c1-41f6-a331-22ee48990b34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25c4aa41-7091-4fd5-8f7a-ef1e0e18a08d",
+  "input": "{\"title\": \"Public Service Announcement\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Slim Shady LP'",
+  "status": "verified"
+}

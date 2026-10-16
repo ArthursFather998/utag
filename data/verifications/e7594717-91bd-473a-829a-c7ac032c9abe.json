@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:19.974046+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "06f6cf85-e9df-4b58-9e8b-5333b2ce1a2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7594717-91bd-473a-829a-c7ac032c9abe",
+  "input": "{\"title\": \"Washing Machine Heart\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'The Land: The Live Album'",
+  "status": "verified"
+}

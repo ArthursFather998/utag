@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:18.995925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ef2f6a7-3baa-4bfd-8ac5-70f5213685a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e08be7d-c5ef-444b-8d2f-898bc52bc080",
+  "input": "{\"title\": \"One Sweet Day\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

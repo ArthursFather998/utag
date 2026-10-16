@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:26.618957+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ace7533d-2d3c-4d10-af7e-d8d5ec48e2da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49478ba6-e85a-4a58-b703-0f30bf8eba48",
+  "input": "{\"title\": \"Try Again\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Ultimate Aaliyah'",
+  "status": "verified"
+}

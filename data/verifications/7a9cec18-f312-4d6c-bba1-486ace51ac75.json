@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:53.408704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cdc3ca6c-7692-4b90-81a2-c6c78af85766",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a9cec18-f312-4d6c-bba1-486ace51ac75",
+  "input": "{\"title\": \"Sail On\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Destiny's Child'",
+  "status": "verified"
+}

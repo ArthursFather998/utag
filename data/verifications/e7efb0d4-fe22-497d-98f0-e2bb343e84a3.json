@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:48.121946+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12142b1f-5cea-457b-ba0b-642125eb1964",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7efb0d4-fe22-497d-98f0-e2bb343e84a3",
+  "input": "{\"title\": \"The Frog Prince\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live 06'",
+  "status": "verified"
+}

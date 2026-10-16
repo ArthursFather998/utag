@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:21.030349+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "910bec51-a676-4f6b-8aaa-890b817a424c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1ab7c3e1-57b5-4568-b85d-79f61833e18e",
+  "input": "{\"title\": \"Live at Wembley '86\", \"release_type\": \"album\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:24.403548+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "26de0c9b-4ef8-4851-96ac-3a413d80f639",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "ae1be62c-be7a-4979-83f2-1cb8e503bf5c",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Popular Monster",
+    "title": "Popular Monster"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Popular Monster is track 2 on the fifth studio album Popular Monster (Epitaph, Aug 16 2024); the 2019 title-track single was folded into the 2024 album, so the album attribution is correct. | sources: https://www.rock101.net/2024/05/07/falling-in-reverse-announces-new-album-popular-monster/, https://www.alibris.com/Popular-Monster-Falling-in-Reverse/music/405102545",
+  "status": "verified"
+}

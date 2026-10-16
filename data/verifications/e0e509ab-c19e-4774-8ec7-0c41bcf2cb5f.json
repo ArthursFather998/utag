@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:46.296086+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f6a29a4-45d9-4e03-afab-d054d8feb3b5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e0e509ab-c19e-4774-8ec7-0c41bcf2cb5f",
+  "input": "{\"title\": \"Bare Trees\", \"release_type\": \"album\", \"release_year\": 1972}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

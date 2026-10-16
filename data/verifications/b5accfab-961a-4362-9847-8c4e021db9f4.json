@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:06.986749+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97a799a7-7043-4530-8ed7-c896f0d4ba5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5accfab-961a-4362-9847-8c4e021db9f4",
+  "input": "{\"title\": \"They Don't Know About Us\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Take Me Home'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:07.613538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0258b9f5-b4b8-451b-9e89-392a6f26fc27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0fd87c27-65c5-4278-a95b-2b1521d23408",
+  "input": "{\"title\": \"Fee Fi Fo\", \"track_number\": 67}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 67 of 'Treasure Box – The Complete Sessions 1991–1999'",
+  "status": "verified"
+}

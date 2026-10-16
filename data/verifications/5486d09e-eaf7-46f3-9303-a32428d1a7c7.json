@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:44.400793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aec5e227-6947-4f3f-81ef-6d2dd8e62bf1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5486d09e-eaf7-46f3-9303-a32428d1a7c7",
+  "input": "{\"title\": \"OK on My Own\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

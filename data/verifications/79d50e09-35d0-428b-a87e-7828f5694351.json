@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:40.018219+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd177a72-a390-4fb9-895a-83069d3b13ab",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "79d50e09-35d0-428b-a87e-7828f5694351",
+  "input": "{\"title\": \"What Could Possibly Go Wrong\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:45.184945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0023c8aa-63d4-4fa0-82c8-f138ce163d93",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "408a1717-f14c-48fb-8c31-10a61ef66d30",
+  "input": "{\"title\": \"Here We Go!\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Here We Go!'",
+  "status": "verified"
+}

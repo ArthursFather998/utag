@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:49.734925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fac46930-3426-4212-9236-341f0424a927",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5260f7d3-24dc-4fc3-a2c8-9aad0156718c",
+  "input": "{\"title\": \"Live Magic\", \"release_type\": \"album\", \"release_year\": 1986}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

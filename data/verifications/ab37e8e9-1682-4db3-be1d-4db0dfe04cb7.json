@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:49.572533+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d64742ed-d067-4296-a309-447ae14dbe19",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ab37e8e9-1682-4db3-be1d-4db0dfe04cb7",
+  "input": "{\"title\": \"Gym Class\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

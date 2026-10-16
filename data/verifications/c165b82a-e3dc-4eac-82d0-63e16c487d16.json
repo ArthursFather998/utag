@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:12.008586+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89de15e2-8e0c-4d7b-ae87-7c85ccc43bb8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c165b82a-e3dc-4eac-82d0-63e16c487d16",
+  "input": "{\"title\": \"Applesauce\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Applesauce'",
+  "status": "verified"
+}

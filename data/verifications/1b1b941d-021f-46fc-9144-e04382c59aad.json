@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:28.811454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d802133-2f9d-4d0e-b0df-d26d222ce966",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1b1b941d-021f-46fc-9144-e04382c59aad",
+  "input": "{\"title\": \"The Other Side of the Moon\", \"release_type\": \"album\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

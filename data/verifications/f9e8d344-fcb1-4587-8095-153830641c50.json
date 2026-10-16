@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:22.604496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90ece732-421d-4af6-957b-dd72fdce6784",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9e8d344-fcb1-4587-8095-153830641c50",
+  "input": "{\"title\": \"Karmatron\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Good Morning to the Night'",
+  "status": "verified"
+}

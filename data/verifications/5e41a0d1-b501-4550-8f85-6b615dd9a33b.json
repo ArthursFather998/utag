@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:38.07806+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed3b74a3-de68-4969-b767-cb4e83087f6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e41a0d1-b501-4550-8f85-6b615dd9a33b",
+  "input": "{\"title\": \"Send Her My Love\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Frontiers'",
+  "status": "verified"
+}

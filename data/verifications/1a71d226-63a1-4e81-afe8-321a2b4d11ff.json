@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:19.445238+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d122da7b-68ba-4cfc-9b76-336b53d44536",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1a71d226-63a1-4e81-afe8-321a2b4d11ff",
+  "input": "{\"title\": \"Dragon Days\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Diary of Alicia Keys'",
+  "status": "verified"
+}

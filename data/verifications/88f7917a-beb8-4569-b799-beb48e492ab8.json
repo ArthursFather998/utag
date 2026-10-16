@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:03.280098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94023569-a5d6-4d9b-8c9c-5d8c607a6ad0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88f7917a-beb8-4569-b799-beb48e492ab8",
+  "input": "{\"title\": \"Rhiannon\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live'",
+  "status": "verified"
+}

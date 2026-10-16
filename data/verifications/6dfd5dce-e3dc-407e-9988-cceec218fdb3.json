@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:06.105706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "500ad3cc-767b-4c70-9d8d-af4bf7414305",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6dfd5dce-e3dc-407e-9988-cceec218fdb3",
+  "input": "{\"title\": \"Scars & Stories\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:44.104413+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92014c2b-35de-4442-a989-7808c2802f99",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "786fc094-5f25-4016-bae5-55b2a3eb3810",
+  "input": "{\"title\": \"Brand New Dance\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Death of Slim Shady (Coup de Grâce)'",
+  "status": "verified"
+}

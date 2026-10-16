@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:24.578826+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "513178b6-21ae-405c-8842-c4de02c14875",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82da6f68-7bd2-423c-ab80-29ceccfdcf45",
+  "input": "{\"title\": \"The Principal\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'K-12 (After School - Deluxe Edition)'",
+  "status": "verified"
+}

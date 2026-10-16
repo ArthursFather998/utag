@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:19.011873+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21ba664c-b651-4902-baa1-d3d6e25422e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9efa999a-de67-449f-aba4-b7f21979e130",
+  "input": "{\"title\": \"Jimmy San\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Goodnight My Love'",
+  "status": "verified"
+}

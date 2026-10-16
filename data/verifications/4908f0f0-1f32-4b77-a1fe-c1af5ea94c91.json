@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:52.80114+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31d5f9fa-b479-4fd6-8e76-34c98c7b5626",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4908f0f0-1f32-4b77-a1fe-c1af5ea94c91",
+  "input": "{\"title\": \"Misty\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Bewitched'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:22.57578+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c9bc73f-c159-482f-b8b5-b254c87c40bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5e36e77-9f79-432f-aeb8-a094921928a2",
+  "input": "{\"title\": \"Stan (live at 43rd Grammy Awards)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'STANS: The Official Soundtrack'",
+  "status": "verified"
+}

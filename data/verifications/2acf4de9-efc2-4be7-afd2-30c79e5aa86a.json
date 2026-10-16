@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:16:02.552519+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b88386e-5476-4ffb-9cb4-57fadcacbf80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2acf4de9-efc2-4be7-afd2-30c79e5aa86a",
+  "input": "{\"title\": \"Wide Open Heart\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Sanctuary'",
+  "status": "verified"
+}

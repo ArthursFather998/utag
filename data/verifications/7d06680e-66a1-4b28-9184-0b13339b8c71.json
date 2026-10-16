@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:16.250039+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e36a052-c8e9-4812-bdbb-80d2192f2400",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7d06680e-66a1-4b28-9184-0b13339b8c71",
+  "input": "{\"title\": \"One in a Million\", \"release_type\": \"album\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Standard edition (17 tracks). Japanese edition adds 'No Days Go By' as track 18.",
+  "status": "verified"
+}

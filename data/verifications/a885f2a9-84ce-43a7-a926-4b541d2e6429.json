@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:01.976579+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75b583e6-4ffd-437e-8baa-2b148e022c92",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a885f2a9-84ce-43a7-a926-4b541d2e6429",
+  "input": "{\"title\": \"Swivel\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Revenge of the Dreamers III'",
+  "status": "verified"
+}

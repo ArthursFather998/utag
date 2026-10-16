@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:39.625889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68cfd70f-70ca-4275-a3f7-ca2e2124c0a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9cda0da-4109-4419-b6c3-43218b84637b",
+  "input": "{\"title\": \"Slave\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Honky Château'",
+  "status": "verified"
+}

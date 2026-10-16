@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:15.208283+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31533e26-5c79-45b1-a9b3-52dafea35532",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a279375-85e2-4801-a227-c66e2a94a57a",
+  "input": "{\"title\": \"Je N'en Connais Pas La Fin\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Live at Wetlands, New York, NY, August 16, 1994'",
+  "status": "verified"
+}

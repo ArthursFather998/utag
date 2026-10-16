@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:06.893409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab12d38c-29bc-439b-8c53-70a61f718f9c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a33feaef-9ee1-4317-afa5-73194541b383",
+  "input": "{\"title\": \"Dollar and a Dream\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Come Up'",
+  "status": "verified"
+}

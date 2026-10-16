@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:36.577129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35e4c63f-babe-4a1b-bbff-0a94d3bf8962",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "59da5923-a1c0-4d73-be23-1987aa618729",
+  "input": "{\"title\": \"The Ballad of Danny Bailey (1909\\u201334)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Goodbye Yellow Brick Road'",
+  "status": "verified"
+}

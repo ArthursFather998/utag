@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:24.587512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7c16f0a-3204-499f-8e61-ea3b6a98adce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85a983de-b753-4b09-b6d3-5167eb68266d",
+  "input": "{\"title\": \"Somebody to Love\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:17.568924+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "762e7419-7192-4381-94c0-3a5e8a8a65f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "975da28c-d234-43de-89af-fe343ba3ebcf",
+  "input": "{\"title\": \"Dragging Dead Bodies in Blue Bags Up Really Long Hills\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'There's No Sympathy for the Dead'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:16.252277+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f672b752-0f1f-4e5d-b6c5-289bce466d07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c18052f5-b8fb-43b1-abab-ac85a30171d7",
+  "input": "{\"title\": \"Great King Rat\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live at the Rainbow '74'",
+  "status": "verified"
+}

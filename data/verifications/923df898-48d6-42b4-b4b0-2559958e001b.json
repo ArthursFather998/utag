@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:53.730839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d6c8994-a39c-40f7-a43e-787471d20960",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "923df898-48d6-42b4-b4b0-2559958e001b",
+  "input": "{\"title\": \"Farewell\", \"track_number\": 72}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 72 of 'Vinyl Box Set'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:56:04.628461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41d0f691-334b-40d4-a842-8b6ade630403",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "959f42db-2dce-4205-a860-2204d24fb9e6",
+  "input": "{\"title\": \"This Is the Day\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Stars: The Best of 1992–2002'",
+  "status": "verified"
+}

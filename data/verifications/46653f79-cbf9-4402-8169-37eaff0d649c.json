@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:33.650978+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f58703f-1c56-4c8e-806b-7329ed6494e8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "46653f79-cbf9-4402-8169-37eaff0d649c",
+  "input": "{\"title\": \"By Your Side\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'By Your Side'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:05.888166+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "576314f4-f46a-4983-ba5a-36bc2e643ee5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b14f771-fbdc-4c80-ad5f-9adc51df2335",
+  "input": "{\"title\": \"One Way or Another (Teenage Kicks)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'One Way or Another (Teenage Kicks)'",
+  "status": "verified"
+}

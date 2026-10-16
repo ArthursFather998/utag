@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:38.800284+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6b04f3b-9b59-4fdd-b619-d5fa7ea480c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4ea75b5-8915-4681-8595-78d016b4bbcd",
+  "input": "{\"title\": \"Long Gone\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Reign'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:50.920996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70bfb473-47bd-43d8-ae07-182c5e385bc7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a29fd14-6603-401b-a606-468e7be9f236",
+  "input": "{\"title\": \"The Other Side\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Evanescence'",
+  "status": "verified"
+}

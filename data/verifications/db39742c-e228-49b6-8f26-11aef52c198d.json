@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:10.132895+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b053be3c-bdff-4539-b509-e63d0a52604f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db39742c-e228-49b6-8f26-11aef52c198d",
+  "input": "{\"title\": \"Kyrie & Luka\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'The Death of Slim Shady (Coup de Grâce) (Expanded Mourner’s Edition)'",
+  "status": "verified"
+}

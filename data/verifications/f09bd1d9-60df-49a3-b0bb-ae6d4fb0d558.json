@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:22.645487+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30c4a932-1171-4aa1-9945-d42425bcbe2c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f09bd1d9-60df-49a3-b0bb-ae6d4fb0d558",
+  "input": "{\"title\": \"Go Down\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Love Sick'",
+  "status": "verified"
+}

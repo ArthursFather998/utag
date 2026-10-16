@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:54.682891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa88f963-d503-4e37-95f4-320eac80e1d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81a275e4-c792-4a8b-b639-14abafc6d455",
+  "input": "{\"title\": \"Any Way You Want It\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Departure'",
+  "status": "verified"
+}

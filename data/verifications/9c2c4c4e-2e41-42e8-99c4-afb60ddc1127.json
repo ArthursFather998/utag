@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:34.825902+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc9c1056-9cc9-460d-b21a-cee6bf0661e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c2c4c4e-2e41-42e8-99c4-afb60ddc1127",
+  "input": "{\"title\": \"Soy Amiga\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Alpha'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:28.528904+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77082e9c-a9b9-443d-bf35-fff9d9b4c41a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b42e0b22-2615-4811-b90b-bb28cae15dd0",
+  "input": "{\"title\": \"No Quiero Saber\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lo Mejor de...Selena'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:35.660402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24446aa2-7647-4d9c-9712-77ffbc22e3ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94350c0a-79eb-4deb-9811-22a3fc4d7290",
+  "input": "{\"title\": \"I'm Not Making Out With You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Sad Boys'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:17.952537+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c79e5274-31ba-4331-992e-82224261a4c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0541e291-741c-41f9-9640-a260caf003b3",
+  "input": "{\"title\": \"Christmas Eve\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Under the Mistletoe'",
+  "status": "verified"
+}

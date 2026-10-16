@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:59.356823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5c76e1b-1aae-4a14-ad95-0d96d68c6e20",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbaa37bb-54a8-4b41-98f4-193338b58def",
+  "input": "{\"title\": \"Lonely Is As Lonely Does\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Come Softly to Me: The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

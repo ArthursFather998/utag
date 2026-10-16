@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:43.754216+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "755eba2b-44ed-4d6e-a27d-6d51712b19be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee6a6b74-4e5d-4fb0-81db-54b853351178",
+  "input": "{\"title\": \"Heartache All Over the World\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Leather Jackets'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:26.487318+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c3221a1-8e8f-4600-bfef-36e7baa9fcdf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a14140f2-6730-4ef0-8fea-1fbbe010b5e6",
+  "input": "{\"title\": \"Action Figures Fighting\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Action Figures Fighting'",
+  "status": "verified"
+}

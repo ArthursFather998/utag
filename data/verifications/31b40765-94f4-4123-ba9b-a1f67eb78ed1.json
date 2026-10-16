@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:43.359635+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da2bdeb3-1da6-4c90-ab8f-38d2831481e7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "31b40765-94f4-4123-ba9b-a1f67eb78ed1",
+  "input": "{\"title\": \"The One\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

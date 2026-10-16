@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:04.612029+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6298ab0-8d13-459c-872b-04c6bc411a42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f739eb8-b433-4834-92bd-c0fee2952f20",
+  "input": "{\"title\": \"40 y MM\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '40 y MM'",
+  "status": "verified"
+}

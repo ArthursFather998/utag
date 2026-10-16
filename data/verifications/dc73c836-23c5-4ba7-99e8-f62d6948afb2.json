@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:38.06347+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6914912e-ffc5-4f4b-9591-e482e9b556e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc73c836-23c5-4ba7-99e8-f62d6948afb2",
+  "input": "{\"title\": \"Pon de Replay\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Coffret 4 CD'",
+  "status": "verified"
+}

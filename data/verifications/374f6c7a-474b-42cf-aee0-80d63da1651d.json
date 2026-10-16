@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:59.158922+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b656a02d-0a71-471b-95a2-b02229ad55b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "374f6c7a-474b-42cf-aee0-80d63da1651d",
+  "input": "{\"title\": \"Disc 2 - Don't Deny It\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

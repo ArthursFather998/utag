@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:04.880268+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5c62159-1aa0-427f-815f-4217d9fa04c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f315adb2-d64f-4c1a-bc8f-fe220eb0aa35",
+  "input": "{\"title\": \"Something Inside of Me\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Best of Peter Green's Fleetwood Mac'",
+  "status": "verified"
+}

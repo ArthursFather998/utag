@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:46.950944+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5fed63c-97a1-4f89-83b3-e3a2b9deab74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d46cf33-8a10-4425-a546-135d57624dff",
+  "input": "{\"title\": \"Back & Forth\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Age Ain't Nothing but a Number'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:27.528481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ea3199a-c574-4986-abcb-54698f570d20",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd68cefc-fb6a-4f09-a3a8-1b9ec0c1ea95",
+  "input": "{\"title\": \"Talking to the Moon\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'It's Better If You Don't Understand'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:30.822848+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9eea8939-47a3-442e-86a6-bb7b5613d082",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2883a431-880d-4e25-8e63-7b9d81a7df29",
+  "input": "{\"title\": \"Riot\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Riot'",
+  "status": "verified"
+}

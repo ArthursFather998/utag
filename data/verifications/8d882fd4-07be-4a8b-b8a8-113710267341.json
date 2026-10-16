@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:10.969568+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "501c243c-16d3-49de-8c0e-f4d45fa272d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d882fd4-07be-4a8b-b8a8-113710267341",
+  "input": "{\"title\": \"American\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Paradise'",
+  "status": "verified"
+}

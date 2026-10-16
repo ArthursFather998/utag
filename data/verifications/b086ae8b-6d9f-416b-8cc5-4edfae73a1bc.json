@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:30.454555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ad7349e-44ae-4c56-842e-817c3050be19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b086ae8b-6d9f-416b-8cc5-4edfae73a1bc",
+  "input": "{\"title\": \"Chasing the Crown\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '21 at 33'",
+  "status": "verified"
+}

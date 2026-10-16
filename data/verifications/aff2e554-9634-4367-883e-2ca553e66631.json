@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:52.500535+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ec56d51-159f-4d73-a87c-fa8e7fa3e5be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aff2e554-9634-4367-883e-2ca553e66631",
+  "input": "{\"title\": \"Another Late Night\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'For All the Dogs'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:09.664806+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "964b23ae-1843-4c0d-b1c3-7cba64c16287",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6eef23fe-a1ee-496d-92c7-3d60c8cf4ef4",
+  "input": "{\"title\": \"Take You Down\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Lana'",
+  "status": "verified"
+}

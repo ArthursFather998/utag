@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:57.661674+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a86fba91-21ea-4c67-ac17-74b0340d0ac9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbf9ed30-792f-4925-a40b-f13153a01c40",
+  "input": "{\"title\": \"\\u00bfC\\u00f3mo As\\u00ed?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Orquídeas'",
+  "status": "verified"
+}

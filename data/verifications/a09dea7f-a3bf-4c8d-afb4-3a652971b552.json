@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:48.044732+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "407746cb-ef7b-4551-a27b-6a802b3c1ceb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a09dea7f-a3bf-4c8d-afb4-3a652971b552",
+  "input": "{\"title\": \"Landslide\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Dance'",
+  "status": "verified"
+}

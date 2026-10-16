@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:58.020435+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39cb4b15-0d6c-469a-b978-bac9ddb82cea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c05b9bf-ffb5-47d0-a256-6e2c9c6935a0",
+  "input": "{\"title\": \"Soldier (featuring T.I. and Lil Wayne)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of '#1's'",
+  "status": "verified"
+}

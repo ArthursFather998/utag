@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:13.078436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c0dd74c-ae74-4db1-a9ad-c89ceaafd06f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f67e3c6f-07b5-42b5-8b66-22176cee7511",
+  "input": "{\"title\": \"What's It Gonna Be?!\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'Number Ones'",
+  "status": "verified"
+}

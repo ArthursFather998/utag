@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:04.446726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da7225a9-681b-4ee5-a794-c1e96f4bc513",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a200c8e9-4a7a-48f9-b644-82ed887e5cd3",
+  "input": "{\"title\": \"Melt Away\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Playlist: The Very Best of Mariah Carey'",
+  "status": "verified"
+}

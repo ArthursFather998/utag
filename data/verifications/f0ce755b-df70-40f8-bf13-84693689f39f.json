@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:07.561043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7bd05c94-f2f0-4f1d-9186-4381111e90d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0ce755b-df70-40f8-bf13-84693689f39f",
+  "input": "{\"title\": \"Single\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Wiped Out!'",
+  "status": "verified"
+}

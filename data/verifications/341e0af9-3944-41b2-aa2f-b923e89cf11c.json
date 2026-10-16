@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:00.407948+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5084de2-cee9-4f28-bac3-4c3202ee0b90",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "341e0af9-3944-41b2-aa2f-b923e89cf11c",
+  "input": "{\"title\": \"Timeless\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Timeless'",
+  "status": "verified"
+}

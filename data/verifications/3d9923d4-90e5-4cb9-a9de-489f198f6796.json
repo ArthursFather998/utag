@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:20.920892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61a074f9-8f2c-48cf-88f1-89af5a607e14",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3d9923d4-90e5-4cb9-a9de-489f198f6796",
+  "input": "{\"title\": \"Emerald\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

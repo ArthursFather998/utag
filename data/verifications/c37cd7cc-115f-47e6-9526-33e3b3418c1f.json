@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:42:23.479346+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7998e91a-0c44-41e5-a11b-8646e9c8adb8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c37cd7cc-115f-47e6-9526-33e3b3418c1f",
+  "input": "{\"title\": \"Joe\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'To the Faithful Departed'",
+  "status": "verified"
+}

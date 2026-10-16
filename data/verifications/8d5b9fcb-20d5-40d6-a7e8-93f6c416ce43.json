@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:38.034654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f089b1de-400e-441c-81bd-373e84ab9cdc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8d5b9fcb-20d5-40d6-a7e8-93f6c416ce43",
+  "input": "{\"title\": \"Biblical\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

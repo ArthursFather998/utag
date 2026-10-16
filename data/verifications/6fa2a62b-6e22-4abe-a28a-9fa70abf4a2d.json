@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:31.339648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b17c304-08fd-4bc8-8848-3687978eccae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6fa2a62b-6e22-4abe-a28a-9fa70abf4a2d",
+  "input": "{\"title\": \"Carousel\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

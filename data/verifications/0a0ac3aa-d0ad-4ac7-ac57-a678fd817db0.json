@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:11.781444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33df4e90-5d97-47d7-bc27-d9a4dfe02089",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a0ac3aa-d0ad-4ac7-ac57-a678fd817db0",
+  "input": "{\"title\": \"Lean wit Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Goodbye & Good Riddance'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:39.450619+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f75c2ff-1a1f-4c7c-bab0-e1061801b87b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5364a30c-c913-4891-b960-f28482ae35f6",
+  "input": "{\"title\": \"Rosary\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Octane'",
+  "status": "verified"
+}

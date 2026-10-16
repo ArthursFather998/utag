@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:45.892408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11962543-7a6b-4106-904d-5d0cf1e677ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de335e2d-2ec4-49a5-a319-7f236a498f87",
+  "input": "{\"title\": \"Enough For Now\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Fray - The Collection'",
+  "status": "verified"
+}

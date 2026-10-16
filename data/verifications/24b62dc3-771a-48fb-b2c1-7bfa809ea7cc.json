@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:51.566445+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "282d5837-80cb-4fa0-ae9c-94ad1e41fd3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "24b62dc3-771a-48fb-b2c1-7bfa809ea7cc",
+  "input": "{\"title\": \"Ev'ry Day of My Life\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'The Ultimate Epic Singles Collection'",
+  "status": "verified"
+}

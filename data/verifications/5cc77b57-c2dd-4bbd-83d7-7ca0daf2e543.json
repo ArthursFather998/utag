@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:55.928773+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f2ea1d3-d3b5-4e38-aa06-b5c721c2ab95",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cc77b57-c2dd-4bbd-83d7-7ca0daf2e543",
+  "input": "{\"title\": \"Straight Back Down\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'A Place We Knew'",
+  "status": "verified"
+}

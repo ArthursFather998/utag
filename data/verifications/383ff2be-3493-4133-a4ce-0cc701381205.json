@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:47.857991+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c601565-aaec-43f1-9d16-5152ff960a27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "383ff2be-3493-4133-a4ce-0cc701381205",
+  "input": "{\"title\": \"Suck It and See\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Suck It and See'",
+  "status": "verified"
+}

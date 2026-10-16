@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:48.55503+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83389baf-3ccb-4dfa-8818-c3ad3e73c0e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ff259fb-23ac-4a4c-a281-d0a82489dc6d",
+  "input": "{\"title\": \"I Am Human\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'I Am Human'",
+  "status": "verified"
+}

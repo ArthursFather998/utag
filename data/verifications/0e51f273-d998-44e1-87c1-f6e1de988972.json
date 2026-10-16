@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:05.57409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a769d026-f3d3-406c-aca2-a831cb1b2af7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e51f273-d998-44e1-87c1-f6e1de988972",
+  "input": "{\"title\": \"Intro-Lude 8701\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'My Way / 8701'",
+  "status": "verified"
+}

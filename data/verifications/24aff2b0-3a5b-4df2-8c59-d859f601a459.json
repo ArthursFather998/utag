@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:54.936511+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bad30103-1814-4a8b-ae35-324dc5e0f4d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "24aff2b0-3a5b-4df2-8c59-d859f601a459",
+  "input": "{\"title\": \"XO Tour Llif3\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'XO Tour Llif3'",
+  "status": "verified"
+}

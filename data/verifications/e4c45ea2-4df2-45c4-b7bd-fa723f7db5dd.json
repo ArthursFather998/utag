@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:54.377888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "376a9d53-ccf5-4efe-aa54-8e93691d175f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4c45ea2-4df2-45c4-b7bd-fa723f7db5dd",
+  "input": "{\"title\": \"Like You Were Mine\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Rearview Town'",
+  "status": "verified"
+}

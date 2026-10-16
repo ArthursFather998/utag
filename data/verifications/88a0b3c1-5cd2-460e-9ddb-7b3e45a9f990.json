@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:50.012892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ccb84d8-a0e5-4c5c-b2c7-0046a92c41a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88a0b3c1-5cd2-460e-9ddb-7b3e45a9f990",
+  "input": "{\"title\": \"Always in the Past\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Saturnine Martial & Lunatic'",
+  "status": "verified"
+}

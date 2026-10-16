@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:50.214953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ebd55a7-55b7-4cb6-bd68-7a0debe3d881",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9dd3a0ee-4c8e-4d10-8525-cdc62d4f3ca4",
+  "input": "{\"title\": \"Champions\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

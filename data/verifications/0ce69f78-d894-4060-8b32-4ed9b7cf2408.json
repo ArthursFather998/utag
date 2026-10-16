@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:37.003149+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7cc77df2-3e69-47c2-b031-280ed334c98a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ce69f78-d894-4060-8b32-4ed9b7cf2408",
+  "input": "{\"title\": \"Now I Know\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Vinyl Box Set'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:30.537031+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9fbe51ca-df01-48fb-bcc5-71dbbded6e75",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be4fa527-f532-47df-ab98-72da112b4ab5",
+  "input": "{\"title\": \"A Thousand Faces\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Thousand Faces'",
+  "status": "verified"
+}

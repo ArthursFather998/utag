@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:16.178898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b5355ba8-37d5-41f7-b7bf-8beab0e3e8a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe32d4cb-710e-4e06-82d6-aa89ecb8b53d",
+  "input": "{\"title\": \"Here I Go Again (featuring J-Status)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Music of the Sun / A Girl Like Me / Good Girl Gone Bad'",
+  "status": "verified"
+}

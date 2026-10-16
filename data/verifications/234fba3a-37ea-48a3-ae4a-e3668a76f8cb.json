@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:16.294208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cbebff5c-9f54-4af8-a6bb-e557516e8293",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "234fba3a-37ea-48a3-ae4a-e3668a76f8cb",
+  "input": "{\"title\": \"Final Goodbye\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Music of the Sun / A Girl Like Me / Good Girl Gone Bad'",
+  "status": "verified"
+}

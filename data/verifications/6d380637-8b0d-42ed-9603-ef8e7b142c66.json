@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:37.921095+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e0baef4-56ad-4c7b-86ad-41920630c176",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d380637-8b0d-42ed-9603-ef8e7b142c66",
+  "input": "{\"title\": \"Sugar, We're Goin Down\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'From Under the Cork Tree (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

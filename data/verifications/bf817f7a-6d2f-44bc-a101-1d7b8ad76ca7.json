@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:59.365475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22629a7d-5f7c-4f80-992b-c914274c6555",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf817f7a-6d2f-44bc-a101-1d7b8ad76ca7",
+  "input": "{\"title\": \"Female Robbery\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Female Robbery'",
+  "status": "verified"
+}

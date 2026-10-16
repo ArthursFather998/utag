@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:31.691695+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3a3af21-8bb1-41f4-9c75-ab6b0c636a37",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a0cb9be-ccec-4a1f-8dc1-412a31f10f2a",
+  "input": "{\"title\": \"Love You Less\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Piss in the Wind'",
+  "status": "verified"
+}

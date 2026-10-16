@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:41.997029+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ec5527f-f30c-43f6-b95d-a93130b19647",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dcc618c-cb0e-4b2c-8d8f-3c4fa2e96d2e",
+  "input": "{\"title\": \"So Lonely (One and Only Part II)\", \"track_number\": 32}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 32 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

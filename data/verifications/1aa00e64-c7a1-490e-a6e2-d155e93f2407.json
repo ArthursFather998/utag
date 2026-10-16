@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:06.947732+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b12d982d-fa1f-4658-9103-3238a80e898d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1aa00e64-c7a1-490e-a6e2-d155e93f2407",
+  "input": "{\"title\": \"Let Me Entertain You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

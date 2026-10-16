@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:31.243148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1bccc01c-b57e-4e32-ab94-9da1f2ac78e7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "687b720d-8a5c-41b6-a650-db33ca8809d1",
+  "input": "{\"title\": \"SCARLET\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:08.825141+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ae77f50-c465-478d-b98f-a52354ed8b67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab8b2331-7b04-4ab2-b855-3b56dc01df8d",
+  "input": "{\"title\": \"Everything Is a Cult\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Everything Is a Cult'",
+  "status": "verified"
+}

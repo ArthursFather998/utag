@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:12.199812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff96f09c-311c-4c67-813e-5bb6d272c61e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81be0d04-456b-4c79-8766-2087496c7b68",
+  "input": "{\"title\": \"When Will I See You Again\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Mighty'",
+  "status": "verified"
+}

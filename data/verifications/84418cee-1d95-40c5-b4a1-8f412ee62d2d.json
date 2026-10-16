@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:23.30412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "78d3d235-2445-4a8e-81d8-445b82dda999",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "84418cee-1d95-40c5-b4a1-8f412ee62d2d",
+  "input": "{\"title\": \"Shoulda, Woulda, Coulda\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

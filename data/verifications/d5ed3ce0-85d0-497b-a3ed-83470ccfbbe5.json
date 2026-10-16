@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:43.517293+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "595c3433-96de-4566-9c56-17ed245b5eb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5ed3ce0-85d0-497b-a3ed-83470ccfbbe5",
+  "input": "{\"title\": \"Through the Rain\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Through the Rain'",
+  "status": "verified"
+}

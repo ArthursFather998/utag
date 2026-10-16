@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:09.716162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe1a2cdc-1dee-4849-8f88-99aaf7538ff3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26b62147-c43f-44f1-983b-66547dffea76",
+  "input": "{\"title\": \"Melly the Menace\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Collect Call'",
+  "status": "verified"
+}

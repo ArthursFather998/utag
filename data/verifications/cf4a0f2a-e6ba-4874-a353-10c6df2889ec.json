@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:42.805842+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0adddfdb-6d22-45f4-bdb4-f3db891156dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf4a0f2a-e6ba-4874-a353-10c6df2889ec",
+  "input": "{\"title\": \"Save the Day\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Rarities'",
+  "status": "verified"
+}

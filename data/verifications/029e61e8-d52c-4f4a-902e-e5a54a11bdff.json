@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:20.702677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8fc2857d-f06f-4078-908f-13c7f16e840c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "029e61e8-d52c-4f4a-902e-e5a54a11bdff",
+  "input": "{\"title\": \"The Christmas Song\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

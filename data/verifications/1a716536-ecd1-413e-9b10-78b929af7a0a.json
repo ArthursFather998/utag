@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:31.373475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "689ba772-dd91-4387-910e-d8b0d6e08fbe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1a716536-ecd1-413e-9b10-78b929af7a0a",
+  "input": "{\"title\": \"Curtain (Burtains)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'We All Shine'",
+  "status": "verified"
+}

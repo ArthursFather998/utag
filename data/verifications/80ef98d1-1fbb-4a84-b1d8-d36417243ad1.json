@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:08.279454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b42e8cd5-f455-48bc-850d-4a2371b08676",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80ef98d1-1fbb-4a84-b1d8-d36417243ad1",
+  "input": "{\"title\": \"Love Takes Time\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of '#1's'",
+  "status": "verified"
+}

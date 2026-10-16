@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:32.376597+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50b6ae50-59c5-4a21-b113-54078e646e0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c1502b3-bbea-4458-89ae-685e6556e639",
+  "input": "{\"title\": \"Rush (featuring Kardinal Offishall)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Music of the Sun / A Girl Like Me'",
+  "status": "verified"
+}

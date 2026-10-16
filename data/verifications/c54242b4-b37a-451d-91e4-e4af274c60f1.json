@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:07.443562+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6543b26f-5ed4-4ba9-8ef9-e0089c1b79ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c54242b4-b37a-451d-91e4-e4af274c60f1",
+  "input": "{\"title\": \"The Bitch Is Back\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Very Best of Elton John'",
+  "status": "verified"
+}

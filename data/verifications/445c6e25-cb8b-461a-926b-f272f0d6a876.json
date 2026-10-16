@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:17.990902+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3998183d-444c-4e3b-88e8-a23b206b31dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "445c6e25-cb8b-461a-926b-f272f0d6a876",
+  "input": "{\"title\": \"Can't Take It\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Better'",
+  "status": "verified"
+}

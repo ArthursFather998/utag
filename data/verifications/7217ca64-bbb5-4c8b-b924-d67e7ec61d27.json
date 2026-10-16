@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:15.229954+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b9f20e7-1cfa-4f9e-9413-00bac42e775b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7217ca64-bbb5-4c8b-b924-d67e7ec61d27",
+  "input": "{\"title\": \"Bada Bing! Wit a Pipe! - Four Year Strong\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Welcome to the New Administration'",
+  "status": "verified"
+}

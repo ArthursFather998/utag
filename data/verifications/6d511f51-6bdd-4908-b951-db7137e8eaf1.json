@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:41.270072+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36cc1a54-13a7-413a-b03f-13be8b42a360",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6d511f51-6bdd-4908-b951-db7137e8eaf1",
+  "input": "{\"title\": \"Without Me\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

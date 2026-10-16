@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:52.307827+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11701657-2bcb-476b-b3f0-e84c3758fe56",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18b014f4-f483-495f-92b3-10bc1556c23f",
+  "input": "{\"title\": \"Look After You\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live at the Electric Factory: Bootleg No. 1'",
+  "status": "verified"
+}

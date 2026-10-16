@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:42.50945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a3b405e-9016-4c8c-a073-8cede3d23afb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de39a9e7-2299-44bc-a6f0-7224285a18c4",
+  "input": "{\"title\": \"That's the Way Love Goes\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Icon: Number Ones'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:04.062506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d85f0de9-e655-4567-a105-8e2dc589effc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6bd17e8e-e2d9-4148-bbe6-d48f377541d7",
+  "input": "{\"title\": \"Hate Me\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

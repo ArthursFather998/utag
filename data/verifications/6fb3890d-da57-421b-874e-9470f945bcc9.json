@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:21:14.036584+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ebc5bdf-8fd3-4791-9d2a-4ff7991beeee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6fb3890d-da57-421b-874e-9470f945bcc9",
+  "input": "{\"title\": \"No One\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'VH1 Storytellers'",
+  "status": "verified"
+}

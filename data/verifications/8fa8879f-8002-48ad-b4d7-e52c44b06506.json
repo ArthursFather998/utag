@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:41:04.397834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b3d71d9-f172-4e17-a9cc-ffebc213d2ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8fa8879f-8002-48ad-b4d7-e52c44b06506",
+  "input": "{\"title\": \"How\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Everybody Else Is Doing It, So Why Can't We?'",
+  "status": "verified"
+}

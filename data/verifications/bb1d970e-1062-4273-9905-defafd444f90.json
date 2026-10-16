@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:56.979502+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3590c1f1-fa2f-40a4-be2d-10f16a450391",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb1d970e-1062-4273-9905-defafd444f90",
+  "input": "{\"title\": \"Hair Salon\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'D-Day: A Gangsta Grillz Mixtape'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:40.274514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "584e3e3d-6172-4a52-9bc8-7e500867a57a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "987ed996-30c6-442e-bb25-872223b8d2b1",
+  "input": "{\"title\": \"Love of My Life\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Return of the Champions'",
+  "status": "verified"
+}

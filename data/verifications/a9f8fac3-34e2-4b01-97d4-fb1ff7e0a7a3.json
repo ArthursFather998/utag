@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:05.71155+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c673fb34-6084-4cd9-8e1e-0421684e7836",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9f8fac3-34e2-4b01-97d4-fb1ff7e0a7a3",
+  "input": "{\"title\": \"Won't Be Broken\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

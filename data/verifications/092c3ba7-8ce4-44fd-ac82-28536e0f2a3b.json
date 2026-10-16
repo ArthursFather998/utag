@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:12.832391+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa19198e-5210-4746-a655-2231ebd05628",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "092c3ba7-8ce4-44fd-ac82-28536e0f2a3b",
+  "input": "{\"title\": \"Love Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Me'",
+  "status": "verified"
+}

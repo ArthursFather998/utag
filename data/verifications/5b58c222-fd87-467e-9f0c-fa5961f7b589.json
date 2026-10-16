@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:19.460109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c70e7153-8fb6-45f5-abc1-6281fe9bba28",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b58c222-fd87-467e-9f0c-fa5961f7b589",
+  "input": "{\"title\": \"Tiramisu\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tiramisu'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:12.788329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea973c7b-18f4-4df0-a7ff-8c697e9a445b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e67927c-d330-4355-a1f7-73131573b106",
+  "input": "{\"title\": \"There She Goes (Acoustic)\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Sixpence None the Richer (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

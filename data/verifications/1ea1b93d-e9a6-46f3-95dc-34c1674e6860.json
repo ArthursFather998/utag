@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:56.530608+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98ffc89c-f744-4db5-b2ee-4d4c9c1fd0a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ea1b93d-e9a6-46f3-95dc-34c1674e6860",
+  "input": "{\"title\": \"Beautiful People Beautiful Problems\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Lust for Life'",
+  "status": "verified"
+}

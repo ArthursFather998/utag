@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:50.442863+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0851a93-ccab-49f0-849e-7fd9880d8910",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ff6c40d-904b-4465-8598-73c497213e6d",
+  "input": "{\"title\": \"WNBA\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Habibti'",
+  "status": "verified"
+}

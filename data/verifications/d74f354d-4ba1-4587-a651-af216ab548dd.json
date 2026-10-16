@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:53.879049+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33667d48-01e5-4189-a5e5-a9f96848f7f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d74f354d-4ba1-4587-a651-af216ab548dd",
+  "input": "{\"title\": \"I'll Be Lovin' U Long Time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I'll Be Lovin' U Long Time'",
+  "status": "verified"
+}

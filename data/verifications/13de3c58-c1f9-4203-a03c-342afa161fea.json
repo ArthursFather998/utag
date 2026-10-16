@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:15.246833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70bd7a9d-deeb-459b-9161-3b0b312554ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13de3c58-c1f9-4203-a03c-342afa161fea",
+  "input": "{\"title\": \"She Makes Me (Stormtrooper in Stilettoes)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Sheer Heart Attack (Deluxe Remastered Version)'",
+  "status": "verified"
+}

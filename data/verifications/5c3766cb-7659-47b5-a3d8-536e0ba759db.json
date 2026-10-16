@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:33.218296+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "137d2409-1984-4a0b-b26b-220908c8f88e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c3766cb-7659-47b5-a3d8-536e0ba759db",
+  "input": "{\"title\": \"Jane Doe\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Songs in A Minor: 20th Anniversary Edition'",
+  "status": "verified"
+}

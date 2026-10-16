@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:47.658258+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "656e2c06-e563-4d6b-879d-c36ded5e5f0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "053da5cb-12e5-40e0-921b-aff6b3ee915e",
+  "input": "{\"title\": \"Ya Se Va\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of '16 Super Éxitos Originales'",
+  "status": "verified"
+}

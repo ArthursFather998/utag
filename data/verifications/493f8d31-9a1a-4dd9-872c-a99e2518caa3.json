@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:09.446542+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf71fdad-0a57-4793-a18c-0eb255e1f1d3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "493f8d31-9a1a-4dd9-872c-a99e2518caa3",
+  "input": "{\"title\": \"Live at the BBC\", \"release_type\": \"album\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:44.378509+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "565b2cee-cd3b-4399-849a-1a13d00a9164",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a284d0cd-da9c-42a5-a1f3-5dec554723c6",
+  "input": "{\"title\": \"Watch Out\", \"track_number\": 44}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 44 of 'Original Fleetwood Mac: The Blues Years'",
+  "status": "verified"
+}

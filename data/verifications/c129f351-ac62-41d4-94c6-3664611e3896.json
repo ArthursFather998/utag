@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:15.341243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a2db658-cd16-4efe-a085-6d86140d602e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c129f351-ac62-41d4-94c6-3664611e3896",
+  "input": "{\"title\": \"Everybody's Fool\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Everybody's Fool'",
+  "status": "verified"
+}

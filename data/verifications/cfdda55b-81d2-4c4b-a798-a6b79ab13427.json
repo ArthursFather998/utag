@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:19.763507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d212647b-13a3-4836-a6f0-f9178f1fcdcf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfdda55b-81d2-4c4b-a798-a6b79ab13427",
+  "input": "{\"title\": \"(I'm a) Road Runner\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Penguin'",
+  "status": "verified"
+}

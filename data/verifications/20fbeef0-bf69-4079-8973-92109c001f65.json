@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:51.456822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83a4bdf0-55c8-4ad8-8a3d-5d770d4a7519",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20fbeef0-bf69-4079-8973-92109c001f65",
+  "input": "{\"title\": \"If the River Can Bend\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Big Picture'",
+  "status": "verified"
+}

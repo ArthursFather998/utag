@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:29.80692+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9332325f-865d-4b73-a443-16fa4868d141",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3353be08-01a4-4b5c-8972-6906ca9dfa4c",
+  "input": "{\"title\": \"When I Think of You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Control'",
+  "status": "verified"
+}

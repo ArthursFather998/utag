@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:09.915306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0a57744-9e77-4642-bdd4-d6c86c102ad7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a865518e-d1cb-4e8c-aab4-0c25d7a0a040",
+  "input": "{\"title\": \"White Girl\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Come Over When You're Sober, Pt. 2 (OG Version)'",
+  "status": "verified"
+}

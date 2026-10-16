@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:18.435157+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8610913c-a6ad-4e15-b2ea-df7d7b9c392c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "243b7de1-e7fe-4403-8ff2-94c2efb8598e",
+  "input": "{\"title\": \"Loose Change\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Wasteland'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:28.551152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b3838146-231a-4de8-9f84-cdcb138fdc17",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db1adbab-d3c7-4d24-ae5f-256a04b4b08d",
+  "input": "{\"title\": \"Don't Stop Believin'\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Stop Believin''",
+  "status": "verified"
+}

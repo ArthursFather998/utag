@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:10.918461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d3bacdbc-e4c1-4e28-ade4-478b0b49bc52",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "540e2999-3b9b-4529-8ec6-38c885864eed",
+  "input": "{\"title\": \"Kiss Me (Acoustic)\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Sixpence None the Richer (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:52.250887+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c459405b-9a5d-437f-9d56-4e0f016f93eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5592d115-3892-4cf3-b514-fd0823d02f9f",
+  "input": "{\"title\": \"I Need Another Drink\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'When the Smoke Clears'",
+  "status": "verified"
+}

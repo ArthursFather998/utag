@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:23.59965+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab921777-9a95-4607-9d04-2e5c13885c66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "136e4521-684a-4066-93ad-d85b2bd8f2f9",
+  "input": "{\"title\": \"Insane\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Relapse: Refill'",
+  "status": "verified"
+}

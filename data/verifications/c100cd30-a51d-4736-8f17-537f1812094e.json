@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:28.710712+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "779a326e-448a-43b0-b109-411dd3b137eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c100cd30-a51d-4736-8f17-537f1812094e",
+  "input": "{\"title\": \"Open Arms\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Ballade'",
+  "status": "verified"
+}

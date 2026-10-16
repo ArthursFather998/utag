@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:23.827573+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e84c873-36c7-4a2e-b255-a3dff50cf29c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7945b0ff-3724-4a65-91ce-7dbd5fc7bf1d",
+  "input": "{\"title\": \"Here\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

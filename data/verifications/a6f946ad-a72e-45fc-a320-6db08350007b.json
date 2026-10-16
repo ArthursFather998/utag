@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:34.652555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "091b076d-f1ed-4a5b-98e4-8c72c6f8f4c3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a6f946ad-a72e-45fc-a320-6db08350007b",
+  "input": "{\"title\": \"Baby Instructions\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

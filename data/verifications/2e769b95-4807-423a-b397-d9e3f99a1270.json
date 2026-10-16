@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:19.709218+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35b1876c-38a8-4dfb-a4c6-772c83d8db76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e769b95-4807-423a-b397-d9e3f99a1270",
+  "input": "{\"title\": \"haunt ya\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'love bites!'",
+  "status": "verified"
+}

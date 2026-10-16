@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:52.253481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a65fcfa9-59ff-43fd-ae90-82dccb3a345a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d77df53c-076c-4182-a9a0-add708aacbc1",
+  "input": "{\"title\": \"Love Me or Don't\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Rearview Town'",
+  "status": "verified"
+}

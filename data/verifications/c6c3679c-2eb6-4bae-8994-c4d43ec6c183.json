@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:47.973443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d7a3bc8-66fd-4a66-883c-018268aa38ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6c3679c-2eb6-4bae-8994-c4d43ec6c183",
+  "input": "{\"title\": \"Lilac Wine\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Original Album Classics'",
+  "status": "verified"
+}

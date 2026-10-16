@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:59.655012+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c14dd2b7-f1b0-4994-b423-71d313cee791",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c7b90993-e1ad-4729-a7a6-562cc6d9cfff",
+  "input": "{\"title\": \"Fragile\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Night at the Symphony'",
+  "status": "verified"
+}

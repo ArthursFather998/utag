@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:16.193398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f025798d-03cf-4e34-8bdc-5c97c43f95e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d7786cf-9f6a-4c36-ab50-0f0a5a640ada",
+  "input": "{\"title\": \"Spare Me a Little of Your Love\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of '50 Years – Don't Stop'",
+  "status": "verified"
+}

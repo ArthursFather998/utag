@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:27.397958+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "525c53bc-dd63-4dae-a3ab-c17f8e1eaf51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af711d6d-f5e2-448d-8577-8db5517ca0d9",
+  "input": "{\"title\": \"Hold Me\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

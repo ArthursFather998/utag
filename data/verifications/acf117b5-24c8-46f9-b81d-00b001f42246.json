@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:54.796425+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52c5694b-94fc-4910-8b5d-0a675ac05095",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "acf117b5-24c8-46f9-b81d-00b001f42246",
+  "input": "{\"title\": \"Diamonds\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Unapologetic'",
+  "status": "verified"
+}

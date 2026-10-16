@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:15.398603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65ed066a-cb4a-4bd5-a970-175b2e669337",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3107088e-8c92-4fd6-9d02-e114d3bbbd54",
+  "input": "{\"title\": \"I'm So Afraid\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Live'",
+  "status": "verified"
+}

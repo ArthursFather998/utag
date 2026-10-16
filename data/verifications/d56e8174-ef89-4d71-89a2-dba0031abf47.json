@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:50.524358+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b39a1db7-0157-4db5-bd8e-84e9a3785772",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d56e8174-ef89-4d71-89a2-dba0031abf47",
+  "input": "{\"title\": \"I'll Be Fine\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Goodbye & Good Riddance (5th Anniversary Edition)'",
+  "status": "verified"
+}

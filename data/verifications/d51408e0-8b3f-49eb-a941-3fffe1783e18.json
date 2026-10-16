@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:43.27927+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef2747cd-dbb6-46f4-975c-2497b7a7018c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d51408e0-8b3f-49eb-a941-3fffe1783e18",
+  "input": "{\"title\": \"Fangirl (featuring Gab3)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Everybody's Everything'",
+  "status": "verified"
+}

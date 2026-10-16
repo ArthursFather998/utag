@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:03.151188+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9a83255-5259-4995-9c0f-de90792811d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbce9ee3-6171-4f7d-b2cd-350542836f6b",
+  "input": "{\"title\": \"Memories Fade\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Hurting (30th Anniversary Edition)'",
+  "status": "verified"
+}

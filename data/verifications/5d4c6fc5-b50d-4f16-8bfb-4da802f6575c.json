@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:13.68177+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1468ecdf-e384-433f-b5a8-992d3ef96b54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d4c6fc5-b50d-4f16-8bfb-4da802f6575c",
+  "input": "{\"title\": \"I've Never Been in Love Before\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Everything I Know About Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:50.715857+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28814c10-5442-4401-b2dc-b898ee994fc0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c35a04f-c728-418f-b0b5-ed2a4607ceb5",
+  "input": "{\"title\": \"Appaloosa Bones\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Appaloosa Bones'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:01.083091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74e38904-2742-4d41-8ec0-cdbe88c974cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c078c4ad-ba27-4e36-bc05-2a9b3d4f58ef",
+  "input": "{\"title\": \"Smoking With Your Best Friend\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Smoking With Your Best Friend'",
+  "status": "verified"
+}

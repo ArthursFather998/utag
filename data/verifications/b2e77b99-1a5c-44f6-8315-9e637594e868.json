@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:34.167314+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6bef3e0c-635a-49a0-85cc-6c5a044c0092",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2e77b99-1a5c-44f6-8315-9e637594e868",
+  "input": "{\"title\": \"Gucci Mane\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Hellboy'",
+  "status": "verified"
+}

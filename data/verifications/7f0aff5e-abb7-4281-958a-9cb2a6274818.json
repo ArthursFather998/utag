@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:45.789698+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf045c92-780b-4779-9cb4-6b1669ef66d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f0aff5e-abb7-4281-958a-9cb2a6274818",
+  "input": "{\"title\": \"G4L\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Rated R'",
+  "status": "verified"
+}

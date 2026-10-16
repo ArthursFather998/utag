@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:13.402839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec9a2fed-3f0d-446e-b2e5-ad7ccc67c357",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8edd1866-4691-4b43-989a-e038ea9a8793",
+  "input": "{\"title\": \"Vancouver (Live)\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Jeff Buckley: Music & Photos'",
+  "status": "verified"
+}

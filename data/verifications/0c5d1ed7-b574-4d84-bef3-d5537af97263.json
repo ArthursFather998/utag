@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:13.257721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55af5bb1-37f4-4228-b7ad-b93bc8bd3502",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c5d1ed7-b574-4d84-bef3-d5537af97263",
+  "input": "{\"title\": \"Imagination (Live at h Club, London)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Deezer Sessions'",
+  "status": "verified"
+}

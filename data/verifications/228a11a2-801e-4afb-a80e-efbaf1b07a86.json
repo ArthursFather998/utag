@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:36.281262+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e21454f-83ce-48db-8c49-50239760b43d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "228a11a2-801e-4afb-a80e-efbaf1b07a86",
+  "input": "{\"title\": \"Xscape\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Life of a Don'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:28.095812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0bfc15b5-2ef0-4cd9-bbab-85fa6f68a681",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5fdd3a13-1dbb-4b65-bf07-6dd1e6d59e15",
+  "input": "{\"title\": \"Mount Everest\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

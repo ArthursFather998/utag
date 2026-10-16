@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:02.985365+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60998702-cc44-4b11-9da2-76c92012fb43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e0c8165-0458-40a4-82d9-0396f9c2bc89",
+  "input": "{\"title\": \"Choose Your Fate\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Escape the Fate (Deluxe Version)'",
+  "status": "verified"
+}

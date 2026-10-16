@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:05.73972+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a77eaa4-3d2d-4fd6-8057-a5a0d7dd5483",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39a6c00e-cacd-4bf8-a0cd-63d1279150bb",
+  "input": "{\"title\": \"Versace on the Floor\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '24K Magic (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:25.413496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a9a52d5-cdae-4694-ba29-df1806cbab61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b657cf71-c344-484d-b8f2-a349ec33e2fb",
+  "input": "{\"title\": \"Aperol Spritz\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Aperol Spritz'",
+  "status": "verified"
+}

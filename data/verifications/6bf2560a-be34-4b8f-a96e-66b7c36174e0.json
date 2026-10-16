@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:45.801493+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "172d8fd7-fc54-4b9d-9407-517aa69880c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6bf2560a-be34-4b8f-a96e-66b7c36174e0",
+  "input": "{\"title\": \"Tell Me When You've Had Enough\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tell Me When You've Had Enough'",
+  "status": "verified"
+}

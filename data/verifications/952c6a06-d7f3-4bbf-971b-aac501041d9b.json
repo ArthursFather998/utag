@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:03.611335+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4430eb3e-9796-415d-b607-1c5ba1e41707",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "952c6a06-d7f3-4bbf-971b-aac501041d9b",
+  "input": "{\"title\": \"The Hills\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Hills'",
+  "status": "verified"
+}

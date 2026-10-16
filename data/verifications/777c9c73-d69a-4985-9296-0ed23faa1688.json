@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:00.205191+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbab1748-4d69-4002-abcb-f4e12f7b8c90",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "777c9c73-d69a-4985-9296-0ed23faa1688",
+  "input": "{\"title\": \"U R the One\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of '8701'",
+  "status": "verified"
+}

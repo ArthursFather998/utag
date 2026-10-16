@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:50.482724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2749982-2a0e-45bb-affc-eb6b864967a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0ec0217-05eb-436a-90ed-b12912e840ff",
+  "input": "{\"title\": \"10,000 Hours\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '10,000 Hours'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:47.220017+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c7e0373-534c-4d8d-a6da-d794e33f369d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de415274-bee7-49d0-88e2-06f954f5de66",
+  "input": "{\"title\": \"I Feel It Coming (feat. Daft Punk)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Starboy (Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:04.723082+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b0809b4-b92d-430e-8e77-beab8e468f14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e4548f8-0e4e-4a79-90cd-cc24c2ff5d5a",
+  "input": "{\"title\": \"clover\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'clover'",
+  "status": "verified"
+}

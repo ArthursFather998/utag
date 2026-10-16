@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:13.910216+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7213ff6-5219-4f1e-98ce-c8ce7a64d988",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "235018c7-15fe-40e3-8679-5b62fa295793",
+  "input": "{\"title\": \"Seasons\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Friends'",
+  "status": "verified"
+}

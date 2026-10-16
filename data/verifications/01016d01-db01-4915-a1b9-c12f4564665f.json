@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:50.96828+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1e8423a-8d5d-47d1-891f-85897f55269b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01016d01-db01-4915-a1b9-c12f4564665f",
+  "input": "{\"title\": \"It's My Party\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'It's My Party'",
+  "status": "verified"
+}

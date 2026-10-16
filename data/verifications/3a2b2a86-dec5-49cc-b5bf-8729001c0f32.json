@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:36.554076+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5f242fe-4302-49ce-be44-c4bb7ad80af1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a2b2a86-dec5-49cc-b5bf-8729001c0f32",
+  "input": "{\"title\": \"Promise\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Greatest Hits'",
+  "status": "verified"
+}

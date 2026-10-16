@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:07.666905+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a0e55a0-0a6c-409a-b7ef-575238cc67ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b272942-513e-410a-a597-20fa9137536a",
+  "input": "{\"title\": \"Play Selection\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Discipline'",
+  "status": "verified"
+}

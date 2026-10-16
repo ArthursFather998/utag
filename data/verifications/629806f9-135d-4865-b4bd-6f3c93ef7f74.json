@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:06.529088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca70bdcf-7ef7-4f0a-950e-6dfa34f7342f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "629806f9-135d-4865-b4bd-6f3c93ef7f74",
+  "input": "{\"title\": \"Try Again (Live at Largo, Los Angeles, CA / 2008)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live At Largo (Los Angeles)'",
+  "status": "verified"
+}

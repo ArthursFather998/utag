@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:12.06077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a999e78-d9d6-481b-a6c1-53a1beccb7a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bf1c27f-ba0d-455f-8fe5-d0097d1a45c1",
+  "input": "{\"title\": \"Lala (featuring Swae Lee) (Unlocked)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Keys II'",
+  "status": "verified"
+}

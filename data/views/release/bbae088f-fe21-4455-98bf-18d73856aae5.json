@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+    "id": "6843fff2-c9d4-450e-b7aa-a12e08809507"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+        "id": "6843fff2-c9d4-450e-b7aa-a12e08809507"
+      },
+      "artwork": [
+        {
+          "id": "48bf945c-8c03-4faf-ae77-eabd770811fc",
+          "role": "canonical",
+          "source_url": "https://tse1.explicit.bing.net/th/id/OIP.ElzS_xXmSzDtc2BaL_K-qgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:35.814846+00:00",
+      "edition": "original",
+      "id": "b6d82d80-c0bb-441a-9274-e584f553dcdb",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "That's Not How This Works (Sabrina's Version)"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "6843fff2-c9d4-450e-b7aa-a12e08809507",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T08:32:00.490094+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "bbae088f-fe21-4455-98bf-18d73856aae5",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2023,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "That's Not How This Works",
+    "updated_at": "2026-10-16T08:32:00.490094+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6843fff2-c9d4-450e-b7aa-a12e08809507",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T08:32:03.603104+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c64e3607-7ae2-4ad7-b2ed-ee967d71b616",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "bbae088f-fe21-4455-98bf-18d73856aae5",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "That's Not How This Works",
+      "track_number": 1,
+      "updated_at": "2026-10-16T08:32:03.603104+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T08:32:02.215203+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "bbae088f-fe21-4455-98bf-18d73856aae5",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "fcd865eb-f312-4de3-ad88-8fcf2c18155e",
+      "input": "{\"title\": \"That's Not How This Works\", \"release_type\": \"single\", \"release_year\": 2023}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 10",
+      "status": "verified"
+    }
+  ]
+}

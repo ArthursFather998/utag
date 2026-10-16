@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:53.333869+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd0e8ab1-9efd-40b7-aae4-aa2783313a01",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "280eab28-31de-471c-828d-9d22d81b1f56",
+  "input": "{\"title\": \"What Happened to U\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Looking 4 Myself'",
+  "status": "verified"
+}

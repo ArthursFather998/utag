@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:38.592498+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8dead78-2e03-4d7e-a68e-171421025767",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "66aa60d7-da7e-4d15-b86c-ac8a41c3c07b",
+  "input": "{\"title\": \"Island Life\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Damita Jo'",
+  "status": "verified"
+}

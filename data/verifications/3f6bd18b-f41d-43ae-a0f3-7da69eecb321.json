@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:53.032787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85cc6eab-2cbb-4242-9abd-244e59fb280c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f6bd18b-f41d-43ae-a0f3-7da69eecb321",
+  "input": "{\"title\": \"I Constantly Thank God for Esteban\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'A Fever You Can't Sweat Out (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

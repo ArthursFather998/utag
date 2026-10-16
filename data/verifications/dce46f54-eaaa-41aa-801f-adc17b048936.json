@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:15.494114+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1a1e3b3-f6a0-4102-9f1b-4ca6b65c358e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dce46f54-eaaa-41aa-801f-adc17b048936",
+  "input": "{\"title\": \"Kiss Me Softly\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Arrival'",
+  "status": "verified"
+}

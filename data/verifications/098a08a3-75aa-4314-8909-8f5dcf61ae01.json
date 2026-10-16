@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:17:54.08648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "650e94c8-0a4a-44de-9264-ca3749067d0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "098a08a3-75aa-4314-8909-8f5dcf61ae01",
+  "input": "{\"title\": \"Mommy\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Slim Shady EP'",
+  "status": "verified"
+}

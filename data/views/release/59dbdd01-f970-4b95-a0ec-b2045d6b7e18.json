@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Tai Verdes",
+    "id": "413a183e-0357-47e1-aadb-87ee3703de98"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:48.432617+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "f265a301-4022-43af-86fb-f1b365a9bfd7",
+      "phash": null,
+      "release_id": "59dbdd01-f970-4b95-a0ec-b2045d6b7e18",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/07a875fb-1be9-42dd-8aa4-d040e48398d8/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "413a183e-0357-47e1-aadb-87ee3703de98",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-16T18:00:48.054794+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "59dbdd01-f970-4b95-a0ec-b2045d6b7e18",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "TV",
+    "updated_at": "2026-10-16T18:00:48.054794+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "413a183e-0357-47e1-aadb-87ee3703de98",
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:48.252415+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "283bfc62-0751-4509-a717-917635db01cf",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "59dbdd01-f970-4b95-a0ec-b2045d6b7e18",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Stuck In The Middle",
+      "track_number": null,
+      "updated_at": "2026-10-16T18:00:48.252415+00:00"
+    }
+  ],
+  "verifications": []
+}

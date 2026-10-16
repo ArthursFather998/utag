@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:57.62734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cec0ff75-fc5d-4462-a604-042f97d6fbbc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d710b9a2-9eda-4a2c-864e-533f4723e2fb",
+  "input": "{\"title\": \"500lbs\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '500lbs'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:24.260643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b16eb2d-2b07-4a33-baef-483b8cd5b2a6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "26609360-a423-4f33-b159-4275f7f6f9df",
+  "input": "{\"title\": \"Tears\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

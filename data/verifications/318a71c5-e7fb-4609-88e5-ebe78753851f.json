@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:48.282379+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3b5fb32-7b7a-4337-a171-722e98aa845a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "318a71c5-e7fb-4609-88e5-ebe78753851f",
+  "input": "{\"title\": \"I'll Show You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I'll Show You'",
+  "status": "verified"
+}

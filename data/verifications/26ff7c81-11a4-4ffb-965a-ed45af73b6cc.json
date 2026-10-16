@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:17.351765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd862b05-e2b4-44ce-addd-06ae72432256",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26ff7c81-11a4-4ffb-965a-ed45af73b6cc",
+  "input": "{\"title\": \"Baila Esta Cumbia\", \"track_number\": 68}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 68 of 'La Leyenda'",
+  "status": "verified"
+}

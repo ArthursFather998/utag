@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:50.813243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db247506-279c-46c9-a1e0-484da363136b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "024ad86f-56e4-4376-93f5-5f0fc386bea2",
+  "input": "{\"title\": \"Video Games\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Singles'",
+  "status": "verified"
+}

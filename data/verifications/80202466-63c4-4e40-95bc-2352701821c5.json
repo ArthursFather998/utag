@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:45.336219+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7164dcb-9593-490c-a4c2-23c0ca0fed9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80202466-63c4-4e40-95bc-2352701821c5",
+  "input": "{\"title\": \"FourFiveSeconds\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'FourFiveSeconds'",
+  "status": "verified"
+}

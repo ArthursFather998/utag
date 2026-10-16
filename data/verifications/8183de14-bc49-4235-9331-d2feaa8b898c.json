@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:03.713974+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fff1a6e4-65d6-4f6e-abe3-a87506dda21c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8183de14-bc49-4235-9331-d2feaa8b898c",
+  "input": "{\"title\": \"Lost Ones\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Cole World: The Sideline Story'",
+  "status": "verified"
+}

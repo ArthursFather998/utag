@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:06.855772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "441176a7-eb99-4932-9338-2c89a9915ef1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "eececc52-1c52-4c6f-80f9-646c0c305c99",
+  "input": "{\"title\": \"Full Circle\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

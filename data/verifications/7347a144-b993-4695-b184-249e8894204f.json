@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:28.546169+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3981e73b-51fb-4adf-82a8-c2cd6c2309e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7347a144-b993-4695-b184-249e8894204f",
+  "input": "{\"title\": \"You Are Love\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Name Is Love'",
+  "status": "verified"
+}

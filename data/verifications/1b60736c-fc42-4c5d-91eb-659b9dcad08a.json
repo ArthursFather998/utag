@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:33.495496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1716b47a-fb34-48fb-8456-dc64773d99f3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1b60736c-fc42-4c5d-91eb-659b9dcad08a",
+  "input": "{\"title\": \"Love Songs\", \"release_type\": \"album\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

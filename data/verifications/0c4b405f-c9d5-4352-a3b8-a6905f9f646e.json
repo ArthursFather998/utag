@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:23.657985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15b0cc6d-f989-44f3-9ba3-ec0b1adb1928",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c4b405f-c9d5-4352-a3b8-a6905f9f646e",
+  "input": "{\"title\": \"If\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Destiny Fulfilled'",
+  "status": "verified"
+}

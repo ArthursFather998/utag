@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:57.517473+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cef7a309-1cdc-4455-a612-573fb2c27757",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88664e77-f35d-4b65-9af2-3dc5f348d44b",
+  "input": "{\"title\": \"Sugar Mama\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Fleetwood Mac in Chicago'",
+  "status": "verified"
+}

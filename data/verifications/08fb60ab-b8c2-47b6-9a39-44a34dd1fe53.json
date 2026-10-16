@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:19.0565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68dde785-a6ab-4c5e-995e-9a35164d3192",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "08fb60ab-b8c2-47b6-9a39-44a34dd1fe53",
+  "input": "{\"title\": \"Run With Me\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

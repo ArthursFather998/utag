@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:50.59571+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14813502-4516-4214-a4c0-d6a1501f0df9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8cda612-ceb7-4fe5-a500-00485be43cb2",
+  "input": "{\"title\": \"Girlfriend\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Collection'",
+  "status": "verified"
+}

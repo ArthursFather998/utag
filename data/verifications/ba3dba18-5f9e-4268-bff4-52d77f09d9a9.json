@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:22.035311+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19ce9a42-e419-4517-84b4-ea1585b4d1c0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ba3dba18-5f9e-4268-bff4-52d77f09d9a9",
+  "input": "{\"title\": \"Lil Uzi Vert vs. the World\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

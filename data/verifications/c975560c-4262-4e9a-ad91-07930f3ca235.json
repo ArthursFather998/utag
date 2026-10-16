@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:07.230731+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e73b63fa-8cf2-48ff-b08d-8cad0ed1770b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c975560c-4262-4e9a-ad91-07930f3ca235",
+  "input": "{\"title\": \"When You Say\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Albatross'",
+  "status": "verified"
+}

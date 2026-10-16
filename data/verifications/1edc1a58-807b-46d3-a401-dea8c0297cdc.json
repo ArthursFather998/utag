@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:01.879712+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db533c07-f202-48a7-b1f1-2df50209c422",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1edc1a58-807b-46d3-a401-dea8c0297cdc",
+  "input": "{\"title\": \"Every Time We Say Goodbye\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'A Night at the Symphony'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:35.012738+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1a2a082-b70c-4234-9194-7fbdb612b040",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9127504e-5e43-4aa6-9976-9343b8f959b0",
+  "input": "{\"title\": \"Take You\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Believe'",
+  "status": "verified"
+}

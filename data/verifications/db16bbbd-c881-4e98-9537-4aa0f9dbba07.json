@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:18.715939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3176bdd-68bd-4a2f-a284-22d7317a7219",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db16bbbd-c881-4e98-9537-4aa0f9dbba07",
+  "input": "{\"title\": \"Paris Morton Music\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Care Package'",
+  "status": "verified"
+}

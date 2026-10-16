@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:53.573034+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e575be2-46e7-438c-a3eb-7590783ec3fd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37505f4e-1b37-44ee-8f7d-96201669b797",
+  "input": "{\"title\": \"Nineteen\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Crybaby'",
+  "status": "verified"
+}

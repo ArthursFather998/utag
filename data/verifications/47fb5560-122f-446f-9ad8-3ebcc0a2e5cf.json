@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:00.609609+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e996eb63-fd63-482b-a8de-b9316e0feae4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47fb5560-122f-446f-9ad8-3ebcc0a2e5cf",
+  "input": "{\"title\": \"I'll Be Standing By\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I'll Be Standing By'",
+  "status": "verified"
+}

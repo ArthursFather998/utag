@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:11.550801+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "991feb26-6d92-4cad-b116-2a369a34b451",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "612c64d6-8c15-4e6e-9f41-a9a3f6b8a515",
+  "input": "{\"title\": \"You & I (Duet Version)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'You & I'",
+  "status": "verified"
+}

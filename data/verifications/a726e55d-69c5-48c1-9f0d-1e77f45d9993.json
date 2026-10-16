@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:58.340123+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9feb854-1522-4a3e-83b5-a4dfd17315fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a726e55d-69c5-48c1-9f0d-1e77f45d9993",
+  "input": "{\"title\": \"10 Bands\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'If You're Reading This It's Too Late'",
+  "status": "verified"
+}

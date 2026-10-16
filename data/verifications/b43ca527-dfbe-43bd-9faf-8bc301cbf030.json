@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:34.176984+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94e8a7db-798a-4670-ba38-2fc9b4fbf6d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b43ca527-dfbe-43bd-9faf-8bc301cbf030",
+  "input": "{\"title\": \"Stone in Love\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'The Essential Journey'",
+  "status": "verified"
+}

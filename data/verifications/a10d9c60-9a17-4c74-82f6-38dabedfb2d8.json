@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:14.224409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6048580a-bfe7-4025-9020-f1dafc22beda",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a10d9c60-9a17-4c74-82f6-38dabedfb2d8",
+  "input": "{\"title\": \"Dollhouse\", \"release_type\": \"album\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

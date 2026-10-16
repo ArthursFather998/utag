@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:23.84438+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c790a326-cb6a-4a2a-b1c9-4e95b958a9e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6d2ee55-1219-4cee-986b-dd6281167116",
+  "input": "{\"title\": \"Please Me (Cardi B & Bruno Mars)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Collaborations'",
+  "status": "verified"
+}

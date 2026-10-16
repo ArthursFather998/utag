@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:49.590791+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66efbb91-5856-4e49-a618-6876c31538d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92cdce0f-5e20-4d90-9691-3d6c1cc97427",
+  "input": "{\"title\": \"That La, La, La\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '3 CD Collector's Set'",
+  "status": "verified"
+}

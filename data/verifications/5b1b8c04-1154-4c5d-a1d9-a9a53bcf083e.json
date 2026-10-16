@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:31.613255+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6128b57-e4f3-49d5-95d7-b2faaad4f27f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b1b8c04-1154-4c5d-a1d9-a9a53bcf083e",
+  "input": "{\"title\": \"My 1st Single\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Encore'",
+  "status": "verified"
+}

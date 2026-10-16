@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:11.302649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d1a4fcd-4d84-4891-9bdb-7ee9739b541e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30618507-69f9-4194-b599-945dc5dcd87d",
+  "input": "{\"title\": \"Torn\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live in San Antonio'",
+  "status": "verified"
+}

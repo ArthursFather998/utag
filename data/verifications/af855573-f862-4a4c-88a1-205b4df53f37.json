@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:54.822197+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b85f880-6970-4ae3-a59f-ffbbad6f8570",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af855573-f862-4a4c-88a1-205b4df53f37",
+  "input": "{\"title\": \"Crazy 'Bout You Baby\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Albatross'",
+  "status": "verified"
+}

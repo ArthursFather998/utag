@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:26.714176+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8779240-3397-44cd-aeb4-9f32e1378b37",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e48a8dc1-9a68-4453-8699-34934b570963",
+  "input": "{\"title\": \"Peter Pan\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Peter Pan'",
+  "status": "verified"
+}

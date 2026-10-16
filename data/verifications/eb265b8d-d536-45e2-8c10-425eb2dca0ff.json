@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:29.682268+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2c4da82-d5da-4638-990b-304e8a3a4589",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb265b8d-d536-45e2-8c10-425eb2dca0ff",
+  "input": "{\"title\": \"Billions\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Keys II'",
+  "status": "verified"
+}

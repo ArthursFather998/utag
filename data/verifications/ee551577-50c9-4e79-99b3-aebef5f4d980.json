@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:46.330645+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a010f8a-a4bb-4e30-bd36-842992365f6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee551577-50c9-4e79-99b3-aebef5f4d980",
+  "input": "{\"title\": \"Fantasy\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Greatest Hits'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:14.837594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3601d14-fb8e-46d1-be20-4e3ec03090fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "87e92778-4dff-4841-a160-8c9372ba6bcd",
+  "input": "{\"title\": \"Jewel Eyed Judy\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Best of Fleetwood Mac 1969-1974'",
+  "status": "verified"
+}

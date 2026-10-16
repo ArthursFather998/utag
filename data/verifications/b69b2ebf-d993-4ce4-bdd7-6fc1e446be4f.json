@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:49.271514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5d71139-3fc4-4672-95a7-e32de82f4c96",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b69b2ebf-d993-4ce4-bdd7-6fc1e446be4f",
+  "input": "{\"title\": \"Rattlesnake Shake (Live)\", \"track_number\": 36}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 36 of 'Jumping at Shadows: The Blues Years'",
+  "status": "verified"
+}

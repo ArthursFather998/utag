@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:27.803964+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f46f6bfb-9d49-483a-a822-92f5c92a813e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e18bd60-60ef-4198-ae92-b243e7c09686",
+  "input": "{\"title\": \"Carnival\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Life'",
+  "status": "verified"
+}

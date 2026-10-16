@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:02.781782+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "853973cd-b9f3-4f41-b4b5-3610e014d95a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26836c18-36fd-4f79-91bc-6aed160396f1",
+  "input": "{\"title\": \"Hope\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'J.E. Heartbreak II'",
+  "status": "verified"
+}

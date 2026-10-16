@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:43.441231+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc84d564-d77c-4ed2-a7b5-0b2c4f4d221a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4b197ee-6e6a-46a8-a4bf-258b3547561f",
+  "input": "{\"title\": \"Who's Crying Now\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Ballade'",
+  "status": "verified"
+}

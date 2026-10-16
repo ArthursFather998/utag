@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:33.447819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8d95481-27f5-4c94-95c0-c379bcb30677",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f520610c-c178-4620-bd32-521bd7ee6d5e",
+  "input": "{\"title\": \"Got 'til It's Gone\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Got 'til It's Gone'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:37.784275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e20bc58-c0b3-4b1e-8697-60f148d7b1b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2803184-1915-4280-8f65-6ec842abe41c",
+  "input": "{\"title\": \"FYTB\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Wasteland'",
+  "status": "verified"
+}

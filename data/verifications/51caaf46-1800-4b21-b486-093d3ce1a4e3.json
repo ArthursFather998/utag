@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:22.875439+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a9d7bfd1-a7a9-473f-a2eb-0cf57b643a04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51caaf46-1800-4b21-b486-093d3ce1a4e3",
+  "input": "{\"title\": \"Techno Cumbia\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Remembered'",
+  "status": "verified"
+}

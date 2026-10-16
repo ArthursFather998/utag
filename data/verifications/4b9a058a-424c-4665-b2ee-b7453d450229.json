@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:44.089098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c03b2676-e931-4fcb-aa14-04c248cacfca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b9a058a-424c-4665-b2ee-b7453d450229",
+  "input": "{\"title\": \"City Girls\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We All Shine'",
+  "status": "verified"
+}

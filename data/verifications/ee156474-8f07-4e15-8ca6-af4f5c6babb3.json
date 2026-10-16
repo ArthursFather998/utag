@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:50.499854+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fed5c865-54e9-47b7-b22d-4b4b1f45d43f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ee156474-8f07-4e15-8ca6-af4f5c6babb3",
+  "input": "{\"title\": \"Coming Home (Expanded Edition)\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

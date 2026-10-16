@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:55.034731+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "621ee3d4-da1b-407b-adcc-f195bcbe2b4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5523f5f-d40e-4f82-8088-8da7f99d9e6d",
+  "input": "{\"title\": \"Black Magic Woman\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'English Rose'",
+  "status": "verified"
+}

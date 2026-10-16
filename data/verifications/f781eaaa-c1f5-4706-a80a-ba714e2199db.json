@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:14.287499+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15fd7646-9395-4fad-92ca-233ddfc09f04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f781eaaa-c1f5-4706-a80a-ba714e2199db",
+  "input": "{\"title\": \"For You\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Superhero'",
+  "status": "verified"
+}

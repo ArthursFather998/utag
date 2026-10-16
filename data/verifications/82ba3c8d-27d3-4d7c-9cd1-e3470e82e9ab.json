@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:45.418638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85b7a2ff-1cd2-41e3-b64f-89a6a4f7ec15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82ba3c8d-27d3-4d7c-9cd1-e3470e82e9ab",
+  "input": "{\"title\": \"No Small Thing\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Songs for a Nervous Planet'",
+  "status": "verified"
+}

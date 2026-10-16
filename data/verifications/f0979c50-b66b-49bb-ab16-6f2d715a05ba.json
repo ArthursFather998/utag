@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:50.04407+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09395fd0-3247-430f-88b3-a8601f69ed05",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0979c50-b66b-49bb-ab16-6f2d715a05ba",
+  "input": "{\"title\": \"Hey Ho\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'All American Nightmare'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:03.276721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "606d9209-52f9-4730-bfed-b7806e9231ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49048705-6e8e-423e-af62-a1e229e6a5fe",
+  "input": "{\"title\": \"From the Start\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

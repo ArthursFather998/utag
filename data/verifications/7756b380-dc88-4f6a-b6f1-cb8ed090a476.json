@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:02.926118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20a12e65-ba39-4073-8dbd-823b41e183a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7756b380-dc88-4f6a-b6f1-cb8ed090a476",
+  "input": "{\"title\": \"El Chico Del Apartamento 512\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Ones'",
+  "status": "verified"
+}

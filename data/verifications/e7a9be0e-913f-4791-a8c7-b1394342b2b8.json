@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:45.802632+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "252b393f-11d7-45ae-ac1f-a76812aab250",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7a9be0e-913f-4791-a8c7-b1394342b2b8",
+  "input": "{\"title\": \"El Beso\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'El Beso'",
+  "status": "verified"
+}

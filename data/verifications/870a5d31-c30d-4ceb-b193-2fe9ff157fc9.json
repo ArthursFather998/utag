@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:39.916035+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64527369-537e-4545-bd8c-6dfaf1627219",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "870a5d31-c30d-4ceb-b193-2fe9ff157fc9",
+  "input": "{\"title\": \"Jetski\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

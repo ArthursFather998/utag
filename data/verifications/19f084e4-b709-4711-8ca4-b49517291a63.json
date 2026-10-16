@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:10.892339+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fcb49b38-3b64-4308-bc82-1651418d0ea0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19f084e4-b709-4711-8ca4-b49517291a63",
+  "input": "{\"title\": \"Mother Love\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

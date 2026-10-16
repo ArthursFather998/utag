@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:19.693696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c501da8-dcf5-4192-9b78-f1dc73157b92",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "581c60f6-d0d3-42d2-a7f4-de5e6770d7c4",
+  "input": "{\"title\": \"LETTERMAN\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'COYOTE'",
+  "status": "verified"
+}

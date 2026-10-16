@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:06.492347+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64a0055d-dfe1-4167-a717-ae1910c982a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3914280-6b53-4216-98af-18338a35eb0c",
+  "input": "{\"title\": \"I Just Can't Live Without You\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'In a Mellow Mood'",
+  "status": "verified"
+}

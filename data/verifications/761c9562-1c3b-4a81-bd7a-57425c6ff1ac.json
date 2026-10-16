@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:32.043509+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbec6876-820e-4481-a30c-ee0847cefe6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "761c9562-1c3b-4a81-bd7a-57425c6ff1ac",
+  "input": "{\"title\": \"Rock It (Prime Jive)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Deep Cuts, Volume 2 (1977-1982)'",
+  "status": "verified"
+}

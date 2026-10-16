@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:58.020065+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46561d0a-30fe-4098-9e56-eadb9f8349b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3e664bf-e0cb-48a6-9d22-687ac19be60c",
+  "input": "{\"title\": \"Intro Alicia's Prayer (Acappella)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Unplugged'",
+  "status": "verified"
+}

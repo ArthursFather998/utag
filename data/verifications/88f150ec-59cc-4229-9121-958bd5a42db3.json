@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:46.096474+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "464e248b-594e-4060-8444-426296225562",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88f150ec-59cc-4229-9121-958bd5a42db3",
+  "input": "{\"title\": \"Music of the Sun\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Music of the Sun'",
+  "status": "verified"
+}

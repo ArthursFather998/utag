@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:49.343034+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5ebb7b8-c0ff-417b-b755-97a36da10377",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6af97e9b-4f4e-4317-886d-39782c18fd2e",
+  "input": "{\"title\": \"Who Laughs Last (feat. Kristen Stewart)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Cosmic Selector Vol. 1'",
+  "status": "verified"
+}

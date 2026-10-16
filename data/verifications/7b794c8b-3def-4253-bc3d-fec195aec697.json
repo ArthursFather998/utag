@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:45.95702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfb4ba55-e139-44e5-a87f-f347c33fe157",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b794c8b-3def-4253-bc3d-fec195aec697",
+  "input": "{\"title\": \"Tell That Mick He Just Made My List of Things to Do Today\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Take This to Your Grave'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:09.069852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6947880f-087b-484e-ac65-cdd4afa149d3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5621ba02-1142-4808-9f44-97feaf46bad2",
+  "input": "{\"title\": \"i need to be alone.\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

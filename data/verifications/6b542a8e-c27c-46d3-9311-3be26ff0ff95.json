@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:04.862532+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1934a3e-261c-4592-afcc-9dee8a45bf55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b542a8e-c27c-46d3-9311-3be26ff0ff95",
+  "input": "{\"title\": \"Endless\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Romeo & Juliet'",
+  "status": "verified"
+}

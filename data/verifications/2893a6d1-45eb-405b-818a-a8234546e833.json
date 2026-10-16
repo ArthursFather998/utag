@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:25.691675+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7451e4f-9748-477e-836d-66eb4b60995c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2893a6d1-45eb-405b-818a-a8234546e833",
+  "input": "{\"title\": \"Besitos\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'La Leyenda'",
+  "status": "verified"
+}

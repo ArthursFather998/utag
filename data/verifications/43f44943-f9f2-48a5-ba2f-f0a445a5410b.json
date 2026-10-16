@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:08.427733+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fc20c95-5b6f-43c6-a469-0bba56360ff5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43f44943-f9f2-48a5-ba2f-f0a445a5410b",
+  "input": "{\"title\": \"The Flood\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'This War Is Ours (Deluxe Edition)'",
+  "status": "verified"
+}

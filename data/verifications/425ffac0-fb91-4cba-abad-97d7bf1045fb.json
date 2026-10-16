@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:16.038015+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01788ca4-6f1b-41dd-b4fb-055b7946120c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "425ffac0-fb91-4cba-abad-97d7bf1045fb",
+  "input": "{\"title\": \"Gemini\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

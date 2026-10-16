@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:13.284104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "361556f5-add3-46e1-8743-690741cc6b1a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1293f79d-5e26-4e59-9977-511f567d40c8",
+  "input": "{\"title\": \"What Just Happened\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

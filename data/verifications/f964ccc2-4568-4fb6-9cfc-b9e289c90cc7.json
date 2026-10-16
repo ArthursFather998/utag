@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:39.959097+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6f38322-778b-4f1d-aaab-5f5fba50f220",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f964ccc2-4568-4fb6-9cfc-b9e289c90cc7",
+  "input": "{\"title\": \"The King and I\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

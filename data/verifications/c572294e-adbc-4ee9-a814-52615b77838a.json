@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:08.822084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e786920-e66a-48e2-9c69-b7c570efb749",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c572294e-adbc-4ee9-a814-52615b77838a",
+  "input": "{\"title\": \"Fuck It I Love You\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Norman Fucking Rockwell!'",
+  "status": "verified"
+}

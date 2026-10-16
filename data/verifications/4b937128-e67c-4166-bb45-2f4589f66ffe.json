@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:00.450352+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7e400e7-467a-47ac-af11-944f7725ccc9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b937128-e67c-4166-bb45-2f4589f66ffe",
+  "input": "{\"title\": \"Christmas (Baby Please Come Home)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Merry Christmas: 30th Anniversary Edition'",
+  "status": "verified"
+}

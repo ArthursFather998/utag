@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:50.415865+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d61bdab1-0a95-43fd-85c6-8188a3b48945",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ddba71c6-41c0-4d5c-9dff-37fc8aaaad3b",
+  "input": "{\"title\": \"The Party Never Ends\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Party Never Ends'",
+  "status": "verified"
+}

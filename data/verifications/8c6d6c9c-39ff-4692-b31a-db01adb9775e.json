@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:28.325717+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a8917ca-278b-4f57-b7d6-d5901198886b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8c6d6c9c-39ff-4692-b31a-db01adb9775e",
+  "input": "{\"title\": \"Beautiful\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:01:58.161145+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "c3747c95-3a64-4594-919b-a79f8ab57946",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "82b74327-8d5f-46db-a593-6ed49c4f0aeb",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "17",
+    "title": "Ayala (Outro)"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "\"Ayala (Outro)\" is track 11 on XXXTENTACION's debut album \"17\" (2017) per Wikipedia and retail tracklists. | sources: https://en.wikipedia.org/wiki/17_(XXXTentacion_album), https://www.hollowbonerecords.com/products/xxxtentacion-17",
+  "status": "verified"
+}

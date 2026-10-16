@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:56.412251+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "493e2118-29c6-4a44-971b-260c8ca70274",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "52b6b112-298c-4945-92e1-9db21d31610f",
+  "input": "{\"title\": \"What You Want\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

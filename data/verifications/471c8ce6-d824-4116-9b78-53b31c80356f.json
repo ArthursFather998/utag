@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:01.684215+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8db25d8f-f06d-4994-a7f9-30eb83e48a3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "471c8ce6-d824-4116-9b78-53b31c80356f",
+  "input": "{\"title\": \"Heaven or Las Vegas\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Thursday'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:01.078218+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70eff256-32c4-4709-960d-3cd2dc0eaa9d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "34fc4eeb-9de7-48c5-89b2-23e032351c1a",
+  "input": "{\"title\": \"Regimental Sgt. Zippo\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:40:53.952049+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f9ee501-f4c2-4c41-9d92-2b3cba308336",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e77d6a7-549d-4901-834e-ccdd14b5f982",
+  "input": "{\"title\": \"Disc 5 - Hab' ich das verdient\", \"track_number\": 135}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 135 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

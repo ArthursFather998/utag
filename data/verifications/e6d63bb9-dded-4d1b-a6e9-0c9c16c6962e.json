@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:26.554203+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3eb74288-4f2f-405e-bc6a-3c334b655db8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6d63bb9-dded-4d1b-a6e9-0c9c16c6962e",
+  "input": "{\"title\": \"Sugar, We're Goin Down\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

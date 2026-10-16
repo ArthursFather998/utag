@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:40.934494+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82cb4415-d978-48c0-a8aa-59c1fad46d1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f62a0d56-9a3f-469a-bc40-bfee4ec333bc",
+  "input": "{\"title\": \"The Stable Song - Live at Spotify House\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Spotify Sessions'",
+  "status": "verified"
+}

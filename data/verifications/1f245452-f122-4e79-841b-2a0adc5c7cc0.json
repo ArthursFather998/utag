@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:58.054706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "067d5493-78b2-4243-9694-c76f50812f0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f245452-f122-4e79-841b-2a0adc5c7cc0",
+  "input": "{\"title\": \"Puede Ser\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'La Leyenda'",
+  "status": "verified"
+}

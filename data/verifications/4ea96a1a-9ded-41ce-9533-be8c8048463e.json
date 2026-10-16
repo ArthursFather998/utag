@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:41.657846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f5d0474-3aa1-4f4f-8642-37c10e457f13",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4ea96a1a-9ded-41ce-9533-be8c8048463e",
+  "input": "{\"title\": \"Trading Places\", \"release_type\": \"single\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

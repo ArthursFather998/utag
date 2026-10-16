@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:06.926685+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9f4b6f0-b9e2-4ab7-9f74-06c7270ea37e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0e01abc-9b56-420a-b45d-63c306bbb11f",
+  "input": "{\"title\": \"Procession\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live at the Rainbow '74'",
+  "status": "verified"
+}

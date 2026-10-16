@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:46.438198+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fb871d0-bd14-40bc-a83a-95c680b9275c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fcedd766-1e0b-47ad-8363-2c0e00c62a75",
+  "input": "{\"title\": \"Waves\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'A Place We Knew'",
+  "status": "verified"
+}

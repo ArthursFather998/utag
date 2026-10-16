@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:21.803037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df0a8137-41da-4779-88e1-28607b589a4f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4df2748-0dd0-4a79-a587-da48217b650e",
+  "input": "{\"title\": \"The Ballad of Mona Lisa\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Vices & Virtues (Deluxe Edition)'",
+  "status": "verified"
+}

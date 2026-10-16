@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:58.577+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7adcb2ec-23dc-41bb-bcc9-f1d0faa07c09",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c57f6a49-74ef-48e9-baa4-637103cac618",
+  "input": "{\"title\": \"Any Way You Want It\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Essential Journey'",
+  "status": "verified"
+}

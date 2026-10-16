@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:36.140144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0dbdfd3a-c285-4a5d-a886-46f895d72edf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "380b657e-a0f1-442a-ab71-115c6e5789b1",
+  "input": "{\"title\": \"Little Girl Go Home\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Girl Talk'",
+  "status": "verified"
+}

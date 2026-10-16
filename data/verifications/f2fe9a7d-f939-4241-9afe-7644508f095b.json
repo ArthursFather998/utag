@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:07.872306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1cea77be-deec-4738-945f-9ce53253fc13",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2fe9a7d-f939-4241-9afe-7644508f095b",
+  "input": "{\"title\": \"Take a Bow\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Take a Bow'",
+  "status": "verified"
+}

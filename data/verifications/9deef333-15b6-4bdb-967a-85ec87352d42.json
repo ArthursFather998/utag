@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:12.805715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba3a83fa-2dad-488e-a1b6-feba6b6dc032",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9deef333-15b6-4bdb-967a-85ec87352d42",
+  "input": "{\"title\": \"S.T.R.E.S.S.\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Room for Improvement'",
+  "status": "verified"
+}

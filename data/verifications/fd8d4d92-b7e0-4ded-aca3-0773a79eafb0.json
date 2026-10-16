@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:34.515331+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5be0bea0-bd7f-402f-9576-6126625286d7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fd8d4d92-b7e0-4ded-aca3-0773a79eafb0",
+  "input": "{\"title\": \"Lily of the Valley\", \"release_type\": \"single\", \"release_year\": 1974}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

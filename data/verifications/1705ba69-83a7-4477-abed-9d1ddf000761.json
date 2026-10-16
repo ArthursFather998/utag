@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:57.219808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "08f9b758-d1bc-402b-81ff-0fedd3edb0b1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1705ba69-83a7-4477-abed-9d1ddf000761",
+  "input": "{\"title\": \"Last Goodbye\", \"release_type\": \"single\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:01.482777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "76624de0-8b3d-4cfb-9af6-53fff2a229a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf71412a-9d0f-4532-a2bd-e3386dfda074",
+  "input": "{\"title\": \"New Day\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'VH1 Storytellers'",
+  "status": "verified"
+}

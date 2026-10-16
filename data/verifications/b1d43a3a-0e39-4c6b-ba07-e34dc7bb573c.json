@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:54.938846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca9ea2ff-9cd3-4bfa-9f8d-44078a347801",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b1d43a3a-0e39-4c6b-ba07-e34dc7bb573c",
+  "input": "{\"title\": \"Death Race for Love\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

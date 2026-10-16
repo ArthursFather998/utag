@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:20.11273+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ecbb7321-8d7d-4dc2-8da7-03178e98336f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56d9d682-f68b-406b-a17d-1d2b8cb14a8c",
+  "input": "{\"title\": \"Speak to Me\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Synthesis Live'",
+  "status": "verified"
+}

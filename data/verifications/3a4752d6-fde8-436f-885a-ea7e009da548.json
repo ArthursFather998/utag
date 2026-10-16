@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:12.417877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8dee4dc-8c33-46e1-8907-7b7c53ca755d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a4752d6-fde8-436f-885a-ea7e009da548",
+  "input": "{\"title\": \"The Brightside\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Brightside'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:53.124109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48a37c14-0a71-48b5-a7c8-53a35768d0f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80f74c0f-ddcc-4002-a80c-953b5e640e57",
+  "input": "{\"title\": \"Spread Your Wings\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Greatest Hits in Japan'",
+  "status": "verified"
+}

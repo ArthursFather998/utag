@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:00.373639+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f37f1249-13b8-4ddc-92a7-6b7a2d3785fb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "005a1c30-a1e3-4634-8ac5-0b6fffe4048d",
+  "input": "{\"title\": \"Change Me\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

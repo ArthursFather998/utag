@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:46.260702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7cfbb7c4-790c-496a-9370-83559b11643a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f18e30ed-f938-4dfa-89cb-f798833ad70b",
+  "input": "{\"title\": \"Pon de Replay\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Pon de Replay'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:48.117855+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97a8ec88-04fa-43fa-bce2-424346acddc5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5905610-2bb3-49bc-bad5-2d4435d6e1f5",
+  "input": "{\"title\": \"The Last Bit of Us\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Last Bit of Us'",
+  "status": "verified"
+}

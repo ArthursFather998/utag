@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:21.540397+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3fc4947f-2cc7-4c9d-a419-a726fa472f7e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2adbed1e-bda6-4554-b869-bc5465f103c2",
+  "input": "{\"title\": \"Everybody's Changing\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Everybody's Changing'",
+  "status": "verified"
+}

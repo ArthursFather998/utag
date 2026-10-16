@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:55.107582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c6745e8-46dc-41a3-b129-69bc919463ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93d66bc6-5917-48fd-b3c8-d5749fb5d41d",
+  "input": "{\"title\": \"And You Don't Remember\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Emotions'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:06.074947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5a547f5-eb8c-4aa1-84f9-abae28906894",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "562a78f9-8f1e-4afb-a7bf-cba3cb336f02",
+  "input": "{\"title\": \"Jozi Flows\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'D-Day: A Gangsta Grillz Mixtape'",
+  "status": "verified"
+}

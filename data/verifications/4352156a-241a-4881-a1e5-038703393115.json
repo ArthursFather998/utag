@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:23.303888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c53b32a-815c-426b-94cf-37241d2239f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4352156a-241a-4881-a1e5-038703393115",
+  "input": "{\"title\": \"Never Make Me Cry\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Tusk'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:15.885148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "06bc817e-66ed-49d7-aa07-a0b9fc2c5043",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57944b54-0c33-48e7-8bde-18548400227d",
+  "input": "{\"title\": \"Gracie\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'As Time Goes By'",
+  "status": "verified"
+}

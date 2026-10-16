@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:58.364893+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e340f7b-6b91-4aed-9991-fa85b6f8b054",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d7ad3418-d3f6-4a82-93d7-ee71a9da294b",
+  "input": "{\"title\": \"Snooze\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

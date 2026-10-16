@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:50.188461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa0a903d-1950-4a56-8d7d-05c61113accd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "78a7d981-a7cf-4c7a-b012-77efd56434e6",
+  "input": "{\"title\": \"You're Insane\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

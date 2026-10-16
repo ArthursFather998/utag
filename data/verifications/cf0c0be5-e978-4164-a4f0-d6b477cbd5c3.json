@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:38.375657+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e016af8c-bf2e-4a9a-ae7f-3cc1e75d6135",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf0c0be5-e978-4164-a4f0-d6b477cbd5c3",
+  "input": "{\"title\": \"Don't Play That Song (You Lied) (Live at the Tatou Club, 1990)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Live Debut – 1990'",
+  "status": "verified"
+}

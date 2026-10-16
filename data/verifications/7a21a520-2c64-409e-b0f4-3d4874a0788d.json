@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:40.038233+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8f6bd76-ae8a-49ad-b767-81c0ae2217ff",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7a21a520-2c64-409e-b0f4-3d4874a0788d",
+  "input": "{\"title\": \"20th Century Masters \\u2013 The Millennium Collection: The Best of The Cranberries\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

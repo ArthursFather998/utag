@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:12.642897+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1977be9-be8c-4b57-b602-afed32695aa7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b658132e-557c-460d-b0d1-f3748dbde230",
+  "input": "{\"title\": \"Honey\", \"release_type\": \"single\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

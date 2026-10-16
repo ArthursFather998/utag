@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:34.762995+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4c8cbb3-4367-47ef-9b83-ea29b229990f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fcfea0cc-aa3f-477a-87cc-28311af636e0",
+  "input": "{\"title\": \"We Don't Have to Be Alone\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We Don't Have to Be Alone'",
+  "status": "verified"
+}

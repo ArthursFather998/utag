@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:49.036651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9b83555-4309-4b8d-b86f-e80bf229a342",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d86f7c2-8563-4e6e-9c7b-7c30de0bd754",
+  "input": "{\"title\": \"Summer Bummer\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Lust for Life'",
+  "status": "verified"
+}

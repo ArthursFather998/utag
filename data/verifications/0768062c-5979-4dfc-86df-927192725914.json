@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:40.57249+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "831e2baa-9b4f-4a49-a533-4dfa8f480b85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0768062c-5979-4dfc-86df-927192725914",
+  "input": "{\"title\": \"I Woke Up In A Strange Place\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Original Album Classics'",
+  "status": "verified"
+}

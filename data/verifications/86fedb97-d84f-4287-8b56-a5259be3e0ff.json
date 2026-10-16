@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:37.919801+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef6b0254-76b8-4869-89b7-667e7458ab32",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "86fedb97-d84f-4287-8b56-a5259be3e0ff",
+  "input": "{\"title\": \"Mad World\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Secret World – Live in Paris'",
+  "status": "verified"
+}

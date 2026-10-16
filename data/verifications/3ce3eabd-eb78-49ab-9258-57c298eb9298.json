@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:48.765381+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2dc1be2-cdca-40b1-9bc7-56bc3fcb3743",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ce3eabd-eb78-49ab-9258-57c298eb9298",
+  "input": "{\"title\": \"Ode to My Family\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Dreams – The Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:50.443099+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60b55d04-8c67-493b-aff1-fd54f85ae43d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c0a99e3-7644-41c2-bbf5-ac6c0066d1e3",
+  "input": "{\"title\": \"Saturday Night's Alright for Fighting (with Anastacia)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Elton John One Night Only – The Greatest Hits'",
+  "status": "verified"
+}

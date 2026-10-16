@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:37.810482+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4364fd3d-d560-4810-aacd-e20683c92c60",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e8e2b76-0785-47d5-8063-c95e2a69dcf0",
+  "input": "{\"title\": \"Bring Me to Life (Synthesis)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bring Me to Life (Synthesis)'",
+  "status": "verified"
+}

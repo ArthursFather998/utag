@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:34.53357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7bce34d8-1436-47e2-bedb-53d4cf25d2fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba97cc42-1be3-4067-844a-f1443a71172c",
+  "input": "{\"title\": \"Speed Demon\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Swag Live from Coachella (Weekend II)'",
+  "status": "verified"
+}

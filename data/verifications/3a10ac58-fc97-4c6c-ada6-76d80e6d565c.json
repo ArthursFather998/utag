@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:54.013748+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6b18c7b-dbf3-4dec-995b-2ce19461748a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3a10ac58-fc97-4c6c-ada6-76d80e6d565c",
+  "input": "{\"title\": \"Kill Bill\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

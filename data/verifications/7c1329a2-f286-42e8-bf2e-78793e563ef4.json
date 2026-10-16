@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:59.088383+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3752af5f-d494-4937-9e51-94a195ff9f17",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c1329a2-f286-42e8-bf2e-78793e563ef4",
+  "input": "{\"title\": \"I Want to Break Free\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live Around the World'",
+  "status": "verified"
+}

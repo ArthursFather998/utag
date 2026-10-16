@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:47.120423+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3155140-d2e8-458a-90a8-7db15480e640",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f96d51ae-63a0-4a8d-a3e0-05684c47548e",
+  "input": "{\"title\": \"Qu\\u00e9\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Qué'",
+  "status": "verified"
+}

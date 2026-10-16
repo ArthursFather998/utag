@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:26.20273+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aade7db8-8b4a-4962-bbf5-90051bd27968",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "124a4d91-93bb-4145-b498-ff66f9a91522",
+  "input": "{\"title\": \"Please Sister (iTunes Originals Version)\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'iTunes Originals'",
+  "status": "verified"
+}

@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:54.82865+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=correct conf=medium -> no write",
+    "verdict": "correct"
+  },
+  "entity_id": "5881cf48-5840-47b6-8f1c-54c1ea1c510f",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "medium"
+  },
+  "id": "31820367-403d-4d29-ad53-564964e8eb8a",
+  "input": {
+    "artist": "AmiiFy",
+    "release": "Moments Before Fall",
+    "title": "Fly Away"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "Anghami lists 'Moments Before Fall' by AmiiFy with track 'Fly Away'; MusicMetricsVault lists 'Moments Before Fall' as a 2025 AmiiFy release and 'Fly Away' among her tracks.",
+  "status": "needs_review"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:04.16145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d68447aa-1819-47c9-82e0-1f464d37af8f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12bfa2a3-6fdd-4c35-9c05-ae59285db7ab",
+  "input": "{\"title\": \"Break It Off (with Sean Paul)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Vinyl Box Set'",
+  "status": "verified"
+}

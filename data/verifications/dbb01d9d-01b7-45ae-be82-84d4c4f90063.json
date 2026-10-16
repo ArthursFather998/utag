@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:44.190145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94bc5038-c14e-4f5c-982c-04986b9344fa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbb01d9d-01b7-45ae-be82-84d4c4f90063",
+  "input": "{\"title\": \"I Hate Everything About You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Three Days Grace (Expanded Edition)'",
+  "status": "verified"
+}

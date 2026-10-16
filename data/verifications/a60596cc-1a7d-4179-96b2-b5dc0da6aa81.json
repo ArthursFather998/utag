@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:34.146658+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42b6d1af-b39e-4dfa-a0c5-f0905514feba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a60596cc-1a7d-4179-96b2-b5dc0da6aa81",
+  "input": "{\"title\": \"Silent Night (Magical Christmas Mix)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Mariah Carey's Magical Christmas Special'",
+  "status": "verified"
+}

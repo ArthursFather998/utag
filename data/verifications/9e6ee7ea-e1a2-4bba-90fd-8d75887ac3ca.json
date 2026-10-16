@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:36.034715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df28521d-981d-400c-bb89-58e6d885753f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e6ee7ea-e1a2-4bba-90fd-8d75887ac3ca",
+  "input": "{\"title\": \"In Your Own Time\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Strangeland'",
+  "status": "verified"
+}

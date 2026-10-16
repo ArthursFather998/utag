@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:10.962904+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66f63d25-2f4b-4b90-916e-28d8ee9afcfb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ad395a5-8a14-4f7c-9c57-e8d6842c339e",
+  "input": "{\"title\": \"Burnin' It Down\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of '30 Number One Hits'",
+  "status": "verified"
+}

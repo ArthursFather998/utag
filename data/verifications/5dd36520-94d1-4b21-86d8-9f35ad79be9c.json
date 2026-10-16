@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:19.755317+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d46c40e-60fc-4dd4-995e-22fb6a4bf968",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5dd36520-94d1-4b21-86d8-9f35ad79be9c",
+  "input": "{\"title\": \"Tick Tock\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Nectar'",
+  "status": "verified"
+}

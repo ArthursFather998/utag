@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:13.404774+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0d89cb9-f5c6-44b4-ba9d-82e77cf303da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0802273-6339-45fe-8ddb-5306e353d968",
+  "input": "{\"title\": \"Even in Death\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Ultimate Collection'",
+  "status": "verified"
+}

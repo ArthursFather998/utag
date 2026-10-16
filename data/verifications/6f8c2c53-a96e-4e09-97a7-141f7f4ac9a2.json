@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:53.580859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e31144b-dd57-45be-91cb-015fe551a28c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f8c2c53-a96e-4e09-97a7-141f7f4ac9a2",
+  "input": "{\"title\": \"Better Than Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Better Than Me'",
+  "status": "verified"
+}

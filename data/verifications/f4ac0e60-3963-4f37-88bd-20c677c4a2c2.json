@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:40.602724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1e47fb8-460e-4f5f-bd8d-ce3f6076617c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4ac0e60-3963-4f37-88bd-20c677c4a2c2",
+  "input": "{\"title\": \"Disc 1 - I Struck a Match\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

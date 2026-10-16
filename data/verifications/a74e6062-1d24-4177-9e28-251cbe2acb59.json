@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:03.063883+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38116e15-310e-4a16-a344-90d64cb0b3e8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a74e6062-1d24-4177-9e28-251cbe2acb59",
+  "input": "{\"title\": \"Mothers Talk (US Remix)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mothers Talk (US Remix)'",
+  "status": "verified"
+}

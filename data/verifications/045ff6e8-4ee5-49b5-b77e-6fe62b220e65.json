@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:53.185734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2362636b-203a-49cf-be2b-9ae654c36c9c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "045ff6e8-4ee5-49b5-b77e-6fe62b220e65",
+  "input": "{\"title\": \"Illusion (Live in San Antonio 1999)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Human Clay (25th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

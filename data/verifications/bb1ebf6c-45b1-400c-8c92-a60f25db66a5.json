@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:07.261583+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2229e8a0-9b78-454c-875f-e34a244db463",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb1ebf6c-45b1-400c-8c92-a60f25db66a5",
+  "input": "{\"title\": \"Killing Time\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Love Songs'",
+  "status": "verified"
+}

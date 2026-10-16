@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:18.477153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7761a8d-ab11-4e23-a5b2-bfaf33a29707",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "58c786ce-d0f8-4a61-a4a3-116a9cbc9ef6",
+  "input": "{\"title\": \"A Kind of Magic\", \"release_type\": \"album\", \"release_year\": 1986}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

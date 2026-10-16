@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:52.930837+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87a08c18-9cdd-4333-9086-66160c11954f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6651dd3d-65e5-430a-ab07-326842c62c60",
+  "input": "{\"title\": \"Lose My Cool,\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Sincerely'",
+  "status": "verified"
+}

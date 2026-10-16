@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:01.492917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc58d69d-6edd-4019-b56e-0b80dd84c743",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1548d3c3-435b-455d-94ae-3782f4cf652e",
+  "input": "{\"title\": \"One Last Breath\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

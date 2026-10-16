@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:08.829649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44d1aa5c-02d5-403f-a083-526d2a740edf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebdb0670-3b7c-4dfd-94e9-25a312a8595f",
+  "input": "{\"title\": \"When I Was Your Man\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Unorthodox Jukebox (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:19.513436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e953d5f-e7c1-408f-b338-4e15075e54de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de8e9e2d-1212-4015-9a66-353b15801481",
+  "input": "{\"title\": \"I Got It 2\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Got It 2'",
+  "status": "verified"
+}

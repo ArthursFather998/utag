@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:46.687823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38d0cac9-2b34-4542-b17c-7e16ebba5722",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "efb0eddd-a396-4134-abd9-89a66c95dd5c",
+  "input": "{\"title\": \"Baby Blue Movie\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Baby Blue Movie'",
+  "status": "verified"
+}

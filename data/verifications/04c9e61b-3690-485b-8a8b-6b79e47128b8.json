@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:41.680852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1a29b27-303f-4278-bd11-ad957af12699",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "04c9e61b-3690-485b-8a8b-6b79e47128b8",
+  "input": "{\"title\": \"Flash\", \"release_type\": \"single\", \"release_year\": 1980}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

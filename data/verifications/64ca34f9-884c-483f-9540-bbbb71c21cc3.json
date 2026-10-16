@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:38.438144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d707f71a-87c4-4b67-856e-f2af5c93a23b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64ca34f9-884c-483f-9540-bbbb71c21cc3",
+  "input": "{\"title\": \"Cleanin' Out My Closet\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Curtain Call: The Hits'",
+  "status": "verified"
+}

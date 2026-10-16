@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:29.122017+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a8b7854b-86e8-41eb-bedf-3b14092bd812",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6cb8bd5d-7717-445f-a07c-f6cfeeef06fa",
+  "input": "{\"title\": \"Dem Haters (featuring Dwane Husbands)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'A Girl Like Me'",
+  "status": "verified"
+}

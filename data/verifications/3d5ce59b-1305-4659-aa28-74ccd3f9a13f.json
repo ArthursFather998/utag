@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:35.07947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "72a84394-8728-4ab3-9b51-549ea3c745a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d5ce59b-1305-4659-aa28-74ccd3f9a13f",
+  "input": "{\"title\": \"When I Think of You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Icon: Number Ones'",
+  "status": "verified"
+}

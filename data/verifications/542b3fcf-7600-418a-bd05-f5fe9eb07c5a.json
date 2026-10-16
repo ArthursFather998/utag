@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:55.227757+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c27d87f9-af9e-4cb0-81e7-aa118a6f60e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "542b3fcf-7600-418a-bd05-f5fe9eb07c5a",
+  "input": "{\"title\": \"Not That Funny\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Mirage Tour '82'",
+  "status": "verified"
+}

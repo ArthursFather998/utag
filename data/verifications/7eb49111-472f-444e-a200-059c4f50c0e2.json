@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:56.746251+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a385e7c8-44da-425f-bf4b-c78c87ff1bc4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7eb49111-472f-444e-a200-059c4f50c0e2",
+  "input": "{\"title\": \"Man of the World\", \"release_type\": \"album\", \"release_year\": 1978}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

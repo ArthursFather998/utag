@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:43.326342+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2dc289e-9db6-46ce-8426-0602ca5cb7b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "926a664d-87b5-49be-9e81-93defdff190b",
+  "input": "{\"title\": \"Need Me\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Tec (Bonus)'",
+  "status": "verified"
+}

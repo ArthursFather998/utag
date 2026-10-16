@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:06.182042+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "72ebf3eb-b7c0-42d4-9709-aba6dca7734f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af369d87-7e21-4431-9325-524be06de260",
+  "input": "{\"title\": \"A Boy Like That\", \"track_number\": 61}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 61 of 'La Leyenda'",
+  "status": "verified"
+}

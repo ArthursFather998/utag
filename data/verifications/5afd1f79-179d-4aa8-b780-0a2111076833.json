@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:43.766042+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5dbcc9c-31e8-41a8-aa0e-180b2c62f37d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5afd1f79-179d-4aa8-b780-0a2111076833",
+  "input": "{\"title\": \"Alive\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Hate Me'",
+  "status": "verified"
+}

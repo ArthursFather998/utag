@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:12.600958+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "06f058d4-d7d7-4147-94d0-37a4250e1d81",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85412122-21c2-4fb1-9456-a560c9ab6b56",
+  "input": "{\"title\": \"Migrate\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'E=MC²'",
+  "status": "verified"
+}

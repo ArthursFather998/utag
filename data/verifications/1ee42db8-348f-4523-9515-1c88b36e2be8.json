@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:55.104202+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6aae407e-9dca-4589-b7fc-a2e25a87b762",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ee42db8-348f-4523-9515-1c88b36e2be8",
+  "input": "{\"title\": \"Paralyzed\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Gran Turismo'",
+  "status": "verified"
+}

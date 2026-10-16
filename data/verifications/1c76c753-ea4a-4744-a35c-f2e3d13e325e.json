@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:34.302122+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d699498-fb60-4053-bfd3-ea077a82823a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c76c753-ea4a-4744-a35c-f2e3d13e325e",
+  "input": "{\"title\": \"Afraid - Spotify Sessions Curated by Jim Eno\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Spotify Sessions'",
+  "status": "verified"
+}

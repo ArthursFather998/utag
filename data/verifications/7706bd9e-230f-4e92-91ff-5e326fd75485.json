@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:59.821815+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6db04a24-c961-4ad4-ba19-834cb61589e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7706bd9e-230f-4e92-91ff-5e326fd75485",
+  "input": "{\"title\": \"The Man Who Lives Forever\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Lonesome Dreams (Bonus Track Version)'",
+  "status": "verified"
+}

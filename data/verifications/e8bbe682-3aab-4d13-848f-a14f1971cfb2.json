@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:55.269229+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd4a24d0-a9d2-4750-ad1f-f58dd5c3f581",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e8bbe682-3aab-4d13-848f-a14f1971cfb2",
+  "input": "{\"title\": \"Dead Man's Hand\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Strange Trails (10th Anniversary Edition)'",
+  "status": "verified"
+}

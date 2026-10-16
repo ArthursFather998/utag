@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:26.672282+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88dfbdc0-14ee-4f23-9094-e9c8dc38d5c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "408a4c7d-1d7d-4777-b99b-ba15955d63db",
+  "input": "{\"title\": \"Suffer the Children\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Hurting'",
+  "status": "verified"
+}

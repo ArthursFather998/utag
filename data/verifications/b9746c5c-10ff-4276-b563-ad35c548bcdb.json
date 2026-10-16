@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:03.132031+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3730ea8-1f0b-43f8-b977-41d679f26a6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9746c5c-10ff-4276-b563-ad35c548bcdb",
+  "input": "{\"title\": \"Stuck with U\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Stuck with U'",
+  "status": "verified"
+}

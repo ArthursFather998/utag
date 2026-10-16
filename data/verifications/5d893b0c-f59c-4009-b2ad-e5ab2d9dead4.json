@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:34.478288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6adb2395-e841-43fb-96c6-5e1328263b75",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d893b0c-f59c-4009-b2ad-e5ab2d9dead4",
+  "input": "{\"title\": \"The Let Out\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Fall-Off'",
+  "status": "verified"
+}

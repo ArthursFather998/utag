@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:16.625209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92c98131-a959-46c2-9d9e-7db567fe71d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6705f204-6db2-489c-ba7d-19cc73b7ea48",
+  "input": "{\"title\": \"Compass\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Hard to Imagine'",
+  "status": "verified"
+}

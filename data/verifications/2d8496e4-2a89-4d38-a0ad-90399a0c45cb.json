@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:54.72666+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c83bbafd-a858-4ee9-a125-2f1792749229",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d8496e4-2a89-4d38-a0ad-90399a0c45cb",
+  "input": "{\"title\": \"Don't You Wanna Stay (with Kelly Clarkson)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '30 Number One Hits'",
+  "status": "verified"
+}

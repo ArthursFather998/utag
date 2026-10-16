@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:10.522862+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "848af649-89d2-4ce8-85c3-a7f193c90ff1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce63dec4-3bb4-4388-8f29-1a8050efd040",
+  "input": "{\"title\": \"Si Una Vez\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Amor Prohibido'",
+  "status": "verified"
+}

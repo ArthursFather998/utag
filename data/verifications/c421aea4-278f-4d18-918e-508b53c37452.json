@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:22.611877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b5f8c1e5-1d38-4ab8-93f4-894739562c85",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c421aea4-278f-4d18-918e-508b53c37452",
+  "input": "{\"title\": \"Ready\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: [release_date: 2025-01-15]",
+  "status": "verified"
+}

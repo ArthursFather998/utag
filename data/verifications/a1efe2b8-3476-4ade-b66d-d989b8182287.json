@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:53.048421+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c1f792a-1de4-47f9-863f-071327e7827b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1efe2b8-3476-4ade-b66d-d989b8182287",
+  "input": "{\"title\": \"FWU\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'FWU'",
+  "status": "verified"
+}

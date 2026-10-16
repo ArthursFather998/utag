@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:06.266651+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19295852-a97a-4356-b225-0197a36c21b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad4a2637-45ea-429f-930e-feed004ff768",
+  "input": "{\"title\": \"Estoy Contigo\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The New Girl in Town'",
+  "status": "verified"
+}

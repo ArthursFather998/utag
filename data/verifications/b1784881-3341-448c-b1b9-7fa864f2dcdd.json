@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:32.572047+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0423674e-eed6-4e24-ba1e-e52a0048da9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1784881-3341-448c-b1b9-7fa864f2dcdd",
+  "input": "{\"title\": \"Little Jeannie\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of '21 at 33'",
+  "status": "verified"
+}

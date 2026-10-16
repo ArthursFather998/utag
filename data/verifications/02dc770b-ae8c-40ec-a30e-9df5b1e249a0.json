@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:10.367039+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62f80147-b0b0-4b8e-ad90-de3b32e1e39b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02dc770b-ae8c-40ec-a30e-9df5b1e249a0",
+  "input": "{\"title\": \"Let Me\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Coffret 4 CD'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:58.384561+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5966945b-6db2-4401-8393-ce88f0750ba9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ccd67990-7349-4a72-a349-c59a9784983a",
+  "input": "{\"title\": \"It's Late\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'News of the World'",
+  "status": "verified"
+}

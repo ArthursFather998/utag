@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:03.939621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba292a74-847e-432a-a7f0-14197e7df294",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6591e23-aceb-4db1-afb3-7f7d890ee0fb",
+  "input": "{\"title\": \"No Szns\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'No Szns'",
+  "status": "verified"
+}

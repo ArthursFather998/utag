@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:36.748195+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e683ed1-e56b-480a-88da-e9fc7dbd551c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55302e39-0a49-495b-9668-557611b27db7",
+  "input": "{\"title\": \"God's Child (Baila Conmigo)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'God's Child (Baila Conmigo)'",
+  "status": "verified"
+}

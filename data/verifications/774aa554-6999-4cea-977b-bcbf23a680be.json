@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:50.687909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e27df3b-793c-43dc-9eac-a6e1effd5f73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "774aa554-6999-4cea-977b-bcbf23a680be",
+  "input": "{\"title\": \"Noise\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Hard'",
+  "status": "verified"
+}

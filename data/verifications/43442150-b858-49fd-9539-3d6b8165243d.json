@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:10.14225+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "601efb01-ce10-4dca-8f51-080af5322713",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43442150-b858-49fd-9539-3d6b8165243d",
+  "input": "{\"title\": \"Santa Claus Is Coming to Town\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Under the Mistletoe'",
+  "status": "verified"
+}

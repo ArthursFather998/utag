@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:21.74312+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4644ae47-b158-4e4f-b40e-1bd0ea7093e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4894436c-847a-48ab-aedb-4e0655ccaf3e",
+  "input": "{\"title\": \"Oh Santa!\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Merry Christmas (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

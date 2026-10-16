@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:27.344916+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "058ad5b1-e7ac-40a6-9022-cadc4c399a71",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d423b7b3-c7c7-4a7d-9ed2-afdfa8e64c43",
+  "input": "{\"title\": \"Scream\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Looking 4 Myself'",
+  "status": "verified"
+}

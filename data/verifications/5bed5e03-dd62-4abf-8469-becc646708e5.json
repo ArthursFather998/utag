@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:19.744205+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aec15804-9f1f-41c2-a5d6-6b702186e7ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5bed5e03-dd62-4abf-8469-becc646708e5",
+  "input": "{\"title\": \"All Mine\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Apple Music Live: Brent Faiyaz'",
+  "status": "verified"
+}

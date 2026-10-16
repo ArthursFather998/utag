@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:36.496251+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c53d246-defe-468a-aabf-b7d1efce07b9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a73795b3-e260-4d0b-9330-7d1a5fa7ee68",
+  "input": "{\"title\": \"There's a Thug in My Life (featuring J-Status)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Music of the Sun / A Girl Like Me'",
+  "status": "verified"
+}

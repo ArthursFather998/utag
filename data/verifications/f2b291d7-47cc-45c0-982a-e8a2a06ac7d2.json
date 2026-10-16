@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:31.015735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62fe6b0f-9cf6-45f9-b9e2-96317d391706",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2b291d7-47cc-45c0-982a-e8a2a06ac7d2",
+  "input": "{\"title\": \"Something About Maggie\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Viva Las Vengeance'",
+  "status": "verified"
+}

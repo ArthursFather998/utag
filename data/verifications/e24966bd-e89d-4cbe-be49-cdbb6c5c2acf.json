@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:04.311819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b9bc0b5-1cd4-4f44-9b90-bd1fc72926d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e24966bd-e89d-4cbe-be49-cdbb6c5c2acf",
+  "input": "{\"title\": \"Dance Bitch\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'BBD'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:44.739913+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f874101c-9124-49d5-bf9f-82c62aaa7182",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5baa23d5-b80b-477a-ad3a-a54bdfdfce40",
+  "input": "{\"title\": \"Care Package\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

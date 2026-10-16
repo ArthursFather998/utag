@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:36.827261+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9405d8ef-7508-49bd-b496-353f56d8e24d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5bff0c6-e6a1-4f81-aa2e-4ce2356d3a0e",
+  "input": "{\"title\": \"Thriller\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

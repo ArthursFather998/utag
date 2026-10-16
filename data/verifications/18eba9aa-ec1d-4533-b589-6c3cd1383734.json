@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:11.19884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b34e91c-b6b5-43d8-b23e-6fa4cdefaeec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18eba9aa-ec1d-4533-b589-6c3cd1383734",
+  "input": "{\"title\": \"Number (N)ine Freestyle\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Number (N)ine Freestyle'",
+  "status": "verified"
+}

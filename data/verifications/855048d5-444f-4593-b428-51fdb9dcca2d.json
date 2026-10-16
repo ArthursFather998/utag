@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:40.774969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84df9a09-5fcb-4ad8-8a8b-5514ea637dbc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "855048d5-444f-4593-b428-51fdb9dcca2d",
+  "input": "{\"title\": \"Wonderful Crazy Night\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

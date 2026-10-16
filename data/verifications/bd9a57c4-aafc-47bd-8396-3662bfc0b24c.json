@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:20.531135+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a0f82f7-6410-490a-acdf-ffd937260d80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd9a57c4-aafc-47bd-8396-3662bfc0b24c",
+  "input": "{\"title\": \"Wilson (Expensive Mistakes)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Mania'",
+  "status": "verified"
+}

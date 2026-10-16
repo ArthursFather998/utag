@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:32.675242+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e567b35-c8e2-4d74-b582-1fd7cc2fe41f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6be45ad9-956e-42b2-96c1-8c347b33f3d1",
+  "input": "{\"title\": \"Way It Is (with Gunna)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Swag'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:12.987716+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e83f1ca-bcfa-4f64-959c-0a347b45e690",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0a0deb2b-3fcb-4243-96d6-e9067073bb33",
+  "input": "{\"title\": \"Year of the Optimist\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

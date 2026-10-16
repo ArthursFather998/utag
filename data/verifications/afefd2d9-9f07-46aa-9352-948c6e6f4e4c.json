@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:11.948039+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "978d05e0-bbcc-4a9a-b5cb-11a744a23111",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "afefd2d9-9f07-46aa-9352-948c6e6f4e4c",
+  "input": "{\"title\": \"Something Wrong\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:59.652379+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98dcac6d-2b6c-4696-82d4-497f22773474",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "214b31a6-fd67-4284-a8ae-f7df1d20e50e",
+  "input": "{\"title\": \"Story for Another Glass\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Macon'",
+  "status": "verified"
+}

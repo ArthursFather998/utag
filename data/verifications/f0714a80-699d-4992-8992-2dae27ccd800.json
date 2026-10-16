@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:45.22903+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec5e8027-80a9-4ed2-b76b-b4059288cb03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0714a80-699d-4992-8992-2dae27ccd800",
+  "input": "{\"title\": \"saluti\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'SCARLET'",
+  "status": "verified"
+}

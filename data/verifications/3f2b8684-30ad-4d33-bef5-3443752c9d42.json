@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:30.508697+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "93204aa2-cc45-4d17-8455-80840dea4165",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f2b8684-30ad-4d33-bef5-3443752c9d42",
+  "input": "{\"title\": \"Why'd You Only Call Me When You're High?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Why'd You Only Call Me When You're High?'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:11.126539+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd76921c-d928-4913-96d5-40388c049604",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "509ae726-161c-4f7e-92d7-ce51a8a28c45",
+  "input": "{\"title\": \"Fotos y Recuerdos\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Enamorada de Ti'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:35.981425+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2701fa70-9e0e-4ea1-ad85-eec016fe3a5a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "520a0c79-efe3-4d51-add0-15af764f8ae7",
+  "input": "{\"title\": \"The Best of Creed\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:37.007514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a7c3c10-3ad2-4a8d-81d4-f2ccb0e5bd51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb62d8b8-04f1-4946-a9e6-fe8592b064c1",
+  "input": "{\"title\": \"Anonymous\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Transit of Venus'",
+  "status": "verified"
+}

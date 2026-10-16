@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:54.610809+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf49b2dc-17a3-49d7-9bc9-462152caeda3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30fc066b-e13e-4346-b66a-8cb4b2d5c101",
+  "input": "{\"title\": \"Sweet Spot (with Sexyy Red)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Swag Live from Coachella (Weekend II)'",
+  "status": "verified"
+}

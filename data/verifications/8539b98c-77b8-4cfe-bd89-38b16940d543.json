@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:03.90825+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41a12a27-f0a6-4cc1-bbc6-07646d9cf667",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8539b98c-77b8-4cfe-bd89-38b16940d543",
+  "input": "{\"title\": \"The Trail We Blaze\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Road to El Dorado'",
+  "status": "verified"
+}

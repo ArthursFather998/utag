@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:31.653084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b16ccb2d-135b-4d83-aae8-efc6917e5f0b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5caba410-fc6a-462d-a46b-143dea4f563e",
+  "input": "{\"title\": \"Lights\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Ballade'",
+  "status": "verified"
+}

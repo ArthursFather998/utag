@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:14.857189+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dcffa85c-4b2d-4050-bee5-c899294210ac",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4c065a90-706d-484d-be90-1e4ce97e246b",
+  "input": "{\"title\": \"The Grants\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

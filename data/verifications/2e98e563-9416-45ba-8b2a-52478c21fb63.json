@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:01.993952+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff18c2a2-876f-4bb7-a7c0-182340cc159a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e98e563-9416-45ba-8b2a-52478c21fb63",
+  "input": "{\"title\": \"Change Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Change Me'",
+  "status": "verified"
+}

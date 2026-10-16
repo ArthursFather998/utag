@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:50.137676+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73d3f67c-a6ca-4265-8ac1-9475a34e69f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c1cc7d76-f9d8-46b7-b680-affac97cb259",
+  "input": "{\"title\": \"The Ghost\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Bare Trees'",
+  "status": "verified"
+}

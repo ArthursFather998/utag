@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:41.274877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "155d847c-271e-486d-b32d-8710934da337",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50d7d672-a06f-454f-ba2c-ba1a6f170b1b",
+  "input": "{\"title\": \"Shot for Me\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Take Care'",
+  "status": "verified"
+}

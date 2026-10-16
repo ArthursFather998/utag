@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:59.494448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fa147ef-1d96-49f0-93cf-6a37e99a9b25",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed5bce9d-1fe1-4a70-bdac-6343b4d63e76",
+  "input": "{\"title\": \"Farther Away\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Lost Whispers'",
+  "status": "verified"
+}

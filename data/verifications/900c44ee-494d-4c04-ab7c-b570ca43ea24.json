@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:32.890976+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f7e656d-c577-401b-9a0e-19f129c9d5cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "900c44ee-494d-4c04-ab7c-b570ca43ea24",
+  "input": "{\"title\": \"Life's a Mess II\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Life's a Mess II'",
+  "status": "verified"
+}

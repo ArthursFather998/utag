@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:04.668728+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1ed63c8-97f4-4a89-8b05-a285dea5cd3a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8ea82d3b-715f-469a-ac01-a4ad9aabf431",
+  "input": "{\"title\": \"I Remember You\", \"release_type\": \"album\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

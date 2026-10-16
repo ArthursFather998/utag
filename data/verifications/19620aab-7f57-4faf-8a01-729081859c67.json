@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:19.732418+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "341d9fac-a40c-4140-8c69-db8e3a7f8b60",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "19620aab-7f57-4faf-8a01-729081859c67",
+  "input": "{\"title\": \"Made of Stone\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

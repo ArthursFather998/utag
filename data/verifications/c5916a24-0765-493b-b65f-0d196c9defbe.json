@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:04.768148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "adda21b7-c5e6-4589-98ca-0b09c7bd8a46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5916a24-0765-493b-b65f-0d196c9defbe",
+  "input": "{\"title\": \"Schizophrenic Playboy\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Remembering Dolores'",
+  "status": "verified"
+}

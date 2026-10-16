@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:44.527087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c00a9676-1d23-4e72-be96-62cdfb2487dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c838c2bc-0df3-4cfd-906d-e0ae3c38c7f5",
+  "input": "{\"title\": \"Together Again\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Icon: Number Ones'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:15.783069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1497dc13-39bb-49ac-8367-d36893e4a3c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d86ac2c-edfb-4a97-a3d7-f21975951379",
+  "input": "{\"title\": \"Burn (Orchestral Mix)\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Confessions (20th Anniversary Edition)'",
+  "status": "verified"
+}

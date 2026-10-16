@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:43.456719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aff424b4-48d7-40a2-806a-7848c4e5be51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c983816f-347a-427d-bd26-3bc7ae17b7c4",
+  "input": "{\"title\": \"Gorgeous Nightmare\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Escape the Fate'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:53.641904+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "692bf081-55fb-4f57-8719-54dfb0fab41c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a359e79d-4add-464b-b521-6ac3cfabf511",
+  "input": "{\"title\": \"Tearin' Up My Heart\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Collection'",
+  "status": "verified"
+}

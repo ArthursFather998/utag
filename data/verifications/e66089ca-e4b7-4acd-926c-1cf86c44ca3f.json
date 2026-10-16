@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:30.132978+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2ef00ab-c438-4a71-bcbd-3325253f865c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e66089ca-e4b7-4acd-926c-1cf86c44ca3f",
+  "input": "{\"title\": \"Stupid Things\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

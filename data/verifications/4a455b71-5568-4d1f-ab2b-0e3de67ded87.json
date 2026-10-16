@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:09.407204+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=correct conf=medium -> no write",
+    "verdict": "correct"
+  },
+  "entity_id": "38e4ac7a-f6c5-4059-95b4-cb974116cbf5",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "medium"
+  },
+  "id": "4a455b71-5568-4d1f-ab2b-0e3de67ded87",
+  "input": {
+    "artist": "beabadoobee",
+    "release": "Heartstopper: Official Mixtape",
+    "title": "Dance with Me"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "Dance with Me verified on Heartstopper S1E2 soundtrack by NME and Capital; Wikipedia confirms the original 2018 single (Patched Up EP), so both the Heartstopper row and the single row are legitimate. Could not match 'Heartstopper: Official Mixtape' to an officially cataloged album (official album release is the Adiescar Chase score; songs live on Spotify's 'Official Playlist'), so the release name itself is only medium confidence.",
+  "status": "needs_review"
+}

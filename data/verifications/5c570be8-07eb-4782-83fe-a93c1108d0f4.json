@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:23.24456+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d18225af-a2a5-49c8-bef1-3f35dc44b4b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c570be8-07eb-4782-83fe-a93c1108d0f4",
+  "input": "{\"title\": \"First Person Shooter\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'For All the Dogs'",
+  "status": "verified"
+}

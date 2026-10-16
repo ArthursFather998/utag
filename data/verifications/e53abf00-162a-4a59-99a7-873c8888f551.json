@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:23.656733+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c86ffc1-434a-4114-86af-4f6ff827717e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e53abf00-162a-4a59-99a7-873c8888f551",
+  "input": "{\"title\": \"Sukiyaki\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Selena'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:19.860462+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "78a6ef35-0a04-4d7d-b730-745bb5c5ded2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "72aa8035-2db4-48c9-a7b7-914ad38d0eeb",
+  "input": "{\"title\": \"Imperfection\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

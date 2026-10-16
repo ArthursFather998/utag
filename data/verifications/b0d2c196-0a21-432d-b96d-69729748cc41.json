@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:46.952083+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "481b0d92-3d97-45b2-88c6-674a9613a20a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0d2c196-0a21-432d-b96d-69729748cc41",
+  "input": "{\"title\": \"Crazy Little Thing Called Love\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Live at Wembley '86'",
+  "status": "verified"
+}

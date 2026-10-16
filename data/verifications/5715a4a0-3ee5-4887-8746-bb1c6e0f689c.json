@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:11.642909+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd47b8dd-cff9-49f4-9d5f-ac529f577058",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5715a4a0-3ee5-4887-8746-bb1c6e0f689c",
+  "input": "{\"title\": \"When You're Gone\", \"release_type\": \"single\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

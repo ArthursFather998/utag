@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:58.075536+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39fe2711-5244-4749-a054-49050d57409a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c4149f2-6c15-4462-b536-35371b49e7be",
+  "input": "{\"title\": \"My Heart Beat Like a Hammer\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Best of Peter Green's Fleetwood Mac'",
+  "status": "verified"
+}

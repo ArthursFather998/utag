@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:16.76772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c82b0f7-e977-4bab-91e4-3bcb90f4e6bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1364f2d8-1217-41f5-95dc-ed519ddddbff",
+  "input": "{\"title\": \"Killing with Kindness\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Everybody Loves a Happy Ending'",
+  "status": "verified"
+}

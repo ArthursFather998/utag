@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:12.174261+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09e79a4c-7e06-4129-8833-7a8ddaefe62b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a468034-7800-4cff-8b71-b8cb12e55a4b",
+  "input": "{\"title\": \"Fair Fight (Live)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Fray (Deluxe Edition)'",
+  "status": "verified"
+}

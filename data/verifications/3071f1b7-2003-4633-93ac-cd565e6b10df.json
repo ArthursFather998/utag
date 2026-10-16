@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:55.622001+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "abb018e3-18c3-48e7-b01c-25da59994288",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3071f1b7-2003-4633-93ac-cd565e6b10df",
+  "input": "{\"title\": \"Cordell\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Gold'",
+  "status": "verified"
+}

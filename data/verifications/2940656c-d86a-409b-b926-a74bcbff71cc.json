@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:02.323092+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92870881-4cd7-4a35-8b45-3d0f857c0fbe",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2940656c-d86a-409b-b926-a74bcbff71cc",
+  "input": "{\"title\": \"Kiln House\", \"release_type\": \"album\", \"release_year\": 1970}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:53.668729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f6d69aec-c8db-44a8-a466-db9561da90f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7fd7911-289f-477e-9f8e-d9f8c3159194",
+  "input": "{\"title\": \"Bliss\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Rainbow'",
+  "status": "verified"
+}

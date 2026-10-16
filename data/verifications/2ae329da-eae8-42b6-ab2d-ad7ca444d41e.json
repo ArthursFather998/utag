@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:57.12924+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69b8aa31-de86-4b85-b509-faaf574a0766",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2ae329da-eae8-42b6-ab2d-ad7ca444d41e",
+  "input": "{\"title\": \"Greatest Hits II\", \"release_type\": \"album\", \"release_year\": 1991}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:10.653834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d64d537c-8f87-4b25-b0ae-6ea8474480a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a45698ca-97e5-425a-af2d-ea28e39c561c",
+  "input": "{\"title\": \"Bye Bye Bye\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Greatest Hits'",
+  "status": "verified"
+}

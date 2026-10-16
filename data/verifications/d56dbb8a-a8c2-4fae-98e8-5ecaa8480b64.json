@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:00.937329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33fe9cc5-70d8-4507-bc4e-25926f614c94",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d56dbb8a-a8c2-4fae-98e8-5ecaa8480b64",
+  "input": "{\"title\": \"On My Highway\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Wide Open'",
+  "status": "verified"
+}

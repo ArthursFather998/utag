@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:24.237241+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f1b90e9-c3ed-44c6-9d33-e8c8c660ede7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50ff7785-4146-4574-875a-7c838e948b49",
+  "input": "{\"title\": \"Lessons for the Lover\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:18.315779+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec16acec-70f4-4e08-8a34-785fe1aabcbc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a398b81-e4f4-415c-a73f-d85827110dc5",
+  "input": "{\"title\": \"Finesse\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Scorpion'",
+  "status": "verified"
+}

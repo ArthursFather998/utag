@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:22.699624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f2009e0-b9ca-4e54-bb1c-d11c1a01b67f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3cd411c6-052a-4257-8adb-72569b5de473",
+  "input": "{\"title\": \"Sweet Nausea\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sweet Nausea'",
+  "status": "verified"
+}

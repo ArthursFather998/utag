@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:07.774965+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b685f106-3581-4b4a-9af3-98f1c3710fcd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "72d5338c-68f4-4d79-b2d3-977013060837",
+  "input": "{\"title\": \"Time\", \"release_type\": \"album\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

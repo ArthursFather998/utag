@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:12.314801+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01686135-cfe5-4162-803b-08f05f57b2df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db1265a2-b2cd-43ff-af68-44af9858f6f2",
+  "input": "{\"title\": \"Walk\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dead Broke'",
+  "status": "verified"
+}

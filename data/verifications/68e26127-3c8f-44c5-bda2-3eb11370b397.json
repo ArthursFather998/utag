@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:59.475726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12a530a3-c816-4230-a7f6-380d225efcd8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "68e26127-3c8f-44c5-bda2-3eb11370b397",
+  "input": "{\"title\": \"iTunes Festival: London 2012\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

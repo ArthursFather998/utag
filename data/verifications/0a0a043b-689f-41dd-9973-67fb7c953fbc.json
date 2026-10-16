@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:58.154744+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d382d6f0-b271-44d7-b2f4-d206fdc8bc0b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a0a043b-689f-41dd-9973-67fb7c953fbc",
+  "input": "{\"title\": \"Hero\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '#1 to Infinity'",
+  "status": "verified"
+}

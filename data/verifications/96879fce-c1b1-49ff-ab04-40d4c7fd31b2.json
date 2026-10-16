@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:36.676968+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f2628f1-7828-4ce3-bf2d-83e93e596b22",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96879fce-c1b1-49ff-ab04-40d4c7fd31b2",
+  "input": "{\"title\": \"Uncanny Valley\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Uncanny Valley'",
+  "status": "verified"
+}

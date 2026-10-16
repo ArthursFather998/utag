@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:47.484423+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8bf27291-16f2-4469-b3cf-971e61d0577d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a378868-91de-47c6-a44d-d13bd1251a61",
+  "input": "{\"title\": \"Afterlife\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Sanctuary'",
+  "status": "verified"
+}

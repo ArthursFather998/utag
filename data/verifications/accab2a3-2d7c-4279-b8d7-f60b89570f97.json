@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:48.950892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "112ccef3-b570-4c5b-86be-5e42dbb67036",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "accab2a3-2d7c-4279-b8d7-f60b89570f97",
+  "input": "{\"title\": \"Don't Shoot Me I'm Only the Piano Player\", \"release_type\": \"album\", \"release_year\": 1973}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

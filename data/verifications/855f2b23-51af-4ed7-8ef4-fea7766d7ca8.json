@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:01.499552+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b0cc30f-4f0a-4534-854b-e27ab4ccab63",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "855f2b23-51af-4ed7-8ef4-fea7766d7ca8",
+  "input": "{\"title\": \"Sugar and Tea\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

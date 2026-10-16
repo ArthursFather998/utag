@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:23.491152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a120bafe-4499-4c79-a4dd-1da2b0610357",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b160682-7bfc-491e-b1d1-0cb3e14df575",
+  "input": "{\"title\": \"Love Her Like Me\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Songs from the West Coast'",
+  "status": "verified"
+}

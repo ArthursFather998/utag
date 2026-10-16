@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:26.245472+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "198d518d-1240-4f41-b82c-c4fab9910ac5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9ea499f5-d1be-4174-a5c6-63308ebc4be8",
+  "input": "{\"title\": \"The Velvet Rope\", \"release_type\": \"album\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

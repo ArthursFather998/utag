@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:27.536165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7b37c2c-0efe-4f52-80a9-9b6852820f73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2310047d-c413-4b83-8d15-a6ad41b58363",
+  "input": "{\"title\": \"Outside My Window (A-side)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Outside My Window'",
+  "status": "verified"
+}

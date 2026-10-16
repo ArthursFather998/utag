@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:29.84027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b06fdc4-3f76-41cd-851c-a2d175575d2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c2e90257-b342-458f-9975-508954d09bc0",
+  "input": "{\"title\": \"Qu\\u00e9date Esta Noche\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Norma'",
+  "status": "verified"
+}

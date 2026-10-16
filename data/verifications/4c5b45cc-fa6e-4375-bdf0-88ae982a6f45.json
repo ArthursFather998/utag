@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:28.910124+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce003aa7-5b2a-4f43-8a04-9eef16265d79",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c5b45cc-fa6e-4375-bdf0-88ae982a6f45",
+  "input": "{\"title\": \"Disc 1 - No More Tears\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

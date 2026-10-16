@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:29.162966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c64b9c97-7cbc-4aa6-9ad6-27320b108667",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cac77f8e-3304-499f-bcd5-4ada2bf94415",
+  "input": "{\"title\": \"Tejano Blue\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'X's'",
+  "status": "verified"
+}

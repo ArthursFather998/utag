@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:40.018162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b176e3fb-d1f1-46d4-bc10-359c42bc51f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6734cca0-e630-4ae3-b4d6-4e93ed4af2d7",
+  "input": "{\"title\": \"God Rest Ye Merry Gentlemen\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Merry Christmas'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:17.922236+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60b99e3a-804a-4260-bc81-465b7963ff84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b87e633-8a15-4570-b8dd-5a2d4cb6fa8a",
+  "input": "{\"title\": \"Put a Little Umph in It\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Put a Little Umph in It'",
+  "status": "verified"
+}

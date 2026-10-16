@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:07.701555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e68a6c54-42f0-4a8f-8762-b666ca6aeb21",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4dceb71-7b81-4f75-80be-e2e98330c93d",
+  "input": "{\"title\": \"I Struck a Match\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Lesley Gore Sings of Mixed-Up Hearts'",
+  "status": "verified"
+}

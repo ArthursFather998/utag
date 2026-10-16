@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:17.877776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5d2d2c2-d52a-4c80-816f-b0dba1719c41",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4096fab-d8a2-4cb3-86cd-e4bf717f90b0",
+  "input": "{\"title\": \"28 Thousand Days\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '28 Thousand Days'",
+  "status": "verified"
+}

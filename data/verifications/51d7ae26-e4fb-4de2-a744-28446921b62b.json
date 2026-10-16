@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:14.12891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59f20f69-a176-43d6-8c4e-51161a5de152",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51d7ae26-e4fb-4de2-a744-28446921b62b",
+  "input": "{\"title\": \"Around the Sun\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Chemical Warfare: B-Sides'",
+  "status": "verified"
+}

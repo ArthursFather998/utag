@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:23.535775+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0650f6c6-5cf6-492b-bebc-db1a31ccb9d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e59314f6-d7c5-4115-bea3-b19ec16bb66f",
+  "input": "{\"title\": \"All There Is\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'That Sea, The Gambler'",
+  "status": "verified"
+}

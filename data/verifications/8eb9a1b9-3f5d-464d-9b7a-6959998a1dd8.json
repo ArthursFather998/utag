@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:58.856718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69e6cc76-2e01-4945-9c18-1e59736d5b61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8eb9a1b9-3f5d-464d-9b7a-6959998a1dd8",
+  "input": "{\"title\": \"Mariah and Jack Medley\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Mariah Carey's All I Want for Christmas Is You (Original Motion Picture Soundtrack)'",
+  "status": "verified"
+}

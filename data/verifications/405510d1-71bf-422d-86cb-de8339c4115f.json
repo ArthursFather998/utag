@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:31.200038+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62edc6ac-32c2-45d0-a93c-6f30fe864c04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "405510d1-71bf-422d-86cb-de8339c4115f",
+  "input": "{\"title\": \"No More Tears\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Boys, Boys, Boys with Bonus Tracks'",
+  "status": "verified"
+}

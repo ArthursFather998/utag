@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:36.126601+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e10cee7c-7f5f-47fe-8eb5-52c0571bc15c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "09b449e4-6fcf-4d92-aba3-3240d28c04c2",
+  "input": "{\"title\": \"Goodnight Song\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

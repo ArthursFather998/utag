@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:42.837818+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "344651bf-7b4f-42c9-bd9f-48f04dea16e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7405201-ab78-4b1d-b5bc-71a2eb79148c",
+  "input": "{\"title\": \"Jumping at Shadows\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Live at the BBC'",
+  "status": "verified"
+}

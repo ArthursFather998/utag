@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:36.974348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8894a7a7-dd93-406d-9079-51eb208eb13f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "362df4ed-38f4-4d0f-8bdd-43bff357c5c2",
+  "input": "{\"title\": \"Sunshine, Lollipops and Rainbows\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Boys, Boys, Boys with Bonus Tracks'",
+  "status": "verified"
+}

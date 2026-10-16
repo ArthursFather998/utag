@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:46.453894+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "851b75d4-09e7-4d2e-8d39-8a5a64ef8054",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ccda90cc-2d63-4582-9e54-7a08b0b31a08",
+  "input": "{\"title\": \"Scream\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

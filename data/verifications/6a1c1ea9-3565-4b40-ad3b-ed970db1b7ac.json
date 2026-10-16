@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:13.978296+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7260956f-f485-4589-acde-a055c4782aa3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a1c1ea9-3565-4b40-ad3b-ed970db1b7ac",
+  "input": "{\"title\": \"Road Trips\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Maid of Honour'",
+  "status": "verified"
+}

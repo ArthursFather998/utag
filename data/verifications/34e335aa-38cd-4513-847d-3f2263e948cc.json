@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:19.032301+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9dbd1ea0-36e4-4ea2-b16d-b8a6160ca7ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34e335aa-38cd-4513-847d-3f2263e948cc",
+  "input": "{\"title\": \"Bring Me Back to Life\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bring Me Back to Life'",
+  "status": "verified"
+}

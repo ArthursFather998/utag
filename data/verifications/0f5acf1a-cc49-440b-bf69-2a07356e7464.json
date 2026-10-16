@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:00.863754+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82baaa64-2b38-46d2-add3-99f1eb39c010",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f5acf1a-cc49-440b-bf69-2a07356e7464",
+  "input": "{\"title\": \"If\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Love Songs'",
+  "status": "verified"
+}

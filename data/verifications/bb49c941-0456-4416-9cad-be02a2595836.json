@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:38.74208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c34b5440-adb7-43fe-b4f7-67627d49cff4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bb49c941-0456-4416-9cad-be02a2595836",
+  "input": "{\"title\": \"Love Shines\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:26.854967+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd5301dc-d630-4b8a-84d9-e25d2f08ea32",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "018ab88b-cf5f-4f13-9a27-f887b8d235c9",
+  "input": "{\"title\": \"Girl Talk\", \"release_type\": \"album\", \"release_year\": 1964}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

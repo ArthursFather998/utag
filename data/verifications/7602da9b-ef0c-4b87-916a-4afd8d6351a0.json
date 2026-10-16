@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:46.079828+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9ea9808-a69a-4198-8843-cf959ff4a9cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7602da9b-ef0c-4b87-916a-4afd8d6351a0",
+  "input": "{\"title\": \"S&M\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'S&M'",
+  "status": "verified"
+}

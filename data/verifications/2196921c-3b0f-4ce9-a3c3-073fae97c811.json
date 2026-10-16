@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:28.536758+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e49059ef-94cd-415c-b1a4-6833d9c4b678",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2196921c-3b0f-4ce9-a3c3-073fae97c811",
+  "input": "{\"title\": \"Mellow\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Honky Château'",
+  "status": "verified"
+}

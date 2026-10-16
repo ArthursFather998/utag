@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:02.416709+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "518b523a-cc09-4659-98f0-c0dddd707c79",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "91d17ac4-ba83-4ab4-b376-905e2f902efb",
+  "input": "{\"title\": \"Unforgiven\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'My Own Prison (25th Anniversary Edition)'",
+  "status": "verified"
+}

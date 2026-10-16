@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:38.026183+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5cd758da-4632-45cd-9c5d-ab182cf8c3e6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "17e04fee-beb1-45ee-8b31-3917904b0531",
+  "input": "{\"title\": \"Breaking Hearts\", \"release_type\": \"album\", \"release_year\": 1984}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

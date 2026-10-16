@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:30.658408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c6ba719-f09f-44ac-951e-c6e0ebf9e189",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ab5f22c-6357-4eed-954f-d61c33b5ff69",
+  "input": "{\"title\": \"DJ Got Us Fallin' in Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'DJ Got Us Fallin' in Love'",
+  "status": "verified"
+}

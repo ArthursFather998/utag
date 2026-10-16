@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:45.987133+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16a89088-8746-4b0b-9ab9-49f17ac8f417",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca7bfbf8-1428-455a-b022-094ca12641a7",
+  "input": "{\"title\": \"Season's Change\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Jagged Edge'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:54.377495+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8897d02e-cc40-4d54-b0c5-445b91ca821a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c59767a6-b4de-49c4-9520-ecceb2e8c7d1",
+  "input": "{\"title\": \"Say It's Not True\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Cosmos Rocks'",
+  "status": "verified"
+}

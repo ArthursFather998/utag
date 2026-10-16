@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:46.210128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce8a4c22-73be-4435-a268-a920d17f4f31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf283860-cb59-44ba-a77b-14f007f1ea91",
+  "input": "{\"title\": \"Don't Stop Me Now... Revisited\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:53:17.087889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2e270bf-c470-478b-b1e0-3f90e8b3047f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ab6e4bc-1caa-4c79-9c0f-8862e654a7d9",
+  "input": "{\"title\": \"Just Like Chet\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Everything I Know About Love (Deluxe Edition)'",
+  "status": "verified"
+}

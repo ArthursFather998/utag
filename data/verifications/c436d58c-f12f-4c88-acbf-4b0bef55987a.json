@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:37.369388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46887d04-78f4-4c90-99f2-a916eb9e9e1c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c436d58c-f12f-4c88-acbf-4b0bef55987a",
+  "input": "{\"title\": \"Off to the Races\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

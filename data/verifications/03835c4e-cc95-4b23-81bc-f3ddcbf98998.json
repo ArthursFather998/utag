@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:41.024172+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13b9b3b5-8c8d-46a6-94a7-6efac22ff272",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03835c4e-cc95-4b23-81bc-f3ddcbf98998",
+  "input": "{\"title\": \"Lights\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Revelation'",
+  "status": "verified"
+}

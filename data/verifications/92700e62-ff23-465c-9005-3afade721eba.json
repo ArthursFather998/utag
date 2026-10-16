@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:09.683545+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "539edf6b-b2ae-47e4-8dbd-4e392929cc72",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "92700e62-ff23-465c-9005-3afade721eba",
+  "input": "{\"title\": \"Death\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

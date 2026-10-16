@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:28.713689+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de7465a0-cf00-4968-8409-0cc6ad17864e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d8d30602-f8fd-483a-b230-d0eb97a4a489",
+  "input": "{\"title\": \"Centuries\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

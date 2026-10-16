@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:06.434291+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "10d5d136-60a7-405f-9f94-54293604d177",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "e49f93a4-5009-4af8-91a9-d959bf731e11",
+  "input": {
+    "artist": "Frank Ocean",
+    "release": "channel ORANGE",
+    "title": "Lost"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Wikipedia lists 'Lost' as track 11 on Frank Ocean's channel ORANGE (2012 studio debut). | sources: https://en.wikipedia.org/wiki/Channel_Orange",
+  "status": "verified"
+}

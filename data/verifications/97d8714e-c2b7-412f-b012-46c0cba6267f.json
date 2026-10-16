@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:33.5957+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de26bdcb-8834-403b-a0c0-7422248b88e5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "97d8714e-c2b7-412f-b012-46c0cba6267f",
+  "input": "{\"title\": \"Remember Me\", \"release_type\": \"single\", \"release_year\": 1973}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

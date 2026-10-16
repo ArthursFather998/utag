@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:10.568309+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61b44af4-ca40-45bb-a384-6df92cbbc296",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa7cc996-32ed-456d-99b4-ad2927c5ec4f",
+  "input": "{\"title\": \"Dink's Song\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'The Complete Live at Sin-é'",
+  "status": "verified"
+}

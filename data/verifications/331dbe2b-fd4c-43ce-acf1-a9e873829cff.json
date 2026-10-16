@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:41.308055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29aa98e4-7d8d-4d69-ba79-f7a7eeceb3ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "331dbe2b-fd4c-43ce-acf1-a9e873829cff",
+  "input": "{\"title\": \"Bob Dylan\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bob Dylan'",
+  "status": "verified"
+}

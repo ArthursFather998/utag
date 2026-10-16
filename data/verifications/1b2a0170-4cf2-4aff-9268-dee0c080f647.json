@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:05.620812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "986ffd27-0260-43b3-b657-8a032d0c490b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b2a0170-4cf2-4aff-9268-dee0c080f647",
+  "input": "{\"title\": \"Tender Love\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live'",
+  "status": "verified"
+}

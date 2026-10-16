@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:58.74654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4dd5f3f-5e5b-4837-a2e3-66dda28e0d21",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b9c80c9-044f-4e29-8a91-890e57470146",
+  "input": "{\"title\": \"Not an Addict\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Stripped'",
+  "status": "verified"
+}

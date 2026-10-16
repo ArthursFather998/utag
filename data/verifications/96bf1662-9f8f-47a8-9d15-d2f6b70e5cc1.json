@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:40.307765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5b4a2f5-ee1b-4656-a0a9-39f834c38aec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96bf1662-9f8f-47a8-9d15-d2f6b70e5cc1",
+  "input": "{\"title\": \"Look Into the Future\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'In the Beginning'",
+  "status": "verified"
+}

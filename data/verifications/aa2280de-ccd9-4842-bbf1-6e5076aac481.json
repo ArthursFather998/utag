@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:21.917394+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6a7b9e6-95c9-46e6-888e-281946173125",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa2280de-ccd9-4842-bbf1-6e5076aac481",
+  "input": "{\"title\": \"She's Dope!\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'She's Dope!'",
+  "status": "verified"
+}

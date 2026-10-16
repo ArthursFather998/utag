@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:42:53.149567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e86a945f-d367-4f1a-9ee1-0f66bd9bf9ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "301c5318-36a5-42ed-8bd1-276d79778b4e",
+  "input": "{\"title\": \"Fee Fi Fo\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Bury the Hatchet'",
+  "status": "verified"
+}

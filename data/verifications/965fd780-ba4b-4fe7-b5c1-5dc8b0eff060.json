@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:29.572343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ebba2a16-2a96-4a31-985a-df7f7ed912c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "965fd780-ba4b-4fe7-b5c1-5dc8b0eff060",
+  "input": "{\"title\": \"Jon Batiste Interlude\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Did You Know That There's a Tunnel Under Ocean Blvd'",
+  "status": "verified"
+}

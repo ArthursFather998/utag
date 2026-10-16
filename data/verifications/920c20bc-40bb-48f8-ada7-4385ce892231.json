@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:23.397027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7728520f-3b23-4704-8251-d7516df2a533",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "920c20bc-40bb-48f8-ada7-4385ce892231",
+  "input": "{\"title\": \"Raymond v. Raymond\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

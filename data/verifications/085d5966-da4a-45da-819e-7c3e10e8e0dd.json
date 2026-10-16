@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:58.652812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67c886be-abfa-483f-a215-94abf7ad9a72",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "085d5966-da4a-45da-819e-7c3e10e8e0dd",
+  "input": "{\"title\": \"Un-Thinkable (I'm Ready)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'In Tokyo 2025'",
+  "status": "verified"
+}

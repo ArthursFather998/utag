@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:47.121493+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21ed5271-631f-4d7c-a240-9e718e7cc1e8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7fd00165-a881-40b6-82d2-cd856a43e6fd",
+  "input": "{\"title\": \"Honey\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '#1's'",
+  "status": "verified"
+}

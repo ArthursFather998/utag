@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:50.586474+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b41f40a7-8b8d-42f9-b871-d524ce371a58",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8c8117f-9664-46fa-9259-9c48f87973af",
+  "input": "{\"title\": \"Room in a Room\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Coming Home (Expanded Edition)'",
+  "status": "verified"
+}

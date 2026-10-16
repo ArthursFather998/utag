@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:28.196871+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4ba2584-23cd-4e0b-8688-00a5fcdd2609",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f1fa3fa-90d1-48fe-95f0-7f1f136d4bff",
+  "input": "{\"title\": \"Rembrandt...Run It Back\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Revenge of the Dreamers III'",
+  "status": "verified"
+}

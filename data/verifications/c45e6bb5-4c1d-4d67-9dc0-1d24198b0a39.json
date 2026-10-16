@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:29.201074+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a08a5c9-8195-4577-89d1-7d7d76e05091",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c45e6bb5-4c1d-4d67-9dc0-1d24198b0a39",
+  "input": "{\"title\": \"Nobody's Business (featuring Chris Brown)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Unapologetic (Deluxe)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:35.677733+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd21476a-9509-4aee-a3e1-9e24b06ddc4d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74f37a86-047e-4b90-b66b-8db1440bf7fd",
+  "input": "{\"title\": \"Finally (with Swedish House Mafia)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Finally (with Swedish House Mafia)'",
+  "status": "verified"
+}

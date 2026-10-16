@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:13.556142+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d501c230-424e-42c0-b3a7-6794851baf69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "86d84c61-60e6-491d-a25b-eb92a3a34468",
+  "input": "{\"title\": \"Drum Solo\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live in Ukraine'",
+  "status": "verified"
+}

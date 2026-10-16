@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:09.970289+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c790b95-c912-4eec-b358-42f29139c557",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1fa43a4-4780-4eb3-8e0e-dd1dcbc418b6",
+  "input": "{\"title\": \"Stunnas\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Stunnas'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:20.097989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33a7a09c-0bb5-4221-b366-9a5de6e09cba",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a57c506c-0c43-4da9-83b2-e3e8883b091d",
+  "input": "{\"title\": \"Made in England\", \"release_type\": \"album\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

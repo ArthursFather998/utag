@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:24.298161+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49f8f2d7-a2d6-4f3a-bb92-cfb17994b30b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0dfcdeec-0589-44ec-9662-de654d5f4e11",
+  "input": "{\"title\": \"Up\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'My World 2.0'",
+  "status": "verified"
+}

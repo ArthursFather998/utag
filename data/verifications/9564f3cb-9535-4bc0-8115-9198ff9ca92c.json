@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:58.358917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e30289e-8dcd-4d85-a50e-9fec2fee562c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9564f3cb-9535-4bc0-8115-9198ff9ca92c",
+  "input": "{\"title\": \"lxst4ever\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Romeo & Juliet'",
+  "status": "verified"
+}

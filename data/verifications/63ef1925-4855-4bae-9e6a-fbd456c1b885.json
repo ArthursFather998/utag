@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:12.562052+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da50db77-11ea-4670-a7e7-f8af84aac470",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "63ef1925-4855-4bae-9e6a-fbd456c1b885",
+  "input": "{\"title\": \"Don't Throw Away My Love\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Lo Mejor de...Selena'",
+  "status": "verified"
+}

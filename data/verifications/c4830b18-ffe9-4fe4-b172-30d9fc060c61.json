@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:07.385286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f33f8f9-1a10-4c3f-ab94-025fd3ac8fdb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4830b18-ffe9-4fe4-b172-30d9fc060c61",
+  "input": "{\"title\": \"summer depression\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'beginnings'",
+  "status": "verified"
+}

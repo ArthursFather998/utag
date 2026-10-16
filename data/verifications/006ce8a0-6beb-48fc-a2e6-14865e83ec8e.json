@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:05.946871+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2cb50fcd-eea6-478a-88af-a603dd252aba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "006ce8a0-6beb-48fc-a2e6-14865e83ec8e",
+  "input": "{\"title\": \"Amityville\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Marshall Mathers LP'",
+  "status": "verified"
+}

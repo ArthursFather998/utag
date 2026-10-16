@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:54.469183+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b5e7627-56f2-4adc-a0f9-d3ef1a58839f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "02401c93-6506-41e4-9c87-5f1bb9995e61",
+  "input": "{\"title\": \"Show Me Love (with Miguel)\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

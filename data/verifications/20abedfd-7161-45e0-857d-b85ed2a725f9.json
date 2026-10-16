@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:55.272353+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a2d5070d-ccad-442f-9ced-57fba58912da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20abedfd-7161-45e0-857d-b85ed2a725f9",
+  "input": "{\"title\": \"I Don't Wanna Waste My Time\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'In Tongues (Deluxe)'",
+  "status": "verified"
+}

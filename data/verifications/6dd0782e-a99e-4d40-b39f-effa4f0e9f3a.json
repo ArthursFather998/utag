@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:04.108942+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe6e90c5-f073-449e-858d-470e9e9f0495",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6dd0782e-a99e-4d40-b39f-effa4f0e9f3a",
+  "input": "{\"title\": \"I Need You, Come on Home to Me\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live at the Marquee 1967'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:49.599234+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "18e23a3e-5894-4f96-9f3b-ce3fd053d003",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27c794eb-5b01-43ad-bfc0-d592010e51ee",
+  "input": "{\"title\": \"Wasted on You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wasted on You'",
+  "status": "verified"
+}

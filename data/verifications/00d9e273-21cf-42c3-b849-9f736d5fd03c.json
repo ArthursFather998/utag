@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:59.435505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d4f41c6-8a99-4747-a230-92ee845a8872",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00d9e273-21cf-42c3-b849-9f736d5fd03c",
+  "input": "{\"title\": \"Go Your Way\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Lost in Transition'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:00.377449+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ccd4bf0-fa67-4324-9671-524a3c1188cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a1a5635-5ebc-4972-b4af-723d9a09e9db",
+  "input": "{\"title\": \"Change\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Lust for Life'",
+  "status": "verified"
+}

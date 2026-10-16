@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:17:09.718337+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54c97f65-3b5b-4e29-867e-9e0f6b76f126",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2bc71ff4-8517-4427-b017-1f724d4c08e7",
+  "input": "{\"title\": \"Time Is Ticking Out\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Time Is Ticking Out'",
+  "status": "verified"
+}

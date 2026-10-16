@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:27.797653+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bfa7c36-7787-40ad-a588-6939a62d2cfe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e72c3d75-5ddc-470b-82c0-aa62e57be50a",
+  "input": "{\"title\": \"Happy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Happy'",
+  "status": "verified"
+}

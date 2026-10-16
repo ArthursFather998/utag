@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:28.286408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9ddd38d-408b-4d56-b962-f36825233651",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c657fb6d-7ec2-4b08-b05a-f5f25fc4283f",
+  "input": "{\"title\": \"Deep in a Dream\", \"release_type\": \"album\", \"release_year\": 1961}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

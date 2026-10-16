@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:01.161051+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aab2ae35-7994-4c49-95a0-0c1bc1836b39",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bdcb6423-e82c-4c51-8def-371bb669c361",
+  "input": "{\"title\": \"5am\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

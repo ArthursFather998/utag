@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:38.978112+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c15a01e3-91ad-4b34-aac2-6202bdb8eecd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c76c4515-dc1d-492d-89e7-8b1b0d87c6f4",
+  "input": "{\"title\": \"Late Checkout\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Ugly Duck'",
+  "status": "verified"
+}

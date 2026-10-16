@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:06.586271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6dc716a-d5f4-4231-a489-56bde9005ca2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8330f8d2-4522-42b5-a2dd-c91ea8b3d648",
+  "input": "{\"title\": \"Love in Store\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Selections from 25 Years – The Chain'",
+  "status": "verified"
+}

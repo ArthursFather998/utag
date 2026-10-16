@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:53.156531+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb693c7b-182c-4536-b7db-b3079b6ec8fa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc9ab697-3ca9-4b47-814b-9b35d199d11e",
+  "input": "{\"title\": \"One Year of Love\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Deep Cuts, Volume 3 (1984-1995)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:01.623887+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "155acbdb-aff1-414c-9941-f92a8857e156",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36c46096-5c2a-4215-ba04-72a2121b17de",
+  "input": "{\"title\": \"Dust My Blues\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live at the Marquee 1967'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:37.207232+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15df10d4-4ee1-4c41-88c7-356f4a5dd284",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1614a192-1e4f-45cc-930d-67857df07442",
+  "input": "{\"title\": \"Beat It (featuring John Mayer)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Beat It (featuring John Mayer)'",
+  "status": "verified"
+}

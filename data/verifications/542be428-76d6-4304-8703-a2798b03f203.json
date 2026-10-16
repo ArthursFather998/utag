@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:26.387281+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9c557f4-5da8-4609-a47a-3fa9b833a854",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "542be428-76d6-4304-8703-a2798b03f203",
+  "input": "{\"title\": \"Los Infantes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Los Infantes'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:15.805222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a69699f0-adae-47be-b580-b0c288abf6b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "286c9a37-e000-426b-bcb1-db7b20a3f677",
+  "input": "{\"title\": \"Genesis (Prelude)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Genesis (Deluxe)'",
+  "status": "verified"
+}

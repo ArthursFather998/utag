@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:09.730718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "282923b2-1bc9-4734-96f0-b61744f3d1fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ceaf03c-8613-4c1a-82cb-dcca1100511f",
+  "input": "{\"title\": \"Bedshaped\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Hopes and Fears (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:12.375871+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d271b6c-141c-464a-b032-aad28132d8a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81f89183-f598-4021-8e91-283fdb57a6c1",
+  "input": "{\"title\": \"Early 20 Rager\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Luv Is Rage 2'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:32.777115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c63e563-2f24-40c2-a05d-95795ea44a2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab23c694-150a-4572-a3b5-eb6a4cd9f118",
+  "input": "{\"title\": \"Not You Too\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Dark Lane Demo Tapes'",
+  "status": "verified"
+}

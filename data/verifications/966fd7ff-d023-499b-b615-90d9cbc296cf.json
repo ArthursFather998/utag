@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:59.408344+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d9a4558-0661-4749-82a0-0f47ddc29a6f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "966fd7ff-d023-499b-b615-90d9cbc296cf",
+  "input": "{\"title\": \"Escape\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live in Houston 1981: The Escape Tour'",
+  "status": "verified"
+}

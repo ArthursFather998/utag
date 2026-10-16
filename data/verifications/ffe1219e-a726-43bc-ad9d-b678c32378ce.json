@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:19.171507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92805d0f-38cb-4384-96f7-89c365ec3318",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ffe1219e-a726-43bc-ad9d-b678c32378ce",
+  "input": "{\"title\": \"Costumbres\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Classic Series, Vol. 5'",
+  "status": "verified"
+}

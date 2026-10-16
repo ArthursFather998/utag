@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:46.572536+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1adcb2a6-dc31-495c-80df-b7981a92f207",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a4613da-7fe3-4cb5-8b51-27bfaa0508c9",
+  "input": "{\"title\": \"Astronaut\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Astronaut'",
+  "status": "verified"
+}

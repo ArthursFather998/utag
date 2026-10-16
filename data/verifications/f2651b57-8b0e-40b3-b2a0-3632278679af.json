@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:00.265346+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "616ae4bc-ceb2-4747-b2af-06934e3893bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2651b57-8b0e-40b3-b2a0-3632278679af",
+  "input": "{\"title\": \"Somersault\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Subliming'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:04.184362+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b1bc0ca-3e42-4ede-a86b-822dd1dc4350",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13a53fec-a529-404e-b1ee-85c4fa75534b",
+  "input": "{\"title\": \"Made in Heaven\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Made in Heaven'",
+  "status": "verified"
+}

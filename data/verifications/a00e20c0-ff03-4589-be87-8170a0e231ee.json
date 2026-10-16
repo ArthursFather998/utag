@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:52.529419+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "073bb449-e0f3-4403-9e39-e87c51a0934d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a00e20c0-ff03-4589-be87-8170a0e231ee",
+  "input": "{\"title\": \"Anna Karenina\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

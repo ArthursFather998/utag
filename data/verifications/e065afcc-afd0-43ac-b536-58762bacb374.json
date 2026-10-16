@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:09.742877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4962f07-2926-4f24-8d03-f03df4e681de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e065afcc-afd0-43ac-b536-58762bacb374",
+  "input": "{\"title\": \"Time Will Tell\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Weatherman'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:06.473064+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "409cc746-a245-4da8-9c6e-7791d843d043",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f121cf2c-b279-470f-b6c6-b38eb46e1353",
+  "input": "{\"title\": \"Lights\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Greatest Hits I & II'",
+  "status": "verified"
+}

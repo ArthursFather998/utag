@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:14.807871+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "428b470d-0bc7-47db-8069-481aff86b9de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0bb6de15-4239-4e7c-a27f-3dcda2aa8c20",
+  "input": "{\"title\": \"Desert Moon (From \\\"Aladdin\\\")\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Desert Moon (From \"Aladdin\")'",
+  "status": "verified"
+}

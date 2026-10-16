@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:35.093378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "390f913f-8200-4dc4-a88c-fda1ddd5f3e9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9d8ddaf5-6615-48ac-9027-3a52b662f0ea",
+  "input": "{\"title\": \"*NSYNC\", \"release_type\": \"album\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Standard US edition (released March 24, 1998 by RCA). German 1997 original edition (14 tracks, different order): Tearin' Up My Heart / You Got It / Sailing / Crazy for You / Riddle / For the Girl Who ",
+  "status": "verified"
+}

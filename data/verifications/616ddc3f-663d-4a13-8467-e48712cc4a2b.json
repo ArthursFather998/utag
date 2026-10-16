@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:58.824264+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d69d374-3c89-47c6-bd48-4208dfa6ae92",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "616ddc3f-663d-4a13-8467-e48712cc4a2b",
+  "input": "{\"title\": \"World in Harmony\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Jumping at Shadows: The Blues Years'",
+  "status": "verified"
+}

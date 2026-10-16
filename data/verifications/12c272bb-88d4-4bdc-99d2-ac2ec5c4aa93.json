@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:57.468306+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff2f1d62-c0ce-44ce-9bba-81def8525493",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12c272bb-88d4-4bdc-99d2-ac2ec5c4aa93",
+  "input": "{\"title\": \"Never Too Far / Hero (Medley)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Glitter (25th Anniversary)'",
+  "status": "verified"
+}

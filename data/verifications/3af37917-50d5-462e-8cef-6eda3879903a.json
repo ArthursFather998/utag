@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:03.060399+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b67cbf24-35bc-4f1c-b9bd-6ec61b8875d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3af37917-50d5-462e-8cef-6eda3879903a",
+  "input": "{\"title\": \"Keep the Girl\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Wide Open'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:15.551945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "234ceb72-c8f4-49b8-ac08-7555f0ac3a42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6aed7eb7-64a1-4421-9eba-e23191e39b13",
+  "input": "{\"title\": \"Watch Out\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fleetwood Mac in Chicago'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:32.919517+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29af35b6-2b15-42ad-8c01-36b8a34e1ea4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f2e19b6-b462-4ed3-9cf2-82c938389414",
+  "input": "{\"title\": \"Hoop of Fire\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Leather Jackets'",
+  "status": "verified"
+}

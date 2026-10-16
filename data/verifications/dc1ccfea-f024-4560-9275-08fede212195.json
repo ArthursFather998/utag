@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:29.414971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2391b175-4d07-4f58-be3e-943f8422a56f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc1ccfea-f024-4560-9275-08fede212195",
+  "input": "{\"title\": \"Nice & Slow\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'My Way (25th Anniversary Edition)'",
+  "status": "verified"
+}

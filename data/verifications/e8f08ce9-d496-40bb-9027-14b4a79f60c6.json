@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:41.716729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42c2c863-5d8d-4c38-9c41-1f9637b95556",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e8f08ce9-d496-40bb-9027-14b4a79f60c6",
+  "input": "{\"title\": \"Never Last\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

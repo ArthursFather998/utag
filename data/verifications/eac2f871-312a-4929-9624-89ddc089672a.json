@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:42.850194+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3361c19-0c0c-46c4-9aae-86e4534b7d40",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eac2f871-312a-4929-9624-89ddc089672a",
+  "input": "{\"title\": \"Lost in Paradise\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Unapologetic'",
+  "status": "verified"
+}

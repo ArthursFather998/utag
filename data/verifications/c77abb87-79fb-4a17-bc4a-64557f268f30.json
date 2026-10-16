@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:43.644503+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb5a3dd2-c941-4e53-8c27-fa6c6b7ae80e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c77abb87-79fb-4a17-bc4a-64557f268f30",
+  "input": "{\"title\": \"Second Nature\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Love Songs'",
+  "status": "verified"
+}

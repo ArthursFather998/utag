@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:27.610077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8150a54d-65ee-44cf-bb08-6589807a0379",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "344f2d56-dbcd-471d-999d-b0c88c0ba10d",
+  "input": "{\"title\": \"Michelle\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Sounds of Love'",
+  "status": "verified"
+}

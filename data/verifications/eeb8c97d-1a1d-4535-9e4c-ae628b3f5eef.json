@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:52.390618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53f19d17-46ff-4869-86cb-0ea5f6f19e48",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eeb8c97d-1a1d-4535-9e4c-ae628b3f5eef",
+  "input": "{\"title\": \"Another One Bites the Dust\", \"track_number\": 48}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 48 of 'The Platinum Collection: Greatest Hits I, II & III'",
+  "status": "verified"
+}

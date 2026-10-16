@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:32.267337+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c703aaf-a36b-40c5-8314-af8980b25c07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a196140-be37-495c-874e-08c562758a59",
+  "input": "{\"title\": \"Santa Claus Is Comin' to Town (Anniversary Mix)\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Merry Christmas (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

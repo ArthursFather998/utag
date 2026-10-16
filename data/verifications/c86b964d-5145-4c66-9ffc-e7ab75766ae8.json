@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:46.914139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fc5152e-8af0-4c40-a6c7-aa7a305b48a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c86b964d-5145-4c66-9ffc-e7ab75766ae8",
+  "input": "{\"title\": \"Tokyo Drifting (with Denzel Curry)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Dreamland (+ Bonus Levels)'",
+  "status": "verified"
+}

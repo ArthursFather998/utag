@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:13.58192+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c7f458b-7357-40bc-af83-2c74ce0b03d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62be0d39-fa5b-42bb-a526-6d5575b5a64e",
+  "input": "{\"title\": \"Who's Crying Now\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live in Houston 1981: The Escape Tour'",
+  "status": "verified"
+}

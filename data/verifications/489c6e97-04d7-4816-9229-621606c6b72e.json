@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:53.434571+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d99ee436-40ea-4cb9-bd3a-96d820253e0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "489c6e97-04d7-4816-9229-621606c6b72e",
+  "input": "{\"title\": \"Kill Me Fast\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Kill Me Fast'",
+  "status": "verified"
+}

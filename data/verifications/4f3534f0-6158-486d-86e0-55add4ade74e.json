@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:07.885407+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e3a1178-ed4b-4fda-987c-1767a7c83b38",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f3534f0-6158-486d-86e0-55add4ade74e",
+  "input": "{\"title\": \"Trade of Hearts\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Instrumentals'",
+  "status": "verified"
+}

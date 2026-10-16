@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:17.467603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5c9ce70-2dd9-498b-865b-277b0f1aaedf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bc811111-0f31-47d7-bd35-d29d63689725",
+  "input": "{\"title\": \"Thirsty\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

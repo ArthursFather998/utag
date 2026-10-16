@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:39:25.613266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50a26cf6-2676-4cf7-803c-1a81f89a7238",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc4bb11c-5e7b-44aa-961f-59f72d0562c6",
+  "input": "{\"title\": \"Disc 2 - Before and After\", \"track_number\": 60}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 60 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

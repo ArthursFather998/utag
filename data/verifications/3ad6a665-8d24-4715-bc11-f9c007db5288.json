@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:13.618547+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9295a0e-f7f5-4c62-87fd-192480a1445e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ad6a665-8d24-4715-bc11-f9c007db5288",
+  "input": "{\"title\": \"Cali Man\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cali Man'",
+  "status": "verified"
+}

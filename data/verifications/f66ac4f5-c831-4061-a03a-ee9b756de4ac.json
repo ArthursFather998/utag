@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:49.938379+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8bd427e3-cb95-46f1-af46-6c70161631fc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f66ac4f5-c831-4061-a03a-ee9b756de4ac",
+  "input": "{\"title\": \"The Seeds of Love\", \"release_type\": \"album\", \"release_year\": 1989}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

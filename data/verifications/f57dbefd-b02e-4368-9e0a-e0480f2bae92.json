@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:36.434567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d3eab105-418e-44b1-a9fb-64e4ed94c21d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f57dbefd-b02e-4368-9e0a-e0480f2bae92",
+  "input": "{\"title\": \"Down to Earth\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'My Worlds Acoustic'",
+  "status": "verified"
+}

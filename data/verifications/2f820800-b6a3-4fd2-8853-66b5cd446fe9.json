@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:26.380811+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38595aaf-2de9-4a12-88aa-8e6ae35e5a90",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2f820800-b6a3-4fd2-8853-66b5cd446fe9",
+  "input": "{\"title\": \"To Each His Own\", \"release_type\": \"album\", \"release_year\": 1971}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:13.635036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e710921-33ab-4718-abc9-63e220162ac8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d7049e6-2c7a-4f38-90f1-78bba6558dfa",
+  "input": "{\"title\": \"My Girl\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Remedy'",
+  "status": "verified"
+}

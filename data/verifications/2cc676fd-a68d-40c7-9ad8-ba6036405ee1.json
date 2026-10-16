@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:49.076873+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "970e3591-55fd-441f-832b-af907c210bee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2cc676fd-a68d-40c7-9ad8-ba6036405ee1",
+  "input": "{\"title\": \"Fast Lane\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Curtain Call 2'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:21.384882+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d80524f-c7d5-4462-94db-defd9aaf819c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa23633d-d627-44bf-aadf-cfc68142de52",
+  "input": "{\"title\": \"One Sweet Day\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Ballads'",
+  "status": "verified"
+}

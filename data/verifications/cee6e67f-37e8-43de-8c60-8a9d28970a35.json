@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:41.456165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "574bea14-7667-4813-99bf-fb8c1349e8ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cee6e67f-37e8-43de-8c60-8a9d28970a35",
+  "input": "{\"title\": \"Somebody to Love\", \"track_number\": 39}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 39 of 'The Platinum Collection: Greatest Hits I, II & III'",
+  "status": "verified"
+}

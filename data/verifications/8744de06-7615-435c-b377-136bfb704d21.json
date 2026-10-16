@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:28.173804+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ee03ea3-916b-4a6c-9de5-1e54cca76379",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8744de06-7615-435c-b377-136bfb704d21",
+  "input": "{\"title\": \"A Perfect World\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Released 20 Nov 2025 alongside the BEFORE I FORGET announcement.",
+  "status": "verified"
+}

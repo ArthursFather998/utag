@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:22.999985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "955b1751-e701-4b07-b2fb-ac0ed641457c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dc6f0eac-df5b-4654-884b-b00be98e3b42",
+  "input": "{\"title\": \"Bleed\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

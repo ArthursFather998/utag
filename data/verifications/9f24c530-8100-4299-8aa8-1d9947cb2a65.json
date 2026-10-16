@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:42.292723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7cfd4a08-c7a8-4403-8ffd-e8ccf64d5e11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f24c530-8100-4299-8aa8-1d9947cb2a65",
+  "input": "{\"title\": \"$ting\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Love Collection'",
+  "status": "verified"
+}

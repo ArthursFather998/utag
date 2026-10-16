@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:56.070084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb959e77-57a1-43a2-ab98-e74b977ddfd0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3364438a-6060-455f-bc95-fc93daf71d9b",
+  "input": "{\"title\": \"Somewhere Only We Know\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hopes and Fears (Deluxe Edition)'",
+  "status": "verified"
+}

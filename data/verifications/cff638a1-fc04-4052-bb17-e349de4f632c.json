@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:15.625906+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5db5fef5-0315-4ef5-aba1-844883b699d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cff638a1-fc04-4052-bb17-e349de4f632c",
+  "input": "{\"title\": \"The Lure (Main Theme)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Idol, Vol. 1'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:36.214718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49d7e52d-bf76-46cb-b8f7-a135be85a476",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e8bde49-e98e-4d30-b607-de64a898cc1b",
+  "input": "{\"title\": \"Cloud Nine\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'The Ultimate Collection'",
+  "status": "verified"
+}

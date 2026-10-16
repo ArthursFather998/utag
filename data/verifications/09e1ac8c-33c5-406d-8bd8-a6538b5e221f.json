@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:32.469575+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13c66e21-05c8-48c2-9f66-f547bc906e53",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09e1ac8c-33c5-406d-8bd8-a6538b5e221f",
+  "input": "{\"title\": \"I've Seen That Movie Too\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Goodbye Yellow Brick Road'",
+  "status": "verified"
+}

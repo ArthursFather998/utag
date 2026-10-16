@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:39.453642+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4a9fd2f-aa03-4f10-b7a3-50926405dbc7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23ca4e22-1d19-434e-b99b-ebb75c8183b0",
+  "input": "{\"title\": \"Sacrifice\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Elton John One Night Only – The Greatest Hits'",
+  "status": "verified"
+}

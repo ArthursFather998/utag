@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:11.02401+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "adc9bf16-970a-4d75-a914-22a7feb1283f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2256801c-0cb7-427d-87c7-d77ab7b3b987",
+  "input": "{\"title\": \"Allemande\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Hopes and Fears (20th Anniversary Edition)'",
+  "status": "verified"
+}

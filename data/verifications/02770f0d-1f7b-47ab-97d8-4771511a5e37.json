@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:28.554208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ce2d790-e31d-48fb-9d3b-1ff0b4f0b870",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02770f0d-1f7b-47ab-97d8-4771511a5e37",
+  "input": "{\"title\": \"Someday\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'MTV Unplugged'",
+  "status": "verified"
+}

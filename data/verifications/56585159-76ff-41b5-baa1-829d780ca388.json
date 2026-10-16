@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:14.837765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ea4d7e7-bc74-4c8f-a3c9-5b40db991a47",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "56585159-76ff-41b5-baa1-829d780ca388",
+  "input": "{\"title\": \"Live from King Theater, Seattle, WA, May 7, 1995\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

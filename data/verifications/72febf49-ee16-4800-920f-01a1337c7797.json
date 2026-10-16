@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:07.692169+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45d38977-93a1-4ce1-9785-3fc7bd37255c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72febf49-ee16-4800-920f-01a1337c7797",
+  "input": "{\"title\": \"Fine\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Life (Remastered)'",
+  "status": "verified"
+}

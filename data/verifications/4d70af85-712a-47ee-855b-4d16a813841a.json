@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:42.762143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "128a032e-3b97-46a1-b29b-33ba80446f36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d70af85-712a-47ee-855b-4d16a813841a",
+  "input": "{\"title\": \"I Don't Care\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Don't Care'",
+  "status": "verified"
+}

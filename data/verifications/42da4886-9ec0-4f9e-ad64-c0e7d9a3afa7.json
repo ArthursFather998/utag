@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:47.177605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85b131b0-9058-45de-a23e-ab1b4d0e2416",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "42da4886-9ec0-4f9e-ad64-c0e7d9a3afa7",
+  "input": "{\"title\": \"The Lazy Song\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

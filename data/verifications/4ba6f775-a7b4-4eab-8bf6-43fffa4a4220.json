@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:26.777623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f2a7a30-6629-49d2-8714-6ad83a805249",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ba6f775-a7b4-4eab-8bf6-43fffa4a4220",
+  "input": "{\"title\": \"Mosh\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mosh'",
+  "status": "verified"
+}

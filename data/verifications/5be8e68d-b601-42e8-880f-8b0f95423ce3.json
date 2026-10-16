@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:00.638269+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "762c557e-d4d9-46a6-932f-e06d3cbc9ef2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5be8e68d-b601-42e8-880f-8b0f95423ce3",
+  "input": "{\"title\": \"You're a Mean One, Mr. Grinch\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Collage: A Portrait of Their Best'",
+  "status": "verified"
+}

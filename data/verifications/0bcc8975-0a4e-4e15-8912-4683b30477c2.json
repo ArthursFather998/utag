@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:51.387373+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a31251b0-9fd5-4640-87b2-bc8ae2f2de86",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0bcc8975-0a4e-4e15-8912-4683b30477c2",
+  "input": "{\"title\": \"I Can't Stop Loving Her\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Madison Blues'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:10.493244+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15c7cb22-5e3c-4b06-a25d-929e72536508",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "757a701c-7d16-4cef-930b-98887a61202c",
+  "input": "{\"title\": \"SZA\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

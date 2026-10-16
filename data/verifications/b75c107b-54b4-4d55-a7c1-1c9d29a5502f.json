@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:44.371656+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5928ab35-a316-4e0f-92da-281cac4be738",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b75c107b-54b4-4d55-a7c1-1c9d29a5502f",
+  "input": "{\"title\": \"Drunk on Love\", \"track_number\": 69}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 69 of 'Vinyl Box Set'",
+  "status": "verified"
+}

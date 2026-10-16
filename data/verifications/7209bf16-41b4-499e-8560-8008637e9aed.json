@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:31.620097+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b09e97ce-4c89-4170-87f9-31adefd0db87",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7209bf16-41b4-499e-8560-8008637e9aed",
+  "input": "{\"title\": \"Who Wants to Live Forever\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Live at Wembley '86'",
+  "status": "verified"
+}

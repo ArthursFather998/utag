@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:49.080712+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74b3f02c-ddfb-452b-ba89-2c68487fffab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "70084ac0-b01c-433b-a901-0b97bd73f389",
+  "input": "{\"title\": \"Wallflower\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wallflower'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:47.030491+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c718975e-a723-47fa-96a7-eebe95a0da54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "187ab59a-873f-41ca-83c6-969deeab788e",
+  "input": "{\"title\": \"I Don't Care\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Folie à Deux'",
+  "status": "verified"
+}

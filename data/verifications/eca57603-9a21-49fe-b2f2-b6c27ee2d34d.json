@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:53.268967+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61a86329-ddd0-4347-b49e-b7e9d6720bcd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eca57603-9a21-49fe-b2f2-b6c27ee2d34d",
+  "input": "{\"title\": \"Love's Got a Lot to Answer For\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Big Picture'",
+  "status": "verified"
+}

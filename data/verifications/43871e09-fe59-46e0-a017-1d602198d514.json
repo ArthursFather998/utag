@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:35.747455+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f42d674-16c8-42ef-bb17-7d7ebdf517a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43871e09-fe59-46e0-a017-1d602198d514",
+  "input": "{\"title\": \"If I Didn't Love You (with Carrie Underwood)\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of '30 Number One Hits'",
+  "status": "verified"
+}

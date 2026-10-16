@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:51.78847+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ae3f3d1-9307-4651-8c7a-ebbbcf30c6ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e266325c-0fb7-4863-b089-e69a03741b3f",
+  "input": "{\"title\": \"Un Solo Hombre No Puedo Tener\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Un Solo Hombre No Puedo Tener'",
+  "status": "verified"
+}

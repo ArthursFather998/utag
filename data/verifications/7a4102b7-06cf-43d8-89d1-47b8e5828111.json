@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:49.257717+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bdf9ccc-8c47-4d5c-91bf-84225925b0e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a4102b7-06cf-43d8-89d1-47b8e5828111",
+  "input": "{\"title\": \"Can U Get wit It\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Can U Get wit It'",
+  "status": "verified"
+}

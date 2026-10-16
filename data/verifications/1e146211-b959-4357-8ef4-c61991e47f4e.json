@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:00.123334+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "08780ac8-96e8-47da-834f-735b02f4e094",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e146211-b959-4357-8ef4-c61991e47f4e",
+  "input": "{\"title\": \"My Prayer\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Brian McKnight'",
+  "status": "verified"
+}

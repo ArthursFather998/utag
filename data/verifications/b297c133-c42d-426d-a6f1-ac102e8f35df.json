@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:42.333831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4edf3d84-8853-42f7-8815-440cb799e9df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b297c133-c42d-426d-a6f1-ac102e8f35df",
+  "input": "{\"title\": \"Run For Your Life\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Scars & Stories (Deluxe Edition)'",
+  "status": "verified"
+}

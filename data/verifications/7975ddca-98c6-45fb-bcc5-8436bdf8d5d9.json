@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:36.098431+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c4f3f41-db3a-445b-afc3-821fddbb4d32",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7975ddca-98c6-45fb-bcc5-8436bdf8d5d9",
+  "input": "{\"title\": \"A Place We Knew\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

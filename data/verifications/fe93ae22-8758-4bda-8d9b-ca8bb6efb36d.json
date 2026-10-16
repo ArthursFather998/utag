@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:30.25594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b70a9a10-6cff-4d02-abc4-72f31e489dc1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe93ae22-8758-4bda-8d9b-ca8bb6efb36d",
+  "input": "{\"title\": \"Choke\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Out of the Shadows'",
+  "status": "verified"
+}

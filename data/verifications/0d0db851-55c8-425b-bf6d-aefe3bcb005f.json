@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:36.015597+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c5922d0-0f61-4587-93d1-ea82d622e1d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d0db851-55c8-425b-bf6d-aefe3bcb005f",
+  "input": "{\"title\": \"Already Dead\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Already Dead'",
+  "status": "verified"
+}

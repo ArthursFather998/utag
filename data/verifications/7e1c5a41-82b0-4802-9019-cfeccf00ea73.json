@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:55.646708+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d05f2c1e-933c-4b8c-92b6-c4d4b7cf85c3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7e1c5a41-82b0-4802-9019-cfeccf00ea73",
+  "input": "{\"title\": \"Ride\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

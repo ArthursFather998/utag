@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:57.023676+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5cc4ab07-c0aa-418a-a629-f5320bb9148c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8bdf997b-2bee-479f-9773-62182bebcd4a",
+  "input": "{\"title\": \"Over My Head (Cable Car)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Fray - The Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:25.486521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1958dc8-608f-484d-8ca3-80fe4c06de31",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a8d237e8-4651-4a44-96c2-b627331b7759",
+  "input": "{\"title\": \"Bug a Boo\", \"release_type\": \"single\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

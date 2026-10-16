@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:34.926637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9df70856-3b98-4d7f-b234-a85a68205ef5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "54c20818-6203-4196-bad5-32cd60d1b7e8",
+  "input": "{\"title\": \"You're All I Want\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

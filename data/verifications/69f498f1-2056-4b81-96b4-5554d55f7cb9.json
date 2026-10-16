@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:50.780518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d577a42e-b663-43ec-ac00-ec1ba687fe88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69f498f1-2056-4b81-96b4-5554d55f7cb9",
+  "input": "{\"title\": \"High School Sweethearts\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'High School Sweethearts'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:48.575569+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1dd8168f-502f-4d7c-986c-ebf1d566ea70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99d80566-fe51-472f-8a09-3ec23f968ca1",
+  "input": "{\"title\": \"The Ground You Shook\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Best of Sixpence None the Richer'",
+  "status": "verified"
+}

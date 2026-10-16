@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:07.421021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ec86522-8b7e-4ca4-aaf7-402d3590a583",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5d71a880-c3b9-4fc7-82cc-176b3d854ce5",
+  "input": "{\"title\": \"We Belong Together\", \"release_type\": \"single\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

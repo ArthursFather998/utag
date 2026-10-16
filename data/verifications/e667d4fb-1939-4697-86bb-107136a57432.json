@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:12.58401+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "865f1b3e-10ff-4e1d-a0f7-a48c53508d95",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e667d4fb-1939-4697-86bb-107136a57432",
+  "input": "{\"title\": \"Midnight Memories (The Ultimate Edition)\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

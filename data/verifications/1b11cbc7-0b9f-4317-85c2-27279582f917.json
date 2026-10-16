@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:11.404339+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c9d8b04-178e-40a9-8333-edb5136b5574",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1b11cbc7-0b9f-4317-85c2-27279582f917",
+  "input": "{\"title\": \"I Don't Know You\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

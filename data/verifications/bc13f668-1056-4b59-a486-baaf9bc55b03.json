@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:12.457145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f90578d-4d21-47e8-9306-d12b3bd9683d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bc13f668-1056-4b59-a486-baaf9bc55b03",
+  "input": "{\"title\": \"Everybody Here Wants You\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Jeff Buckley: Music & Photos'",
+  "status": "verified"
+}

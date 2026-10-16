@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:45.166344+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27e8619c-c70d-4b2b-a100-f94befb45fae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6c89c96-4bfa-4b1e-b8ad-6a3292561ed0",
+  "input": "{\"title\": \"Nothing in My Way (Remastered 2026)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Under the Iron Sea (20th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

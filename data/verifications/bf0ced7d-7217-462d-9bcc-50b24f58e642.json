@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:28.844463+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7305d6a5-8752-43f2-b61c-076e2f96066a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf0ced7d-7217-462d-9bcc-50b24f58e642",
+  "input": "{\"title\": \"Bidi Bidi Bom Bom\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '12 Super Éxitos'",
+  "status": "verified"
+}

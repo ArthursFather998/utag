@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:35.701298+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6504cbef-b5e3-4ad8-aa3d-78a348995eb6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1743aec-f55a-420b-8ad9-b96aab9c9acd",
+  "input": "{\"title\": \"kissing as friends\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'cocoon'",
+  "status": "verified"
+}

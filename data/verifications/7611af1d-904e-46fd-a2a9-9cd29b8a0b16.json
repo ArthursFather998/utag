@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:05.326908+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8df8f582-7cde-4079-8ea9-1c3029c70256",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7611af1d-904e-46fd-a2a9-9cd29b8a0b16",
+  "input": "{\"title\": \"8701\", \"release_type\": \"album\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

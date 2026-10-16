@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:43.614232+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf60dd65-b0d8-4ada-987b-365b714c5819",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7ad87bf-9928-4c77-994c-0ebe081c64e8",
+  "input": "{\"title\": \"Father to Son\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Queen II'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:44.238711+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b3f5ddec-ed3f-4210-a71a-b33df08607e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e288b36-00c5-4ec4-a628-99a3bb0950d4",
+  "input": "{\"title\": \"Otherside\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Suddenly, Everything's Changing'",
+  "status": "verified"
+}

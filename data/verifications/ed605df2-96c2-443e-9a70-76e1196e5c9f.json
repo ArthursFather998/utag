@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:46.073772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87791168-e5c0-4cdb-bbc0-169cb99ae555",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed605df2-96c2-443e-9a70-76e1196e5c9f",
+  "input": "{\"title\": \"Been So Long\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'U Turn'",
+  "status": "verified"
+}

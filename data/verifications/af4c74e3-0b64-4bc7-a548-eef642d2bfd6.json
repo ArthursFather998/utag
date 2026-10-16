@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:23.089701+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a366ef71-0dde-48ef-bc64-71a2e8542956",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af4c74e3-0b64-4bc7-a548-eef642d2bfd6",
+  "input": "{\"title\": \"Candy by the Pound\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Ice on Fire'",
+  "status": "verified"
+}

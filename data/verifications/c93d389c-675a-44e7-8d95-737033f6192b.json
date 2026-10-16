@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:28.217355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01b6fb4a-e124-4434-9597-15b589f28227",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c93d389c-675a-44e7-8d95-737033f6192b",
+  "input": "{\"title\": \"Every Beat of My Heart\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'I Remember You'",
+  "status": "verified"
+}

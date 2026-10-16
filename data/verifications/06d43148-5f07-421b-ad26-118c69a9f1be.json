@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:12.064595+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b93ce002-8070-4be7-8ab5-81fe62b431ff",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "06d43148-5f07-421b-ad26-118c69a9f1be",
+  "input": "{\"title\": \"The Mannequin Song\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

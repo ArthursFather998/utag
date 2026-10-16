@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:37.511293+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6a16b29-2a08-47e9-9b96-3296f671494a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09bf894f-6bb2-4613-808f-132310e4e386",
+  "input": "{\"title\": \"Bodies\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Sunburn'",
+  "status": "verified"
+}

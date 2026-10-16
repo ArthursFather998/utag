@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:01.617045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75f6702c-c482-485b-8431-2480ff4e8e59",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0999766-a96b-4d69-bcee-d625e5a8b83d",
+  "input": "{\"title\": \"Outro (Amazing Grace... Dedicated to Andretta Tillman)\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'The Writing's on the Wall'",
+  "status": "verified"
+}

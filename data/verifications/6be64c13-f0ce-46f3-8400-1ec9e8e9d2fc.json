@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:02.725932+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4511958-b726-424d-bc20-152c57066d03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6be64c13-f0ce-46f3-8400-1ec9e8e9d2fc",
+  "input": "{\"title\": \"One Child\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'One Child'",
+  "status": "verified"
+}

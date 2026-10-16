@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:23.704698+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aca678b6-93e1-48c9-ae5a-3e52ca34890f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "518a658e-0a13-4e2d-b7c7-515ecd39cf11",
+  "input": "{\"title\": \"Un Primer Amor\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Un Primer Amor'",
+  "status": "verified"
+}

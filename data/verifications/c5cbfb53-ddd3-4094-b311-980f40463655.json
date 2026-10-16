@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:05.365114+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9abe09f-ad75-4b5d-96eb-22a224de9463",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5cbfb53-ddd3-4094-b311-980f40463655",
+  "input": "{\"title\": \"Tell Me\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Hard II Love'",
+  "status": "verified"
+}

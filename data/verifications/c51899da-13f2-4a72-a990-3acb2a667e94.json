@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:16.25414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bab2b65b-5696-480d-871f-818bfc2f1b1d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c51899da-13f2-4a72-a990-3acb2a667e94",
+  "input": "{\"title\": \"The Secret Recipe (with Lil Yachty)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Secret Recipe (with Lil Yachty)'",
+  "status": "verified"
+}

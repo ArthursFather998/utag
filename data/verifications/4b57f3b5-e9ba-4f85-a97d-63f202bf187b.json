@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:33.961022+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ecf5e22-1a96-472f-9ea9-005ddb8e7a0a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4b57f3b5-e9ba-4f85-a97d-63f202bf187b",
+  "input": "{\"title\": \"What We Do Here\", \"release_type\": \"single\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

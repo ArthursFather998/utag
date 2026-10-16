@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:37.722634+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c185d61-0763-47f1-93eb-5037077ae553",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99bc7bd0-f222-46dd-a082-48aedff2fc17",
+  "input": "{\"title\": \"Flip\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Zaba'",
+  "status": "verified"
+}

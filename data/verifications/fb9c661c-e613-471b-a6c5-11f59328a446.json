@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:14.344402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09b6839e-900a-4af6-8bac-da0664cf957e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb9c661c-e613-471b-a6c5-11f59328a446",
+  "input": "{\"title\": \"Come & Go\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Come & Go'",
+  "status": "verified"
+}

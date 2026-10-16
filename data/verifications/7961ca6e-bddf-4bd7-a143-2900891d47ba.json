@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:13.767961+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "527a70e3-0d40-48ea-9899-935674688cd4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7961ca6e-bddf-4bd7-a143-2900891d47ba",
+  "input": "{\"title\": \"Rockstar 101\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rockstar 101'",
+  "status": "verified"
+}

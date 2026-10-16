@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:27.351459+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8a1ae25-0657-464d-adab-bea0ae3db681",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55e7d3ac-916f-4cae-a73a-0f99ec13e033",
+  "input": "{\"title\": \"Lilac Wine\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Mystery White Boy'",
+  "status": "verified"
+}

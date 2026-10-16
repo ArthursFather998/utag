@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:25.336348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "724b7088-5f6d-4e84-8aeb-e5969dc30419",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9463864a-6424-4b57-b6d6-0351da1f734e",
+  "input": "{\"title\": \"Party Monster\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Party Monster'",
+  "status": "verified"
+}

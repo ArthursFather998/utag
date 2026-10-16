@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:31.557478+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "491bb08b-ebb1-4095-b984-a98aaf387a8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6cc891d9-7ac8-4659-8813-edf472b25973",
+  "input": "{\"title\": \"The Phoenix\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:46.293001+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e3494ce-05e4-462c-a683-58475b42c3fe",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "683af5ad-a88f-4e77-9fae-8631cb73bc4d",
+  "input": "{\"title\": \"Caution\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

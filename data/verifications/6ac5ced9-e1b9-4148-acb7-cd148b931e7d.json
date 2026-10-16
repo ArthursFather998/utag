@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:57.374218+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0407ea21-5c92-4c19-82bc-89a50c831fd9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6ac5ced9-e1b9-4148-acb7-cd148b931e7d",
+  "input": "{\"title\": \"Don't Waste My Time\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

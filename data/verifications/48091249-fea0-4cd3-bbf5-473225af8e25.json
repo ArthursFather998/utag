@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:01.842965+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f7867f4-ca16-4f26-a58b-92d9c2182374",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48091249-fea0-4cd3-bbf5-473225af8e25",
+  "input": "{\"title\": \"Something Inside of Me\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

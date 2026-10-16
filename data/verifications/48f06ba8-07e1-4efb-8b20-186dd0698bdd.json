@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:15.776591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d52ac44a-bde3-443f-a20c-5ad97a6ee72f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48f06ba8-07e1-4efb-8b20-186dd0698bdd",
+  "input": "{\"title\": \"Karma Police (Live in Denver)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live in Denver'",
+  "status": "verified"
+}

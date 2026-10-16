@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:33.853594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35b33a53-2174-40f7-956d-b3024b870762",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "448911c3-4930-464c-9529-67ff49c78cf3",
+  "input": "{\"title\": \"In the Back of My Mind\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In the Back of My Mind'",
+  "status": "verified"
+}

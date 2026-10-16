@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:52.926361+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e89a3665-43b4-4051-9ec1-e8577488c12d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ca5647f7-1a8e-42dd-bcb0-87ea6372a1b5",
+  "input": "{\"title\": \"I'm Doing It Again Baby!\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

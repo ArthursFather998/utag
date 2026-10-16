@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:07.60163+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a93858bd-cb5a-4956-b026-0da885854d84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a9d05db-44b9-41f0-a00b-697f95cca8f6",
+  "input": "{\"title\": \"Lily of the Valley\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Sheer Heart Attack (Deluxe Remastered Version)'",
+  "status": "verified"
+}

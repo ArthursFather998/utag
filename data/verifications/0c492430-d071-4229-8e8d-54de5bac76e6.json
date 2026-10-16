@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:44.834942+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99346c1b-5af9-423c-aa74-c7481b994a4d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c492430-d071-4229-8e8d-54de5bac76e6",
+  "input": "{\"title\": \"Tic Tac\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Pluto x Baby Pluto'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:15.569029+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "329afebf-2a8f-4c09-a435-6b811b1d607e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e76eacf-7cf2-471c-b087-ff077c967eb6",
+  "input": "{\"title\": \"Okloser\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Okloser'",
+  "status": "verified"
+}

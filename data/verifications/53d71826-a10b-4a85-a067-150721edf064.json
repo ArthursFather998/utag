@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:30.813877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fdac3497-25dd-4861-a81e-037f4d46812d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53d71826-a10b-4a85-a067-150721edf064",
+  "input": "{\"title\": \"Cobain (featuring Lil Tracy)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Hellboy'",
+  "status": "verified"
+}

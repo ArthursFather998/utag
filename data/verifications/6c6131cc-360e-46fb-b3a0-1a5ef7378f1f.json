@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:45.392782+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3abbcb6a-c409-4be7-ae16-c369997e8897",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c6131cc-360e-46fb-b3a0-1a5ef7378f1f",
+  "input": "{\"title\": \"Love the Way You Lie (Part II) (featuring Eminem)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Loud (Deluxe)'",
+  "status": "verified"
+}

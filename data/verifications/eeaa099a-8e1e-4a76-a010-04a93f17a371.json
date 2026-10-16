@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:40.466605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a163a8d-a0a0-428f-84cb-024a30a314aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eeaa099a-8e1e-4a76-a010-04a93f17a371",
+  "input": "{\"title\": \"No Place to Go\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Best of Fleetwood Mac'",
+  "status": "verified"
+}

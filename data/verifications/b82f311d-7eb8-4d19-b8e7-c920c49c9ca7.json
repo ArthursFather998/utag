@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:09.571596+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51f4a2cf-3745-469f-b91d-8fcd74a8d5cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b82f311d-7eb8-4d19-b8e7-c920c49c9ca7",
+  "input": "{\"title\": \"Lean wit Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lean wit Me'",
+  "status": "verified"
+}

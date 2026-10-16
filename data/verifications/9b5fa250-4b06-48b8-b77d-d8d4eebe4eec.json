@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:55.576554+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "08017df2-ba38-415b-9e74-ae69a713e635",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b5fa250-4b06-48b8-b77d-d8d4eebe4eec",
+  "input": "{\"title\": \"Mr. Sandman\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Before & After'",
+  "status": "verified"
+}

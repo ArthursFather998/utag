@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:34.810285+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f328944-fab3-4f58-8b29-3e87fd7c60f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16c746eb-961d-43cc-9843-462894b04551",
+  "input": "{\"title\": \"Sandman\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Rocket'",
+  "status": "verified"
+}

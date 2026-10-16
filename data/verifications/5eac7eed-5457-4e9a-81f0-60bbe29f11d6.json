@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:48.793685+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b52efece-8ef7-4526-af04-c29c8a6b0b48",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5eac7eed-5457-4e9a-81f0-60bbe29f11d6",
+  "input": "{\"title\": \"Lemon Squeezer\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Shrine '69'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:47.99057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a147078f-3963-4f37-9656-ec93fa75c4bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2ba5e4b-75a6-467a-b29e-675ce753a112",
+  "input": "{\"title\": \"Say Nothing\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Invisible Division'",
+  "status": "verified"
+}

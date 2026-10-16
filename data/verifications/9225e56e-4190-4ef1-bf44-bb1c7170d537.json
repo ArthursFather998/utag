@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:50.061649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff8daad1-f474-4143-853f-7b6e783244b5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9225e56e-4190-4ef1-bf44-bb1c7170d537",
+  "input": "{\"title\": \"Somebody to Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Greatest Hits in Japan'",
+  "status": "verified"
+}

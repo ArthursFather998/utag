@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:51.897689+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55091cbe-c7e1-42fd-8c77-8a3d1799e002",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b66f7cc-582c-4998-8b02-28c84a4d0b3f",
+  "input": "{\"title\": \"Oh Well (Live)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Jumping at Shadows: The Blues Years'",
+  "status": "verified"
+}

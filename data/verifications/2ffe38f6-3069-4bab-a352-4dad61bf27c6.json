@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:00.874179+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c272a98c-b264-4d23-bb95-4987f29794aa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2ffe38f6-3069-4bab-a352-4dad61bf27c6",
+  "input": "{\"title\": \"Christmas Song\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

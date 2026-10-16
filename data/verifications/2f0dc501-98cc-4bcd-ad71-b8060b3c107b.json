@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:45.54294+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8ba3b9e-a44f-4980-ad3a-bfd39660e07e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f0dc501-98cc-4bcd-ad71-b8060b3c107b",
+  "input": "{\"title\": \"So Real (Acoustic in Japan)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'So Real: Songs from Jeff Buckley'",
+  "status": "verified"
+}

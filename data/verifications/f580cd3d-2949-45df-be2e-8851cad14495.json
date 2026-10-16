@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:59.445175+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98ef060d-a05a-44cd-9ea4-20916de3d2c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f580cd3d-2949-45df-be2e-8851cad14495",
+  "input": "{\"title\": \"Circle of Error\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'This Beautiful Mess'",
+  "status": "verified"
+}

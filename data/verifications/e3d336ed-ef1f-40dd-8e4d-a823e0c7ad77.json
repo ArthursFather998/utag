@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:09.132066+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bfc2f368-0e71-4980-920d-24130cff7a2d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e3d336ed-ef1f-40dd-8e4d-a823e0c7ad77",
+  "input": "{\"title\": \"Let It Be\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

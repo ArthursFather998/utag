@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:10.70383+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "397ffcef-a751-4636-aa1e-7b20571bab37",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6db34bb-1877-46f0-89c6-b73a9e2aadc8",
+  "input": "{\"title\": \"In the Wind\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Lonesome Dreams (Bonus Track Version)'",
+  "status": "verified"
+}

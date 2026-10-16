@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:55.712354+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7dd77c6-5bf9-433e-aefb-80ccea35d52b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f82db50-21c7-4b2d-a5dd-97c8fb60fc3b",
+  "input": "{\"title\": \"I'd Rather Pretend - A COLORS SHOW\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I'd Rather Pretend - A COLORS SHOW'",
+  "status": "verified"
+}

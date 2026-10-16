@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:12.707787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "248f7bc7-dfe9-4d4f-ba84-fe72e20747aa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "604220e1-5b4a-45e1-8c85-ee434a3778f9",
+  "input": "{\"title\": \"What I've Been Waiting For\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:40.158315+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2283cf5-303c-45c8-845b-012d247fb037",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ae76d70-b93e-4ab2-8a77-3caee9e70259",
+  "input": "{\"title\": \"I Believe My Time Ain't Long\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Albatross'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:06.329819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "267a39e2-f081-490d-974a-957c147e498d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "753d6c2c-7515-4dfa-b484-0194c1f29fed",
+  "input": "{\"title\": \"Evil Deeds\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Encore'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:58.917036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "198aa72a-c83c-4ecb-8a5c-fe50cac2b7fd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6c25a2c-48ea-45df-9dff-9313a6b8691c",
+  "input": "{\"title\": \"The March of the Black Queen\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Greatest Hits in Japan'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:18.64409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a54cfd52-7b63-4e6b-91f3-831736b07029",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4924e4d-1088-4a25-a453-94e3ae3afd4e",
+  "input": "{\"title\": \"Intro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live at SoFi Stadium'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:26.606751+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b45ff66-edd3-4205-b562-3d37f78d0240",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc04190f-db76-4f48-8ee4-933acd6e75ba",
+  "input": "{\"title\": \"With Me Part I (featuring Jermaine Dupri)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Destiny's Child'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:14.781556+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4fe8a236-da55-4419-bf3c-fc9ced418e39",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7d77710e-96ce-4300-9756-8860b63f6d7b",
+  "input": "{\"title\": \"One Time\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

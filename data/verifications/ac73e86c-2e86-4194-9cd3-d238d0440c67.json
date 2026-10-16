@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:50.334842+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fcf02e9a-3769-487f-aa4b-e5ceb9613c65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac73e86c-2e86-4194-9cd3-d238d0440c67",
+  "input": "{\"title\": \"The Truth\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of '30 Number One Hits'",
+  "status": "verified"
+}

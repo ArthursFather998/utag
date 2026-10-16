@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:58.091699+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07805f98-28be-4d31-b7b3-af4c24cf19b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfc18f49-a518-450f-bdbb-d380f6d54d4b",
+  "input": "{\"title\": \"2000 Excursion\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '2000 Excursion'",
+  "status": "verified"
+}

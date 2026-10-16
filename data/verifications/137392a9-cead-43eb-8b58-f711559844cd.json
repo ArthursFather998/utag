@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:53.084339+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9aa76eab-8598-4205-9d5c-f562a51aed1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "137392a9-cead-43eb-8b58-f711559844cd",
+  "input": "{\"title\": \"Crocodile Rock\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Very Best of Elton John'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:20.748517+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "03ad9c5d-f3fd-4fc1-ae32-788866e92ce1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc3cbdbd-04ec-4a76-8384-eec2e71ac27c",
+  "input": "{\"title\": \"Too Low for Zero\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Too Low for Zero'",
+  "status": "verified"
+}

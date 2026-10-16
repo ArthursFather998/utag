@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:18:23.732023+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "593feda7-f943-44da-9ef6-7ed7452bfc3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa7c9d04-8653-4bb8-9b6a-063a46ddb226",
+  "input": "{\"title\": \"Bootylicious (Love: Destiny Version)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Love: Destiny'",
+  "status": "verified"
+}

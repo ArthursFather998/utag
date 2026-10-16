@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:11.81418+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dadd0323-3718-4587-a5dc-492f317f4dce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a7f7510-f6e0-4715-8bea-2ab9f68f3056",
+  "input": "{\"title\": \"Look Ma, No Hands\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Songs from the West Coast'",
+  "status": "verified"
+}

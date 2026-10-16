@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:34.885456+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd6dc230-f486-4448-99d9-e5c3384ec070",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf8ffe44-33c3-4f01-b4ae-b427da0c07cf",
+  "input": "{\"title\": \"Dust My Broom\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'The Essential Fleetwood Mac'",
+  "status": "verified"
+}

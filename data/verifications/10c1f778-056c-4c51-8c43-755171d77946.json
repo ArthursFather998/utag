@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:32.886984+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1bbce84d-e1ef-4723-81a5-a637f8dd9f08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10c1f778-056c-4c51-8c43-755171d77946",
+  "input": "{\"title\": \"A Beautiful Noise (with Brandi Carlile)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Beautiful Noise (with Brandi Carlile)'",
+  "status": "verified"
+}

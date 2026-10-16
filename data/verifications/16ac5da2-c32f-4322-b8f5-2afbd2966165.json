@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:17.579899+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca56aedb-fcab-4dcc-8eb2-f6457fc461ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16ac5da2-c32f-4322-b8f5-2afbd2966165",
+  "input": "{\"title\": \"Any Way You Want It\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Journey Continues'",
+  "status": "verified"
+}

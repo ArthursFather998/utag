@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:42.717971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a8ef52d-7018-4803-93d7-3520de7a3b13",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22e32d45-7f9b-4f0c-8190-560bb8f1f2b2",
+  "input": "{\"title\": \"The Chain\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Rumours'",
+  "status": "verified"
+}

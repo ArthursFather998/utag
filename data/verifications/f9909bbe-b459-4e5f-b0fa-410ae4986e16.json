@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:20.363434+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcd0979c-555e-4276-a08c-9e216adc8dcb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9909bbe-b459-4e5f-b0fa-410ae4986e16",
+  "input": "{\"title\": \"Keeping It Small Town\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '9'",
+  "status": "verified"
+}

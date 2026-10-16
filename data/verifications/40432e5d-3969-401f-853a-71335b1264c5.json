@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:21:34.714568+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c3d46e3-6177-4b26-bf09-bebe535d3380",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40432e5d-3969-401f-853a-71335b1264c5",
+  "input": "{\"title\": \"praying to the sky\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lil Peep; Part One'",
+  "status": "verified"
+}

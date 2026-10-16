@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:38.46001+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c97ca14-10d9-4672-89fe-0dc5b6db85bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a9b3bca-f4c2-47e3-92a4-6ad014b90d3a",
+  "input": "{\"title\": \"Wonder Boy\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Girl Talk'",
+  "status": "verified"
+}

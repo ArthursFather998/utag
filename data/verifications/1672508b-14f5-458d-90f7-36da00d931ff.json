@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:09.222381+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52bb4a6a-e0f2-47e0-a664-d6aa29043eb6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1672508b-14f5-458d-90f7-36da00d931ff",
+  "input": "{\"title\": \"Stupid in Love\", \"track_number\": 42}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 42 of 'Coffret 4 CD'",
+  "status": "verified"
+}

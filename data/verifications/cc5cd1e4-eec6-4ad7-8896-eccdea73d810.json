@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:09.960734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe495b6a-32bc-4f6f-81b8-03f93075cf80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc5cd1e4-eec6-4ad7-8896-eccdea73d810",
+  "input": "{\"title\": \"Long Grey Mare\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Show-Biz Blues: Fleetwood Mac 1968–1970'",
+  "status": "verified"
+}

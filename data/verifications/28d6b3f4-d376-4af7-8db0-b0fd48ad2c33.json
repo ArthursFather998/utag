@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:15.398408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f61caa4-b0d7-4abc-9568-75dbbfbc61c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28d6b3f4-d376-4af7-8db0-b0fd48ad2c33",
+  "input": "{\"title\": \"Superman\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Eminem Show (Expanded Edition)'",
+  "status": "verified"
+}

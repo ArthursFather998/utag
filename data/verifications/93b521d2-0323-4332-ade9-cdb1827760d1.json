@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:06.528129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "510b2ff9-802b-4328-8520-0be5a8f2c03a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93b521d2-0323-4332-ade9-cdb1827760d1",
+  "input": "{\"title\": \"Em Calls Paul (skit)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Encore (Deluxe)'",
+  "status": "verified"
+}

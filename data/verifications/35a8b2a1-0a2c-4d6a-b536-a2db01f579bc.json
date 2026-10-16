@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:33.430021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46d23e12-3d57-4bea-a79a-96285fd94d7f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35a8b2a1-0a2c-4d6a-b536-a2db01f579bc",
+  "input": "{\"title\": \"Forever\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

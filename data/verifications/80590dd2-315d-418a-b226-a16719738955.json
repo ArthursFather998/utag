@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:09.801376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee3b2b11-0be3-4361-9813-73c6f0e447f5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "80590dd2-315d-418a-b226-a16719738955",
+  "input": "{\"title\": \"Live in Denver\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

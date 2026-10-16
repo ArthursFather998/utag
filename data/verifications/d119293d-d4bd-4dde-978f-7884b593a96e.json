@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:59.786852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5f67631-dc81-47e1-83dd-fd99a1e0e3aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d119293d-d4bd-4dde-978f-7884b593a96e",
+  "input": "{\"title\": \"Calling All Girls\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Calling All Girls'",
+  "status": "verified"
+}

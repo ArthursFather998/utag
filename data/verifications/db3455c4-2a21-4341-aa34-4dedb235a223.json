@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:50.450229+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c38170a4-6fd9-4180-b94c-539c607b3dd7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db3455c4-2a21-4341-aa34-4dedb235a223",
+  "input": "{\"title\": \"Some Things That Glitter\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Cosmos Rocks'",
+  "status": "verified"
+}

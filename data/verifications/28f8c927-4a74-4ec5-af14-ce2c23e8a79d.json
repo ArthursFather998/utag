@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:01.13217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1aa1fcdc-faaa-4e3b-9227-88bd9c5ad4de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28f8c927-4a74-4ec5-af14-ce2c23e8a79d",
+  "input": "{\"title\": \"Overload\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Super Extra Gravity (Remastered)'",
+  "status": "verified"
+}

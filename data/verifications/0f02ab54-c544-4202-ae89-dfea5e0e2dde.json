@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:32.253107+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d628ac55-15f4-4f83-87a5-64db52b6d15f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f02ab54-c544-4202-ae89-dfea5e0e2dde",
+  "input": "{\"title\": \"Orchestra\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Cosmic Opera: Act I'",
+  "status": "verified"
+}

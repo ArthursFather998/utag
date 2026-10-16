@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:26.566007+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8bc4da35-63c5-40ad-ab5e-c2e64ad8d8cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd3b86bf-6b66-4016-b363-44e0c382e6ca",
+  "input": "{\"title\": \"Let's Call It Off\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'So Far Gone'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:24.541851+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "341efea7-7a31-43d5-9b8a-0bf59221b227",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e1f11e6-6620-4242-ab60-1509bea96fc4",
+  "input": "{\"title\": \"Brink of Disaster\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Magic Colors: The Lost Album'",
+  "status": "verified"
+}

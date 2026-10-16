@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:22.587769+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ff5b7bc-235b-45cf-bd6f-3877bcbd5ea0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7024006-0749-48f4-814f-41d1c398f04d",
+  "input": "{\"title\": \"Break It Down Again\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Break It Down Again'",
+  "status": "verified"
+}

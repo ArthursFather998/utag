@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:53.109069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "04c1deb8-b7a2-4519-81e3-ae827a5b0340",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01e2143d-aaba-4664-9f7e-653f08dad2d2",
+  "input": "{\"title\": \"Bump Heads\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'The Eminem Show (Expanded Edition)'",
+  "status": "verified"
+}

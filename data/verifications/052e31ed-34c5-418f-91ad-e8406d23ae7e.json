@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:40.172864+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2bd3e793-914e-452d-968e-d7cd37b529d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "052e31ed-34c5-418f-91ad-e8406d23ae7e",
+  "input": "{\"title\": \"Platinum Bells\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '8 Days of Christmas'",
+  "status": "verified"
+}

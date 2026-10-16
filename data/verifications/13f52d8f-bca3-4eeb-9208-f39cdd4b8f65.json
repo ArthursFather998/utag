@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:37.584445+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3550552d-22f4-4b3e-9590-f35646b90044",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13f52d8f-bca3-4eeb-9208-f39cdd4b8f65",
+  "input": "{\"title\": \"Don't Throw Away My Love\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Forever Selena'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:45.409557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6435176-6e6e-40cd-836e-d83ce78c6d8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32d9455b-9cd2-4323-8c00-202d9894b543",
+  "input": "{\"title\": \"Te juro que volver\\u00e9\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Te juro que volveré'",
+  "status": "verified"
+}

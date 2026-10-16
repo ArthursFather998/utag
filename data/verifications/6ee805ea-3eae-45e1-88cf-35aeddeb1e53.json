@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:59.78209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d72f21e7-ac2d-4bad-baaf-78d78df43b84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ee805ea-3eae-45e1-88cf-35aeddeb1e53",
+  "input": "{\"title\": \"Anna Karenina\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Anna Karenina'",
+  "status": "verified"
+}

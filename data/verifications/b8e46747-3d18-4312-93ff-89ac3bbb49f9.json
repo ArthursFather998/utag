@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:55.960273+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46d8dbd0-849f-4647-b704-b9c466f6e81c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8e46747-3d18-4312-93ff-89ac3bbb49f9",
+  "input": "{\"title\": \"Johnny Panic and the Bible of Dreams\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Saturnine Martial & Lunatic'",
+  "status": "verified"
+}

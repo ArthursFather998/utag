@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:43.010843+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "353cf8be-76c6-4e1c-973c-9f294f67bd1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "383e96ab-39fd-459e-aa2a-b52720d620c4",
+  "input": "{\"title\": \"Oh Well\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mirage Tour '82'",
+  "status": "verified"
+}

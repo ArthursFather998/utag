@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:49.767706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b36c451f-da4c-4b19-90b7-cfadff4ce7cd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "539dab1f-18ac-4d7f-8cd6-9565f60dca4f",
+  "input": "{\"title\": \"Nobody Gets Me\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

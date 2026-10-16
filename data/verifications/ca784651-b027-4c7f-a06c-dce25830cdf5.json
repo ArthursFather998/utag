@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:22.841974+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af71f45a-0cec-4911-bd52-fb637e11b67a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca784651-b027-4c7f-a06c-dce25830cdf5",
+  "input": "{\"title\": \"Venom\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Kamikaze'",
+  "status": "verified"
+}

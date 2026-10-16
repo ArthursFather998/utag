@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:41.448617+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5d40341-d677-45ae-b972-adf6f01c408a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d3b0b28-19ea-4d34-b675-c147e3209286",
+  "input": "{\"title\": \"Good Old-Fashioned Lover Boy\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'A Day at the Races'",
+  "status": "verified"
+}

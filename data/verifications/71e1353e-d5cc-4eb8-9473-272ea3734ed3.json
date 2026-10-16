@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:38.4248+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1328b1a7-a571-4811-a9d7-30a97a449ed8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "71e1353e-d5cc-4eb8-9473-272ea3734ed3",
+  "input": "{\"title\": \"Skin\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Suddenly, Everything's Changing'",
+  "status": "verified"
+}

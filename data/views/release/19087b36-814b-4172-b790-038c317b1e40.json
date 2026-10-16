@@ -1,0 +1,94 @@
+{
+  "artists": {
+    "canonical_name": "Lil Peep, XXXTENTACION",
+    "id": "c242683f-76b8-442c-a75b-60b4c4c6388e"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Lil Peep, XXXTENTACION",
+        "id": "c242683f-76b8-442c-a75b-60b4c4c6388e"
+      },
+      "artwork": [
+        {
+          "id": "dc927486-b9e6-4f3e-aa4f-49162f3df9a2",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/757870ddc1211505769e2be84d165351/500x500-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:52.828301+00:00",
+      "edition": "original",
+      "id": "7fd0fbb4-7e30-4f90-8283-8b2d2dd1fe45",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "Come Over When You're Sober, Pt. 2"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "c242683f-76b8-442c-a75b-60b4c4c6388e",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T13:50:36.987396+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "19087b36-814b-4172-b790-038c317b1e40",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2018,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "Falling Down",
+    "updated_at": "2026-10-16T13:50:36.987396+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "c242683f-76b8-442c-a75b-60b4c4c6388e",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T13:50:43.377773+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a0b300df-04a3-4468-b16b-94bce5be28c6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "19087b36-814b-4172-b790-038c317b1e40",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Falling Down",
+      "track_number": 1,
+      "updated_at": "2026-10-16T13:50:43.377773+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T13:50:40.892875+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "19087b36-814b-4172-b790-038c317b1e40",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "7a2f306b-26c3-4b11-b8d6-9da736767c1c",
+      "input": "{\"title\": \"Falling Down\", \"release_type\": \"single\", \"release_year\": 2018}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 15",
+      "status": "verified"
+    }
+  ]
+}

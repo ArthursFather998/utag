@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:54.309364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd3c55a2-e70a-40ad-b0b5-3c6910a21414",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9ae4a88-d9f0-4274-97b5-ad4ba30c6fa6",
+  "input": "{\"title\": \"Days in the East\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Care Package'",
+  "status": "verified"
+}

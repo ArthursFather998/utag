@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:27.043911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c7d13d1-74a9-46ab-9956-ac9f172abb33",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "73ef520e-1505-4416-ab7b-fcaaade1f91d",
+  "input": "{\"title\": \"Alpha\", \"release_type\": \"album\", \"release_year\": 1986}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

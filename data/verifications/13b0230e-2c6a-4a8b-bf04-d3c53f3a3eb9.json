@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:41.403881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24adbf52-64df-4375-948d-7c35dae127bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13b0230e-2c6a-4a8b-bf04-d3c53f3a3eb9",
+  "input": "{\"title\": \"Forgiveless\", \"track_number\": 42}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 42 of 'Lana'",
+  "status": "verified"
+}

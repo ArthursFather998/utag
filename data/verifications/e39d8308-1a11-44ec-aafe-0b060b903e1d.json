@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:21.415541+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b6bf8e6-719d-40c1-bb1e-3670b2d3a562",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e39d8308-1a11-44ec-aafe-0b060b903e1d",
+  "input": "{\"title\": \"Raoul and the Kings of Spain\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Raoul and the Kings of Spain'",
+  "status": "verified"
+}

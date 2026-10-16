@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:52.231971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a4e58bd-e18d-496c-9f7e-703dede19d2a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f0e1aa5-fab9-4598-bfa0-bb431f05523a",
+  "input": "{\"title\": \"Gym Class\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Gym Class'",
+  "status": "verified"
+}

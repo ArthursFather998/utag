@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:24.279209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2853eed0-d0f0-4d3b-8e92-abd8ac644d32",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bdc7858f-3da9-400d-bd1b-c617efe7ba45",
+  "input": "{\"title\": \"Alfred (intro)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Music to Be Murdered By – Side B (Deluxe Edition)'",
+  "status": "verified"
+}

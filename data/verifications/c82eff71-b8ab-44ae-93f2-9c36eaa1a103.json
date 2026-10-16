@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:30.969292+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa2c6cd6-f87b-419b-8d52-219c89de087f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c82eff71-b8ab-44ae-93f2-9c36eaa1a103",
+  "input": "{\"title\": \"Cross Your Mind\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Bridges'",
+  "status": "verified"
+}

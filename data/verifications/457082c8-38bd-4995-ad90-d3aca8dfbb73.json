@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:21.329346+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc3de71f-663f-4e6d-a1ce-187e65d565b0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "457082c8-38bd-4995-ad90-d3aca8dfbb73",
+  "input": "{\"title\": \"Beach Bunny on Audiotree Live\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

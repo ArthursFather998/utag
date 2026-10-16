@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:51.776813+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39576db6-9169-4e8b-99b3-4e488b473655",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52966f05-cc5c-4fbf-a3d8-226b286add09",
+  "input": "{\"title\": \"I Write Sins Not Tragedies\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'A Fever You Can't Sweat Out (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

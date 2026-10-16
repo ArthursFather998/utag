@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:04.509118+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c59a980d-87c2-4a54-8117-2c36cee08847",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62253cee-739b-4018-a1c2-00157a2823ac",
+  "input": "{\"title\": \"Someone Saved My Life Tonight\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Very Best of Elton John'",
+  "status": "verified"
+}

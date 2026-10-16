@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:08.77859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5eaa2b2-da79-46e6-92f4-f6927300fe36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "799ae209-9566-4537-a118-d04e889f7f6f",
+  "input": "{\"title\": \"Cathy\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Magic Hour'",
+  "status": "verified"
+}

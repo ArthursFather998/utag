@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:17:43.211352+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "created release 'Looking Glass'",
+      "release->Looking Glass"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "713a2415-b45d-4349-b166-ee2a599e0a81",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "7377c9ce-c873-40db-b450-e8b9a1f13652",
+  "input": {
+    "artist": "Looking Glass",
+    "release": "TM Century: GoldDisc 303",
+    "title": "Brandy (You're a Fine Girl)"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Song confirmed from Looking Glass's self-titled debut album (1972); the TM Century radio promo disc cannot be verified as containing it, so canonical release is Looking Glass (1972). | sources: http://en.wikipedia.org/wiki/Brandy_(You're_a_Fine_Girl), https://en.wikipedia.org/wiki/Looking_Glass_(Looking_Glass_album)",
+  "status": "verified"
+}

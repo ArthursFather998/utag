@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:52:34.036404+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab65ebe2-ea23-4992-86ef-4a62a28fb898",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbbd0027-c9cd-4036-a4c3-27fa19eac8c7",
+  "input": "{\"title\": \"Something to Help\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Hardest Love'",
+  "status": "verified"
+}

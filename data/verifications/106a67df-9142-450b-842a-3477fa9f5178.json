@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:54.512058+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6605c0d-d4f1-4c26-a696-05c4e0832e04",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "106a67df-9142-450b-842a-3477fa9f5178",
+  "input": "{\"title\": \"Home\", \"release_type\": \"single\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

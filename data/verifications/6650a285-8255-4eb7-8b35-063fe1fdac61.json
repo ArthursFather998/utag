@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:48.681843+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "ba211c6b-32ef-4c68-b95b-a572d1f5db1a",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "6650a285-8255-4eb7-8b35-063fe1fdac61",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "The Drug in Me Is You",
+    "title": "Pick Up The Phone"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Track 6 on The Drug in Me Is You (2011); confirmed by Wikipedia and Discogs. | sources: https://en.wikipedia.org/wiki/The_Drug_in_Me_Is_You, https://www.discogs.com/release/3738385-Falling-In-Reverse-The-Drug-In-Me-Is-You",
+  "status": "verified"
+}

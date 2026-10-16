@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:52.085926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d3381ca3-cf6d-43eb-87a0-6423dac20bb9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "371dd7e1-fbaa-472f-8bdc-a1dee81df8f2",
+  "input": "{\"title\": \"Change Locations\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'What a Time to Be Alive'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:20.795057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68bca0cc-e476-49f8-9db9-13fb4b1f5919",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c06ab377-e9b7-4bec-8d3c-3955edcac968",
+  "input": "{\"title\": \"Phoenix\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Good Morning to the Night'",
+  "status": "verified"
+}

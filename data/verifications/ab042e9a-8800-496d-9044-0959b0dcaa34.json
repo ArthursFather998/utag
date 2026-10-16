@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:00.971554+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73f93d00-67c4-48d2-badb-00e4661ce90f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab042e9a-8800-496d-9044-0959b0dcaa34",
+  "input": "{\"title\": \"Final Goodbye\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Vinyl Box Set'",
+  "status": "verified"
+}

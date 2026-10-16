@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:55.273924+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0830ced-1c3c-4ca6-b47c-2d1e4a42b01a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15b23fe4-b5a6-4f88-a126-5ac9c7f0769f",
+  "input": "{\"title\": \"Hum Hallelujah\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live in Phoenix'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:54.13109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71574c20-19b2-42a9-9adb-0b72efa06ecb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ffd97bb-0a0c-4c8a-963a-bccbe5e6da8e",
+  "input": "{\"title\": \"Woman in Chains\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Seeds of Love'",
+  "status": "verified"
+}

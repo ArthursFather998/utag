@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:38.267522+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5bb02439-5a2f-413c-b14b-a20333f12740",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9da49a64-3de8-4f58-b36f-49fd123fb50a",
+  "input": "{\"title\": \"Faster\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Faster'",
+  "status": "verified"
+}

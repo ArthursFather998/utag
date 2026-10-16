@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:11.589726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "616e9b8b-1ac5-48bc-9d2d-5b517081b1d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "114d3c5d-5423-4787-8945-05ee9ba47178",
+  "input": "{\"title\": \"Umbrella (featuring Jay-Z)\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of '3 CD Collector's Set'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:30.90933+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "be7b4607-6433-4721-b25f-85c642ad2693",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1afe6a90-4c9e-4c19-8ad0-c516620c79ec",
+  "input": "{\"title\": \"Garden (Say It Like Dat)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Ctrl (Deluxe)'",
+  "status": "verified"
+}

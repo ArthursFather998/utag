@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:13.970957+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61c0fb90-5dc0-4a17-8c4d-c80569ae3329",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90683e1a-58f1-4f55-a828-fc0c823951aa",
+  "input": "{\"title\": \"Love Actually\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Hopes and Fears (20th Anniversary Edition)'",
+  "status": "verified"
+}

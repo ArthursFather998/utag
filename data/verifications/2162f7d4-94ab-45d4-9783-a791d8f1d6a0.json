@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:39.9646+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05aa1d6f-591c-41bb-8ad1-f91f282fdbdd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2162f7d4-94ab-45d4-9783-a791d8f1d6a0",
+  "input": "{\"title\": \"Miss That Girl\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Old Boots, New Dirt'",
+  "status": "verified"
+}

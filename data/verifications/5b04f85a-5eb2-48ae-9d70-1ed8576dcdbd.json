@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:23.589271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62d9f253-43d3-4b81-85a1-efa9119cc976",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b04f85a-5eb2-48ae-9d70-1ed8576dcdbd",
+  "input": "{\"title\": \"Hold on Baby\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

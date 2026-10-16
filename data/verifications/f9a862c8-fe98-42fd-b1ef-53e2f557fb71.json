@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:44.843924+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02cd0fbe-ee6d-4d09-a6dc-845369ae7754",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9a862c8-fe98-42fd-b1ef-53e2f557fb71",
+  "input": "{\"title\": \"Temporary Fix\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Made in the A.M. (Deluxe Edition)'",
+  "status": "verified"
+}

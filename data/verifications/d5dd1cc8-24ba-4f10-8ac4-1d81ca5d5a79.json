@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:19.178081+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0be78daf-bb93-4869-be96-3c4c602ca7e5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d5dd1cc8-24ba-4f10-8ac4-1d81ca5d5a79",
+  "input": "{\"title\": \"u look like Anju\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: [release_date: 2019-02-15]",
+  "status": "verified"
+}

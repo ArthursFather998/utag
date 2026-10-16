@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:06.17129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b14c26e-06d6-482e-955a-e29395ebeb5f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "33c75433-54d9-4d8b-b4cd-fa77a3bf80fa",
+  "input": "{\"title\": \"A New High\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

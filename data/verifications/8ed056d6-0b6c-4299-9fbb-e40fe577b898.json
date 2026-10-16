@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:27.353636+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d27c8f7-b075-4118-9489-c4d0938bbc26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ed056d6-0b6c-4299-9fbb-e40fe577b898",
+  "input": "{\"title\": \"Go Baby\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Swag'",
+  "status": "verified"
+}

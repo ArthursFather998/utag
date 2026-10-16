@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:55.933522+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a64f5f0-ce92-49db-b85d-1a244e8fcbd0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "118a7680-1416-40bc-a200-1c439595022a",
+  "input": "{\"title\": \"Spotify Singles\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

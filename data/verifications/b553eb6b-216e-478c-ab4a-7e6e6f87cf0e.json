@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:28.61089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c366f7c9-deb3-44a0-bfc3-776c27774910",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b553eb6b-216e-478c-ab4a-7e6e6f87cf0e",
+  "input": "{\"title\": \"Bleeding\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Best of the Early Years'",
+  "status": "verified"
+}

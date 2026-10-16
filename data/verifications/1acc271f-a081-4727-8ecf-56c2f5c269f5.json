@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:13.8089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24ff2a45-6cd5-41bd-9aa3-1564a0438f31",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1acc271f-a081-4727-8ecf-56c2f5c269f5",
+  "input": "{\"title\": \"Spaceman\", \"release_type\": \"single\", \"release_year\": 1977}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:38.367995+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b61f4ed0-2e7e-43d2-9d0b-98ef9fcda9aa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f9cd6978-221b-468e-acac-f54140b7355d",
+  "input": "{\"title\": \"GTFO\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:56:41.980777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a66c04a-d695-47d4-9286-f7c6df15f0e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74dee984-bb71-4912-9822-f264dad1b81e",
+  "input": "{\"title\": \"Everything I Know About Love\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Reykjavík Sessions'",
+  "status": "verified"
+}

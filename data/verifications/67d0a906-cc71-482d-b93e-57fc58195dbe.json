@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:36.7888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89e34e76-7061-40ae-b835-0004d1d8a71f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67d0a906-cc71-482d-b93e-57fc58195dbe",
+  "input": "{\"title\": \"Offended\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Revival'",
+  "status": "verified"
+}

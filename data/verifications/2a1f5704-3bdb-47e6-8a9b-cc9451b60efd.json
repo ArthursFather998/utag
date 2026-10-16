@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:00.480541+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b83445d-a982-4752-ab8a-564f6dfd5ad5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a1f5704-3bdb-47e6-8a9b-cc9451b60efd",
+  "input": "{\"title\": \"Mikey and the Frogs\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mikey and the Frogs'",
+  "status": "verified"
+}

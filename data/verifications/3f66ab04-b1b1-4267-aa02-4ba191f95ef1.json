@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:28.519232+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af58162e-f3d3-42ea-9869-c997b6454384",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f66ab04-b1b1-4267-aa02-4ba191f95ef1",
+  "input": "{\"title\": \"Up All Night\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Up All Night'",
+  "status": "verified"
+}

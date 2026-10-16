@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:53.67025+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de5f582e-89bf-4737-acf9-b247b23bf0eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96889b41-0d5b-4656-ba03-2109e744e126",
+  "input": "{\"title\": \"We Will Rock You\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Greatest Hits'",
+  "status": "verified"
+}

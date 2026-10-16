@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:29.986967+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "726c5079-e3ef-46c7-b79b-281db9d2faf9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9dfa5d5-941e-4ef8-bf6f-3fbd660b6ff3",
+  "input": "{\"title\": \"Bohemian Rhapsody\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

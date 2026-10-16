@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:48.513515+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd6f07cc-21b2-4191-a416-d099a0100ca2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc56ddce-4b94-4646-8ae9-92f1e55e007b",
+  "input": "{\"title\": \"Windowpane\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mild High Club'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:42.011452+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba2dc158-2877-4594-8fc3-a1f304c5f931",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7faa71d-e474-436f-ab8d-a798a27a8a86",
+  "input": "{\"title\": \"I Can't Hold Out\", \"track_number\": 58}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 58 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

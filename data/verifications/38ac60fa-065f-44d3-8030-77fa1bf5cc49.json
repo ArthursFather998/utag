@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:48.435535+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d32c27af-ad9c-4de1-b991-440cffada3e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38ac60fa-065f-44d3-8030-77fa1bf5cc49",
+  "input": "{\"title\": \"Como La Flor\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Éxitos y Recuerdos'",
+  "status": "verified"
+}

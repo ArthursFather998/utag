@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:57.392922+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5fc9a5e8-0e1f-47b7-8fcb-08227e68864f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d61f840c-e754-4976-a804-583e510e015a",
+  "input": "{\"title\": \"This Is the Last Time\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Live 06'",
+  "status": "verified"
+}

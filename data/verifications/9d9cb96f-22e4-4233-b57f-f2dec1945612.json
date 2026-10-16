@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:22.090021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f137eed1-f7ff-401c-ad98-06fc12709def",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d9cb96f-22e4-4233-b57f-f2dec1945612",
+  "input": "{\"title\": \"Still Here\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Views'",
+  "status": "verified"
+}

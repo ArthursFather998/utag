@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:23.04144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da970be7-4289-4a1c-b572-266871fde986",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53647180-f269-4ca6-b9c3-bdb1d4b49f18",
+  "input": "{\"title\": \"Steve Berman (skit)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Eminem Show (Expanded Edition)'",
+  "status": "verified"
+}

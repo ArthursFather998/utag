@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:27.921138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2607ba2-80e5-4734-a509-22251a7ed371",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78557171-dc2e-4369-bb58-e0432d274c5e",
+  "input": "{\"title\": \"Why'z it so hard\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lost'",
+  "status": "verified"
+}

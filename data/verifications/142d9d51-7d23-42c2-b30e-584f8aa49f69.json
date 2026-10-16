@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:57.463959+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bba0518-9c19-458e-a0b4-88301f50abdc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "142d9d51-7d23-42c2-b30e-584f8aa49f69",
+  "input": "{\"title\": \"Don't Dream It's Over\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Best of Sixpence None the Richer'",
+  "status": "verified"
+}

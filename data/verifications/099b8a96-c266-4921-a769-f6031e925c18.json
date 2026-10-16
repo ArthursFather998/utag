@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:34.759831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4c9aca2-94f9-4f24-a6e3-d3a7085934ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "099b8a96-c266-4921-a769-f6031e925c18",
+  "input": "{\"title\": \"Sky Blue Skin\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sky Blue Skin'",
+  "status": "verified"
+}

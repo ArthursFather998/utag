@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:18.181988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a880b942-16e3-4e03-bfb1-1c0414c2626e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5071503b-19dd-46c3-acd5-b6810c961297",
+  "input": "{\"title\": \"Love in This Club\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love in This Club'",
+  "status": "verified"
+}

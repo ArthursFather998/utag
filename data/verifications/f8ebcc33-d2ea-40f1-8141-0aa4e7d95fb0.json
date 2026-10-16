@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:22.928817+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74efe359-9e4a-4e6c-b39d-e171d93adb3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f8ebcc33-d2ea-40f1-8141-0aa4e7d95fb0",
+  "input": "{\"title\": \"In My Head\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Legends Never Die (5th Anniversary Edition)'",
+  "status": "verified"
+}

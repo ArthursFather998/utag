@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:47.452572+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ad2c403-75cd-4ca2-90c2-f3e17dde9139",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a370b45b-e61c-40a3-9689-76070a83c4a9",
+  "input": "{\"title\": \"Get Your Number\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

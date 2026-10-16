@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:56:52.748955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f93c5293-f71b-4478-a79c-5f1795eb49bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80128f5f-2066-4c05-b38c-2cef4692e9c5",
+  "input": "{\"title\": \"I Still Do\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Epilogue (Deluxe)'",
+  "status": "verified"
+}

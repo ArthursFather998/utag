@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:05.067233+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d06735ae-60e7-4a40-afbb-964c971e870c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "382e9b4e-cba9-48d2-9047-43d84dcb7d63",
+  "input": "{\"title\": \"Broken Toy\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Under the Iron Sea'",
+  "status": "verified"
+}

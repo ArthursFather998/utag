@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:34.97275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9581167f-0ebf-4bfc-af40-fd404730f8e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7b91da3-e6ae-4f67-9929-73c06f5d8e24",
+  "input": "{\"title\": \"Waiting on the Sun\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Ultimate Collection'",
+  "status": "verified"
+}

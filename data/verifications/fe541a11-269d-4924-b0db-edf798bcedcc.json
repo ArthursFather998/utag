@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:18.547279+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "273006cb-11e3-457a-9cb1-4741afe9dd99",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe541a11-269d-4924-b0db-edf798bcedcc",
+  "input": "{\"title\": \"Love of My Life\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Epilogue (Deluxe)'",
+  "status": "verified"
+}

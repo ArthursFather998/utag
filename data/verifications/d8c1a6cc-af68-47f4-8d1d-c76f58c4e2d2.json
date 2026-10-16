@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:43.461732+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb957c25-313f-46ba-b45f-2677ec28a745",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d8c1a6cc-af68-47f4-8d1d-c76f58c4e2d2",
+  "input": "{\"title\": \"Baby Blue Movie\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

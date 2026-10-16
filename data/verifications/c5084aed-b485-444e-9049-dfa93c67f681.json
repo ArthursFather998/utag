@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:07.730951+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74a5a74a-99ad-47cd-be07-fd6f637b4c0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5084aed-b485-444e-9049-dfa93c67f681",
+  "input": "{\"title\": \"November\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Diamonds'",
+  "status": "verified"
+}

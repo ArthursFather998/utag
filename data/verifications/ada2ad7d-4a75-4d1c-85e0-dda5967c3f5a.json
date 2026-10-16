@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:11.357077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f11b59b2-695d-4fd8-8f18-75c714a5ba42",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ada2ad7d-4a75-4d1c-85e0-dda5967c3f5a",
+  "input": "{\"title\": \"Icon: Love Songs\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:37.370454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60c2f33a-20b3-4c95-ba52-c771263ce096",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17f5649c-a5fe-482e-a034-0f0c074e9d7c",
+  "input": "{\"title\": \"At Your Worst\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'At Your Worst'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:06.483085+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "deb86a17-35d9-44b3-8ffe-b817b59507c7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0334c25b-a674-4f04-89f6-395e2fbbe63f",
+  "input": "{\"title\": \"The Hellcat Spangled Shalalala\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

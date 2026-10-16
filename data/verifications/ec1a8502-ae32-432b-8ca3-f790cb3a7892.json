@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:13.526131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1447d9c0-bc9e-4dd7-9c42-1c1d64f9033e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec1a8502-ae32-432b-8ca3-f790cb3a7892",
+  "input": "{\"title\": \"Rise and Shine\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Cole World: The Sideline Story'",
+  "status": "verified"
+}

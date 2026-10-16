@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:11.603791+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7413d344-91c9-4827-a33c-83ee71f8ef09",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4070b00-0f77-49ef-bfe8-df01161e8bf9",
+  "input": "{\"title\": \"I Heard It Through the Grapevine\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

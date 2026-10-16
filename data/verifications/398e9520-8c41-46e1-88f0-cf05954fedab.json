@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:37.891294+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3bc639a1-1947-473c-ba94-a233bf012dfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "398e9520-8c41-46e1-88f0-cf05954fedab",
+  "input": "{\"title\": \"The Girl That I Call Home\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Girl That I Call Home'",
+  "status": "verified"
+}

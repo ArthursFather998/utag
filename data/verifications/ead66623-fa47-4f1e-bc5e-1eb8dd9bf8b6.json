@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:53.252143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a872835-b226-40d1-9fae-8082bd966326",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ead66623-fa47-4f1e-bc5e-1eb8dd9bf8b6",
+  "input": "{\"title\": \"Genesis\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

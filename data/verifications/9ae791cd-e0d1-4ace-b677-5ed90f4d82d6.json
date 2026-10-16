@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:32.63143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c81bb5e-5fd3-4463-aedd-8b48c5e58c89",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ae791cd-e0d1-4ace-b677-5ed90f4d82d6",
+  "input": "{\"title\": \"Psylla\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Glass Animals'",
+  "status": "verified"
+}

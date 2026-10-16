@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:22.209443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67d24a83-2615-4896-bf4e-207587f47512",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "760cea8e-1ec4-4a43-a600-e0549fd36312",
+  "input": "{\"title\": \"The One\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Charmbracelet'",
+  "status": "verified"
+}

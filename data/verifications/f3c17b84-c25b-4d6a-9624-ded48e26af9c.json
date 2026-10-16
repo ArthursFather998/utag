@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:19.432681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5be5851a-4eff-43bc-9c4e-eea23c9121e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3c17b84-c25b-4d6a-9624-ded48e26af9c",
+  "input": "{\"title\": \"Zombie\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Bualadh Bos – The Cranberries Live'",
+  "status": "verified"
+}

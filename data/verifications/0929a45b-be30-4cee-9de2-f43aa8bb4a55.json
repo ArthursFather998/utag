@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:21.446165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c103e11a-9214-4ab5-bdd1-14880e272a57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0929a45b-be30-4cee-9de2-f43aa8bb4a55",
+  "input": "{\"title\": \"coast2coast\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '14 minutes'",
+  "status": "verified"
+}

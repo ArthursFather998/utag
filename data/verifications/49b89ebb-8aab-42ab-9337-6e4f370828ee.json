@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:19.129468+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1c4cba3-d429-4123-8363-c8951d5d64a5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "49b89ebb-8aab-42ab-9337-6e4f370828ee",
+  "input": "{\"title\": \"The Car\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

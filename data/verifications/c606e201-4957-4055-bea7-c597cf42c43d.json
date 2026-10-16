@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:43.613132+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f38e6b27-0130-4ca9-92f5-36d48288659f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c606e201-4957-4055-bea7-c597cf42c43d",
+  "input": "{\"title\": \"Never Ever\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Vide Noir'",
+  "status": "verified"
+}

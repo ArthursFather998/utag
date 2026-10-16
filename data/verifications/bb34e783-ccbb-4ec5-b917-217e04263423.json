@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:35.480927+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d66038a-e115-42bc-a62a-e65105d8e222",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb34e783-ccbb-4ec5-b917-217e04263423",
+  "input": "{\"title\": \"We Won't Back Down\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'This War Is Ours'",
+  "status": "verified"
+}

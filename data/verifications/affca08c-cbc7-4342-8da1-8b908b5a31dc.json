@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:46.633649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "020f93c2-9e5e-4e27-93a2-8d36abe1b529",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "affca08c-cbc7-4342-8da1-8b908b5a31dc",
+  "input": "{\"title\": \"Baby Pluto\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Eternal Atake'",
+  "status": "verified"
+}

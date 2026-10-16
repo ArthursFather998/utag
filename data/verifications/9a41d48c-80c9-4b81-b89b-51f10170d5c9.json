@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:16.703122+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa144272-65fa-42d5-829f-1c2d3bce1dcb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a41d48c-80c9-4b81-b89b-51f10170d5c9",
+  "input": "{\"title\": \"Tell Me All the Things You Do\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tell Me All the Things You Do'",
+  "status": "verified"
+}

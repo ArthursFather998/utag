@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:51.930614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c58b5111-882b-477f-9e0a-dbd5c3d8605a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a01f5604-18a9-44db-a66a-f192c75927bd",
+  "input": "{\"title\": \"Imagination & the Misfit Kid\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

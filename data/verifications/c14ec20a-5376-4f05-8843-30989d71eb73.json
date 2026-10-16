@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:13.32256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "06706c26-ec55-4df7-831a-fd50d6e9745d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c14ec20a-5376-4f05-8843-30989d71eb73",
+  "input": "{\"title\": \"The Marshall Mathers LP (25th Anniversary Edition)\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

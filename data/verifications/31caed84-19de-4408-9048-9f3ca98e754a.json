@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:10.954318+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a3802ea-a4fa-4572-852e-37a40ced1b50",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "31caed84-19de-4408-9048-9f3ca98e754a",
+  "input": "{\"title\": \"Nectar\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

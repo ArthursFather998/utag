@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:54.308596+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bfaa9dbf-a913-4c3f-a312-aae26921081f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2a742ee-e764-461e-907c-e9cba3309fd2",
+  "input": "{\"title\": \"Love the Way You Lie\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love the Way You Lie'",
+  "status": "verified"
+}

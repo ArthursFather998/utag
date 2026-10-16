@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:11.499286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a2a0437-ccdf-4993-a682-59978b2265a6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f1c4be88-2adf-417e-983f-cf04c38d41a6",
+  "input": "{\"title\": \"A&W\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

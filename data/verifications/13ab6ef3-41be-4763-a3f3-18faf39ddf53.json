@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:25.973521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20ffa86c-580d-4293-a199-2e2cf75aacf0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "13ab6ef3-41be-4763-a3f3-18faf39ddf53",
+  "input": "{\"title\": \"moon ~ sun\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: [release_date: 2023-08-04]",
+  "status": "verified"
+}

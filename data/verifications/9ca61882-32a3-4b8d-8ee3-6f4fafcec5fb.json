@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:48.159123+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27edb1d8-e3fd-4b39-b443-82a48d98f2c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ca61882-32a3-4b8d-8ee3-6f4fafcec5fb",
+  "input": "{\"title\": \"Flowers\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Plan A'",
+  "status": "verified"
+}

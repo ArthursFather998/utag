@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:53.748694+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b30a44c3-b368-49bf-a271-c7707d8901e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0861048-da8c-4f60-9ad4-3ae9f74b632c",
+  "input": "{\"title\": \"Feels Like Christmas\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Feels Like Christmas'",
+  "status": "verified"
+}

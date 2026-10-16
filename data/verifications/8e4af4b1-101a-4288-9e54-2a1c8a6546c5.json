@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:21.836205+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7aa2fe0a-5e67-47d0-a876-a899928526b2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8e4af4b1-101a-4288-9e54-2a1c8a6546c5",
+  "input": "{\"title\": \"She Said That\", \"release_type\": \"single\", \"release_year\": 1972}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

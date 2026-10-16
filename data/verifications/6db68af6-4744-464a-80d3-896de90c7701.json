@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:59.955343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4344bbe8-3922-4a0a-bd73-d735890070e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6db68af6-4744-464a-80d3-896de90c7701",
+  "input": "{\"title\": \"Reason to Believe\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Reason to Believe'",
+  "status": "verified"
+}

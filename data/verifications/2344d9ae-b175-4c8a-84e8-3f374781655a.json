@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:20.099684+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e80b7f14-de36-47a0-b239-3d5fa741e0c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2344d9ae-b175-4c8a-84e8-3f374781655a",
+  "input": "{\"title\": \"Subliming\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Subliming'",
+  "status": "verified"
+}

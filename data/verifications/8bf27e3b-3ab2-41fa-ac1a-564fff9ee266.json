@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:23.766335+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1aea67f3-7a96-4453-846a-f1b3af0ae7b5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8bf27e3b-3ab2-41fa-ac1a-564fff9ee266",
+  "input": "{\"title\": \"Five Live\", \"release_type\": \"album\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

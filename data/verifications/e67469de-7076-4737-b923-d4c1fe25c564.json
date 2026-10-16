@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:42:56.960231+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1f7a690-c82b-4602-8234-35fa605fa8ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e67469de-7076-4737-b923-d4c1fe25c564",
+  "input": "{\"title\": \"Sorry Son\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Bury the Hatchet'",
+  "status": "verified"
+}

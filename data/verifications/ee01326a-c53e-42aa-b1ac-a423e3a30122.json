@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:20.677089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48d674c9-218c-454e-8cb3-a73218c133b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee01326a-c53e-42aa-b1ac-a423e3a30122",
+  "input": "{\"title\": \"That's the Way the Ball Bounces\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Boys, Boys, Boys'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:39.887202+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "47961047-3d7c-49f7-948b-82fdc29342fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e53a36e-fa35-4983-976e-9b116d16642f",
+  "input": "{\"title\": \"Cafe\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'All Original Parts: Volume 1'",
+  "status": "verified"
+}

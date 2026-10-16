@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:43.375431+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "305dda52-fe7e-4545-8bc9-0528560fec9c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cc55f55-486a-47ed-9256-3def40cc7902",
+  "input": "{\"title\": \"Everybody Wants to Rule the World\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Secret World – Live in Paris'",
+  "status": "verified"
+}

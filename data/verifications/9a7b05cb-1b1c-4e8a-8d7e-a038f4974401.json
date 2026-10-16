@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:57.348154+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c18b09f-359c-4be2-a01d-b6f80ad9f362",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9a7b05cb-1b1c-4e8a-8d7e-a038f4974401",
+  "input": "{\"title\": \"Die for You\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

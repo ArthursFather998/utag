@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:31.855087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ebce07a-1767-4fc3-b7bb-29a5d68b0ef4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb779dd4-be21-444e-863d-01c11997aec6",
+  "input": "{\"title\": \"Gracie\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'F.I.G'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:53.981724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b968a859-146c-4aa2-9b81-c51a970801de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1388b4c1-fcc8-4df5-aafd-9eb4c2318dfc",
+  "input": "{\"title\": \"Idle Potential\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Last Goodbye'",
+  "status": "verified"
+}

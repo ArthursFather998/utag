@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:32.276566+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46771ee7-2031-4f6a-9a1e-2029de8cf3a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ea2a840-98b9-4fdc-8050-9c7c27c6a54d",
+  "input": "{\"title\": \"Silent Night\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Santa Must Be Polish'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:01.44744+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4defbcf1-f438-4758-9b0d-6ab911580d4f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dad85abd-8c67-49e7-b547-4d58017d7a07",
+  "input": "{\"title\": \"Feelings\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Far From Close'",
+  "status": "verified"
+}

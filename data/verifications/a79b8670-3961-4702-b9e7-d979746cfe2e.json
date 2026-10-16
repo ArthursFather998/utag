@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:06.269731+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca1773cb-86ef-46ba-9ef5-6d89fb01acb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a79b8670-3961-4702-b9e7-d979746cfe2e",
+  "input": "{\"title\": \"Funky Big Band\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

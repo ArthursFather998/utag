@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:49.111567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f3a798f-0b99-49c7-931e-59edd6fb7cab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50fd50fe-f326-4043-9ff1-305d5e328961",
+  "input": "{\"title\": \"Storms\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of '25 Years – The Chain'",
+  "status": "verified"
+}

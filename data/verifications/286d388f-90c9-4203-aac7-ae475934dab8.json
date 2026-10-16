@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:36.447131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11f2c25c-a75e-434a-a457-52bb0001e63c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "286d388f-90c9-4203-aac7-ae475934dab8",
+  "input": "{\"title\": \"Curtains\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Captain Fantastic and the Brown Dirt Cowboy'",
+  "status": "verified"
+}

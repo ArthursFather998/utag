@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:25.820012+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eab5ac8a-e6d3-4325-8495-3992e67e5b18",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cef643fb-eefc-4abc-bef7-c9a9d080f1f5",
+  "input": "{\"title\": \"Head Over Heels / Broken\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live at Massey Hall Toronto, Canada / 1985'",
+  "status": "verified"
+}

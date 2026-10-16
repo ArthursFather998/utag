@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:30.294994+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "739dba72-3399-4f79-a470-97de1eaa9e8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2b3c950-d87b-4380-b8a2-b8c7aa91b1d5",
+  "input": "{\"title\": \"Are You Still Up\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:13.241734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b985fd8-ca14-49a3-b8e5-c0b3d69d06a0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "db3c778c-6f04-4685-bbdb-62c898b5b426",
+  "input": "{\"title\": \"Stan\", \"release_type\": \"single\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

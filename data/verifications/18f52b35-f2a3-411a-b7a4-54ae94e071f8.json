@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:33.922985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0b49843-79e4-4e33-b9bc-58f358b9dd07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18f52b35-f2a3-411a-b7a4-54ae94e071f8",
+  "input": "{\"title\": \"Poor Little Girl\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Deep in a Dream'",
+  "status": "verified"
+}

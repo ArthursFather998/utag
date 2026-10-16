@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:07.439374+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "baa63257-100f-47c8-b7d1-fbf8a45b42ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bbcb68c-a6b8-4317-965b-7a94f93e651a",
+  "input": "{\"title\": \"Watch Out\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Man of the World'",
+  "status": "verified"
+}

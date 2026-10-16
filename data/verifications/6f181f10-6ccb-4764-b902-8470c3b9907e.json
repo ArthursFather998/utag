@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:24.668878+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d49510d6-02c8-4403-beaf-71d38de12daf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6f181f10-6ccb-4764-b902-8470c3b9907e",
+  "input": "{\"title\": \"Extended Play\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

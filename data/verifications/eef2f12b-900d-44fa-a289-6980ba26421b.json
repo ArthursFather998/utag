@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:18.231803+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ebc4462-6e4d-4c72-bb97-50da4461570f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eef2f12b-900d-44fa-a289-6980ba26421b",
+  "input": "{\"title\": \"Skydive\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Keys II'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:15.203931+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "866be580-da55-4ea4-81bb-e55f5c951a71",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e115936-5db3-4089-99f0-c3c049305967",
+  "input": "{\"title\": \"Raoul and the Kings of Spain\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Raoul and the Kings of Spain (2009 Reissue)'",
+  "status": "verified"
+}

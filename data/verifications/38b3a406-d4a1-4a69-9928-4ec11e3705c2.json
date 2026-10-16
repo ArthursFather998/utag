@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:57.312077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9c95b72-4eb0-42db-b6c6-249a119d6308",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38b3a406-d4a1-4a69-9928-4ec11e3705c2",
+  "input": "{\"title\": \"russian roulette\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'PEACE, YOU IDIOT'",
+  "status": "verified"
+}

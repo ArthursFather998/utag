@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:11.744445+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3ae36d2-071c-415e-a3a9-812bf045a31a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a83062b3-d095-4ae1-aa89-45c1e5dd6649",
+  "input": "{\"title\": \"Somebody\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Justice'",
+  "status": "verified"
+}

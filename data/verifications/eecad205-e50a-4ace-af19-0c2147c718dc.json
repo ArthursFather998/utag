@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:55.420434+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "482eae45-080d-4eb0-aa41-72f81bea173a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "eecad205-e50a-4ace-af19-0c2147c718dc",
+  "input": "{\"title\": \"Run\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

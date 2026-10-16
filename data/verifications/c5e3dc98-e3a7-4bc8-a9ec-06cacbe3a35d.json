@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:23.061569+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "efac5f70-91e4-4938-8a06-77fa7dd0352a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5e3dc98-e3a7-4bc8-a9ec-06cacbe3a35d",
+  "input": "{\"title\": \"Why (Live)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live Sessions'",
+  "status": "verified"
+}

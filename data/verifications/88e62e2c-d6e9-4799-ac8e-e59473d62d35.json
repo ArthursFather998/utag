@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:17.314471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba31166c-0b0a-41a3-9ba7-73ac287f36a7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "88e62e2c-d6e9-4799-ac8e-e59473d62d35",
+  "input": "{\"title\": \"Middle of a Breakup\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

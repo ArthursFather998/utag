@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:39.604938+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69bf678b-d3d8-4d48-808b-dc2621d98477",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f1ac133-79d2-4dcf-bc45-6808cdd3aee4",
+  "input": "{\"title\": \"Yayo\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Kill Kill'",
+  "status": "verified"
+}

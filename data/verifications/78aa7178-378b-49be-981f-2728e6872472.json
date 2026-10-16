@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:35.526135+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66d87d14-c24e-47c6-ab1e-b77b4c5398d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78aa7178-378b-49be-981f-2728e6872472",
+  "input": "{\"title\": \"Every Little Bit Hurts\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Unplugged'",
+  "status": "verified"
+}

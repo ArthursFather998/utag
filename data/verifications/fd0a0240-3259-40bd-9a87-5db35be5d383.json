@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:54.367398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d5d1022-10ba-4238-bc72-e87e7d13e460",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fd0a0240-3259-40bd-9a87-5db35be5d383",
+  "input": "{\"title\": \"perroperro\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

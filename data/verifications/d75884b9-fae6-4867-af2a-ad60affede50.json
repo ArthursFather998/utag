@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:58.869586+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33a45db2-b87a-49ac-bd7f-9b0ce137479b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d75884b9-fae6-4867-af2a-ad60affede50",
+  "input": "{\"title\": \"Ven Conmigo\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Ven Conmigo'",
+  "status": "verified"
+}

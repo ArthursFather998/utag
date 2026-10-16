@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:25.092208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6c91b43-86ce-473d-b1e1-a23f310f0f46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "429fedcf-5896-4142-9206-4d188e00627b",
+  "input": "{\"title\": \"Armed and Dangerous\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Armed and Dangerous'",
+  "status": "verified"
+}

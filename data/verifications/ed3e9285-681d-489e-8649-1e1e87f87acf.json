@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:40:10.447573+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "309aedda-3d42-458b-89f1-1ed6c829cfde",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed3e9285-681d-489e-8649-1e1e87f87acf",
+  "input": "{\"title\": \"Disc 4 - Maybe Now\", \"track_number\": 98}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 98 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:44.821311+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "562f151a-f84e-4538-90fe-84fef4f4d0c5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1c50c4eb-f6db-4de2-a5da-906522aac67a",
+  "input": "{\"title\": \"I Need Some Fine Wine and You, You Need to Be Nicer\", \"release_type\": \"single\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

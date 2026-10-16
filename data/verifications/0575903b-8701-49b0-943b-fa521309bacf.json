@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:30.394263+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fe73bbb-b465-496b-9a3b-d11fa236c2fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0575903b-8701-49b0-943b-fa521309bacf",
+  "input": "{\"title\": \"Human Feel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Human Feel'",
+  "status": "verified"
+}

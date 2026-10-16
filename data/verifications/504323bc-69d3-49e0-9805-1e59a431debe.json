@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:42.948581+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "060a7769-db84-4c75-8ef1-3525af755180",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "504323bc-69d3-49e0-9805-1e59a431debe",
+  "input": "{\"title\": \"Hallelujah\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live from the Bataclan'",
+  "status": "verified"
+}

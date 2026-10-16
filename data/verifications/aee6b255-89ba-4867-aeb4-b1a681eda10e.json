@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:32.354869+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d0eccca-c480-46bb-a3b0-776c8a652b45",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aee6b255-89ba-4867-aeb4-b1a681eda10e",
+  "input": "{\"title\": \"Disney Princess\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Disney Princess'",
+  "status": "verified"
+}

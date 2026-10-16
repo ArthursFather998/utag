@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:26.81517+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "710fc309-e1f4-4578-a9cd-a7ec6642a518",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "918de850-3e59-49f9-be7e-66be9ac10986",
+  "input": "{\"title\": \"\\\"The Take Over, the Breaks Over\\\"\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '\"The Take Over, the Breaks Over\"'",
+  "status": "verified"
+}

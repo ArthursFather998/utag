@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:52.22297+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "066f48db-9cdc-415b-8416-757c11b7d178",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4dccc148-4474-48ac-b8a2-b9d9c11b02a0",
+  "input": "{\"title\": \"Oxygen\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

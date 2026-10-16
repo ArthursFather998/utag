@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:13.742279+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c14f7891-2239-40c4-8d5a-ac53c9e6953d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de40a7fc-a5f7-4153-a163-1f15d231e641",
+  "input": "{\"title\": \"Guitar Solo\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Queen on Fire - Live at the Bowl'",
+  "status": "verified"
+}

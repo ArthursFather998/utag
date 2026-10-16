@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:27.895892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c851bc50-9019-43a1-9243-55a11aa74c36",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "38d61f9f-c89c-4063-ad8c-1572f57235fa",
+  "input": "{\"title\": \"The Other Side\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

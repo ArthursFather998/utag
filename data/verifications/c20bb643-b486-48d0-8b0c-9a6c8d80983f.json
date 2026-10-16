@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:10.434364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7ca17e7-e9b6-477a-8a9e-e27e8f2062af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c20bb643-b486-48d0-8b0c-9a6c8d80983f",
+  "input": "{\"title\": \"You Hurt Me\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Playlist: The Very Best of Jagged Edge'",
+  "status": "verified"
+}

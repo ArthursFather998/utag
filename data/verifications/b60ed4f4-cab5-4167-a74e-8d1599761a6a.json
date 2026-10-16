@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:06.528003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fc215a4-37c0-46a9-bf54-5a5a33b42bee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b60ed4f4-cab5-4167-a74e-8d1599761a6a",
+  "input": "{\"title\": \"Love Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'My World'",
+  "status": "verified"
+}

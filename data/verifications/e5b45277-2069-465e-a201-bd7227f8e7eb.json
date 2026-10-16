@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:37.822987+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea290b6b-2dbf-4cac-ad59-93506bfb31ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5b45277-2069-465e-a201-bd7227f8e7eb",
+  "input": "{\"title\": \"How Do I Say\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'My Way / 8701'",
+  "status": "verified"
+}

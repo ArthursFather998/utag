@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:30.711882+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "645f15c4-7e8f-42d4-ac7b-a0829ae6b20e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42da4148-3b78-432a-90b3-a4914f5fa742",
+  "input": "{\"title\": \"I Held My Baby Last Night\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Fleetwood Mac in Chicago'",
+  "status": "verified"
+}

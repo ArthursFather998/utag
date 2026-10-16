@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:33.554415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "044b9f15-5fb6-434f-ad49-e31a7b2d91cd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aa30dec7-6286-4d20-a93e-1802c36fd0c6",
+  "input": "{\"title\": \"Janet Jackson\", \"release_type\": \"album\", \"release_year\": 1982}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

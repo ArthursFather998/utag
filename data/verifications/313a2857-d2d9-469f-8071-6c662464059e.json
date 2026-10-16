@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:30.448821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbb36c59-87c0-4d9a-8015-9beeea00a209",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "313a2857-d2d9-469f-8071-6c662464059e",
+  "input": "{\"title\": \"Gravity\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Emotional Creature'",
+  "status": "verified"
+}

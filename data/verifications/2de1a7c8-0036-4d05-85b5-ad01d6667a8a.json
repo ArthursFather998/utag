@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:56.814192+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d6b7ce8a-b7b6-4ec8-9167-e819745e960e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2de1a7c8-0036-4d05-85b5-ad01d6667a8a",
+  "input": "{\"title\": \"Hold Me Like a Grudge\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hold Me Like a Grudge'",
+  "status": "verified"
+}

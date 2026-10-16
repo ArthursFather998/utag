@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:33.83786+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "577be9d2-56c5-4b88-856e-045ccb99af60",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "97d1455e-ac56-42fb-9df1-8f3b03d3ebed",
+  "input": "{\"title\": \"I Believe (A Soulful Re-Recording)\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Songs from the Big Chair (40th Anniversary Edition)'",
+  "status": "verified"
+}

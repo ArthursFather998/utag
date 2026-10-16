@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:29.216364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c69710b-c0de-4301-9d1d-9af8c04c6db5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f83a460-389a-4aec-9112-60cfbf9177a0",
+  "input": "{\"title\": \"I Only Wanted\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Charmbracelet'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:10.052958+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d227f10-a76e-4982-bfcb-94c6623f6645",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6fd3531c-3519-4a0c-813f-04dd71300c74",
+  "input": "{\"title\": \"What's My Name? (featuring Drake)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Loud (Deluxe)'",
+  "status": "verified"
+}

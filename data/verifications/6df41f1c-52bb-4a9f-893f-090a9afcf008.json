@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:25.356623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4a326c1-7485-43c5-b868-ce644e3d3649",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6df41f1c-52bb-4a9f-893f-090a9afcf008",
+  "input": "{\"title\": \"Merry Go Round [Take 1]\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

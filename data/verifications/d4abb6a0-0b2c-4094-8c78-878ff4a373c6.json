@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:35.033139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3abc3c35-d694-428e-a9c5-7443ac2683c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4abb6a0-0b2c-4094-8c78-878ff4a373c6",
+  "input": "{\"title\": \"Memories Fade\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live at Massey Hall Toronto, Canada / 1985'",
+  "status": "verified"
+}

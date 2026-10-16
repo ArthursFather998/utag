@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:53.705222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6cca712d-9cd4-4c65-8e70-0d1edb39b4fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c5c5c78-e055-4979-a0a9-bf6277f32e83",
+  "input": "{\"title\": \"I Hate That It's True\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Hate That It's True'",
+  "status": "verified"
+}

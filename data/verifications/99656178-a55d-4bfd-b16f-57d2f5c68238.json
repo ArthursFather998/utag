@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:13.395557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f82b3b52-69ea-43f3-9c1e-d1b4330b8b12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99656178-a55d-4bfd-b16f-57d2f5c68238",
+  "input": "{\"title\": \"Flame\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Encore'",
+  "status": "verified"
+}

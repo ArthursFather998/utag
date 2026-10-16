@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:11.865335+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16a8a265-6865-46b1-a57e-c5a50a0aeba8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "91d097d2-e09c-459a-93cd-1d0520f437c1",
+  "input": "{\"title\": \"It's a Hard Life\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'Queen Forever (Deluxe Edition)'",
+  "status": "verified"
+}

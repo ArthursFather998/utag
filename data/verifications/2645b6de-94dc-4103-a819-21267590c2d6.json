@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:59.955093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "902f62a6-cd34-40d7-9210-07be0c7e18a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2645b6de-94dc-4103-a819-21267590c2d6",
+  "input": "{\"title\": \"Acuerdate De Mi\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Mis Primeros Éxitos'",
+  "status": "verified"
+}

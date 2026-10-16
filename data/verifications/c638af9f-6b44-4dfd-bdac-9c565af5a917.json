@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:06.146575+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "591ecc92-4f0a-4630-bcef-ba0512265727",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c638af9f-6b44-4dfd-bdac-9c565af5a917",
+  "input": "{\"title\": \"Little Lies\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Little Lies'",
+  "status": "verified"
+}

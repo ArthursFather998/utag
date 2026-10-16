@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:00.698947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8f9ad1e-5895-4d98-9bf4-8cc508ee345b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13ea3d3c-ba63-4ffe-b29f-9eb936ed7b4f",
+  "input": "{\"title\": \"A Girl Like Me\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of '3 CD Collector's Set'",
+  "status": "verified"
+}

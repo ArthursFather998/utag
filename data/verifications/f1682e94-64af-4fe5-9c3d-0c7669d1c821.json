@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:45.383645+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64610bd2-bbfb-4e0d-853d-6741b388f4ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1682e94-64af-4fe5-9c3d-0c7669d1c821",
+  "input": "{\"title\": \"Boys\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Prom Queen / Crybaby + Sports'",
+  "status": "verified"
+}

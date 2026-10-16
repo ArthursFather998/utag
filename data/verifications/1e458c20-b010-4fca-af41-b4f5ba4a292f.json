@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:38.795104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c6ec25e-f65a-475a-9287-268e0cf18592",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e458c20-b010-4fca-af41-b4f5ba4a292f",
+  "input": "{\"title\": \"Did You Ever Love Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Did You Ever Love Me'",
+  "status": "verified"
+}

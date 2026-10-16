@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:40.680822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9f6ad7b-0994-41f2-8477-d226a769ca7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e9c0918-8dd6-413a-aecc-a35489e6b0c6",
+  "input": "{\"title\": \"Devotion (with Dijon)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Swag'",
+  "status": "verified"
+}

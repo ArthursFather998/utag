@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:43.409971+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f48ec2c-37b9-45aa-89ba-f8434b4afe4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c5e2741-c15d-4f3e-932b-a4bbae1d3883",
+  "input": "{\"title\": \"Lingerie\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Versus'",
+  "status": "verified"
+}

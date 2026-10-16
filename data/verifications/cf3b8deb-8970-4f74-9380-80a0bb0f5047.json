@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:10.441328+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef98885f-d2fb-47d5-8ee0-3ebef8138138",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf3b8deb-8970-4f74-9380-80a0bb0f5047",
+  "input": "{\"title\": \"Lover, You Should Have Come Over\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live À L'Olympia'",
+  "status": "verified"
+}

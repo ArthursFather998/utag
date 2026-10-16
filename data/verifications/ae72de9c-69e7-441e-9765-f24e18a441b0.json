@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:02.652846+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1acce366-2e37-4d13-a008-c30171d11ea7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ae72de9c-69e7-441e-9765-f24e18a441b0",
+  "input": "{\"title\": \"Pretty Boy\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Chip Chrome & the Mono-Tones (Deluxe)'",
+  "status": "verified"
+}

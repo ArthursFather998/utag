@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:12.841867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d0d48fc-4450-4aa8-b73c-e509579c4640",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f69bca6-c9de-4f87-bbe4-3bb57f17227a",
+  "input": "{\"title\": \"A Woman's Worth\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Songs in A Minor'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:52.067693+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e007911b-abd3-4040-8eed-412a5f816a6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84954f46-cc83-4b39-bddf-fa2024917e91",
+  "input": "{\"title\": \"The Last Rose\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Timeless'",
+  "status": "verified"
+}

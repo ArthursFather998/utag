@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:26.151892+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b363b78d-bc6f-41d7-87c5-cbe8428e43fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b04fee9d-2dc0-4b6e-8e26-45df8b17c5de",
+  "input": "{\"title\": \"Werewolf (featuring Bring Me the Horizon)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Pink Tape'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:10.301023+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3c728fd-215f-400f-a9f2-ffa8246f6015",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25dabacf-6c7c-47d4-8913-286179cef3f9",
+  "input": "{\"title\": \"The Sun Is Shining\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Men of the World: The Blues Years'",
+  "status": "verified"
+}

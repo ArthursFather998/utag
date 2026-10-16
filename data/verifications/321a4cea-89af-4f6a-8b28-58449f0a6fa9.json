@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:44.990356+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7439903-3b88-4de3-8444-d94ec1e6826f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "321a4cea-89af-4f6a-8b28-58449f0a6fa9",
+  "input": "{\"title\": \"Love It Seems\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'The Vaudeville Years'",
+  "status": "verified"
+}

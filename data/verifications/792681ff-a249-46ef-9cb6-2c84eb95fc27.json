@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:42:29.385+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "580c5578-b7ef-40d7-9aaa-baf20bf3f238",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "792681ff-a249-46ef-9cb6-2c84eb95fc27",
+  "input": "{\"title\": \"Bury the Hatchet\", \"release_type\": \"album\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

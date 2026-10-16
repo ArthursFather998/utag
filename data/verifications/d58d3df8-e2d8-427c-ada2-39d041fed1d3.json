@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:35.890452+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4eb89550-1411-4c01-b59a-207c0f54c8b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d58d3df8-e2d8-427c-ada2-39d041fed1d3",
+  "input": "{\"title\": \"In the Wind\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Lonesome Dreams'",
+  "status": "verified"
+}

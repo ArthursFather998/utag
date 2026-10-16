@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:47.215174+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ce118ba-5810-47ea-8388-4a491286aed0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1bc1ddea-30f1-4e08-904a-c0d5c621322c",
+  "input": "{\"title\": \"I Can't Be With You\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'London 2012: Live at The Hammersmith Apollo'",
+  "status": "verified"
+}

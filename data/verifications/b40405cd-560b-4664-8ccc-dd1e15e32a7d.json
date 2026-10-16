@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:28.75424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "94b57f5f-6e02-4b46-878a-9cc1a995a035",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b40405cd-560b-4664-8ccc-dd1e15e32a7d",
+  "input": "{\"title\": \"Love of My Life\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '20th Century Masters: The Millennium Collection - The Best of Brian McKnight'",
+  "status": "verified"
+}

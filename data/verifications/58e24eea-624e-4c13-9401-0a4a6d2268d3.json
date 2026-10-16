@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:37.017004+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "633b2cf7-e4ec-416c-8d08-44c15ed98753",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "58e24eea-624e-4c13-9401-0a4a6d2268d3",
+  "input": "{\"title\": \"Mockingbird\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mockingbird'",
+  "status": "verified"
+}

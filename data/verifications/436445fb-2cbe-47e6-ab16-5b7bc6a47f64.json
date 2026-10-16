@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:21.379481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "504c2b31-db62-4eca-b23e-67f2116e4433",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "436445fb-2cbe-47e6-ab16-5b7bc6a47f64",
+  "input": "{\"title\": \"Professional\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Kiss Land'",
+  "status": "verified"
+}

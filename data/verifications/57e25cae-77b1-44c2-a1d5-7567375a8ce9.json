@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:19.187812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1413c08-eb1b-4dbc-bbbd-3e19d436eeda",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "57e25cae-77b1-44c2-a1d5-7567375a8ce9",
+  "input": "{\"title\": \"Mustapha\", \"release_type\": \"single\", \"release_year\": 1979}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

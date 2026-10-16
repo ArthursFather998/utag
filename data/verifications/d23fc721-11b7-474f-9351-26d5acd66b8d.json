@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:52.415817+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f6ff0ce-82e1-4330-b373-f49a8f41e29a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d23fc721-11b7-474f-9351-26d5acd66b8d",
+  "input": "{\"title\": \"Watch Out\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'The Collection'",
+  "status": "verified"
+}

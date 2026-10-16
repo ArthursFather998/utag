@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:55.515053+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b648a1f-9cb7-4f02-b0ce-641ec5547df1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "853009b7-8574-4929-9711-8a781de41c9f",
+  "input": "{\"title\": \"Let You Break My Heart Again\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'A Night at the Symphony: Hollywood Bowl'",
+  "status": "verified"
+}

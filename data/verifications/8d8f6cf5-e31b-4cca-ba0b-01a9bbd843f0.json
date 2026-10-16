@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:28.732952+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d4db0d2-1cbc-4359-b874-9d52ffc838d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d8f6cf5-e31b-4cca-ba0b-01a9bbd843f0",
+  "input": "{\"title\": \"Honeymoon\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Love Sick'",
+  "status": "verified"
+}

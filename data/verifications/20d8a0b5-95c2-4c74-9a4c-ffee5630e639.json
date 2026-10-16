@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:50.154047+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b991b8d0-9fce-44dc-aeb1-d51076ec3022",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20d8a0b5-95c2-4c74-9a4c-ffee5630e639",
+  "input": "{\"title\": \"The Things We Did Last Summer\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'My Town, My Guy & Me'",
+  "status": "verified"
+}

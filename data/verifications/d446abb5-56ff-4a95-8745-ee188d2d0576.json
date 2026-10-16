@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:38.782292+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6042be1-ccbd-47fa-914c-4f69bdb93b33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d446abb5-56ff-4a95-8745-ee188d2d0576",
+  "input": "{\"title\": \"Rhiannon\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

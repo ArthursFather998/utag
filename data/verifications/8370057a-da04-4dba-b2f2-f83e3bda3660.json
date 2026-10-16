@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:30.338278+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fad52da-7184-4fe9-98f6-012e5bbbdba0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8370057a-da04-4dba-b2f2-f83e3bda3660",
+  "input": "{\"title\": \"Unchained Memory\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Unchained Memory'",
+  "status": "verified"
+}

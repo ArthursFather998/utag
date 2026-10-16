@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:35.81793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9065e80a-fca4-4462-a270-2fd673dbb738",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "36cb69d8-7fb9-438b-9ecd-df1effd4a948",
+  "input": "{\"title\": \"Sippy Cup\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

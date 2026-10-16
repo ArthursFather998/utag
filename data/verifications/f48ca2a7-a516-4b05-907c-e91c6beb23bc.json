@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:43.618081+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4e995ef-e060-4f8d-bed9-04c9f22de6ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f48ca2a7-a516-4b05-907c-e91c6beb23bc",
+  "input": "{\"title\": \"Headlines\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Take Care'",
+  "status": "verified"
+}

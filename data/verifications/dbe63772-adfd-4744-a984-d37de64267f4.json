@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:10.463831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f97216cd-a4d2-497a-8b1e-b668cda83e85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbe63772-adfd-4744-a984-d37de64267f4",
+  "input": "{\"title\": \"The Captain and the Kid\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Captain & the Kid'",
+  "status": "verified"
+}

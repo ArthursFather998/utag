@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:52.004958+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22d3c8aa-1101-417d-82a7-7e8e0f7c79cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48eec1d2-b988-42d2-9299-a798b81fb8c2",
+  "input": "{\"title\": \"Tie Your Mother Down\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live Magic'",
+  "status": "verified"
+}

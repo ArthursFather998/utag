@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:51.669975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfd761f2-c3ab-443f-be0b-d036c2338357",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c779043-b256-4f97-816c-cd136b52a90a",
+  "input": "{\"title\": \"Good Enough\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Good Enough'",
+  "status": "verified"
+}

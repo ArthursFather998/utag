@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:16.100735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b30fd1e-084f-4724-9d0a-13f8883d5145",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb233f10-bdff-4326-aabb-a8aadff2dde4",
+  "input": "{\"title\": \"Baila Esta Cumbia\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Baila Esta Cumbia'",
+  "status": "verified"
+}

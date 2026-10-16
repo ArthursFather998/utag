@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:05.574918+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16c0a8f0-6e52-4f45-a109-441c30be1076",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1524dd3a-6484-4469-82a9-1b4af3482141",
+  "input": "{\"title\": \"do whatever u want, it's not like i care anyways\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'do whatever u want, it's not like i care anyways'",
+  "status": "verified"
+}

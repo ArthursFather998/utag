@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:17.268964+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "867bf815-2cb2-4544-bdfa-a3df0f4e2b17",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d47a1b5-f298-4795-bf5f-c9a41054c86c",
+  "input": "{\"title\": \"Now I'm Here (Live at Hammersmith Odeon, December 1975)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Sheer Heart Attack (Deluxe Remastered Version)'",
+  "status": "verified"
+}

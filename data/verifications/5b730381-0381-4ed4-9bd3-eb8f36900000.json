@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:21.422975+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "57b29d5f-ae75-4b0b-82b2-0d14f88d267f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b730381-0381-4ed4-9bd3-eb8f36900000",
+  "input": "{\"title\": \"Brown Eyes\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Tusk'",
+  "status": "verified"
+}

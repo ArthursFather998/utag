@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:22.385974+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a6769fd-82d8-4b20-8d27-d9e482b7ba54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e2ca475-f127-4947-be88-fc67cd06dd84",
+  "input": "{\"title\": \"Sad Songs (Say So Much)\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'The Very Best of Elton John'",
+  "status": "verified"
+}

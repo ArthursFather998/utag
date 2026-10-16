@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:04.834863+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7c1cf60-94aa-4bfa-a0b7-072c9677ff8d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9e1e2cb-7720-4b5d-ae79-1531db8a0e19",
+  "input": "{\"title\": \"Crazy Little Thing Called Love\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Platinum Collection: Greatest Hits I, II & III'",
+  "status": "verified"
+}

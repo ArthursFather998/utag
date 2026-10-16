@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:16:33.469696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1aebb1d6-3ebc-4ddc-8905-6a75e1dcb193",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dda9f5d4-b48f-41ba-a016-48a595154452",
+  "input": "{\"title\": \"Jealousy Woes II\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Infinite'",
+  "status": "verified"
+}

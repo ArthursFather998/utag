@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:17:15.939165+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "443f93cc-b7ee-45a6-911e-94e2ba8fa570",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "948aee0f-8f05-4f5b-9286-2577729db005",
+  "input": "{\"title\": \"Low Down, Dirty\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Slim Shady EP'",
+  "status": "verified"
+}

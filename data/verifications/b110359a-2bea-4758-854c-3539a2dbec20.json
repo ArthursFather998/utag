@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:25.774037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02d1cfd7-fd85-4c51-a1ee-50a3c6b3345b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b110359a-2bea-4758-854c-3539a2dbec20",
+  "input": "{\"title\": \"Don't Let the Sun Go Down on Me\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Live in Australia with the Melbourne Symphony Orchestra'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:23.570899+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "010178ed-1f28-42d5-990d-fb3df6095cd7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "acd0e6bc-b912-49ff-8988-f2b84dd1490f",
+  "input": "{\"title\": \"Love Shines\", \"track_number\": 44}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 44 of '50 Years – Don't Stop'",
+  "status": "verified"
+}

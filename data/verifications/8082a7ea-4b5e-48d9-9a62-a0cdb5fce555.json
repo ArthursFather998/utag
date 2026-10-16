@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:18:10.800091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "973d6bef-03d0-4511-aced-6886b29b6073",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8082a7ea-4b5e-48d9-9a62-a0cdb5fce555",
+  "input": "{\"title\": \"No One\\u2019s Iller\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Slim Shady EP'",
+  "status": "verified"
+}

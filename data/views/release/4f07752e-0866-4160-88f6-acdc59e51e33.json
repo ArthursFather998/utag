@@ -1,0 +1,128 @@
+{
+  "artists": {
+    "canonical_name": "THE ANXIETY, WILLOW, Tyler Cole",
+    "id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "THE ANXIETY, WILLOW, Tyler Cole",
+        "id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T14:14:21.139566+00:00",
+      "edition": "original",
+      "id": "2e4e9119-d7d4-44eb-9fb1-bb04e6dfbe68",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "Meet Me At Our Spot (Live)"
+    },
+    {
+      "artists": {
+        "canonical_name": "THE ANXIETY, WILLOW, Tyler Cole",
+        "id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e"
+      },
+      "artwork": [
+        {
+          "id": "8e4b770a-670b-41b8-b4f0-a6507bc93956",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7c/f3/5f/7cf35fde-8160-eaef-7284-480a6541f826/20UMGIM13326.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:45:15.466109+00:00",
+      "edition": "original",
+      "id": "465c1598-c8ef-48c3-9453-76b3381d4632",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "THE ANXIETY"
+    },
+    {
+      "artists": {
+        "canonical_name": "THE ANXIETY, WILLOW, Tyler Cole",
+        "id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T14:14:02.276639+00:00",
+      "edition": "original",
+      "id": "f1e14d47-5da0-4b6e-b50d-030208382285",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2020,
+      "title": "Hey You!"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T14:14:11.793846+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "4f07752e-0866-4160-88f6-acdc59e51e33",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2021,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "Meet Me At Our Spot",
+    "updated_at": "2026-10-16T14:14:11.793846+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "a1266c0d-90d2-47f7-8cec-bd40e7024d8e",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T14:14:15.388019+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e8d55eb8-efd8-48ae-91fc-7231ce99d5e4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "4f07752e-0866-4160-88f6-acdc59e51e33",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Meet Me At Our Spot",
+      "track_number": 1,
+      "updated_at": "2026-10-16T14:14:15.388019+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T14:14:13.535099+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "4f07752e-0866-4160-88f6-acdc59e51e33",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "5c495527-57ad-493a-969a-e5d3dfe8b6bd",
+      "input": "{\"title\": \"Meet Me At Our Spot\", \"release_type\": \"single\", \"release_year\": 2021}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 19",
+      "status": "verified"
+    }
+  ]
+}

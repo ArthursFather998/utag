@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:48.458623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a917eeb0-abb3-4c45-9d70-8f872986e8ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f049a34-5c93-4c64-ab03-2277d20063cf",
+  "input": "{\"title\": \"Best Song Ever (Jump Smokers Remix)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Best Song Ever (from \"This Is Us\")'",
+  "status": "verified"
+}

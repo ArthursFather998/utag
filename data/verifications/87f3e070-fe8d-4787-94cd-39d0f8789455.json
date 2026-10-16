@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:27.504583+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d15834a-d025-4a75-ac1b-fc3c00b1160b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "87f3e070-fe8d-4787-94cd-39d0f8789455",
+  "input": "{\"title\": \"Little Drummer Boy (featuring Solange)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '8 Days of Christmas'",
+  "status": "verified"
+}

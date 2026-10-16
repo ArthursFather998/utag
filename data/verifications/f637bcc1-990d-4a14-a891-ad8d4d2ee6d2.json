@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:10.40182+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf04ca7c-2113-4cc9-9fd9-e4a6ad6c82fb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f637bcc1-990d-4a14-a891-ad8d4d2ee6d2",
+  "input": "{\"title\": \"Drive\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:40.216211+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2916508d-9303-44ee-9a61-d1b0343172ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f30f3c5a-e675-4040-b67f-29bc7d0c3c7f",
+  "input": "{\"title\": \"Skate\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'An Evening with Silk Sonic'",
+  "status": "verified"
+}

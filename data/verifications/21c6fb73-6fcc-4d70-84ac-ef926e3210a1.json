@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:14.903611+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54d9d99c-3d57-4bbd-bb1c-94dbce98b61c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21c6fb73-6fcc-4d70-84ac-ef926e3210a1",
+  "input": "{\"title\": \"Su\\u00e9ltalo\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'La Chica de Rojo'",
+  "status": "verified"
+}

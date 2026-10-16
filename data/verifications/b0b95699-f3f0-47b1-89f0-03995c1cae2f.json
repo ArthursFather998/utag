@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:58.422131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9905e88-ee42-42d2-97c1-3f94ebc29afa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b0b95699-f3f0-47b1-89f0-03995c1cae2f",
+  "input": "{\"title\": \"Dreams\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

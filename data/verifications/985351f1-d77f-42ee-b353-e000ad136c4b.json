@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:57.70309+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3446b7c-f095-47df-a776-a6f841456f3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "985351f1-d77f-42ee-b353-e000ad136c4b",
+  "input": "{\"title\": \"How Come You Don't Call Me\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Songs in A Minor'",
+  "status": "verified"
+}

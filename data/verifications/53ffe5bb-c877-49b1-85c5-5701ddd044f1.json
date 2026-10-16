@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:55.656163+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab2c580f-1409-4114-ab3f-cd2d0d5b0a41",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "53ffe5bb-c877-49b1-85c5-5701ddd044f1",
+  "input": "{\"title\": \"The Idol, Vol. 1\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

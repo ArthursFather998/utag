@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:11.892094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11d7436e-2a5b-4502-a5b3-b9f98ac98b6f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8fd1fe7b-7bca-47be-b8b3-88d070cbc860",
+  "input": "{\"title\": \"PAYCHECK\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

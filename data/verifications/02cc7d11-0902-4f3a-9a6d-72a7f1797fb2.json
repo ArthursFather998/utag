@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:14.177609+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1ef5dc3-412f-4806-a952-8f56256bb297",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "02cc7d11-0902-4f3a-9a6d-72a7f1797fb2",
+  "input": "{\"title\": \"Journals\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

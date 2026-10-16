@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:15.460048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3500e5d9-4653-47c3-9863-66b3b2bce4bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "661e585d-e9e5-4235-a83c-a8a37e859ed7",
+  "input": "{\"title\": \"Looking 4 Myself\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:04.252373+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "143b601f-decc-4dc5-8f99-5a997f7b2a0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6dc06b91-bc2f-49a9-a4b2-25a12fdfa19c",
+  "input": "{\"title\": \"hi grace\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of '14 minutes'",
+  "status": "verified"
+}

@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Natasha Bedingfield",
+    "confidence": "unknown",
+    "created_at": "2026-10-16T17:59:43.185003+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "0b222dcc-b53e-49e4-9960-b6383c7fa9d9",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-16T17:59:43.185003+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Natasha Bedingfield",
+        "id": "0b222dcc-b53e-49e4-9960-b6383c7fa9d9"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T17:59:43.313949+00:00",
+      "edition": "original",
+      "id": "42ac44cf-34e4-4071-b88d-c24f7670b354",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Promo Only: Rhythm Radio, August 2008"
+    }
+  ],
+  "verifications": []
+}

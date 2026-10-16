@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:45.45966+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7999d10-c55f-4a54-b7ff-046278f29ff2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54c6b328-43ef-4f32-8063-9e7414d7babf",
+  "input": "{\"title\": \"Gotta Be You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Up All Night'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:13.552533+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce2f64d2-7f08-4ee2-abec-6c9b36d8dab3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a37f2f71-492e-4388-97d2-b286c9b57d34",
+  "input": "{\"title\": \"No Hay Ley Parte 2\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Orquídeas'",
+  "status": "verified"
+}

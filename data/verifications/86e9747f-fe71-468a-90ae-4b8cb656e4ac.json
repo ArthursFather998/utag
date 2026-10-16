@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:30.343602+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5339709d-d09d-4660-b9fe-6a28ea2e4ee0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "86e9747f-fe71-468a-90ae-4b8cb656e4ac",
+  "input": "{\"title\": \"Dyepy Time\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'McKnighttime Lullabies'",
+  "status": "verified"
+}

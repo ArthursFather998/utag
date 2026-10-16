@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:11.96963+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1abc89d0-1049-4cae-bd8e-12c3adc34f6e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2fb45a80-0b78-4ef8-80ba-13cb79367ab2",
+  "input": "{\"title\": \"Skylark\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Fleetwoods: Gretchen, Gary and Barbara'",
+  "status": "verified"
+}

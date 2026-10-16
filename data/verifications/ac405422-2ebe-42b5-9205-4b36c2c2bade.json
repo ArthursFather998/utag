@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:41.460919+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f023127-3e09-44ff-bf3f-c7f7b0966986",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac405422-2ebe-42b5-9205-4b36c2c2bade",
+  "input": "{\"title\": \"Mr. Man (with Jimmy Cozier)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Songs in A Minor: 20th Anniversary Edition'",
+  "status": "verified"
+}

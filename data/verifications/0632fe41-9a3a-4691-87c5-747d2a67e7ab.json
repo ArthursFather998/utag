@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:42.634513+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67bf98e4-5117-4b9e-9409-2a6baaa1e9f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0632fe41-9a3a-4691-87c5-747d2a67e7ab",
+  "input": "{\"title\": \"Paranoia\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Love Me by Name'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:05.348834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "888f4b2e-aa61-4bda-bdb9-b013138644e5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e680ad73-c275-4da2-995e-18ebff43fd45",
+  "input": "{\"title\": \"Fuck It I Love You\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

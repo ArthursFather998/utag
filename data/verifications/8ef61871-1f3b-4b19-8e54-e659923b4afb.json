@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:52.396681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbea3e54-e2a2-4911-8436-eaffb8a135b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ef61871-1f3b-4b19-8e54-e659923b4afb",
+  "input": "{\"title\": \"I Don't Wanna\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Hard'",
+  "status": "verified"
+}

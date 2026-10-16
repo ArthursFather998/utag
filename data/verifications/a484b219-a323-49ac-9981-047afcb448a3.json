@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:07.792129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2957beab-5a21-4c08-8a7e-aef073ee6259",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a484b219-a323-49ac-9981-047afcb448a3",
+  "input": "{\"title\": \"California Girls (Demo) - Tyga\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Welcome to the New Administration'",
+  "status": "verified"
+}

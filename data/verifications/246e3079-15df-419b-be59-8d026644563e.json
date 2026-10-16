@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:20.496477+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31a7afb8-68b5-4889-a506-d61d64188747",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "246e3079-15df-419b-be59-8d026644563e",
+  "input": "{\"title\": \"Her Name Is Love\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Name Is Love'",
+  "status": "verified"
+}

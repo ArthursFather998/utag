@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:50.487162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef456836-c61f-4c33-96b9-f947f52ed66d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc9b1933-c0c8-43d1-ab5d-554cb0c159ce",
+  "input": "{\"title\": \"\\u00c1mame, Qui\\u00e9reme\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Selena: The Series Soundtrack'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:03.499506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4fd2e50-6999-4232-843e-a246886fcf11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a49be7f-9bae-4f37-bdfe-3ffc7a9d4a67",
+  "input": "{\"title\": \"Save Me\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Platinum Collection: Greatest Hits I, II & III'",
+  "status": "verified"
+}

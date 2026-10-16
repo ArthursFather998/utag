@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:40.179403+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9d0a8e5-1d29-4754-b274-e41202fe5644",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0eea3d64-9e43-4434-bd06-a6b8b8899dfb",
+  "input": "{\"title\": \"Overture\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

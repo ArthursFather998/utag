@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:26.352532+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a402b3ab-6cdc-4ca9-be6b-523d6862b9c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d567ecb-f319-43f0-b272-90ff16c071bc",
+  "input": "{\"title\": \"R U Mine?\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'iTunes Festival: London 2013'",
+  "status": "verified"
+}

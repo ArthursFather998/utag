@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:29.492781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46df3e16-8713-486e-a92c-6ffc950d2966",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "147cd1b6-f70e-4ea7-9fc7-fe86a02c0b5a",
+  "input": "{\"title\": \"Pluto to Mars\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Pink Tape'",
+  "status": "verified"
+}

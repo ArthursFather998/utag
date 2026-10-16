@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:41.588538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2c5074b-c02e-482f-a356-dbcd20c04de4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2be61649-9e72-49f2-8acf-7fe5bb480c3a",
+  "input": "{\"title\": \"Good Good\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

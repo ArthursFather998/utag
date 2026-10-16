@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:45.201463+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b383ace-a2cd-4cac-a48b-ad7545d21fd7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbd08819-4359-4e73-8ade-d0d33cf147af",
+  "input": "{\"title\": \"Sunshine (Demo, 2002)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Retroactive – EP3'",
+  "status": "verified"
+}

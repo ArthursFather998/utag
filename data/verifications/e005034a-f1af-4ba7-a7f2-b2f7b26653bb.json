@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:03.470213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25742616-566e-4b18-b5bb-140598c0a6d4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e005034a-f1af-4ba7-a7f2-b2f7b26653bb",
+  "input": "{\"title\": \"Norman Fucking Rockwell!\", \"release_type\": \"album\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

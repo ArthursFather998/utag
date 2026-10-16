@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:19.511686+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96bd6209-523e-4427-a089-849b4ad60f23",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36536cee-b74a-46b7-9e81-5261e27f6d3a",
+  "input": "{\"title\": \"Only the Young\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Only the Young'",
+  "status": "verified"
+}

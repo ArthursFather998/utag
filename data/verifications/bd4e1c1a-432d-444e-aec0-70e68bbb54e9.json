@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:10.348331+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1c985a1-3b12-4656-853b-ee9199c14294",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd4e1c1a-432d-444e-aec0-70e68bbb54e9",
+  "input": "{\"title\": \"Lemme Get That\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Good Girl Gone Bad / Rated R'",
+  "status": "verified"
+}

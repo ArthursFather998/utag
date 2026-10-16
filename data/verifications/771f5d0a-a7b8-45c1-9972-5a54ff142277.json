@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:32.986054+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96602189-e903-4596-9ada-da7e936a1b80",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "771f5d0a-a7b8-45c1-9972-5a54ff142277",
+  "input": "{\"title\": \"The Golden Hits of Lesley Gore\", \"release_type\": \"album\", \"release_year\": 1965}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:56.804026+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27c02f4c-f4c5-4a2c-b06d-680e9f5f4609",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a4b67fc8-ada9-4ada-8ccc-b2bb26458237",
+  "input": "{\"title\": \"Rhiannon\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Opus Collection'",
+  "status": "verified"
+}

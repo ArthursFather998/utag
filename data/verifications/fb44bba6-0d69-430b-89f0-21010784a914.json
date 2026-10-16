@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:37.514149+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13d95ed2-5a58-4b3b-a77e-58f5c42ebecc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fb44bba6-0d69-430b-89f0-21010784a914",
+  "input": "{\"title\": \"Tunnel Vision\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

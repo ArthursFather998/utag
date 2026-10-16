@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:20.937181+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d363a730-e9f9-4ffb-b4c3-d453d8d19657",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "888c7fd2-4b18-4cd9-a742-e4255e412ce1",
+  "input": "{\"title\": \"Like Home\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Revival'",
+  "status": "verified"
+}

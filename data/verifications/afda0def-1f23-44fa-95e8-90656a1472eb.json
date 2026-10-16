@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:14.269858+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7aced594-1ad0-427b-b3ca-e58920faae27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "afda0def-1f23-44fa-95e8-90656a1472eb",
+  "input": "{\"title\": \"Hate Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Hate Me (Deluxe)'",
+  "status": "verified"
+}

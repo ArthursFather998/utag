@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:59.500125+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a15cfc0c-4c39-46ad-9d0c-9b5bad1560e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed1e2ed6-4990-45ce-9628-4023f9eb13c2",
+  "input": "{\"title\": \"Si Una Vez\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Unforgettable: The Live Album'",
+  "status": "verified"
+}

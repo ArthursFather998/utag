@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:16.541544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3cee41d4-383f-4aed-a4e1-2eef12c70ee2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cface907-e473-4c7e-875e-a9412c73e892",
+  "input": "{\"title\": \"Tango in the Night\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Tango in the Night'",
+  "status": "verified"
+}

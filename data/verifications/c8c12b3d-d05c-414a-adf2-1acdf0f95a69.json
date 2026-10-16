@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:04.681959+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fe96eb0-f584-47c4-8d40-0fadd56e026a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8c12b3d-d05c-414a-adf2-1acdf0f95a69",
+  "input": "{\"title\": \"Greedy\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Some Sexy Songs 4 U'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:43.154548+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc9fbd00-e716-4c3c-80aa-70198128afe6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f7459c6e-7fa7-4b52-9b0c-a4377a28b40c",
+  "input": "{\"title\": \"Collect Call\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 21",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:10.833715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f6a8a9a-3295-418e-b5fc-c30c27caada2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e42b516f-3d01-4abc-8f97-29d96b179288",
+  "input": "{\"title\": \"First Place\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

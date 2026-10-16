@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:53.828557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b45a1005-6c45-467f-bfe8-8e2b65023ff2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8a08fd9-63a5-4756-b190-d9247dcf67a9",
+  "input": "{\"title\": \"Anytime You Need a Friend\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Essential Mariah Carey'",
+  "status": "verified"
+}

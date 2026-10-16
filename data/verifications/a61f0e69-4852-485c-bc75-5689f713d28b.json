@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:22.144338+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e4eb3535-435f-45af-9a20-8df298741f1b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a61f0e69-4852-485c-bc75-5689f713d28b",
+  "input": "{\"title\": \"Princes of the Universe\", \"release_type\": \"single\", \"release_year\": 1986}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

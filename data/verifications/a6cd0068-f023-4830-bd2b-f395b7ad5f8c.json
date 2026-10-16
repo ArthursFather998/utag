@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:58.6355+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11a5781d-6e8a-43ff-ab56-5fa0abe1153c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a6cd0068-f023-4830-bd2b-f395b7ad5f8c",
+  "input": "{\"title\": \"Waking Up the Devil\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'All American Nightmare'",
+  "status": "verified"
+}

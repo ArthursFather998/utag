@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:49.226464+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d390a3ce-b056-4deb-9071-29b7dbf7fdd9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "24912cce-ef41-4058-af0b-bf194ab6ecce",
+  "input": "{\"title\": \"Normal People (featuring Rei Brown)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Nectar'",
+  "status": "verified"
+}

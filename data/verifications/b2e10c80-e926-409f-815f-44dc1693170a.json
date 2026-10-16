@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:57.044507+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9db68f47-208e-40f3-8801-d6e5ede9ea1d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2e10c80-e926-409f-815f-44dc1693170a",
+  "input": "{\"title\": \"Clouds\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Four (The Ultimate Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:28.061612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e607018-bb17-4def-8b16-616f631f96d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72da4b97-4870-44e7-a8a4-4601e06f921b",
+  "input": "{\"title\": \"Sacrifice\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'The Very Best of Elton John'",
+  "status": "verified"
+}

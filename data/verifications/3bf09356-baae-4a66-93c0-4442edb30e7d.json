@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:46.722646+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d711372f-cff9-4da0-8458-d4de79aee8de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bf09356-baae-4a66-93c0-4442edb30e7d",
+  "input": "{\"title\": \"February\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rust Colored Stones'",
+  "status": "verified"
+}

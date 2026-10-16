@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:55.102894+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae167cf0-b45b-4239-b651-f074273e67d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e44ef825-6047-4f21-a1d1-39dfad26910c",
+  "input": "{\"title\": \"Love Is Just a Word\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Is Just a Word'",
+  "status": "verified"
+}

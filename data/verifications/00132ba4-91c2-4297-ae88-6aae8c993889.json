@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:41.578005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c032aa11-b218-4b35-bc1f-8312b70e112e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00132ba4-91c2-4297-ae88-6aae8c993889",
+  "input": "{\"title\": \"Donde Quiera Que Estes\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Momentos Intimos'",
+  "status": "verified"
+}

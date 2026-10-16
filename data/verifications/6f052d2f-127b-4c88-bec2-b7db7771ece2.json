@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:56.658981+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9c9806a-9228-47c0-9a7a-cc5a8086d1c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f052d2f-127b-4c88-bec2-b7db7771ece2",
+  "input": "{\"title\": \"Wheels on the Bus\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'K-12'",
+  "status": "verified"
+}

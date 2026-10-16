@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:27.379277+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "483a64d2-8278-4f4b-b8a9-b53bbc0aa443",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "84538d67-a19f-4ad1-b091-23a9cfcb33bb",
+  "input": "{\"title\": \"Did It Again\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

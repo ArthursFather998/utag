@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:56.178239+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7dfa1613-1381-4162-8e08-b369eb20bfb8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ae7806c-2ea6-42f4-95b5-039d33fb5d39",
+  "input": "{\"title\": \"Mercedes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mercedes'",
+  "status": "verified"
+}

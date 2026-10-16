@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:29.291398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35deb6a4-6b00-4653-acf1-2307cde8b326",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83904eb1-55cb-49e5-a22b-bcdc142781a5",
+  "input": "{\"title\": \"Cocoa Hooves\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Zaba (Deluxe Edition)'",
+  "status": "verified"
+}

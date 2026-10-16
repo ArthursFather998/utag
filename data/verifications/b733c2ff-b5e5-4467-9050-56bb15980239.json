@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:44.748699+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5daef20e-87ae-4554-a6dc-bf6d618e7833",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b733c2ff-b5e5-4467-9050-56bb15980239",
+  "input": "{\"title\": \"My Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '10 Great Songs'",
+  "status": "verified"
+}

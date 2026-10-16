@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:38.559283+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22b942a0-b703-4082-b3bd-793dbda4654e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4ce6240d-2b81-4bba-adb3-ee90b379d9c5",
+  "input": "{\"title\": \"Right Left Wrong\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

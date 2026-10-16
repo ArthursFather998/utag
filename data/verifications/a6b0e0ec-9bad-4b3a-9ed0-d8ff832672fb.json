@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:57.615759+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "23e51fcb-1acd-4ea2-ab3c-d56df0d21db3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a6b0e0ec-9bad-4b3a-9ed0-d8ff832672fb",
+  "input": "{\"title\": \"Quisiera Darte\", \"release_type\": \"single\", \"release_year\": 1988}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

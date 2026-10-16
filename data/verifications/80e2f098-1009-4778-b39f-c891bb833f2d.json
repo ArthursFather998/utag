@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:47.777643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c973343-c36e-4007-bef4-4adb5a0b5b45",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80e2f098-1009-4778-b39f-c891bb833f2d",
+  "input": "{\"title\": \"White Mustang\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Lust for Life'",
+  "status": "verified"
+}

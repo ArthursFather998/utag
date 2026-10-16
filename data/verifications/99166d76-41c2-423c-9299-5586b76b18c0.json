@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:22.861071+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b782ed93-3a87-4e2f-8d7e-19b54c45dfc8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99166d76-41c2-423c-9299-5586b76b18c0",
+  "input": "{\"title\": \"Arabella\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'iTunes Festival: London 2013'",
+  "status": "verified"
+}

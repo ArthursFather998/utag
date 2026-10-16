@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:04.614529+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79d0fd7c-d210-4322-a19a-da9a49ed5f8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9957f65-225c-4a5b-8cb9-03619e2829c9",
+  "input": "{\"title\": \"Anything Is Possible\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Eclipse'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:45.30251+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "110d8378-2bf1-433a-a83e-37ef53d0fbbf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18675621-e8e8-4310-a201-e91e980b90c0",
+  "input": "{\"title\": \"Get Me Away from You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Welcome to the Freakshow'",
+  "status": "verified"
+}

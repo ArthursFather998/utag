@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:10.070726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "efcdf941-adf4-4f4f-92cf-f6237f4e063e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b316dc2-271f-4465-bc8c-d33e9a32b59e",
+  "input": "{\"title\": \"Cookie Jar (Snippet) - Gym Class Heroes\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Welcome to the New Administration'",
+  "status": "verified"
+}

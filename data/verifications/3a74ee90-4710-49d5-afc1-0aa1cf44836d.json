@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:46.211238+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b637144-6c09-4dd9-82ce-ba6f0b3e2d9f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a74ee90-4710-49d5-afc1-0aa1cf44836d",
+  "input": "{\"title\": \"Rehab\", \"track_number\": 36}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 36 of '3 CD Collector's Set'",
+  "status": "verified"
+}

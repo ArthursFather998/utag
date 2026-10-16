@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:27.53199+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1329855d-76b2-4070-85b0-3030102c2d7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2729fb30-0595-4590-8a3c-d2cc452fe4d4",
+  "input": "{\"title\": \"Clueless (feat. Aly & AJ)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Clueless (feat. Aly & AJ)'",
+  "status": "verified"
+}

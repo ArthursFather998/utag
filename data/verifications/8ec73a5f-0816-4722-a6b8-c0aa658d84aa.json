@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:48.468196+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71dc79f4-362c-4f99-8cc3-6a74bf8950e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ec73a5f-0816-4722-a6b8-c0aa658d84aa",
+  "input": "{\"title\": \"Collide\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Collide'",
+  "status": "verified"
+}

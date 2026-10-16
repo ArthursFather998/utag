@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:01.041209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed62eefa-c333-44d8-9cc3-93e7e364e394",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3c4f394e-8af8-4dc8-9b50-187fffd17575",
+  "input": "{\"title\": \"Heavy\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

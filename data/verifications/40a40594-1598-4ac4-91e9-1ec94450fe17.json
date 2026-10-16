@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:13.621331+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bdfa1c36-5b34-47e3-a1f2-fd42fa4e994d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40a40594-1598-4ac4-91e9-1ec94450fe17",
+  "input": "{\"title\": \"Don't Stop Dancing\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Stop Dancing'",
+  "status": "verified"
+}

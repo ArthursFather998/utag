@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:53.899854+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "241ecaa7-99c3-4f90-a337-6eca1dfffa98",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b5f1567a-71db-4c12-af00-643a685493ec",
+  "input": "{\"title\": \"Attention\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:58.452572+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f71ac77-9e39-4743-8ba4-87adf8448352",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6a07082-c017-452c-94e6-022ecd59c1c8",
+  "input": "{\"title\": \"Song for Guy\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Love Songs'",
+  "status": "verified"
+}

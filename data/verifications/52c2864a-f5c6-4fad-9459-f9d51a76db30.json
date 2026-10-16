@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:41.781465+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53734081-08af-4d17-8d27-5b3771f1f87c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52c2864a-f5c6-4fad-9459-f9d51a76db30",
+  "input": "{\"title\": \"The Living\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Cosmic Opera: Act II'",
+  "status": "verified"
+}

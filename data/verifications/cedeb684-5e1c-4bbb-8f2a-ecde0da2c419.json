@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:36.229514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fa465b2-ecc3-400e-83a6-859151f52e4d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cedeb684-5e1c-4bbb-8f2a-ecde0da2c419",
+  "input": "{\"title\": \"Mad World\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mad World'",
+  "status": "verified"
+}

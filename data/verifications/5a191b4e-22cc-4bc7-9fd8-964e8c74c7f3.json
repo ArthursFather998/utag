@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:05.147269+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20a2f55d-c430-4f8f-bcfd-81670815adf0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5a191b4e-22cc-4bc7-9fd8-964e8c74c7f3",
+  "input": "{\"title\": \"Lucid Dreams\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

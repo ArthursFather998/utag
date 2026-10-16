@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:42.157153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fe441f2-989d-4223-9ddc-4c7fe2d990ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1347d226-5e0b-4dd9-9ec3-48e17a883f4c",
+  "input": "{\"title\": \"Love Me Harder (with Ariana Grande)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Highlights (Deluxe)'",
+  "status": "verified"
+}

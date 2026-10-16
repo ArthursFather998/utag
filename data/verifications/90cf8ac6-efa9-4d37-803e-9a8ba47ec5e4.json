@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:58.589515+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0965e4ce-53a8-4288-810a-1d687954a28c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90cf8ac6-efa9-4d37-803e-9a8ba47ec5e4",
+  "input": "{\"title\": \"witchblades\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Castles II'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:18.686828+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a5d07f0-3ee8-47c3-a34e-7d60a0d8d9c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cdb9d21-82ed-45ac-a7b7-3082f89f3b33",
+  "input": "{\"title\": \"Dust\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Hard to Imagine'",
+  "status": "verified"
+}

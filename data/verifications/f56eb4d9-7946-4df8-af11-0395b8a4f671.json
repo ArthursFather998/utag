@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:08.575257+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9726c0b-7540-4aaa-9e36-6caab7ecfd68",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f56eb4d9-7946-4df8-af11-0395b8a4f671",
+  "input": "{\"title\": \"Baby Makin' Project\", \"release_type\": \"album\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

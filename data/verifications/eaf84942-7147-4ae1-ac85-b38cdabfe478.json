@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:29.658089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e6fa90e-5066-4e7d-b372-5fa09b1b2ccf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eaf84942-7147-4ae1-ac85-b38cdabfe478",
+  "input": "{\"title\": \"I Keep My Promises\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Cosmic Opera: Act I'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:48.271538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f723dce5-363f-47d6-95d9-c4e03daeb32d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a59374b9-2f97-4096-a8f0-a6594a8d825a",
+  "input": "{\"title\": \"Humdrum and Humble\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Raoul and the Kings of Spain'",
+  "status": "verified"
+}

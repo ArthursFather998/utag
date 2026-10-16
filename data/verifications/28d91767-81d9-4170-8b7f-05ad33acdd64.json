@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:19.924541+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "57ffa0a2-39e3-4d53-b2f8-3bcb02715718",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28d91767-81d9-4170-8b7f-05ad33acdd64",
+  "input": "{\"title\": \"South Indiana (take 1)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Fleetwood Mac in Chicago'",
+  "status": "verified"
+}

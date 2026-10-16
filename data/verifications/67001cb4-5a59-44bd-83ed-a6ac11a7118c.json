@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:46.020603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66ce9242-53b6-4936-8f5a-02f80ac988b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67001cb4-5a59-44bd-83ed-a6ac11a7118c",
+  "input": "{\"title\": \"Round and Round\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Baby Makin' Project'",
+  "status": "verified"
+}

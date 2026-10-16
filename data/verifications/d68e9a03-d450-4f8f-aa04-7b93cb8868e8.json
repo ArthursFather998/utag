@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:06.60342+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7230c1e6-695b-405b-a984-6b66e94b1046",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d68e9a03-d450-4f8f-aa04-7b93cb8868e8",
+  "input": "{\"title\": \"Lifetime\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Here I Stand'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:17:36.279968+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "826e0560-9a4b-4748-bd65-d6603eb7f09a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc31307a-6cbc-4447-b0b0-41f0854ba0b6",
+  "input": "{\"title\": \"If I Had\\u2026\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Slim Shady EP'",
+  "status": "verified"
+}

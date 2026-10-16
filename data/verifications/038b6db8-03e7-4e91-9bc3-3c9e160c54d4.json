@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:44.543271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df2d91b4-3cc1-49cb-93b3-449cf5b984c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "038b6db8-03e7-4e91-9bc3-3c9e160c54d4",
+  "input": "{\"title\": \"Mojo Pin (Live)\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Jeff Buckley: Music & Photos'",
+  "status": "verified"
+}

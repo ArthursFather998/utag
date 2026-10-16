@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:49.651861+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf2ea214-697e-4e47-a0d8-89c11d001e61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "66a6c62f-6ec9-462d-8140-261daa96f50b",
+  "input": "{\"title\": \"Allow Me One More Show\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Original Fleetwood Mac'",
+  "status": "verified"
+}

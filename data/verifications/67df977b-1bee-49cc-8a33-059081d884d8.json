@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:42.430624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05f982b9-a612-424d-94d7-b3a8a16feb22",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "67df977b-1bee-49cc-8a33-059081d884d8",
+  "input": "{\"title\": \"Jupiter\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

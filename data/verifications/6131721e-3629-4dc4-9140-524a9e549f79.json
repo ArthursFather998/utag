@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:46.353145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d09594f1-0d56-42d8-810f-87f4815aa62f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6131721e-3629-4dc4-9140-524a9e549f79",
+  "input": "{\"title\": \"can we just forget each other\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'dovetail'",
+  "status": "verified"
+}

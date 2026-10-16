@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:34.063554+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75d525da-9803-4867-bc6a-2322c06abcb0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "252a3706-7ef7-44ba-a352-bb92dd0fd548",
+  "input": "{\"title\": \"Dreams \\u2013 The Collection\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: CD edition (20 tracks); LP edition has different 11-track order starting with Linger.",
+  "status": "verified"
+}

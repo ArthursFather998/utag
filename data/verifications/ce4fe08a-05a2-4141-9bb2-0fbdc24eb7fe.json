@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:48.950475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14e8ca3c-967e-4a50-8f44-33c7eb8bfcb3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce4fe08a-05a2-4141-9bb2-0fbdc24eb7fe",
+  "input": "{\"title\": \"Off and Running\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Lesley Gore's Golden Hits, Vol. 2'",
+  "status": "verified"
+}

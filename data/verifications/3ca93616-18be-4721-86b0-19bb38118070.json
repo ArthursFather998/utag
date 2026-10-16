@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:42.006687+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a9b030e5-a329-48f3-aa7b-c148bf8cd91b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ca93616-18be-4721-86b0-19bb38118070",
+  "input": "{\"title\": \"The Dino Club\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'harmonic minor'",
+  "status": "verified"
+}

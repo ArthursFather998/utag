@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:30.408195+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ccc32e90-acce-455f-8585-ed25f9d13ed0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "afc8a6d8-e2c3-4302-b370-e35cd4ec3d79",
+  "input": "{\"title\": \"Nightslayer\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:40.539209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "461b944c-60ff-4aa2-8cc4-6fdc4653b5ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a300db9c-88f2-4ce2-bc3a-0d7237cd1dc7",
+  "input": "{\"title\": \"Please Tell Her That I Said Hello\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Timeless'",
+  "status": "verified"
+}

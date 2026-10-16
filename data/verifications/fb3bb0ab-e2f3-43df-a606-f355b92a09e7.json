@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:56:54.984705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "510a736b-2b6f-465e-923a-a6be59f85824",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fb3bb0ab-e2f3-43df-a606-f355b92a09e7",
+  "input": "{\"title\": \"Lost in You\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

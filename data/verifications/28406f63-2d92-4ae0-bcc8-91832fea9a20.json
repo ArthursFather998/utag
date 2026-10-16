@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:03.461001+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a192e6a-64f9-405d-8efd-e8119807d65c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28406f63-2d92-4ae0-bcc8-91832fea9a20",
+  "input": "{\"title\": \"Lost in You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lost in You'",
+  "status": "verified"
+}

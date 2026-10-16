@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:49.495104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "881b84d4-2507-4f3a-ad53-bc3ee881c764",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b2e14b2-aa64-4a79-afa3-deb094b83bd8",
+  "input": "{\"title\": \"Chemical Love\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Ungrateful'",
+  "status": "verified"
+}

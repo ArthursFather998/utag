@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:54.335366+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45f86ac9-fa59-4557-a933-3282e9094193",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b6f212b-f514-44cc-afa0-aed16419e37e",
+  "input": "{\"title\": \"Let the Sun Shine\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Let the Sun Shine'",
+  "status": "verified"
+}

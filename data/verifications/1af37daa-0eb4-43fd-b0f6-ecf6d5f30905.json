@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:05.743885+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22513128-aa01-4e06-b5e1-516c742b4e50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1af37daa-0eb4-43fd-b0f6-ecf6d5f30905",
+  "input": "{\"title\": \"Love Yourz (Live)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Forest Hills Drive: Live from Fayetteville, NC'",
+  "status": "verified"
+}

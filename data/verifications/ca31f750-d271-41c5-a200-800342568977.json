@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:46.328931+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6db3373d-0f48-4138-9dbc-bcf7e3d06799",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca31f750-d271-41c5-a200-800342568977",
+  "input": "{\"title\": \"White Queen (As It Began)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Queen II (Deluxe Remastered Version)'",
+  "status": "verified"
+}

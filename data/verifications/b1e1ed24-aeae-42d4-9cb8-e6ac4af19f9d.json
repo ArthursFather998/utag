@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:35.829364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d3ea9d0-e440-4dff-a554-7797a71dd583",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1e1ed24-aeae-42d4-9cb8-e6ac4af19f9d",
+  "input": "{\"title\": \"Hunger on Hillside (with Bas)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Off-Season'",
+  "status": "verified"
+}

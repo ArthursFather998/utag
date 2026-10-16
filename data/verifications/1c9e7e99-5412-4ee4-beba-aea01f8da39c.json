@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:56.72501+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0405bc5-7274-46aa-9772-559fb73b31d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c9e7e99-5412-4ee4-beba-aea01f8da39c",
+  "input": "{\"title\": \"Another One Bites the Dust\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live Magic'",
+  "status": "verified"
+}

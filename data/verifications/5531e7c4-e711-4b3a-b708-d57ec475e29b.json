@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:02.580907+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "61d35a59-efd8-4ad9-860a-0dc5925c76d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5531e7c4-e711-4b3a-b708-d57ec475e29b",
+  "input": "{\"title\": \"Jigsaw Puzzle Blues\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Vintage Years'",
+  "status": "verified"
+}

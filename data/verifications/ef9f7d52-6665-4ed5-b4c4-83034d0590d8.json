@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:15.337779+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14c41f67-b365-4b88-976b-6aed93b1a9e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef9f7d52-6665-4ed5-b4c4-83034d0590d8",
+  "input": "{\"title\": \"Little Lies\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of '50 Years – Don't Stop'",
+  "status": "verified"
+}

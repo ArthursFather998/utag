@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:04.807525+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d2f6df8-3aa2-4750-b40f-11cb36971950",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a52db454-2f48-41fa-ba73-2435d4812b3b",
+  "input": "{\"title\": \"Robbery\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Death Race for Love'",
+  "status": "verified"
+}

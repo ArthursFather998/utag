@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:52.562102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0ee5437-b086-4e20-b399-ab1e4d451e31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f637fc93-e87c-4432-98c5-d186a9f246c3",
+  "input": "{\"title\": \"Look of Love\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of '20th Century Masters: The Millennium Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:13.769591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8794e2c-1d90-4ba0-bb6f-1048bf4a0d73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6aa21b8-fdb0-426f-81f1-5c6f7bcad4dc",
+  "input": "{\"title\": \"Demigods\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'PAX AM Days'",
+  "status": "verified"
+}

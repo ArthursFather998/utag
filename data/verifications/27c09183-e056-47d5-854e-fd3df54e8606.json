@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:34.490213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f17f9642-b2c1-4020-ac7c-b086da61d62c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "27c09183-e056-47d5-854e-fd3df54e8606",
+  "input": "{\"title\": \"Bally\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

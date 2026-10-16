@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:10.99968+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6480c74c-2aeb-4597-8283-3aea763f1ff8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f8cdb2b3-69d3-4484-9d29-60968a357c6e",
+  "input": "{\"title\": \"My Heart is Drowning\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:02.644568+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ceeafbb-0b36-42f5-b5a6-483f3ef9960a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "26908c1a-4365-45d0-8312-89cadc00d491",
+  "input": "{\"title\": \"Space Bound\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

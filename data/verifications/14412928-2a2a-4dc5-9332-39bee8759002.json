@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:05.432283+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b16ba4f-22a7-4967-a441-9871e0097d14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "14412928-2a2a-4dc5-9332-39bee8759002",
+  "input": "{\"title\": \"Anytime\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'From There to Here: 1989-2002'",
+  "status": "verified"
+}

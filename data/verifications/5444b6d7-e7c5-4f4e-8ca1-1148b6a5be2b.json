@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:51.986361+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b6d350f-a90d-46df-b8aa-f975a8b878d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5444b6d7-e7c5-4f4e-8ca1-1148b6a5be2b",
+  "input": "{\"title\": \"I Was Never There (with Gesaffelstein)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'The Highlights (Deluxe)'",
+  "status": "verified"
+}

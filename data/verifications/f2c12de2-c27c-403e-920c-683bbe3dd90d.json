@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:54.660179+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a19a2117-39f6-4de7-b572-ea6291a7b6dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2c12de2-c27c-403e-920c-683bbe3dd90d",
+  "input": "{\"title\": \"Tell Me All the Things You Do\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Madison Blues'",
+  "status": "verified"
+}

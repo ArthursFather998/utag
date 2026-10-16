@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Ginuwine",
+    "id": "56bf5df5-0e0d-41be-a285-9cc45213fc7b"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:31.6523+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "6eac5ba9-3ef2-4da6-9781-c03db1c320c3",
+      "phash": null,
+      "release_id": "16529108-5b48-42f6-b1ea-a37b2417aa96",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/632de553-a665-4a87-be0b-c5e0a2a14963/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "56bf5df5-0e0d-41be-a285-9cc45213fc7b",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-16T18:00:31.403175+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "16529108-5b48-42f6-b1ea-a37b2417aa96",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Pure… 90s R&B",
+    "updated_at": "2026-10-16T18:00:31.403175+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "56bf5df5-0e0d-41be-a285-9cc45213fc7b",
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:31.562898+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "97a7b86e-91b8-438f-83e0-b0225a5fd3f9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "16529108-5b48-42f6-b1ea-a37b2417aa96",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "So Anxious",
+      "track_number": null,
+      "updated_at": "2026-10-16T18:00:31.562898+00:00"
+    }
+  ],
+  "verifications": []
+}

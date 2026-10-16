@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:11.754104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d70be736-61cf-4c98-8737-c01ac808fcf6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ae473992-d17a-4b43-a68a-fc26e8d64742",
+  "input": "{\"title\": \"Te Amo Solo A Ti\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'Anthology'",
+  "status": "verified"
+}

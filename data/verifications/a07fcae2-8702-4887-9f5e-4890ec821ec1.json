@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:06.827228+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4820579-e574-4fc0-b05b-7326d9d38e78",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a07fcae2-8702-4887-9f5e-4890ec821ec1",
+  "input": "{\"title\": \"Middle of Somewhere\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Chip Chrome & the Mono-Tones'",
+  "status": "verified"
+}

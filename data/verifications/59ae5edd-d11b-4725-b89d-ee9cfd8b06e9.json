@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:28.718281+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "63866aca-be95-4c7b-b5ba-3c014cd5394e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "59ae5edd-d11b-4725-b89d-ee9cfd8b06e9",
+  "input": "{\"title\": \"The Rose of Laura Nyro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Who Believes in Angels?'",
+  "status": "verified"
+}

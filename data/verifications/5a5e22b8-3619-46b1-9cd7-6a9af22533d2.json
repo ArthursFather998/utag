@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:15.521048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7af39e08-31d7-4eb9-b2f1-615bdcafc4a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a5e22b8-3619-46b1-9cd7-6a9af22533d2",
+  "input": "{\"title\": \"Disc 2 - Wedding Bell Blues\", \"track_number\": 52}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 52 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

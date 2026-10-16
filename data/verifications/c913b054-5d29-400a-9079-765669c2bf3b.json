@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:46.945139+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96bf18bd-cd97-4176-89b0-01f576fc8726",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c913b054-5d29-400a-9079-765669c2bf3b",
+  "input": "{\"title\": \"Every Time (Jam & Lewis Disco Remix)\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'The Velvet Rope (Deluxe Edition)'",
+  "status": "verified"
+}

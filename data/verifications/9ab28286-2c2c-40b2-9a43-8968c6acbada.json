@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:20.174895+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2be8b0f-6f0f-4074-b9e7-38eb742eec6b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9ab28286-2c2c-40b2-9a43-8968c6acbada",
+  "input": "{\"title\": \"Speed Demon\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

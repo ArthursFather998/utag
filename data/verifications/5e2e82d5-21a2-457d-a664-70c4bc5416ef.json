@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:08.308554+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e956b422-0533-44a3-a423-75ffda92e2cd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5e2e82d5-21a2-457d-a664-70c4bc5416ef",
+  "input": "{\"title\": \"Gimme Love\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

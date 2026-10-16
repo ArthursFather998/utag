@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:42.503956+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "839d2070-cf3d-404d-86a3-06379145c09d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60110875-9c2c-421a-ba2d-8f9ce9007f0c",
+  "input": "{\"title\": \"(One Helluva Performer)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Long Lost'",
+  "status": "verified"
+}

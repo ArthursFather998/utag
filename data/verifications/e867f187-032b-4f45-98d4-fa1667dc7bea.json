@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:43.941301+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65e8bfee-0f1b-4c15-823a-d70d8c2194c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e867f187-032b-4f45-98d4-fa1667dc7bea",
+  "input": "{\"title\": \"Drag Me Down\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Drag Me Down'",
+  "status": "verified"
+}

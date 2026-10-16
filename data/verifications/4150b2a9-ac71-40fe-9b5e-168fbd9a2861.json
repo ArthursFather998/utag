@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:57.024538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf0b23f0-5634-4735-a397-d16330dc3781",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4150b2a9-ac71-40fe-9b5e-168fbd9a2861",
+  "input": "{\"title\": \"Zombie\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '20th Century Masters – The Millennium Collection: The Best of The Cranberries'",
+  "status": "verified"
+}

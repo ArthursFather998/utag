@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:13.206159+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f53af4c-9258-4228-92a2-50bd0bd13996",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "027d90fd-9f74-44c4-9a05-aadb62c91a6a",
+  "input": "{\"title\": \"Show You Off\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Old Boots, New Dirt'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:40.859285+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b04d6822-81a1-4538-90d6-bc5b675fd9d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbd7939c-ee9d-4da2-8470-df84fb67539d",
+  "input": "{\"title\": \"Gotta Be You - Mojam Remix\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Remixes'",
+  "status": "verified"
+}

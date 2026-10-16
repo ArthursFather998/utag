@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:17.776479+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a952ad6a-e25a-4857-9801-e57491c4a74f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "94aee511-1186-4625-a754-60613ba397c4",
+  "input": "{\"title\": \"Overdrive\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Honestly, Nevermind'",
+  "status": "verified"
+}

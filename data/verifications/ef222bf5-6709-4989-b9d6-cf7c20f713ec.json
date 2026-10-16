@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:04.580821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e1e0b72e-673c-4297-8755-e93a148e16b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef222bf5-6709-4989-b9d6-cf7c20f713ec",
+  "input": "{\"title\": \"Don't Know Where to Start\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Superhero'",
+  "status": "verified"
+}

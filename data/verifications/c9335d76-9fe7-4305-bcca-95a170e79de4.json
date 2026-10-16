@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:36.384638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cdfe8690-3612-41eb-a393-e3b2cd723387",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9335d76-9fe7-4305-bcca-95a170e79de4",
+  "input": "{\"title\": \"Patiently\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'The Essential Journey'",
+  "status": "verified"
+}

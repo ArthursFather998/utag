@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:46.807774+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d1cd2f3-c6cb-4c94-904e-2eaf33f22f89",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b275170-6a45-40a1-b449-b21c6bede966",
+  "input": "{\"title\": \"Ur\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Z'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:30.18605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6109c81b-d4b1-44a2-80f8-333fd03c89c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1413fa1f-a48c-47a1-8ed0-8167d01cc180",
+  "input": "{\"title\": \"Second Hand News\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rumours'",
+  "status": "verified"
+}

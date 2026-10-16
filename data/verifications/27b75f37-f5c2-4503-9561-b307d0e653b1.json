@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:24.439487+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b4810831-77d3-4ccc-98e1-2b1250cd97e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27b75f37-f5c2-4503-9561-b307d0e653b1",
+  "input": "{\"title\": \"World's in a Tangle\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Essential Fleetwood Mac'",
+  "status": "verified"
+}

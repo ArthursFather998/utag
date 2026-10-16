@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:54.342157+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a55bd0f-4021-47e6-a5e0-d7fa2a6b3fd2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69acffad-eec2-4900-9651-8915bf236aa4",
+  "input": "{\"title\": \"Killer Queen\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Greatest Hits in Japan'",
+  "status": "verified"
+}

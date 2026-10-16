@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:23.760708+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "373ce21f-a68e-4263-b6c3-9bf60dfb2492",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e90db75-2f01-4397-ba11-76dde354aed7",
+  "input": "{\"title\": \"Daylight (with Diplo)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Nectar'",
+  "status": "verified"
+}

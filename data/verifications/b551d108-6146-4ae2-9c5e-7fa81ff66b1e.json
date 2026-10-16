@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:03.360917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ade2c2a6-52f2-430c-989a-a17ede3fd9b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b551d108-6146-4ae2-9c5e-7fa81ff66b1e",
+  "input": "{\"title\": \"All That I'm Living For\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'The Ultimate Collection'",
+  "status": "verified"
+}

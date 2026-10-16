@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:43.045756+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0796f43-656d-4751-9b1d-c308c36e7fe2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43e5964f-a8ca-416d-941d-f80e368d3a21",
+  "input": "{\"title\": \"What If\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Human Clay'",
+  "status": "verified"
+}

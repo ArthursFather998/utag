@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:22.382902+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9678d03-b213-4b33-a845-326cd4e5c102",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "48b6db07-a5ff-4ecb-a0e8-c5b923be8534",
+  "input": "{\"title\": \"Georgia\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

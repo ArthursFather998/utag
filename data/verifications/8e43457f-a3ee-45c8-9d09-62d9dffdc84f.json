@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:54.791089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b7c66fc-e99d-44b1-acdb-710bcc69b0d4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8e43457f-a3ee-45c8-9d09-62d9dffdc84f",
+  "input": "{\"title\": \"Say My Name\", \"release_type\": \"single\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

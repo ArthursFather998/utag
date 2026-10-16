@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:18:23.512953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b123a679-0c7c-49d4-8211-8f88f995d295",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b2929e6-1e50-4a26-8cc2-dde2cc48781d",
+  "input": "{\"title\": \"Murder, Murder\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Slim Shady EP'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:56.532313+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c50e489-2605-4465-bf42-4c8a1c9b4530",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a084d71-0662-4e7c-8738-3dc592d0c32e",
+  "input": "{\"title\": \"Stay Awhile (Live)\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Time3'",
+  "status": "verified"
+}

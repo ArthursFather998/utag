@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:00.359655+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "990f928c-eaaf-4cd7-911d-875bde217d57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bce0cb04-30c6-4036-aa3b-ddbccffbde18",
+  "input": "{\"title\": \"The Working Hour (Piano Version)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Songs from the Big Chair (40th Anniversary Edition)'",
+  "status": "verified"
+}

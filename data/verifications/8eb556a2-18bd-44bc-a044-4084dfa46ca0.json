@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:37.18483+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "97a9711c-ada2-4f8e-92da-0e17bf31bb1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8eb556a2-18bd-44bc-a044-4084dfa46ca0",
+  "input": "{\"title\": \"Jetlag\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Jetlag'",
+  "status": "verified"
+}

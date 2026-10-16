@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:52.904215+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28039f09-019f-4f62-8664-fc95aa43750c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7dcecb2d-e2b2-4de9-ba7e-4a8e28a36edb",
+  "input": "{\"title\": \"Never Eat, Never Sleep\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Castles II'",
+  "status": "verified"
+}

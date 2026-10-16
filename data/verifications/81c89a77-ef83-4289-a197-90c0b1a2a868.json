@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:15.094979+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a59b2d2f-8b47-42f2-af1f-5be833721f84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81c89a77-ef83-4289-a197-90c0b1a2a868",
+  "input": "{\"title\": \"Just a Little While\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Just a Little While'",
+  "status": "verified"
+}

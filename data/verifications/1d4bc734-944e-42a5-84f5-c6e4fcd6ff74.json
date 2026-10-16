@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:41.450375+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc616b44-ad51-4b1c-98fc-310cbe3c7d55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d4bc734-944e-42a5-84f5-c6e4fcd6ff74",
+  "input": "{\"title\": \"Just Lose It\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Curtain Call: The Hits'",
+  "status": "verified"
+}

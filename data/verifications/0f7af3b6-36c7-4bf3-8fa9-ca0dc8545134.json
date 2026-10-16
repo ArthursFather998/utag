@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:47.373031+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0071126-2c02-4369-9fa7-98b44849b7a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f7af3b6-36c7-4bf3-8fa9-ca0dc8545134",
+  "input": "{\"title\": \"Love in Store\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love in Store'",
+  "status": "verified"
+}

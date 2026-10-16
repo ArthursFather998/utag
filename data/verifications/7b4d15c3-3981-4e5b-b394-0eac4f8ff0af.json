@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:07.490947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc33ebea-3c83-4b9b-90ea-72103a32997b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b4d15c3-3981-4e5b-b394-0eac4f8ff0af",
+  "input": "{\"title\": \"Under Pressure\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Jewels'",
+  "status": "verified"
+}

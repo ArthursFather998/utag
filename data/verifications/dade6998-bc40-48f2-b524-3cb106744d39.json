@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:12.468392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6ec49a4-d9b1-46b6-a259-6aa8e3e489ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dade6998-bc40-48f2-b524-3cb106744d39",
+  "input": "{\"title\": \"Virginia\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'No Silent Monks'",
+  "status": "verified"
+}

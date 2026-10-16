@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:28.027694+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4e5221c-c532-4fbf-be02-62db2502b139",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8184620a-c45c-4d7d-83e8-ba48ba568ccc",
+  "input": "{\"title\": \"I Could Fall in Love\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'All My Hits: Todos Mis Éxitos'",
+  "status": "verified"
+}

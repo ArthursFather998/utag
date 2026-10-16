@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:59.185464+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39599eca-0849-47bf-9287-f9b3c5d08de3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "beb32b93-8d84-4ab7-9344-ab9079e5bb89",
+  "input": "{\"title\": \"Intro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In Concert'",
+  "status": "verified"
+}

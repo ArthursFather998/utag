@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:17.134513+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7959180-d04a-4e0d-8841-7377df1bc807",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f3c65d4-c720-4aac-86a3-1e268ad8bcdc",
+  "input": "{\"title\": \"Tirano\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tirano'",
+  "status": "verified"
+}

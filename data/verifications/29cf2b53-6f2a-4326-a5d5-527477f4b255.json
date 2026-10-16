@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:22.979201+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0c6e74c-a01f-4dcd-bdcf-f499445f7cf8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29cf2b53-6f2a-4326-a5d5-527477f4b255",
+  "input": "{\"title\": \"With Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'With Me'",
+  "status": "verified"
+}

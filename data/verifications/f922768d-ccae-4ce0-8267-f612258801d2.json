@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:18.675471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f3b2099-ac16-446e-b98e-97e17b47463b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f922768d-ccae-4ce0-8267-f612258801d2",
+  "input": "{\"title\": \"Good Girl Gone Bad\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Good Girl Gone Bad'",
+  "status": "verified"
+}

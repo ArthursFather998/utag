@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:21.280814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b9b0f57a-c52f-44bf-8535-dfd471854564",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4824275f-939a-48e8-a6d5-bba0eb0ae1bb",
+  "input": "{\"title\": \"Racing to her\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'All Original Parts: Volume 1'",
+  "status": "verified"
+}

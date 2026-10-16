@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:07.552021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19b9042b-97be-4525-b4d1-26fe37181b95",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8f10aff-ab3c-4f10-8725-868ca900cff7",
+  "input": "{\"title\": \"Arrow\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Magic Hour'",
+  "status": "verified"
+}

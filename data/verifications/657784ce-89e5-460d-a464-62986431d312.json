@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:50.317622+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba661883-f225-4094-9127-2bade1b7e2f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "657784ce-89e5-460d-a464-62986431d312",
+  "input": "{\"title\": \"Ends of the Earth\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ends of the Earth'",
+  "status": "verified"
+}

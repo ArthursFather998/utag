@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:25.764853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65eb4724-23c0-4fa4-9e1c-ec023490f450",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "434aaa51-136a-4636-bdb7-7f4d1ce97d30",
+  "input": "{\"title\": \"We Will Rock You (Fast)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We Will Rock You (Fast)'",
+  "status": "verified"
+}

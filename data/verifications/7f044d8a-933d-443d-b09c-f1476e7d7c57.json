@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:30.704871+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e73fb789-70d7-40f9-a897-b88a369e3536",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f044d8a-933d-443d-b09c-f1476e7d7c57",
+  "input": "{\"title\": \"My All (Morales My Club Mix)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Remixes'",
+  "status": "verified"
+}

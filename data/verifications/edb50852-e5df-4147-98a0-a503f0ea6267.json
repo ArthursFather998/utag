@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:19.343415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d7d34178-e78e-47cb-aecd-7683ce9def4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "edb50852-e5df-4147-98a0-a503f0ea6267",
+  "input": "{\"title\": \"That Sea, The Gambler\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Gregory Alan Isakov with the Colorado Symphony'",
+  "status": "verified"
+}

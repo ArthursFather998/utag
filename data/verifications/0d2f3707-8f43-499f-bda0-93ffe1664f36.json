@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:27.640814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "300602e6-c6f8-4f50-8889-52253ec2ad77",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d2f3707-8f43-499f-bda0-93ffe1664f36",
+  "input": "{\"title\": \"Word to the Mutha!\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Word to the Mutha!'",
+  "status": "verified"
+}

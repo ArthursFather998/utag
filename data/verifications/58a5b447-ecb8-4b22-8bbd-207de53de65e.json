@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:12.307899+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16422233-dde7-44a2-966e-1cbfd0b3a7cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "58a5b447-ecb8-4b22-8bbd-207de53de65e",
+  "input": "{\"title\": \"Outro\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'Live at SoFi Stadium'",
+  "status": "verified"
+}

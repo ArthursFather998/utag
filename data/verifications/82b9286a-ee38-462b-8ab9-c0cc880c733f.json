@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:34.325981+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b785ecfc-2759-447d-b911-e0ad6f7f225c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82b9286a-ee38-462b-8ab9-c0cc880c733f",
+  "input": "{\"title\": \"New Brain\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Smile 2: The Skye Riley EP'",
+  "status": "verified"
+}

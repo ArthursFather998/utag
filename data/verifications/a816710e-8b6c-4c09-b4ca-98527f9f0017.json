@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:39.409722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1854dec5-8f9f-405c-a0dd-df6fb4d41ec3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a816710e-8b6c-4c09-b4ca-98527f9f0017",
+  "input": "{\"title\": \"Crazy Little Thing Called Love\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Queen Forever'",
+  "status": "verified"
+}

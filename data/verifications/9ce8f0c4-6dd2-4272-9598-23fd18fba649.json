@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:50.431745+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "18c106eb-9377-4eed-af3c-c328b2306972",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ce8f0c4-6dd2-4272-9598-23fd18fba649",
+  "input": "{\"title\": \"Mojo Pin\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live at Cabaret Metro, Chicago, IL, May 13, 1995'",
+  "status": "verified"
+}

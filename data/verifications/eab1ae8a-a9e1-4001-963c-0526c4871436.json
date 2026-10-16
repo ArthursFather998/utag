@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:11.927618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f14dea72-8f63-451a-99b9-8b6fa420f0cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eab1ae8a-a9e1-4001-963c-0526c4871436",
+  "input": "{\"title\": \"Girl\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Playlist: The Very Best of Destiny's Child'",
+  "status": "verified"
+}

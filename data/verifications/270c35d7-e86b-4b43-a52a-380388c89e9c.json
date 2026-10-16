@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:23.090088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d840bfeb-1bb5-496b-80f3-682b8d6f5c2b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "270c35d7-e86b-4b43-a52a-380388c89e9c",
+  "input": "{\"title\": \"Mad\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

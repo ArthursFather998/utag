@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:41.018941+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c2313ae6-272e-4829-b8af-f57f7eb42bbf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "150a0d05-9763-4a3e-9038-dd49daf1ffff",
+  "input": "{\"title\": \"Bring Me to Life\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

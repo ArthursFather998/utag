@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:10.771147+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7076020b-4184-44cb-bb34-468459d6a361",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0684ef18-418a-4770-8abd-755c3e55bc26",
+  "input": "{\"title\": \"Natalie\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Unorthodox Jukebox (Deluxe Edition)'",
+  "status": "verified"
+}

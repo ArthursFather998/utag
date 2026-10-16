@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:23.280153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c8fa87a-90a7-41b1-80f8-045d25c73418",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "68783697-6e08-4b46-ae88-f904a5d1a0e8",
+  "input": "{\"title\": \"Bad Honey\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Swag II'",
+  "status": "verified"
+}

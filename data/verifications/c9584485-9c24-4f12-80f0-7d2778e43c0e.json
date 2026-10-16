@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:48.431939+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9756810e-d4ae-44c8-b536-0b9a419b5710",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c9584485-9c24-4f12-80f0-7d2778e43c0e",
+  "input": "{\"title\": \"The Diary of Alicia Keys\", \"release_type\": \"album\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

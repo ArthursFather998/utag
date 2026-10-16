@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:48.023285+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98f3dd1e-e14c-4503-b470-2e1b567dd426",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cde0e01e-95d5-4562-9971-d5b98f2437d2",
+  "input": "{\"title\": \"My Heart Is Broken\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Evanescence'",
+  "status": "verified"
+}

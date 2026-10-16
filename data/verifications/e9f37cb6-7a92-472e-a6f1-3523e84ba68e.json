@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:05.351759+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a92ba443-d36c-475e-b7aa-60ff1e3428eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9f37cb6-7a92-472e-a6f1-3523e84ba68e",
+  "input": "{\"title\": \"Missing My Baby\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Lo Mejor de...Selena'",
+  "status": "verified"
+}

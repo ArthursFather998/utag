@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:37.283303+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b656f40b-96ac-44e3-b24e-e26b539d9b73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e993880-ae88-4c8e-92d1-5169cdac30fd",
+  "input": "{\"title\": \"Born Like This\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Three Days Grace'",
+  "status": "verified"
+}

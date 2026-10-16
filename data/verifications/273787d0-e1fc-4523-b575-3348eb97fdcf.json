@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:51.38444+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af515924-3895-42ce-a608-21e09ba19d5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "273787d0-e1fc-4523-b575-3348eb97fdcf",
+  "input": "{\"title\": \"Whisper\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Sound Asleep'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:59.29327+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00dd5a06-3acd-47de-848b-1bb397a99806",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdc091c9-42b3-446e-9466-e12b7591569c",
+  "input": "{\"title\": \"Take a Bow\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of '3 CD Collector's Set'",
+  "status": "verified"
+}

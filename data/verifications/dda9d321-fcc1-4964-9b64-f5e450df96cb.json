@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:42.552761+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d7185d9-5e72-443a-9270-e1c650d719a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dda9d321-fcc1-4964-9b64-f5e450df96cb",
+  "input": "{\"title\": \"Tic Toc\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Virgo Sun'",
+  "status": "verified"
+}

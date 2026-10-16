@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:22.295637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4f2f39a-82d4-48fc-bac2-e2108a1a9f55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84871cf3-3634-4fea-b3ca-5e05343d768a",
+  "input": "{\"title\": \"take me out\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'i wish i was pretty'",
+  "status": "verified"
+}

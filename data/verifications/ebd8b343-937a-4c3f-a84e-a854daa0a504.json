@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:21.401748+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed9e2ced-6c47-4e2c-a838-a9f6caeba297",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebd8b343-937a-4c3f-a84e-a854daa0a504",
+  "input": "{\"title\": \"In The Still Of The Nite\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Fleetwoods Sing the Best Goodies of the Oldies'",
+  "status": "verified"
+}

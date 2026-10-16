@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:07.29831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c36974d-b83b-48bb-84cd-d1d8109a7dd2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "48a81678-c33c-4d0d-ba59-d9a2e7d27737",
+  "input": "{\"title\": \"Dance with Me\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

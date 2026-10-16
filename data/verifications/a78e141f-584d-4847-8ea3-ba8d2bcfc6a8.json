@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:09.634018+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2311b2a1-8551-481e-88c4-65687f176146",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a78e141f-584d-4847-8ea3-ba8d2bcfc6a8",
+  "input": "{\"title\": \"Angel Tree\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Regimental Sgt. Zippo'",
+  "status": "verified"
+}

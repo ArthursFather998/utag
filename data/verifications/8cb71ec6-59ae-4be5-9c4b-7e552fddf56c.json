@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:51.886125+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51c90ac2-7a57-4e7f-b7ae-4573d5ad69f7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8cb71ec6-59ae-4be5-9c4b-7e552fddf56c",
+  "input": "{\"title\": \"Breathe\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

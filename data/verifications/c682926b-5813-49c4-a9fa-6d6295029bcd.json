@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:12.858935+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c1c4f69f-9855-4aeb-be74-edd8289cdbef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c682926b-5813-49c4-a9fa-6d6295029bcd",
+  "input": "{\"title\": \"New Day\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Inolvidable Buenos Aires Argentina (Live from Movistar Arena Buenos Aires Argentina)'",
+  "status": "verified"
+}

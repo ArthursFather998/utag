@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:29.161467+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81d25464-84a9-49d8-a36a-655dafa21ab7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e47196ce-19a2-432c-8bc6-637d2b22c96f",
+  "input": "{\"title\": \"Quiero\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Mis Primeros Éxitos'",
+  "status": "verified"
+}

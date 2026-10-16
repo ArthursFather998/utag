@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:12.116578+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5924a0d-19f4-4224-a23d-9d5346122a58",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3385330e-4005-4eb9-99e9-0c3bc15737dc",
+  "input": "{\"title\": \"Don't Throw Away My Love\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Anthology'",
+  "status": "verified"
+}

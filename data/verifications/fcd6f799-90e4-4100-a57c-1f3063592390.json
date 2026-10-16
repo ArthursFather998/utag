@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:22.481378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e912046f-77c6-4aa2-94fc-da1348f22629",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fcd6f799-90e4-4100-a57c-1f3063592390",
+  "input": "{\"title\": \"Your Best American Girl\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

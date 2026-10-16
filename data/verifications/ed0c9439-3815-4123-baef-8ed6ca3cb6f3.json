@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:25.199771+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d85400b-ba01-4468-87aa-4ae8cb9cf6a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed0c9439-3815-4123-baef-8ed6ca3cb6f3",
+  "input": "{\"title\": \"Modern Times Rock 'n' Roll\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Live at the Rainbow '74'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:26.749193+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88cc802e-b56e-4621-8934-9d8149d679cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5ee63de-d55c-4df1-8704-e312f19829c9",
+  "input": "{\"title\": \"Lily of the Valley\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Queen Forever'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:29.752106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d260779b-dcf9-46a8-a01f-03e8f3e51dcd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "068cc094-8592-4715-9707-3141cae76e1c",
+  "input": "{\"title\": \"As I Am (feat. Khalid)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Justice (Triple Chucks Deluxe)'",
+  "status": "verified"
+}

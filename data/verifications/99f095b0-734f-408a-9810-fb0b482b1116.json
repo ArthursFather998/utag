@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:30.532958+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b70d702-f865-40d7-9bf4-02a71bc681f2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "99f095b0-734f-408a-9810-fb0b482b1116",
+  "input": "{\"title\": \"Play This Song\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

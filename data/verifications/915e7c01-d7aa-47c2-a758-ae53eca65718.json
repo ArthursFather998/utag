@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:43.54803+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "768cc660-dd44-4878-9aaa-7fed10d254ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "915e7c01-d7aa-47c2-a758-ae53eca65718",
+  "input": "{\"title\": \"Calling You\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'You and I'",
+  "status": "verified"
+}

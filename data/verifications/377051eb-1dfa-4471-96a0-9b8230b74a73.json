@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:09.115009+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "823a0cc7-d5fd-42af-be56-ce16af2db8c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "377051eb-1dfa-4471-96a0-9b8230b74a73",
+  "input": "{\"title\": \"Ghetto Story, Chapter 2\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Verzuz: Alicia Keys x John Legend (Live)'",
+  "status": "verified"
+}

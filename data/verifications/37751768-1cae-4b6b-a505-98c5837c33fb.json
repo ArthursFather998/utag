@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:54.470755+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2f01abe-43e7-462d-b09c-42c1537259f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37751768-1cae-4b6b-a505-98c5837c33fb",
+  "input": "{\"title\": \"Cold Case Love\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Rated R'",
+  "status": "verified"
+}

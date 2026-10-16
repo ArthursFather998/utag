@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:02.040865+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9697a4d9-a3a4-4524-94e9-6c93ac68ad3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "544fb33f-8b28-4275-a718-a1537f3fb8cd",
+  "input": "{\"title\": \"On to the Next One\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'This War Is Ours (Deluxe Edition)'",
+  "status": "verified"
+}

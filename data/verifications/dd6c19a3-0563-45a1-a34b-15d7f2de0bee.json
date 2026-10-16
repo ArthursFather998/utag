@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:45.106019+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01dcb1f9-d2a9-4f56-9f5d-4e05a9e2a207",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dd6c19a3-0563-45a1-a34b-15d7f2de0bee",
+  "input": "{\"title\": \"Jesus I Do\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

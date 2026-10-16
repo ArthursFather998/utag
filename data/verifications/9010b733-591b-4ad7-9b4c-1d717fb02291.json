@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:00.511197+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd7cf25e-bf39-4d75-9ccc-23ec89f22c61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9010b733-591b-4ad7-9b4c-1d717fb02291",
+  "input": "{\"title\": \"Tus Desprecios\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live! The Last Concert'",
+  "status": "verified"
+}

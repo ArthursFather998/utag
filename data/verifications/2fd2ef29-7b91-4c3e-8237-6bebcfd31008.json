@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:43.523593+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "668b2cdc-48f0-458b-ac16-05fa2008ffc2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2fd2ef29-7b91-4c3e-8237-6bebcfd31008",
+  "input": "{\"title\": \"In the Afternoon\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Emmerdale'",
+  "status": "verified"
+}

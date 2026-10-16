@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:32.73266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59a7b6d8-3e7b-468f-84ef-e4aab7e2b205",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0d2c8bd-1a24-494a-9887-42f7257b3f13",
+  "input": "{\"title\": \"Fancy\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Amala'",
+  "status": "verified"
+}

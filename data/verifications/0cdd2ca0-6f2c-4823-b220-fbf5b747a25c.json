@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:08.10075+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21d5b777-7b55-4b76-a007-52553edff8af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0cdd2ca0-6f2c-4823-b220-fbf5b747a25c",
+  "input": "{\"title\": \"You Should Be Mine (Don't Waste Your Time)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Anytime'",
+  "status": "verified"
+}

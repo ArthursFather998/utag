@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:03.788443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "156cba9e-052d-401c-9598-1d9769a4c739",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0d026e3-6145-40f9-b545-06d4bfc7da83",
+  "input": "{\"title\": \"Born to Die\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Lana Del Rey'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:10.151778+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d18ed333-95fa-455a-804a-17a6c70b71f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40f8181a-68bc-42fd-9f3e-971a07f36467",
+  "input": "{\"title\": \"If You Were There, Beware\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'At the Apollo'",
+  "status": "verified"
+}

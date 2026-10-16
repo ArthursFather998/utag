@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:01.433827+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a49a0ac7-b608-45d6-bf13-33b0d00aa486",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "44a5125d-f012-4041-9fe7-de95c49a01f0",
+  "input": "{\"title\": \"Bad Time\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

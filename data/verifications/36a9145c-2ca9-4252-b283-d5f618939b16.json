@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:11.002343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8642aa7b-a2f4-408a-98aa-0bde8cd6cee3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36a9145c-2ca9-4252-b283-d5f618939b16",
+  "input": "{\"title\": \"Jump\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Unapologetic'",
+  "status": "verified"
+}

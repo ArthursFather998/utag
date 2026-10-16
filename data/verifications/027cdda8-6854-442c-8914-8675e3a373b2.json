@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:12.88187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49e8d353-4b7e-4988-9ecf-0c4745b28dd5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "027cdda8-6854-442c-8914-8675e3a373b2",
+  "input": "{\"title\": \"Love Life\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Scarlet 2 Claude'",
+  "status": "verified"
+}

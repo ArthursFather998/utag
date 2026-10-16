@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:26.031454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10792c0d-7c5e-4c0d-b9da-fd3fd511c1bd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "08b2dc13-ddd7-4c11-acdf-300298b044d7",
+  "input": "{\"title\": \"Happy\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

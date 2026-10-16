@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:00.059296+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70aac213-ae2f-46f6-971f-ad6ae336f142",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "11ff4aa7-ea0b-4a4c-834a-e27f59f4fd87",
+  "input": "{\"title\": \"FEVER\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'THE RUSH'",
+  "status": "verified"
+}

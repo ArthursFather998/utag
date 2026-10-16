@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:14.303794+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=fix_release conf=medium -> no write",
+    "verdict": "fix_release"
+  },
+  "entity_id": "50859b9a-594a-41c9-a39b-4c087e1ce795",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "medium"
+  },
+  "id": "4def59a4-266c-4d7a-a336-af717f7a69fe",
+  "input": {
+    "artist": "The Kid LAROI",
+    "release": "THE FIRST TIME",
+    "title": "NIGHTS LIKE THIS PT 2"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "'Nights Like This Pt 2' appears only as a deluxe-edition bonus track (deluxe released Aug 2024), not on the standard 2023 edition.",
+  "status": "needs_review"
+}

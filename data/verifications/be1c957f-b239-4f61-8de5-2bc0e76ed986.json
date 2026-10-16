@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:12.586922+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fd0e556-503d-418c-9a9f-b4073beb57f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be1c957f-b239-4f61-8de5-2bc0e76ed986",
+  "input": "{\"title\": \"Kamikaze\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Kamikaze'",
+  "status": "verified"
+}

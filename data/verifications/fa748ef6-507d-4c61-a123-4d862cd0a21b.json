@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:58.964791+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd679c21-dcd4-451d-8c7b-2c55ac89adeb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa748ef6-507d-4c61-a123-4d862cd0a21b",
+  "input": "{\"title\": \"Love\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Destiny Fulfilled'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:08.68808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1700af3-5276-42da-9953-dd609e80a9e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b369ec77-37cb-4c8b-b024-ec13bb40bcbc",
+  "input": "{\"title\": \"Ivy\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Subliming'",
+  "status": "verified"
+}

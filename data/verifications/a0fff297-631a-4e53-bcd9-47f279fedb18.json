@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:25.699626+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff286ffd-1cad-463d-8542-fe2c604bb97c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0fff297-631a-4e53-bcd9-47f279fedb18",
+  "input": "{\"title\": \"We Might as Well Be Strangers\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live Recordings 2004'",
+  "status": "verified"
+}

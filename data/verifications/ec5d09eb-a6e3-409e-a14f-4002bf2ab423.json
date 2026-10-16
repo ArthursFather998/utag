@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:35.314026+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7cac9ba-21a7-407b-890a-1152b61e3015",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec5d09eb-a6e3-409e-a14f-4002bf2ab423",
+  "input": "{\"title\": \"Guts Over Fear\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Guts Over Fear'",
+  "status": "verified"
+}

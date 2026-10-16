@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:46.271658+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f29f107e-46a2-407c-a8fd-faf235fb7fcb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ef57be68-b7f5-4a37-b87a-9e7ec0b6cac6",
+  "input": "{\"title\": \"Nasty Girl\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

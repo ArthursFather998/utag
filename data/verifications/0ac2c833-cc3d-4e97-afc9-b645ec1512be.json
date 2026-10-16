@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:27.029753+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c751d45d-810c-4a6a-a068-16b4bda12763",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ac2c833-cc3d-4e97-afc9-b645ec1512be",
+  "input": "{\"title\": \"Who's Kissing You Tonight\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Relentless'",
+  "status": "verified"
+}

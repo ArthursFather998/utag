@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:43.40505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0fa5ebfc-b8a8-415d-85b7-943b5a46ff3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c27301a-d302-46ff-93b1-45ed2919c547",
+  "input": "{\"title\": \"Do You Know\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Behind the Mask'",
+  "status": "verified"
+}

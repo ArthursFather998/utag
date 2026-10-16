@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:06.998587+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0f94e8b-495c-4b17-b5ca-e9ca0ae1ae3c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e5801cb-1d1e-4b56-9fa6-15982a436fb5",
+  "input": "{\"title\": \"We Know We're in Love\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'California Nights with Bonus Tracks'",
+  "status": "verified"
+}

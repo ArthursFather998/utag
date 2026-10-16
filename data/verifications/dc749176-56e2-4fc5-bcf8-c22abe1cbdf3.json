@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:16:36.783227+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8fbddb1d-a0f6-4eb1-a629-982d81e72e8a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc749176-56e2-4fc5-bcf8-c22abe1cbdf3",
+  "input": "{\"title\": \"The Element of Freedom (Intro)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Element of Freedom'",
+  "status": "verified"
+}

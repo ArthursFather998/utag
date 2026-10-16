@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:15.216172+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "95e5389e-a995-4081-96d8-8d85b5c1e0f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a810857-f607-4599-a31a-e61f8bcbeba2",
+  "input": "{\"title\": \"The Problem With Your Daughter\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Mighty + Into the Sun'",
+  "status": "verified"
+}

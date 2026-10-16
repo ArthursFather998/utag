@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:35.640373+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "109886a7-56a4-407c-9c7d-9f6c0ab26a14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38a597fb-9af3-48d9-806f-afd179ee4edf",
+  "input": "{\"title\": \"Son and Daughter\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'On Air'",
+  "status": "verified"
+}

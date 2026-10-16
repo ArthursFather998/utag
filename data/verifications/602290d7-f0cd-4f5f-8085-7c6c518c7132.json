@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:32.628594+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c610f70-98e8-4773-b0d0-78e784c3f116",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "602290d7-f0cd-4f5f-8085-7c6c518c7132",
+  "input": "{\"title\": \"Dancing in the Courthouse\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Sunburn'",
+  "status": "verified"
+}

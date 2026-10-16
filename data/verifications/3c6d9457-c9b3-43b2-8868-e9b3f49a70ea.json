@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:35.823876+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ea917d2-3947-4805-b13f-fb728fe684cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c6d9457-c9b3-43b2-8868-e9b3f49a70ea",
+  "input": "{\"title\": \"Rolling Stone\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Wasteland'",
+  "status": "verified"
+}

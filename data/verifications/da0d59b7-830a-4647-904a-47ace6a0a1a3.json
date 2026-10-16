@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:44.320323+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "95650a1c-9cf5-46ef-b4f6-66969a70935a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "da0d59b7-830a-4647-904a-47ace6a0a1a3",
+  "input": "{\"title\": \"Spin Bout U\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Her Loss'",
+  "status": "verified"
+}

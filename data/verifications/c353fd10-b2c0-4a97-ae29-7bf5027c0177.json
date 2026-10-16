@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:41.13072+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c74924ee-e7c1-460e-ba41-cc0cf3219799",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c353fd10-b2c0-4a97-ae29-7bf5027c0177",
+  "input": "{\"title\": \"Rain Man\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Encore'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:38.567587+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d9c49ab-a770-4bbd-8785-aba30e8224c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95d7a1dc-1802-4ccc-837f-f51d985b188c",
+  "input": "{\"title\": \"Go Ahead\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'As I Am: The Super Edition'",
+  "status": "verified"
+}

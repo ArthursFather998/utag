@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:00.458875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df9dcae9-a2bf-4207-9680-9e1466c294a1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8a803538-f443-4470-b21b-750b659854ee",
+  "input": "{\"title\": \"I Am Free\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

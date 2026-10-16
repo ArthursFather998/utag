@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:57.463916+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8a4a4e5-1553-4886-8ca0-f92da1c8381b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05dcc002-b03f-44c7-9c98-e3d9b64842b1",
+  "input": "{\"title\": \"I'm Gonna Leave You\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Look into the Future'",
+  "status": "verified"
+}

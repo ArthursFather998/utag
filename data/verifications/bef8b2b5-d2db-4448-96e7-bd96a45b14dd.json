@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:20:11.506031+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "694007ea-e79f-4589-a23c-9c26c2a9081f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bef8b2b5-d2db-4448-96e7-bd96a45b14dd",
+  "input": "{\"title\": \"Anywhere but Home\", \"release_type\": \"album\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

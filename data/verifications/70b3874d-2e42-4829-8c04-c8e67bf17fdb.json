@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:59.720084+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81f5e308-3e00-4382-a7e9-5d6414dcc763",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "70b3874d-2e42-4829-8c04-c8e67bf17fdb",
+  "input": "{\"title\": \"Grace\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live from King Theater, Seattle, WA, May 7, 1995'",
+  "status": "verified"
+}

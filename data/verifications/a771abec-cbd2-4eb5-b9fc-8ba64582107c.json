@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:18.037308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b908ac05-9049-46f3-8ba0-130078640fc8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a771abec-cbd2-4eb5-b9fc-8ba64582107c",
+  "input": "{\"title\": \"Virgo Sun\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

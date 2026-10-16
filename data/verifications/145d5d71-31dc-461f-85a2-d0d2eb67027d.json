@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:20.334291+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b77a1f60-4b16-4e70-bfd8-564051ca188e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "145d5d71-31dc-461f-85a2-d0d2eb67027d",
+  "input": "{\"title\": \"Venus\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Eclipse'",
+  "status": "verified"
+}

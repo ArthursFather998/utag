@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:00.868014+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "647c23af-2445-4da4-adec-375c09e475ac",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "98368d11-a93b-4cf3-9a14-925aaddeb40a",
+  "input": "{\"title\": \"Ctrl\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

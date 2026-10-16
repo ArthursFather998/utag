@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:41.128901+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2acfd0e5-e1de-43e6-a16c-629bb35ee97a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81c8042c-28b8-4d07-ba0d-1c3d032b9e29",
+  "input": "{\"title\": \"Amityville\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

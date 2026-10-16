@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:55.428854+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4fdd3d4b-1140-4375-aebb-9ff176ed44f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2429edb8-ad36-44a5-b7f5-ae5448610393",
+  "input": "{\"title\": \"History\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Made in the A.M.'",
+  "status": "verified"
+}

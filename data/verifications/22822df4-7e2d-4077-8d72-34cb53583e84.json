@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:52.713689+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b96fcf3-0ae3-4e09-9e72-72bf42ac3d38",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22822df4-7e2d-4077-8d72-34cb53583e84",
+  "input": "{\"title\": \"Velvet Rope\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Velvet Rope (Deluxe Edition)'",
+  "status": "verified"
+}

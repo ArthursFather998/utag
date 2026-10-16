@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:11.465943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc652fb5-fd9a-43ca-b73a-1e68ef946dbc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f72db37-f7ee-4d8e-9e0b-834d231c0c9b",
+  "input": "{\"title\": \"Everybody Ain't Shit\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'D-Day: A Gangsta Grillz Mixtape'",
+  "status": "verified"
+}

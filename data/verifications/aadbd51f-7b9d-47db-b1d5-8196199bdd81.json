@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:24.16386+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "9e7cb451-a9bf-4697-88f7-14c07a2adb30",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "aadbd51f-7b9d-47db-b1d5-8196199bdd81",
+  "input": {
+    "artist": "Drake",
+    "release": "ICEMAN",
+    "title": "Janice STFU"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "'Janice STFU' is track 4 on Drake's real album ICEMAN (released May 15, 2026, OVO/Republic), confirmed by Qobuz's official album listing. It was also a 2026 MTV VMA Best Hip-Hop nominee and spent 19 weeks at No. 1 on Billboard's Hot Rap Songs chart. | sources: https://www.qobuz.com/gb-en/album/iceman-drake/ll8wq0gm0j36a, https://people.com/mtv-vmas-2026-winners-list-12135520",
+  "status": "verified"
+}

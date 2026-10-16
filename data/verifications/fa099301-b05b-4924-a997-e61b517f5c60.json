@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:23.41712+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c2b2dff-bcc7-474a-8c58-364a0d77fb98",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa099301-b05b-4924-a997-e61b517f5c60",
+  "input": "{\"title\": \"Where Can I Go\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Magic Colors: The Lost Album'",
+  "status": "verified"
+}

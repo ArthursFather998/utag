@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:34.52097+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d507faa4-ece6-4b37-b9bd-5c9068beb4a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27c651c4-dd05-48a4-980f-eb6784f813e3",
+  "input": "{\"title\": \"Demons\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Scarlet'",
+  "status": "verified"
+}

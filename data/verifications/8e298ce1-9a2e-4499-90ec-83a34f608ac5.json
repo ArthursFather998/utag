@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:10.478512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ade0ffed-27e2-4713-8f84-6cb37aceee67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e298ce1-9a2e-4499-90ec-83a34f608ac5",
+  "input": "{\"title\": \"Dead on Time\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Jazz'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:14.131315+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e0bc012-1d8c-43c1-a35b-1961bfcfdaa9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "09ded69f-972b-4f9c-b4e0-6b1a7dbe63cb",
+  "input": "{\"title\": \"It's My Party: The Mercury Anthology\", \"release_type\": \"album\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

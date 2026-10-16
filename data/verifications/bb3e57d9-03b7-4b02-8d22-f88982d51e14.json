@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:09.483895+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e4c088f-bc87-4341-80a7-e52f5fcbfb49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb3e57d9-03b7-4b02-8d22-f88982d51e14",
+  "input": "{\"title\": \"Dirt\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dirt'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:26:26.008875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98c60a41-dc22-47cf-a772-fbb1d82771f5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7f42998b-3fbf-489c-b074-f3fa63c8e413",
+  "input": "{\"title\": \"Somewhere Only We Know\", \"release_type\": \"single\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

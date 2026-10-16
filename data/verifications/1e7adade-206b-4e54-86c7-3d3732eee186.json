@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:50.703043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6edf66ca-e11e-4a7d-9d0b-176344ef8557",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e7adade-206b-4e54-86c7-3d3732eee186",
+  "input": "{\"title\": \"I Constantly Thank God for Esteban (Live)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of '...Live in Chicago'",
+  "status": "verified"
+}

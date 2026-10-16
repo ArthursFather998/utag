@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:54.804753+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "557dcbb7-ae38-4f0b-9ccb-4685c8496469",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20445b26-1ac6-4666-9d5e-d06e3b7ad092",
+  "input": "{\"title\": \"Salvation\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Salvation'",
+  "status": "verified"
+}

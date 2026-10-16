@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:50.85865+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff79a12e-eadb-451b-aa9c-924516f29ba9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e1f252a-dc91-4bb7-ad97-1b7a88ed020a",
+  "input": "{\"title\": \"Cockiness (Love It)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cockiness (Love It)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:32.993008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25bd2c7d-536f-42d3-b319-54f0e92f7fdb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95ba2b9a-5781-4c2a-be9e-12b59e522f76",
+  "input": "{\"title\": \"Susie (Dramas)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Honky Château'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:25.977717+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "25082ae8-c2db-46a1-9a96-e3c8e58da6cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8509e7e-3c92-4904-aeb3-43611e688ca6",
+  "input": "{\"title\": \"Our Time\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Virgo Sun'",
+  "status": "verified"
+}

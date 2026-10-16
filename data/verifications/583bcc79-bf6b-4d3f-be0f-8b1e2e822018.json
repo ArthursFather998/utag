@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:58.765271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "519655f9-5e13-432f-9e5f-d8c22755365c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "583bcc79-bf6b-4d3f-be0f-8b1e2e822018",
+  "input": "{\"title\": \"Enamorada de Ti\", \"release_type\": \"album\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

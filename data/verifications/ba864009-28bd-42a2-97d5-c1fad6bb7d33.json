@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:35.789424+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f7318d8-241e-4e51-b5e7-3e4490b735f1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ba864009-28bd-42a2-97d5-c1fad6bb7d33",
+  "input": "{\"title\": \"Castles\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

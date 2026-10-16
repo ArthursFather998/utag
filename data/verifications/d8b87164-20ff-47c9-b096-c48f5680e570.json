@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:20.779568+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5737f14-969d-408a-a43b-4c8d4c82ec68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8b87164-20ff-47c9-b096-c48f5680e570",
+  "input": "{\"title\": \"Amor Prohibido\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'La Leyenda'",
+  "status": "verified"
+}

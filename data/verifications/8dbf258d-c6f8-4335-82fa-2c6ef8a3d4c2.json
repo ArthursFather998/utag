@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:10.304278+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb1a93ff-8e49-4bab-80cf-afc6cc9e8ff7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8dbf258d-c6f8-4335-82fa-2c6ef8a3d4c2",
+  "input": "{\"title\": \"Comin' for X-Mas?\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

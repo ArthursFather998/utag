@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:05.142072+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5cd7aecd-4816-4a4c-a100-283447a1af0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "926bbec0-23c8-4c02-b237-da0ac68e595a",
+  "input": "{\"title\": \"Techno Cumbia\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live! The Last Concert'",
+  "status": "verified"
+}

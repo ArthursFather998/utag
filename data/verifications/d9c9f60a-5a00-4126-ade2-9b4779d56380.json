@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:06.189346+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67b72417-737a-4260-adf2-b8f753d6eee5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d9c9f60a-5a00-4126-ade2-9b4779d56380",
+  "input": "{\"title\": \"When the Sun Goes Down\", \"release_type\": \"single\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

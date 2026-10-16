@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:47.200581+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b1cd85d-72af-4585-abd0-cf7a28b10df3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a149b76-414a-4134-947f-a0c81cfed035",
+  "input": "{\"title\": \"Call Out My Name\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Call Out My Name'",
+  "status": "verified"
+}

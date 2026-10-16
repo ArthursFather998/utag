@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:16.915475+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5cbd345f-0d7e-4ab8-8ebb-418cbdbd88a4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "35fda749-2cba-4c2f-a74c-9a172e3d6101",
+  "input": "{\"title\": \"We Ride\", \"release_type\": \"single\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

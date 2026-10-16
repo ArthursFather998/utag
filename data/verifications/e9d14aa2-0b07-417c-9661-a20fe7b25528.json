@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:56.464102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f51cd9f9-2561-44b1-aad4-e86101919a59",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9d14aa2-0b07-417c-9661-a20fe7b25528",
+  "input": "{\"title\": \"Now That I Know\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Music Box'",
+  "status": "verified"
+}

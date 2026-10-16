@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:07.490514+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29f18acd-6abf-414c-a284-55b5c8856006",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c09fdc18-7785-4e39-a458-c27bef02bd85",
+  "input": "{\"title\": \"Lonely Girl\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Essence of Bobby Vinton'",
+  "status": "verified"
+}

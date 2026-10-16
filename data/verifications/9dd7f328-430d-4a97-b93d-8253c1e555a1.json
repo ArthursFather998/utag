@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:12.217598+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37019d22-a5e1-43d6-8bea-62eb84ada27a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9dd7f328-430d-4a97-b93d-8253c1e555a1",
+  "input": "{\"title\": \"Lose My Cool,\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Sincerely (Special Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:38.860363+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "098adc9c-b6a5-46af-bf31-c4b5d128da03",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4374ff5-434c-4fef-8f02-4b5fda40914d",
+  "input": "{\"title\": \"\\u00a1aqu\\u00ed yo mando!\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Sin Miedo (del Amor y Otros Demonios) ∞ [Deluxe Version]'",
+  "status": "verified"
+}

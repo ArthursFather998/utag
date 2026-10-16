@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:41.255108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0708fae3-cb65-4ad3-8a8a-f09533e42963",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99cee3c2-3829-43f5-b648-2f8189da8ef0",
+  "input": "{\"title\": \"Party Monster\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Starboy'",
+  "status": "verified"
+}

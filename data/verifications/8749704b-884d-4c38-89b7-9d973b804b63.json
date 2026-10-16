@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:01.719798+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6b0b6c5-d149-45fc-9cb9-7cb9ec409de1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8749704b-884d-4c38-89b7-9d973b804b63",
+  "input": "{\"title\": \"Yeah\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'iTunes Festival: London 2012'",
+  "status": "verified"
+}

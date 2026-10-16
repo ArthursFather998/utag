@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:16.763822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0c0296c-d76f-4e4c-a60b-8842cba74c89",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "332288d0-0547-43e1-b122-7a05e813074f",
+  "input": "{\"title\": \"Selfish Girl\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Music of the Sun / A Girl Like Me'",
+  "status": "verified"
+}

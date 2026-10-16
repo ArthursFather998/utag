@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:12.606885+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5945af6-1ba1-4081-a9f6-dd7e9e675bda",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "196c4405-eefd-4528-8f84-2e7723ef9608",
+  "input": "{\"title\": \"The Body That Loves You\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'janet.'",
+  "status": "verified"
+}

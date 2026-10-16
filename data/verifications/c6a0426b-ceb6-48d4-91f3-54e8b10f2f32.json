@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:53.631129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1db8b46a-3876-4c6c-8d0b-195e7d6e8f26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6a0426b-ceb6-48d4-91f3-54e8b10f2f32",
+  "input": "{\"title\": \"Vancouver\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'So Real: Songs from Jeff Buckley'",
+  "status": "verified"
+}

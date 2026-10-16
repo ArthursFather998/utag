@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:19.583832+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f436a47-4660-4e2e-b1dd-ba27ccc323ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31f17449-7ddb-4fd1-9d23-cbd24f054734",
+  "input": "{\"title\": \"Hurt You (with Gesaffelstein)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'My Dear Melancholy'",
+  "status": "verified"
+}

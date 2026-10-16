@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:43.068112+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a7127a6-3d55-44b6-918a-920d6c67ee8d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd399eb5-880b-4720-96de-3c28e2e22a18",
+  "input": "{\"title\": \"Public Enemy #1\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Eminem Presents: The Re-Up'",
+  "status": "verified"
+}

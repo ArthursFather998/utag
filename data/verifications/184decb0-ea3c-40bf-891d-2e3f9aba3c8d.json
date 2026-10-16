@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:09.924511+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a556ce1e-ae0c-486e-ab1b-7ebd3305b9db",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "184decb0-ea3c-40bf-891d-2e3f9aba3c8d",
+  "input": "{\"title\": \"Good Job\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

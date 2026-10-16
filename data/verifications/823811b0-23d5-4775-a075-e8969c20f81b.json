@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:42.395315+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54a711aa-482b-43b4-bc27-f4ce8c9d9477",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "823811b0-23d5-4775-a075-e8969c20f81b",
+  "input": "{\"title\": \"Don't Go\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Go'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:16.838981+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "23c8dca0-95cc-4034-9dc1-0d30a20e6f90",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "32bccd09-0216-4bd9-bd14-2508fc4a851e",
+  "input": "{\"title\": \"Century\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

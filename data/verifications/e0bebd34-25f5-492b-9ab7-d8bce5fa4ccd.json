@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:11.55264+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c033c936-dd31-4cd1-9f83-43acf1ed057e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0bebd34-25f5-492b-9ab7-d8bce5fa4ccd",
+  "input": "{\"title\": \"Tobey\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'The Death of Slim Shady (Coup de Grâce)'",
+  "status": "verified"
+}

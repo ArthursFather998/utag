@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:55.614737+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7902f82-ce8c-4891-8b2b-c2bba9a7f6fd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22dcc651-9b71-454f-aea7-fefe8aa955a0",
+  "input": "{\"title\": \"Moist\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Damita Jo'",
+  "status": "verified"
+}

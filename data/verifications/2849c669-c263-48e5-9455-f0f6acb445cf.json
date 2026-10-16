@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:02.15409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b2f481e-4019-452f-9860-9edbd69f3f64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2849c669-c263-48e5-9455-f0f6acb445cf",
+  "input": "{\"title\": \"Joy Ride\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

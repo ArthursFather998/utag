@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:52.854823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09f357af-322f-496c-ab36-ae3f71fa8bd8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "92914f53-d2c0-46fa-bfe4-6f2050f0ce38",
+  "input": "{\"title\": \"TVI\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

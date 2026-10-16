@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:02.694398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb0cdbc9-c7c6-43c4-9026-b5f0705d44a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0fcd6ed-e3ce-4e17-9fbe-0d01370699db",
+  "input": "{\"title\": \"If You See Her, Say Hello\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'The Complete Live at Sin-é'",
+  "status": "verified"
+}

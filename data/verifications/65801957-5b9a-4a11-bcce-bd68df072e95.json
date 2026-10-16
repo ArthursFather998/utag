@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:09.432366+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "303b454b-b37b-4bca-8b0b-15157fffb29b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "65801957-5b9a-4a11-bcce-bd68df072e95",
+  "input": "{\"title\": \"The Pious Bird of Good Omen\", \"release_type\": \"album\", \"release_year\": 1969}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

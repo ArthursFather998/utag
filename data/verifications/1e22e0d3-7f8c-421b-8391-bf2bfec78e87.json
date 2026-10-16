@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:13.062989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09312393-8770-4f06-892b-99f171f30862",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e22e0d3-7f8c-421b-8391-bf2bfec78e87",
+  "input": "{\"title\": \"I'm Still\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Goodbye & Good Riddance'",
+  "status": "verified"
+}

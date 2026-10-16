@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:44.016443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69cd89f0-e93d-4f23-99b7-2a7d2a105524",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16d659e3-ce5c-424f-a1a1-5b4288b1c732",
+  "input": "{\"title\": \"305 to My City\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Nothing Was the Same'",
+  "status": "verified"
+}

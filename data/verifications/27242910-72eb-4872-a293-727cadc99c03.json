@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:06.22342+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "231ceb12-2ce8-4724-a974-4fab66fc662e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27242910-72eb-4872-a293-727cadc99c03",
+  "input": "{\"title\": \"Bye Bye\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'E=MC² (Deluxe Version)'",
+  "status": "verified"
+}

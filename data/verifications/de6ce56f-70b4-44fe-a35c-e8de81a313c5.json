@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:21:24.254591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09bf9937-84a7-4aa4-a033-d271a61d862c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de6ce56f-70b4-44fe-a35c-e8de81a313c5",
+  "input": "{\"title\": \"Atlantic (Astoria 2006)\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'Under the Iron Sea (20th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

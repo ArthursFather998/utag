@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:54.286871+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5badd01-6dda-4e7f-b0a7-49c50be5c6f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b667a0b-d17b-40ba-93c0-a0bd3ba1ed69",
+  "input": "{\"title\": \"Un Mill\\u00f3n\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Cinema'",
+  "status": "verified"
+}

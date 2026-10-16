@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:34.612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "785855aa-6aae-4fae-a369-6602721ebf7f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d5f41c1-df5c-4cb0-90f0-a29529ce5bbb",
+  "input": "{\"title\": \"Angeleno Moon\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Fray Is Back'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:01.28931+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c9767ebf-a365-46e3-93f7-b11df8523045",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcbc7c38-8538-458f-b14f-27420d6a3a9f",
+  "input": "{\"title\": \"Cater 2 U\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Songs'",
+  "status": "verified"
+}

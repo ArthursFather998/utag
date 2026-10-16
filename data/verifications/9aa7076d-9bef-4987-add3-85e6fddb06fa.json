@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:31.385657+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0903d389-ad0f-4e37-9f5f-fdd6ca908990",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9aa7076d-9bef-4987-add3-85e6fddb06fa",
+  "input": "{\"title\": \"With Arms Wide Open (New Version with Strings)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'With Arms Wide Open: A Retrospective'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:39.371942+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "216249cb-c6cb-4539-a554-1c3848fce727",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eabb5ab7-0872-4891-b70b-3943a45c3d0b",
+  "input": "{\"title\": \"I Got the Blues\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Fleetwood Mac in Chicago'",
+  "status": "verified"
+}

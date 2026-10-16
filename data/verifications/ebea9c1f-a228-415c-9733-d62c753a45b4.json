@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:57.057099+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d0ece31-1f0b-4764-a7a4-9899ec8a6d15",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ebea9c1f-a228-415c-9733-d62c753a45b4",
+  "input": "{\"title\": \"Love Songs\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:04.035604+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e44175b-2aa2-4ad1-b4f8-a32664f378bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31f8644d-0a1b-4525-9b53-8005c982a261",
+  "input": "{\"title\": \"Before the Sun\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Before the Sun'",
+  "status": "verified"
+}

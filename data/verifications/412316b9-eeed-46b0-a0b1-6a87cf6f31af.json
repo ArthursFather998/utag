@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:08.517415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "93361ef8-d2bf-4bb1-98fb-09c345b37abc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "412316b9-eeed-46b0-a0b1-6a87cf6f31af",
+  "input": "{\"title\": \"The Sun Is Shining\", \"track_number\": 39}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 39 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

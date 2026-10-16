@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:27.149767+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bc9d8dc-9a4c-4785-b9a1-33a805e44e0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2aa3bac-d063-4a48-996e-03be3e42a9d7",
+  "input": "{\"title\": \"If I Ain't Got You\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'In Tokyo 2025'",
+  "status": "verified"
+}

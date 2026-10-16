@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:34.225639+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ab9a9f3-1cb8-4517-a6a4-329fe5bdfaca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd12b488-da20-4410-ad34-760b6b3d8b29",
+  "input": "{\"title\": \"Land of the Snakes\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Born Sinner'",
+  "status": "verified"
+}

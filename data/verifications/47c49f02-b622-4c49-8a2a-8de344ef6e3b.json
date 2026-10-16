@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:55.837587+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f4782e3-acc5-4a03-907b-a78797edc4d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47c49f02-b622-4c49-8a2a-8de344ef6e3b",
+  "input": "{\"title\": \"Endless Love\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Essential Mariah Carey'",
+  "status": "verified"
+}

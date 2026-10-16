@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:04.509017+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13c4387a-797b-4dca-9acf-94a2f166256c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de006c07-c85f-446f-8cc5-b20d02c1f4bb",
+  "input": "{\"title\": \"Twisted\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

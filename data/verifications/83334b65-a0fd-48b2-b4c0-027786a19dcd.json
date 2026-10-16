@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:12.569988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "970d5edd-a487-4613-bdab-f326c76b9897",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83334b65-a0fd-48b2-b4c0-027786a19dcd",
+  "input": "{\"title\": \"But It's Better If You Do (Live)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'iTunes Live'",
+  "status": "verified"
+}

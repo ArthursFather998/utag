@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:37.844389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "367a0791-c7cd-4522-bee6-a198239789cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "534a0c5b-08a0-4bcc-b5f2-98a81e4e0832",
+  "input": "{\"title\": \"full moon. (fall in tokyo)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Icon (Director's Cut)'",
+  "status": "verified"
+}

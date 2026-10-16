@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:42.501325+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "806351c3-4012-4c59-97f8-02c181e4eba8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "444d0411-a6cb-4173-bbdd-eaa0d7088f3f",
+  "input": "{\"title\": \"Salvation\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Gold'",
+  "status": "verified"
+}

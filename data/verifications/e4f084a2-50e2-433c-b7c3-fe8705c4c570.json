@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:31.737449+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d7e5420-99f6-4f97-a206-60fe648950f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4f084a2-50e2-433c-b7c3-fe8705c4c570",
+  "input": "{\"title\": \"Drifting\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Original Fleetwood Mac'",
+  "status": "verified"
+}

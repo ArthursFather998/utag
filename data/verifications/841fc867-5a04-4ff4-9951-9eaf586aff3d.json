@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:27.890175+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "798e5acc-0d60-470c-87d9-0ff0dd67080e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "841fc867-5a04-4ff4-9951-9eaf586aff3d",
+  "input": "{\"title\": \"Christmas Time Is in the Air Again (Magical Christmas Mix)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Mariah Carey's Magical Christmas Special'",
+  "status": "verified"
+}

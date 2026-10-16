@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:22.9256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1658796-71a5-4046-9b4b-c5785c3835f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cbc8cead-777b-4ac7-a8f1-c5ea71400125",
+  "input": "{\"title\": \"Ghost on the Shore\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Lonesome Dreams'",
+  "status": "verified"
+}

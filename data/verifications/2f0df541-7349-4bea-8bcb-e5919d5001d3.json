@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:16.727977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19b10ef0-ab5d-4232-af73-e3b53f0b11c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f0df541-7349-4bea-8bcb-e5919d5001d3",
+  "input": "{\"title\": \"Bitter Fuck\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'In Tongues'",
+  "status": "verified"
+}

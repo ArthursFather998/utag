@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:02.332276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "80101424-c9a3-4d9b-83f4-3f2a3e1ac199",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6f30d53a-a4ab-4c24-bfc6-d6613724208f",
+  "input": "{\"title\": \"Body Paint\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

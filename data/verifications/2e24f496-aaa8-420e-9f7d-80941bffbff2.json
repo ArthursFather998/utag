@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:01.274111+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8368d735-7432-4e9b-a9a1-d3e1780e22cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e24f496-aaa8-420e-9f7d-80941bffbff2",
+  "input": "{\"title\": \"Don't Hold Me\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'A Place We Knew'",
+  "status": "verified"
+}

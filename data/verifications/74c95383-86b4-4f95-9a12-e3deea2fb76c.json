@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:47.328788+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82dc7b74-eebe-481e-bf04-18d5b89345c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74c95383-86b4-4f95-9a12-e3deea2fb76c",
+  "input": "{\"title\": \"Yo Sin Tu Amor\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Yo Sin Tu Amor'",
+  "status": "verified"
+}

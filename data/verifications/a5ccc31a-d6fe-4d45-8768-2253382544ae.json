@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:13.372808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aa45ca33-2c39-4936-8bd9-e33e14400c13",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5ccc31a-d6fe-4d45-8768-2253382544ae",
+  "input": "{\"title\": \"Always\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Vices & Virtues'",
+  "status": "verified"
+}

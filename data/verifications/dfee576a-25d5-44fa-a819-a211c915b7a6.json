@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:33.634852+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "75ca8d99-a4d3-4f75-ac53-c6417f82e9f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dfee576a-25d5-44fa-a819-a211c915b7a6",
+  "input": "{\"title\": \"Dreams\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Dance'",
+  "status": "verified"
+}

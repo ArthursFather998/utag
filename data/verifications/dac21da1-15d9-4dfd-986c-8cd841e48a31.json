@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:06.03819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3bfd4fe0-5294-47b5-9b2a-002cb24dee81",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dac21da1-15d9-4dfd-986c-8cd841e48a31",
+  "input": "{\"title\": \"My Demons\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

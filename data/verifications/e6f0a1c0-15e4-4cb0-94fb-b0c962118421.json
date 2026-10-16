@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:55.086093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d94c177d-fc5a-479f-bab1-d5066aa67cd2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6f0a1c0-15e4-4cb0-94fb-b0c962118421",
+  "input": "{\"title\": \"Leave the Club\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Leave the Club'",
+  "status": "verified"
+}

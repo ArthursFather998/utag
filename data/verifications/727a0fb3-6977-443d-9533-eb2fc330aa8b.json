@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:31.81505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c086450b-fc1f-47c0-898c-8e514020fcba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "727a0fb3-6977-443d-9533-eb2fc330aa8b",
+  "input": "{\"title\": \"Weight of the World\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Peachtree Road'",
+  "status": "verified"
+}

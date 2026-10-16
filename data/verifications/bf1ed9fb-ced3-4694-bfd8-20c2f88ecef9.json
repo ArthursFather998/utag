@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:24.75904+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5eb2db36-af53-4b19-bfdc-e5785307c093",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bf1ed9fb-ced3-4694-bfd8-20c2f88ecef9",
+  "input": "{\"title\": \"Who Wants to Live Forever\", \"release_type\": \"single\", \"release_year\": 1986}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

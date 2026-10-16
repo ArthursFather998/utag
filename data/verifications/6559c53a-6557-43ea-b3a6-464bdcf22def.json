@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:27.038983+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd350551-75d5-4984-9def-dce2187ad7e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6559c53a-6557-43ea-b3a6-464bdcf22def",
+  "input": "{\"title\": \"Christmas Chopsticks\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Very Merry Christmas: The Complete Epic Christmas Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:50.175951+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "142a4f84-30c6-4d81-9cb1-3e52453e3abf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c1d8ded9-62e8-4cfb-9c6a-5835fa6aa874",
+  "input": "{\"title\": \"Just Because\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Party Music ~~ 20 Hits'",
+  "status": "verified"
+}

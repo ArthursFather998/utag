@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:51.033127+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4cde30b2-e7c8-465b-a959-d6d23497cbff",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aff1ed21-e4b8-4754-8dee-7f96d53fc2f7",
+  "input": "{\"title\": \"Any Way You Want It\", \"release_type\": \"single\", \"release_year\": 1980}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

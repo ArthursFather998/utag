@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:01.724812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9c95b39-5aeb-4caf-8167-f84a639fb67c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc92c346-307a-433c-b839-6e84c173ce54",
+  "input": "{\"title\": \"You & I - Big Payno Remix\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Remixes'",
+  "status": "verified"
+}

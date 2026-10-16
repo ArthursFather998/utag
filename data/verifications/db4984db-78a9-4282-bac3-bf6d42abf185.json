@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:48.896706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3970db55-b549-4b65-ab4a-ead4bcceebab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db4984db-78a9-4282-bac3-bf6d42abf185",
+  "input": "{\"title\": \"Old Dog (with Petey Pablo)\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'The Fall-Off'",
+  "status": "verified"
+}

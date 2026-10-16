@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:57.870032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9919a6dc-7bff-4d35-a8e8-d975c1df275f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "62a294cc-e803-43d2-9a8b-c298cce2ef18",
+  "input": "{\"title\": \"Plan A\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

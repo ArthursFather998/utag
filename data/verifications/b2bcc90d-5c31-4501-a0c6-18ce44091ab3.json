@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:52.425729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9004c55-45b6-4895-8183-5dd2ef2ad1ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2bcc90d-5c31-4501-a0c6-18ce44091ab3",
+  "input": "{\"title\": \"Amsterdam\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Weatherman'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:45.722573+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c059c811-152d-4a3a-a24d-47a89fceeb09",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fa8f12ab-2c7f-4f21-a97a-9ae5dcc22b96",
+  "input": "{\"title\": \"Innuendo\", \"release_type\": \"album\", \"release_year\": 1991}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

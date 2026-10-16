@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:19.048087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ec2c116-0120-46e5-a739-abed27fef177",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f0de2ca-e926-481e-8d5f-8f4e74b7f913",
+  "input": "{\"title\": \"Waving (Edit)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Waving (Edit)'",
+  "status": "verified"
+}

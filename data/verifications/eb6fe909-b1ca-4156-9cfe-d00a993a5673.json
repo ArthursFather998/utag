@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:07.638089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2882931c-2dd3-4b49-a6bd-c7c1ce9c7ec7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb6fe909-b1ca-4156-9cfe-d00a993a5673",
+  "input": "{\"title\": \"Kissing Strangers\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Coming Home (Expanded Edition)'",
+  "status": "verified"
+}

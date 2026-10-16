@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:39.515138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1701e210-4b3d-464c-8d48-d4a98ad8fbf2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af7c546f-71d3-46d6-8f3e-98b2fa64b744",
+  "input": "{\"title\": \"It's Your Birthday\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Goodnight My Love'",
+  "status": "verified"
+}

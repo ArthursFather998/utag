@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:36:22.427879+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ed0efc4-f69d-4bfa-90e3-ffac3628588c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2403aac9-23a6-4ef8-ab29-63fb62906c25",
+  "input": "{\"title\": \"Wonder Boy\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Girl Talk with Bonus Tracks'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:55.172574+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db5b5e15-3a1c-45b4-9fd8-04796e2c9c0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50509783-d9fb-47ad-b0b5-ca22925e0101",
+  "input": "{\"title\": \"Hero\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of '#1's'",
+  "status": "verified"
+}

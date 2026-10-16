@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:38.609827+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5efafbed-71d3-4e80-8add-8b529adca2db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab11dc14-a568-4c49-9631-eec4831dd960",
+  "input": "{\"title\": \"It Is What It Is\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Rhythm City, Vol. 1 – Caught Up'",
+  "status": "verified"
+}

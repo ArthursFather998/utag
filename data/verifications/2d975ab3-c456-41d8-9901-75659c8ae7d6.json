@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:33.731516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9983aada-ae6c-4835-aa0e-e2f871f294b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d975ab3-c456-41d8-9901-75659c8ae7d6",
+  "input": "{\"title\": \"asterisk\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'asterisk'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:20.006287+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd6be0bb-fb1f-49ad-b517-065e519d39ca",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b78e4e11-5703-481f-827d-5b3b68259852",
+  "input": "{\"title\": \"Entre a Mi Mundo\", \"release_type\": \"album\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

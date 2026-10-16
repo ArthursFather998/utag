@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:35.095985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da830cbc-8e42-4ae6-9da1-ba0d7dcbbf92",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d260efc-d0a4-422a-85a8-e3462e008d11",
+  "input": "{\"title\": \"And On and On\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

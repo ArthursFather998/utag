@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:02.494292+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c2fbb9f-1b81-490e-8ba2-0b9e2d125335",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8033dd0-d69a-4fea-b1dd-0c868308ee9e",
+  "input": "{\"title\": \"Gorilla\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Unorthodox Jukebox (Deluxe Edition)'",
+  "status": "verified"
+}

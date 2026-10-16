@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:35.75583+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "164dc174-7b51-4bc2-a7e8-696377d9c35d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca855fac-fcfc-4ffd-9906-e5c7fc11979a",
+  "input": "{\"title\": \"The Only One for Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Only One for Me'",
+  "status": "verified"
+}

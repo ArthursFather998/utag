@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:59.762914+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f63f049-54cc-4ae7-b2bf-9a2b2fb01098",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "715859b5-37d9-408d-99ee-cd7f335f916c",
+  "input": "{\"title\": \"Dark Paradise\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dark Paradise'",
+  "status": "verified"
+}

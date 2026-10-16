@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:39.521634+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69d593b3-d08a-49d0-ab7e-d337ee9d88b1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1d73b02b-fb05-452a-a5b4-e6d3fdce5e8e",
+  "input": "{\"title\": \"City of Sin\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

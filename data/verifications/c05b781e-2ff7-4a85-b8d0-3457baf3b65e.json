@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:33.019094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfbb484d-0769-4a0c-b926-458ffd8604b7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c05b781e-2ff7-4a85-b8d0-3457baf3b65e",
+  "input": "{\"title\": \"Me. I Am Mariah... The Elusive Chanteuse\", \"release_type\": \"album\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

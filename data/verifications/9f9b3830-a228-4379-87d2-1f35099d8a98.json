@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:37.71504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53b40520-c2c6-4d0c-b55c-c42a9eb74c9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f9b3830-a228-4379-87d2-1f35099d8a98",
+  "input": "{\"title\": \"Know What I Want\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Por Vida'",
+  "status": "verified"
+}

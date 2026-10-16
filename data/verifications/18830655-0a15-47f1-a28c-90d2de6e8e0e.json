@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:43.115074+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58e16715-e806-4966-9f95-350ae734de80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18830655-0a15-47f1-a28c-90d2de6e8e0e",
+  "input": "{\"title\": \"Piledriver Waltz\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Suck It and See'",
+  "status": "verified"
+}

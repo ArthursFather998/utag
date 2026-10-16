@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:37.699596+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7cb8f7c3-795f-439f-b4cc-d5267f7dfaa4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc33101f-1f4d-4e4c-b16c-c1165a6a60b4",
+  "input": "{\"title\": \"Rhiannon\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Dance'",
+  "status": "verified"
+}

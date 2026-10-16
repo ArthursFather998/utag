@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:19.553019+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65dc5578-5d64-4196-b954-607d03a5aef0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d3c98c7b-bbe4-4437-9df0-2950974625f4",
+  "input": "{\"title\": \"My Everything\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

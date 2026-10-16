@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:50.464371+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f489255-88e7-4722-b1f9-bf1712036c16",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8ef100b7-8d0f-4912-8671-97d136f2057b",
+  "input": "{\"title\": \"Shake That\", \"release_type\": \"single\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:51.536415+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5774fd9e-3908-47a2-ae2b-84a1cb32d503",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4adf4eb-6ddb-4de5-9042-711526d35d23",
+  "input": "{\"title\": \"SOS\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Don't Stop the Music (5 Track)'",
+  "status": "verified"
+}

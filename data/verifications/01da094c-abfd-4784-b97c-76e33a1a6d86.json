@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:04.716887+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b50418c9-bf11-44d1-abe6-2bbd1b5d1d7f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01da094c-abfd-4784-b97c-76e33a1a6d86",
+  "input": "{\"title\": \"Steve Berman (skit)\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Relapse'",
+  "status": "verified"
+}

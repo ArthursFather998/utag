@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:34.153934+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7965275f-7489-42ac-b746-170947f850f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5a75014-45ad-47e2-8405-eda5f93c354b",
+  "input": "{\"title\": \"Mojo Pin (S\\u00fcdbahnhof, Frankfurt)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Grace Around the World'",
+  "status": "verified"
+}

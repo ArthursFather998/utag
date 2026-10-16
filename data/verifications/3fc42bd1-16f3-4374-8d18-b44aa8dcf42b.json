@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:30.12853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73336f90-3d09-4eac-93dc-d92064e8cce4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3fc42bd1-16f3-4374-8d18-b44aa8dcf42b",
+  "input": "{\"title\": \"Unsatisfied\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Out of the Shadows 2.0'",
+  "status": "verified"
+}

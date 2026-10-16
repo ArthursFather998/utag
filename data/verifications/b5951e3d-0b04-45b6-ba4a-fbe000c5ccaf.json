@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:16.903388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8531fc39-7eaa-432a-837a-41577b6919db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5951e3d-0b04-45b6-ba4a-fbe000c5ccaf",
+  "input": "{\"title\": \"Out Here on My Own\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Ever Since'",
+  "status": "verified"
+}

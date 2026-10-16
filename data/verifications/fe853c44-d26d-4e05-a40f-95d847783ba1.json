@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:06.751527+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9dc0d7a-4ea0-4768-b94e-c397b976162d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe853c44-d26d-4e05-a40f-95d847783ba1",
+  "input": "{\"title\": \"Moonshine\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Unorthodox Jukebox (Deluxe Edition)'",
+  "status": "verified"
+}

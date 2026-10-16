@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:07.397448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9efcf42-6cc5-4b9d-97de-7a47437358a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "379ecdf6-5381-44c7-9fd6-ab29165f563a",
+  "input": "{\"title\": \"Til' Infinity\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Warm Up'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:52.1811+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc9d99e0-1443-4f8b-a4f4-6051dcd0f2a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a0ae7d82-ec09-44d4-93d9-463be315818a",
+  "input": "{\"title\": \"Can You Feel the Love Tonight\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Love Songs'",
+  "status": "verified"
+}

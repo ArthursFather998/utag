@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:28.860329+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88267b0b-513c-4f21-b89a-fc1b6dfd86c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a664b23b-e468-4c9d-9611-81723fd5a569",
+  "input": "{\"title\": \"moon ~ sun\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'moon ~ sun'",
+  "status": "verified"
+}

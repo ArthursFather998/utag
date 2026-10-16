@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:05.81541+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d828f72-c67d-43e7-bc18-e688845d077c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e144a01-0ff1-4bd2-aff3-53cd932ab6a3",
+  "input": "{\"title\": \"Currents\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Honestly, Nevermind'",
+  "status": "verified"
+}

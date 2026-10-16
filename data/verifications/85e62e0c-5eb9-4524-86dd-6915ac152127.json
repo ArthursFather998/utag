@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:35.84793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c468c485-c8e1-42dc-92aa-5b0a6ed88222",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85e62e0c-5eb9-4524-86dd-6915ac152127",
+  "input": "{\"title\": \"Less Than Zero\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Dawn FM'",
+  "status": "verified"
+}

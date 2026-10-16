@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:11.759397+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ec2f074-9d6e-49a7-95b8-388af87876a4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8ca0a0fc-6bd6-4f94-97fa-84bba02ac691",
+  "input": "{\"title\": \"Everybody's Fool\", \"release_type\": \"single\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

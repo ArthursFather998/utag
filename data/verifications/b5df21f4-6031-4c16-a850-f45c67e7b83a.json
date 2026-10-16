@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:48.182687+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7468617c-20ea-4910-9e4a-5f2a4cc40fd7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b5df21f4-6031-4c16-a850-f45c67e7b83a",
+  "input": "{\"title\": \"The Instrumentals\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

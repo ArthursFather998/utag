@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:57.681307+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "381270c2-2bed-44b7-86a5-8afadf1e3716",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdac5027-ea1a-4e6b-979a-271d817c092d",
+  "input": "{\"title\": \"It's a Wrap\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'It's a Wrap'",
+  "status": "verified"
+}

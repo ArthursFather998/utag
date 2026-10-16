@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:27.442916+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b3e7f987-7470-4274-afb4-6bdd2f4d217b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1d0579d8-c943-4b65-8c48-84b8054e4736",
+  "input": "{\"title\": \"Warm Body\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

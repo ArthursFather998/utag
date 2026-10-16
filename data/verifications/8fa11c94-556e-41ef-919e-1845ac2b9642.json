@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:26.68616+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a076306-277c-43b9-ba9a-a1beb042e0cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8fa11c94-556e-41ef-919e-1845ac2b9642",
+  "input": "{\"title\": \"I'm Fallin' Down\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Magic Colors: The Lost Album'",
+  "status": "verified"
+}

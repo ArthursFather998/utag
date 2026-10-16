@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:52.630723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b970f8dd-02ed-42b5-a93f-c2c77ec9a458",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ac627d1-6a6b-4773-9fa4-f91def94bbf7",
+  "input": "{\"title\": \"Love You Gently\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Here I Stand (Deluxe Version)'",
+  "status": "verified"
+}

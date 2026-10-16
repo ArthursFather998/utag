@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:25.371863+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f8dcd76-9404-453c-84c6-9a9d3acefcc2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1a52c763-362f-4391-b702-408ed1ab922a",
+  "input": "{\"title\": \"Wilson (Expensive Mistakes)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wilson (Expensive Mistakes)'",
+  "status": "verified"
+}

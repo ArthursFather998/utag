@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:43.932191+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb9e40d8-bb20-44e2-9aff-052f97078aa5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "281f4dc4-ef52-4ddc-bc31-2db1c9fd9541",
+  "input": "{\"title\": \"A Tale of 2 Citiez (Live)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Forest Hills Drive: Live from Fayetteville, NC'",
+  "status": "verified"
+}

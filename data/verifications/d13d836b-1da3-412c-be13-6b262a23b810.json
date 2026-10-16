@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:00.136252+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e4e5a20-176f-42bf-91bb-fc65903ed1cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d13d836b-1da3-412c-be13-6b262a23b810",
+  "input": "{\"title\": \"Over Again\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Take Me Home'",
+  "status": "verified"
+}

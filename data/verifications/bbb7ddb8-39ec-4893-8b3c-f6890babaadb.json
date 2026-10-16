@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:43.927181+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5e5ae1c-443e-4cb8-9d9a-eb27b213626d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbb7ddb8-39ec-4893-8b3c-f6890babaadb",
+  "input": "{\"title\": \"Was It All Worth It\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Miracle'",
+  "status": "verified"
+}

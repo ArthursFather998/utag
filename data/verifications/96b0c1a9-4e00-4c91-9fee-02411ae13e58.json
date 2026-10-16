@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:57.819103+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "595ac3ca-c010-408d-8539-59446287c8e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96b0c1a9-4e00-4c91-9fee-02411ae13e58",
+  "input": "{\"title\": \"Bop It Up!\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bop It Up!'",
+  "status": "verified"
+}

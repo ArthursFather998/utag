@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:14.821899+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfe361dc-803f-4457-9ca9-261e258b5bd8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "945b9e62-005f-42cf-b31b-d2c6ee153353",
+  "input": "{\"title\": \"LEAD ME FATHER (feat. ian)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'SADDEST TRUTH'",
+  "status": "verified"
+}

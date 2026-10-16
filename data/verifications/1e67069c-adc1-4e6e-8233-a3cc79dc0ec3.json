@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:19.657592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16df28f4-06ab-4b10-b8fe-f4a27f6e1ac1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e67069c-adc1-4e6e-8233-a3cc79dc0ec3",
+  "input": "{\"title\": \"Heat Waves (Diplo Remix)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Heat Waves (Expansion Pack)'",
+  "status": "verified"
+}

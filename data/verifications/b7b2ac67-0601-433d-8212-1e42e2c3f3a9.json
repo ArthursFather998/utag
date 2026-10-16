@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:24.047879+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c08a017-7a94-41ed-a18d-aa8afe57d108",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7b2ac67-0601-433d-8212-1e42e2c3f3a9",
+  "input": "{\"title\": \"Is It Any Wonder?\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Best of Keane'",
+  "status": "verified"
+}

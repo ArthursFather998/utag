@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:19.590476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef223901-782e-4cb5-bcf2-14d72c7f3ed1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "709ec233-33c1-4e39-835c-f8ab75ab3e20",
+  "input": "{\"title\": \"Long, Long, Long Time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Long, Long, Long Time'",
+  "status": "verified"
+}

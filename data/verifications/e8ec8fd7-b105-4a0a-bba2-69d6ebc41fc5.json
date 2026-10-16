@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:55.161982+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "898ae938-267a-4538-aaa3-5443402cc2ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e8ec8fd7-b105-4a0a-bba2-69d6ebc41fc5",
+  "input": "{\"title\": \"live forever\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Live Forever'",
+  "status": "verified"
+}

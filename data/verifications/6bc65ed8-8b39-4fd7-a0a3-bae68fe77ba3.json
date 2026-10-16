@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:57.553987+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02f63bf8-79e2-42a5-a2ce-91b305e61967",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6bc65ed8-8b39-4fd7-a0a3-bae68fe77ba3",
+  "input": "{\"title\": \"Soldier (featuring T.I. and Lil Wayne)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Destiny Fulfilled'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:35.308704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62b4ad6e-de32-4fba-8222-8d9cb57e0ba3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a052edbc-569b-4f37-902a-56e197352dea",
+  "input": "{\"title\": \"Higher\", \"release_type\": \"album\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

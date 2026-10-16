@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:05.422013+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e9f2f30-3f96-469a-a8c9-f25e7b6188ed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7e1d3bcf-23b3-47b2-a008-649f736e725d",
+  "input": "{\"title\": \"Walk on Water\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

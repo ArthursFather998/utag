@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:23.151308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2693467-451f-4793-a277-5f8d403be540",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19a6a3a1-d648-4639-badb-1f92c8b6761a",
+  "input": "{\"title\": \"All I Want\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Sonder Son'",
+  "status": "verified"
+}

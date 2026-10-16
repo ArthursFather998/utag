@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:03.005871+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b2e4fd9-143c-4520-ac66-01abd672ab74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47377c5b-f09d-4e15-b513-4f4dcc385284",
+  "input": "{\"title\": \"Solar Prestige a Gammon\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Caribou'",
+  "status": "verified"
+}

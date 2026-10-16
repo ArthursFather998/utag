@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:27.319108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "50a0366c-100a-4bef-b306-bbbb772d800d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d01c4cb-c2fc-4216-beb7-bf1d50e7a149",
+  "input": "{\"title\": \"Must Be Love\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Bewitched'",
+  "status": "verified"
+}

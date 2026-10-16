@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:24.129129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59ef682e-6c6c-4d24-8d19-3356bba1af66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e84bbcf-bf71-48df-b053-0857d80a7735",
+  "input": "{\"title\": \"Hello Heartbreak\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Mathew Knowles & Music World Present Vol.1: Love Destiny'",
+  "status": "verified"
+}

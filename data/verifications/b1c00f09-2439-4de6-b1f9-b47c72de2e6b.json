@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:31.972877+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e450b86f-0a7b-4161-adc8-5bdd1139376c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1c00f09-2439-4de6-b1f9-b47c72de2e6b",
+  "input": "{\"title\": \"Peacekeeper\", \"track_number\": 48}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 48 of '50 Years – Don't Stop'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:27.930842+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d3dd0e1-01cc-40b6-bde0-dce19eb65140",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7c785b9c-c104-4b84-aadb-b3d5551becbe",
+  "input": "{\"title\": \"WHAT A NIGHT TO BE IN LOVE\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: [release_date: 2024-09-06]",
+  "status": "verified"
+}

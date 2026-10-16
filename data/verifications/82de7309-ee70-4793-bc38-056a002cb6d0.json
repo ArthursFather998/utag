@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:57.860729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1a61b86-d09a-4106-8e34-9d6cae5cbe4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82de7309-ee70-4793-bc38-056a002cb6d0",
+  "input": "{\"title\": \"Dramatic\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dramatic'",
+  "status": "verified"
+}

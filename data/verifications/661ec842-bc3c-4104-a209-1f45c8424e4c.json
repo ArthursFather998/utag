@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:08.24606+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e1ccaa8-bffc-4d37-a3da-87839318bb55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "661ec842-bc3c-4104-a209-1f45c8424e4c",
+  "input": "{\"title\": \"Go\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Go'",
+  "status": "verified"
+}

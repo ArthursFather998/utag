@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:49.552073+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d168b6e0-9b55-4bc0-9f33-f0704a55225b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "024af68a-5bd0-4d65-9f65-ed4b39d66374",
+  "input": "{\"title\": \"Candy\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Heaven or Hell'",
+  "status": "verified"
+}

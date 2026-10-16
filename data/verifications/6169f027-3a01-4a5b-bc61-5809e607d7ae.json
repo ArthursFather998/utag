@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:34.078512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ba0801a-9000-426d-b7c7-390c15b61c28",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6169f027-3a01-4a5b-bc61-5809e607d7ae",
+  "input": "{\"title\": \"Raining Men (featuring Nicki Minaj)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Loud (Deluxe)'",
+  "status": "verified"
+}

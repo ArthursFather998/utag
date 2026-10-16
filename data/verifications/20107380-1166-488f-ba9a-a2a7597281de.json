@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:54.629151+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "22b2ad63-560c-49b7-b67f-8fd0ad364172",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20107380-1166-488f-ba9a-a2a7597281de",
+  "input": "{\"title\": \"Lucky You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lucky You'",
+  "status": "verified"
+}

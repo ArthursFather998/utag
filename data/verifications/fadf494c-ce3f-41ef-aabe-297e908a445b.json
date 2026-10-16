@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:38.350037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3af5a882-9b35-487f-adfd-84c9d061a2ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fadf494c-ce3f-41ef-aabe-297e908a445b",
+  "input": "{\"title\": \"He Can't Love U\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'He Can't Love U'",
+  "status": "verified"
+}

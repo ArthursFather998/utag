@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:57.293889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "edbee4e1-cb97-46be-b584-b4f0731585d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "724cda5e-fa45-435d-831d-64898c28ca6a",
+  "input": "{\"title\": \"Kick Out The Jams (Live At Columbia Radio Hour)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Grace (Legacy Edition)'",
+  "status": "verified"
+}

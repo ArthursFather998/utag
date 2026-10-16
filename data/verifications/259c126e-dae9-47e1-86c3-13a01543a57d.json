@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:02.028291+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45a16bdb-d6da-4ff6-8aa0-127c2ab51b6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "259c126e-dae9-47e1-86c3-13a01543a57d",
+  "input": "{\"title\": \"Runaway Train\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The One'",
+  "status": "verified"
+}

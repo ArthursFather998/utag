@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:58.891689+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a925452-58c4-45a1-ada7-0d966b0ac70b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "056f15bd-bb24-4d39-a8bc-1eb98f637e9e",
+  "input": "{\"title\": \"The Joke\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Who Believes in Angels? Live at the London Palladium'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:31.035577+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0584482-4489-419c-9aa6-03da3674b99b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f86bb99e-94df-49b5-a2b7-d0dbf1bcbb96",
+  "input": "{\"title\": \"Unaccommodating\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Music to Be Murdered By'",
+  "status": "verified"
+}

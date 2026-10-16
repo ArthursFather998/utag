@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:01.889619+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfebfcac-342e-471d-8b7c-5ab9e4c92399",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dc965cc9-e3e3-49ef-93df-c2ae8a5398de",
+  "input": "{\"title\": \"Sweater Weather\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:18.158709+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7887442-9044-4687-8928-ea17f0bd2f38",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "32b3d9cb-96f8-4f19-ba57-64f166a32dda",
+  "input": "{\"title\": \"Love Kills - The Ballad\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Queen Forever'",
+  "status": "verified"
+}

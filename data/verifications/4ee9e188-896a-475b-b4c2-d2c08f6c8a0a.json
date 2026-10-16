@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:59.0937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e65ed34-895d-47e4-9858-37b46fca6e8c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ee9e188-896a-475b-b4c2-d2c08f6c8a0a",
+  "input": "{\"title\": \"Last Goodbye\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Live at Cabaret Metro, Chicago, IL, May 13, 1995'",
+  "status": "verified"
+}

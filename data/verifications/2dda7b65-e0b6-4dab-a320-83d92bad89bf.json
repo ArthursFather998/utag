@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:37.718777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5c3929c8-d315-44a7-bc11-c8192233e139",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2dda7b65-e0b6-4dab-a320-83d92bad89bf",
+  "input": "{\"title\": \"R.N.S.\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Southpaw: Music from and Inspired by the Motion Picture'",
+  "status": "verified"
+}

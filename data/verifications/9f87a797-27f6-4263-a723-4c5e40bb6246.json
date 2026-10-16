@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:18.313729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab1a48af-71a5-4cfa-9216-92744f74d43e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9f87a797-27f6-4263-a723-4c5e40bb6246",
+  "input": "{\"title\": \"High\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

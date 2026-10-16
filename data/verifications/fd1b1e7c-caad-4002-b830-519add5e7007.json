@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:53.991881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6856e55-59e9-4639-993b-6d41b39c736b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fd1b1e7c-caad-4002-b830-519add5e7007",
+  "input": "{\"title\": \"Unforgettable: The Studio Album\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

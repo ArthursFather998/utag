@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:28.301344+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cdc45ba6-3ee5-42d7-b1a7-ffcc47074983",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfb54a05-3778-4f3f-9ed4-5a334e299d1e",
+  "input": "{\"title\": \"Rolling Stone\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Apple Music Live: Brent Faiyaz'",
+  "status": "verified"
+}

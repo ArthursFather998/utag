@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:02.908898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27f5c684-3901-474d-a4a4-f592cd0bc0e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3b8a426e-4dca-4481-a5f6-9c7bb0194189",
+  "input": "{\"title\": \"Preaching Blues\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Madison Blues'",
+  "status": "verified"
+}

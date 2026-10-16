@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:26.014682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e110ddb-1eac-428f-8610-ab64707efbbf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f59b7344-bcef-4fd1-9e3d-b6b00f529b59",
+  "input": "{\"title\": \"It Takes Time\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Jumping at Shadows: The Blues Years'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:12.596378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eee11419-37f3-4f5d-8c56-ee5ce7117767",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c88ade5c-56a3-40ad-81e2-0d43ec12be43",
+  "input": "{\"title\": \"Everything About You\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Up All Night'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:16.685823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e4ee54d-c24c-4e57-a9ef-8c85e91e8d6e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e79c846b-c267-49cc-b376-68574c0d7224",
+  "input": "{\"title\": \"Crash\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Crash'",
+  "status": "verified"
+}

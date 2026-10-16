@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:20.02404+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45d40cd1-46bc-45c4-bd83-c77a4f14315f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "636d0bab-e9c3-4758-9467-87853cf7691e",
+  "input": "{\"title\": \"Quiero\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Preciosa'",
+  "status": "verified"
+}

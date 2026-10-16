@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:31.049187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e24f6ed5-8564-4d0c-a417-fda838d451c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2b3f989-a9a4-40c7-9b8d-b2eb60dfb68f",
+  "input": "{\"title\": \"Between the Breaths\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Between the Breaths'",
+  "status": "verified"
+}

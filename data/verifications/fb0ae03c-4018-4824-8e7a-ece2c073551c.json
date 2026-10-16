@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:08.690842+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "995153de-8dff-4982-8fa7-f836083efce8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb0ae03c-4018-4824-8e7a-ece2c073551c",
+  "input": "{\"title\": \"Lovin', Touchin', Squeezin'\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Captured'",
+  "status": "verified"
+}

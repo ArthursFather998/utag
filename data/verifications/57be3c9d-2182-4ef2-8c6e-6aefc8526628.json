@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:49.343345+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b4cca191-897a-4eff-97ac-7e31524d23e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57be3c9d-2182-4ef2-8c6e-6aefc8526628",
+  "input": "{\"title\": \"Pieces\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'SOLACE'",
+  "status": "verified"
+}

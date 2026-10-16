@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:12.483617+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f0774b4-8e02-4adb-bd51-dcc849255e36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ea41570-2cde-4fa0-8413-3f0bb2e511a1",
+  "input": "{\"title\": \"Indian Sunset\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Madman Across the Water'",
+  "status": "verified"
+}

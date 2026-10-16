@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:45.118565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ddae035a-2465-4c67-b826-0331b14f600c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "553422b2-bcb2-43ff-a2ab-a81b47636bb5",
+  "input": "{\"title\": \"LaLaLa\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'LaLaLa'",
+  "status": "verified"
+}

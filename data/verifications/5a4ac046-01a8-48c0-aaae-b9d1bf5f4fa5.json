@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:55.857225+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f16953a2-56b6-4ec7-b2b1-61f3be1159fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a4ac046-01a8-48c0-aaae-b9d1bf5f4fa5",
+  "input": "{\"title\": \"Back to Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Back to Me'",
+  "status": "verified"
+}

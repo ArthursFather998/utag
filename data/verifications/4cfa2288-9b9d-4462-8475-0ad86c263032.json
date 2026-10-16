@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:09.734657+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3bc78792-c7eb-4966-a950-ecbcf41fbded",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4cfa2288-9b9d-4462-8475-0ad86c263032",
+  "input": "{\"title\": \"Dawn FM\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:15.885567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4fee11cc-43b8-4d16-b51c-1364975ed30a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "559d0296-fa86-4bbc-8828-1855f1639dc8",
+  "input": "{\"title\": \"Candle in the Wind\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Greatest Hits 1970–2002'",
+  "status": "verified"
+}

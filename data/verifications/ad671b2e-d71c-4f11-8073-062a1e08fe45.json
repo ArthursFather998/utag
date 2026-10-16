@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:34.302893+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "abf0f319-331a-474e-904f-925f907d0fa9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad671b2e-d71c-4f11-8073-062a1e08fe45",
+  "input": "{\"title\": \"Chips and Salsa\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live at the Electric Factory: Bootleg No. 1'",
+  "status": "verified"
+}

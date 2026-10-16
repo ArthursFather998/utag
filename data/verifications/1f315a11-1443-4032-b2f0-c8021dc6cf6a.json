@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:09.424115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "63ded561-4e18-4253-8c9c-6b8b2331a0ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f315a11-1443-4032-b2f0-c8021dc6cf6a",
+  "input": "{\"title\": \"All I've Ever Wanted\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Music Box'",
+  "status": "verified"
+}

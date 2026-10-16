@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:58.217771+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28cbdd7d-9f7b-4c97-b152-cb633a7080ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "14defbf8-528d-4704-844e-b7f14d0ff1e5",
+  "input": "{\"title\": \"One Point Perspective\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Tranquility Base Hotel & Casino'",
+  "status": "verified"
+}

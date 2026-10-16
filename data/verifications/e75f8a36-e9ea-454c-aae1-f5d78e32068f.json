@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:20:22.968542+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b0dd6cf-6a56-4d36-bfab-28e986e5b2aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e75f8a36-e9ea-454c-aae1-f5d78e32068f",
+  "input": "{\"title\": \"Save the Day\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Save the Day'",
+  "status": "verified"
+}

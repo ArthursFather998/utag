@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:54.958447+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a8edf6c2-18e6-45f1-81f5-5fb72b3f8800",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41774e66-8c07-46fc-97dd-a1897c4326d0",
+  "input": "{\"title\": \"I'm Back\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I'm Doing It Again Baby!'",
+  "status": "verified"
+}

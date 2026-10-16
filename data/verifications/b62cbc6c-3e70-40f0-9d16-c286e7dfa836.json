@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:19.298392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7be47244-04e0-4861-85ac-af0fa222141b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b62cbc6c-3e70-40f0-9d16-c286e7dfa836",
+  "input": "{\"title\": \"Caves\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Caves'",
+  "status": "verified"
+}

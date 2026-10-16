@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:39.70324+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd5581d3-1086-4090-80df-1c837c5d2651",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84ac1693-83da-486c-8773-653aa8d95f4e",
+  "input": "{\"title\": \"Love Actually\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Actually'",
+  "status": "verified"
+}

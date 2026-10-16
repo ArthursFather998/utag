@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:21.090145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db1a1ab3-2357-4821-8674-d443ebe1f1ec",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d00b2dfa-5f5c-4122-92b5-5d60eac990d9",
+  "input": "{\"title\": \"Live in Boston\", \"release_type\": \"album\", \"release_year\": 1985}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

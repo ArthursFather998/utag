@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:55.448616+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3997c9b-454d-432c-bd0b-5a687132f807",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c37335a2-7695-4f4b-8b46-ba40401848ad",
+  "input": "{\"title\": \"Ask the Lonely\", \"track_number\": 51}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 51 of 'Time3'",
+  "status": "verified"
+}

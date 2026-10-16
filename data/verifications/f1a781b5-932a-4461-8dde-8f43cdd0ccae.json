@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:34.363057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5495df78-65af-430d-b1f4-8e2280082612",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1a781b5-932a-4461-8dde-8f43cdd0ccae",
+  "input": "{\"title\": \"My Boo\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Confessions (Special Edition)'",
+  "status": "verified"
+}

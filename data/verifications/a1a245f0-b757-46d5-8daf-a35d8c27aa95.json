@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:57.952247+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd8e9d79-24ed-4bb4-8f5d-425ebefa6ea2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1a245f0-b757-46d5-8daf-a35d8c27aa95",
+  "input": "{\"title\": \"Open Arms\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Open Arms'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:43.677954+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4ec502a-361c-47ad-ae3d-4307b96ebac7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d1ddfbfb-c144-4e57-9177-ac7be9bbcc33",
+  "input": "{\"title\": \"Magnolia\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Typical of Me'",
+  "status": "verified"
+}

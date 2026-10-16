@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:48.433003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bf650f0-1231-44bb-a8ab-4f6d6cfaadc7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f087b48b-bf8e-4c29-b466-1f5dee983057",
+  "input": "{\"title\": \"bitten fingernails\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'bitten fingernails'",
+  "status": "verified"
+}

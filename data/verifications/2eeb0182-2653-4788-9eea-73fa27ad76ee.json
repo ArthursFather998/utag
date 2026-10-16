@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:18.697696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67e0fbcd-d705-4fd2-9188-c381bd0b7a8c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2eeb0182-2653-4788-9eea-73fa27ad76ee",
+  "input": "{\"title\": \"Babydoll\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Playlist: The Very Best of Mariah Carey'",
+  "status": "verified"
+}

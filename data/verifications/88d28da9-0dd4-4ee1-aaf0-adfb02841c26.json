@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:19.749083+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f0ecfae-76f0-425c-8a59-6a32fccbf819",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88d28da9-0dd4-4ee1-aaf0-adfb02841c26",
+  "input": "{\"title\": \"I Can Barely Say\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Scars & Stories'",
+  "status": "verified"
+}

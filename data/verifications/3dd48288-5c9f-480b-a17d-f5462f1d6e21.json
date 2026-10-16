@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:07.808003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68899992-1bf0-412b-a1bc-af7e8f280b05",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3dd48288-5c9f-480b-a17d-f5462f1d6e21",
+  "input": "{\"title\": \"Friends\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Friends'",
+  "status": "verified"
+}

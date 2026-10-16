@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:18.241779+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ad89a99-62f3-485d-b4a0-af005b52c4fa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c511f849-4025-4337-9f15-6960bba8c8cb",
+  "input": "{\"title\": \"Time to Run\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Lonesome Dreams'",
+  "status": "verified"
+}

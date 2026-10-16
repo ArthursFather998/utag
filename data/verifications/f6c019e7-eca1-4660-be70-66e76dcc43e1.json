@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:49.318332+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34b3d0d6-8028-4a92-b9a5-dc1c8309d735",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f6c019e7-eca1-4660-be70-66e76dcc43e1",
+  "input": "{\"title\": \"Summertime Sadness\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

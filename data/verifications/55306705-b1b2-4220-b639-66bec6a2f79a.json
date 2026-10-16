@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:01.679275+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a23e5886-c5bc-4d2b-8126-7184127db013",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55306705-b1b2-4220-b639-66bec6a2f79a",
+  "input": "{\"title\": \"Man of the World\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '50 Years – Don't Stop'",
+  "status": "verified"
+}

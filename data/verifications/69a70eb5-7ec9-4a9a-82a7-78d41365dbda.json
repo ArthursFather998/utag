@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:09.23724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf507e4d-80bc-4791-91ad-420f9e2d7b67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69a70eb5-7ec9-4a9a-82a7-78d41365dbda",
+  "input": "{\"title\": \"S&M\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Rated R + Loud'",
+  "status": "verified"
+}

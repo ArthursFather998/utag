@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:03.572833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ff6dbfe-322d-4252-ac80-dcbacc8908df",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "586fa0c2-597a-4d9f-8c6a-dd01f78110a2",
+  "input": "{\"title\": \"Champion\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

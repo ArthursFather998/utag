@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:07.413206+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17dd713c-ee87-471e-a0d3-4c23332d423b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "834ef815-947a-498c-8275-19c3b01a0772",
+  "input": "{\"title\": \"Get in character\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'All Original Parts: Volume 1'",
+  "status": "verified"
+}

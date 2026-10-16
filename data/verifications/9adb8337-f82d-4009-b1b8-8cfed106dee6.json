@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:24.668723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "665b31fb-505f-4933-b9f3-bca4be8286c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9adb8337-f82d-4009-b1b8-8cfed106dee6",
+  "input": "{\"title\": \"Time Heals All\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Love Sick'",
+  "status": "verified"
+}

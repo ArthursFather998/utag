@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:57:47.193363+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "256333c1-b01a-4ae7-81ea-8c4ed1879f0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca9df872-a060-4b73-bdf7-121455204e28",
+  "input": "{\"title\": \"Sorry\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Best'",
+  "status": "verified"
+}

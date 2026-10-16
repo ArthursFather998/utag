@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:32.553672+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f02e916d-a2a8-45f3-9a08-d7a28cf9a92c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc46ea97-319c-47b5-a1e1-a7b8322b281f",
+  "input": "{\"title\": \"Only the Young\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live in Concert at Lollapalooza'",
+  "status": "verified"
+}

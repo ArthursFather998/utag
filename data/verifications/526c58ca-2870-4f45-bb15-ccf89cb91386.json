@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:52.661213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b26460a-4e34-46bc-a8d0-83ef42111d39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "526c58ca-2870-4f45-bb15-ccf89cb91386",
+  "input": "{\"title\": \"Afterthought (with Benee)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Nectar'",
+  "status": "verified"
+}

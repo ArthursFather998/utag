@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:56.740618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e3a1cd5-4bd5-4183-8972-c515d4587376",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f337c33f-7a72-47e0-8b5a-9612923ac37e",
+  "input": "{\"title\": \"Disc 2 - Treat Me Like a Lady\", \"track_number\": 36}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 36 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

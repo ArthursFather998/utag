@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:55.095688+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3974cae4-c8e0-4aae-87fa-0645689f750e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "da1aa21a-c1a2-4da3-8a5c-722836e93cc6",
+  "input": "{\"title\": \"Emmerdale (Remastered)\", \"release_type\": \"album\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

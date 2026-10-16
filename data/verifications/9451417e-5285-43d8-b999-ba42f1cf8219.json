@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:23.472248+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c6abbf2-7c61-44dd-8b4d-ef1318290828",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9451417e-5285-43d8-b999-ba42f1cf8219",
+  "input": "{\"title\": \"Celebrity\", \"release_type\": \"album\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Standard North American edition (13 tracks). International editions add That Girl (Will Never Be Mine) and Falling as bonus tracks (Do Your Thing moves to track 15).",
+  "status": "verified"
+}

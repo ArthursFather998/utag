@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:29.183934+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4eb760e9-4e6f-4ec3-955b-9816273652ae",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fd154a3b-1f82-45ed-87dc-4bd82a4a460b",
+  "input": "{\"title\": \"The Dance\", \"release_type\": \"album\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

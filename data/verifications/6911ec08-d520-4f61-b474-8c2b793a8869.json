@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:45.615093+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbbecbfa-e0dd-48a2-aceb-44ce48971281",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6911ec08-d520-4f61-b474-8c2b793a8869",
+  "input": "{\"title\": \"meant for nothing\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'meant for nothing'",
+  "status": "verified"
+}

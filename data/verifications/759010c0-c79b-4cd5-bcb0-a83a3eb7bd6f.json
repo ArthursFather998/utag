@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:59.653658+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b476cfe2-dd80-4e20-b221-30d921cd2559",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "759010c0-c79b-4cd5-bcb0-a83a3eb7bd6f",
+  "input": "{\"title\": \"Apple Music Live: Dominic Fike\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

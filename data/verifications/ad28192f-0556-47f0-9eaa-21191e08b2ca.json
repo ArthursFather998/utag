@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:37.481776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73d93ae9-888c-4f84-be23-98fb62878883",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad28192f-0556-47f0-9eaa-21191e08b2ca",
+  "input": "{\"title\": \"Never Enough\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Made in the A.M.'",
+  "status": "verified"
+}

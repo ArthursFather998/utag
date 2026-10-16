@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:53.247823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f088a0c4-d0ae-4a97-a640-db9e8411894e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0dac9eba-51d2-4ab5-8bd7-dbe2ad1ef37d",
+  "input": "{\"title\": \"Imagination\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Imagination & the Misfit Kid'",
+  "status": "verified"
+}

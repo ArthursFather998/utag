@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:04.656558+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ff11d1c-4c56-4507-8b85-bc4c6602ecb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ec1f3db-b817-4aab-936f-4e771f6768c4",
+  "input": "{\"title\": \"Fall Away\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Fray - The Collection'",
+  "status": "verified"
+}

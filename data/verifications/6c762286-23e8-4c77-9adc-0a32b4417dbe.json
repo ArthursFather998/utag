@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:42.992713+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44acc8f9-6956-4d5e-b2a4-068f030f8e15",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6c762286-23e8-4c77-9adc-0a32b4417dbe",
+  "input": "{\"title\": \"Biutiful\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

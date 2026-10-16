@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:20.923477+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "824fbc51-4531-4b8f-a484-b666702ca9f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b00af5f-a55c-43c8-9e6b-f94f5cf97f7b",
+  "input": "{\"title\": \"Stone Kold Freak\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Coming Home (Expanded Edition)'",
+  "status": "verified"
+}

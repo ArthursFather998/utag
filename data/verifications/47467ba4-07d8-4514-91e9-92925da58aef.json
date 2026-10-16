@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:47.506512+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3cd5d8f4-eb30-42c6-a4ca-341159e9cda7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47467ba4-07d8-4514-91e9-92925da58aef",
+  "input": "{\"title\": \"Broken Smile (My All)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Come Over When You're Sober, Pt. 2'",
+  "status": "verified"
+}

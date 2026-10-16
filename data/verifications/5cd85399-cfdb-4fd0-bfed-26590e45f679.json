@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:05.51209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "426c5e07-d3e5-4e22-8365-9c22da20e3a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cd85399-cfdb-4fd0-bfed-26590e45f679",
+  "input": "{\"title\": \"There She Goes\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Sixpence None the Richer (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:39.185925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4182f37-1c83-45f7-8699-0079df12ed0b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3550a31b-0d84-45f7-9248-92e9a523abbd",
+  "input": "{\"title\": \"Yeah, I Said It\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'ANTI (Deluxe)'",
+  "status": "verified"
+}

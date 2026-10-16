@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:16.429925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "118a383c-1ead-4be7-a9f6-afc038855266",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "472c5054-eb33-46c8-9785-ce3e289bc7da",
+  "input": "{\"title\": \"Contigo Quiero Estar\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Mis Primeros Éxitos'",
+  "status": "verified"
+}

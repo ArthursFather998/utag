@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:33.976593+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b36c329-6185-454d-99d9-c4bbfe2ae14a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1841584d-44ce-4839-94ad-dbe8c1f4624b",
+  "input": "{\"title\": \"You're the Storm\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Best Of'",
+  "status": "verified"
+}

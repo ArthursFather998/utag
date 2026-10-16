@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:04.469504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89aacecc-6399-4402-a528-e298007503c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e1a4d30-11a4-4041-8e4a-9a588167c4c3",
+  "input": "{\"title\": \"Almost There\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Before & After'",
+  "status": "verified"
+}

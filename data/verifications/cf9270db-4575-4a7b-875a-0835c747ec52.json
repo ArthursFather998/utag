@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:32.216115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d7d560b6-9e5f-48a3-a6f4-2bf4728bfcaf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf9270db-4575-4a7b-875a-0835c747ec52",
+  "input": "{\"title\": \"Sweet and Simple\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Time3'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:51.812249+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07ec19ce-82bd-4dbc-bdba-e6e1491ffd1e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef3f93f6-8a53-4470-8f4c-6e8dd2065840",
+  "input": "{\"title\": \"C-lebrity\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Cosmos Rocks'",
+  "status": "verified"
+}

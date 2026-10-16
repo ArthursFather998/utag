@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:19.587649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e299a5de-99cf-4d70-bf33-ba6f85109d73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "316f569f-b14f-4fad-ad87-3e46a5701575",
+  "input": "{\"title\": \"Ya Ves\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Live! The Last Concert'",
+  "status": "verified"
+}

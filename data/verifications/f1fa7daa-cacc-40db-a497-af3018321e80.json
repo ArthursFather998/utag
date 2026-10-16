@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:34.101487+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc4843dd-8ba7-478d-b7ce-c2303a2683ee",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f1fa7daa-cacc-40db-a497-af3018321e80",
+  "input": "{\"title\": \"With Arms Wide Open\", \"release_type\": \"single\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

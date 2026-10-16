@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:18.361768+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e818db17-7984-4e49-9e06-a3e12747a426",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f9a01e5-4136-42ff-bbd2-e4153c4379ad",
+  "input": "{\"title\": \"I Want U\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Genesis (Deluxe)'",
+  "status": "verified"
+}

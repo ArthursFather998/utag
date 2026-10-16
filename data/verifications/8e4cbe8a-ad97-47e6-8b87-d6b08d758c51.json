@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:48.740285+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a19e9637-a225-4dbc-add5-477dd054b3c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e4cbe8a-ad97-47e6-8b87-d6b08d758c51",
+  "input": "{\"title\": \"The Loser in the End\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Queen II (Deluxe Remastered Version)'",
+  "status": "verified"
+}

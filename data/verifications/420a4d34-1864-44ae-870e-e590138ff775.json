@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:22.199037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7fc5e3e-9642-4139-86b2-83b2f9f059d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "420a4d34-1864-44ae-870e-e590138ff775",
+  "input": "{\"title\": \"Drown\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Three Days Grace (Expanded Edition)'",
+  "status": "verified"
+}

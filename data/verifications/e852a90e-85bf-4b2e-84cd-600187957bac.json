@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:22.338839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bd22eb9-9931-4cc4-ae0b-9776c31eaab8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e852a90e-85bf-4b2e-84cd-600187957bac",
+  "input": "{\"title\": \"Snooze\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'Lana'",
+  "status": "verified"
+}

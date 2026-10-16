@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:18.943461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b74286ea-d59a-4d8c-bf5a-da1a052ab284",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d19c8ba-2c3f-4d5f-94e7-37ed4c4168eb",
+  "input": "{\"title\": \"Halfway to Paradise\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Ultimate Epic Singles Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:34.219161+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4476200e-2abf-4cba-b110-fede74444d7b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "971532e5-fd43-4e02-8ce1-b7c35983b8cc",
+  "input": "{\"title\": \"I Will Get a Vasectomy\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'Pink Season'",
+  "status": "verified"
+}

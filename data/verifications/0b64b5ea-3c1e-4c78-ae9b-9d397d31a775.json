@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:02.296787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fcfd2a7a-0393-444c-9c22-6c826bd1af85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b64b5ea-3c1e-4c78-ae9b-9d397d31a775",
+  "input": "{\"title\": \"Live for Today\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Hate Me (Deluxe)'",
+  "status": "verified"
+}

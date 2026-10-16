@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:46.936091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f6dd81d8-f906-4ef5-8629-5af79470228d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "91a42b74-825f-4ac7-b9b5-ecca01899f1c",
+  "input": "{\"title\": \"Back & Forth\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Back & Forth'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:58.762043+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41dfab09-1330-46e1-bcf0-85a3611c4f46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8090ed7-fae1-49d2-86cf-14add592ad0d",
+  "input": "{\"title\": \"I'll Make You My Baby\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Bobby Vinton's All-Time Greatest Hits'",
+  "status": "verified"
+}

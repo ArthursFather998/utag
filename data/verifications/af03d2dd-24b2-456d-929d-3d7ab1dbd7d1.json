@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:18:28.932557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d755131f-777e-48c3-a76f-76dc646f0563",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af03d2dd-24b2-456d-929d-3d7ab1dbd7d1",
+  "input": "{\"title\": \"This Bed\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Element of Freedom'",
+  "status": "verified"
+}

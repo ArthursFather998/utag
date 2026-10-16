@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:34.682537+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e26c999-6bcb-4d2c-b9bc-565f3e4834ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ef94b03-5323-4d6b-9ab3-14dfbe0f7002",
+  "input": "{\"title\": \"Tell Me You Need Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Madison Blues'",
+  "status": "verified"
+}

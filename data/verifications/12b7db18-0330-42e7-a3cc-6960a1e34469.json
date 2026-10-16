@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:43.96007+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0fc5604a-f500-4aef-b926-67dc6921015d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12b7db18-0330-42e7-a3cc-6960a1e34469",
+  "input": "{\"title\": \"Coming Your Way\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Then Play On'",
+  "status": "verified"
+}

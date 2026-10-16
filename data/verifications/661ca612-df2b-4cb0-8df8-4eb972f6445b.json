@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:46.635685+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "206befdb-0656-4db3-84a9-6bfb169caa4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "661ca612-df2b-4cb0-8df8-4eb972f6445b",
+  "input": "{\"title\": \"Snap Out of It\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Snap Out of It'",
+  "status": "verified"
+}

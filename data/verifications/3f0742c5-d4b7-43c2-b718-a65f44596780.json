@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:50.134506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "848ea5d6-d02f-4e20-8ec8-a8d7b8dc924c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f0742c5-d4b7-43c2-b718-a65f44596780",
+  "input": "{\"title\": \"F9mily (You & Me)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '7'",
+  "status": "verified"
+}

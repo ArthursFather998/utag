@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:55.862614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "efd0f783-0151-49ed-8def-f4f21300cae6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2036f07f-76e1-4a6b-9cc3-ca06e0b82af5",
+  "input": "{\"title\": \"Again\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Number Ones'",
+  "status": "verified"
+}

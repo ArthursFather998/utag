@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:13.95203+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b39a0e0-3f87-4258-b4cb-fdf77edc55ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f69f691-d612-45bb-b792-6e1bf4a8aa7e",
+  "input": "{\"title\": \"Sad Girl\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Ultraviolence'",
+  "status": "verified"
+}

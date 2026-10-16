@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:16.480292+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14f982f7-d2a7-48be-8905-538689656f39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4d782e6-f3f1-4d18-9671-c086fdf4cbca",
+  "input": "{\"title\": \"One Time\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'One Time'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:47.855445+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a4b1230-8e50-41f0-bf8e-1a0069842cc4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "eb47f0aa-b2a5-4230-93ec-ce3dc25983c5",
+  "input": "{\"title\": \"Not Afraid\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

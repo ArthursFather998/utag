@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:30.610612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee950a19-cc5c-473a-8908-301663d71ce3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e09941a1-1366-40f0-b3a5-47bd4eb8ebe2",
+  "input": "{\"title\": \"Chalk Outline\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Transit of Venus'",
+  "status": "verified"
+}

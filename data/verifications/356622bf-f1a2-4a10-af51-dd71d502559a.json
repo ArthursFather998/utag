@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:29.361427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc54e46d-82fe-4893-a687-39d79c6cf861",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "356622bf-f1a2-4a10-af51-dd71d502559a",
+  "input": "{\"title\": \"Long Lost\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

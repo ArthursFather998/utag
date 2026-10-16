@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:27.871392+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de89bb04-a2df-4bf2-ab8c-2777eff270f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03ed4ecc-f3e3-4cf3-afe3-5f62a6c8154a",
+  "input": "{\"title\": \"Nurse's Office\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'K-12 (After School - Deluxe Edition)'",
+  "status": "verified"
+}

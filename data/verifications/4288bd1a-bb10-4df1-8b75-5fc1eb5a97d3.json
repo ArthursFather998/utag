@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:18.454582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d225bfe-93fd-46eb-887e-da23e92dc890",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4288bd1a-bb10-4df1-8b75-5fc1eb5a97d3",
+  "input": "{\"title\": \"Got What I Got\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '9'",
+  "status": "verified"
+}

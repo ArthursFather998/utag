@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:54.895748+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "919d3df7-76fc-40b5-bcb1-0c00638b38c5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7722aa4-2311-4f20-bb18-1a42c48a0d77",
+  "input": "{\"title\": \"Smile Again\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Usher'",
+  "status": "verified"
+}

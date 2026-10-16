@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:56.49417+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81c974ed-ce4a-49ea-b807-e4a1216b5f34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "75861eba-9df1-4ec4-a4b5-00e14615a0b8",
+  "input": "{\"title\": \"Baila Esta Cumbia\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Unforgettable: Ultimate Edition'",
+  "status": "verified"
+}

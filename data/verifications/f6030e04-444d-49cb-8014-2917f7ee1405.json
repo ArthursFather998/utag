@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:21.123279+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9f505cc-2e54-4b0e-a236-fe1596c33430",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6030e04-444d-49cb-8014-2917f7ee1405",
+  "input": "{\"title\": \"Glued\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'After School'",
+  "status": "verified"
+}

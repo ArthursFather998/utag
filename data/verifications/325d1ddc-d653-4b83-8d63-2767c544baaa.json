@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:28.872449+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9684c8f-361e-4b67-b29d-3d55aa51f95a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "325d1ddc-d653-4b83-8d63-2767c544baaa",
+  "input": "{\"title\": \"Salamander\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Violet Bent Backwards over the Grass'",
+  "status": "verified"
+}

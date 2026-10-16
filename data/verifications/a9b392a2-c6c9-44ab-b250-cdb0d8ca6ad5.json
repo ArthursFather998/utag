@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:35.453054+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "901c02d2-f1f7-4424-94c7-e4a8c75d30ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9b392a2-c6c9-44ab-b250-cdb0d8ca6ad5",
+  "input": "{\"title\": \"One More Arrow\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Too Low for Zero'",
+  "status": "verified"
+}

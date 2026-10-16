@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:19.249532+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c441101-ab25-4470-9f19-39874e591047",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e79055d5-bcd0-46e7-a929-6d01d023cf77",
+  "input": "{\"title\": \"Frozen Pines\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Frozen Pines'",
+  "status": "verified"
+}

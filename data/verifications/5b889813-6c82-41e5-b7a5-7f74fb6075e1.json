@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:37.959734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "83d897d3-0339-44dc-9413-b5cfe92c71d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b889813-6c82-41e5-b7a5-7f74fb6075e1",
+  "input": "{\"title\": \"Red Light\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Confessions (Special Edition)'",
+  "status": "verified"
+}

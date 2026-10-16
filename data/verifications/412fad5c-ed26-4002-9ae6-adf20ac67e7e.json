@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:45.012603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "05518c15-8ffd-4000-adac-36798c1fde1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "412fad5c-ed26-4002-9ae6-adf20ac67e7e",
+  "input": "{\"title\": \"Preachin' Blues\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Live at the BBC'",
+  "status": "verified"
+}

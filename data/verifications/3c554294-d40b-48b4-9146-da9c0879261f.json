@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:31.611382+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9fa9cf64-7a06-473d-bea7-bed481e1d9f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c554294-d40b-48b4-9146-da9c0879261f",
+  "input": "{\"title\": \"Save Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Save Me'",
+  "status": "verified"
+}

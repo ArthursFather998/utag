@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:33.653764+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49e3b9b4-38ae-4f6f-9b63-13aa9c92763f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c2c86ddd-7735-441a-954e-d869cc81d7bf",
+  "input": "{\"title\": \"Sweetheart\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

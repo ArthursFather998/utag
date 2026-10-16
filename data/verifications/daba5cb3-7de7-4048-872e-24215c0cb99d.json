@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:49.073309+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0b90d51b-ef90-46c4-b627-00bbcdc6f7c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "daba5cb3-7de7-4048-872e-24215c0cb99d",
+  "input": "{\"title\": \"Rock Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Take Me Home'",
+  "status": "verified"
+}

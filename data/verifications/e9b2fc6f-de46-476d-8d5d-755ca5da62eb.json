@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:37.47313+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49384783-e508-4a56-85ff-270f797f3a51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9b2fc6f-de46-476d-8d5d-755ca5da62eb",
+  "input": "{\"title\": \"The Prisoner (Original 7\\\" Version)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Hurting (30th Anniversary Edition)'",
+  "status": "verified"
+}

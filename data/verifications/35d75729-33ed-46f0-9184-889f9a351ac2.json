@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:38.696246+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb6dbaf7-02e7-42d5-9b75-6cd8ec2c5a3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35d75729-33ed-46f0-9184-889f9a351ac2",
+  "input": "{\"title\": \"Wet Vagina\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Scarlet'",
+  "status": "verified"
+}

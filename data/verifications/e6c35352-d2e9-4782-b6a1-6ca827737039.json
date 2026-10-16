@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:08.328179+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a02a780-63f8-496c-879e-49643d7b0381",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6c35352-d2e9-4782-b6a1-6ca827737039",
+  "input": "{\"title\": \"Faith\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'After Hours'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:54.966293+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c0333cc-b6a1-465d-8226-8cda93fb7994",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "241f63fb-e2ef-4f03-b9a5-11e8c9ac09bb",
+  "input": "{\"title\": \"Your Other Life\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Long Lost (Deluxe Edition)'",
+  "status": "verified"
+}

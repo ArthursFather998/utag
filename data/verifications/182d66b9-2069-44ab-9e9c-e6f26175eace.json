@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:28:33.951764+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5185d52-97cc-4f4f-b787-32b72601e222",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "182d66b9-2069-44ab-9e9c-e6f26175eace",
+  "input": "{\"title\": \"Maybe I Know\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Girl Talk'",
+  "status": "verified"
+}

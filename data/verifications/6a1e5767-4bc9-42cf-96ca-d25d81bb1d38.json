@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:54.938041+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "777f23eb-7141-4fc4-a11e-39975f403f99",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a1e5767-4bc9-42cf-96ca-d25d81bb1d38",
+  "input": "{\"title\": \"Days Dwindle By\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'In a Mellow Mood'",
+  "status": "verified"
+}

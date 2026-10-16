@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:23.491782+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "835b884c-b65e-4824-bc8d-f4e7dafd33f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f01eba0-10e2-4576-ab27-f25415d7f4c4",
+  "input": "{\"title\": \"This Is The Day\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Remembering Dolores'",
+  "status": "verified"
+}

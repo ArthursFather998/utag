@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:27.781996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f25437b7-dc85-4600-a8b2-47cf80c4aa1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a67b8ab3-c7f2-44b5-891c-39764a08f77b",
+  "input": "{\"title\": \"Ribbon\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Memoirs of an Imperfect Angel'",
+  "status": "verified"
+}

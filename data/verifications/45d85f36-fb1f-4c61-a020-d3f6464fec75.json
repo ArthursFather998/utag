@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:46.308248+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44d6d11c-a422-4011-8236-c75abb8cc55b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45d85f36-fb1f-4c61-a020-d3f6464fec75",
+  "input": "{\"title\": \"Tears for ODB\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Truly Yours'",
+  "status": "verified"
+}

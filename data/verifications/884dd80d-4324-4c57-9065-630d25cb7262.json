@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:47.900257+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd867ab7-9892-4570-9da4-d1023ddd456c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "884dd80d-4324-4c57-9065-630d25cb7262",
+  "input": "{\"title\": \"Blue Wonderful\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Wonderful Crazy Night'",
+  "status": "verified"
+}

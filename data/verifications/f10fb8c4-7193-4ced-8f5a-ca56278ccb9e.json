@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:00.303274+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ecb211e1-774c-4e70-ad27-586c8810787c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f10fb8c4-7193-4ced-8f5a-ca56278ccb9e",
+  "input": "{\"title\": \"Good Girl Gone Bad\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of 'Vinyl Box Set'",
+  "status": "verified"
+}

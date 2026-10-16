@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:21.061429+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a28ce782-7d90-4da9-86d2-dd933a58d05f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20f87bfe-c4ff-4b47-a036-06a36e83e0a0",
+  "input": "{\"title\": \"Get Away from You\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Highway Desperado'",
+  "status": "verified"
+}

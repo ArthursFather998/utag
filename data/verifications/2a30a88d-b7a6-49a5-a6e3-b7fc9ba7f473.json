@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:00.749414+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "52107997-e32f-41d1-909f-2137abda07b7",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "2a30a88d-b7a6-49a5-a6e3-b7fc9ba7f473",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Hazel Eyes",
+    "title": "Love Is A Stillness"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Song is real: 'Love Is a Stillness' was released Feb 14, 2025 as lead single for Sam Smith's fifth studio album Hazel Eyes (released Aug 21, 2026); Hazel Eyes (2026) filing is correct. Note: official title casing is 'Love Is a Stillness' (lowercase 'a'). | sources: https://en.wikipedia.org/wiki/Hazel_Eyes_(Sam_Smith_album), https://music.apple.com/ca/album/hazel-eyes/6782034491",
+  "status": "verified"
+}

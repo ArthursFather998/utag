@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:31.159777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43f8794b-a15f-4229-8bea-2f03a7a092da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ada2b3a-da2d-49e5-b30f-a68030f8e183",
+  "input": "{\"title\": \"Modern Times Rock 'n' Roll\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Queen (Deluxe Remastered Version)'",
+  "status": "verified"
+}

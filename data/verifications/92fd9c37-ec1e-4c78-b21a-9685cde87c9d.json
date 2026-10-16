@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:32.564725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da3d1cf3-921e-4c29-8da3-21746be4fd5c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "92fd9c37-ec1e-4c78-b21a-9685cde87c9d",
+  "input": "{\"title\": \"Promise\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

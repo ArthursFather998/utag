@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:14.304923+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e1993c99-343c-483c-9995-52052131e656",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f3119e2-3aaa-4b34-a9bb-1c680a08bac8",
+  "input": "{\"title\": \"Fall at Your Feet\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fall at Your Feet (with Cyril)'",
+  "status": "verified"
+}

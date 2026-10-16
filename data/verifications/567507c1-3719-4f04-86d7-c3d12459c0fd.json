@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:41.650632+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d667d9a5-e255-4912-8fbc-93073160a822",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "567507c1-3719-4f04-86d7-c3d12459c0fd",
+  "input": "{\"title\": \"Confidential\", \"release_type\": \"single\", \"release_year\": 1960}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

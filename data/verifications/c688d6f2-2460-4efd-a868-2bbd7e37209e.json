@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:21.661343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "178d5cf3-6b5e-49d4-a7c3-32dec9abb316",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c688d6f2-2460-4efd-a868-2bbd7e37209e",
+  "input": "{\"title\": \"Silver Bells\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Songs of Christmas'",
+  "status": "verified"
+}

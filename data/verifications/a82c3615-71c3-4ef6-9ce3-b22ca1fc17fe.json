@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:05.865589+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a38bff75-017a-483c-96be-4f076ca3801b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a82c3615-71c3-4ef6-9ce3-b22ca1fc17fe",
+  "input": "{\"title\": \"Never Wanna See You\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'SADDEST TRUTH'",
+  "status": "verified"
+}

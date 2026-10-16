@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:22.738462+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b7db3690-5008-4188-a4cd-523dde90111f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6a2424f8-28c0-4a05-af48-49c14a11080e",
+  "input": "{\"title\": \"Synthesis\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

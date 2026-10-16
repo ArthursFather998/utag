@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:21.866837+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "64c4ffda-3bc9-4319-9094-1af9c32e5778",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7da4789-870c-4e5e-87d2-68115db4c410",
+  "input": "{\"title\": \"Unhappy Without You\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Ten'",
+  "status": "verified"
+}

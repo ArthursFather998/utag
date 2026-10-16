@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:01.937853+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d66073a-629e-45ee-9cd4-1d4bbe4bf7dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c703a365-e33f-40fd-a755-0947ae06ccc1",
+  "input": "{\"title\": \"Will He\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In Tongues'",
+  "status": "verified"
+}

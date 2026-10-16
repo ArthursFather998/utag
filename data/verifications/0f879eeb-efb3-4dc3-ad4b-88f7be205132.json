@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:12.961327+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fc0f47fc-d8c6-42cc-a9b1-ce2d91525d2c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f879eeb-efb3-4dc3-ad4b-88f7be205132",
+  "input": "{\"title\": \"Rhythm Inside\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rhythm Inside'",
+  "status": "verified"
+}

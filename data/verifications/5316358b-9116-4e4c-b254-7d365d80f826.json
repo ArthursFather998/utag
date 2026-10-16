@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:11.207724+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7dcb07b8-0fe5-4aa0-98e5-503b2705ba49",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5316358b-9116-4e4c-b254-7d365d80f826",
+  "input": "{\"title\": \"Mr. Sandman\", \"release_type\": \"single\", \"release_year\": 1964}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

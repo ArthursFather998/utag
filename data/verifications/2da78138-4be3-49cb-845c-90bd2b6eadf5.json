@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:37.710572+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "661d3436-ebff-4168-9edb-fb0995de614b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2da78138-4be3-49cb-845c-90bd2b6eadf5",
+  "input": "{\"title\": \"CS\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Pink Tape: Level 2'",
+  "status": "verified"
+}

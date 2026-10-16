@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:45.780577+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a65c2cff-9080-4a57-9804-c98acba7b075",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a6190e6-8a99-4b64-9515-38086adf557a",
+  "input": "{\"title\": \"My Immortal\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Ultimate Collection'",
+  "status": "verified"
+}

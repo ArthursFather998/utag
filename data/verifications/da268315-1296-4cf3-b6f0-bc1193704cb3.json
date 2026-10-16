@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:29.25943+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d5468db-b522-43d2-8fe9-d2e67e8d35e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "da268315-1296-4cf3-b6f0-bc1193704cb3",
+  "input": "{\"title\": \"The Morning\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Trilogy'",
+  "status": "verified"
+}

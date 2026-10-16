@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:13.350256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e248260a-e6af-4e47-af4e-a57a51d7736b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bce58af9-2f83-4bd3-a5d3-1d2b41fd3d59",
+  "input": "{\"title\": \"Super Extra Gravity\", \"release_type\": \"album\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

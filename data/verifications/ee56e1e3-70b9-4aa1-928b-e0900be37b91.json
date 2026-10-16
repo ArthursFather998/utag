@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:19.750348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c581be6e-4e8d-4ac4-a24c-710c9925489e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee56e1e3-70b9-4aa1-928b-e0900be37b91",
+  "input": "{\"title\": \"Understand\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Real Uzi'",
+  "status": "verified"
+}

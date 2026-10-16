@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:15.646129+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38ad87f0-0869-4da2-83f1-c066786a43a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5bf6d243-5954-455c-a56c-9d85d85143ee",
+  "input": "{\"title\": \"Love of My Life\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Kizuna'",
+  "status": "verified"
+}

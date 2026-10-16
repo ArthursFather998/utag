@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:49.461221+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc961fe7-fe97-4a72-8ee2-04faf8c0ac6e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f2a3f37-5f82-4e3f-8f55-9ee225f5d2f1",
+  "input": "{\"title\": \"Right Now\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Midnight Memories'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:09.867543+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb49e2bf-b4f4-4a71-8d64-8c50f835c1b5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7a66312-5d6c-4a70-a7b5-c901f3072c85",
+  "input": "{\"title\": \"Where the Story Ends (Piano Version)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Fray (Deluxe Edition)'",
+  "status": "verified"
+}

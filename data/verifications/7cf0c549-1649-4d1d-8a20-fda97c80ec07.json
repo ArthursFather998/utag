@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:23.2455+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "565e3e81-425e-4295-bec9-5ecd5fd05b3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cf0c549-1649-4d1d-8a20-fda97c80ec07",
+  "input": "{\"title\": \"What I Miss Most\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'What I Miss Most'",
+  "status": "verified"
+}

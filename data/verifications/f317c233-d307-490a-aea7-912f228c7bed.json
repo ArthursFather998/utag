@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:53.760128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3134ccb6-8536-413d-874d-7424db560e70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f317c233-d307-490a-aea7-912f228c7bed",
+  "input": "{\"title\": \"Munich\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Scars & Stories (Deluxe Edition)'",
+  "status": "verified"
+}

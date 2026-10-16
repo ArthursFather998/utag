@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:50.76224+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "daff0cd5-33c2-43d4-a540-73a4ef4b5461",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c6a8bee-fc67-4c6a-af88-7d463c0957bd",
+  "input": "{\"title\": \"Sex With My Ex\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Come Over When You're Sober, Pt. 2 (OG Version)'",
+  "status": "verified"
+}

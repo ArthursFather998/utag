@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:23.272094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e38fc10-19e8-42c2-a719-20a4cd9bd9c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15863267-26a9-4648-b3ac-e6c8444e41f4",
+  "input": "{\"title\": \"Until We're Skin & Bones\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Hurry Up Tomorrow'",
+  "status": "verified"
+}

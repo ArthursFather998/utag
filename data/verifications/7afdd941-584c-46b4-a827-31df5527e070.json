@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:30.639222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14bccd4a-ab8c-4214-976f-27e325c0f8ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7afdd941-584c-46b4-a827-31df5527e070",
+  "input": "{\"title\": \"Tus Desprecios\", \"track_number\": 76}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 76 of 'La Leyenda'",
+  "status": "verified"
+}

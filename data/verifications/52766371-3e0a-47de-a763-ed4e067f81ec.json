@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:09.783115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b74aa18b-568f-4b34-b36b-976e0ff23e5d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "52766371-3e0a-47de-a763-ed4e067f81ec",
+  "input": "{\"title\": \"Victim of Love\", \"release_type\": \"album\", \"release_year\": 1979}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

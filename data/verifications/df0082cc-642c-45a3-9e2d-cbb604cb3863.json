@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:46.230015+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0880528b-e75c-4768-b3ab-0fef2cd5d6d4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "df0082cc-642c-45a3-9e2d-cbb604cb3863",
+  "input": "{\"title\": \"Evolution of a Man\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:43.291389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84f0d281-e81f-4185-b102-8334cd3b4f7c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95fd55a5-4b54-409f-adbc-c9cced0e613f",
+  "input": "{\"title\": \"Walking Away\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Swag Live from Coachella (Weekend II)'",
+  "status": "verified"
+}

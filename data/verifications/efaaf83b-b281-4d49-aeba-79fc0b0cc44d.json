@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:50.554328+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7cd1243e-ddd6-4124-b3be-847c2ee8d06c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "efaaf83b-b281-4d49-aeba-79fc0b0cc44d",
+  "input": "{\"title\": \"The Birds, Pt. 2\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Trilogy'",
+  "status": "verified"
+}

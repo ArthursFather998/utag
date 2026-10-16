@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:54.464348+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e92f34a7-b1ed-4f61-8fe3-4a11ed4f9319",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "435f7ca4-e149-4538-a444-b4f8aff07770",
+  "input": "{\"title\": \"Love on the Brain\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love on the Brain'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:21.118996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ec0897b-cde9-435b-a437-bf652edbf67a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d798b745-913b-4cfc-b8cc-e67a592962e7",
+  "input": "{\"title\": \"You Are My Sunshine\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'McKnighttime Lullabies'",
+  "status": "verified"
+}

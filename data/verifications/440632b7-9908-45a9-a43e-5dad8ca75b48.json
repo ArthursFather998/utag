@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:57.046407+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "509a5269-4399-4bed-8897-0181de92a160",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "440632b7-9908-45a9-a43e-5dad8ca75b48",
+  "input": "{\"title\": \"Me and My Husband\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Be the Cowboy'",
+  "status": "verified"
+}

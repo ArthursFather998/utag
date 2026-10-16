@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:18.165194+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "678e842e-a225-43bf-a6a6-b8e5b46ed14c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06f69c2a-47d3-4689-8fc3-c2db4bf28b84",
+  "input": "{\"title\": \"Get Stoned\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Stripped'",
+  "status": "verified"
+}

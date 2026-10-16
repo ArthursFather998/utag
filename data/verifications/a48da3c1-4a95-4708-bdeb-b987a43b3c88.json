@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:40.761437+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dca02e5e-f76d-4646-ae30-a821d63549e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a48da3c1-4a95-4708-bdeb-b987a43b3c88",
+  "input": "{\"title\": \"The Phoenix\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'So Much For (2our) Dust: Live at Madison Square Garden'",
+  "status": "verified"
+}

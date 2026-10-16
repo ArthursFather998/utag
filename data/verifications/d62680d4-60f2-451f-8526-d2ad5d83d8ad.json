@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:58.774317+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aaa7cc74-cefe-4f7f-b0b7-afcc1e25a99a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d62680d4-60f2-451f-8526-d2ad5d83d8ad",
+  "input": "{\"title\": \"Bite Reality\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

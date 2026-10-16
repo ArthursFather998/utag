@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:41.450492+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87c1b27b-4ab4-4c72-8f11-e0fec66cefd9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "12315b76-fcf7-454e-8b2e-f246c1874fca",
+  "input": "{\"title\": \"Willing to Wait\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Music of the Sun'",
+  "status": "verified"
+}

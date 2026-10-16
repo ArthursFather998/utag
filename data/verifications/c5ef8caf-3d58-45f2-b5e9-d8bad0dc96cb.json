@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:05.397822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee2ded79-8357-48b4-bc1f-4451d27f09cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5ef8caf-3d58-45f2-b5e9-d8bad0dc96cb",
+  "input": "{\"title\": \"Twisted\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'iTunes Festival: London 2012'",
+  "status": "verified"
+}

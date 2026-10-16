@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:25.1394+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c740e5e-9e18-4909-a42f-6316bf81d26c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04917f97-da1a-4d9a-854f-5b328f1ab0cd",
+  "input": "{\"title\": \"Bootylicious\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Survivor'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:41.980928+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f4269ffd-5338-4fb1-bca6-6d96306b8f7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7125f2eb-211e-4929-927d-cb8e93f3806b",
+  "input": "{\"title\": \"Can't Afford to Do It\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Original Fleetwood Mac'",
+  "status": "verified"
+}

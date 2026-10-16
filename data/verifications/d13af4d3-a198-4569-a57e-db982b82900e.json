@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:14.804483+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e23ca1d-a53b-44e8-b36f-94182e190fd7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d13af4d3-a198-4569-a57e-db982b82900e",
+  "input": "{\"title\": \"more than friends\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'more than friends'",
+  "status": "verified"
+}

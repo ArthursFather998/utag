@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:32.350261+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a883434-8c4a-40bc-8003-a42258c841cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3eee62b8-9984-4f79-8bfb-388e563f1d55",
+  "input": "{\"title\": \"What a Feeling\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Made in the A.M. (Deluxe Edition)'",
+  "status": "verified"
+}

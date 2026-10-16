@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:05.465805+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "306e84b5-29ea-4999-a861-bc9a43fa4b74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "200297ba-3067-4225-8cc2-6068e64b928f",
+  "input": "{\"title\": \"My World\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'My World'",
+  "status": "verified"
+}

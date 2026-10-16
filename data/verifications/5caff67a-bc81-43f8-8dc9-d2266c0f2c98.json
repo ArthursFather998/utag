@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:34.121398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "08841fa1-200f-4c2d-b26f-3518ee44af59",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5caff67a-bc81-43f8-8dc9-d2266c0f2c98",
+  "input": "{\"title\": \"A Little Less Sixteen Candles, a Little More \\\"Touch Me\\\"\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

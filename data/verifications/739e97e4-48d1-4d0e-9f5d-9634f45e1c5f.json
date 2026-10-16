@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:01.047905+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "562f4af6-64b3-435b-aff7-286cd461da0b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "739e97e4-48d1-4d0e-9f5d-9634f45e1c5f",
+  "input": "{\"title\": \"clover\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:57.00033+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e90035a3-12a5-4d9f-b1ef-f95e8f68fff5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99a277e6-4c1f-4858-ae60-0f8796dde4da",
+  "input": "{\"title\": \"Werewolf (featuring Bring Me the Horizon)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Pink Tape: Level 3'",
+  "status": "verified"
+}

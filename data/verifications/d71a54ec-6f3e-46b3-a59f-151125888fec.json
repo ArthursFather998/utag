@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:21.017132+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74147146-d7f0-4fc7-8835-7d03c019677e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d71a54ec-6f3e-46b3-a59f-151125888fec",
+  "input": "{\"title\": \"Text Book\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:46.798875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "539411ca-2ae2-4f4d-b899-1c0b6e4f786a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c13bc398-a038-4872-ae19-6ec371e71ecd",
+  "input": "{\"title\": \"Helium\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Adulthood'",
+  "status": "verified"
+}

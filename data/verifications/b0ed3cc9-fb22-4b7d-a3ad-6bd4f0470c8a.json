@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:07.180713+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e06bd24f-c689-486c-812f-f41d0e563ffd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0ed3cc9-fb22-4b7d-a3ad-6bd4f0470c8a",
+  "input": "{\"title\": \"Rather Lie\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Rather Lie'",
+  "status": "verified"
+}

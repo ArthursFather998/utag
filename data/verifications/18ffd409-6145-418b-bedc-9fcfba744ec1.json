@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:58.195195+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "065e92bf-a353-4ae6-9396-9e385939201f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18ffd409-6145-418b-bedc-9fcfba744ec1",
+  "input": "{\"title\": \"I Need Love\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '*NSYNC'",
+  "status": "verified"
+}

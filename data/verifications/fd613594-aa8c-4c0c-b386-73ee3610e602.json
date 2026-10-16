@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:59.916027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87bb162d-88a4-49bf-84b0-4a0b6bde340f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd613594-aa8c-4c0c-b386-73ee3610e602",
+  "input": "{\"title\": \"Girl on Fire (Inferno version; featuring Nicki Minaj)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Girl on Fire'",
+  "status": "verified"
+}

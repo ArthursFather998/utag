@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:31.425593+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6887d90-ea6e-42b1-9195-9da9cfb833d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4d412a4-6421-4d72-a239-cbcc0690e0ae",
+  "input": "{\"title\": \"Disc 1 - I Understand\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

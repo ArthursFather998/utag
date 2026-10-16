@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:00.574007+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0b5545a-9774-4f8f-b6e2-4471ff7d42fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13d8d0b0-9302-459e-bcb9-40bf4279260a",
+  "input": "{\"title\": \"Over My Head\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live'",
+  "status": "verified"
+}

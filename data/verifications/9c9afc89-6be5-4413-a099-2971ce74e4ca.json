@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:38.301728+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b5ee492-b5dc-41a1-a817-11a91022230c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c9afc89-6be5-4413-a099-2971ce74e4ca",
+  "input": "{\"title\": \"Superman\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Eminem Show'",
+  "status": "verified"
+}

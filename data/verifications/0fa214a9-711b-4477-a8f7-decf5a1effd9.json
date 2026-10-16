@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:35.91591+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b32088d-676b-4840-9c17-6180dbef9af5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0fa214a9-711b-4477-a8f7-decf5a1effd9",
+  "input": "{\"title\": \"All Over Again\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Time'",
+  "status": "verified"
+}

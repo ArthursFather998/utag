@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:49.660474+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2b385e2-d669-4f3c-ab46-36c50995e56e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e1c7789-3ee1-46ca-82ca-c045f93dbfa3",
+  "input": "{\"title\": \"Play the Game\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Greatest Hits'",
+  "status": "verified"
+}

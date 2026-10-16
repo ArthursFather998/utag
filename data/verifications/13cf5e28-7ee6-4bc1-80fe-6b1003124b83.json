@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:38.228087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fd383b4-20a5-48f8-b7a0-a4552ff9407f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "13cf5e28-7ee6-4bc1-80fe-6b1003124b83",
+  "input": "{\"title\": \"Hellbound\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hellbound'",
+  "status": "verified"
+}

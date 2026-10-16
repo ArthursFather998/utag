@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:45.579012+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b575a426-351a-4327-94fd-08b35afbe58a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "45c42e7c-3060-4aec-97b9-280137e085a7",
+  "input": "{\"title\": \"The Pleasure Principle\", \"release_type\": \"single\", \"release_year\": 1987}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

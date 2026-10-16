@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:05.404742+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b522cf40-b838-4415-ad2a-8f84a34c923a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "272381ca-03d9-4a74-a914-8d26a9a24fab",
+  "input": "{\"title\": \"I Want It All\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Queen Rocks'",
+  "status": "verified"
+}

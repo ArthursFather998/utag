@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:39.103601+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a64f1f8e-11d7-4416-81a9-5793a6daf188",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c77dcde7-ba7e-42fe-aedc-7e4417166974",
+  "input": "{\"title\": \"Bust Me\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Lil Uzi Vert vs. the World 2'",
+  "status": "verified"
+}

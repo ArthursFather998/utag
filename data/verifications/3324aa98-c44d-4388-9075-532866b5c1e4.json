@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:14.405222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3daf7ce0-3fd7-44e8-a3ba-503f33b9f732",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3324aa98-c44d-4388-9075-532866b5c1e4",
+  "input": "{\"title\": \"Remember Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Reign'",
+  "status": "verified"
+}

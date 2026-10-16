@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:31.907168+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a24d12f-0c90-4bc7-9b2b-ed2f45dcdab9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff33031e-02ce-4b42-a59f-3c18bb99bc29",
+  "input": "{\"title\": \"That Juice\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Diamonds'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:08.685879+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8bd57e0-9a03-4d87-bf38-36da36fb96f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f03ad2f6-13d1-4784-82d1-582e168fd93d",
+  "input": "{\"title\": \"Something Inside of Me\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Black Magic Woman'",
+  "status": "verified"
+}

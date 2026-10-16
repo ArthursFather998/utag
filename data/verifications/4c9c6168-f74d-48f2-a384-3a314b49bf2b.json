@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:03.710504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d30ecffe-aff5-40a2-9900-acc52603c2ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c9c6168-f74d-48f2-a384-3a314b49bf2b",
+  "input": "{\"title\": \"Fast Talking Woman Blues\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Jumping at Shadows: The Blues Years'",
+  "status": "verified"
+}

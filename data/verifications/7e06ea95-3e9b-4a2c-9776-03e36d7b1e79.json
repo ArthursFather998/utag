@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:46.670606+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c2cbf164-9be4-42a0-8144-7fa6fcba1805",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e06ea95-3e9b-4a2c-9776-03e36d7b1e79",
+  "input": "{\"title\": \"Party Monster\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Live at SoFi Stadium'",
+  "status": "verified"
+}

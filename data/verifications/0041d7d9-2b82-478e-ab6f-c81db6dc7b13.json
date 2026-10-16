@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:07.901682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f83629b6-6677-4b8b-947a-2f1a1f4d122b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0041d7d9-2b82-478e-ab6f-c81db6dc7b13",
+  "input": "{\"title\": \"Fresh\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '1017 vs. the World'",
+  "status": "verified"
+}

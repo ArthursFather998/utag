@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:46.600765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "577b2aca-03a0-4a3b-a3d3-6b64e2644d02",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a28e361-008a-4765-bf05-0ea4ba054e88",
+  "input": "{\"title\": \"Say Somethin' (David Morales Radio Edit)\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:47.848059+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4ef841e-6d2c-4dba-a27f-e98ea64a3b2e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5590b93d-0f24-450b-893e-d223a5796e8e",
+  "input": "{\"title\": \"Bonde do Brun\\u00e3o\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bonde do Brunão'",
+  "status": "verified"
+}

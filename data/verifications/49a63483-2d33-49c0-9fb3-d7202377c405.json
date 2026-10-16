@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:59.804506+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a93e6d49-f1d9-47ba-a285-45ef13e67ee6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49a63483-2d33-49c0-9fb3-d7202377c405",
+  "input": "{\"title\": \"The Principal\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'K-12'",
+  "status": "verified"
+}

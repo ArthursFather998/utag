@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:06.980305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd4e844d-d8f9-4c5e-88bb-b754aaf3ca98",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3300b072-4f8e-4b87-afe2-d4239a7d9830",
+  "input": "{\"title\": \"Prelude\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

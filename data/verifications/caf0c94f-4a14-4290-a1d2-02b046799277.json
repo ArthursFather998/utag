@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:39.827398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "99c0823a-fd62-4706-83d1-d8a8e5eef2b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "caf0c94f-4a14-4290-a1d2-02b046799277",
+  "input": "{\"title\": \"Show Pony\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Love You So F***ing Much'",
+  "status": "verified"
+}

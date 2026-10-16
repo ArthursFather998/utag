@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:41.323751+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8e0a85e-e761-4c26-84c1-7ff105ec4921",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b2c4e9f-3d49-4356-9d4e-6cba5e02f1ed",
+  "input": "{\"title\": \"Every Little Bit Hurts\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Every Little Bit Hurts'",
+  "status": "verified"
+}

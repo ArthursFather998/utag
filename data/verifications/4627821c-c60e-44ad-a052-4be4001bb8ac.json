@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:22.958937+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e578d81-2725-43f7-a3c8-4c22211cc81d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4627821c-c60e-44ad-a052-4be4001bb8ac",
+  "input": "{\"title\": \"Last Tears\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Bridges'",
+  "status": "verified"
+}

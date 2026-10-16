@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:38.402253+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3127d1cf-cdd1-4233-9e62-3672bdc2066b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a9a1434-eea7-4f03-8387-a0a22204f5f7",
+  "input": "{\"title\": \"Bring Me to Life\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Ultimate Collection'",
+  "status": "verified"
+}

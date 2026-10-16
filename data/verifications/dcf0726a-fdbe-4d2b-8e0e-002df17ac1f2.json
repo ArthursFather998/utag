@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:11.159632+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4409fc4b-4380-429f-aece-a7564ce4621b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dcf0726a-fdbe-4d2b-8e0e-002df17ac1f2",
+  "input": "{\"title\": \"Classics\", \"release_type\": \"album\", \"release_year\": 1988}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

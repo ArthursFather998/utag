@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:05.071902+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e017ed35-30ea-4161-a66a-9cb4056ea8e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "062b8f3c-ae38-42a8-b396-9c0c23487272",
+  "input": "{\"title\": \"Out Of Luck\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Crunch Time'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:16.722285+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0de6b4e-da44-47d2-86de-6a68a76f9d9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e9153155-d98c-416a-b38b-7e9948f51b74",
+  "input": "{\"title\": \"Mothers Talk\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Live at Massey Hall Toronto, Canada / 1985'",
+  "status": "verified"
+}

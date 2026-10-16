@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:50.129603+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58d1cffc-35e6-41d8-8b58-ff265aea836e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6eb093a2-7160-4f0a-8760-44eb6c86253c",
+  "input": "{\"title\": \"Boyfriend\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

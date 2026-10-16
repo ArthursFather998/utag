@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:21.785505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46612755-8c1b-4de8-9429-b37fd5933a6f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a9444a4-c9b4-46c7-be1c-c3f7f9a9e933",
+  "input": "{\"title\": \"Someday\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Greatest Hits'",
+  "status": "verified"
+}

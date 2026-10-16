@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:40.731642+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "14ee8573-bdc5-4df2-8a48-f4871697b78b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9462b2fb-f9b0-4745-86cb-9a66ef10614c",
+  "input": "{\"title\": \"Someday Soon\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Time3'",
+  "status": "verified"
+}

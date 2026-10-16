@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:26.038648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7bfd7929-8c21-4942-bc82-010e4f7f3325",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8565a960-daa8-43ae-86ed-9588587514a4",
+  "input": "{\"title\": \"Sands of Time\", \"release_type\": \"single\", \"release_year\": 1971}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

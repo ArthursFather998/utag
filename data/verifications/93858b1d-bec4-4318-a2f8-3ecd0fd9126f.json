@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:58.187565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab48de88-e31d-4247-b847-93a5cc949cc1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93858b1d-bec4-4318-a2f8-3ecd0fd9126f",
+  "input": "{\"title\": \"The World Keep on Turning\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Black Magic Woman'",
+  "status": "verified"
+}

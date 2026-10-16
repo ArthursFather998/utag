@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:36.641056+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a9ca409-5757-4732-87b6-9a057e3c7210",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "65fcaef4-5a88-4fd3-b1d8-809e002c5fd2",
+  "input": "{\"title\": \"Talk About Georgia\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of '9'",
+  "status": "verified"
+}

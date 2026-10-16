@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:22:00.315528+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c29c051d-7f39-447d-99ea-a7cba18077f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5a59bbd-b839-4896-879b-35629b5514bf",
+  "input": "{\"title\": \"You're Not Home\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cause and Effect (Deluxe Edition)'",
+  "status": "verified"
+}

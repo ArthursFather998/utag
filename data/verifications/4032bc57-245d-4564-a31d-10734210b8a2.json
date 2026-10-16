@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:09.930801+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f9eed7cc-9ef0-4d01-9b57-6c4ee65f0393",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4032bc57-245d-4564-a31d-10734210b8a2",
+  "input": "{\"title\": \"Rock wit U\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Songs in A Minor'",
+  "status": "verified"
+}

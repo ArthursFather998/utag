@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:20.833481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cbca343f-d02e-4ed6-9fb2-fc5fa80bff5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7dbdfd3-ca19-49da-acca-6e9835359205",
+  "input": "{\"title\": \"Mu\\u00f1equito De Trapo\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Muñequito de Trapo'",
+  "status": "verified"
+}

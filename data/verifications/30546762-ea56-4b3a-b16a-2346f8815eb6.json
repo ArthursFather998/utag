@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:38.899356+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e44480f-0831-49f9-b9ef-8a5463624895",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30546762-ea56-4b3a-b16a-2346f8815eb6",
+  "input": "{\"title\": \"Paul (skit)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Relapse'",
+  "status": "verified"
+}

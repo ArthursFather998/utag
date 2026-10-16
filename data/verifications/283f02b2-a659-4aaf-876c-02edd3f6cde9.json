@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:36.757678+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f034178e-4806-4096-8ce6-f177af1ebd8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "283f02b2-a659-4aaf-876c-02edd3f6cde9",
+  "input": "{\"title\": \"Tone Deaf\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tone Deaf'",
+  "status": "verified"
+}

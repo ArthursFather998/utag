@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:04.88663+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f37e148-8dea-4316-8b07-47c4c5e59c3f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bdcdcce4-3b93-476c-99d8-5e86cc2c8030",
+  "input": "{\"title\": \"crave\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'crave'",
+  "status": "verified"
+}

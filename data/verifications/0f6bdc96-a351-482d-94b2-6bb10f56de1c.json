@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:39.84009+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c45f437e-a575-4bcd-aa26-986b7e11db9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f6bdc96-a351-482d-94b2-6bb10f56de1c",
+  "input": "{\"title\": \"Wherever You Are\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Forever Selena'",
+  "status": "verified"
+}

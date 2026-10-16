@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:25.080551+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6f051cc-63d7-4c63-9ad3-26c09a5bc577",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca6db6f9-9173-4f9e-b2f6-eb2542dc9de2",
+  "input": "{\"title\": \"Victim of Love\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Victim of Love'",
+  "status": "verified"
+}

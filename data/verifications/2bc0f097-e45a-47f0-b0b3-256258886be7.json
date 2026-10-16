@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:02:37.21563+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46a7d03d-744e-4ead-8b42-026547e13e1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2bc0f097-e45a-47f0-b0b3-256258886be7",
+  "input": "{\"title\": \"Separate Ways\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Plan A'",
+  "status": "verified"
+}

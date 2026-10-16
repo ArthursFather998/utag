@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:45.650094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e42add0c-3ded-44ca-a3cb-7e95cc6e3cc8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ad1871b2-3130-45e5-a0c9-82020dfe4694",
+  "input": "{\"title\": \"Call Out My Name\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

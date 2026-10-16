@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:01.115912+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88c853f3-44ca-4e08-a014-211f7f398f46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ed4c083-9c7a-426c-bc6a-3cccb552ec3d",
+  "input": "{\"title\": \"Without Question\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Road to El Dorado'",
+  "status": "verified"
+}

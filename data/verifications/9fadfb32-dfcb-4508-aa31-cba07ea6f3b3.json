@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:28.69296+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "95d02dcb-0828-4fd2-945b-c8e32cef30d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9fadfb32-dfcb-4508-aa31-cba07ea6f3b3",
+  "input": "{\"title\": \"She Never Been to Pluto\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Pluto x Baby Pluto'",
+  "status": "verified"
+}

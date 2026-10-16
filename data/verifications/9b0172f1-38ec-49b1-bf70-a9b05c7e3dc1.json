@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:51.234522+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "691c0a65-f8d3-48e1-9bc7-f3ad41e06bb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b0172f1-38ec-49b1-bf70-a9b05c7e3dc1",
+  "input": "{\"title\": \"Where to Now St. Peter?\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Tumbleweed Connection'",
+  "status": "verified"
+}

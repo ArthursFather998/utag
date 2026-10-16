@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:27.024222+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "93a95a1a-84ac-4f3d-934d-8fa21a61cec3",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "588bdd74-3171-484a-843d-35c87c24a17a",
+  "input": {
+    "artist": "Lil Peep, XXXTENTACION",
+    "release": "Come Over When You're Sober, Pt. 2",
+    "title": "Falling Down"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Confirmed: single by Lil Peep and XXXTentacion, released Sept 19, 2018, bonus track on the deluxe edition of Come Over When You're Sober, Pt. 2. | sources: https://en.wikipedia.org/wiki/Falling_Down_(Lil_Peep_and_XXXTentacion_song), https://lil-peep.fandom.com/wiki/Come_Over_When_You%27re_Sober_Pt._2",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:21.244704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3dc9fd92-9e26-40fa-a60c-d21d75831c30",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a9bc889-cd94-496b-aa09-e12947db1698",
+  "input": "{\"title\": \"GAMES\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'PAYCHECK'",
+  "status": "verified"
+}

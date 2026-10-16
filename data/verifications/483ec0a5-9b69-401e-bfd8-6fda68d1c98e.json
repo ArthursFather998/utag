@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:44.13568+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f733432-80d5-4b1d-b4b0-d8596b796979",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "483ec0a5-9b69-401e-bfd8-6fda68d1c98e",
+  "input": "{\"title\": \"Under Pressure\", \"release_type\": \"single\", \"release_year\": 1981}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

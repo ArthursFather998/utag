@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:02.155991+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c757d851-e3a1-4a5b-9fea-f99cfc8f977b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a32f062-eebe-44a9-9f09-aa0de5d3df97",
+  "input": "{\"title\": \"Disco Medley\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Disco Medley'",
+  "status": "verified"
+}

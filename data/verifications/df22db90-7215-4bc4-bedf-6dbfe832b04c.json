@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:33.912767+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "987cbaf7-e64e-45a2-8687-f4066b013a2c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "df22db90-7215-4bc4-bedf-6dbfe832b04c",
+  "input": "{\"title\": \"Can't Let Go\", \"release_type\": \"single\", \"release_year\": 1991}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

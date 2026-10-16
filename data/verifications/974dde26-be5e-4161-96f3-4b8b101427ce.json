@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:37.331897+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e5622c0-59cf-4d17-9808-d06100735137",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "974dde26-be5e-4161-96f3-4b8b101427ce",
+  "input": "{\"title\": \"On BS\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Her Loss'",
+  "status": "verified"
+}

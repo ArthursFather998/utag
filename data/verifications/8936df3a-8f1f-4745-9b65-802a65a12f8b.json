@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:29.820858+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "23c00c96-1930-4278-b882-8334f635cd9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8936df3a-8f1f-4745-9b65-802a65a12f8b",
+  "input": "{\"title\": \"Poison (Remix)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Bell Biv DeVoe Greatest Hits'",
+  "status": "verified"
+}

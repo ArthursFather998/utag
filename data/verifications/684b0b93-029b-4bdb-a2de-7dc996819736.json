@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:14.710119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "396d9f76-e738-4913-be55-67bb784d2e7f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "684b0b93-029b-4bdb-a2de-7dc996819736",
+  "input": "{\"title\": \"The Phoenix\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Phoenix'",
+  "status": "verified"
+}

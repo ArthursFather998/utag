@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:05.433371+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fefa30e-e3d1-42bc-9af2-893471473913",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d60767d-888f-402b-bacf-2c230489aa33",
+  "input": "{\"title\": \"Taken\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Up All Night'",
+  "status": "verified"
+}

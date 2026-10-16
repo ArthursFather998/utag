@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:10.420192+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d9df6d3-6c9f-4063-8e9a-0be011c79cdc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5b4492c-ac5d-476d-ae6b-7f1f2ab6a292",
+  "input": "{\"title\": \"Karma\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'A Jagged Love Story'",
+  "status": "verified"
+}

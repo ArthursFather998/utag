@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:39.646061+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb55886b-f1d7-4496-bc3d-fed2bc92d2ea",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f6f77805-7748-4a04-82df-66d1c29b4eb6",
+  "input": "{\"title\": \"Buried Treasure\", \"release_type\": \"album\", \"release_year\": 1983}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

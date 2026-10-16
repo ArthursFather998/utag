@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:51.868325+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a1b51cb-4464-476f-a744-3c4a5910d67c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d20e007c-13d3-4732-903d-83e7dde96e72",
+  "input": "{\"title\": \"Rhiannon\", \"release_type\": \"single\", \"release_year\": 1976}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

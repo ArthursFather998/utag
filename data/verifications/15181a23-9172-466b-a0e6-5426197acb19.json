@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:11.753889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6cf38cc-a4e9-488d-ab97-4a0a69bcb095",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15181a23-9172-466b-a0e6-5426197acb19",
+  "input": "{\"title\": \"Scream\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Scream'",
+  "status": "verified"
+}

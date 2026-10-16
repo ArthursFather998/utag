@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:34.831563+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "43f0a58b-9df2-4c19-8700-db7ddbac0c9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a898f7e5-88bd-46c2-a65a-eb14cf0c072c",
+  "input": "{\"title\": \"Feeling U, Feeling Me (Interlude)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Diary of Alicia Keys'",
+  "status": "verified"
+}

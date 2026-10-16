@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:07.743854+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45669b71-13e9-4175-b585-7d886b78f2ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f662774-67d2-49fd-abd9-8d537a593d4d",
+  "input": "{\"title\": \"The Chain\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

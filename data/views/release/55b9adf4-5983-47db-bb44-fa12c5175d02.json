@@ -1,0 +1,179 @@
+{
+  "artists": {
+    "canonical_name": "unperro andaluz",
+    "id": "2e7697de-885c-420b-beee-f92321b69096"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "unperro andaluz",
+        "id": "2e7697de-885c-420b-beee-f92321b69096"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T13:58:51.875707+00:00",
+      "edition": "original",
+      "id": "0d5d1022-10ba-4238-bc72-e87e7d13e460",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "perroperro"
+    },
+    {
+      "artists": {
+        "canonical_name": "unperro andaluz",
+        "id": "2e7697de-885c-420b-beee-f92321b69096"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T13:59:42.010294+00:00",
+      "edition": "original",
+      "id": "1a7eb326-e8e8-494e-8b51-3d150819d78c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "fantasíasmiguel."
+    },
+    {
+      "artists": {
+        "canonical_name": "unperro andaluz",
+        "id": "2e7697de-885c-420b-beee-f92321b69096"
+      },
+      "artwork": [
+        {
+          "id": "194f1984-22ce-419e-926b-5d5e28568858",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/64/fb/4164fbc7-8c5f-1a4f-1389-9a252262408a/197773525813_cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:46.327865+00:00",
+      "edition": "original",
+      "id": "2aae15a1-2228-4a6d-8dc1-e349cc5b85fa",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "peek!"
+    },
+    {
+      "artists": {
+        "canonical_name": "unperro andaluz",
+        "id": "2e7697de-885c-420b-beee-f92321b69096"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T13:57:57.21137+00:00",
+      "edition": "original",
+      "id": "afe9b3a7-1322-436e-9970-01204af36e3f",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "tragaperras"
+    },
+    {
+      "artists": {
+        "canonical_name": "unperro andaluz",
+        "id": "2e7697de-885c-420b-beee-f92321b69096"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T13:59:30.795308+00:00",
+      "edition": "original",
+      "id": "b6ae0875-6d2f-457e-8364-2b76c6678eec",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "la piedad"
+    },
+    {
+      "artists": {
+        "canonical_name": "unperro andaluz",
+        "id": "2e7697de-885c-420b-beee-f92321b69096"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T13:59:20.545575+00:00",
+      "edition": "original",
+      "id": "d83ed264-9917-48be-a4b1-d0c0e82fa9ff",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Los Infantes"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "2e7697de-885c-420b-beee-f92321b69096",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T13:59:09.994235+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "55b9adf4-5983-47db-bb44-fa12c5175d02",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2020,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "Amarillo Banqueta",
+    "updated_at": "2026-10-16T13:59:09.994235+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2e7697de-885c-420b-beee-f92321b69096",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T13:59:14.75199+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "01e6d198-df8f-4bb8-b41c-80a9099a93be",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "55b9adf4-5983-47db-bb44-fa12c5175d02",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Amarillo Banqueta",
+      "track_number": 1,
+      "updated_at": "2026-10-16T13:59:14.75199+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T13:59:12.524695+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "55b9adf4-5983-47db-bb44-fa12c5175d02",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "e351f71c-2f25-4269-8e5b-6777fad6bd2e",
+      "input": "{\"title\": \"Amarillo Banqueta\", \"release_type\": \"single\", \"release_year\": 2020}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 20",
+      "status": "verified"
+    }
+  ]
+}

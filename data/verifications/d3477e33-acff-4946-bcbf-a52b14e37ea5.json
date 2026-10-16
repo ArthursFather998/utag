@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:10.288502+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c63e92cd-2afa-41e2-b9a2-3e9bad8f90e4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3477e33-acff-4946-bcbf-a52b14e37ea5",
+  "input": "{\"title\": \"It's Gone\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Ever Since'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:36.093659+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfd4beee-2877-47d2-aeb2-9bb3c88e0ce3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a9b74eb-2d21-43ec-a5d6-d645c5cf61cc",
+  "input": "{\"title\": \"Carousel\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'A Matter of Time: The Final Hour'",
+  "status": "verified"
+}

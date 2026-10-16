@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:42.750605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c83e69b-d7dc-4130-a557-cde5f6b15151",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8db98e24-d915-47c3-8d9c-b9761f939bd4",
+  "input": "{\"title\": \"Promise\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Playlist: The Very Best of Jagged Edge'",
+  "status": "verified"
+}

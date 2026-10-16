@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:02.251038+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71f0d71c-3d3a-4a1b-a0e5-e53e58062edc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "372e4a00-99be-4bf2-8f46-e45717865577",
+  "input": "{\"title\": \"Stop Messin' Round\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Black Magic Woman'",
+  "status": "verified"
+}

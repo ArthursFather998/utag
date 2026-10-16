@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:41.774793+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f15107d5-4a0a-47cd-a879-572e5014d6b9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab93680d-e23b-4fb9-aaa0-35cf9363f6e8",
+  "input": "{\"title\": \"Wedding Night\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'hurting'",
+  "status": "verified"
+}

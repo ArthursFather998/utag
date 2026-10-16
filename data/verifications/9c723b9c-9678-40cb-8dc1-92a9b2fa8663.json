@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:12.041014+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dca4cd30-4769-4a04-a7f0-7296be34fa6a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c723b9c-9678-40cb-8dc1-92a9b2fa8663",
+  "input": "{\"title\": \"Hey Look Ma, I Made It\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hey Look Ma, I Made It'",
+  "status": "verified"
+}

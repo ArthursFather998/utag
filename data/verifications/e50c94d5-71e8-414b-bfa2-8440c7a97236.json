@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:47.540801+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c8c34a6-f96c-4220-9220-d0b65c416a34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e50c94d5-71e8-414b-bfa2-8440c7a97236",
+  "input": "{\"title\": \"Don't Give Up on Us\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Give Up on Us'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:01.474006+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb5c0554-698d-4dda-a8f3-e3681fb117c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "073d3a50-b234-4ffe-aff3-54314ee7e8c9",
+  "input": "{\"title\": \"Little Lies\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Opus Collection'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:20.799623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f17bcb88-c30d-433d-9e49-0cb54ba447bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b532962-a9cd-4891-9c5f-de9dc5538c32",
+  "input": "{\"title\": \"I Am Free\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Playlist: The Very Best of Mariah Carey'",
+  "status": "verified"
+}

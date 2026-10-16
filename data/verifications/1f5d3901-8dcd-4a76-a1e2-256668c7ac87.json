@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:40.300448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "23510d2b-e3a3-49e0-b8d2-8207f2a09786",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f5d3901-8dcd-4a76-a1e2-256668c7ac87",
+  "input": "{\"title\": \"Hate That I Love You (featuring Ne-Yo)\", \"track_number\": 31}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 31 of 'Vinyl Box Set'",
+  "status": "verified"
+}

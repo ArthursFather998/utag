@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:52.397263+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3c08c10-7315-405f-94a3-6456d1d64489",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7371908-3d3d-42bf-87f5-298ebbe1a8cd",
+  "input": "{\"title\": \"Natural Thing\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Time3'",
+  "status": "verified"
+}

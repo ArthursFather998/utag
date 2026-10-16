@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:24.14135+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0812fd5-a127-4e39-af7d-a40ee9d25b0f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "19e467f3-e538-4478-bf14-f46a99f59c0c",
+  "input": "{\"title\": \"Number Ones\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

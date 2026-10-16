@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:45.340564+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d76de285-e087-4071-9b70-8bd3a7ec198a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa0f0b12-ce86-46e6-97f3-b0b4ea425ada",
+  "input": "{\"title\": \"Lil Snowman\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Mariah Carey's All I Want for Christmas Is You (Original Motion Picture Soundtrack)'",
+  "status": "verified"
+}

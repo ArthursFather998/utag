@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:57.622656+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a15398b2-16f0-458b-9a42-8f697eca6eef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19764116-d2ba-40aa-8a4e-ef1d1295ada7",
+  "input": "{\"title\": \"A Bad Dream\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Under the Iron Sea'",
+  "status": "verified"
+}

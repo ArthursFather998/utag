@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:24.78769+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c5c28c1-1f88-44ad-842b-57450e2270b5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3eb4e91-1c6e-4e1c-9568-05910be14d1b",
+  "input": "{\"title\": \"Don't Let the Light Go Out\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Don't Let the Light Go Out'",
+  "status": "verified"
+}

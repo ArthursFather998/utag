@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:35.630052+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd403141-b98c-4190-8f77-6d461af1db70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82e0d5ce-1632-47cd-b6d6-93999d06dca4",
+  "input": "{\"title\": \"Shake It Off (Remix)\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

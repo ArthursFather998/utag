@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:36.6611+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e20b0f4d-6e4b-4660-8177-76804477f24d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0878a7c5-1d9d-4762-b348-fb53789fd8d1",
+  "input": "{\"title\": \"Lost Whispers\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:32.427244+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "78cca07f-9157-4e77-8d19-6b5c785913b5",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "6d629c4f-1f45-41ae-b7fb-639a50b904b7",
+  "input": {
+    "artist": "Destiny's Child",
+    "release": "Survivor",
+    "title": "Dangerously In Love"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Task's critical claim is wrong: \"Dangerously in Love\" IS track 11 on Destiny's Child's Survivor (2001); Beyonce's 2003 solo re-recording is titled \"Dangerously in Love 2\". Do NOT change artist to Beyonce. | sources: https://en.wikipedia.org/wiki/Survivor_(Destiny's_Child_album), https://www.qobuz.com/ca-en/album/survivor-destinys-child/5099750178324",
+  "status": "verified"
+}

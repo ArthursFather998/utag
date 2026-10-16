@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:31.294734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37eed22d-dfdc-43c5-9666-5264265615e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80bbce97-d6f6-40bf-a790-2b09a6a30970",
+  "input": "{\"title\": \"Waving\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Going Going Gone'",
+  "status": "verified"
+}

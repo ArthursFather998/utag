@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:21:45.478455+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf944d9b-2fb5-437a-ab16-ca9cd6bdd0e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ae76baf-3ccc-431a-9c02-ab3871feabf5",
+  "input": "{\"title\": \"The Starting Line\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Strangeland (Deluxe Edition)'",
+  "status": "verified"
+}

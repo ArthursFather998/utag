@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:29.944847+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "789ee9d9-01b2-425e-a98e-368148b7eedb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9a970fc2-883f-4e08-b659-fc47da65c17e",
+  "input": "{\"title\": \"Silo\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Solstice'",
+  "status": "verified"
+}

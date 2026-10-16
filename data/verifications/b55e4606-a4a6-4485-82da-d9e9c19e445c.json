@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:03.729986+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41a05e8e-98bb-4e6a-b45b-0544b8c282a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b55e4606-a4a6-4485-82da-d9e9c19e445c",
+  "input": "{\"title\": \"Dreams\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dreams'",
+  "status": "verified"
+}

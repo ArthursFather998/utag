@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:19.360787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49f71e0f-8058-4fc6-8cd1-23250d233a40",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a484e8e1-0221-4e94-93dc-36bd2fba6667",
+  "input": "{\"title\": \"Within a Room Somewhere\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Within a Room Somewhere'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:05.455384+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b1a472c-16aa-4fbd-8e6c-dd019dcbf9ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a35fb2f6-e212-45ba-8e0f-ef4fbe74b121",
+  "input": "{\"title\": \"Once Upon a Dream\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Once Upon a Dream'",
+  "status": "verified"
+}

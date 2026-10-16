@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:10.344915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1c2a64a-26ac-44b4-9baa-efa6e6e01895",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b62e5544-b1af-4fc2-8a74-986a4d5aaee4",
+  "input": "{\"title\": \"A Girl Like Me\", \"release_type\": \"album\", \"release_year\": 2006}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

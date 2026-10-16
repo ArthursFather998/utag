@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:33.229609+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f68d98a9-a3b0-4419-b1e4-3ddd75900135",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e15fc681-699e-4fdc-a54b-ec45809dd9f5",
+  "input": "{\"title\": \"Tie Your Mother Down\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Classic Queen'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:09.740115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2656e61f-c510-4a8f-b1aa-7aeeb760e9c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a1024cd-5d5e-417d-8ed7-fb4c2c8ad4e6",
+  "input": "{\"title\": \"Disc 2 - I Can't Make It Without You\", \"track_number\": 47}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 47 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

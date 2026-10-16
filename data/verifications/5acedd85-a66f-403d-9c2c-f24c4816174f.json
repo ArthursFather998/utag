@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:16.802804+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7215158f-472c-4fc1-be20-d6718a0a1c0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5acedd85-a66f-403d-9c2c-f24c4816174f",
+  "input": "{\"title\": \"Goodbye Summer :(\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Prom Queen'",
+  "status": "verified"
+}

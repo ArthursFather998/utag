@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:23.065566+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49b2b040-4325-4f6e-a24a-60460c1e9924",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54e42d19-d431-43d9-9fce-ab4f92b34c2a",
+  "input": "{\"title\": \"Street Boogie\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Victim of Love'",
+  "status": "verified"
+}

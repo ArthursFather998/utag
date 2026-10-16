@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:44.512925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66cca988-f15a-4a6f-be39-d660b82e40de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "efbd0c1b-d49e-4c6d-9a1b-bc4cc77f9280",
+  "input": "{\"title\": \"IT'S NOT THAT SERIOUS\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'IT'S NOT THAT SERIOUS'",
+  "status": "verified"
+}

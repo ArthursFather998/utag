@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:31.388001+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd0aca18-2300-433f-b985-2ff0f78406b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5588180d-dfa3-463d-8f8c-2ef5ece31cb1",
+  "input": "{\"title\": \"The Beginning\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'This Is Where We Fall'",
+  "status": "verified"
+}

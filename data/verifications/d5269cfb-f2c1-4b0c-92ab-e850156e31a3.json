@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:46.374+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe57c5fc-8374-4cf1-9b41-95e1c1c2e814",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5269cfb-f2c1-4b0c-92ab-e850156e31a3",
+  "input": "{\"title\": \"Feel Alone\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Fighting Demons'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:37:28.54766+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f14ff3fb-5e54-4bbd-8aae-faf8fb552c9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a6f0677-afdc-4139-9f5f-58a29a7a61b9",
+  "input": "{\"title\": \"It's My Party\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Boys, Boys, Boys with Bonus Tracks'",
+  "status": "verified"
+}

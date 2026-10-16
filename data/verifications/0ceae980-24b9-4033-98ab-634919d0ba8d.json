@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:29.84691+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1740ea9d-f3f2-4491-80b5-81d2d37fa8d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ceae980-24b9-4033-98ab-634919d0ba8d",
+  "input": "{\"title\": \"Caught in the Rain\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Penguin'",
+  "status": "verified"
+}

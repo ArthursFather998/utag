@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:26.561915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60f7a6fa-eba6-427b-aff7-3620509d5d04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43c91ae5-4c39-4643-8edb-1ff90d2bb8b4",
+  "input": "{\"title\": \"The Last One To Know\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Come Softly to Me: The Very Best of the Fleetwoods'",
+  "status": "verified"
+}

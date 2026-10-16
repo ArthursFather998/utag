@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:26.46933+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8cc02b00-45b8-402b-8aa8-6083c1a7a862",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a80e12b7-76b2-4d8e-a317-57b273f56481",
+  "input": "{\"title\": \"20 Part 3 (Interlude)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '20 Y.O.'",
+  "status": "verified"
+}

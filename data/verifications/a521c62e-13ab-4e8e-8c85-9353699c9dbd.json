@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:39.417924+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8807736-95d0-4b7e-9e12-da181aee0078",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a521c62e-13ab-4e8e-8c85-9353699c9dbd",
+  "input": "{\"title\": \"Live in Phoenix\", \"release_type\": \"album\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

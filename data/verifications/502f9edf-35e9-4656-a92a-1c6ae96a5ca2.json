@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:11.379393+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4fc7ddc-070e-42d4-8c69-18ccd0041bf5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "502f9edf-35e9-4656-a92a-1c6ae96a5ca2",
+  "input": "{\"title\": \"All Quiet on the Western Front\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Jump Up!'",
+  "status": "verified"
+}

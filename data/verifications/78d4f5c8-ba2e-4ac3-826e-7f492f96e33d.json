@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:04.520808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e1a9f68-64ec-4039-8e21-60eb7412fa9e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "78d4f5c8-ba2e-4ac3-826e-7f492f96e33d",
+  "input": "{\"title\": \"Seis\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

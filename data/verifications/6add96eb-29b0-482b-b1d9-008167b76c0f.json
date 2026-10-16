@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:41.399013+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef8a99fd-5323-480b-b87d-ce4df53fe879",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6add96eb-29b0-482b-b1d9-008167b76c0f",
+  "input": "{\"title\": \"Just the Same Way\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live in Concert at Lollapalooza'",
+  "status": "verified"
+}

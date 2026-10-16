@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:35.130955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dce2fbbf-1134-491a-a03a-069c16459346",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49854457-6205-4c0f-b71b-6091f56e4100",
+  "input": "{\"title\": \"Agnes\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'How to Be a Human Being'",
+  "status": "verified"
+}

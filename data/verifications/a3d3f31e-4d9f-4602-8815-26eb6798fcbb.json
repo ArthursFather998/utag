@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:43.077166+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5359f6b-d51b-44ec-a880-b183cd55572e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3d3f31e-4d9f-4602-8815-26eb6798fcbb",
+  "input": "{\"title\": \"Vertigo\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Vertigo'",
+  "status": "verified"
+}

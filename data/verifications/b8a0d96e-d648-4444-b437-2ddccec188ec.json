@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:57.457162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "952b35f7-e668-49d7-b6b7-0fb1f45e7872",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8a0d96e-d648-4444-b437-2ddccec188ec",
+  "input": "{\"title\": \"Hurt Him\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'In a Mellow Mood'",
+  "status": "verified"
+}

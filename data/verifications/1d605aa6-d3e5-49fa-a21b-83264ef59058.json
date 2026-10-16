@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:45:59.449217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ffbfbc46-84bd-4edb-8c06-3bd9a38753f9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1d605aa6-d3e5-49fa-a21b-83264ef59058",
+  "input": "{\"title\": \"Donny Womack\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:48.514142+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2bf587b6-128d-4c6b-a712-3c6ac5a1240a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ebdba86-cef6-4458-bb08-c00bcad45ab9",
+  "input": "{\"title\": \"Elevate\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Scorpion'",
+  "status": "verified"
+}

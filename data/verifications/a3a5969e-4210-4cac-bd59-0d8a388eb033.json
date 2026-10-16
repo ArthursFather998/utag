@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:41.999811+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8e0c3f1-c5ba-4b33-a9ee-f9adc8f29503",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3a5969e-4210-4cac-bd59-0d8a388eb033",
+  "input": "{\"title\": \"O Holy Night\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Sweet Dreams'",
+  "status": "verified"
+}

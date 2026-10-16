@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:54.446898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1bf0e15-2717-4804-a149-d92d3e0f64d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "137d3012-8214-471f-b7d7-1b391f94354c",
+  "input": "{\"title\": \"Lion King on Ice\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Lewis Street'",
+  "status": "verified"
+}

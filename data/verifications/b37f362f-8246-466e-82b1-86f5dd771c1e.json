@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:21.872957+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6cd4754-eab2-44d6-acf1-65d36e5b5895",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b37f362f-8246-466e-82b1-86f5dd771c1e",
+  "input": "{\"title\": \"All I Can Take\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Swag'",
+  "status": "verified"
+}

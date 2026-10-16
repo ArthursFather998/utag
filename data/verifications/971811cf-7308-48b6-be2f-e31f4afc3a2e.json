@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:48.513098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0270916-9389-4547-b711-31d1e5dd0c3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "971811cf-7308-48b6-be2f-e31f4afc3a2e",
+  "input": "{\"title\": \"That's All for Everyone\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of '25 Years – The Chain'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:18.070128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e7da169f-6e34-458d-b148-7d641d61c3ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49d776ee-bdc6-4ffb-a2d6-a41c9b349f25",
+  "input": "{\"title\": \"Text Fall Out Boy: FOB to 66937 (Interlude) - Clinton Sparks\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Welcome to the New Administration'",
+  "status": "verified"
+}

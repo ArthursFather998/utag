@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:51.298136+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e7061cd-8f7d-4c3e-83bf-b0adc1094449",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b719d106-6cf1-474b-b573-15490f280b1e",
+  "input": "{\"title\": \"In My Feelings\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Lust for Life'",
+  "status": "verified"
+}

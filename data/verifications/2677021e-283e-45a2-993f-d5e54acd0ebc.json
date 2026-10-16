@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:15.360106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8b6c034-78b0-4241-8409-e8ff8ee7edd4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2677021e-283e-45a2-993f-d5e54acd0ebc",
+  "input": "{\"title\": \"Charmbracelet\", \"release_type\": \"album\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

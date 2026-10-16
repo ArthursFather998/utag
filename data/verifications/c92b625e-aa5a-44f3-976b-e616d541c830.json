@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:52.528625+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c832340e-b303-498a-9be5-a98e78731bee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c92b625e-aa5a-44f3-976b-e616d541c830",
+  "input": "{\"title\": \"Love Story\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'E=MC² (Deluxe Version)'",
+  "status": "verified"
+}

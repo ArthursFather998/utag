@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:10.782215+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59cd69af-1e34-49cf-9778-eab7b932e09d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5a313e6-511b-46c1-8423-51b269ac7f79",
+  "input": "{\"title\": \"Fame < Infamy\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Infinity on High'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:18.585208+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f7c021f-4380-4a2b-b4b1-4eae72d6b2a4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a7a4dbef-5816-4ed7-97ca-42bdab9a4b27",
+  "input": "{\"title\": \"My Way (25th Anniversary Edition)\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

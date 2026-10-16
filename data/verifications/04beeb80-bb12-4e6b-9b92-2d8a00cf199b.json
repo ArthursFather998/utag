@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:15.99822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "00fd89b3-8fe1-4c97-9997-035a1012a929",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04beeb80-bb12-4e6b-9b92-2d8a00cf199b",
+  "input": "{\"title\": \"Master Plan\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Tipping Point'",
+  "status": "verified"
+}

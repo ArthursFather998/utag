@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:32.632319+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ebf9375b-b7cb-408b-a704-ded6e5135baa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee9e6db6-0810-4241-93b1-519f81322516",
+  "input": "{\"title\": \"Dame un Beso\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Classic Series, Vol. 1'",
+  "status": "verified"
+}

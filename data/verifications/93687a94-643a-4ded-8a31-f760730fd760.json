@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:09.383931+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e740868-29e8-4f3d-ad8a-1bbabf739fb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93687a94-643a-4ded-8a31-f760730fd760",
+  "input": "{\"title\": \"Come Softly to Me (A-side)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Come Softly to Me'",
+  "status": "verified"
+}

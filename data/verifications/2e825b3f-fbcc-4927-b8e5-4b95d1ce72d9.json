@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:22.957181+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f080c03-ad26-49d0-8245-2bc8252aa026",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e825b3f-fbcc-4927-b8e5-4b95d1ce72d9",
+  "input": "{\"title\": \"Fallin'\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Songs in A Minor: 20th Anniversary Edition'",
+  "status": "verified"
+}

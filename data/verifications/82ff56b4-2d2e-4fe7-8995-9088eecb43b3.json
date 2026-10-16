@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:53.017161+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "241ce9e0-0446-4ccf-aefc-b709c60cfc46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82ff56b4-2d2e-4fe7-8995-9088eecb43b3",
+  "input": "{\"title\": \"Harder Than You Know\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'This War Is Ours'",
+  "status": "verified"
+}

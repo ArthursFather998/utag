@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:20.707154+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "687d920a-b7cd-4850-8a1c-4683e2e13da9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0caf3042-d06d-4d05-88e1-6a9f146101ce",
+  "input": "{\"title\": \"Dink's Song\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Live at Sin-é (Legacy Edition)'",
+  "status": "verified"
+}

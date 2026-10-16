@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:17:10.187145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "678c51c2-3f96-47e0-ac7d-e69ea0a57376",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e8ae73b-b004-4e76-8866-da9efe013e8c",
+  "input": "{\"title\": \"Bills, Bills, Bills\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of '#1's'",
+  "status": "verified"
+}

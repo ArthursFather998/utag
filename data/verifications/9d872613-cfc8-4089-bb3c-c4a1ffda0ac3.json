@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:11.943221+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d5427f6-5ed1-42e0-b5dc-b4dd49781ac5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d872613-cfc8-4089-bb3c-c4a1ffda0ac3",
+  "input": "{\"title\": \"Movin' Away\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Sound of Young Love'",
+  "status": "verified"
+}

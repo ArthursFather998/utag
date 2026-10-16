@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:36.272386+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0919ca7-5fdc-4611-8b1d-34952d105d10",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "428f3ef5-57ef-4ad5-93d8-8cf45bf2c417",
+  "input": "{\"title\": \"Little Girl\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Time3'",
+  "status": "verified"
+}

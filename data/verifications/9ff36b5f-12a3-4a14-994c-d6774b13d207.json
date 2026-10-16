@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:06.404435+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1f03b782-fd60-4aa1-83e4-286bf1723d92",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ff36b5f-12a3-4a14-994c-d6774b13d207",
+  "input": "{\"title\": \"Less Than Zero\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Dawn FM (Alternate World)'",
+  "status": "verified"
+}

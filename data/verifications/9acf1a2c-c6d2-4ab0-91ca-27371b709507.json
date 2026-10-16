@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:50.216467+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac18f0ae-ad88-4dc9-b648-a05bb88fccb4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9acf1a2c-c6d2-4ab0-91ca-27371b709507",
+  "input": "{\"title\": \"luna park\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

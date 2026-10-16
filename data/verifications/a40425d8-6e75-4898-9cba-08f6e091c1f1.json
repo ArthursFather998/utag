@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:25.582686+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc6d4258-248c-4782-ae6c-4201b88be6a9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a40425d8-6e75-4898-9cba-08f6e091c1f1",
+  "input": "{\"title\": \"Gorilla\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

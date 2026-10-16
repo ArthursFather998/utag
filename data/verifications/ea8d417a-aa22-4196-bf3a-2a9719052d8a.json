@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:49.713963+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f329de51-b2e4-4fa0-8bf6-2df122087ff2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ea8d417a-aa22-4196-bf3a-2a9719052d8a",
+  "input": "{\"title\": \"Yeah Right\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:24.024592+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "606ed7b2-5832-49c3-86a3-3929f7f9d891",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "903a6788-ab56-4e1e-80bc-3938b11a528f",
+  "input": "{\"title\": \"Chain Reaction\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Greatest Hits I & II'",
+  "status": "verified"
+}

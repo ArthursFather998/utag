@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:05.602088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc77a32e-f00f-4c74-ab7e-586a68d35c42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5af44569-5c8a-4c81-8326-5a7792412cf3",
+  "input": "{\"title\": \"Feelings Mutual\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Luv Is Rage 2'",
+  "status": "verified"
+}

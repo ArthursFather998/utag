@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:22.506611+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ce97a71-9049-465c-aea9-a13bc988822c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73d9d3ff-1a56-4670-8a10-b4099a3ea642",
+  "input": "{\"title\": \"That's How You Feel\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Scorpion'",
+  "status": "verified"
+}

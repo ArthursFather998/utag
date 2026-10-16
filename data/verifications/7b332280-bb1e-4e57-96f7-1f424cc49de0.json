@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:44.111271+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8417a52c-767c-40d2-9c6e-21bf06c02cdc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b332280-bb1e-4e57-96f7-1f424cc49de0",
+  "input": "{\"title\": \"Forever\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mystery to Me'",
+  "status": "verified"
+}

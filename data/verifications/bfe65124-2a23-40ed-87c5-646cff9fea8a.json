@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:56.481566+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81b66de3-28f2-4dd8-b20c-f97b88f3b258",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bfe65124-2a23-40ed-87c5-646cff9fea8a",
+  "input": "{\"title\": \"All I Want for Christmas Is You (SuperFestive!)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'All I Want for Christmas Is You (SuperFestive!)'",
+  "status": "verified"
+}

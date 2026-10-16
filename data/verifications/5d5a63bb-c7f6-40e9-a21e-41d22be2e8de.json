@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:08.279812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9e616a4-9d6e-4a05-a798-253f1920eff8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d5a63bb-c7f6-40e9-a21e-41d22be2e8de",
+  "input": "{\"title\": \"Little Girl Go Home\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Sound of Young Love'",
+  "status": "verified"
+}

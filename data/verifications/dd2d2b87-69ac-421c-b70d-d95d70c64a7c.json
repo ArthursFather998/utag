@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:17.91552+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a46e1fc-c393-4551-96fd-c9b59df55bd7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd2d2b87-69ac-421c-b70d-d95d70c64a7c",
+  "input": "{\"title\": \"Les Enfants Terribles\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Les Enfants Terribles'",
+  "status": "verified"
+}

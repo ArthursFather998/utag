@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:48.287103+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c87ac21e-a250-4084-b4af-809700b38c6f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d0dce38d-6f1b-4d33-befd-d18deff1c2a2",
+  "input": "{\"title\": \"F.I.G\", \"release_type\": \"album\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 21",
+  "status": "verified"
+}

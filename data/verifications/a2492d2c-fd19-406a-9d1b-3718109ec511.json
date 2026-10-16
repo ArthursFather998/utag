@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:45.757546+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a0a52faf-f15c-4e0e-a551-fec318c7216c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2492d2c-fd19-406a-9d1b-3718109ec511",
+  "input": "{\"title\": \"Where Were You\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Time3'",
+  "status": "verified"
+}

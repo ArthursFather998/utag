@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:56.888973+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "11aa3210-e288-4f3b-aace-7dc788809be8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f68b0928-aba4-4975-851e-140921894b74",
+  "input": "{\"title\": \"This Time\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'janet. (Deluxe Edition)'",
+  "status": "verified"
+}

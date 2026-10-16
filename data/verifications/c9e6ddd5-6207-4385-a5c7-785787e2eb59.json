@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:35.443476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1ba6f06-06ec-44ad-8805-774b15fa2652",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9e6ddd5-6207-4385-a5c7-785787e2eb59",
+  "input": "{\"title\": \"Unbelievable\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Exodus'",
+  "status": "verified"
+}

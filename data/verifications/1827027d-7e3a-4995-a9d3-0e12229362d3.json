@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:11.748282+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5eae23a-91c8-4c75-877c-3d7837109809",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1827027d-7e3a-4995-a9d3-0e12229362d3",
+  "input": "{\"title\": \"Goodbye\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Goodbye'",
+  "status": "verified"
+}

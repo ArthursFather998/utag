@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:50.919912+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb6f5aba-2a7a-4bbb-bea9-334d0a604da4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a58a27a3-5ebe-4fda-adad-657d9793f2ea",
+  "input": "{\"title\": \"In a Perfect World (with Julia Michaels)\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

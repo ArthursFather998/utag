@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:19.8055+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e0fd8c1-07c3-4d5c-a776-a18179abf5b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e52d4598-a833-4ed5-8c00-b50197d084a1",
+  "input": "{\"title\": \"We Ride\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'We Ride'",
+  "status": "verified"
+}

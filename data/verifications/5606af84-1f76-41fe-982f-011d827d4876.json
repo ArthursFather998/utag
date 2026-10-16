@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:34.01388+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "719bb1ff-b2bb-43ca-a887-f478dfacbb46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5606af84-1f76-41fe-982f-011d827d4876",
+  "input": "{\"title\": \"Port Antonio\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Port Antonio'",
+  "status": "verified"
+}

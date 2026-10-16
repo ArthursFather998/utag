@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:58.75576+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b89ef485-b97a-4d72-b06e-360f98013a27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20c7ecee-fe3a-4f9b-868c-ec21d19df100",
+  "input": "{\"title\": \"Fat Bottomed Girls\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Platinum Collection: Greatest Hits I, II & III'",
+  "status": "verified"
+}

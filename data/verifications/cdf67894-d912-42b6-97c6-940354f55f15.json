@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:06.759113+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcce431d-862f-463b-8ac1-d6758a3deb14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cdf67894-d912-42b6-97c6-940354f55f15",
+  "input": "{\"title\": \"Mean Mistreatin' Mama\", \"track_number\": 27}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 27 of 'Live at the BBC'",
+  "status": "verified"
+}

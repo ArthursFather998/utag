@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:31.058167+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "575f00eb-6088-43cf-b077-f738b8bb6a49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2fbc3db6-0bd7-4c6f-9bef-8caa354f4d00",
+  "input": "{\"title\": \"Farewell\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'Curtain Call 2'",
+  "status": "verified"
+}

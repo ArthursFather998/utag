@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:32.801089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "807b6271-19ad-440e-bd58-b2a5a5a51f7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02b4b06d-9aa8-4e19-af7b-87accc61f374",
+  "input": "{\"title\": \"Madison Blues\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Fleetwood Mac in Chicago'",
+  "status": "verified"
+}

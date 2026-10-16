@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:05.799187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "969c7532-3503-42f9-88be-0608a85b1981",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88c16c5d-583a-4272-b862-04ddd0ab266b",
+  "input": "{\"title\": \"It's a Hard Life\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Greatest Hits II'",
+  "status": "verified"
+}

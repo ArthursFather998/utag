@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:46.754911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2d2fc538-5692-48e4-815f-f8e668377e96",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a091029f-840e-433f-a73d-6c7d6c875555",
+  "input": "{\"title\": \"Candy\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

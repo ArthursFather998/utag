@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:54.547209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "851d33da-1808-48c8-9a05-97e543c4e6c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "199dc2be-e925-4e42-b210-8a1f0fef0197",
+  "input": "{\"title\": \"Castle in Hollywood\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'A Matter of Time'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:34.573155+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b369bee-1c48-452d-ab35-b659e5b9ff1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "725e84b6-db0f-4692-b0b0-853631403c41",
+  "input": "{\"title\": \"Play the Game\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Play the Game'",
+  "status": "verified"
+}

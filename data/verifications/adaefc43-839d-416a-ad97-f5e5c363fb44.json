@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:40.348153+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f263db86-7912-46de-b802-79f1b1da56c6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "adaefc43-839d-416a-ad97-f5e5c363fb44",
+  "input": "{\"title\": \"Right Left Wrong\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Outsider'",
+  "status": "verified"
+}

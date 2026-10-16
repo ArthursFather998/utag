@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:59.85845+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84df1dd6-49ce-4e1f-8049-a73d957681b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93a32301-8999-44fc-8f5e-143cafef9fb9",
+  "input": "{\"title\": \"Everybody's Changing\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Hopes and Fears (Deluxe Edition)'",
+  "status": "verified"
+}

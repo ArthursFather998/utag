@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:58.8618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb27272e-1221-4bf5-a5f7-2d4c30f6649e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "61044a14-f332-4e64-8081-14fb2bb2baaf",
+  "input": "{\"title\": \"Believe\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Believe'",
+  "status": "verified"
+}

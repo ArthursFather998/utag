@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:42.869833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d164211-1630-4591-a7c6-df88342b21fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c2cb4264-6fd7-415d-afe6-7e94f1517b28",
+  "input": "{\"title\": \"An Apology\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Fatherless and the Widow'",
+  "status": "verified"
+}

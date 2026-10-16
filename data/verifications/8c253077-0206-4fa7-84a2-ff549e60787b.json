@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:38.981104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bab0552c-af5c-41b4-adbc-f5620e0af4ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c253077-0206-4fa7-84a2-ff549e60787b",
+  "input": "{\"title\": \"Pikebubbles\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Life'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:00.095726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb1b07e7-3d5f-4a92-9591-4f8e05053519",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd626755-eb2b-4dc4-9d1a-a519b62e1207",
+  "input": "{\"title\": \"Midnight Creeper\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Don't Shoot Me I'm Only the Piano Player'",
+  "status": "verified"
+}

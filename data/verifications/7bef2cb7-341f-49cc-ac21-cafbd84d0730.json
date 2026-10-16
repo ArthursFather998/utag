@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:18.906015+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b1cde54-8660-4d38-91b0-033cff721eb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7bef2cb7-341f-49cc-ac21-cafbd84d0730",
+  "input": "{\"title\": \"Where Love Lives\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Where Love Lives'",
+  "status": "verified"
+}

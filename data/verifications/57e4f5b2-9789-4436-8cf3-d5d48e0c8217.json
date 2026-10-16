@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:46.251077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3cdce4ec-61a5-46f9-8fa1-8519d774ce8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57e4f5b2-9789-4436-8cf3-d5d48e0c8217",
+  "input": "{\"title\": \"Fee\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'We Love You Tecca 2'",
+  "status": "verified"
+}

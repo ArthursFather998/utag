@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:53.296322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eda749f3-fbab-4d63-beed-2459593ea981",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c602657a-7bda-4d11-80e5-24376f8c957a",
+  "input": "{\"title\": \"I'll Be There\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '#1 to Infinity'",
+  "status": "verified"
+}

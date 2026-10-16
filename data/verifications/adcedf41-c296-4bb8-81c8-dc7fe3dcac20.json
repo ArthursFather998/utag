@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:32.038381+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28309e23-a193-4220-be1b-419ce9f56e06",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "adcedf41-c296-4bb8-81c8-dc7fe3dcac20",
+  "input": "{\"title\": \"The Best Things in Life Are Free\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Best Things in Life Are Free'",
+  "status": "verified"
+}

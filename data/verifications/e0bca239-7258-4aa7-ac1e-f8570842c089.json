@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:18.938884+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d0fe189-5b02-450a-b046-4d7f8998d9b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0bca239-7258-4aa7-ac1e-f8570842c089",
+  "input": "{\"title\": \"Ode to My Family\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'MTV Unplugged'",
+  "status": "verified"
+}

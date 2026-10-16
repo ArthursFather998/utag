@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:17.752618+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cff3b40b-5058-4b24-ace6-e382cf4cc414",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce6f3a31-644c-4eb1-b8f9-7eea4304889a",
+  "input": "{\"title\": \"Till the End (feat. Skooly)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Collect Call'",
+  "status": "verified"
+}

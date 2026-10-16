@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:19.360263+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6656cd5-bcf2-4993-8115-4995b80fd5b4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f9c1e842-4ce0-401f-bfcc-0b906807abbe",
+  "input": "{\"title\": \"Jimmy Beware\", \"release_type\": \"single\", \"release_year\": 1962}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

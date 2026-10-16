@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:12.732339+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2bce3ac4-1ef2-41da-81d5-977ea4ebe72f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa6abaa0-a3dd-41ee-bda5-abeafac241fc",
+  "input": "{\"title\": \"My Immortal\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Synthesis'",
+  "status": "verified"
+}

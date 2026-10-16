@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:57.119101+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "761fc6c6-1e39-4866-91db-da09ab0ac469",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6ed748a-a0cf-4e2c-93fe-1b898cf0213f",
+  "input": "{\"title\": \"Burning Buildings\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Breaking Hearts'",
+  "status": "verified"
+}

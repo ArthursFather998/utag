@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:55.297729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "877a2285-7c0d-4381-b0b7-10e3d0b5b637",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00e285c1-ca81-4b53-9425-332263088143",
+  "input": "{\"title\": \"Remember My Name\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Be the Cowboy'",
+  "status": "verified"
+}

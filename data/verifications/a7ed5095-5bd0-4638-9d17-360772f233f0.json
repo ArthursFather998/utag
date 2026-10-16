@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:52.575155+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "76a97f7d-9ea6-4bc9-8587-d9d4425dfb25",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a7ed5095-5bd0-4638-9d17-360772f233f0",
+  "input": "{\"title\": \"Marry You\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

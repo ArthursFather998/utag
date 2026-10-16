@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:35.841854+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a766f6f1-af2c-4f15-ba74-907b9812acab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "595f1a05-9bb2-4c01-87e9-4616ba747bcd",
+  "input": "{\"title\": \"haunt ya (slowed)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'haunt ya (remixes)'",
+  "status": "verified"
+}

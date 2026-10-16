@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:14.218425+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e83b1df-def6-4b2f-9bc9-ddc203a19230",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f49d24fb-d859-4efe-ba5c-717d2af3366f",
+  "input": "{\"title\": \"A Tear in Space (Airlock)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Tear in Space (Airlock)'",
+  "status": "verified"
+}

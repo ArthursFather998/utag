@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:03.407246+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0a47136-ca05-452a-b03b-5d2385edd64d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2bdd4d34-e56a-4081-b447-87692005bfd1",
+  "input": "{\"title\": \"Tusk\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'The Dance'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:45.916747+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "80fef9b2-2743-42df-a2e6-459d14647c62",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4742270-0026-43f1-b214-7a79f6625d6e",
+  "input": "{\"title\": \"Cigarettes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Cigarettes'",
+  "status": "verified"
+}

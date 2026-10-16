@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:34.596351+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3ebe49c-d48d-4f7b-8f6f-cc14050dbeaa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d50cade-25e0-4669-b4f5-58c61724b117",
+  "input": "{\"title\": \"motley\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'SCARLET'",
+  "status": "verified"
+}

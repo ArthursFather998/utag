@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:31.998057+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e4ce4e6e-ac27-4463-a395-93a1b3dc5270",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "940d56f3-83c8-43f4-bd11-943d17520cd4",
+  "input": "{\"title\": \"Skydive\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Inolvidable Buenos Aires Argentina (Live from Movistar Arena Buenos Aires Argentina)'",
+  "status": "verified"
+}

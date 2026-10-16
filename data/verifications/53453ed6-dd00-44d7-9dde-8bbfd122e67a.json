@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:32.361953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d938465-8d17-439b-b09d-9020d6fb039b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53453ed6-dd00-44d7-9dde-8bbfd122e67a",
+  "input": "{\"title\": \"Downtown\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Downtown'",
+  "status": "verified"
+}

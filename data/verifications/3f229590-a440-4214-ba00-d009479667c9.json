@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:28:20.798839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0af7fb1a-bfbd-4014-adf0-a01443a4a4b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f229590-a440-4214-ba00-d009479667c9",
+  "input": "{\"title\": \"I Don't Smoke\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mitski on Audiotree Live'",
+  "status": "verified"
+}

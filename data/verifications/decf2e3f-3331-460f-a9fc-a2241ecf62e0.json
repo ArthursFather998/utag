@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:01.341556+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2f9ef2a-1c21-4bf3-9225-e0c900c09b97",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "decf2e3f-3331-460f-a9fc-a2241ecf62e0",
+  "input": "{\"title\": \"Without You\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Then Play On'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:44.339873+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f620b80c-ce11-4da8-afbb-faf8f3351dbe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b332bff5-4495-460c-890c-55ffda546169",
+  "input": "{\"title\": \"Immortals\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

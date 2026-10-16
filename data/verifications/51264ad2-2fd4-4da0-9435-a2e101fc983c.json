@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:59:41.39046+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb667d56-21b6-4c12-8004-35c5afadc9f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51264ad2-2fd4-4da0-9435-a2e101fc983c",
+  "input": "{\"title\": \"Nocturne (Interlude)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Bewitched'",
+  "status": "verified"
+}

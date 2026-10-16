@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:17.374+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "72ecdccc-3d53-4d8e-83a1-22433688b152",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "27d1ccbe-5b3b-4aa3-be7c-c43d0ba0a82b",
+  "input": "{\"title\": \"Daylight\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

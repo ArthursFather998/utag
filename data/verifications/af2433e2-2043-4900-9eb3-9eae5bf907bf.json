@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:39.15195+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71818945-b34a-4b15-81c5-465ecb1b73c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af2433e2-2043-4900-9eb3-9eae5bf907bf",
+  "input": "{\"title\": \"Detroit vs. Everybody\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Shady XV'",
+  "status": "verified"
+}

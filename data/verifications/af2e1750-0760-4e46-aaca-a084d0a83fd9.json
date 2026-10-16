@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:15.399119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3d48b74-261b-4948-a23c-db73846c82c9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "af2e1750-0760-4e46-aaca-a084d0a83fd9",
+  "input": "{\"title\": \"Icon (Director's Cut)\", \"release_type\": \"album\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

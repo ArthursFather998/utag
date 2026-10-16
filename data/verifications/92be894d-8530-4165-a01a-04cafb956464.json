@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:21:25.054074+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee781de2-d254-44e1-a37a-f23fe09cb1e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92be894d-8530-4165-a01a-04cafb956464",
+  "input": "{\"title\": \"Cater 2 U\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of '#1's'",
+  "status": "verified"
+}

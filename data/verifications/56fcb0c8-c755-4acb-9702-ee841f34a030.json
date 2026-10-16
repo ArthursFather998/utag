@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:21.127196+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35fdb62c-c25a-4172-89f7-ece768b10256",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56fcb0c8-c755-4acb-9702-ee841f34a030",
+  "input": "{\"title\": \"Tell Me What the Papers Say\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Ice on Fire'",
+  "status": "verified"
+}

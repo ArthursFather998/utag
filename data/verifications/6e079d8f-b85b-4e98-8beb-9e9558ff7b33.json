@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:05.623913+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0277b0b6-a99f-481d-86da-4e60e6d14056",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e079d8f-b85b-4e98-8beb-9e9558ff7b33",
+  "input": "{\"title\": \"Mucho Gusto\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Drunken Babble'",
+  "status": "verified"
+}

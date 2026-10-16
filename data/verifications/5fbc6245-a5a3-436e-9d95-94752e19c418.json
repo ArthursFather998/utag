@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:21.871337+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71c1f55f-e8b6-4bbc-b139-d90de2b6a972",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5fbc6245-a5a3-436e-9d95-94752e19c418",
+  "input": "{\"title\": \"My Everything\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'My Everything'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:09.08688+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "47a4bf13-48a9-47ba-ab10-47107c8d5691",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6e29610-bddb-46f5-9fd5-58d36f46d1cb",
+  "input": "{\"title\": \"leaving me\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'nyx'",
+  "status": "verified"
+}

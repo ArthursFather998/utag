@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:03.232157+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59f8185d-b933-4b5b-bb59-f27492707c43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea996044-ba17-4017-9d6a-266a190f3a8a",
+  "input": "{\"title\": \"No Tellin'\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'If You're Reading This It's Too Late'",
+  "status": "verified"
+}

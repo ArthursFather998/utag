@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:56.343969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a284565b-983f-4e57-9ecc-1a5b4d995194",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74c5d218-4dc3-405e-a7e4-7876ea5dec29",
+  "input": "{\"title\": \"Heaven or Las Vegas\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Trilogy'",
+  "status": "verified"
+}

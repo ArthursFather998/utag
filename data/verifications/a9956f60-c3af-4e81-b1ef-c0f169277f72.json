@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:47.685566+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2faf945e-0970-4188-94d0-301c51510ed2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a9956f60-c3af-4e81-b1ef-c0f169277f72",
+  "input": "{\"title\": \"rue\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

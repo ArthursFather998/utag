@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:05.173802+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fa38979-58d3-4726-950e-95a5ef9d80a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "167367c4-7a72-4827-b7b7-9726c89f4d77",
+  "input": "{\"title\": \"Hearts Have Turned to Stone\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Union'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:04.588945+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bfa61cf1-fcb2-4f5f-aa1c-238e1e7824be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6d8d7e1-77dc-4b06-9764-be7647a82584",
+  "input": "{\"title\": \"Chicago Is So Two Years Ago\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Take This to Your Grave'",
+  "status": "verified"
+}

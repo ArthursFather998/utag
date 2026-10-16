@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:39.87737+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09dda873-ea5d-425b-a954-1db0666f4abd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72ad3c05-7e4f-4786-9806-9b537a8f07e8",
+  "input": "{\"title\": \"Echoes\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'BEFORE I FORGET'",
+  "status": "verified"
+}

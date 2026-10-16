@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:42.409883+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e17d9d78-ab36-42d6-af1b-16f09ce9c80f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5a722fb5-b7bf-4ac5-a218-c5c92e288b0d",
+  "input": "{\"title\": \"Go Off\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

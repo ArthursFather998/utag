@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:34.721677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd808b70-3ea6-4327-9822-604d6e9e7901",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7762cc2e-12a9-4941-9371-4fd100b92ae6",
+  "input": "{\"title\": \"One Last Cry\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ultimate Collection'",
+  "status": "verified"
+}

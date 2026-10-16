@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:17.851505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3550dfd9-887c-43ed-aab8-0a94dd1945fa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "adf55f37-0b98-4fac-8b17-532287f0da4c",
+  "input": "{\"title\": \"Oh Mama\", \"release_type\": \"single\", \"release_year\": 1985}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

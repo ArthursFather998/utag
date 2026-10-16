@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:02.060026+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "26b8b1a0-ef96-42c4-8752-a536bcff3236",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "28e462e7-eedc-4f7f-934a-d1615794d424",
+  "input": "{\"title\": \"violet\", \"release_type\": \"single\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

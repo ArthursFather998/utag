@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:25.45289+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7eb37c28-6214-43ad-881b-0400be54b307",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb5b6f4c-3c2c-4862-9780-2c7cf2acffc8",
+  "input": "{\"title\": \"Fall 5.0 (Live)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'An Evening with Brian McKnight'",
+  "status": "verified"
+}

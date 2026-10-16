@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:36.682626+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0df763f8-3f31-470b-b2bd-327622f73616",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3dddc6cb-5bf3-4efa-be70-2da537e4f20e",
+  "input": "{\"title\": \"Lovin' You Is Easy\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Evolution'",
+  "status": "verified"
+}

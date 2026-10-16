@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:49.193044+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "726a59ca-b6be-448f-b65c-51ae0a9c6b4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "275ab159-6d14-4201-8f41-3728eadf9f51",
+  "input": "{\"title\": \"Torn (Live in San Antonio 1999)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Human Clay (25th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:03.100784+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c1c81f5-5f7b-4c30-b0fd-9d50828374cd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "54c26514-dde5-47db-ac98-8b585b118f44",
+  "input": "{\"title\": \"Keep My Coo\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

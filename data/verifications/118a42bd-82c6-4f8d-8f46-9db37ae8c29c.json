@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:28.406653+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ed81dc2-9fec-41ba-acaa-aa586e300703",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "118a42bd-82c6-4f8d-8f46-9db37ae8c29c",
+  "input": "{\"title\": \"Rivals\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

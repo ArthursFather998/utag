@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:54.048495+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "15ba129d-108a-42f4-9524-ff19ce7b6175",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8d2287c0-ace9-48b4-9c5f-ddcda04fa653",
+  "input": "{\"title\": \"Allure\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:34.019926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3019d304-267c-4bc0-9b9a-08de832edd15",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "01a8e60b-9d41-41f1-9700-70a20db48a2e",
+  "input": "{\"title\": \"Good Days\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

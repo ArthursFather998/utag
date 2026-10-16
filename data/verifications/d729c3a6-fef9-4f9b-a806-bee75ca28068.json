@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:37.015487+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fd9a5f4-f7fc-43b8-9997-dc3b827aedb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d729c3a6-fef9-4f9b-a806-bee75ca28068",
+  "input": "{\"title\": \"Second Chances - Live at Spotify House\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Spotify Sessions'",
+  "status": "verified"
+}

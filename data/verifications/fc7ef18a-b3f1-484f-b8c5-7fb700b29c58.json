@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:09.083295+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a642ac5b-a41a-49d6-95ce-23f7e6fab4d5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc7ef18a-b3f1-484f-b8c5-7fb700b29c58",
+  "input": "{\"title\": \"r\\u00f8dt hvitt bl\\u00e5tt\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'rødt hvitt blått'",
+  "status": "verified"
+}

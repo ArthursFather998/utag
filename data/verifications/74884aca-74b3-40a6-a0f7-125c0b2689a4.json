@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:03.362895+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fa6bbdf4-57a9-466a-aa9b-5ec462515644",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74884aca-74b3-40a6-a0f7-125c0b2689a4",
+  "input": "{\"title\": \"Nothing Without You\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Starboy'",
+  "status": "verified"
+}

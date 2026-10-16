@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:29.892504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6bbc155-4ea5-40ea-a82b-9ea9fd26c0cb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "450b2f7c-5b44-484c-8813-3b394f5dfc75",
+  "input": "{\"title\": \"Like Toy Soldiers\", \"release_type\": \"single\", \"release_year\": 2005}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

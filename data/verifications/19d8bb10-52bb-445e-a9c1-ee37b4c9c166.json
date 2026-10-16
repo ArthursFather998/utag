@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:23.792469+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "407a63df-cb86-4570-a8e2-e14f20779ca8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "19d8bb10-52bb-445e-a9c1-ee37b4c9c166",
+  "input": "{\"title\": \"Rocket Man '03\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Remixed'",
+  "status": "verified"
+}

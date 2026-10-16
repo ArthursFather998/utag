@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:09.760828+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4398d20-4df5-4341-9636-8449fbdc5ddd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "45b41d41-b27e-425d-a493-457aec325f09",
+  "input": "{\"title\": \"Explosions\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

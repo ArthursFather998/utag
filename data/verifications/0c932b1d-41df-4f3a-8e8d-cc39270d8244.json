@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:04.658099+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "677e802d-a120-40aa-810d-f8210085c42c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c932b1d-41df-4f3a-8e8d-cc39270d8244",
+  "input": "{\"title\": \"Doves in the Wind\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Ctrl'",
+  "status": "verified"
+}

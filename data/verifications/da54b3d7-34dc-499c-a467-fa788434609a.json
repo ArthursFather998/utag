@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:08.879135+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1cf5ba46-effb-4e29-974c-8655247fc53f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "da54b3d7-34dc-499c-a467-fa788434609a",
+  "input": "{\"title\": \"London Live '68\", \"release_type\": \"album\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

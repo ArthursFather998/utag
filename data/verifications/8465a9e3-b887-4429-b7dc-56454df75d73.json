@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:02.857269+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b57ad94a-8cd5-4356-8e69-498e1b6972f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8465a9e3-b887-4429-b7dc-56454df75d73",
+  "input": "{\"title\": \"Staying Power\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Queen on Fire - Live at the Bowl'",
+  "status": "verified"
+}

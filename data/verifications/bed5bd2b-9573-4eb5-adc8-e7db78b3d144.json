@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:10.926337+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e81d0a7-a4a2-49e8-8dd0-215e84d04ebb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bed5bd2b-9573-4eb5-adc8-e7db78b3d144",
+  "input": "{\"title\": \"River\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

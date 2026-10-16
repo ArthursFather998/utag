@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:06.08769+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79af87e3-b72c-4b8c-883e-4dd4e8f23b6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d3ba8b8-1dff-4c71-af43-7632810e0899",
+  "input": "{\"title\": \"Chloraseptic\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Revival'",
+  "status": "verified"
+}

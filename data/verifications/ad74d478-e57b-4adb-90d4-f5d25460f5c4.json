@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:17.753867+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e623e5fb-5a7f-46e9-b3dd-b525580aeedd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad74d478-e57b-4adb-90d4-f5d25460f5c4",
+  "input": "{\"title\": \"Dum-De-Da\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of 'The Ultimate Epic Singles Collection'",
+  "status": "verified"
+}

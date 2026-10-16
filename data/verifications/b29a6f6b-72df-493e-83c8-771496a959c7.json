@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:41.545143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "16794b11-82ac-41b3-8610-ddc34b297645",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b29a6f6b-72df-493e-83c8-771496a959c7",
+  "input": "{\"title\": \"The Language\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Nothing Was the Same'",
+  "status": "verified"
+}

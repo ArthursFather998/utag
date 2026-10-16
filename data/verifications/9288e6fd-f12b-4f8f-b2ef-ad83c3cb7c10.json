@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:26.220683+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e77c269-56d6-4908-8c09-5c297abd0349",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9288e6fd-f12b-4f8f-b2ef-ad83c3cb7c10",
+  "input": "{\"title\": \"KIDS\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'CRACK PACK VOL. 1'",
+  "status": "verified"
+}

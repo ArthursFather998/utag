@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:07.450322+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f76292f-2b56-4445-8350-46fec10d6512",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c07f656f-2494-42f3-aaec-40fbf072e7a2",
+  "input": "{\"title\": \"Best of Fleetwood Mac 1969-1974\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

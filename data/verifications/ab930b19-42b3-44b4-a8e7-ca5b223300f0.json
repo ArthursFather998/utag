@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:58.69698+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "created release 'Murder on My Mind'",
+      "release->Murder on My Mind"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "3b619399-487d-4baa-91a8-be6a1f037df3",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "ab930b19-42b3-44b4-a8e7-ca5b223300f0",
+  "input": {
+    "artist": "YNW Melly",
+    "release": "brilliant hits billion bangers",
+    "title": "Murder on My Mind"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "\"Murder on My Mind\" premiered on SoundCloud Mar 4, 2017 and became the official 300 Entertainment single (Jun 1, 2018) from mixtape I Am You; the \"brilliant hits\" comp is suspicious. | sources: https://en.wikipedia.org/wiki/Murder_on_My_Mind, https://www.xxlmag.com/ynw-melly-murder-on-my-mind-platinum/",
+  "status": "verified"
+}

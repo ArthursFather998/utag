@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:35.664989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f41db2e5-6cf7-40a3-af30-f3e31b23bc75",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76e5741f-a5ea-4356-a691-ea3fd04f2054",
+  "input": "{\"title\": \"T\\u00fa S\\u00f3lo T\\u00fa\", \"track_number\": 44}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 44 of 'La Leyenda'",
+  "status": "verified"
+}

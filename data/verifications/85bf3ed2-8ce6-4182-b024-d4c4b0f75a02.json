@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:13.171505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7dcbdc86-06fe-4cfb-b772-182a86d5416f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85bf3ed2-8ce6-4182-b024-d4c4b0f75a02",
+  "input": "{\"title\": \"Orgasmo Para Dos - En Vivo\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Mon Laferte (Vol. 1/ Edicion Especial)'",
+  "status": "verified"
+}

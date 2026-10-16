@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:41.553899+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60c23256-a7e2-4e18-b5c7-d9bb1a9a5365",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4c2a3a24-e67a-4408-a469-0a6eb173a92c",
+  "input": "{\"title\": \"Drag Me Down\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

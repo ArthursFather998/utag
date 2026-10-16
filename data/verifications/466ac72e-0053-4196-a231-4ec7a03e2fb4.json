@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:42.192583+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f8ab3a0-846e-4bd0-8e01-0bb5870d42f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "466ac72e-0053-4196-a231-4ec7a03e2fb4",
+  "input": "{\"title\": \"Missing My Baby\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Entre a Mi Mundo'",
+  "status": "verified"
+}

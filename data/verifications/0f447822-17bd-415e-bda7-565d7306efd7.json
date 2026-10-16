@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:57.056496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6736b72-2db7-414d-9ec4-974aa1e22da1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0f447822-17bd-415e-bda7-565d7306efd7",
+  "input": "{\"title\": \"Going Going Gone\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

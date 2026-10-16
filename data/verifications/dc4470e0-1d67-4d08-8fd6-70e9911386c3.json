@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:05.543229+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3d9975b-19da-430b-a2d9-bc58b2a34c25",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc4470e0-1d67-4d08-8fd6-70e9911386c3",
+  "input": "{\"title\": \"Dreamlover (Live at Madison Square Garden)\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Daydream (30th Anniversary Edition)'",
+  "status": "verified"
+}

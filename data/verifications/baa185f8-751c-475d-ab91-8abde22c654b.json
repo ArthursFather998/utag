@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:23.523766+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d446c24c-dc42-46b8-99be-f196cdb4cd81",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "baa185f8-751c-475d-ab91-8abde22c654b",
+  "input": "{\"title\": \"Secrets\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Raoul and the Kings of Spain (2009 Reissue)'",
+  "status": "verified"
+}

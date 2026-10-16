@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:49.615067+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6cfee292-f1c1-4d4e-bcb1-ae767aadedd4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "afa14f87-650a-4eec-9227-32c68ee89fae",
+  "input": "{\"title\": \"Lost in Darkness\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Escape the Fate'",
+  "status": "verified"
+}

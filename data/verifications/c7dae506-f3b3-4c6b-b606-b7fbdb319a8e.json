@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:54.175027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c03f50e6-c933-4b5c-8434-b483824e5b6b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c7dae506-f3b3-4c6b-b606-b7fbdb319a8e",
+  "input": "{\"title\": \"No Me Queda Mas\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Momentos Intimos'",
+  "status": "verified"
+}

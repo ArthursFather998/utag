@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:01.01369+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91ed8ee6-e54d-43f0-99e2-b21a84714587",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7906a51c-b609-41aa-88dd-7de6e87a3ce8",
+  "input": "{\"title\": \"As Time Goes By\", \"release_type\": \"album\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

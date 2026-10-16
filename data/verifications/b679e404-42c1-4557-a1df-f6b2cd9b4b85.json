@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:23.613377+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b007a05-5d27-4c2f-91e8-ed1a96293987",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b679e404-42c1-4557-a1df-f6b2cd9b4b85",
+  "input": "{\"title\": \"Exit Wounds\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'A Jagged Love Story'",
+  "status": "verified"
+}

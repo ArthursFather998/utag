@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:08.326799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "63c1f88c-7f4b-4737-8e59-d8e93395004d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f783a7d-c1be-4d73-8b8a-8b65fd531c45",
+  "input": "{\"title\": \"Heartbeat\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Scars & Stories'",
+  "status": "verified"
+}

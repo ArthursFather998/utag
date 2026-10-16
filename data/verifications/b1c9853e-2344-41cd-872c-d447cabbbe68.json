@@ -1,0 +1,25 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:50.719755+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": false,
+    "reason": "verdict=correct conf=medium -> no write",
+    "verdict": "correct"
+  },
+  "entity_id": "896a243d-6226-4b45-9fc5-a7a8f9cc44af",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "medium"
+  },
+  "id": "b1c9853e-2344-41cd-872c-d447cabbbe68",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Japanese Denim",
+    "title": "Japanese Denim"
+  },
+  "model": null,
+  "overall_confidence": "needs_review",
+  "rationale": "Discogs documents a standalone 'Japanese Denim' single (File/AAC, released Oct 21, 2016) by Daniel Caesar; Bandmine also dates it 2016, so the standalone single release record is valid.",
+  "status": "needs_review"
+}

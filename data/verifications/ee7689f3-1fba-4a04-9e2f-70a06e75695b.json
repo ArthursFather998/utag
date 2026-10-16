@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:17.192368+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bb7d5d9-b8fa-4623-b6cc-af3f8486113d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee7689f3-1fba-4a04-9e2f-70a06e75695b",
+  "input": "{\"title\": \"What Just Happened\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'What Just Happened'",
+  "status": "verified"
+}

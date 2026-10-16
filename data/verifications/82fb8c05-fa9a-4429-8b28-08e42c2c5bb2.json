@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:31.380586+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b543fd5-bbb7-4224-bc1f-562dede76afd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82fb8c05-fa9a-4429-8b28-08e42c2c5bb2",
+  "input": "{\"title\": \"Disc 1 - I'm Coolin', No Foolin'\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

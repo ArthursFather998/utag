@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:26:27.219839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b6b803e-27e5-4ee3-8587-ff5cc5a0cab4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b873d621-6957-4199-a24e-e5dc0a7918e0",
+  "input": "{\"title\": \"Hell Bent (with Tokyo's Revenge)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hell Bent (with Tokyo's Revenge)'",
+  "status": "verified"
+}

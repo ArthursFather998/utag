@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:57.263711+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c32cc94-ef3d-4932-8555-1b08f333ded8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b824a914-c883-4152-897a-b86d2dce0e3f",
+  "input": "{\"title\": \"Landslide (live)\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

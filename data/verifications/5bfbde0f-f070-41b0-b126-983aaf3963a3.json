@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:16.574565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae4ea479-7ac9-41ad-9535-b8a1121f36fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5bfbde0f-f070-41b0-b126-983aaf3963a3",
+  "input": "{\"title\": \"Bleed for Me\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'I Am Human (Deluxe Edition)'",
+  "status": "verified"
+}

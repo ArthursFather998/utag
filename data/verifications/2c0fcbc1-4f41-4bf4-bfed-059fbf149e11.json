@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:39.74369+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d38e9a64-0a5d-4a64-89ac-7f0b19835540",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2c0fcbc1-4f41-4bf4-bfed-059fbf149e11",
+  "input": "{\"title\": \"Rock of the Westies\", \"release_type\": \"album\", \"release_year\": 1975}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:30.921486+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b96d5534-1f5a-47c4-9ade-c9ad350368ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d41fb362-7b17-4ace-b068-8acb38762c6c",
+  "input": "{\"title\": \"El Weirdo (I Relapsed)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Euphoria Season 2 Official Score (From the HBO Original Series)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:35.271496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb672482-683f-4126-904d-b62d6e8d4221",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a10bddb-679a-4aae-97fa-c585d0c1d8a2",
+  "input": "{\"title\": \"Ramblin' Rose\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Bobby Vinton Sings the Big Ones'",
+  "status": "verified"
+}

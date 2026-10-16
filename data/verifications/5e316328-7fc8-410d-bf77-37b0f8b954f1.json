@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:14.442891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7c38048e-5c5f-4c45-a70f-48c24c05bcb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5e316328-7fc8-410d-bf77-37b0f8b954f1",
+  "input": "{\"title\": \"My Sister's Love\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Fleetwoods: Gretchen, Gary and Barbara'",
+  "status": "verified"
+}

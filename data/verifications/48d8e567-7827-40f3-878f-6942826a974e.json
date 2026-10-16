@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:26.093077+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46cee7d0-98ee-4800-bad5-cc1cba41846b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "48d8e567-7827-40f3-878f-6942826a974e",
+  "input": "{\"title\": \"Remind Me\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

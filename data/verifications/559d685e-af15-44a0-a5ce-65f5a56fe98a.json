@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:56.002972+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d8b471e-81ad-4290-b701-8e4945bb898f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "559d685e-af15-44a0-a5ce-65f5a56fe98a",
+  "input": "{\"title\": \"Forgive Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Out of the Shadows 2.0'",
+  "status": "verified"
+}

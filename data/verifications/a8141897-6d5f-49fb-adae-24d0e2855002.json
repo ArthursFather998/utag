@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:13:22.235243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "35c0a157-70f3-46cf-9b50-736dad578e70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8141897-6d5f-49fb-adae-24d0e2855002",
+  "input": "{\"title\": \"isn't it great?\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'violet / isn't it great?'",
+  "status": "verified"
+}

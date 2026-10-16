@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:14.253817+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e777742e-b9c6-49d7-96bb-c00f5207f2de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c561b418-d8ca-4c09-a562-ee3d60fafb64",
+  "input": "{\"title\": \"The Situation\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Hootie Mack'",
+  "status": "verified"
+}

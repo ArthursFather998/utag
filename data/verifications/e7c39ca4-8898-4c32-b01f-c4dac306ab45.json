@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:21.549457+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c0d81dd-5c1c-4e16-8f9a-f0046a1d7525",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7c39ca4-8898-4c32-b01f-c4dac306ab45",
+  "input": "{\"title\": \"Together\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'The Fray - The Collection'",
+  "status": "verified"
+}

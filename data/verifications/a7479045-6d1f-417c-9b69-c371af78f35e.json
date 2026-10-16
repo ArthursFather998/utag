@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:57.940304+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "49f5b071-84e8-40ce-9051-dbc95a6f1833",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a7479045-6d1f-417c-9b69-c371af78f35e",
+  "input": "{\"title\": \"Playlist: The Very Best of Mariah Carey\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

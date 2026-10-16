@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:10.144686+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f02d45cb-c7d1-4c40-9a27-77a0a34cb1a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3524a5a-ebb0-4296-ad2f-19933206d693",
+  "input": "{\"title\": \"Consideration (featuring SZA)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'ANTI (Deluxe)'",
+  "status": "verified"
+}

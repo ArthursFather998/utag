@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:43.716756+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e13d7afa-2a51-4112-bed4-6219e019d222",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2cd1fe8-7541-4ad7-b711-5c9b0138dbdf",
+  "input": "{\"title\": \"KISMET (Outro)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'S'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:33.391947+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58355333-18f8-4e8a-a333-df35ed172f1d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7343f3b-417e-4c2d-aa01-ab9a2d1213a2",
+  "input": "{\"title\": \"Tiramisu\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Octane'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:36.852716+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01ed38e2-2553-4121-a944-bbed2ac15c40",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a139c87-b89f-43ae-b98b-5a0d30ca543c",
+  "input": "{\"title\": \"Gimme a Hug\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Some Sexy Songs 4 U'",
+  "status": "verified"
+}

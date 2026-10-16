@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:27.731697+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d314c3ff-5ad6-4ef8-b83d-e12c6e3d2307",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bedcbcb-90db-40f0-9461-f0e158baa48c",
+  "input": "{\"title\": \"All That Matters\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'All That Matters'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:22.942297+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9480c92d-54e8-41ee-b0b3-946e19597fc3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3d0443a-c885-4f98-aac0-88b90dd37baf",
+  "input": "{\"title\": \"Perfect (Stripped)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Perfect'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:24.331096+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6313940d-1a3d-401b-92e3-f5fa34592a0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dc4f4bb-c59f-49bc-a0b7-6efdfd3adace",
+  "input": "{\"title\": \"Controlla\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Views'",
+  "status": "verified"
+}

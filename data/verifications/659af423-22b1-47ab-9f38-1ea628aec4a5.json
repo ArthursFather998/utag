@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:47.873869+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c3bd6d4-e459-4c04-90c1-1c3a0cb367b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "659af423-22b1-47ab-9f38-1ea628aec4a5",
+  "input": "{\"title\": \"I'll Change for You\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Nothing's About to Happen to Me'",
+  "status": "verified"
+}

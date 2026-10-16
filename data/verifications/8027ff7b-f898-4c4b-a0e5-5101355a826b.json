@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:08.242108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84811d12-1bf2-4e6e-8858-8491b1765f4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8027ff7b-f898-4c4b-a0e5-5101355a826b",
+  "input": "{\"title\": \"No Need to Argue\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'London 2012: Live at The Hammersmith Apollo'",
+  "status": "verified"
+}

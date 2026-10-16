@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:09.136465+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d5afc663-8d50-467e-9cd7-f9f05a149d50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "218346f2-3ccd-41d0-bdaa-ed4490fa33af",
+  "input": "{\"title\": \"Cherry\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'F.I.G'",
+  "status": "verified"
+}

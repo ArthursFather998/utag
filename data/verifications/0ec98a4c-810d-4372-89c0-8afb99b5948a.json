@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:21.678772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfb05363-7381-460d-ae7d-c92b54de6201",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ec98a4c-810d-4372-89c0-8afb99b5948a",
+  "input": "{\"title\": \"Obsessed\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Memoirs of an Imperfect Angel'",
+  "status": "verified"
+}

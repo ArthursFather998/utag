@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:41.344916+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f5b9786-60c3-404e-9f65-cfa8a6b5ab2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67bf276b-00de-4830-a631-20d3720c4607",
+  "input": "{\"title\": \"What You Need\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Rhythm City, Vol. 1 – Caught Up'",
+  "status": "verified"
+}

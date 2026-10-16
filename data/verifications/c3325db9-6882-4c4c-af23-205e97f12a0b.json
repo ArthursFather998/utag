@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:19.858785+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91fdd26c-7629-4cac-8a3b-341b79ae7e13",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3325db9-6882-4c4c-af23-205e97f12a0b",
+  "input": "{\"title\": \"Boy (I Need You)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Charmbracelet'",
+  "status": "verified"
+}

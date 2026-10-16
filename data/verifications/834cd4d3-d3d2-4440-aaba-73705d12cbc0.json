@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:05.08553+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1e05c29d-f520-46cb-a99d-9279cac46a1d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "834cd4d3-d3d2-4440-aaba-73705d12cbc0",
+  "input": "{\"title\": \"better than me\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Not So Lovely'",
+  "status": "verified"
+}

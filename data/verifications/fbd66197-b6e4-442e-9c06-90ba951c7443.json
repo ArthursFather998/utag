@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:52.110621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e246c68-3cd9-46b0-819c-16fc2a5e3a1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbd66197-b6e4-442e-9c06-90ba951c7443",
+  "input": "{\"title\": \"Earth Angel (Will You Be Mine)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Bobby Vinton Sings the Golden Decade of Love'",
+  "status": "verified"
+}

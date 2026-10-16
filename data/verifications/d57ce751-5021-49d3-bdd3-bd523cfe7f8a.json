@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:54.546907+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1871b572-6337-462e-ae42-4ffd86c0f9f7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d57ce751-5021-49d3-bdd3-bd523cfe7f8a",
+  "input": "{\"title\": \"Thanos (Blow It)\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

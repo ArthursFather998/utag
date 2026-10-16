@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:35.927294+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7ba2f9a-6a00-4843-9425-b787ef3f971b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc28c419-fa7a-4d87-ba91-f2f4ee9febd9",
+  "input": "{\"title\": \"Corazon Abandonado\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Classic Series, Vol. 3'",
+  "status": "verified"
+}

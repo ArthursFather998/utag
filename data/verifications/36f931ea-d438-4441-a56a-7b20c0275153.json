@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:09.773116+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4524a60a-0e26-47ed-9b7a-d55e25fdeef0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36f931ea-d438-4441-a56a-7b20c0275153",
+  "input": "{\"title\": \"I'm Sorry\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Eternal Atake'",
+  "status": "verified"
+}

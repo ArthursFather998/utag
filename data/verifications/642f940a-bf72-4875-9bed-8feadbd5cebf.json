@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:46.747822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "47d64149-4cf3-42aa-9a85-b09855358a4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "642f940a-bf72-4875-9bed-8feadbd5cebf",
+  "input": "{\"title\": \"Jodie\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Ctrl (Deluxe)'",
+  "status": "verified"
+}

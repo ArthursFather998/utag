@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:56.492312+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a9256f2-376b-4138-acaa-9a186c8c742b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0af8110a-951e-4394-a1df-a670ab63229f",
+  "input": "{\"title\": \"The Show Must Go On\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Return of the Champions'",
+  "status": "verified"
+}

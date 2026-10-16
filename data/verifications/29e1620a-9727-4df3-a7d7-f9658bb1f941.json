@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:26.231425+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2aeb4f7b-baef-4386-928c-291de4c74785",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "29e1620a-9727-4df3-a7d7-f9658bb1f941",
+  "input": "{\"title\": \"November\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

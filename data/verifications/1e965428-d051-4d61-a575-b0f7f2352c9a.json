@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:55.762872+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d52e32c1-d021-4a3f-8088-551cbc90bb68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e965428-d051-4d61-a575-b0f7f2352c9a",
+  "input": "{\"title\": \"You Don't Know My Name\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Unplugged'",
+  "status": "verified"
+}

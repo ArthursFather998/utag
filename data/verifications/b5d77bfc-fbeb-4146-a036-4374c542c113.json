@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:33.516432+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2adda738-aa42-4a92-bf71-1e2eea5e54ba",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b5d77bfc-fbeb-4146-a036-4374c542c113",
+  "input": "{\"title\": \"This War Is Ours\", \"release_type\": \"album\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

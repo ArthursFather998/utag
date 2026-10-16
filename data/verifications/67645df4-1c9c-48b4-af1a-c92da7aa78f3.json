@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:36.214527+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "06ab4762-c914-4035-8ccf-c5b59fc5d21e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67645df4-1c9c-48b4-af1a-c92da7aa78f3",
+  "input": "{\"title\": \"Fake\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Layover'",
+  "status": "verified"
+}

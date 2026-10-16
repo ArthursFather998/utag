@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:05.159693+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d33cb1d4-a30d-4f5c-91a4-229d4b83870a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3eed318b-95ee-460c-be3e-4c2b0efab46e",
+  "input": "{\"title\": \"The One I Gave My Heart To\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'One in a Million'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:17.399232+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d85016fb-b8c3-4254-9ced-cd6c300ce000",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "334c7186-1138-4c5e-b0f9-fce07f8667cc",
+  "input": "{\"title\": \"Middle of the Night\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Vinton Sings Vinton'",
+  "status": "verified"
+}

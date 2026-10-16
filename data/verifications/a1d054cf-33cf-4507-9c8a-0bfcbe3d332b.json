@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:04.348291+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3af880ea-9454-43f1-9d18-d3ef32eb90a3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a1d054cf-33cf-4507-9c8a-0bfcbe3d332b",
+  "input": "{\"title\": \"Time3\", \"release_type\": \"album\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

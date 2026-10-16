@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:18.448112+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8e020a4-955d-4071-a4c2-62caf2a32c47",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6466f573-cb4f-451c-b2dc-e06aa51d8957",
+  "input": "{\"title\": \"Virgo Moon\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

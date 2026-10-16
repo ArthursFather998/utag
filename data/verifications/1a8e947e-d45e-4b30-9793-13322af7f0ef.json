@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:22:44.702453+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0f21b7b-d767-4b1f-b39d-9ca36109d714",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1a8e947e-d45e-4b30-9793-13322af7f0ef",
+  "input": "{\"title\": \"Elaine Brown (Interlude)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Here'",
+  "status": "verified"
+}

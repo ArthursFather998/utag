@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:29.759102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "481cb67d-a563-41ae-b740-9d11f10cac33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e74544ef-ca6c-42db-a3d3-85eab03cfe2c",
+  "input": "{\"title\": \"Kanga-Roo\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live at Wetlands, New York, NY, August 16, 1994'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:01.41468+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0af03e84-101b-4181-a3a2-43ad741c3af7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ec28d5b4-969b-4988-9f7d-5f7b26f8cc4f",
+  "input": "{\"title\": \"Steve Berman (skit)\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Relapse: Refill'",
+  "status": "verified"
+}

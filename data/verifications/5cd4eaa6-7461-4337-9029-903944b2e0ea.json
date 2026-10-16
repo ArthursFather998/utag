@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:20.378169+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b5e24c4e-a345-422c-922a-cbd2d8d7408e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5cd4eaa6-7461-4337-9029-903944b2e0ea",
+  "input": "{\"title\": \"Good Guy\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Kamikaze'",
+  "status": "verified"
+}

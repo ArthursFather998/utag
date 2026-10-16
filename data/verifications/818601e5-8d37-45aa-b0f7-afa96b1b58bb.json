@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:45.645985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36a05135-8789-4d47-9b3d-4c2e61d3c60e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "818601e5-8d37-45aa-b0f7-afa96b1b58bb",
+  "input": "{\"title\": \"News of the World\", \"release_type\": \"album\", \"release_year\": 1977}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:28.150398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "41b1713f-97c5-41f8-92b4-f2783b3f8b42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23a36d4e-ffc1-4e74-8f35-d6bb80a5c182",
+  "input": "{\"title\": \"Crocodile Tearz\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Might Delete Later'",
+  "status": "verified"
+}

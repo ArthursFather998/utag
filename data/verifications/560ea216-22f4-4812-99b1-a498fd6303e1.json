@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:06.617145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e15d21fe-0909-4587-953a-eb60c578d7b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "560ea216-22f4-4812-99b1-a498fd6303e1",
+  "input": "{\"title\": \"Dejame Volar\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dejame Volar'",
+  "status": "verified"
+}

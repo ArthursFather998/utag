@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:19.205391+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6412d0de-6b1b-4e98-8f4e-e41b4efa1bbc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6cfb7cf0-c163-43f7-ba2d-fc7f55323aca",
+  "input": "{\"title\": \"What Now\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Unapologetic'",
+  "status": "verified"
+}

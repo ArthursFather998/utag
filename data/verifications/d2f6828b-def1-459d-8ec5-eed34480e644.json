@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:07.583687+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7df04352-132e-4750-90c7-68a80af5bd58",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2f6828b-def1-459d-8ec5-eed34480e644",
+  "input": "{\"title\": \"Maybe Tomorrow\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'This Beautiful Mess'",
+  "status": "verified"
+}

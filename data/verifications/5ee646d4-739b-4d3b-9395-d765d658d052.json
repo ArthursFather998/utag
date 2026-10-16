@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:05.567002+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f236b1f-056f-4e45-89f2-e2302eeec97c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ee646d4-739b-4d3b-9395-d765d658d052",
+  "input": "{\"title\": \"Saturday\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

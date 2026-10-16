@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:41.578808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e41e0d3-f2f0-4c1f-b399-c7ce6b122621",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d1ee83d-e8de-4953-8e92-ed587a344b0e",
+  "input": "{\"title\": \"Grace (Live)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Songs to No One 1991-1992'",
+  "status": "verified"
+}

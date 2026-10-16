@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:10.131167+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b861c9a-484e-45f1-90cd-1144ee01cff6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "da6961bc-f5e4-4200-ae62-98b23ac6324e",
+  "input": "{\"title\": \"Mania\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:23.908327+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "593c2b07-33d1-40d5-850f-bcaf4d979014",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a5f6993-0fb0-4857-8c6a-1acc8cafeed8",
+  "input": "{\"title\": \"Black Magic Woman\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Collection'",
+  "status": "verified"
+}

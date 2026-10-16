@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:28.264691+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a26791aa-cf87-446e-99ca-88fb0d0d707e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99d5ceb2-9873-4bd9-a0a7-d18e555aef37",
+  "input": "{\"title\": \"Still (Live)\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'An Evening with Brian McKnight'",
+  "status": "verified"
+}

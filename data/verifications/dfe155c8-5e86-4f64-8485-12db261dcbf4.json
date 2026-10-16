@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:33.040582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bfdb7ac5-ac86-4be4-9460-717ba470e6d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dfe155c8-5e86-4f64-8485-12db261dcbf4",
+  "input": "{\"title\": \"Ogre Battle\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Live at the Rainbow '74'",
+  "status": "verified"
+}

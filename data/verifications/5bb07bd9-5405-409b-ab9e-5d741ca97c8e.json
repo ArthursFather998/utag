@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:48.382222+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea59f951-19fe-4ed4-88ca-6d3d40df348a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5bb07bd9-5405-409b-ab9e-5d741ca97c8e",
+  "input": "{\"title\": \"The Magic Is Working\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Janet Jackson'",
+  "status": "verified"
+}

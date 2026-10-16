@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:32.262881+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0aca853-85f6-475b-8918-e2ba5e2b34a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64333ce8-1f70-4974-98e7-801d2166a035",
+  "input": "{\"title\": \"Weight of the World\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Out of the Shadows 2.0'",
+  "status": "verified"
+}

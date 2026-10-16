@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:47:48.203725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "317f8a36-a56b-4540-b8b9-4b0ddc647145",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e335753e-9a56-4617-b54e-97187640c862",
+  "input": "{\"title\": \"Only the Young\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Greatest Hits I & II'",
+  "status": "verified"
+}

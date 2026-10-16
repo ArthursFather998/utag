@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:07.06873+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "731ab0fd-6ad2-4f2d-9d59-b839647cada1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "db4cb295-a18c-47e3-9584-d87b3816dcd9",
+  "input": "{\"title\": \"Applesauce\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

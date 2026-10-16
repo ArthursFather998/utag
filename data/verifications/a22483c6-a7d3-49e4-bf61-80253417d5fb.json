@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:31.014429+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a2b05d2-db46-4462-bbac-aeea0f3f66be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a22483c6-a7d3-49e4-bf61-80253417d5fb",
+  "input": "{\"title\": \"Bahamas Promises\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'For All the Dogs'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:54.108242+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "606e9939-aa46-47ed-8fcc-f3aa60b57e88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "317332b3-adba-4af6-9d41-a9d1aea03d64",
+  "input": "{\"title\": \"Oh Come Oh Emmanuel\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Christmas EP'",
+  "status": "verified"
+}

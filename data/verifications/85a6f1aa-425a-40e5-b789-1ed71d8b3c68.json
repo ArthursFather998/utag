@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:58.627638+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "88a0a6ad-e058-4d94-b16d-47df16532787",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85a6f1aa-425a-40e5-b789-1ed71d8b3c68",
+  "input": "{\"title\": \"Lipstain\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Vie'",
+  "status": "verified"
+}

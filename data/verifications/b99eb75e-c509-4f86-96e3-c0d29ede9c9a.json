@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:43.554938+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "131ac41f-91c1-4109-9de5-840123554cf9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b99eb75e-c509-4f86-96e3-c0d29ede9c9a",
+  "input": "{\"title\": \"Bethlehem\", \"release_type\": \"album\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

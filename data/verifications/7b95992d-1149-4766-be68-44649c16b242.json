@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:41.487273+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d99bde53-18f1-447f-ac17-fffb293c4e28",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b95992d-1149-4766-be68-44649c16b242",
+  "input": "{\"title\": \"Go Your Own Way\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'In Concert'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:07.280341+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6530f79e-1756-4a86-91a1-00f1fe0f3120",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "848c592d-c375-4e51-bca4-2ef2254fd479",
+  "input": "{\"title\": \"All This Love\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Room for Improvement'",
+  "status": "verified"
+}

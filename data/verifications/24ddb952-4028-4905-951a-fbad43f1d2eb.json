@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:51.661471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc68c2cd-d3d6-4a63-b918-2365b94345c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "24ddb952-4028-4905-951a-fbad43f1d2eb",
+  "input": "{\"title\": \"Get Out Alive\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'One-X (20th Anniversary Edition)'",
+  "status": "verified"
+}

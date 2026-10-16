@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:24.636241+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3ee7486b-1c18-494e-a181-a7658e2c4f4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "405dc9fe-68fc-4386-9198-386ef4de6575",
+  "input": "{\"title\": \"Treatment\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Electronic Earth'",
+  "status": "verified"
+}

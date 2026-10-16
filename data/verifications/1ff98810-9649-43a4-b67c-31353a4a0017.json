@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:03.651518+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "26ce74c5-bdd5-4c79-9246-ab256a7fccb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ff98810-9649-43a4-b67c-31353a4a0017",
+  "input": "{\"title\": \"La Belle Fleur Sauvage\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Strange Trails (10th Anniversary Edition)'",
+  "status": "verified"
+}

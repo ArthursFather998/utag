@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:32.178969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "809ded82-05cb-48bb-9f5f-0f662e445b4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6600ce65-6fe2-478a-a88b-608b5210f18b",
+  "input": "{\"title\": \"A Perfect World\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Perfect World'",
+  "status": "verified"
+}

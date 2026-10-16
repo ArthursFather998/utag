@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:15:59.118836+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7a04aec4-f6cb-4c9e-85b2-97fa59dc1b4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0be300f-a0e0-409a-b3cd-963cd5b431b5",
+  "input": "{\"title\": \"Billy Bones and the White Bird\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Rock of the Westies'",
+  "status": "verified"
+}

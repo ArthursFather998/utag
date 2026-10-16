@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:34.078719+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56f79f51-d2ab-4f4a-a768-6fd583d22197",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ded9ab6d-4f44-436e-a5e7-ea6d659c382c",
+  "input": "{\"title\": \"Jump\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

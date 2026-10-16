@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:56.614831+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d4b7fe8e-26c3-4f94-91ab-3382eaa2cbb1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "478a8d7d-0abf-4ace-aafb-6ac355d4b65d",
+  "input": "{\"title\": \"After All...\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Best Of'",
+  "status": "verified"
+}

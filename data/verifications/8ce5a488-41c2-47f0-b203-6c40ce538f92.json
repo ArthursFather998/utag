@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:48.141912+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7dbf4423-753d-405b-bf90-8a49eb83a359",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ce5a488-41c2-47f0-b203-6c40ce538f92",
+  "input": "{\"title\": \"Lose My Mind\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lose My Mind'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:59.412522+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "72c2065a-5384-401c-99c4-27421878c5ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1099f2c6-b7e3-40e8-b425-9837ea7403b1",
+  "input": "{\"title\": \"Albatross\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of '50 Years – Don't Stop'",
+  "status": "verified"
+}

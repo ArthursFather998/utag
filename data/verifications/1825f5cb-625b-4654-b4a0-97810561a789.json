@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:41:23.708588+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc9b817e-a554-4c6b-a61f-39bbf6e069e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1825f5cb-625b-4654-b4a0-97810561a789",
+  "input": "{\"title\": \"Everything I Said\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'No Need to Argue'",
+  "status": "verified"
+}

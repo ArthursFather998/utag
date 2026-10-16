@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:33.357401+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a708e545-0985-4bd5-aa70-eedd51bbbc8a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9185a4af-c6d5-44b6-820f-a156c18b244d",
+  "input": "{\"title\": \"Small Talk\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Magic Colors: The Lost Album'",
+  "status": "verified"
+}

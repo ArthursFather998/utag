@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:44.040639+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07dfac99-1f8b-4339-8f8b-15dd2b741f96",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a3008316-cfe2-4b6f-90fd-66af5a1f107b",
+  "input": "{\"title\": \"Back & Forth\", \"release_type\": \"single\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

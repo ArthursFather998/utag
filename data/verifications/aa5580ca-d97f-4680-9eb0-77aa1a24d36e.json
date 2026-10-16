@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:08.154932+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "84615e22-ad3b-4331-9ac0-0b174bca44dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa5580ca-d97f-4680-9eb0-77aa1a24d36e",
+  "input": "{\"title\": \"Moodswing Whiskey\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Original Album Classics'",
+  "status": "verified"
+}

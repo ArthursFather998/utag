@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:46.343076+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1bb35ee-1fa2-4d57-bc09-9de244395699",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39e9cc6b-acbd-4ee8-b857-eb2d731cda06",
+  "input": "{\"title\": \"Been Away\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Fuck the World'",
+  "status": "verified"
+}

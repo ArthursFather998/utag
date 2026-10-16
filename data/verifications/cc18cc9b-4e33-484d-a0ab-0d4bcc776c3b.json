@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:32.388501+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d018ecb0-0fe3-4796-b935-56f3e08efed1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cc18cc9b-4e33-484d-a0ab-0d4bcc776c3b",
+  "input": "{\"title\": \"Memories\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

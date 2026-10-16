@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:35.990232+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c9fb646-fc2c-4133-8d14-53a4d955e134",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "68e46f13-aaa4-4270-8d33-c8d1d8dbefb3",
+  "input": "{\"title\": \"Lala (featuring Swae Lee)\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

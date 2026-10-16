@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:27.750184+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df851acb-0f8f-4d23-afd8-43317d957c9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7501a56c-5677-49a5-8126-32710e96d763",
+  "input": "{\"title\": \"Night Watch\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Penguin'",
+  "status": "verified"
+}

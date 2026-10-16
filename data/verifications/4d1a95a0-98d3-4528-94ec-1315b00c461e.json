@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:50.229436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45d97515-de47-470b-b7d8-1a674914f9bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d1a95a0-98d3-4528-94ec-1315b00c461e",
+  "input": "{\"title\": \"Hey Ahab\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Union'",
+  "status": "verified"
+}

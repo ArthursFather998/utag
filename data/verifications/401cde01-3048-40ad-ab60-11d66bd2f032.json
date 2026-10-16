@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:16.611556+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b3b90946-3ee3-4a4f-8568-6945d8c5e0bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "401cde01-3048-40ad-ab60-11d66bd2f032",
+  "input": "{\"title\": \"Absolute\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Fray'",
+  "status": "verified"
+}

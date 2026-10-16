@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:43.862441+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "503aa689-c40e-4ff2-9606-54e5a865a3a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f5c6482-063c-4943-81fc-12cf745ba7a6",
+  "input": "{\"title\": \"Love Yourz\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Love Yourz'",
+  "status": "verified"
+}

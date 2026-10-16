@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:08.640985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4cffdfb-b475-4cab-b430-96f7511ca03d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6e13aff-f948-4a77-a308-863fcd15d3a4",
+  "input": "{\"title\": \"Your Man\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Nectar'",
+  "status": "verified"
+}

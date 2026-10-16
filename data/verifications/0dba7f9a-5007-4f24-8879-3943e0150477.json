@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:23.396677+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02ee7fc5-aa07-468a-bf7e-12c332baf1a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0dba7f9a-5007-4f24-8879-3943e0150477",
+  "input": "{\"title\": \"Seasons Reprise\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Friends'",
+  "status": "verified"
+}

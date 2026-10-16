@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:51:34.102401+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d44c7da0-ea76-4361-96f8-83a6add0b288",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cbf47075-ca30-4970-bc82-0161c3a23354",
+  "input": "{\"title\": \"You Must Love Me\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

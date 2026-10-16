@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:43.374181+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8030db40-8e77-437d-ac49-3a6d8977c255",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7844960-8ce0-470a-8184-60d45b775332",
+  "input": "{\"title\": \"I Love You But I'm Lost\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Rule the World: The Greatest Hits'",
+  "status": "verified"
+}

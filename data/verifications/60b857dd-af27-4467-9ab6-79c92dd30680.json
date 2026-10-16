@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:45.557228+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28642c24-5d13-40bd-a017-0385c2efe3fa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60b857dd-af27-4467-9ab6-79c92dd30680",
+  "input": "{\"title\": \"Take Me Back\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '21 at 33'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:13.126531+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f41a20ce-40ef-4261-bc5b-417290fb027d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d42be33e-ba37-4607-903d-20856c48c67b",
+  "input": "{\"title\": \"Montero (Call Me by Your Name)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Montero (Call Me by Your Name)'",
+  "status": "verified"
+}

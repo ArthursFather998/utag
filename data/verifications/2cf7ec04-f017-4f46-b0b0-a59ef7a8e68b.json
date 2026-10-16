@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:59.070094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca5d3289-e8ca-4349-a5d6-6ce937e1c6a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2cf7ec04-f017-4f46-b0b0-a59ef7a8e68b",
+  "input": "{\"title\": \"Forgiveness (with Marvin Winans)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Swag'",
+  "status": "verified"
+}

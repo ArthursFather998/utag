@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:10.294906+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87576942-8fa6-41f0-beea-a8d363c18382",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb2afbec-0230-4f3d-ad43-1d2d73862605",
+  "input": "{\"title\": \"The Flood\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Flood'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:52.457734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1cb37fae-2146-460f-901c-68c9d6f7613c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52b8959c-0c9c-4990-a31e-245781eed294",
+  "input": "{\"title\": \"HiiiJack\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Z'",
+  "status": "verified"
+}

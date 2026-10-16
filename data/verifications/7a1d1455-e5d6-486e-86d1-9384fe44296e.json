@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:35.193373+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b955b184-fdcb-48aa-9766-a5e857172dc3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a1d1455-e5d6-486e-86d1-9384fe44296e",
+  "input": "{\"title\": \"Mexican Vacation (Kids in the Candlelight)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Diving Board'",
+  "status": "verified"
+}

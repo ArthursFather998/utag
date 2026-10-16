@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:00.730544+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a78d7491-88ae-4ec6-ab30-1c756704d1b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6cf23b7c-5528-40ab-840f-1831e53d29f6",
+  "input": "{\"title\": \"Goodbye (performed by the Kid Laroi)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Party Never Ends'",
+  "status": "verified"
+}

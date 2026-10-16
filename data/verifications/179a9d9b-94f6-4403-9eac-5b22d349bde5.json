@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:12:25.5382+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09c9dfcf-3add-48fd-8d67-d6ba9d311cba",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "179a9d9b-94f6-4403-9eac-5b22d349bde5",
+  "input": "{\"title\": \"Twenty Eight\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

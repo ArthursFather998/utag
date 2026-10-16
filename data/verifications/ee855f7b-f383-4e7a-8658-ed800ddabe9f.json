@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:02.820974+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a244b2f2-2eac-4395-a92c-1da81a3d45cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee855f7b-f383-4e7a-8658-ed800ddabe9f",
+  "input": "{\"title\": \"I Am Free\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Am Free'",
+  "status": "verified"
+}

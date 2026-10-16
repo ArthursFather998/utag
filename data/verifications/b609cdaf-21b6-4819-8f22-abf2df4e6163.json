@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:41.690221+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9106e6dd-58a8-4425-af76-b49dfb816cfd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b609cdaf-21b6-4819-8f22-abf2df4e6163",
+  "input": "{\"title\": \"Love Don't Die\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Helios'",
+  "status": "verified"
+}

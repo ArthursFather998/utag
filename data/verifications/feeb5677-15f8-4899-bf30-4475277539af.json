@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:02.401056+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7007c2cd-1cb9-4a3e-932e-bd59f989c871",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "feeb5677-15f8-4899-bf30-4475277539af",
+  "input": "{\"title\": \"Take Me to the Pilot\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

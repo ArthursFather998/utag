@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:25.628997+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5a3e923-94cd-4e33-a205-3339df1c2feb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ae68b95b-fa7f-4275-bfad-a0c49d2a34a1",
+  "input": "{\"title\": \"Steve Berman (skit)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

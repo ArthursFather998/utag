@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:12.121653+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2fa84ed3-543d-4c55-81df-6e7f82ae0a61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c61fc4a-ae5c-421d-a9c8-caca0973c45b",
+  "input": "{\"title\": \"The Sky Is A Landfill\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Playlist: The Very Best of Jeff Buckley'",
+  "status": "verified"
+}

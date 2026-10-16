@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:36:01.618471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2dce5cfc-0169-4eea-8e4c-95554a681d3e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1c520e6f-cf81-497c-ba94-1e15c22c4f30",
+  "input": "{\"title\": \"Mad as Rabbits\", \"release_type\": \"single\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:07.857541+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d741b394-2c1f-4a9f-a50e-cf512dbd4141",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b83ed47a-363f-4ba7-a874-ebeaad57b120",
+  "input": "{\"title\": \"Always Mine\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Anthology'",
+  "status": "verified"
+}

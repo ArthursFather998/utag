@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:59.78508+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "46db0a46-484f-445d-9ce9-be5673c7f4b2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "138826b2-404f-49bd-8cf0-8a4d204f3819",
+  "input": "{\"title\": \"Selena: The Original Motion Picture Soundtrack\", \"release_type\": \"album\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

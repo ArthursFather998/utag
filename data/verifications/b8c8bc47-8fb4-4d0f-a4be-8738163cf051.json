@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:56.28045+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f6979fc-c73c-45b2-b34e-a7ad62b4aa4a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b8c8bc47-8fb4-4d0f-a4be-8738163cf051",
+  "input": "{\"title\": \"Got a Story to Tell\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

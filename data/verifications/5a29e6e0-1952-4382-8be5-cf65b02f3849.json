@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:17.733428+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "56c49163-cdfd-4f29-8c9b-7b48aaf8e7eb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5a29e6e0-1952-4382-8be5-cf65b02f3849",
+  "input": "{\"title\": \"Melanie\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

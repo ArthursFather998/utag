@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:35.032154+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5515cbb-24c3-495a-86ed-8764312c5a64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55ed9230-0fe6-417d-a8a9-0e586943642e",
+  "input": "{\"title\": \"Lazy Poker Blues\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Mr. Wonderful'",
+  "status": "verified"
+}

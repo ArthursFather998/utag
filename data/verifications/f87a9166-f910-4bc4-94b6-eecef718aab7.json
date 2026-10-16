@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:33.035927+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3791358f-eaee-400a-90dd-e1dba8d32272",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f87a9166-f910-4bc4-94b6-eecef718aab7",
+  "input": "{\"title\": \"Pink Tape: Boss Battle\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

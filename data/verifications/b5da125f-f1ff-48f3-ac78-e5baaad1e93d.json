@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:20.194529+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7efb84c-bdf5-4404-abb0-8d39b1945573",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5da125f-f1ff-48f3-ac78-e5baaad1e93d",
+  "input": "{\"title\": \"I Want You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Want You'",
+  "status": "verified"
+}

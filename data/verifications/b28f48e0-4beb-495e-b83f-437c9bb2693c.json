@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:41.907936+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e3b2da2d-1cab-4096-98d1-0480559919c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b28f48e0-4beb-495e-b83f-437c9bb2693c",
+  "input": "{\"title\": \"Nine in the Afternoon (Live)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'All My Friends We're Glorious: Death of a Bachelor Tour Live'",
+  "status": "verified"
+}

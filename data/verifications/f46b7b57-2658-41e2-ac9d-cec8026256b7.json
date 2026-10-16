@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:57.30408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a25e85c9-79f5-4a72-8de6-adfc0645fe7d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f46b7b57-2658-41e2-ac9d-cec8026256b7",
+  "input": "{\"title\": \"I Want Someone Badly\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Playlist: The Very Best of Jeff Buckley'",
+  "status": "verified"
+}

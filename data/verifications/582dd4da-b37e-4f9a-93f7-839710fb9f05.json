@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:39:20.084254+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2444007-cf13-43c8-9ff2-31fa480f65f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "582dd4da-b37e-4f9a-93f7-839710fb9f05",
+  "input": "{\"title\": \"Disc 2 - You've Come Back\", \"track_number\": 55}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 55 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

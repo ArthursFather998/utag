@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:52.0567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8c83c5b1-1450-466a-a9de-39740394f20b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "562bc1b4-f222-4fba-8f70-f926b6f0ad97",
+  "input": "{\"title\": \"We'll Sing In The Sunshine\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Folk Rock'",
+  "status": "verified"
+}

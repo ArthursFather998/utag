@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:50.659991+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "448d2e80-57b7-402c-a5e2-54d7a1183a26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad25efea-5c2a-4fce-ab2f-1a87e1ace7c8",
+  "input": "{\"title\": \"Esto Es Amor\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Esto Es Amor'",
+  "status": "verified"
+}

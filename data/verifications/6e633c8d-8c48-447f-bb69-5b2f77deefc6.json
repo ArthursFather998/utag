@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:57.459121+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "52f576eb-d66a-4787-aa55-2639b8273828",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e633c8d-8c48-447f-bb69-5b2f77deefc6",
+  "input": "{\"title\": \"Edge of the Moment\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Eclipse'",
+  "status": "verified"
+}

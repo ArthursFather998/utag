@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:21.669173+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a24dafc4-efe8-4285-9278-71f878b67d9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d4499f3-5ba7-4579-b21a-002e22212da6",
+  "input": "{\"title\": \"Nothing Without You\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Time'",
+  "status": "verified"
+}

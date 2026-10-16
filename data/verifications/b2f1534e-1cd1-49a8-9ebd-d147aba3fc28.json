@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:44.119706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "795a9595-0331-49e1-acb6-a37e40f53b76",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b2f1534e-1cd1-49a8-9ebd-d147aba3fc28",
+  "input": "{\"title\": \"I'll Be There\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

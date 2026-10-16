@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:58.885921+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7dc9979-d0b5-4dbb-b088-bbfdb2dd4066",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5180b5a9-d0fb-4d7d-bb99-be5dde1909be",
+  "input": "{\"title\": \"Cinderella Man\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Recovery (Deluxe)'",
+  "status": "verified"
+}

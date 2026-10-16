@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:57.07398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "13b88694-cbce-4605-a198-9c785446248a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af9163e8-2ad9-4895-8ef7-8bed92accbb7",
+  "input": "{\"title\": \"You Don't Know\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'You Don't Know'",
+  "status": "verified"
+}

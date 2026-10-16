@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:33.4328+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b48c883a-b3dd-400b-9af5-16229aad21ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d0445df-628e-4252-b832-e488ddaebd51",
+  "input": "{\"title\": \"Suzanne\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Don't Stop Believin': The Best of Journey'",
+  "status": "verified"
+}

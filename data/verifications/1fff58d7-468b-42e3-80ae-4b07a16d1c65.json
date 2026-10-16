@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:01.396777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ed20f02-9bce-49e9-9d87-d8d8f388e602",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1fff58d7-468b-42e3-80ae-4b07a16d1c65",
+  "input": "{\"title\": \"Woman in Chains\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Shout: The Very Best of Tears for Fears'",
+  "status": "verified"
+}

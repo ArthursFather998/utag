@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:06.012427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b2c4e7c-b24b-4d1d-b408-f83f10063555",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d183b44-d526-4728-83d1-7b75ece0389e",
+  "input": "{\"title\": \"Use My Voice\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Use My Voice'",
+  "status": "verified"
+}

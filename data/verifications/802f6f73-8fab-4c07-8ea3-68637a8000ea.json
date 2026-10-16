@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:53.724389+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9fb48b1b-c8ba-4d39-a88a-86dfe27f0ca8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "802f6f73-8fab-4c07-8ea3-68637a8000ea",
+  "input": "{\"title\": \"Alright \\u2013 LP Version\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Alright: The Remixes'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:26.336159+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f44b539-c144-42b3-82ba-582cbe9265d2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "771d2626-0837-4f04-afca-d791d987c6ab",
+  "input": "{\"title\": \"Future Games\", \"release_type\": \"album\", \"release_year\": 1971}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

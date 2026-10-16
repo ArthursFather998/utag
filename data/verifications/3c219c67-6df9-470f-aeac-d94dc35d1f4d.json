@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:36.836652+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b01dc2b-bbea-4423-b25f-666a72a916fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c219c67-6df9-470f-aeac-d94dc35d1f4d",
+  "input": "{\"title\": \"Allow Me One More Show [Alternative Mix]\", \"track_number\": 90}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 90 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

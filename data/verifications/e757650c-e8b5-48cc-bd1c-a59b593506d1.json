@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:19.543586+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "74ec4706-e30d-4e1c-9972-5ba861d93fa9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e757650c-e8b5-48cc-bd1c-a59b593506d1",
+  "input": "{\"title\": \"Poor Cow\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Reg Strikes Back'",
+  "status": "verified"
+}

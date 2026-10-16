@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:32.369912+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "66c68165-77dc-46c6-a120-f48e8bae1305",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "e61d2f62-1f08-4994-badc-d4a53132f4e9",
+  "input": {
+    "artist": "Lil Peep",
+    "release": "JUST IN CASE",
+    "title": "JUST IN CASE"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "'JUST IN CASE' is a real posthumous Lil Peep release: a single issued March 28, 2025 by Death Note Music / AWAL (catalog LILPDS6), confirmed by AllMusic's release entry and HotNewHipHop's coverage. It was a long-leaked fan grail finally given an official release, not unresolvable. | sources: https://www.allmusic.com/album/release/just-in-case-mr0006659012, https://www.hotnewhiphop.com/898009-lil-peep-just-in-case-stream",
+  "status": "verified"
+}

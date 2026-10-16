@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:32.27299+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f9f9f61-7c04-4b90-8cf4-1ff6a81a4691",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f1c49c55-3017-4b42-a8ac-0e313da7c013",
+  "input": "{\"title\": \"talk to me\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

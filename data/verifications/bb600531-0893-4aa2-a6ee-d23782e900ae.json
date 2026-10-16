@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:59.418119+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce712902-6cb9-4a95-bca9-bbcf596a34d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb600531-0893-4aa2-a6ee-d23782e900ae",
+  "input": "{\"title\": \"White Christmas\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Kissin' Christmas: The Bobby Vinton Christmas Album'",
+  "status": "verified"
+}

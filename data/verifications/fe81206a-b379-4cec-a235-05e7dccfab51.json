@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:05.084798+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d38975c1-f56b-4014-8df6-fa976ed3607b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe81206a-b379-4cec-a235-05e7dccfab51",
+  "input": "{\"title\": \"Benz Truck (\\u0433\\u0435\\u043b\\u0438\\u043a)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Benz Truck (гелик)'",
+  "status": "verified"
+}

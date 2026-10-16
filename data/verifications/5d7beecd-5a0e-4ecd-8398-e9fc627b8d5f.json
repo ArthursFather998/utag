@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:21.459485+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "911e513a-581f-4058-b279-86b74d08044b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5d7beecd-5a0e-4ecd-8398-e9fc627b8d5f",
+  "input": "{\"title\": \"Alive\", \"release_type\": \"single\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

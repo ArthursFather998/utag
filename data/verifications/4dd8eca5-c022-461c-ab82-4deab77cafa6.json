@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:31.068515+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ea8cf5f-e72a-4a74-af17-bbd9a17b21d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dd8eca5-c022-461c-ab82-4deab77cafa6",
+  "input": "{\"title\": \"Ferrari\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Wiped Out! (10th Anniversary Edition)'",
+  "status": "verified"
+}

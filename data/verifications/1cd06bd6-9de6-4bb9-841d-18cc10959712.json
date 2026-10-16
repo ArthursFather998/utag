@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:09.049161+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb05cf60-3242-416a-b0d3-1323dc52aba0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1cd06bd6-9de6-4bb9-841d-18cc10959712",
+  "input": "{\"title\": \"All the Way\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'All the Way'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:06.733734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5757591b-afb4-4a4a-89e3-a1715e31b5a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55b8b618-fea0-4afc-80f3-0b04006f3bc5",
+  "input": "{\"title\": \"I Could Fall In Love\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Icon'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:39.442582+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b6b5809-8388-4ca7-90e2-a6252bece147",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "33dc5838-c991-4a94-9491-4ddc927ced11",
+  "input": "{\"title\": \"Ya Ves/Las Cadenas/Yo Te Amo\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Selena Live!'",
+  "status": "verified"
+}

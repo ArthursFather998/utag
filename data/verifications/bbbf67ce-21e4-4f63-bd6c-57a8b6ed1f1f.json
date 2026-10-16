@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:38.892435+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2912d68-3cf3-403d-afe3-c3d022af3b5b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbbf67ce-21e4-4f63-bd6c-57a8b6ed1f1f",
+  "input": "{\"title\": \"Ni\\u00f1a\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '1940 Carmen'",
+  "status": "verified"
+}

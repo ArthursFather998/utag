@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:46.31762+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2383980-0860-4169-9af3-3731f0d680e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f2b3ad6-a0b1-49dc-941b-a5baa7e8a2dc",
+  "input": "{\"title\": \"Enchanted (with Omen)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Friday Night Lights'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:10.263148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "165f06bb-48ba-4774-8bfd-b9ddef441345",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5190d02f-c30f-4446-82e7-7e57ae3e24d5",
+  "input": "{\"title\": \"One of the Drunks\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Pray for the Wicked'",
+  "status": "verified"
+}

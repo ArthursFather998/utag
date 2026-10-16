@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:24.88711+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b20255d-47f3-45bb-9b89-0794b8fccbbb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16d563c0-1292-41c7-92cf-70f9aea42ffe",
+  "input": "{\"title\": \"C-lebrity\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Live in Ukraine'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:25:14.891115+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "17565753-a7a0-4626-9068-36a653341c27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd2dc737-8e03-4443-8c62-bb7b2de0b01a",
+  "input": "{\"title\": \"Party Girl (Remix)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Party Girl (Remix)'",
+  "status": "verified"
+}

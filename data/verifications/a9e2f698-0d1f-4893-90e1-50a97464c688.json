@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:34.734542+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "812c741a-3a66-49f8-bef1-862cb3277c0a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a9e2f698-0d1f-4893-90e1-50a97464c688",
+  "input": "{\"title\": \"What a Time to Be Alive\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

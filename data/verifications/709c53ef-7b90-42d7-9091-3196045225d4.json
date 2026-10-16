@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:00.727488+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ca9518d-cd17-4a85-bf82-f90cef555a33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "709c53ef-7b90-42d7-9091-3196045225d4",
+  "input": "{\"title\": \"Action This Day\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Queen on Fire - Live at the Bowl'",
+  "status": "verified"
+}

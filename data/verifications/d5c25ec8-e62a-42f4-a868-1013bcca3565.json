@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:14.671782+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d6589f2-3ec0-413d-9563-f24c210b66fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5c25ec8-e62a-42f4-a868-1013bcca3565",
+  "input": "{\"title\": \"That's What It's Made For\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Confessions (Special Edition)'",
+  "status": "verified"
+}

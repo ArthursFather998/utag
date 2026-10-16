@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:02.541964+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7ce26c64-ff23-4017-a3b4-04fe5dfa3252",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7be93b0-b047-4430-b61b-64d07042f14d",
+  "input": "{\"title\": \"I Believe My Time Ain't Long\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'Selections from 25 Years – The Chain'",
+  "status": "verified"
+}

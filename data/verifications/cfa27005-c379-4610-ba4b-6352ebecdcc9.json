@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:07:29.47152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "089a6493-f77d-431c-840d-5ce7693d6383",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfa27005-c379-4610-ba4b-6352ebecdcc9",
+  "input": "{\"title\": \"Favorite Girl\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Favorite Girl'",
+  "status": "verified"
+}

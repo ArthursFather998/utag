@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:39.670961+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "release->?"
+    ],
+    "verdict": "fix_release"
+  },
+  "entity_id": "0eae719b-f313-41d3-9f63-8e1a75d6bcaa",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "c211a1f4-768e-4749-8dd0-0561402263dd",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "2010s RAP HITS : 2014-2020 Era",
+    "title": "changes"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "\"changes\" is track 15 of the original \"?\" (2018); the 2023 \"2010s RAP HITS\" compilation is a later third-party comp, not the original release. | sources: https://www.xxlmag.com/xxxtentacion-deluxe-re-release-announced/, https://www.faded4u.ca/2019/03/xxxtentacions-album-set-for-release-as.html",
+  "status": "verified"
+}

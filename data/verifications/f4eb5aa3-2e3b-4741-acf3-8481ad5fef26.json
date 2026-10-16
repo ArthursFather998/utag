@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:55.969575+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67d47fcb-a986-4b68-b87b-7931f5ef8f73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4eb5aa3-2e3b-4741-acf3-8481ad5fef26",
+  "input": "{\"title\": \"Space Bound\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Recovery (Deluxe)'",
+  "status": "verified"
+}

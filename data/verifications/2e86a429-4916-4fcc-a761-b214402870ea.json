@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:24.982516+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c4e251f-ed41-426f-9efa-d0747c12e332",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e86a429-4916-4fcc-a761-b214402870ea",
+  "input": "{\"title\": \"One for the Money\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Ungrateful (Deluxe)'",
+  "status": "verified"
+}

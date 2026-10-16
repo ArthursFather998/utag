@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:56.391705+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cc50caaa-a483-4d98-97a1-ef93d6aaa77f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9d84b89e-b511-400d-a63b-f8374cc336e7",
+  "input": "{\"title\": \"Waiting on the Sun\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

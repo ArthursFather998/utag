@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:05.343071+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7cd576c0-7376-49b9-8f56-5a84ff39ad66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93b06488-53fa-4d6f-a688-9e6f2d5e6441",
+  "input": "{\"title\": \"Gen 5\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Habibti'",
+  "status": "verified"
+}

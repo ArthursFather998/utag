@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:06.236048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8fced47f-8fe5-48f4-80b2-1c01bb702efd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "169dee9a-9632-4fd4-90b9-1877db3fa78b",
+  "input": "{\"title\": \"The Slim Shady LP\", \"release_type\": \"album\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

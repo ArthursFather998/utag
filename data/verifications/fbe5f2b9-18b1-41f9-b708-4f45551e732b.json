@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:23.967476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bb4228d6-76b8-41c6-b6bd-d83f0d1899a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbe5f2b9-18b1-41f9-b708-4f45551e732b",
+  "input": "{\"title\": \"The Other Side\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of 'The Ultimate Collection'",
+  "status": "verified"
+}

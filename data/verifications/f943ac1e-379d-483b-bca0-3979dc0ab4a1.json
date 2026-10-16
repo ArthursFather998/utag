@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:30.708087+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2c22d6ff-7213-4017-838a-aa243fc8017d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f943ac1e-379d-483b-bca0-3979dc0ab4a1",
+  "input": "{\"title\": \"My First and Only Love\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Encore'",
+  "status": "verified"
+}

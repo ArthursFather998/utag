@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:01.182821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7161c60a-f577-4d46-b779-730581a612f5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "598b5bb4-25ab-47bd-9992-b267a2fc88d3",
+  "input": "{\"title\": \"Something About the Way You Look Tonight\", \"release_type\": \"single\", \"release_year\": 1997}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

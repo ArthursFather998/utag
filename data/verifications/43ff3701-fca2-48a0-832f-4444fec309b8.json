@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:00:32.025996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9a18ca80-3110-4e39-bceb-3984b1a7dd70",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "43ff3701-fca2-48a0-832f-4444fec309b8",
+  "input": "{\"title\": \"NPR's Tiny Desk Live (Home) Concert\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:05.004266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8979428f-bfd1-42bd-9bdc-8e7286b1ab1b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "67258b83-a2f1-4a7e-b212-311052ca0fb7",
+  "input": "{\"title\": \"The Works\", \"release_type\": \"album\", \"release_year\": 1984}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

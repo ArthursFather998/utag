@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:39.437987+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2ac0355-46e5-49f7-a4cc-8e725fd47ce0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "213bd5a3-f181-4b65-bec9-8fac17ed05ea",
+  "input": "{\"title\": \"Albatross\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

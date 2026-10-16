@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:32.965521+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3f938a6-5bcd-43c0-858a-891d894dae46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bdf292ba-3574-4acd-970c-db7a30c44701",
+  "input": "{\"title\": \"Vows\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Vows'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:41:26.55681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9d9d821f-2c0c-44d5-965e-d59fb4b1045c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3f1c969-6434-43a6-802a-7bfd01d51b5c",
+  "input": "{\"title\": \"Reason to Love L.A.\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'They Don't Know'",
+  "status": "verified"
+}

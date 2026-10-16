@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:19:35.22688+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51b28f63-3a3f-4092-b7f9-c7ed556de99e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c42c93cd-883f-4654-b55f-6c1a0a82ce27",
+  "input": "{\"title\": \"Good Days\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Good Days'",
+  "status": "verified"
+}

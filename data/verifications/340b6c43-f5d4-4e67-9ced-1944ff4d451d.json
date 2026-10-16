@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:14.646729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "274e1c2e-c965-495c-9f56-38cdd1324d79",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "340b6c43-f5d4-4e67-9ced-1944ff4d451d",
+  "input": "{\"title\": \"Not the First\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Ever Since'",
+  "status": "verified"
+}

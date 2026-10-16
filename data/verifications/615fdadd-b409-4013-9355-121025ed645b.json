@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:39.531417+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38308b0e-975d-460b-bfb2-f365a6722fbd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "615fdadd-b409-4013-9355-121025ed645b",
+  "input": "{\"title\": \"High School Sweethearts\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'K-12 (After School - Deluxe Edition)'",
+  "status": "verified"
+}

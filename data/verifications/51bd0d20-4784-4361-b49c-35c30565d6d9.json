@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:34.701481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf2ec167-f401-4363-af1f-69d650be0438",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51bd0d20-4784-4361-b49c-35c30565d6d9",
+  "input": "{\"title\": \"My Heart Is Broken\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Synthesis'",
+  "status": "verified"
+}

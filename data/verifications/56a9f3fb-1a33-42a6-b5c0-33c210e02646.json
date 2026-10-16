@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:57.104576+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aeff2707-e14a-4f20-953c-09e1b8b44884",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56a9f3fb-1a33-42a6-b5c0-33c210e02646",
+  "input": "{\"title\": \"stay\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'stay'",
+  "status": "verified"
+}

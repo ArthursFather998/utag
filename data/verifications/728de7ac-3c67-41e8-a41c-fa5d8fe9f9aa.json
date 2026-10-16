@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:29.397674+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10afd2ce-69fd-47c0-ad94-396edc958951",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "728de7ac-3c67-41e8-a41c-fa5d8fe9f9aa",
+  "input": "{\"title\": \"Someone New\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Someone New'",
+  "status": "verified"
+}

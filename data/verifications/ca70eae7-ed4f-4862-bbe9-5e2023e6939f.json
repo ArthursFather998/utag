@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:17.848645+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4792d439-67b5-4e63-8654-f00ed0ef00bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca70eae7-ed4f-4862-bbe9-5e2023e6939f",
+  "input": "{\"title\": \"Blade By Blade\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Solstice'",
+  "status": "verified"
+}

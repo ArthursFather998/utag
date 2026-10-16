@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:11.868295+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "672852ec-c768-43bf-b0f5-5b34508e55e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79973026-29d1-414b-90db-90721f2919e9",
+  "input": "{\"title\": \"I'm in Love with My Car\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

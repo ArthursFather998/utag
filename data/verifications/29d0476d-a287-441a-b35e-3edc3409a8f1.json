@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:03.134331+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "061867bc-ad53-4875-84c6-2940332b73db",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "29d0476d-a287-441a-b35e-3edc3409a8f1",
+  "input": "{\"title\": \"Queen Rock Montreal\", \"release_type\": \"album\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

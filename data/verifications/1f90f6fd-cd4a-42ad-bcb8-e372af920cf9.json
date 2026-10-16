@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:17.396921+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f41d86b6-abd6-4be6-a9ef-14e3d4ce3bc8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f90f6fd-cd4a-42ad-bcb8-e372af920cf9",
+  "input": "{\"title\": \"Best Kind\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'F.I.G'",
+  "status": "verified"
+}

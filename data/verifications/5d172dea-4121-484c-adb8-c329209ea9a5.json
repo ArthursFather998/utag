@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:39.982595+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c3540ed3-4e31-4c87-bce7-60c6b3f936d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d172dea-4121-484c-adb8-c329209ea9a5",
+  "input": "{\"title\": \"High Hopes (featuring Omar Apollo)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Nectar'",
+  "status": "verified"
+}

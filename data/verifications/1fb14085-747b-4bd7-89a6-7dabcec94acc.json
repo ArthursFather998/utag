@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:51.779729+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dcac21fb-b287-448f-af48-6da8f5a39bb3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1fb14085-747b-4bd7-89a6-7dabcec94acc",
+  "input": "{\"title\": \"Size of Sorrow\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Everybody Loves a Happy Ending'",
+  "status": "verified"
+}

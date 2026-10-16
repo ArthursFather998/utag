@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:44.986319+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bca8c685-6a90-4af3-8a67-a317ec615ae4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d25bc628-1ac2-480a-ac8c-5b041dc5a14b",
+  "input": "{\"title\": \"We Are the Champions (Live Aid)\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

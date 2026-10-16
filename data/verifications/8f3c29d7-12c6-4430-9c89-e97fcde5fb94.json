@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:35.668566+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8de2e18a-870a-49c2-942f-21b1bb6a2a93",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f3c29d7-12c6-4430-9c89-e97fcde5fb94",
+  "input": "{\"title\": \"hat trick\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'BY A THREAD'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:44.797682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85b1a8a6-e410-4b34-88fa-86c72487ca98",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "734860f9-bc0a-44b6-8e08-72e55b373a09",
+  "input": "{\"title\": \"One Sweet Day\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

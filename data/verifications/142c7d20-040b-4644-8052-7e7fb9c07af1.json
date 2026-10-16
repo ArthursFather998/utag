@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:37.631577+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "51054625-9c3c-44b5-a48e-99c00ebc0609",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "142c7d20-040b-4644-8052-7e7fb9c07af1",
+  "input": "{\"title\": \"Freakshow\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Welcome to the Freakshow'",
+  "status": "verified"
+}

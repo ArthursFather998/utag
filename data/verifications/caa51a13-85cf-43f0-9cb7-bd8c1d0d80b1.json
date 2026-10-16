@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:15.286177+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f99067fc-76cc-4c43-b1b4-a6b0194e11af",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "caa51a13-85cf-43f0-9cb7-bd8c1d0d80b1",
+  "input": "{\"title\": \"When I Was Your Man\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

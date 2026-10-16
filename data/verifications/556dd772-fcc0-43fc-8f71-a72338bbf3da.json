@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:59.090033+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82e52292-d7b7-420f-aeff-c3784a7b1288",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "556dd772-fcc0-43fc-8f71-a72338bbf3da",
+  "input": "{\"title\": \"The Thom Bell Sessions\", \"release_type\": \"album\", \"release_year\": 1979}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

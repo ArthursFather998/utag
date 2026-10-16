@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:45.036633+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ba3dc85-d2ad-4b7c-bdde-77c83b8efe4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "077f8dce-5c15-4e12-94ee-c2b729ce41ca",
+  "input": "{\"title\": \"Lay You Down\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lay You Down'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:52.488288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ba4c368b-912a-4754-87f8-7e5da09bf9d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fddeae3d-ff68-4f8a-a702-eb102e2581d7",
+  "input": "{\"title\": \"Starting 5\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'D-Day: A Gangsta Grillz Mixtape'",
+  "status": "verified"
+}

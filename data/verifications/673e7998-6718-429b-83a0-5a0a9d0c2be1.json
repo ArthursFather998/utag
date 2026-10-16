@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:27.080094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71e064f3-4d47-4eee-b606-a49fe3676498",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "673e7998-6718-429b-83a0-5a0a9d0c2be1",
+  "input": "{\"title\": \"Get Stoned\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Get Stoned'",
+  "status": "verified"
+}

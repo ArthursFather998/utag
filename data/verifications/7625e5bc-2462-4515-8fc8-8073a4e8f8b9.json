@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:32.897543+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "08e2bf9c-de7d-4829-8813-8351eb2f29c4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7625e5bc-2462-4515-8fc8-8073a4e8f8b9",
+  "input": "{\"title\": \"De Novo Adagio (Intro)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Girl on Fire: Australian Tour Edition'",
+  "status": "verified"
+}

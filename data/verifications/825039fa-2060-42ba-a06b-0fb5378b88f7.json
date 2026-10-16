@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:03.512727+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0abf9627-00a1-4c10-a8a1-c64058cc1f4b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "825039fa-2060-42ba-a06b-0fb5378b88f7",
+  "input": "{\"title\": \"Fallen Star\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

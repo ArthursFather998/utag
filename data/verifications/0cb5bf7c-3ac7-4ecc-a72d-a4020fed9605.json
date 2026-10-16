@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:52.930452+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fce8b29f-72a6-443b-94e4-cf781cab1771",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0cb5bf7c-3ac7-4ecc-a72d-a4020fed9605",
+  "input": "{\"title\": \"Don't Stop Believin': The Best of Journey\", \"release_type\": \"album\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

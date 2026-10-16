@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:05.141735+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1988360c-d5f1-42bb-a918-785f26e10c63",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00e83ada-3f19-4da3-b6c6-c9abb2ff0963",
+  "input": "{\"title\": \"Someday\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Ever Since (Deluxe Edition)'",
+  "status": "verified"
+}

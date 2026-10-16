@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:33:44.473152+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a43ce258-37a6-47ce-a025-c950a107c2a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05a517ca-5344-4bc6-aecc-a363d24aabcf",
+  "input": "{\"title\": \"Never Felt This Way (Interlude)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Songs in A Minor: 20th Anniversary Edition'",
+  "status": "verified"
+}

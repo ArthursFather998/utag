@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:05.230585+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70706d24-46e3-47d4-a12b-47a4149a677c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a4a7c83-faac-473d-8815-43ae887cfbdd",
+  "input": "{\"title\": \"Just Wanna Rock\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Pink Tape: Level 1'",
+  "status": "verified"
+}

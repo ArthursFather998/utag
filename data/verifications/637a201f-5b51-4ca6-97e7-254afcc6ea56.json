@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:24:29.79723+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfd45100-afbd-4d19-b4a8-00a9494da182",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "637a201f-5b51-4ca6-97e7-254afcc6ea56",
+  "input": "{\"title\": \"Say You Will\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Lost Whispers'",
+  "status": "verified"
+}

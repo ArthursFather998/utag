@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:38.745117+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e252a380-d505-483b-9d1f-289be4d40e0b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f458ff77-d3be-4448-bf8a-49eb7624bd47",
+  "input": "{\"title\": \"Over My Dead Body\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Take Care'",
+  "status": "verified"
+}

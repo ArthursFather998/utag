@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:23.924048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "faeefd56-4c68-43f4-afb5-4fa81dc56a0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b658eda7-6a1a-4113-8ab3-818e7fba7895",
+  "input": "{\"title\": \"Souvenirs\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Explosions'",
+  "status": "verified"
+}

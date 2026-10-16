@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:08:03.722243+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d677512a-cd9a-4422-904d-d5488d6f940d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01710b16-70ad-44e4-a03e-6309e0aa5244",
+  "input": "{\"title\": \"Reminder\", \"track_number\": 29}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 29 of 'The Highlights (Deluxe)'",
+  "status": "verified"
+}

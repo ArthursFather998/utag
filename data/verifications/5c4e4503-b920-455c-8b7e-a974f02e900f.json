@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:53.055808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bdf4e9a0-1da7-4e8c-9f40-5ad52a58eeb9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c4e4503-b920-455c-8b7e-a974f02e900f",
+  "input": "{\"title\": \"Fight from the Inside\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'News of the World'",
+  "status": "verified"
+}

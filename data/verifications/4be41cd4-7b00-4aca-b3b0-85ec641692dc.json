@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:15.60917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8bfe0d2e-fc56-44e0-9457-cebc98593193",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4be41cd4-7b00-4aca-b3b0-85ec641692dc",
+  "input": "{\"title\": \"Bad Loser\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Heroes Are Hard to Find'",
+  "status": "verified"
+}

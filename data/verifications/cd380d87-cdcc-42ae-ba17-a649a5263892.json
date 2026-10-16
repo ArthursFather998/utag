@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:12.691845+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4b249cd1-4102-4183-b13a-617a2a48cc5c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd380d87-cdcc-42ae-ba17-a649a5263892",
+  "input": "{\"title\": \"Heartbreaker\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'The Best'",
+  "status": "verified"
+}

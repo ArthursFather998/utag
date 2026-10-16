@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:31.660988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0696a08-8042-41c9-a052-aac144812c9e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bdce34b9-71d7-4029-9003-7497db4d9deb",
+  "input": "{\"title\": \"6PM in New York\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'If You're Reading This It's Too Late'",
+  "status": "verified"
+}

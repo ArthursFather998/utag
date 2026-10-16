@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:42.012246+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9b495cfe-696e-4934-a954-51c7ddd47a78",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b3a1e3e-cb06-4ba3-8f3c-0c7243fefcac",
+  "input": "{\"title\": \"What Makes You Beautiful\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Up All Night'",
+  "status": "verified"
+}

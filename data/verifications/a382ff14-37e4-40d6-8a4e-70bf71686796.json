@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:42.510953+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b586239f-27c0-41b0-8a61-b40f11fae9a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a382ff14-37e4-40d6-8a4e-70bf71686796",
+  "input": "{\"title\": \"So Amazing\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Jagged Edge'",
+  "status": "verified"
+}

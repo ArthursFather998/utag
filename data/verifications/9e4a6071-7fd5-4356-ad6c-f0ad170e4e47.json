@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:18.679346+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b917534-2e02-4519-aebf-b8517b75ad30",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9e4a6071-7fd5-4356-ad6c-f0ad170e4e47",
+  "input": "{\"title\": \"10 Miles Wide\", \"release_type\": \"single\", \"release_year\": 2009}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

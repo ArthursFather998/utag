@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:15.362835+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f7bc202c-a140-4d5e-b0fb-c7e06f249e2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4778e4c-2efc-4c21-8202-4cf1eb284947",
+  "input": "{\"title\": \"Watch This\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Watch This'",
+  "status": "verified"
+}

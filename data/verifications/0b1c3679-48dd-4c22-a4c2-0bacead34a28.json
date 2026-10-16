@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:38.595008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f78dde53-a029-4930-8ce3-8868badf0d45",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b1c3679-48dd-4c22-a4c2-0bacead34a28",
+  "input": "{\"title\": \"Legends\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Too Soon..'",
+  "status": "verified"
+}

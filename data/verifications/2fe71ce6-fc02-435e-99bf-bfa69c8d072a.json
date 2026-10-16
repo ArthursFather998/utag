@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:29.367725+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4c1daebe-7963-4cdf-95c4-94ed85d16e5f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2fe71ce6-fc02-435e-99bf-bfa69c8d072a",
+  "input": "{\"title\": \"Whistle\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

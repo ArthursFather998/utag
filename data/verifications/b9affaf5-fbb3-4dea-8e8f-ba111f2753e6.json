@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:12.475602+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "417d8a23-367b-432c-8fca-c69ff1263254",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9affaf5-fbb3-4dea-8e8f-ba111f2753e6",
+  "input": "{\"title\": \"Something in Me Was Dying\", \"track_number\": 26}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 26 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

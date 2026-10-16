@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:05.273789+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb72c2f2-1be6-44fb-b675-99df453c5dfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4094dd6c-3734-4124-b8ff-aa8d4c78e5ca",
+  "input": "{\"title\": \"Sweeter\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Greatest Hits'",
+  "status": "verified"
+}

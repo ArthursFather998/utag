@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:08.330402+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "378f0840-5b37-4b17-90b6-bf657f5a2b19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c8f74d9-863c-4ccb-99cc-30aaf81d9752",
+  "input": "{\"title\": \"Play the Game\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:44.074799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e2e314c-b192-40b3-9c2f-ec133f4e7c12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9be90d2-d58e-48b2-93d5-a30f3fc11032",
+  "input": "{\"title\": \"Fade Away (with Lil Tjay)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fade Away (with Lil Tjay)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:01.026033+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "70d279f6-2d3f-42e5-b099-9da386b16819",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e01aa8a-a6cd-4b75-bd4a-93883635a369",
+  "input": "{\"title\": \"Make It Out\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Fuck the World'",
+  "status": "verified"
+}

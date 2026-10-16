@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:10.875623+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c45e2d53-a1fb-4bef-9777-643874d32d2e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2f29895f-3304-42bc-85db-fd5a6003f7fc",
+  "input": "{\"title\": \"Heat Waves (Expansion Pack)\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

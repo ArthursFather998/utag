@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:20.621873+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2bdf5d52-442e-4df9-ba17-4240f7503404",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d308095c-387e-4dc8-a338-70492ffcd176",
+  "input": "{\"title\": \"A \\\"DC\\\" Christmas Medley\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of '8 Days of Christmas'",
+  "status": "verified"
+}

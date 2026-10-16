@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:51:50.359896+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b9c1698-c2a4-4e20-b61c-f1492b92356c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1829bdf2-d1c5-467e-a0ea-4ca6f3956bdd",
+  "input": "{\"title\": \"Shut Up My Mom's Calling\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Shut Up My Mom's Calling'",
+  "status": "verified"
+}

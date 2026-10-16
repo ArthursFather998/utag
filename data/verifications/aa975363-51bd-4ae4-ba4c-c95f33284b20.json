@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:09.127006+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a2e64c1-044a-4a88-a0a2-89fd8b3ea87b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aa975363-51bd-4ae4-ba4c-c95f33284b20",
+  "input": "{\"title\": \"Love Me\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:50.024238+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "065d2428-176a-40db-98c6-3c2a3e2c244b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f197ba46-9570-42c2-9ab9-fdfddad383a7",
+  "input": "{\"title\": \"Dark, Dark, Dark\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dark, Dark, Dark'",
+  "status": "verified"
+}

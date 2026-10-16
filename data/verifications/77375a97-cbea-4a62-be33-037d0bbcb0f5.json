@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:47.30624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfca8fa4-4d7d-4aa4-b546-9876725b8d59",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "77375a97-cbea-4a62-be33-037d0bbcb0f5",
+  "input": "{\"title\": \"Departed\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

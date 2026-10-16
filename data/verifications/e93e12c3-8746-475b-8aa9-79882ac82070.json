@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:26.102743+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d50bc6d8-0fdb-44fb-ad56-a327ae89eac4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e93e12c3-8746-475b-8aa9-79882ac82070",
+  "input": "{\"title\": \"Carousel\", \"release_type\": \"single\", \"release_year\": 2014}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

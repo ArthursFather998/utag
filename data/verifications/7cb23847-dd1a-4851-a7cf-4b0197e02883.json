@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:49.672169+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ddb69ded-def6-4a20-bdb5-d1022ba0f09e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cb23847-dd1a-4851-a7cf-4b0197e02883",
+  "input": "{\"title\": \"Monologue - Nusrat, He's My Elvis\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'The Complete Live at Sin-é'",
+  "status": "verified"
+}

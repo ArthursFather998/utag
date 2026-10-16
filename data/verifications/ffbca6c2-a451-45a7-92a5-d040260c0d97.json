@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:16.127766+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07f70618-2ef2-4dce-bf7e-0c985ab6bcd4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ffbca6c2-a451-45a7-92a5-d040260c0d97",
+  "input": "{\"title\": \"Witchya\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Swag II'",
+  "status": "verified"
+}

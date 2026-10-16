@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:54:32.309726+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bac36e3f-6f04-461d-9b44-3057489b9e63",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5caa805-853c-4c77-a43c-6213954e2987",
+  "input": "{\"title\": \"Na Na Na Boo Boo\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Na Na Na Boo Boo'",
+  "status": "verified"
+}

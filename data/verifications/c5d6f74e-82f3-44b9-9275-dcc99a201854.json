@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:09.18755+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8cf0628-a34a-46ed-9c52-befe1063b3b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5d6f74e-82f3-44b9-9275-dcc99a201854",
+  "input": "{\"title\": \"Alive\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Hate Me (Deluxe)'",
+  "status": "verified"
+}

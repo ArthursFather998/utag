@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:24.527576+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8efae2c-dffd-42ed-bb5a-d6f45c9335bb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0aa6cbdc-cdac-4320-b140-1fee33684ec5",
+  "input": "{\"title\": \"Friday Night Lights\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

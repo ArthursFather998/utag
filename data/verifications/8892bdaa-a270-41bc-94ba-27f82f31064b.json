@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:33.171032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "232a5891-56c6-4878-b63d-712536cc9923",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8892bdaa-a270-41bc-94ba-27f82f31064b",
+  "input": "{\"title\": \"Framed\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Framed'",
+  "status": "verified"
+}

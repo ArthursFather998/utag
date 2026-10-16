@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:42.120343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d3056e90-3f45-44ee-9c79-0c942e1415de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f31143a6-4699-4472-afac-edee5db25512",
+  "input": "{\"title\": \"Don't Stop Me Now\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Greatest Hits'",
+  "status": "verified"
+}

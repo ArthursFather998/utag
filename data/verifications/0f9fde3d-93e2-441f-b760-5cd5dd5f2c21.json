@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:08.693126+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "871e2eb8-c264-406a-b66b-f0d92898140f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f9fde3d-93e2-441f-b760-5cd5dd5f2c21",
+  "input": "{\"title\": \"Walk On\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Chemical Warfare'",
+  "status": "verified"
+}

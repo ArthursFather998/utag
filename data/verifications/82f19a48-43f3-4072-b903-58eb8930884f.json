@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:21.060143+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "32b96f22-7faa-4f25-96d4-f2e7c38a7c02",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82f19a48-43f3-4072-b903-58eb8930884f",
+  "input": "{\"title\": \"Bound\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'F.I.G'",
+  "status": "verified"
+}

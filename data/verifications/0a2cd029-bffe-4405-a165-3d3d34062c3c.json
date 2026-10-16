@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:47.208408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "20d66f9c-5887-4156-838f-71f0ff6c2008",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a2cd029-bffe-4405-a165-3d3d34062c3c",
+  "input": "{\"title\": \"Vegas Lights\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Too Weird to Live, Too Rare to Die!'",
+  "status": "verified"
+}

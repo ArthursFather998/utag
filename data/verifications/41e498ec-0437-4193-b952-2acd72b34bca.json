@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:21.054142+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dccefede-2bcf-4a0a-9708-e5405f84cc9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41e498ec-0437-4193-b952-2acd72b34bca",
+  "input": "{\"title\": \"So High\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'So High'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:14.664181+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a704f276-5b41-4cbb-a124-d75e5e5be251",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd2720a8-28b9-483c-a891-fbd545f74af9",
+  "input": "{\"title\": \"Bug a Boo (Refugee Camp Remix) (featuring Wyclef Jean)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'This Is the Remix'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:50.657443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "55938399-2db4-43c4-8b8f-575c738c91f8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1b43e78-74ef-44d6-aa2e-85054630dd3e",
+  "input": "{\"title\": \"Sugar\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sugar'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:51.383094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59933ffd-3c4c-4af6-b9ed-bc78f1cd1682",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "653afb38-3101-43df-b4e9-691289866371",
+  "input": "{\"title\": \"Sugar! Honey! Love!\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Sincerely'",
+  "status": "verified"
+}

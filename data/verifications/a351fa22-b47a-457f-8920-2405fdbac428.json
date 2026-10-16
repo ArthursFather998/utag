@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:24:52.446187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "097e923d-2d48-46f7-8b38-5847b98c1a68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a351fa22-b47a-457f-8920-2405fdbac428",
+  "input": "{\"title\": \"Hamburg Song\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

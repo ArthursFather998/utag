@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:43.638969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a50d6692-88b2-4a79-9290-182bf7143eb3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c5f2df1-0203-4cbe-a5d7-1369b9273e0a",
+  "input": "{\"title\": \"Be Your Husband\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Complete Live at Sin-é'",
+  "status": "verified"
+}

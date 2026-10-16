@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:37.485192+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4adb7d69-7bd5-4c42-97aa-4ee84a60e7ff",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "404686e4-4383-45c0-ac38-730d909b1f79",
+  "input": "{\"title\": \"Too Soon..\", \"release_type\": \"album\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

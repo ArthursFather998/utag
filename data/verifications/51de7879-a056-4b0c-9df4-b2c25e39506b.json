@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:07.896739+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "654baca4-2344-4e97-a12c-d3b731ff8d84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51de7879-a056-4b0c-9df4-b2c25e39506b",
+  "input": "{\"title\": \"Like My Shit\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'The Death of Slim Shady (Coup de Grâce) (Expanded Mourner’s Edition)'",
+  "status": "verified"
+}

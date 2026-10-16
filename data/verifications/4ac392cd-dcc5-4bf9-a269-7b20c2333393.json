@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:33.807131+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1728e32a-06fd-48d8-bd39-7868bb1b35e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ac392cd-dcc5-4bf9-a269-7b20c2333393",
+  "input": "{\"title\": \"Nice Guys\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Blame Game'",
+  "status": "verified"
+}

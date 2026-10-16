@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:14.440991+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb968baf-7798-45ad-87ec-2d2d93c8fbcd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0fb96636-acb5-40de-a03d-6a2ec05ab199",
+  "input": "{\"title\": \"Gypsy\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

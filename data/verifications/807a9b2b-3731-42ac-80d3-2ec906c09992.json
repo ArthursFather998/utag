@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:47.260688+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f27184d6-4ee5-423e-9c7a-0accf461aa8f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "807a9b2b-3731-42ac-80d3-2ec906c09992",
+  "input": "{\"title\": \"The Ballad of Mona Lisa (Live)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'All My Friends We're Glorious: Death of a Bachelor Tour Live'",
+  "status": "verified"
+}

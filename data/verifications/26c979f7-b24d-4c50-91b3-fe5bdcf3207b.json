@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:03.900536+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e2bc93f-1650-4bfc-94d9-c7d974c4a116",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26c979f7-b24d-4c50-91b3-fe5bdcf3207b",
+  "input": "{\"title\": \"Rocket Man (I Think It's Going to Be a Long, Long Time)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:30:36.092213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31ad9a36-0b2b-4230-8b6a-c052704dbc4f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48ed8def-6905-48fd-b861-c2cdbc35bdab",
+  "input": "{\"title\": \"Evil Deeds\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Encore (Deluxe)'",
+  "status": "verified"
+}

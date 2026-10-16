@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:15.755815+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2f54f78-04a9-46f7-a3ba-71101f066c96",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f472c6f9-bef1-41ac-a491-ab5640b39778",
+  "input": "{\"title\": \"We Don't Get Along\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

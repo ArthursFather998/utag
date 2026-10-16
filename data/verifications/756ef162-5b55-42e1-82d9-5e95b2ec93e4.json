@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:35.369636+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "24b5d982-1e76-4eac-85f4-0257f630627a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "756ef162-5b55-42e1-82d9-5e95b2ec93e4",
+  "input": "{\"title\": \"Big Green Tractor\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Whiskey Drink'",
+  "status": "verified"
+}

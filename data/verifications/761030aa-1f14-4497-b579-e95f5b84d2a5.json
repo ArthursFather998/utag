@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:12.102016+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a5b64c6e-4a51-45b6-bbc3-76a7e243afbb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "761030aa-1f14-4497-b579-e95f5b84d2a5",
+  "input": "{\"title\": \"Labios Mordidos\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Orquídeas'",
+  "status": "verified"
+}

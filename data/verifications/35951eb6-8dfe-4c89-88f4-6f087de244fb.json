@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:06:52.826528+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a792cb51-03e8-48c0-a7ee-541ecb5ef261",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35951eb6-8dfe-4c89-88f4-6f087de244fb",
+  "input": "{\"title\": \"Puedo Escribir\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Sixpence None the Richer (Deluxe Anniversary Edition)'",
+  "status": "verified"
+}

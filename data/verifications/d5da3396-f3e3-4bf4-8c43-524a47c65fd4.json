@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:31.633104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ec7eb29-d313-40c6-bac4-86d68bd59bf2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5da3396-f3e3-4bf4-8c43-524a47c65fd4",
+  "input": "{\"title\": \"Shoulda Been Lovin' You\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Ten'",
+  "status": "verified"
+}

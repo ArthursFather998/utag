@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:23.399736+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67ed8515-3357-491c-ab34-95d71197eed7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8929b8a-fbe0-4d75-8da6-2ede2f01a34e",
+  "input": "{\"title\": \"Don't Stop Believin'\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Open Arms: Greatest Hits'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:23.325889+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f146d72-350a-44e6-b5ec-18f1eb70da7d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e25949f-6a02-48c5-925c-3fc296167760",
+  "input": "{\"title\": \"Sunshine, Lollipops and Rainbows\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sunshine, Lollipops and Rainbows'",
+  "status": "verified"
+}

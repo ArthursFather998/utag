@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:09.10114+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3428eeb0-0260-4381-93eb-3a280cddcbe9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e611c2c1-ec10-4a23-84ff-33654a1c8935",
+  "input": "{\"title\": \"Is It The Beat?\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'Lo Mejor de...Selena'",
+  "status": "verified"
+}

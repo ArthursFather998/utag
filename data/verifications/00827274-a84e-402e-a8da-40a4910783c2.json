@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:33:21.715166+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fc73fb3-0f9c-45fa-9bda-e2cbca5504fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00827274-a84e-402e-a8da-40a4910783c2",
+  "input": "{\"title\": \"Como la Flor/Baila Esta Cumbia\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Selena Live!'",
+  "status": "verified"
+}

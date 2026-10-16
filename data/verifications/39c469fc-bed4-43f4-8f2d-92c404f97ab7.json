@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:27.368023+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "77bf85cd-fb06-4116-a888-3ed0068dd3bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39c469fc-bed4-43f4-8f2d-92c404f97ab7",
+  "input": "{\"title\": \"The World Keep on Turning\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Original Fleetwood Mac: The Blues Years'",
+  "status": "verified"
+}

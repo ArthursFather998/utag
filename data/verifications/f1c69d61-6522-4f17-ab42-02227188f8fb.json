@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:00.316929+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c4006b95-9993-4a47-a8a3-b7197c4c449f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1c69d61-6522-4f17-ab42-02227188f8fb",
+  "input": "{\"title\": \"Plugged In\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Real Uzi'",
+  "status": "verified"
+}

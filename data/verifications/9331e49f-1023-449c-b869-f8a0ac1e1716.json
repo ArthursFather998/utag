@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:14.871461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c5dc17af-aaec-4719-bf9c-7fcecf347ef4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9331e49f-1023-449c-b869-f8a0ac1e1716",
+  "input": "{\"title\": \"8 Mile: Music from and Inspired by the Motion Picture\", \"release_type\": \"album\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:12.435745+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c73210b7-2354-48a2-baa3-dbc52e723f36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca070ece-4887-4282-9371-e4f137c2bb5e",
+  "input": "{\"title\": \"She Looks Like Fun\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Tranquility Base Hotel & Casino'",
+  "status": "verified"
+}

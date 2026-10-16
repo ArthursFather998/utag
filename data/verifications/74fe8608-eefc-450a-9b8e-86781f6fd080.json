@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:17.000696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68f768c5-92c8-4717-bf96-fd1c63c8082e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "74fe8608-eefc-450a-9b8e-86781f6fd080",
+  "input": "{\"title\": \"iTunes Festival: London 2013\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

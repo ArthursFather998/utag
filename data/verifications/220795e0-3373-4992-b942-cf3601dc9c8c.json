@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:39:58.299281+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "931f07c9-7686-42a8-b4a3-2d723cacd169",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "220795e0-3373-4992-b942-cf3601dc9c8c",
+  "input": "{\"title\": \"Calling All Girls\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Hot Space'",
+  "status": "verified"
+}

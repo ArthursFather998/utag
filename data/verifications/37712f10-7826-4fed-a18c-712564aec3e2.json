@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:24.424862+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b52bede2-3ede-47f7-9bc5-8b4a63be69a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37712f10-7826-4fed-a18c-712564aec3e2",
+  "input": "{\"title\": \"Dance, Dance (RJD2 Remix)\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'From Under the Cork Tree (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

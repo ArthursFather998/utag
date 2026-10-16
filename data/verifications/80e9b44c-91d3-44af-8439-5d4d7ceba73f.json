@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:34.596813+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9644e024-df39-461d-93ac-7826d45e3c84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80e9b44c-91d3-44af-8439-5d4d7ceba73f",
+  "input": "{\"title\": \"Brian Steel\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Some Sexy Songs 4 U'",
+  "status": "verified"
+}

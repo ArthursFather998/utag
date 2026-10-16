@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:53.599733+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "156b51e2-b597-47e3-856f-943f1754c800",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d90ad9ac-16d1-4ad4-b73c-a00ea537e6cb",
+  "input": "{\"title\": \"Intro\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Confessions (20th Anniversary Edition)'",
+  "status": "verified"
+}

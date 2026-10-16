@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:40.516023+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34ffb4e4-b98d-436f-a63f-ff52001ece59",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3cde63a-4eb9-49f4-8e85-bba4fa2481d7",
+  "input": "{\"title\": \"Stone's Throw from Hurtin'\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Sleeping with the Past'",
+  "status": "verified"
+}

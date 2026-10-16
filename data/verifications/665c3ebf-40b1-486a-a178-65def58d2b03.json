@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:31.709614+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d41abff-7a85-4a89-9cdd-d253658d5e6a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "665c3ebf-40b1-486a-a178-65def58d2b03",
+  "input": "{\"title\": \"Castle in Hollywood\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'A Matter of Time: The Final Hour'",
+  "status": "verified"
+}

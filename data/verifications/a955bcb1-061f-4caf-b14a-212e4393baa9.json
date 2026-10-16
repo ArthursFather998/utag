@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:37.320503+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fbb4750-f3ec-4b8b-b614-3f84f9d70707",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a955bcb1-061f-4caf-b14a-212e4393baa9",
+  "input": "{\"title\": \"La Carcacha\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Entre a Mi Mundo'",
+  "status": "verified"
+}

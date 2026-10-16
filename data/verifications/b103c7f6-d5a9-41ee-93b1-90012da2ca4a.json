@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:26.297686+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "145786ae-49b5-441e-bbf8-70a7626e22f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b103c7f6-d5a9-41ee-93b1-90012da2ca4a",
+  "input": "{\"title\": \"Show & Tell\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'K-12 (After School - Deluxe Edition)'",
+  "status": "verified"
+}

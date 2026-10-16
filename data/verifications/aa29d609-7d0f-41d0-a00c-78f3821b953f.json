@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:45.454224+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67ce68bc-bfe5-4f02-93af-1432ab7141e6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aa29d609-7d0f-41d0-a00c-78f3821b953f",
+  "input": "{\"title\": \"Riders on the Storm\", \"release_type\": \"single\", \"release_year\": 2000}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

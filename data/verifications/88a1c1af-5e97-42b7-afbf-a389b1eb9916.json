@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:54.864648+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f05ef7ed-9384-4d28-a9df-0b1ac46a821c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88a1c1af-5e97-42b7-afbf-a389b1eb9916",
+  "input": "{\"title\": \"Love in Store\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

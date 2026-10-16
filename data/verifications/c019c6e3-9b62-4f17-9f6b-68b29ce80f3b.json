@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:50:13.979922+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fcf7ba26-3c03-4d88-9f06-61414342b9bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c019c6e3-9b62-4f17-9f6b-68b29ce80f3b",
+  "input": "{\"title\": \"I Lied\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'I Lied'",
+  "status": "verified"
+}

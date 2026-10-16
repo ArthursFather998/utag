@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:16.617532+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "db07d108-4dd4-457c-8af2-5b9ce577c910",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d260d9a8-f96e-4a88-b4be-abf601f3f5ca",
+  "input": "{\"title\": \"Heavy Traffic\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Reg Strikes Back'",
+  "status": "verified"
+}

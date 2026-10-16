@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:26.951731+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea6c1597-b9cf-4ecc-a627-feeaeb77ab3b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a6ac2c72-9975-4b34-bb85-83955848ac72",
+  "input": "{\"title\": \"I Constantly Thank God for Esteban (Live in Denver)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Live in Denver'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:35.986774+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "971cf4a2-6ae1-4f07-ac92-a10414cd1a8f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e2d6147-6ef5-4be8-86cb-3ab484a9e9ee",
+  "input": "{\"title\": \"Rocket Man (I Think It's Gonna Be a Long, Long Time)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Elton John One Night Only – The Greatest Hits'",
+  "status": "verified"
+}

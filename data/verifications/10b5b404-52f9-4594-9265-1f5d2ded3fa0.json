@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:04.942162+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "60e015b0-a1e6-46b3-af76-e18874da91b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10b5b404-52f9-4594-9265-1f5d2ded3fa0",
+  "input": "{\"title\": \"Off and Running\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'The Lesley Gore Anthology'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:57.171075+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b3515b5-2893-407b-87ce-6b27e848f201",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3cbaa79d-1785-4f4b-bb85-643f267c9314",
+  "input": "{\"title\": \"Save Me (feat. Carl Pedida)\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Old House Next Door.'",
+  "status": "verified"
+}

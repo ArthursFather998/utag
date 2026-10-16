@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:26.094788+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d9011621-21eb-44f1-8ec9-e607e8c6aa65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbddfeac-6205-42aa-a9cc-509f8c906eb1",
+  "input": "{\"title\": \"october passed me by\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'october passed me by'",
+  "status": "verified"
+}

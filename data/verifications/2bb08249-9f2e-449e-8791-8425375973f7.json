@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:32:07.663231+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f662ebf-ca96-42ee-abf0-30af12ce17c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2bb08249-9f2e-449e-8791-8425375973f7",
+  "input": "{\"title\": \"Thinking of You (I Drive Myself Crazy)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '*NSYNC'",
+  "status": "verified"
+}

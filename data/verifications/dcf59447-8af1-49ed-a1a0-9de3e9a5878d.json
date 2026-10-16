@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:39.469696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac49ddc1-f806-4fee-b116-4d907b5d976a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcf59447-8af1-49ed-a1a0-9de3e9a5878d",
+  "input": "{\"title\": \"sink and die\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'sink and die'",
+  "status": "verified"
+}

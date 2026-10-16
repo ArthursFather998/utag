@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:01.921027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8ea7676-0daa-4310-8af9-dc11a61c05a1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ef05ed3c-1fed-4af8-87ef-2760312009d2",
+  "input": "{\"title\": \"The Writing's on the Wall\", \"release_type\": \"album\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

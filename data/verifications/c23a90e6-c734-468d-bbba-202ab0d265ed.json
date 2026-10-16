@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:10.206224+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2cb81b29-b7f5-4cef-acaa-0323148cc7c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c23a90e6-c734-468d-bbba-202ab0d265ed",
+  "input": "{\"title\": \"Want Me Out\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Want Me Out'",
+  "status": "verified"
+}

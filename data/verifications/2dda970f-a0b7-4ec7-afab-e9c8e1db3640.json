@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:33.927572+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "c4e0134e-5443-4648-a19a-7e643d3f5868",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "2dda970f-a0b7-4ec7-afab-e9c8e1db3640",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "The Drug in Me Is You",
+    "title": "Caught Like A Fly"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Track 9 on The Drug in Me Is You (2011); confirmed by Wikipedia and Discogs. Lowercase 'a' in official title is a capitalization style, not a spelling error. | sources: https://en.wikipedia.org/wiki/The_Drug_in_Me_Is_You, https://www.discogs.com/release/3738385-Falling-In-Reverse-The-Drug-In-Me-Is-You",
+  "status": "verified"
+}

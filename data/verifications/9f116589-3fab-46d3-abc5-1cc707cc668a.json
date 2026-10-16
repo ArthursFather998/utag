@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:46.143041+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6cee18a-b615-43f4-b902-d74141a3caa3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9f116589-3fab-46d3-abc5-1cc707cc668a",
+  "input": "{\"title\": \"Collide\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

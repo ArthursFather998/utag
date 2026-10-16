@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:45.956434+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c463f535-2b02-4e8f-88c0-ff485e57048b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04d25a85-42d9-4cad-8251-88be24dbdc96",
+  "input": "{\"title\": \"I Hate That It's True\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'The Epilogue (Deluxe)'",
+  "status": "verified"
+}

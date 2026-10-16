@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:29:16.550124+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a173b8b-a888-4ab6-92ee-6bd36c96b6c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a006cf0-5693-41f3-ac03-2f05f1257449",
+  "input": "{\"title\": \"Stand Up for Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Stand Up for Love'",
+  "status": "verified"
+}

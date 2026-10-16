@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:40.814005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ddca9d09-c487-480f-bc37-7478a9e1eb26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e3111cc7-12a0-461f-acd9-b5fe8e92e679",
+  "input": "{\"title\": \"You're My Best Friend\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Greatest Hits'",
+  "status": "verified"
+}

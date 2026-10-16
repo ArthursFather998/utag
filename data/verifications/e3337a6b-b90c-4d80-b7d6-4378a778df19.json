@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:09.326613+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f779abb8-61de-40af-9642-ac8942bd28db",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e3337a6b-b90c-4d80-b7d6-4378a778df19",
+  "input": "{\"title\": \"Sounds of Love\", \"release_type\": \"album\", \"release_year\": 1970}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

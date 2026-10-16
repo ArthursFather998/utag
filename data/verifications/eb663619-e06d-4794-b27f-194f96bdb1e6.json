@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:29:30.928451+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "acda6e27-26c3-4b5e-9646-01fd69ee5e0b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb663619-e06d-4794-b27f-194f96bdb1e6",
+  "input": "{\"title\": \"Don't Wanna Be One\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Someplace Else Now'",
+  "status": "verified"
+}

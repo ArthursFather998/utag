@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:29.913781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "890a1c3c-a0c3-4204-b165-5fcc8f2f2c33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ce691a10-ebe1-4f82-9301-1beba16a3dd8",
+  "input": "{\"title\": \"Same Song & Dance\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Relapse'",
+  "status": "verified"
+}

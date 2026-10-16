@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:41.707601+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cd367876-bc5d-4b1b-957b-96cb004eb5a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d4fe544-5adc-4fad-8556-2dbf193f12ec",
+  "input": "{\"title\": \"Still Can't...\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'London 2012: Live at The Hammersmith Apollo'",
+  "status": "verified"
+}

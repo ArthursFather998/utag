@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:58.20673+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3a562ce0-eafd-48ab-a0b2-b5693cfb9fe1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3fd90242-6b5d-45e4-b576-1f88f1d4ca19",
+  "input": "{\"title\": \"Favorite Girl\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'My World'",
+  "status": "verified"
+}

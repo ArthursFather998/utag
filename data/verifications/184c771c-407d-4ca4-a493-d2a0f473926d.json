@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:02.440456+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69ff9d3b-e079-4e96-aa70-595fc256a1f1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "184c771c-407d-4ca4-a493-d2a0f473926d",
+  "input": "{\"title\": \"Video Games\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lana Del Rey'",
+  "status": "verified"
+}

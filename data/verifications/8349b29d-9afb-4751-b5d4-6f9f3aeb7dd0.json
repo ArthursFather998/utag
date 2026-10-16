@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:05.738989+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5fd1ebac-4454-4e12-843d-2c12771b2ecc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8349b29d-9afb-4751-b5d4-6f9f3aeb7dd0",
+  "input": "{\"title\": \"Underneath the Stars\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'The Rarities'",
+  "status": "verified"
+}

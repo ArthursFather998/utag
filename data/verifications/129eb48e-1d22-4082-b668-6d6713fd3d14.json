@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:04.891346+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bbd483b5-f721-48b8-a342-ca794682a2a4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "129eb48e-1d22-4082-b668-6d6713fd3d14",
+  "input": "{\"title\": \"Rated R (Nokia Singles Edition)\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:06.443972+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5dd482e5-78cf-4bd5-aa99-4b88a8057455",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f4ca86db-c223-4bf7-b14c-91df04c93ff1",
+  "input": "{\"title\": \"Never Over\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Never Over'",
+  "status": "verified"
+}

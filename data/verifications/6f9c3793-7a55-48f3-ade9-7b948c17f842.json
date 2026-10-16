@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:30.458148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0d447255-7c32-4ec3-94a2-4f747d48c0a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f9c3793-7a55-48f3-ade9-7b948c17f842",
+  "input": "{\"title\": \"Siempre Hace Frio\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Siempre Selena'",
+  "status": "verified"
+}

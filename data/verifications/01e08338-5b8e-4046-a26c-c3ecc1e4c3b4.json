@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:01.687532+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2311e58-ef8d-43b1-a1a5-79a3df49b96a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01e08338-5b8e-4046-a26c-c3ecc1e4c3b4",
+  "input": "{\"title\": \"megaman\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '14 minutes'",
+  "status": "verified"
+}

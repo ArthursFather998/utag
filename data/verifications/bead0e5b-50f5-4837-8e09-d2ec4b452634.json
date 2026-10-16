@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:15.114276+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a109753-b1d7-4276-935d-c650f8d7a6e8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bead0e5b-50f5-4837-8e09-d2ec4b452634",
+  "input": "{\"title\": \"The Fleetwoods' Greatest Hits\", \"release_type\": \"album\", \"release_year\": 1962}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

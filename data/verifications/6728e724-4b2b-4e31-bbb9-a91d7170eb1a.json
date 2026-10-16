@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:10.062071+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9864b508-88c9-4cd8-bfb2-eec25d487b14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6728e724-4b2b-4e31-bbb9-a91d7170eb1a",
+  "input": "{\"title\": \"Man on the Prowl\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Works'",
+  "status": "verified"
+}

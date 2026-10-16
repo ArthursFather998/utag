@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:06.674458+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d51983c-be2a-436a-8d34-e83279524fa3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c861152d-915b-494e-a6ed-aa8cb14ef2e9",
+  "input": "{\"title\": \"Seven Seas of Rhye\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Queen Rocks'",
+  "status": "verified"
+}

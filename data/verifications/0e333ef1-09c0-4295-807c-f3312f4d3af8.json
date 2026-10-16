@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:28.882864+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ab17bff-419f-42dd-b5fc-4de83df1ab27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e333ef1-09c0-4295-807c-f3312f4d3af8",
+  "input": "{\"title\": \"Cosmos Rockin'\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Live in Ukraine'",
+  "status": "verified"
+}

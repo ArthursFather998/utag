@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:41.545827+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ea5808f9-6551-4a42-9c00-31b8fcb0a683",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3f791df-e072-4f22-8af8-ba4f258c302f",
+  "input": "{\"title\": \"Dear God\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of '21 at 33'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:55.548504+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f10785e-8a6c-4f9a-9cc8-36ba377e370b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3bc2052-6c92-4065-9ce4-8401bb64decb",
+  "input": "{\"title\": \"Disc 2 - That's the Way Boys Are\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

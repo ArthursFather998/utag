@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:53:37.455918+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9798cebe-31be-44fa-84c0-0f0e284b0c64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06566f75-7996-4bec-aaa1-a746ca770d68",
+  "input": "{\"title\": \"Put Out the Fire\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Deep Cuts, Volume 2 (1977-1982)'",
+  "status": "verified"
+}

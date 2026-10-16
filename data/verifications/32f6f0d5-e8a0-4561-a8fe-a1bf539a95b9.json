@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:07.34063+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f55f95c-9525-4883-b980-489c2b24f072",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "32f6f0d5-e8a0-4561-a8fe-a1bf539a95b9",
+  "input": "{\"title\": \"Without You\", \"release_type\": \"single\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

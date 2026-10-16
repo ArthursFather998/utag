@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:25:34.100802+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0915974-ac6b-4180-a9d5-1c99df5066a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a50857cd-184c-443c-a478-5e5d48d452df",
+  "input": "{\"title\": \"Adrenaline Rush\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of '8 Mile: Music from and Inspired by the Motion Picture'",
+  "status": "verified"
+}

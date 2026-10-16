@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:39.154942+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "771eed10-aa11-45f8-ad16-0b7608ac0257",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9edd5bae-6437-4fd1-a85f-4698ce5de9eb",
+  "input": "{\"title\": \"Introduction\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Fever You Can't Sweat Out (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

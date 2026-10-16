@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:36.050868+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a1ce657a-8d19-428c-8ba3-2d4b34450816",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d794bde-ea62-405b-bc26-7aed4871cdb9",
+  "input": "{\"title\": \"Say It\", \"track_number\": 33}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 33 of 'Coffret 4 CD'",
+  "status": "verified"
+}

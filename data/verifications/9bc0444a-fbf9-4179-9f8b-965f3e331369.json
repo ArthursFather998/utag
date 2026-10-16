@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:40:31.737987+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f84d607-2804-4b73-b71d-dd2bfd2042d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9bc0444a-fbf9-4179-9f8b-965f3e331369",
+  "input": "{\"title\": \"Adore You - Acoustic\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Adore You - Acoustic'",
+  "status": "verified"
+}

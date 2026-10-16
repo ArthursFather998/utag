@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:48.953401+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d80af5ce-067f-4b7c-a4b7-fcb943b9f02e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "842ccc5c-5822-4055-a10a-47d2790bbb85",
+  "input": "{\"title\": \"Wake Up in the Sky\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Wake Up in the Sky'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:18:39.078838+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a176c66b-03d7-4ea3-8e05-1b52757cbad8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6408de01-130c-48ac-8f16-8876e5bb2ddc",
+  "input": "{\"title\": \"Ice.Moon\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ice.Moon'",
+  "status": "verified"
+}

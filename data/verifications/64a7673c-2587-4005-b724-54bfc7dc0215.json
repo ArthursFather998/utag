@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:33:19.310454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e308a420-cf39-4017-9e31-4b869a7d1e69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64a7673c-2587-4005-b724-54bfc7dc0215",
+  "input": "{\"title\": \"That's What I'll Do\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Sound of Young Love'",
+  "status": "verified"
+}

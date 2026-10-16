@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:56.243533+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58004976-4f40-41fd-9bc5-b93b29dbf92d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e26cf0c3-1656-4d31-b1d2-562a3be2b1ed",
+  "input": "{\"title\": \"cut my fingers off\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'cut my fingers off'",
+  "status": "verified"
+}

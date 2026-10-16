@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:33.325128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3fce7782-56ec-4775-bb2d-1f16230ceab4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6bbf4bd-134d-4ed5-a6e8-6d1d7ced4768",
+  "input": "{\"title\": \"Kill You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Kill You'",
+  "status": "verified"
+}

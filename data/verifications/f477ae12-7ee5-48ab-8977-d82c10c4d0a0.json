@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:10:01.414778+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b42d91e8-b282-4db9-86df-8fe64cf1daed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f477ae12-7ee5-48ab-8977-d82c10c4d0a0",
+  "input": "{\"title\": \"Destiny Fulfilled\", \"release_type\": \"album\", \"release_year\": 2004}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 10",
+  "status": "verified"
+}

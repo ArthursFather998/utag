@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:46.742058+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d3768d7-4cdb-4566-ab5c-d6641a245e64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8656de98-6f93-469b-8d98-6cf827374c22",
+  "input": "{\"title\": \"Starboy (feat. Daft Punk)\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Highlights'",
+  "status": "verified"
+}

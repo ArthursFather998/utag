@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:52:31.781425+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e6b58739-3a21-49f0-9be2-de2f977b0dea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c670dc70-eff1-4eac-a92f-7c5f9757dca3",
+  "input": "{\"title\": \"Faded Corsage\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Faded Corsage (2025 reissue)'",
+  "status": "verified"
+}

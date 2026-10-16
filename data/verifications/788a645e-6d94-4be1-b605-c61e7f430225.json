@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:55.004654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e611d131-85e6-4582-afee-a0d1a17529ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "788a645e-6d94-4be1-b605-c61e7f430225",
+  "input": "{\"title\": \"Blinding Lights\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Blinding Lights'",
+  "status": "verified"
+}

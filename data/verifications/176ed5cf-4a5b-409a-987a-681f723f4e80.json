@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:01:59.82188+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e300afba-452b-4f8c-9c74-72fa87bf6ed3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "176ed5cf-4a5b-409a-987a-681f723f4e80",
+  "input": "{\"title\": \"amico\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'SCARLET'",
+  "status": "verified"
+}

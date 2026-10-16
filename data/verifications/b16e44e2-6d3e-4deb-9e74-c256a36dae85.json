@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:40:33.101314+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e13b3d1-7c50-4aaa-94ac-1f332efca529",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b16e44e2-6d3e-4deb-9e74-c256a36dae85",
+  "input": "{\"title\": \"Hear Me Calling\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

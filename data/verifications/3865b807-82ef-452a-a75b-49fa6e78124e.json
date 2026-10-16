@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:11:47.787926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae093378-4d41-4ad6-964d-f116c2f9c1e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3865b807-82ef-452a-a75b-49fa6e78124e",
+  "input": "{\"title\": \"Don't Stop the Music\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Good Girl Gone Bad / Rated R'",
+  "status": "verified"
+}

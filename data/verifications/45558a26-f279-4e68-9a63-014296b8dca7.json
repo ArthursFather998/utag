@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:54.590109+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1f5ab63-6e46-43d0-8e35-b5583e6f9fa9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45558a26-f279-4e68-9a63-014296b8dca7",
+  "input": "{\"title\": \"Dandelion Wine\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'This Empty Northern Hemisphere'",
+  "status": "verified"
+}

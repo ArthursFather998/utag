@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:31.167144+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9883ba6e-e4d7-4489-9d03-3492a8748c3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "375f744f-16dc-446d-aeeb-9709aca47486",
+  "input": "{\"title\": \"Albatross\", \"track_number\": 60}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 60 of '25 Years – The Chain'",
+  "status": "verified"
+}

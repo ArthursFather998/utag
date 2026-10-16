@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:37.982696+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1ae42d3-36d5-4ad3-a2e0-7930724ecf14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c2afb16c-4943-41b3-aa16-0af97a82bff1",
+  "input": "{\"title\": \"Hold of Me\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Place We Knew'",
+  "status": "verified"
+}

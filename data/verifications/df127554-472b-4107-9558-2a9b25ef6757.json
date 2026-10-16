@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:52.116917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b13792b-aba8-4c6a-b2d1-59937f422fcf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df127554-472b-4107-9558-2a9b25ef6757",
+  "input": "{\"title\": \"My All\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Butterfly: 25th Anniversary Expanded Edition'",
+  "status": "verified"
+}

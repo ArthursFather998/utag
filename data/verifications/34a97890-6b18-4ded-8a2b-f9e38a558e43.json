@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:01.167836+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "697acb3c-4e09-4512-904a-fe2b2962e2ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34a97890-6b18-4ded-8a2b-f9e38a558e43",
+  "input": "{\"title\": \"This My Song\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Mathew Knowles & Music World Present Vol.1: Love Destiny'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:46.683861+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d83008fa-2e5a-463d-be05-65d5bfe97b36",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f165b7f1-23fb-4f1b-b857-ed429cb91819",
+  "input": "{\"title\": \"The Good Life\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

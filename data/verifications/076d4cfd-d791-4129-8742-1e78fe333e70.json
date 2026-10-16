@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:43:52.587028+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f0869d55-393e-4f3b-a414-8809fb0b7f6f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "076d4cfd-d791-4129-8742-1e78fe333e70",
+  "input": "{\"title\": \"A Kind of Magic\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Return of the Champions'",
+  "status": "verified"
+}

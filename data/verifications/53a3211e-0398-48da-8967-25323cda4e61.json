@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:16.249471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54c8b5e3-c7cc-485d-a4a4-9de50e35b48d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53a3211e-0398-48da-8967-25323cda4e61",
+  "input": "{\"title\": \"My Baby's Good to Me\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

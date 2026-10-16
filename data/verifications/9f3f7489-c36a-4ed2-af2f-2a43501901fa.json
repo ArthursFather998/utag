@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:28:46.004151+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fdbedf03-a9fa-4594-989e-59aaea08116e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f3f7489-c36a-4ed2-af2f-2a43501901fa",
+  "input": "{\"title\": \"Heaven\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Heaven'",
+  "status": "verified"
+}

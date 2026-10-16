@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:03.9918+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f1e14d47-5da0-4b6e-b50d-030208382285",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "eb883d43-4654-4dec-98fa-b813d0df0a61",
+  "input": "{\"title\": \"Hey You!\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

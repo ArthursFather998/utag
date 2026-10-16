@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:54.888914+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0c1d1bcf-dc36-4cda-b32a-189b0e96a1af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4fdbb868-9d00-4ff3-9bee-214b4191812c",
+  "input": "{\"title\": \"Dreams\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Rumours Live'",
+  "status": "verified"
+}

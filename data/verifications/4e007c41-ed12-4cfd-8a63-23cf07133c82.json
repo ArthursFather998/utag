@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:50.41833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "30bee48a-ed41-4e5e-ab90-ad5548e146b4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4e007c41-ed12-4cfd-8a63-23cf07133c82",
+  "input": "{\"title\": \"Ruby Red Baby Blue\", \"release_type\": \"single\", \"release_year\": 1964}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

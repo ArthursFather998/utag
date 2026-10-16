@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:22.002198+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9db7f086-4d3f-494d-a2db-da83a6a611b0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f9df54f0-aa6c-4d68-a7e9-fbf2783e0d3f",
+  "input": "{\"title\": \"After the Storm\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

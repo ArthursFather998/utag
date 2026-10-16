@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:23.375008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4f7eb996-34e8-448f-8a67-709a4c3bcda4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "382dd34a-72d6-4a8a-a63f-1f439393721b",
+  "input": "{\"title\": \"Song 2\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'So Much For (2our) Dust: Live at Madison Square Garden'",
+  "status": "verified"
+}

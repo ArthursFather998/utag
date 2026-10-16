@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:17.513654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b829efe-58ce-47fb-9e48-ce29d04ed2d5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "340a8c70-618f-40d7-8176-2fd50c6b06be",
+  "input": "{\"title\": \"Queen's First E.P.\", \"release_type\": \"album\", \"release_year\": 1977}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

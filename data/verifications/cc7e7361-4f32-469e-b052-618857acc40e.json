@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:36.601088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aff201d8-078e-4c6c-b715-6a7034d61db9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc7e7361-4f32-469e-b052-618857acc40e",
+  "input": "{\"title\": \"Phases\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Phases'",
+  "status": "verified"
+}

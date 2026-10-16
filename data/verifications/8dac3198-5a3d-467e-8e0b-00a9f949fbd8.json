@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:56.607301+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f30b866-f7ae-4493-b4c9-351cd08a8a29",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8dac3198-5a3d-467e-8e0b-00a9f949fbd8",
+  "input": "{\"title\": \"Your Love (D\\u00e9j\\u00e0 Vu)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Adolescence'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:05.336994+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9bd3558e-f171-4938-9ffa-08f7f72210ee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e1d6a9b0-cdc5-4933-b9ee-9c4395f4ffdd",
+  "input": "{\"title\": \"Ferrari\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Wiped Out!'",
+  "status": "verified"
+}

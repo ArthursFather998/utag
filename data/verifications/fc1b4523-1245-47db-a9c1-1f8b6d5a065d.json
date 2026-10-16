@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:23:41.037003+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27404c63-c7ba-4f6c-8bf1-2ec58b2fb98a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc1b4523-1245-47db-a9c1-1f8b6d5a065d",
+  "input": "{\"title\": \"Stop for a Minute (featuring K'naan)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Night Train'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:55.460217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d0aa00c-110a-4cbd-a2e4-cafd623a2787",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09ff0e66-8ead-4301-bbe3-8732c24b55bb",
+  "input": "{\"title\": \"Face 2 Face\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Face 2 Face'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:15.541776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aab8a002-7caa-42fd-bb5c-0e32db0bb5ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb1020d8-787b-49e8-ac62-c22d65528bb8",
+  "input": "{\"title\": \"Die Alone\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Shady XV'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:58:45.107878+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "201b37c8-5eaa-49b8-a10e-c574e0cd0471",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "156e7e7b-5762-41c0-bbce-460cae982a33",
+  "input": "{\"title\": \"Under Pressure\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Under Pressure'",
+  "status": "verified"
+}

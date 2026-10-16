@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:31.626187+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c99c737c-2249-4122-b755-5f3a2c1f8c63",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5f9162a-a9da-49ed-8975-8b84b518c715",
+  "input": "{\"title\": \"Vanishing\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Mariah Carey'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:55:31.174717+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "995896a4-6f65-45f9-9bab-1662939aeb74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f71645e-c693-4b7f-ada5-19c2ee6a889e",
+  "input": "{\"title\": \"Now I'm Here (Live at Hammersmith Odeon)\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Bohemian Rhapsody: The Original Soundtrack'",
+  "status": "verified"
+}

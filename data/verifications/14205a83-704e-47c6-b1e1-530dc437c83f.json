@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:47.313213+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7beb5919-1433-4eae-a292-31897a4976ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "14205a83-704e-47c6-b1e1-530dc437c83f",
+  "input": "{\"title\": \"Grace\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Live at Columbia Records Radio Hour, New York, NY, June 4, 1995'",
+  "status": "verified"
+}

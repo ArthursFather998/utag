@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:11.072412+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d2cec1a-a599-4829-a668-acf23c7b6b47",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85b23a2f-4a95-4109-9fa1-5b54dea7b081",
+  "input": "{\"title\": \"Into the Sun\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Mighty + Into the Sun'",
+  "status": "verified"
+}

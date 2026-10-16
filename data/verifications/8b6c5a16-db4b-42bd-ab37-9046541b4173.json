@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:08.715607+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "000383b3-6ab5-4fa8-9695-1b7484ca865f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b6c5a16-db4b-42bd-ab37-9046541b4173",
+  "input": "{\"title\": \"As Time Goes By\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'As Time Goes By'",
+  "status": "verified"
+}

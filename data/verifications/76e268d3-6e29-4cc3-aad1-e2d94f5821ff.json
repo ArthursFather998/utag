@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:55.142171+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a743695f-e785-4f35-bfbc-3ce8741d86bb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "76e268d3-6e29-4cc3-aad1-e2d94f5821ff",
+  "input": "{\"title\": \"My Propeller\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

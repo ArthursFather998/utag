@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:07.626629+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5a9cc7e4-bb20-41e3-98dd-183839efc299",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18bedec8-4de9-4181-b825-02889418a7de",
+  "input": "{\"title\": \"Always Mine\", \"track_number\": 62}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 62 of 'La Leyenda'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:34.087494+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b3ddc88-bb61-43e1-b06c-4453e7e83668",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b16628f0-8317-4e95-b386-77e888db9468",
+  "input": "{\"title\": \"Should Have Known Better\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Welcome to the Freakshow'",
+  "status": "verified"
+}

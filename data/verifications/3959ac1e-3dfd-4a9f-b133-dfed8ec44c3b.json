@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:32:02.374042+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d44c316f-7075-49ba-b09d-136787c6fe63",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3959ac1e-3dfd-4a9f-b133-dfed8ec44c3b",
+  "input": "{\"title\": \"Friends Never Say Goodbye\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Road to El Dorado'",
+  "status": "verified"
+}

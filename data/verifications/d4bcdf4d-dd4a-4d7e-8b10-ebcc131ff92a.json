@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:39.070068+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "33f93b06-7457-4e72-af06-59bc54f7f746",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4bcdf4d-dd4a-4d7e-8b10-ebcc131ff92a",
+  "input": "{\"title\": \"Best I Ever Had\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'So Far Gone'",
+  "status": "verified"
+}

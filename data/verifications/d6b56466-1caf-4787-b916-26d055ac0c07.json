@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:12.728994+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44b9ca56-d23f-4d90-be34-0f0227d14a57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6b56466-1caf-4787-b916-26d055ac0c07",
+  "input": "{\"title\": \"Next\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'Trilogy'",
+  "status": "verified"
+}

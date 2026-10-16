@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:21.934635+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b849fadb-83c2-4f72-8416-1946b8fa6462",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "24cc1158-2c72-4807-92cc-be058a6a6bed",
+  "input": "{\"title\": \"Bare Trees\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Best of Fleetwood Mac 1969-1974'",
+  "status": "verified"
+}

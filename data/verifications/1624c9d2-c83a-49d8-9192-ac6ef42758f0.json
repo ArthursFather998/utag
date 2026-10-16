@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:48.886722+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a3ef5ea3-87e9-485c-b7c5-a2cd4d3baac6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1624c9d2-c83a-49d8-9192-ac6ef42758f0",
+  "input": "{\"title\": \"Heartbreaker\", \"release_type\": \"single\", \"release_year\": 1999}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

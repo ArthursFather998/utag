@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:42.366634+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe9d729d-a86d-4133-afb5-d2b9e70e3642",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e24b511-0c46-42f8-98be-fdb2220b9f9e",
+  "input": "{\"title\": \"What I Miss Most\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Only Human (Special Edition)'",
+  "status": "verified"
+}

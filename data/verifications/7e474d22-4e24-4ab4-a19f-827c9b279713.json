@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:40.060452+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "23f49d3b-d4a5-4b8c-a75f-b7b522e89d4f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7e474d22-4e24-4ab4-a19f-827c9b279713",
+  "input": "{\"title\": \"E=MC\\u00b2 (Deluxe Version)\", \"release_type\": \"album\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

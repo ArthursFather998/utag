@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:56.117285+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a19463a-0e07-48e7-b0f6-672561d6fd5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "488ed41e-92cd-4aae-b6ff-cd2ee1924670",
+  "input": "{\"title\": \"Gentle Is You\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Rust Colored Stones'",
+  "status": "verified"
+}

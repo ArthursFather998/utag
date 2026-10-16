@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:16.488439+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8a818f42-a6e2-4359-a38d-2fb4fa499e74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c4b6076-d32d-4636-a888-6fd71a4f3b1d",
+  "input": "{\"title\": \"Sonder Son (Interlude)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Sonder Son'",
+  "status": "verified"
+}

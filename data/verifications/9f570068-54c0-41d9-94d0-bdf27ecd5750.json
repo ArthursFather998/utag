@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:08.346839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "798c6b5a-44a0-4c35-8d59-3b7b63ffb6cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f570068-54c0-41d9-94d0-bdf27ecd5750",
+  "input": "{\"title\": \"The World's First Ever Monster Truck Front Flip\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Tranquility Base Hotel & Casino'",
+  "status": "verified"
+}

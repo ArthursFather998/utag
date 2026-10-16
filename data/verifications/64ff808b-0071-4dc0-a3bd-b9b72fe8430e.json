@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:16.678102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf0c18e2-9cba-4497-99b0-704f982db176",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64ff808b-0071-4dc0-a3bd-b9b72fe8430e",
+  "input": "{\"title\": \"Thin Air\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

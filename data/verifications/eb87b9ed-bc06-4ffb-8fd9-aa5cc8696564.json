@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:09.729629+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d0d9dce-a719-4bbd-8bdb-ec2fbc45c0bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb87b9ed-bc06-4ffb-8fd9-aa5cc8696564",
+  "input": "{\"title\": \"Shining Offa You\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Songs for October'",
+  "status": "verified"
+}

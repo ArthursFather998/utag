@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:06.752421+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a4b27537-c9be-4a14-a013-cef91ee6f1e6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4e8360b-49f2-4765-bb17-c1ede0f8c126",
+  "input": "{\"title\": \"Say It\", \"track_number\": 33}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 33 of 'Music of the Sun / A Girl Like Me / Good Girl Gone Bad'",
+  "status": "verified"
+}

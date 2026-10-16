@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:28.945017+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8f3123c-9fe4-4f2e-b038-b7fe3e587cb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1086935-fad5-4620-995e-86c4e2227044",
+  "input": "{\"title\": \"Dirt We Were Raised On\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '9'",
+  "status": "verified"
+}

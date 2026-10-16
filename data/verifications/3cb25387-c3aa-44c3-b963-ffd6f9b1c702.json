@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:01.241754+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb2ac7d1-8c3b-4f0b-9b7c-c4f21d81ff1f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3cb25387-c3aa-44c3-b963-ffd6f9b1c702",
+  "input": "{\"title\": \"Ain't Right\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tell Your Friends'",
+  "status": "verified"
+}

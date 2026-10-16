@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:28.799006+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d578d3b-3c79-43ba-8150-aee1a1f758bd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ed312daf-7013-4951-a49b-6f2fb16e3374",
+  "input": "{\"title\": \"The Remixes\", \"release_type\": \"album\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

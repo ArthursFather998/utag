@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:19.689692+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bcbb45b6-5d07-46bb-bd1f-3f4efa3bcc91",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "49e8875c-4133-4f4c-ac35-c9f4f18dec2e",
+  "input": "{\"title\": \"Let Me Love You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Let Me Love You'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:14.636339+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0c4d06c-6ea3-4340-b3c6-de0f2728955e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0feaaf0f-3719-439b-8dff-e9babc42b3b5",
+  "input": "{\"title\": \"Buddy's Song\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Kiln House'",
+  "status": "verified"
+}

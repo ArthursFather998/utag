@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:05.431372+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "272e31e9-a35a-43b6-8764-4857917c76d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28a6cc16-98d8-43af-945f-cdd4011abfd7",
+  "input": "{\"title\": \"I Do My Thing (bonus)\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'The Come Up'",
+  "status": "verified"
+}

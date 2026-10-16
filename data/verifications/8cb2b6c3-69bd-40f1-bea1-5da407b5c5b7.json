@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:23.025995+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bed8cc3e-f6a2-4f1e-ba0a-cb47f2e3e037",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8cb2b6c3-69bd-40f1-bea1-5da407b5c5b7",
+  "input": "{\"title\": \"Drip Drop Teardrop\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Super Extra Gravity'",
+  "status": "verified"
+}

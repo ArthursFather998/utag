@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:49.698787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4bd4d6ea-9ae8-40c4-9782-5a90ee87438a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dcd35578-b5fa-4c56-b57e-f83f8fa397af",
+  "input": "{\"title\": \"If It's Over\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

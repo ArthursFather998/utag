@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:54.900641+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "048b2439-2377-44a3-9d83-c9a6b8de8dd4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cd60ae3-12e0-40b2-be06-2595eb13f4ac",
+  "input": "{\"title\": \"TMU\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Octane'",
+  "status": "verified"
+}

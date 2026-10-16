@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:53.958636+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79f7dde9-1d88-43b6-b459-0aad55aa90f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ba209ad-39d9-4066-8b5e-2c81e7ad98d5",
+  "input": "{\"title\": \"Running\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'F*CK LOVE'",
+  "status": "verified"
+}

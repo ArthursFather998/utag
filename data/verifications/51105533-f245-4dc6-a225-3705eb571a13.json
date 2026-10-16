@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:35.587917+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81bd7896-aa27-45e2-a55d-4da2dc6122ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51105533-f245-4dc6-a225-3705eb571a13",
+  "input": "{\"title\": \"Birthday Cake\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Birthday Cake'",
+  "status": "verified"
+}

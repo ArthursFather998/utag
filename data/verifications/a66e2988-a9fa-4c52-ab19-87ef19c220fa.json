@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:01.972128+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7d538f8-5e5a-499d-8427-0660f4a49eca",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a66e2988-a9fa-4c52-ab19-87ef19c220fa",
+  "input": "{\"title\": \"Promises\", \"release_type\": \"album\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 21",
+  "status": "verified"
+}

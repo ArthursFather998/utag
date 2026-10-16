@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:26:41.222983+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9c4f095a-5912-4907-9b6f-9465e9adf3cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6389b20-6ce1-4360-bc68-fd563cab3f0a",
+  "input": "{\"title\": \"Can You Feel the Love Tonight\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Elton John One Night Only – The Greatest Hits'",
+  "status": "verified"
+}

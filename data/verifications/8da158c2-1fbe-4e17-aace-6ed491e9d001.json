@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:53:46.142822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "337c696c-816a-4092-a454-500c60e0f87f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8da158c2-1fbe-4e17-aace-6ed491e9d001",
+  "input": "{\"title\": \"Never Ordinary (featuring Lindsey Stirling)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Alienation'",
+  "status": "verified"
+}

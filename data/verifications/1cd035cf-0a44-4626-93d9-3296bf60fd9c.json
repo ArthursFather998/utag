@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:18.959414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bbd70210-a083-4b0c-9b57-bb6c1c8ffc13",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1cd035cf-0a44-4626-93d9-3296bf60fd9c",
+  "input": "{\"title\": \"Emotional Creature\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

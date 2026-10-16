@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:43.562997+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "be2e27ee-21a5-4ac4-a938-afefdb336574",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2652b6bb-0369-45e0-a426-5e0105ce69d9",
+  "input": "{\"title\": \"La Chica de Rojo\", \"release_type\": \"album\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

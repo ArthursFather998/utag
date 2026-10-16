@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:39.706911+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6bf84157-9749-46aa-bdff-ea55715c0949",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ef145bc-2906-4547-b634-844a868cc91f",
+  "input": "{\"title\": \"Kiss the Bride\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Kiss the Bride'",
+  "status": "verified"
+}

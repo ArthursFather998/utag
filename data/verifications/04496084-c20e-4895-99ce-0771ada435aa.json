@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:08.13091+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39f91499-ef81-4456-9adf-7e55cbc831bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "04496084-c20e-4895-99ce-0771ada435aa",
+  "input": "{\"title\": \"Syphilis\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Death Race for Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:57.125369+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "95b6dab8-85f8-4e62-93b5-300e1d555a03",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "994bd75a-348b-4eb0-8b18-e41da21b0070",
+  "input": "{\"title\": \"Gang\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 21",
+  "status": "verified"
+}

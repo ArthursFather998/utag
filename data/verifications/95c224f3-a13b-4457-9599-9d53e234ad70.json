@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:35.517148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fdf57d1-fd69-49e4-9322-1618a317c46b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95c224f3-a13b-4457-9599-9d53e234ad70",
+  "input": "{\"title\": \"That's a Rack\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'That's a Rack'",
+  "status": "verified"
+}

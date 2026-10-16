@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:39.550908+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "126f4d96-2bc8-4ddd-9e1e-f1deb8a7141f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88511250-3cea-45b8-858a-fbee41689e09",
+  "input": "{\"title\": \"Hour of the Wolf\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Hour of the Wolf'",
+  "status": "verified"
+}

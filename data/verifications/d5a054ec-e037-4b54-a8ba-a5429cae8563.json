@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:08:23.350845+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d0cf7b98-3dd4-4d5e-a2a6-b5e1fd4aaa18",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5a054ec-e037-4b54-a8ba-a5429cae8563",
+  "input": "{\"title\": \"let me\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'heartstrings'",
+  "status": "verified"
+}

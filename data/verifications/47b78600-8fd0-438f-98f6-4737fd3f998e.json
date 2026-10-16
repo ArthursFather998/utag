@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:05.349382+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "575dcc27-338a-463f-bd6b-7f2533c5d70d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "47b78600-8fd0-438f-98f6-4737fd3f998e",
+  "input": "{\"title\": \"Your Star\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Synthesis Live'",
+  "status": "verified"
+}

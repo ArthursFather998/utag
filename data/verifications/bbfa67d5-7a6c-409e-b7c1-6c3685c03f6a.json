@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:17.194698+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2574e455-b827-4752-8c6c-eb5d94da4ad2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbfa67d5-7a6c-409e-b7c1-6c3685c03f6a",
+  "input": "{\"title\": \"Youth\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'How to Be a Human Being'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:31:40.016076+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81b91e39-9533-4d30-bdbb-b407f5ac36ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1567a0f0-2f54-4b04-9b5d-e3f24c0a9dea",
+  "input": "{\"title\": \"We as Americans\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Encore (Deluxe)'",
+  "status": "verified"
+}

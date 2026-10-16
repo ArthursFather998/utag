@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:14.912286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d33b3221-083c-4ddb-bef6-008b8e14797c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea7f959a-aca0-4383-843e-1e0459519e91",
+  "input": "{\"title\": \"The Stranger (Bonus Track)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Lonesome Dreams (Bonus Track Version)'",
+  "status": "verified"
+}

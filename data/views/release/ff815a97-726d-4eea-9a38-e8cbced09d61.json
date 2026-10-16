@@ -1,0 +1,69 @@
+{
+  "artists": {
+    "canonical_name": "Post Malone",
+    "id": "20c42683-dfa8-4a81-b4d0-15653107e90d"
+  },
+  "artwork": [
+    {
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T17:58:54.594454+00:00",
+      "edition_label": null,
+      "height": null,
+      "id": "1f98b53b-cb53-4d12-8c81-8e8791c7afa1",
+      "phash": null,
+      "release_id": "ff815a97-726d-4eea-9a38-e8cbced09d61",
+      "role": "canonical",
+      "source": "Cover Art Archive",
+      "source_url": "https://coverartarchive.org/release/2cff96a9-f7d0-4de1-9b23-a6fa7e5c0bb4/front",
+      "status": "needs_review",
+      "stored_path": null,
+      "width": null
+    }
+  ],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "20c42683-dfa8-4a81-b4d0-15653107e90d",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-16T17:58:54.296184+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "ff815a97-726d-4eea-9a38-e8cbced09d61",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "The Diamond Collection",
+    "updated_at": "2026-10-16T17:58:54.296184+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "20c42683-dfa8-4a81-b4d0-15653107e90d",
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T17:58:54.461091+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "98d43799-921d-4304-9e11-fc1edf8074a9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "ff815a97-726d-4eea-9a38-e8cbced09d61",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Circles",
+      "track_number": null,
+      "updated_at": "2026-10-16T17:58:54.461091+00:00"
+    }
+  ],
+  "verifications": []
+}

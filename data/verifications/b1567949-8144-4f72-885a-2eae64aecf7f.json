@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:34.178497+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e476e5f4-1ad4-49d8-8b28-4eeee084fce1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b1567949-8144-4f72-885a-2eae64aecf7f",
+  "input": "{\"title\": \"Survival\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Marshall Mathers LP 2'",
+  "status": "verified"
+}

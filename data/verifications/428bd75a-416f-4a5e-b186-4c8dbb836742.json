@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:17.173405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ef4d48e-36a2-45c5-9898-22b3d1c81c7e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "428bd75a-416f-4a5e-b186-4c8dbb836742",
+  "input": "{\"title\": \"There's a Thug in My Life (featuring J-Status)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Coffret 4 CD'",
+  "status": "verified"
+}

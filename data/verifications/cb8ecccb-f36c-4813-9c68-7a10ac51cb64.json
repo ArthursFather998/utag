@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:57.867398+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f352590-4e39-40e4-84f7-6c248a0d73c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb8ecccb-f36c-4813-9c68-7a10ac51cb64",
+  "input": "{\"title\": \"Desperado\", \"track_number\": 91}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 91 of 'Vinyl Box Set'",
+  "status": "verified"
+}

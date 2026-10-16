@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:28.49781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e13a414b-544f-4e4c-a97b-324a949c8509",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "618af310-aba6-40f8-98e9-20d5001acd67",
+  "input": "{\"title\": \"Bliss\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'F.I.G'",
+  "status": "verified"
+}

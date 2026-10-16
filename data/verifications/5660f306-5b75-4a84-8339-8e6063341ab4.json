@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:31.693962+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cdbe4d47-5c4c-4b39-930b-e58ddbd66884",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5660f306-5b75-4a84-8339-8e6063341ab4",
+  "input": "{\"title\": \"Moving Mountains\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Here I Stand'",
+  "status": "verified"
+}

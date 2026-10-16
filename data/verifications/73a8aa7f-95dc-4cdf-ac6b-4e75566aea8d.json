@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:18.802264+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dc18212d-b64d-44a4-b82c-416336966b27",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "73a8aa7f-95dc-4cdf-ac6b-4e75566aea8d",
+  "input": "{\"title\": \"2ugly\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

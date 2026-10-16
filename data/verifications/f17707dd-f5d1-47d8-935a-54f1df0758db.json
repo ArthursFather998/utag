@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:33.425058+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d63aabec-6751-4971-922f-505a681e0e67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f17707dd-f5d1-47d8-935a-54f1df0758db",
+  "input": "{\"title\": \"Where'd You Go\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Writing's on the Wall'",
+  "status": "verified"
+}

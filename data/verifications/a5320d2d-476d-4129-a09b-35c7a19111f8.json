@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:21.853387+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e51d3cd6-9c00-48dc-9885-6edca09e8e78",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5320d2d-476d-4129-a09b-35c7a19111f8",
+  "input": "{\"title\": \"Sweet Lady\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'A Night at the Opera'",
+  "status": "verified"
+}

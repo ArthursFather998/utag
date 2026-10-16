@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:50:34.692356+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c07e05c1-4449-40b8-ac53-ee8ff6067bae",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a30256ee-1151-4ad5-bf4f-dfb51c9df4eb",
+  "input": "{\"title\": \"Unsteady\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

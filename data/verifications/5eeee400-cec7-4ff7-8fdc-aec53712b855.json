@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:26.968198+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bbb8007b-a324-4ce9-b2ee-2bd9470d91a3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5eeee400-cec7-4ff7-8fdc-aec53712b855",
+  "input": "{\"title\": \"my least favorite movie\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

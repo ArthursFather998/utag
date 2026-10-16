@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:39.822377+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "671a7699-b884-4e6e-adfe-bcaa0debebb5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2651c9a-655a-4429-ba98-ec111f684b85",
+  "input": "{\"title\": \"Tiny Dancer\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tiny Dancer'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:21.05452+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6b0d8c84-e884-443c-a42d-f04d9990779a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f45bfb86-305b-4d4a-968b-03b90147b09d",
+  "input": "{\"title\": \"Sun Is Shining\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

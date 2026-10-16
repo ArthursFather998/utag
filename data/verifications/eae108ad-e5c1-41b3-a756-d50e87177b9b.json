@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:28.616186+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f07b51b7-2ada-4b05-a3ea-df6a4bcf1e33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eae108ad-e5c1-41b3-a756-d50e87177b9b",
+  "input": "{\"title\": \"Black Magic Woman\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Show-Biz Blues: Fleetwood Mac 1968–1970'",
+  "status": "verified"
+}

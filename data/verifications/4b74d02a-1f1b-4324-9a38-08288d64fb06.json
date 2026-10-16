@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:01.362551+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e68b227-7017-4d4b-b389-05731604507d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b74d02a-1f1b-4324-9a38-08288d64fb06",
+  "input": "{\"title\": \"Eyes of the World\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Mirage'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:17:40.177988+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d77c14b-1904-4930-86d3-fe9f75c5aa84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a7a01d0-b8d6-4414-ba39-1f6b72e783b9",
+  "input": "{\"title\": \"One Last Breath (Radio Version)\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'With Arms Wide Open: A Retrospective'",
+  "status": "verified"
+}

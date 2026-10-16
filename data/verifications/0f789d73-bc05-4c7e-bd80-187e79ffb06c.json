@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:46.629323+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "54e35a96-337c-4589-a417-07a276eee421",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f789d73-bc05-4c7e-bd80-187e79ffb06c",
+  "input": "{\"title\": \"Good to You\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Only Human (Special Edition)'",
+  "status": "verified"
+}

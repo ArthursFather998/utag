@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:16:10.27196+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40bd4d3d-5198-42f7-8341-f0a6905681ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85f22be3-29ca-4764-9473-157c716c5aaf",
+  "input": "{\"title\": \"Evenin' Boogie\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Black Magic Woman'",
+  "status": "verified"
+}

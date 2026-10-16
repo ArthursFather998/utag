@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:06.288833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91bd9b24-7205-452e-a8f9-3e87f5c6a194",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "adc586c6-7d70-4c37-9bec-28562985b4ba",
+  "input": "{\"title\": \"Sleigh Ride\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Mariah Carey's Magical Christmas Special'",
+  "status": "verified"
+}

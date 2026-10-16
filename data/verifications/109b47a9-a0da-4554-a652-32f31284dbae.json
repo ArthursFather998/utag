@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:39.687044+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0adafb7f-6cce-4929-a357-2dac1f0d2f9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "109b47a9-a0da-4554-a652-32f31284dbae",
+  "input": "{\"title\": \"Go Your Own Way\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of '50 Years – Don't Stop'",
+  "status": "verified"
+}

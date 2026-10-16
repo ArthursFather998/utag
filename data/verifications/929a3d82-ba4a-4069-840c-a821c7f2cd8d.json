@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:23.569538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "36b82870-ebdc-4a36-8aeb-9a7577c7eb4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "929a3d82-ba4a-4069-840c-a821c7f2cd8d",
+  "input": "{\"title\": \"Lover Girl\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'A Matter of Time: The Final Hour'",
+  "status": "verified"
+}

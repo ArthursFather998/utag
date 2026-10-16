@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:37:03.239898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eae131de-0c0d-4d6a-9d4e-fded9d7552bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "87f85cc8-1bfe-4c5b-af54-dd0b680c532d",
+  "input": "{\"title\": \"La Carcacha\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Selena: The Series Soundtrack'",
+  "status": "verified"
+}

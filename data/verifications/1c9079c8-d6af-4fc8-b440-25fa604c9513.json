@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:18.024414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1c651ac-f10a-4388-bb55-66553396601a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c9079c8-d6af-4fc8-b440-25fa604c9513",
+  "input": "{\"title\": \"Untouchable\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Untouchable'",
+  "status": "verified"
+}

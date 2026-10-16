@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:38.27284+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98fcf5d7-0a6f-4f8c-9f7c-2f4bf2db2246",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3890fa3f-663d-49c5-a8c8-e5d1ad72d07c",
+  "input": "{\"title\": \"Poor Little Girl\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Fleetwoods' Greatest Hits'",
+  "status": "verified"
+}

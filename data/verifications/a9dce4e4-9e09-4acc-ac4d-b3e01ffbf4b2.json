@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:25.825921+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d299e630-0d86-4d9b-895c-a8f2e5cdac00",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9dce4e4-9e09-4acc-ac4d-b3e01ffbf4b2",
+  "input": "{\"title\": \"That Should Be Me\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'My World 2.0'",
+  "status": "verified"
+}

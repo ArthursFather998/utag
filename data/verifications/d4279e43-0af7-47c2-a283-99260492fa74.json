@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:56:14.582925+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "09a7c857-aa20-4ed4-b5ee-9e07d180316b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4279e43-0af7-47c2-a283-99260492fa74",
+  "input": "{\"title\": \"One Vision\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Kizuna'",
+  "status": "verified"
+}

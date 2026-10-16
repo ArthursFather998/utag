@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:38:17.543869+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2ae3a04-4286-4ddc-8f9b-15f029e34164",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92d8a11f-4905-4b47-a780-c32528e4e1e9",
+  "input": "{\"title\": \"Selfish [DVD]\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Verzuz: Alicia Keys x John Legend (Live)'",
+  "status": "verified"
+}

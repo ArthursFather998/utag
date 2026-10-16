@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:27:49.080375+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da92a6d1-2b68-43e7-999c-e8587eaa12a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d18725a-0d62-4c56-be50-a539b3d903e3",
+  "input": "{\"title\": \"Bug a Boo\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bug a Boo'",
+  "status": "verified"
+}

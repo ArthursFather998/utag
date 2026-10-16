@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:56.863274+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f86ba9e-320c-41ee-8312-8787656511d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "943d50d8-0245-4fd4-a0e6-f7cd9655d01b",
+  "input": "{\"title\": \"Bare Trees\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Bare Trees'",
+  "status": "verified"
+}

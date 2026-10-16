@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:01.788169+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff329316-dd58-4ea7-8008-a3b2b2648802",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ea28f15a-3f9b-4b36-b78c-eab8ea128d0d",
+  "input": "{\"title\": \"Always Be My Baby\", \"release_type\": \"single\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

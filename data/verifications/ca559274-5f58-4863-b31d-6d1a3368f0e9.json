@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:06.69027+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3e02bf1-1026-462f-ad70-4b6e36ae6545",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca559274-5f58-4863-b31d-6d1a3368f0e9",
+  "input": "{\"title\": \"Yo Te Qui\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'La Trenza'",
+  "status": "verified"
+}

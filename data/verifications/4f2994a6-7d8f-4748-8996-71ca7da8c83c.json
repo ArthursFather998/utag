@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:22:54.355447+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e60bc848-be87-43b1-8070-ada970887ae4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f2994a6-7d8f-4748-8996-71ca7da8c83c",
+  "input": "{\"title\": \"Don't Take Your Love Away\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Ten'",
+  "status": "verified"
+}

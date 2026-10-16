@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:21:28.804606+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dabdf31d-b0a5-417d-a4dc-cf3c9bd73f49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3aa3eb0f-770a-40d7-b6b5-e1f28fe6932c",
+  "input": "{\"title\": \"Died and Came Back\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Pink Tape: Level 4'",
+  "status": "verified"
+}

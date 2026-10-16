@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:36.343202+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd510a91-56ce-4aa6-ad4d-45a4b614d79e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df1f1223-8e44-463d-a70c-9cfbfc5af6b6",
+  "input": "{\"title\": \"Rollin' Man\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'The Essential Fleetwood Mac'",
+  "status": "verified"
+}

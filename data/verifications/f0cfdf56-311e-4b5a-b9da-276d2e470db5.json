@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:41:27.683659+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6703f7ce-8aae-42f5-8b15-f4c581960d64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f0cfdf56-311e-4b5a-b9da-276d2e470db5",
+  "input": "{\"title\": \"Beast (Southpaw Remix)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Southpaw: Music from and Inspired by the Motion Picture'",
+  "status": "verified"
+}

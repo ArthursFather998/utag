@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:33.785968+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a8bde5c-9a3d-482a-93e0-bffc7dea77f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c4d6d14-9157-409a-a94e-f8e627212ecc",
+  "input": "{\"title\": \"Good Morning Girl\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'Greatest Hits I & II'",
+  "status": "verified"
+}

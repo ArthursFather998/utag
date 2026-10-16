@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:45.676048+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dbc6fbf2-6384-420b-90a3-4f5bc1751672",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8173876-489c-4dc4-ab2c-52b7943ef05d",
+  "input": "{\"title\": \"kissing as friends\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'kissing as friends'",
+  "status": "verified"
+}

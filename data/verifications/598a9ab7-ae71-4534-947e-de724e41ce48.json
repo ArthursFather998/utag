@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:01.590405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5efaf4f6-9655-46d0-a275-97ef04c44897",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "598a9ab7-ae71-4534-947e-de724e41ce48",
+  "input": "{\"title\": \"Apple Music Live: Brent Faiyaz\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

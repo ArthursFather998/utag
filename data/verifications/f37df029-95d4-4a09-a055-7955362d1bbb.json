@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:29.086528+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a27247f0-a087-4a7e-b41b-30af15f42dd3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f37df029-95d4-4a09-a055-7955362d1bbb",
+  "input": "{\"title\": \"Quarantine Covers\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

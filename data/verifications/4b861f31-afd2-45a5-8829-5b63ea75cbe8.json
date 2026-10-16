@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:39.859801+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2ef8aa41-367f-4377-a8b4-dadf9d755bea",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4b861f31-afd2-45a5-8829-5b63ea75cbe8",
+  "input": "{\"title\": \"The Champ\", \"release_type\": \"single\", \"release_year\": 2008}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

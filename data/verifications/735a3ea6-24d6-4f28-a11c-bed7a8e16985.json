@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:58.418876+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8693cba-7689-438d-8645-73e7115b613d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "735a3ea6-24d6-4f28-a11c-bed7a8e16985",
+  "input": "{\"title\": \"Noel\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Christmas EP'",
+  "status": "verified"
+}

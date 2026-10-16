@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:14.21826+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0ff5ab0-809f-4c99-b642-f7bcdc2f6e98",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b0e274a1-bcaf-463c-8433-eb649da64677",
+  "input": "{\"title\": \"Opening Night\", \"release_type\": \"single\", \"release_year\": 2026}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

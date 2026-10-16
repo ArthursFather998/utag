@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:13.487786+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "21c2055b-07d1-43ea-a12d-1a5b50161524",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a26924de-eab7-4bec-ab98-b30848d209ab",
+  "input": "{\"title\": \"Royal Rumble\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

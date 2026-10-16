@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:23.008145+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ef5125f8-2bc9-43ba-99b5-ff91a1e89ee7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4eb3df9e-0409-4258-8853-18be5f437698",
+  "input": "{\"title\": \"Diva\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

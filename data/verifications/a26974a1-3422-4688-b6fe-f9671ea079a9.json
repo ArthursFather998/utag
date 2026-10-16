@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:31.764932+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "189eb4bb-f9c4-45dc-b5b0-626bcf22c421",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a26974a1-3422-4688-b6fe-f9671ea079a9",
+  "input": "{\"title\": \"Last Night\", \"track_number\": 52}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 52 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

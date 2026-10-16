@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:14.934973+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed4dd21e-0fdb-4d03-a573-7a1c06e62e70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2817e730-ee5c-4018-a6a5-c826bfdfb226",
+  "input": "{\"title\": \"Forbidden Fruit\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Forbidden Fruit'",
+  "status": "verified"
+}

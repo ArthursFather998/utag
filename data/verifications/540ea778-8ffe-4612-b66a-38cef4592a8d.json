@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:14.377955+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a957f7b3-9746-46cd-8344-1172f30ce23a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "540ea778-8ffe-4612-b66a-38cef4592a8d",
+  "input": "{\"title\": \"Zombie\", \"release_type\": \"single\", \"release_year\": 1994}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

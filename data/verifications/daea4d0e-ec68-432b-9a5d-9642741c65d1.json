@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:18:07.585439+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bbb6492b-0622-46fb-8dce-b62f010c268c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "daea4d0e-ec68-432b-9a5d-9642741c65d1",
+  "input": "{\"title\": \"Tomorrow\", \"release_type\": \"single\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

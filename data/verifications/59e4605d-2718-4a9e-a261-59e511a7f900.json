@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:12:57.059408+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b864dc80-c28c-470e-ac0f-056ebd4b8b0f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "59e4605d-2718-4a9e-a261-59e511a7f900",
+  "input": "{\"title\": \"Julia\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Julia'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:09.932633+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eec8423f-3cab-4d93-971d-d910900cc211",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1ca77325-5a1b-467f-b3ef-f5d4269e18b0",
+  "input": "{\"title\": \"What's a Man to Do\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Here I Stand (Deluxe Version)'",
+  "status": "verified"
+}

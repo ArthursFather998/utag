@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:33.866654+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02c8c497-ad6e-4da1-9724-d4598ff794e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48d089cd-d220-4b38-b3a6-b10d393a8faa",
+  "input": "{\"title\": \"Brother (Last Ride)\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Lonesome Dreams'",
+  "status": "verified"
+}

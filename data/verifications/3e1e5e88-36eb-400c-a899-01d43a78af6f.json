@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:41.233314+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "27318a4b-ca55-46cc-b0e2-3ca8226f5b38",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e1e5e88-36eb-400c-a899-01d43a78af6f",
+  "input": "{\"title\": \"Second Emotion (feat. Travis Scott)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Changes'",
+  "status": "verified"
+}

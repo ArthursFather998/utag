@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:00.473394+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e182008-3214-4641-8d72-0be755a87531",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0046e50b-3f09-4e36-a91f-7ed2a4d92f03",
+  "input": "{\"title\": \"Lemme Get That\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Good Girl Gone Bad: Reloaded'",
+  "status": "verified"
+}

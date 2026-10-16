@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:19.207906+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "309aa659-74d4-4790-9244-eeae5e55dd16",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5bec5802-1f98-41f9-950c-0475b87e363c",
+  "input": "{\"title\": \"Independent Women Part I\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Survivor'",
+  "status": "verified"
+}

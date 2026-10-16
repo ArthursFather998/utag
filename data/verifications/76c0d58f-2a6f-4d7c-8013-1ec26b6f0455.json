@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:58.556343+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f60db03a-ea29-44e9-af68-bce21437f55e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76c0d58f-2a6f-4d7c-8013-1ec26b6f0455",
+  "input": "{\"title\": \"Tragedy (A-side)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tragedy'",
+  "status": "verified"
+}

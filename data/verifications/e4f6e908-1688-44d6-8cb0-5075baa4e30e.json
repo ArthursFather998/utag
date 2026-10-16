@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:48.406906+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "07f93b75-938c-4940-8c7c-82209d7e6126",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4f6e908-1688-44d6-8cb0-5075baa4e30e",
+  "input": "{\"title\": \"Losses\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Dark Lane Demo Tapes'",
+  "status": "verified"
+}

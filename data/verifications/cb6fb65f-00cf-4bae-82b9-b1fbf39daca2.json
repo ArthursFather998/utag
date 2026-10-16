@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:57.272498+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86845cb1-a129-4d16-82b6-cdd2b55c936a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb6fb65f-00cf-4bae-82b9-b1fbf39daca2",
+  "input": "{\"title\": \"Hold Me Like a Grudge\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'So Much (for) Stardust'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:38.748409+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d66adef8-a5bf-41c7-b4e4-8e1ed1741099",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27fb3fed-8276-4871-959a-ddb2c79cc174",
+  "input": "{\"title\": \"Drown\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Three Days Grace'",
+  "status": "verified"
+}

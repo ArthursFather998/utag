@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:16:09.732005+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "adb21a57-585c-40d2-8aba-a94958d79365",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85375682-192a-4dbb-a8bc-832df5b06bd4",
+  "input": "{\"title\": \"Go Gina\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Ctrl'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:21.235992+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ee25e886-b5df-4e24-9f93-55706f55ce86",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0938a258-0ba8-4fea-ba03-ed2a81b035ec",
+  "input": "{\"title\": \"What I Miss Most\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:09:31.9274+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "39ee3ebe-c9a2-421b-be38-2f3ae59cc65a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7aa61c36-bb77-4aef-9e30-18ea67d931db",
+  "input": "{\"title\": \"Broken Pieces Shine\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Bitter Truth'",
+  "status": "verified"
+}

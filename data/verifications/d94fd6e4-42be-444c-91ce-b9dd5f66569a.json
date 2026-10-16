@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:26.181577+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c4e586b-0327-4763-976d-828300d5beb3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d94fd6e4-42be-444c-91ce-b9dd5f66569a",
+  "input": "{\"title\": \"If Only for Tonight\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'When the Smoke Clears'",
+  "status": "verified"
+}

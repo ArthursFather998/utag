@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:23.055612+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1fde7d5-aada-4173-949c-ff2d0a335d74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3e3d9f4-51c3-436f-8399-6b7d2948b607",
+  "input": "{\"title\": \"Real Shit\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Real Shit'",
+  "status": "verified"
+}

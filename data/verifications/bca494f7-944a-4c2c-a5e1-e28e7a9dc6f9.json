@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:32.047808+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "972702ef-bf51-446e-bea9-f02b2f3c3702",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bca494f7-944a-4c2c-a5e1-e28e7a9dc6f9",
+  "input": "{\"title\": \"Sweet Maria\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Sounds of Love'",
+  "status": "verified"
+}

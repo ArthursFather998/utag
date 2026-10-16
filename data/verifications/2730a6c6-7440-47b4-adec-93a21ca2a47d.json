@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:55.048395+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d7f2f1ca-c6d4-4ec6-983a-97161727a88a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2730a6c6-7440-47b4-adec-93a21ca2a47d",
+  "input": "{\"title\": \"Bohemian Rhapsody\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Hungarian Rhapsody: Queen Live in Budapest'",
+  "status": "verified"
+}

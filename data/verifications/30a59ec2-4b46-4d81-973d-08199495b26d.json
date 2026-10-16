@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:54:03.048624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aafe8fdd-611c-41d1-9d72-b5b9b0ddfb8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30a59ec2-4b46-4d81-973d-08199495b26d",
+  "input": "{\"title\": \"I Still Do\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Epilogue'",
+  "status": "verified"
+}

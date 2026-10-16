@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:24.830116+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19e97c1b-3e86-4319-879b-c479bc8d319f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "097e6a30-40e2-4a0c-8139-f3bb4497e30e",
+  "input": "{\"title\": \"Trust\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'The Best of the Early Years'",
+  "status": "verified"
+}

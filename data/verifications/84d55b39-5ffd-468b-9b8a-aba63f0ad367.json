@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:49.231426+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ae4b9aca-0abd-413c-8661-bb94a09b5262",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84d55b39-5ffd-468b-9b8a-aba63f0ad367",
+  "input": "{\"title\": \"Judy's Turn to Cry\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'I'll Cry If I Want To'",
+  "status": "verified"
+}

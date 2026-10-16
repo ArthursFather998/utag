@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:15.2641+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02e659f6-7f6f-46fc-ab8d-0b4b9f59b074",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "402a8e54-d658-42b8-8db5-182ce0f6e5b2",
+  "input": "{\"title\": \"I Have to Laugh\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Show-Biz Blues: Fleetwood Mac 1968–1970'",
+  "status": "verified"
+}

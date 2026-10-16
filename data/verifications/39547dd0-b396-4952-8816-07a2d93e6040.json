@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:57.275414+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "afdd2a34-af93-46f1-a9c7-5543e98955ab",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "39547dd0-b396-4952-8816-07a2d93e6040",
+  "input": "{\"title\": \"Into the Sun\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

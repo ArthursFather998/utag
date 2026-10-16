@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:33.058887+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3d27814f-0304-4483-acf2-85cb71b61089",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84b76e08-9f30-49fe-8a95-d89cc312e0ef",
+  "input": "{\"title\": \"Gone into the Sun\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Madison Blues'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:43.308054+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e4f7f47e-21f3-400e-a7d6-e4324a6a78f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a6e80b42-2e87-418d-a3b4-d1baf8145392",
+  "input": "{\"title\": \"Fried Noodles\", \"track_number\": 33}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 33 of 'Pink Season'",
+  "status": "verified"
+}

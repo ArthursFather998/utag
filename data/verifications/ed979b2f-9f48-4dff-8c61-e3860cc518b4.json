@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:35:43.677768+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c17c22ff-c07f-4442-afc9-5326ba33fbb6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed979b2f-9f48-4dff-8c61-e3860cc518b4",
+  "input": "{\"title\": \"It's My Party\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of '20th Century Masters: The Millennium Collection'",
+  "status": "verified"
+}

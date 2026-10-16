@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:30.37403+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b723e8d5-476d-4230-8ea8-0a9e37f50f41",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e634ce3e-8514-4474-979c-9ffbb0d2ed4a",
+  "input": "{\"title\": \"No, No, No Part 1\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Destiny's Child'",
+  "status": "verified"
+}

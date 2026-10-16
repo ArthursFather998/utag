@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:01.187833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d89c917b-9733-4ea8-87e8-cd8f27ad3cdb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "54cd9c5f-0195-4680-bb3a-236aa375800e",
+  "input": "{\"title\": \"Heroes Are Hard to Find\", \"release_type\": \"album\", \"release_year\": 1974}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

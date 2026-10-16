@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:47.945292+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1d830895-8f3b-4f59-ad71-71d1cc5b2732",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03895a9f-869a-4ea5-aa1c-26813bfe50dd",
+  "input": "{\"title\": \"A Pesar De Ti y De Mi\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Pesar De Ti y De Mi'",
+  "status": "verified"
+}

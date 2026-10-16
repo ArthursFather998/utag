@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:34.392806+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "86eaa44d-36bf-4ab3-b3a2-c1ebdfdba81e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc9c54e3-8b90-4089-a5db-21603b097d11",
+  "input": "{\"title\": \"The Shadow of Your Smile\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'To Each His Own'",
+  "status": "verified"
+}

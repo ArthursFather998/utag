@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:23.980159+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1768c11e-bf8a-4cf1-89bc-1f14a74cdc83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c992491-df82-4b83-92c3-a4c32f475031",
+  "input": "{\"title\": \"February\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'The Early Days: Animalism, Pool Party, Crybaby'",
+  "status": "verified"
+}

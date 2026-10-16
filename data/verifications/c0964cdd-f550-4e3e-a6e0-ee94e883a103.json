@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:23.636331+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f701c37-4180-4104-a52e-9cca769c194b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0964cdd-f550-4e3e-a6e0-ee94e883a103",
+  "input": "{\"title\": \"Baby It's You\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Evolution of a Man'",
+  "status": "verified"
+}

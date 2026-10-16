@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:02:07.687839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df66de98-be38-4ce1-9217-eb5053f8eb80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba9c2e08-bfe2-4f51-9286-201178c67830",
+  "input": "{\"title\": \"Let It Die\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'One-X / Live at the Palace'",
+  "status": "verified"
+}

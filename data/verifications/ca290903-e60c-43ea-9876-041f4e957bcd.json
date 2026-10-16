@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:57.281542+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b2b986f9-7383-4103-8da6-4e381c040293",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca290903-e60c-43ea-9876-041f4e957bcd",
+  "input": "{\"title\": \"barbie and ken\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'barbie and ken'",
+  "status": "verified"
+}

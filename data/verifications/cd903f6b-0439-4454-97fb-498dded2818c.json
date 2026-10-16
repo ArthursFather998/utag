@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:15.268016+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "058a90ee-90c9-445c-a1ec-37a4c3b11135",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd903f6b-0439-4454-97fb-498dded2818c",
+  "input": "{\"title\": \"Disc 1 - Hello Young Lover\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

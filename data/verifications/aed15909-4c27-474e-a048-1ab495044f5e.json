@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:01.168624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d85c232f-cd6b-4ea4-b0f8-90973bb17c00",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aed15909-4c27-474e-a048-1ab495044f5e",
+  "input": "{\"title\": \"United We Stand\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Freedom'",
+  "status": "verified"
+}

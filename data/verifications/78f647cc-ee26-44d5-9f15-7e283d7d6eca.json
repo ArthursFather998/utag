@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:52.471898+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "28fd85ba-abf7-4d8d-a86e-120ade5e1490",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78f647cc-ee26-44d5-9f15-7e283d7d6eca",
+  "input": "{\"title\": \"Animal I Have Become\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'One-X'",
+  "status": "verified"
+}

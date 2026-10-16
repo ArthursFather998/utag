@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:21.976263+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87d10d60-9d1a-49c7-af29-a6ff72fad200",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b72473ea-7e28-46ac-85a7-810f4bd98958",
+  "input": "{\"title\": \"Let Me Entertain You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Live Killers'",
+  "status": "verified"
+}

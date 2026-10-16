@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:09.707376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91b67e37-ccf0-4b44-9e89-67d940149424",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2e599c3-e9b3-4c79-aa5f-2da734639a28",
+  "input": "{\"title\": \"Seagull\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Live in Ukraine'",
+  "status": "verified"
+}

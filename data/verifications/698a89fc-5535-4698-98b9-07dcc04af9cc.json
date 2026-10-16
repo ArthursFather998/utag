@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:50:01.099862+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "edffd237-4a34-457a-920a-e5074574d817",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "698a89fc-5535-4698-98b9-07dcc04af9cc",
+  "input": "{\"title\": \"Blue Banisters\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Blue Banisters'",
+  "status": "verified"
+}

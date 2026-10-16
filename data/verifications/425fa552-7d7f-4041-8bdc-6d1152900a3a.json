@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:05:32.56751+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8fccac1c-630e-42a0-a0c2-b06b135b2042",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "425fa552-7d7f-4041-8bdc-6d1152900a3a",
+  "input": "{\"title\": \"The Hills\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Live at SoFi Stadium'",
+  "status": "verified"
+}

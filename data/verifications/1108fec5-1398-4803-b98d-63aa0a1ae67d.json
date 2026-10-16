@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:53.74223+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e0c7b5a-bb71-47be-bd22-06d8886b1479",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1108fec5-1398-4803-b98d-63aa0a1ae67d",
+  "input": "{\"title\": \"Paranoia\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Paranoia'",
+  "status": "verified"
+}

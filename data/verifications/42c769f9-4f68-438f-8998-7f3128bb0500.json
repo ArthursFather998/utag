@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:51:22.929762+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "871fe5ca-5059-4ae8-a037-41ce11d97bbb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42c769f9-4f68-438f-8998-7f3128bb0500",
+  "input": "{\"title\": \"Rabbit\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of '(((((ultraSOUND)))))'",
+  "status": "verified"
+}

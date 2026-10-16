@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:34.891706+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4aa363e6-b268-45a4-9219-6cae740b5521",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "679bed41-0bfc-4715-8c8b-0a321863d7eb",
+  "input": "{\"title\": \"Crying Out\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Jagged Edge'",
+  "status": "verified"
+}

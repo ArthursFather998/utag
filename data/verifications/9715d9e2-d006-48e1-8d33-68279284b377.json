@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:38.637332+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "38b0c55e-f1f0-4032-b688-accc028554b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9715d9e2-d006-48e1-8d33-68279284b377",
+  "input": "{\"title\": \"Moon Cycle\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Portals (Deluxe Edition)'",
+  "status": "verified"
+}

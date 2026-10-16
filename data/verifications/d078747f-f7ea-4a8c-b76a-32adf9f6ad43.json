@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:43.483718+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bf5532b8-f5a7-46b6-9593-f48cf711a213",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d078747f-f7ea-4a8c-b76a-32adf9f6ad43",
+  "input": "{\"title\": \"My Love, My Love\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Buried Treasure'",
+  "status": "verified"
+}

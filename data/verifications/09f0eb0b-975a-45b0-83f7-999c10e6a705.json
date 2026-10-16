@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:40.397915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e7e72d5-9b98-4202-9e2a-20759c2c3f60",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "09f0eb0b-975a-45b0-83f7-999c10e6a705",
+  "input": "{\"title\": \"La Bamba\", \"release_type\": \"single\", \"release_year\": 1987}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

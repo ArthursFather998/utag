@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:25:24.638805+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f0c6dee-fd83-4af2-83e6-84377c0c731b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b662b46-e22c-477a-a5d2-f6036311f6d8",
+  "input": "{\"title\": \"Sea Fog (Live in Mexico City)\", \"track_number\": 37}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 37 of 'The Best of Keane (Deluxe Edition)'",
+  "status": "verified"
+}

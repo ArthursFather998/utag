@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:29:29.896353+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce99551b-91e6-4336-8406-c7a2def35571",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ef0b27cc-404b-4b04-92ef-24c4fd7be1d0",
+  "input": "{\"title\": \"You're the Storm\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

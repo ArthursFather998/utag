@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:01:21.104158+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e1fb4d9-bf6f-4428-9373-f4fb4ad77479",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d90d4abb-4455-4fc2-93a6-1eca6c57c251",
+  "input": "{\"title\": \"Oh Santa!\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Mariah Carey's Magical Christmas Special'",
+  "status": "verified"
+}

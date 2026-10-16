@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:58:33.734199+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "746ce95a-5bd4-4432-841b-717e817b07ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ebb3290-895a-4d2d-9bb3-ce4744085b41",
+  "input": "{\"title\": \"House of Balloons / Glass Table Girls\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'House of Balloons'",
+  "status": "verified"
+}

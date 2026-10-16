@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:46:31.686221+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "40a0ad5d-72be-48c8-bd89-f03746eb1c83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0142557e-df1a-467b-8e75-e7a3dbd47463",
+  "input": "{\"title\": \"Now I'm Here\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Live at the Rainbow '74'",
+  "status": "verified"
+}

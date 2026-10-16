@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:27.100419+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ef0e037-f08f-41d9-86c0-3d036aa0081c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e06e683-9717-4db3-907a-9196aa689cd7",
+  "input": "{\"title\": \"Truth Hurts\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Confessions (20th Anniversary Edition)'",
+  "status": "verified"
+}

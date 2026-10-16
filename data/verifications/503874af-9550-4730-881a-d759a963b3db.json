@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:19.863336+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f42a76b-f5d7-43c7-8d35-14f2677955e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "503874af-9550-4730-881a-d759a963b3db",
+  "input": "{\"title\": \"Russian Roulette\", \"track_number\": 43}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 43 of 'Vinyl Box Set'",
+  "status": "verified"
+}

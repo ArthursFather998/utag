@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:47.569068+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a437a6ca-6c40-4a68-b40c-4ce8c8c81b28",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f287eba9-ca19-4e1b-9415-ed6c5678c913",
+  "input": "{\"title\": \"Evergreen\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Evergreen'",
+  "status": "verified"
+}

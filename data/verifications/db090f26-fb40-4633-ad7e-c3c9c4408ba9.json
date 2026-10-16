@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:51:46.250703+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "96daee48-6cc7-4aed-a284-61bc291126e6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "db090f26-fb40-4633-ad7e-c3c9c4408ba9",
+  "input": "{\"title\": \"The Old House Next Door.\", \"release_type\": \"album\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

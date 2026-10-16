@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:33.847823+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9378b47c-a703-464e-9af6-576f83a4ec73",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "661bda1d-f6e6-4ad0-8e74-7b8f46c11220",
+  "input": "{\"title\": \"Too Late\", \"track_number\": 36}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 36 of 'Lana'",
+  "status": "verified"
+}

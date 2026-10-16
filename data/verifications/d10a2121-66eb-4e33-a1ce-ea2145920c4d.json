@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:57.279715+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1dcdbf84-ff06-401f-b4c6-aff9d2668238",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d10a2121-66eb-4e33-a1ce-ea2145920c4d",
+  "input": "{\"title\": \"Superman\", \"release_type\": \"single\", \"release_year\": 2003}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

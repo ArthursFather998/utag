@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:07.8085+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dcd74f34-a31a-4ab3-8b9a-ac8b4e793f3e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a3c9b1d4-7a76-4132-abfe-9dfdefb7d023",
+  "input": "{\"title\": \"Rattlesnake Shake\", \"release_type\": \"single\", \"release_year\": 1969}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

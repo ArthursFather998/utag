@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:45.929074+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85ed8dde-8aaa-4c88-906c-145594a33d18",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "989a1fc8-9baf-485e-8335-ff0538e82271",
+  "input": "{\"title\": \"Angeline\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Leather Jackets'",
+  "status": "verified"
+}

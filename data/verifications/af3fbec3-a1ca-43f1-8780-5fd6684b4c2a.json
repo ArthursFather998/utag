@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:44.852949+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4032ac78-5cda-4a91-8ffd-ed79d6bc4d18",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af3fbec3-a1ca-43f1-8780-5fd6684b4c2a",
+  "input": "{\"title\": \"The Impossible (The Reprise)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Memoirs of an Imperfect Angel'",
+  "status": "verified"
+}

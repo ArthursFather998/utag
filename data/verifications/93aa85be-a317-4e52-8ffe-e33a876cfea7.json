@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:51.825548+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5ae19ac3-459f-4265-a2c1-4dc97a04dd64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93aa85be-a317-4e52-8ffe-e33a876cfea7",
+  "input": "{\"title\": \"T\\u00fa Solamente T\\u00fa\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Dulce Amor'",
+  "status": "verified"
+}

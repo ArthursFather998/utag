@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:43.408553+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1259ad14-3e00-4ae1-84cf-2d7eac7e9be8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d4fa176d-af9f-4e6a-b6f8-61c8de1348f0",
+  "input": "{\"title\": \"Where to Now\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Comeback Season'",
+  "status": "verified"
+}

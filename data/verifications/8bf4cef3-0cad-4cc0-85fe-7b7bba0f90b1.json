@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:09.048761+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4cf5d4a3-96fe-441b-b1d7-719e119e97c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8bf4cef3-0cad-4cc0-85fe-7b7bba0f90b1",
+  "input": "{\"title\": \"The Beautiful Ones\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Butterfly: 25th Anniversary Expanded Edition'",
+  "status": "verified"
+}

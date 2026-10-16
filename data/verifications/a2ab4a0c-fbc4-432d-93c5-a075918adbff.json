@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:41.607037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca9c13f0-ad07-4395-8385-5ccfc7ea5ecc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2ab4a0c-fbc4-432d-93c5-a075918adbff",
+  "input": "{\"title\": \"Up\", \"track_number\": 30}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 30 of 'My Worlds: The Collection'",
+  "status": "verified"
+}

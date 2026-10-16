@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:56.794997+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e8596f3a-fe6f-432c-a218-ad2656c6e88b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "08ccfa2f-8a2f-4dc3-97b6-72ad90714a87",
+  "input": "{\"title\": \"Gigante\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Gigante'",
+  "status": "verified"
+}

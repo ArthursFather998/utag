@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:38.956252+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "44aecb56-8100-42b0-acda-4626c129eb72",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3eb3ba0-c523-4bb2-9232-3d4dc5b4cc88",
+  "input": "{\"title\": \"Big Rings\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'What a Time to Be Alive'",
+  "status": "verified"
+}

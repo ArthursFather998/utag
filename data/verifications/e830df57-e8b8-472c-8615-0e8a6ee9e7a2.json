@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:29:05.93893+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3c419cf2-45fa-4b97-b6f7-304f4277a950",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e830df57-e8b8-472c-8615-0e8a6ee9e7a2",
+  "input": "{\"title\": \"Pinball Wizard\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Very Best of Elton John'",
+  "status": "verified"
+}

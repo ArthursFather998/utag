@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:48:10.929305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "070e3355-c4b1-484c-8022-18035ff8953e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d4ccd6c-09bc-4dfc-8d12-9878afee3ffd",
+  "input": "{\"title\": \"Ay-Ohs\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Live Around the World'",
+  "status": "verified"
+}

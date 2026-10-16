@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:02:21.914437+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfbf274b-d4fc-4177-ac86-c752b0b95af5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff568f8f-c668-4292-89b2-01630d1545a4",
+  "input": "{\"title\": \"Yukon\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Swag Live from Coachella (Weekend I)'",
+  "status": "verified"
+}

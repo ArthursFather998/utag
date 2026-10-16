@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Frank Sinatra",
+    "confidence": "unknown",
+    "created_at": "2026-10-16T18:00:35.170418+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "ef768655-0547-48d0-bdb8-8397f8e927a5",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-16T18:00:35.170418+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Frank Sinatra",
+        "id": "ef768655-0547-48d0-bdb8-8397f8e927a5"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:35.474075+00:00",
+      "edition": "original",
+      "id": "47e6b83d-4397-407b-a1fc-12015c4a383a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Sinatra in Japan - Concert April 26 1985 - Budokan, Tokyo"
+    }
+  ],
+  "verifications": []
+}

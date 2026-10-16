@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:53:58.275876+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d02a1e4-998a-45bb-8c56-b453252b2025",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a23a1019-0993-4288-8c84-0acbd6adcd77",
+  "input": "{\"title\": \"Secret World\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Songs for a Nervous Planet'",
+  "status": "verified"
+}

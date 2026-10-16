@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:34:21.336635+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e2a15ffe-2ccc-4c7f-b43d-2e723e8b06b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db136128-76ca-450c-bacf-79b79f8c83ee",
+  "input": "{\"title\": \"Bagpipes from Baghdad\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Relapse'",
+  "status": "verified"
+}

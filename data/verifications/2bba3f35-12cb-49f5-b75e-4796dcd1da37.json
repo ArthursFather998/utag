@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:10.464074+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "015a1a3d-fd3a-4d34-9075-618af9236216",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2bba3f35-12cb-49f5-b75e-4796dcd1da37",
+  "input": "{\"title\": \"Rockstar 101\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

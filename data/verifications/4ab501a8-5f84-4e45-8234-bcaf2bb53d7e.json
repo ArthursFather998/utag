@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:25.432797+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "69afad31-7756-4d38-8ed6-3725e7046e40",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ab501a8-5f84-4e45-8234-bcaf2bb53d7e",
+  "input": "{\"title\": \"Breakdown\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Breakdown'",
+  "status": "verified"
+}

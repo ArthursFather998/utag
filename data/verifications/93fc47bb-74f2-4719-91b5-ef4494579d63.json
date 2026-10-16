@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:16:29.648826+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1ed6ff8e-2a4a-41ef-9832-deee31b5972b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93fc47bb-74f2-4719-91b5-ef4494579d63",
+  "input": "{\"title\": \"Attention\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ballads 1'",
+  "status": "verified"
+}

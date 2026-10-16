@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:26.646108+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f43d5c59-b9b5-4681-9656-86601dd5ddda",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bfa5a65-7350-4469-9162-715f22d038ff",
+  "input": "{\"title\": \"You & the 6\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'If You're Reading This It's Too Late'",
+  "status": "verified"
+}

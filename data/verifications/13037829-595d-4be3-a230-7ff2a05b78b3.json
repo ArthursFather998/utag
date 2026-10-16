@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:25.048936+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8e0a7afa-f158-48c2-8b7c-3ab5b75ac38b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "13037829-595d-4be3-a230-7ff2a05b78b3",
+  "input": "{\"title\": \"My Town, My Guy and Me\", \"release_type\": \"single\", \"release_year\": 1965}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

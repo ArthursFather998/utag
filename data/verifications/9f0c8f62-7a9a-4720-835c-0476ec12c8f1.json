@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:07.802792+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "608f409f-eb07-42be-b90b-a0a3ff312046",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f0c8f62-7a9a-4720-835c-0476ec12c8f1",
+  "input": "{\"title\": \"The Resistance\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Thank Me Later'",
+  "status": "verified"
+}

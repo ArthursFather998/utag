@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:34.019913+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ec8a2b6-4866-4e2b-b287-8b9a3fb18676",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "932c5b90-18fa-44be-b24b-7c9c0b32ca15",
+  "input": "{\"title\": \"Needed Me\", \"release_type\": \"single\", \"release_year\": 2016}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

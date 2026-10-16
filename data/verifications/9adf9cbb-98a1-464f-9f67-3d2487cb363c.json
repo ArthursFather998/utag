@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:56:22.0076+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8d0640fa-27b7-4fe1-b82c-8ed935acb60b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9adf9cbb-98a1-464f-9f67-3d2487cb363c",
+  "input": "{\"title\": \"Un Primer Amor\", \"release_type\": \"single\", \"release_year\": 1985}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

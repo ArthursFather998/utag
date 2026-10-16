@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:35.353037+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a045dc3b-2221-43a0-a5d8-d79d886f3051",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc30ce11-124b-4106-8842-f2fc45296702",
+  "input": "{\"title\": \"Nearly Witches (Ever Since We Met...)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Vices & Virtues (Deluxe Edition)'",
+  "status": "verified"
+}

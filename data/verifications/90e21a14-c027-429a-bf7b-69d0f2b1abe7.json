@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:01.448493+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b459bd39-8c68-4b7f-8317-724115103790",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90e21a14-c027-429a-bf7b-69d0f2b1abe7",
+  "input": "{\"title\": \"Silly! Fun!\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Vie'",
+  "status": "verified"
+}

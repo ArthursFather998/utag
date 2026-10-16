@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:34.449376+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "114a3ecf-112a-46a1-b553-acd0f1e28044",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cd790038-3679-48f2-bf58-25a7d435e4c7",
+  "input": "{\"title\": \"Midnight Cowboy\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 18",
+  "status": "verified"
+}

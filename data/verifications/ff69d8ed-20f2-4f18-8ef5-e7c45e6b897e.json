@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:17:47.84196+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8b2eb0b0-5f23-4089-81b9-455d8dc9d560",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff69d8ed-20f2-4f18-8ef5-e7c45e6b897e",
+  "input": "{\"title\": \"Untitled 1\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Hopes and Fears'",
+  "status": "verified"
+}

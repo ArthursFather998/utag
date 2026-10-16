@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:19.349806+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8afa1c22-4892-4f77-ae87-434032d9ac26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c41264a8-25c2-462d-9e60-e5c71beafb5a",
+  "input": "{\"title\": \"Time 2\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'No Silent Monks'",
+  "status": "verified"
+}

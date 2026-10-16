@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:31.125904+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58d80eb8-22af-4f2f-bc74-b95f3ac504f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "86a7e950-8f6b-4199-b504-9110cf7ff765",
+  "input": "{\"title\": \"Yo Fui Aquella\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Preciosa'",
+  "status": "verified"
+}

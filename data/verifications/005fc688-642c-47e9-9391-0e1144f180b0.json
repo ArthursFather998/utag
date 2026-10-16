@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:46.581849+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed56a4b2-92f7-406a-b02a-9e57051eba91",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "005fc688-642c-47e9-9391-0e1144f180b0",
+  "input": "{\"title\": \"Young Volcanoes\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'The Boys of Zummer Tour: Live in Chicago'",
+  "status": "verified"
+}

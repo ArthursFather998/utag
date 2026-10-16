@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:49:15.817471+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87a80fb3-1824-4f08-b0cd-5df709ae34c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "308084ff-cbf2-419a-b767-b32458ceccc7",
+  "input": "{\"title\": \"The Next Best American Record\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Norman Fucking Rockwell!'",
+  "status": "verified"
+}

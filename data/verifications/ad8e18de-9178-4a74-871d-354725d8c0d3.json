@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:02.042015+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dfd2d9c9-c4d4-4a1c-b8ec-31cb08e7991e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad8e18de-9178-4a74-871d-354725d8c0d3",
+  "input": "{\"title\": \"Songbird\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Very Best of Fleetwood Mac'",
+  "status": "verified"
+}

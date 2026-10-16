@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:38:34.885008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d98e68b2-61fe-498b-8426-de9fbcbb2c13",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3b0f644-67e6-47b8-a88a-828f7628bcdf",
+  "input": "{\"title\": \"Disc 1 - What Kind of Fool Am I?\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Lesley Gore: It's My Party'",
+  "status": "verified"
+}

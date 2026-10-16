@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:48.34668+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f594439-1b29-4397-8f56-dfc63cbfdc31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5815489d-92d2-4d63-bda9-53c55ff307ec",
+  "input": "{\"title\": \"Eight Hundred Dollar Shoes\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'The Union'",
+  "status": "verified"
+}

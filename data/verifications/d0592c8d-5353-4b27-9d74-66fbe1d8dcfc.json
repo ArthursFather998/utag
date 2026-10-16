@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:34.916029+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8f2445de-0449-44f9-a333-f4efaac9809b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0592c8d-5353-4b27-9d74-66fbe1d8dcfc",
+  "input": "{\"title\": \"I Can Breathe\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Red 13'",
+  "status": "verified"
+}

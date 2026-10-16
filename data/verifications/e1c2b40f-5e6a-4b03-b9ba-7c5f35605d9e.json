@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:59.883279+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e267ec2-f1d2-45a2-bf08-f0950d67ddc4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e1c2b40f-5e6a-4b03-b9ba-7c5f35605d9e",
+  "input": "{\"title\": \"My Melancholy Blues\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'News of the World'",
+  "status": "verified"
+}

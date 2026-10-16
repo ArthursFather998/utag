@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:31:03.817962+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb2c9b80-5612-4a48-abca-772c8c7d2d4f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81f3ba4a-8ade-4c36-a07e-b97027455a77",
+  "input": "{\"title\": \"Are You Ready for Love\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Thom Bell Sessions'",
+  "status": "verified"
+}

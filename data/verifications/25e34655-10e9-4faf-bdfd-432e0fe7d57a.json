@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:56:26.687919+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4a02aaa5-9b36-491e-b2fa-b874e69119bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25e34655-10e9-4faf-bdfd-432e0fe7d57a",
+  "input": "{\"title\": \"Never Left\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'We Love You Tecca 2'",
+  "status": "verified"
+}

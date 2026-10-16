@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:42:26.65378+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0759db4a-c6bd-4893-936f-14fc9808e27f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f15b1773-18ce-48b1-8a5c-d87e9b65fffb",
+  "input": "{\"title\": \"I Don't Wanna Cry\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Mariah Carey'",
+  "status": "verified"
+}

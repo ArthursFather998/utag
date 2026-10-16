@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:44:18.12633+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6fbc17f4-527c-4d72-aa37-3878fddbd457",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9329863-644e-4152-9145-74f0e427fcfa",
+  "input": "{\"title\": \"No More\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Life Starts Now'",
+  "status": "verified"
+}

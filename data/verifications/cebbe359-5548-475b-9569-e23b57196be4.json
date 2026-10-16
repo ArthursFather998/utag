@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:08:25.967266+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bdee078b-2b2a-4471-881e-b4dee05f8d6e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cebbe359-5548-475b-9569-e23b57196be4",
+  "input": "{\"title\": \"Someone New\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

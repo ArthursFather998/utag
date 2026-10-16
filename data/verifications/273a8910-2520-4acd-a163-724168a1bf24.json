@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:11.475802+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3f2f914d-4a4b-4fc1-ba16-1fb9eb07d222",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "273a8910-2520-4acd-a163-724168a1bf24",
+  "input": "{\"title\": \"Girl on Fire\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'In Tokyo 2025'",
+  "status": "verified"
+}

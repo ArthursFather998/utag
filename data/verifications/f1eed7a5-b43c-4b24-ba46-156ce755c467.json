@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:41:38.672038+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e52f9988-e9d6-4e2b-97ac-7328a356df66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1eed7a5-b43c-4b24-ba46-156ce755c467",
+  "input": "{\"title\": \"Mr. Predictable\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tunnel Vision'",
+  "status": "verified"
+}

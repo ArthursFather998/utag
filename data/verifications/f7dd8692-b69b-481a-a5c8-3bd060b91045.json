@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:36.482081+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5be52b46-3af2-4080-9e86-46f5985a079f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7dd8692-b69b-481a-a5c8-3bd060b91045",
+  "input": "{\"title\": \"Sketches of Pain\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Raoul and the Kings of Spain'",
+  "status": "verified"
+}

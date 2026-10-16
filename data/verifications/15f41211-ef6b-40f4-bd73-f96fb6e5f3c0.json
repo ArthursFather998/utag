@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:51.2534+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "92f162f9-d1d4-43a0-a862-df742e44fb0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15f41211-ef6b-40f4-bd73-f96fb6e5f3c0",
+  "input": "{\"title\": \"What's It Gonna Be\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Ultimate Collection'",
+  "status": "verified"
+}

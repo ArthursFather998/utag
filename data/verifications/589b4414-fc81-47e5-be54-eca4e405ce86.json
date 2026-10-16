@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:44.794929+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "524b4850-be73-4ba1-9fea-0979de3f7a0a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "589b4414-fc81-47e5-be54-eca4e405ce86",
+  "input": "{\"title\": \"Piggyback\", \"release_type\": \"single\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

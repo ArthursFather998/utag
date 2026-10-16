@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:10.86555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a1a28c2-d197-4c08-9085-97ac33510f69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77c18e4e-7c58-42e9-8317-4a103e6fd521",
+  "input": "{\"title\": \"In the Night\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'In the Night'",
+  "status": "verified"
+}

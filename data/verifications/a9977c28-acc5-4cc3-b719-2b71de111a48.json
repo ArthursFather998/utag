@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:17.179474+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "941f2611-1cd8-4e3c-bf61-e66f2e81da14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9977c28-acc5-4cc3-b719-2b71de111a48",
+  "input": "{\"title\": \"This I Promise You\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'This I Promise You'",
+  "status": "verified"
+}

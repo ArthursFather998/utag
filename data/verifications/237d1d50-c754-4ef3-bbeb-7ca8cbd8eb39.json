@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:19.6897+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1a2f5b1a-23ba-4717-ae5f-6f8149f9ded9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "237d1d50-c754-4ef3-bbeb-7ca8cbd8eb39",
+  "input": "{\"title\": \"deadly ever after\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'deadly ever after'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:53:59.43859+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1c9d0463-be72-4d91-8147-c46252b1ba33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39ed1e12-8dc8-4229-aaf6-6eefc2aa6257",
+  "input": "{\"title\": \"All Your Lies\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Epilogue'",
+  "status": "verified"
+}

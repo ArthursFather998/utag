@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:27:21.706041+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "370ab7bc-16fc-44a2-a183-587a24ffd36e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "755dd716-dc97-4e5d-939b-3af534219622",
+  "input": "{\"title\": \"Crazy Water\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Live from Moscow 1979'",
+  "status": "verified"
+}

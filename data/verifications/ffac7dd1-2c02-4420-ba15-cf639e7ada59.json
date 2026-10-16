@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:45:12.379262+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1438eda2-7817-4dd7-88a3-c25ed323566c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ffac7dd1-2c02-4420-ba15-cf639e7ada59",
+  "input": "{\"title\": \"'39\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Live in Ukraine'",
+  "status": "verified"
+}

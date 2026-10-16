@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:55:35.094777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d10f4449-0532-44bf-952a-a7e9b58485f8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7e4b5b0a-13f6-4d84-aec4-9a308e346e2a",
+  "input": "{\"title\": \"Pain\", \"release_type\": \"album\", \"release_year\": 2007}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

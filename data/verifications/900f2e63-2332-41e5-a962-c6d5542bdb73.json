@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:51.074505+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "388f62d1-578c-4bde-8e5d-8e80a8f896c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "900f2e63-2332-41e5-a962-c6d5542bdb73",
+  "input": "{\"title\": \"Prom Queen\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Prom Queen + Sports'",
+  "status": "verified"
+}

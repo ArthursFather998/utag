@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:53.116941+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2f51fab7-a6fa-4d84-9245-bfb1382ed4ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3853543-c2f2-4c0a-9feb-9144f26d6ac9",
+  "input": "{\"title\": \"Before I Met You\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Here I Stand'",
+  "status": "verified"
+}

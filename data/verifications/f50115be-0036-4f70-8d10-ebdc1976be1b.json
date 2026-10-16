@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:46:56.007968+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "12acf777-38af-4704-93a6-3296c69d8e5a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f50115be-0036-4f70-8d10-ebdc1976be1b",
+  "input": "{\"title\": \"Spaceship\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Heaven or Hell'",
+  "status": "verified"
+}

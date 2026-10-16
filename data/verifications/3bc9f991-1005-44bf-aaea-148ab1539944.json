@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:14:33.9999+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d962e79c-5f7e-4259-bf91-e1bcd8f52f77",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bc9f991-1005-44bf-aaea-148ab1539944",
+  "input": "{\"title\": \"What's This Life For\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'My Own Prison'",
+  "status": "verified"
+}

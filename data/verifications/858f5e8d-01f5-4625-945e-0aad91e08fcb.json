@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:33:12.277503+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8afcae30-510b-4f65-b5c4-d562eb10c57f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "858f5e8d-01f5-4625-945e-0aad91e08fcb",
+  "input": "{\"title\": \"There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet (Demo)\", \"track_number\": 23}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 23 of 'A Fever You Can't Sweat Out (20th Anniversary Deluxe)'",
+  "status": "verified"
+}

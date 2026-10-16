@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:24.479445+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b0f6ed09-46e6-4bd9-a126-ef61e0b72652",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82459a6f-5cc3-4836-ae66-35d014705884",
+  "input": "{\"title\": \"Drunk on Love\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Talk That Talk'",
+  "status": "verified"
+}

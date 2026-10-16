@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:58.249996+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8ae49d0-0fcf-4b04-ad7c-3a88be8b6730",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51fa7f0b-c9d5-41e4-99e7-13529c786a5d",
+  "input": "{\"title\": \"Te Amo\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Rated R + Loud'",
+  "status": "verified"
+}

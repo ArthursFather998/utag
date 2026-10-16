@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:03:28.570776+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2426347e-fa87-4323-a4fe-2a47490713f3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8a69b70-5a41-4b1c-8d42-784a095d6c98",
+  "input": "{\"title\": \"Tension Is a Passing Note\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Divine Discontent'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:17:21.166891+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2114fed9-9cf3-412c-b0b9-4b88c85b6569",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ffc16605-710a-4922-8f63-708154199dc6",
+  "input": "{\"title\": \"Madelyn\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Madelyn'",
+  "status": "verified"
+}

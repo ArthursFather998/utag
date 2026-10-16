@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:05.051308+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1622d198-4e49-4652-a32c-7ff9b671b97a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f67fa62-48de-493d-afdf-7596a4de2af1",
+  "input": "{\"title\": \"Candle in the Wind\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Candle in the Wind'",
+  "status": "verified"
+}

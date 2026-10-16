@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:20.09751+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c7b876f0-c01a-45fa-8260-68d03054f385",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c3e5089f-1c0f-4586-a4ff-721ec85710a4",
+  "input": "{\"title\": \"Nothing Was the Same\", \"release_type\": \"album\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

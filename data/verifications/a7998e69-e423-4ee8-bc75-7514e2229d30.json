@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:06.875006+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "880fb3fe-15dd-4b0d-b88f-6e6f5243042b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7998e69-e423-4ee8-bc75-7514e2229d30",
+  "input": "{\"title\": \"Pray\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'My Worlds: The Collection'",
+  "status": "verified"
+}

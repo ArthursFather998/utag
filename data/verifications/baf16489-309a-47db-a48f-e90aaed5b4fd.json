@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:40.442842+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c6322f88-b716-4dfc-9aef-6d2b88f2686c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "baf16489-309a-47db-a48f-e90aaed5b4fd",
+  "input": "{\"title\": \"PTSD\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'Revenge of the Dreamers III'",
+  "status": "verified"
+}

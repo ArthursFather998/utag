@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:19:42.256428+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a06d929a-686e-4fda-addc-48db07d61097",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "406b9f0f-84ef-4b5c-9a79-933470bacae1",
+  "input": "{\"title\": \"Last First Kiss\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Take Me Home'",
+  "status": "verified"
+}

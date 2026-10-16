@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:20.573655+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ca76255-ff53-4410-99ee-8b5d5519a398",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee4ffac2-5eb5-41c9-8987-1df17f40270c",
+  "input": "{\"title\": \"It's a Hard Life\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Queen Forever'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:30:43.182279+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a649b340-6bfd-4817-88bf-d6a29f71dff8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d204ad0-dbe9-4640-98a9-6a6b398431da",
+  "input": "{\"title\": \"98.6/Lazy Day\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'Magic Colors: The Lost Album'",
+  "status": "verified"
+}

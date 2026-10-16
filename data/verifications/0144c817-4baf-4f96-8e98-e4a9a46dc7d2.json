@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:09:52.04373+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ed60e6db-7abc-487f-ab87-b9c410ba57d9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0144c817-4baf-4f96-8e98-e4a9a46dc7d2",
+  "input": "{\"title\": \"doppelg\\u00e4nger\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'luna park'",
+  "status": "verified"
+}

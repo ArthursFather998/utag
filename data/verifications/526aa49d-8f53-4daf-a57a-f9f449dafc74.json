@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:38.543141+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "362482fc-17bf-41cc-805a-265511704f7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "526aa49d-8f53-4daf-a57a-f9f449dafc74",
+  "input": "{\"title\": \"Off to the Races\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Off to the Races'",
+  "status": "verified"
+}

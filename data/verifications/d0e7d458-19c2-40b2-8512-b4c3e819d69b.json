@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:23:25.908627+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "228ef9ef-ac02-4593-aeb3-ef9906f0197c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0e7d458-19c2-40b2-8512-b4c3e819d69b",
+  "input": "{\"title\": \"Who Would Have Thought\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'I'll Be Home for Christmas'",
+  "status": "verified"
+}

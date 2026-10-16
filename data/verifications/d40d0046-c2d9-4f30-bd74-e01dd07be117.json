@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:40.703986+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a5737e2-952d-46b1-86c8-3ab3c208ace1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d40d0046-c2d9-4f30-bd74-e01dd07be117",
+  "input": "{\"title\": \"Shut Your Damn 95.7892\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Cosmic Opera: Act II'",
+  "status": "verified"
+}

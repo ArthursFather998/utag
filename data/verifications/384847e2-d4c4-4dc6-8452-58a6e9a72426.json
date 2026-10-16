@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:30.112228+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a979b7e9-50ed-4aee-8239-0ddb6b8e1472",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "384847e2-d4c4-4dc6-8452-58a6e9a72426",
+  "input": "{\"title\": \"The Best Things in Life Are Free\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

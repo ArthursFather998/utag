@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:34:57.428062+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7b721300-ccf4-4615-ada5-4d610a502ee0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e9c6bcf5-dd4c-4a54-8c49-aa350cb0d5a6",
+  "input": "{\"title\": \"Believe\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

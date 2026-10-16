@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:21.938751+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "90f1c8ac-b99f-41c0-9247-ed57ad077e93",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f1b805c3-8eed-4db0-9d4a-30c2266bc66d",
+  "input": "{\"title\": \"After the Fall\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'The Essential Journey'",
+  "status": "verified"
+}

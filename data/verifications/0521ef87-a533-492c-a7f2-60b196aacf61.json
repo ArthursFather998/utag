@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:04.629448+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b4fb266c-68d2-4424-a290-5e87a6c9ec11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0521ef87-a533-492c-a7f2-60b196aacf61",
+  "input": "{\"title\": \"Take Your Hand\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Confessions'",
+  "status": "verified"
+}

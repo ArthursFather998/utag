@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:49:16.919946+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb7e7666-796e-412d-bbea-f81161f7ffad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2ff3c87b-d3ef-4707-93b7-763a02059f19",
+  "input": "{\"title\": \"Any Time, Any Place\", \"track_number\": 25}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 25 of 'janet.'",
+  "status": "verified"
+}

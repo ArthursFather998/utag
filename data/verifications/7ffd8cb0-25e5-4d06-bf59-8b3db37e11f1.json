@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:54.356427+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45257f6c-ebe5-45c3-a5a5-e4f2576c983c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ffd8cb0-25e5-4d06-bf59-8b3db37e11f1",
+  "input": "{\"title\": \"God Save the Queen\", \"track_number\": 28}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 28 of 'Live at Wembley '86'",
+  "status": "verified"
+}

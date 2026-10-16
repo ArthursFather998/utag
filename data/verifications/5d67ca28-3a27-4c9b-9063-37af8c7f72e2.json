@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:54:14.419794+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c82fbf2f-8c9c-4569-8370-962444df5f32",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d67ca28-3a27-4c9b-9063-37af8c7f72e2",
+  "input": "{\"title\": \"Something Wrong\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Something Wrong'",
+  "status": "verified"
+}

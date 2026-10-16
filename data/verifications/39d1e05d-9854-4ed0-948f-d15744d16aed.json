@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:21.305094+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f32e2d4c-8ffc-44ba-9ca6-8a58e5fb6d64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39d1e05d-9854-4ed0-948f-d15744d16aed",
+  "input": "{\"title\": \"Ponyboy\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Buds'",
+  "status": "verified"
+}

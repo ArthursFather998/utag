@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:17.70113+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "71d580b1-6a82-4f89-9fea-3119f38fe820",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a41c1c10-adc2-4b38-80b0-1f2d64681fa1",
+  "input": "{\"title\": \"Confessions (featuring Missy \\\"Misdemeanor\\\" Elliott)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Writing's on the Wall'",
+  "status": "verified"
+}

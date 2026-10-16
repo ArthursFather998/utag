@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:58:31.385809+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98b16b9b-590d-4569-8ca3-5834436f6d37",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f831503-87b2-4367-b913-571065c1fe56",
+  "input": "{\"title\": \"Drink You Away\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'The Reign'",
+  "status": "verified"
+}

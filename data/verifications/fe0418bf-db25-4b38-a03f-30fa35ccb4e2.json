@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:47.878256+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab4dc8c8-9449-4070-bc1b-8739e8feca5c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe0418bf-db25-4b38-a03f-30fa35ccb4e2",
+  "input": "{\"title\": \"Man of the World\", \"track_number\": 17}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 17 of 'The Collection'",
+  "status": "verified"
+}

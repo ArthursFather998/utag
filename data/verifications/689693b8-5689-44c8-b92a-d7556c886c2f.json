@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:52.180599+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b50890f0-ab94-49d1-a630-71d1897cfce9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "689693b8-5689-44c8-b92a-d7556c886c2f",
+  "input": "{\"title\": \"If I Knew\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Unorthodox Jukebox'",
+  "status": "verified"
+}

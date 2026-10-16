@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:45.297021+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ec085f3-6315-4b7b-a31e-3fb33bce43d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b7ee35b-1dc0-4bdd-ab93-9bd46a87e7ad",
+  "input": "{\"title\": \"Stay the Night\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Emancipation of Mimi (20th Anniversary Edition)'",
+  "status": "verified"
+}

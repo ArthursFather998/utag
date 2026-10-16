@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:45.620164+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "34295cfa-97f5-4338-b74c-21afe5d65322",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8ad6d38c-17b0-46b9-ac5f-5ad060c35da7",
+  "input": "{\"title\": \"IDK\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 15",
+  "status": "verified"
+}

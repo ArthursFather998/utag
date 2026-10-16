@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:44.399821+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "19473c9a-3164-4da2-9fa0-6dbc65537dba",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cf0f5d14-616d-4920-bec2-39e5dff401fc",
+  "input": "{\"title\": \"Spotlight\", \"release_type\": \"single\", \"release_year\": 2018}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

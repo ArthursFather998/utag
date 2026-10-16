@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:06.951166+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6c7276bf-549a-4c69-a919-1be06e469b98",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "552a59c1-6176-49b3-a91c-1dee0aa24931",
+  "input": "{\"title\": \"Monolith\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Hades'",
+  "status": "verified"
+}

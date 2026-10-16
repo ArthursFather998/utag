@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:48.625523+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "65dba778-237d-4dea-81bf-a0337ec0804f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "092fea56-538a-42a2-bf66-4d6a963acefe",
+  "input": "{\"title\": \"Well Traveled\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Unbreakable'",
+  "status": "verified"
+}

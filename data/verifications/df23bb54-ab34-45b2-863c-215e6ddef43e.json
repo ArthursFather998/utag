@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:53.302692+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "66ec6438-691b-4252-8b78-f36e14311f0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df23bb54-ab34-45b2-863c-215e6ddef43e",
+  "input": "{\"title\": \"The Rape\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Dream, After Dream'",
+  "status": "verified"
+}

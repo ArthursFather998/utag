@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:19:05.111007+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2e1d3c4-b037-4893-8d70-84d3e3a52d6c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b5ecea86-c68a-4485-b680-6f96a20f19c3",
+  "input": "{\"title\": \"Ice on Fire\", \"release_type\": \"album\", \"release_year\": 1985}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

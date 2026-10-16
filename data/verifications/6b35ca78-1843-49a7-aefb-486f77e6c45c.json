@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:33.2875+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e26d30c0-4b57-476e-b18f-64dea537a4f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b35ca78-1843-49a7-aefb-486f77e6c45c",
+  "input": "{\"title\": \"Love Is Dangerous\", \"track_number\": 32}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 32 of '25 Years – The Chain'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:27:17.863476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e0c0e2cf-7d27-454d-a059-8d2322e277ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c755cc34-371b-4fbb-a9dd-5362167a9127",
+  "input": "{\"title\": \"Higher Than the Sun\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Higher Than the Sun'",
+  "status": "verified"
+}

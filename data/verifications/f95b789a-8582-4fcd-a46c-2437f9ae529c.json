@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T10:00:06.974443+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ca0f570-6094-4fd1-84ab-448cca46d3e7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f95b789a-8582-4fcd-a46c-2437f9ae529c",
+  "input": "{\"title\": \"Let Me Live\", \"release_type\": \"single\", \"release_year\": 1996}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

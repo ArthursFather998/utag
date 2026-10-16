@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:05:57.518609+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8ab0dd89-684e-417b-aa22-fee9ba63db40",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "501c273c-90bf-4745-b9bd-ae842a3abc5d",
+  "input": "{\"title\": \"Never Going Back Again\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Mirage Tour '82'",
+  "status": "verified"
+}

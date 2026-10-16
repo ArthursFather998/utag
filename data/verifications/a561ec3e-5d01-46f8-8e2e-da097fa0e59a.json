@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:28.089565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "67b6ffb2-94cc-4d6a-9547-d6be6b2f4d74",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a561ec3e-5d01-46f8-8e2e-da097fa0e59a",
+  "input": "{\"title\": \"All Over Now\", \"release_type\": \"single\", \"release_year\": 2019}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Single: title track only, no '- Single' suffix.",
+  "status": "verified"
+}

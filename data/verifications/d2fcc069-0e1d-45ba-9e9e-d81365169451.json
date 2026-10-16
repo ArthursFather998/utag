@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:44.806772+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a7dda1e-27f7-43fe-b8a1-11f0579c1316",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2fcc069-0e1d-45ba-9e9e-d81365169451",
+  "input": "{\"title\": \"Good Good\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Good Good'",
+  "status": "verified"
+}

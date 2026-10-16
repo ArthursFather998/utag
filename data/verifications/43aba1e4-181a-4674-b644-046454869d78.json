@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:42:55.498878+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f5a4dc33-7afb-4b18-afee-1f333becd6ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43aba1e4-181a-4674-b644-046454869d78",
+  "input": "{\"title\": \"Small Town Small\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Macon'",
+  "status": "verified"
+}

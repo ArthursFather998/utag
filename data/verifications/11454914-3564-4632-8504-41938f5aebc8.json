@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:40:34.424562+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "048be403-65a8-49a8-a1ec-bd7bf39d24a5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "11454914-3564-4632-8504-41938f5aebc8",
+  "input": "{\"title\": \"Cinema\", \"release_type\": \"album\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Discogs vinyl lists track 2 as 'Call U Back'; streaming/Fandom/Wikipedia use 'Calling U Back' (official single title). Used 'Calling U Back'. [release_date: 2021-06-25]",
+  "status": "verified"
+}

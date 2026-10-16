@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:36.412721+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "450c1a68-0ec6-4049-9d5d-763dfe23845a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ddf2437-b384-4367-891b-952c002fa28e",
+  "input": "{\"title\": \"Happy Meal I\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Rest of the Best - Vol. 1'",
+  "status": "verified"
+}

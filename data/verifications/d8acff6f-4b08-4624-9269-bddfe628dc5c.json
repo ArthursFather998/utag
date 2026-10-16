@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:46:51.092637+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6183c64-4c23-48be-a84e-6f2111fc24b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8acff6f-4b08-4624-9269-bddfe628dc5c",
+  "input": "{\"title\": \"My World\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Avenoir'",
+  "status": "verified"
+}

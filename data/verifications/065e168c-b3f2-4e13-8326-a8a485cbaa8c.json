@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:02.527054+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "aefb2d23-9965-4795-baee-29d04e8f18a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "065e168c-b3f2-4e13-8326-a8a485cbaa8c",
+  "input": "{\"title\": \"matter (love)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'i wish i was pretty'",
+  "status": "verified"
+}

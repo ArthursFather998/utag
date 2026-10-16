@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:30.20617+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "353dfd7b-0d08-4a6c-bf85-5c298ed5d983",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "65485618-ec0b-42b6-aef4-a8b5d9f37548",
+  "input": "{\"title\": \"Christmas Eve in My Home Town\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'A Very Merry Christmas: The Complete Epic Christmas Collection'",
+  "status": "verified"
+}

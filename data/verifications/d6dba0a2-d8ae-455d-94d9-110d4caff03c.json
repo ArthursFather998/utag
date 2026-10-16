@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:04.982814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cf943c0b-0529-4067-a577-fd131c14f811",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6dba0a2-d8ae-455d-94d9-110d4caff03c",
+  "input": "{\"title\": \"Need Dat Boy\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Need Dat Boy'",
+  "status": "verified"
+}

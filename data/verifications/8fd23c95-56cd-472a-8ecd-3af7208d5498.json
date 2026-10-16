@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:30.253082+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "483328c4-674d-4a0d-b6b2-9f4b2cbb8673",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8fd23c95-56cd-472a-8ecd-3af7208d5498",
+  "input": "{\"title\": \"The Final Blow\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Escape the Fate (Deluxe Version)'",
+  "status": "verified"
+}

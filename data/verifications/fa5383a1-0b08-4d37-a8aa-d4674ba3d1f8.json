@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:45:06.188209+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ca72272a-ec47-4196-86d7-73bcd4d90da5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa5383a1-0b08-4d37-a8aa-d4674ba3d1f8",
+  "input": "{\"title\": \"Fire Escape\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Fire Escape'",
+  "status": "verified"
+}

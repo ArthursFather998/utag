@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T10:00:04.428069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6dd6c0f8-3bf0-44ea-880a-954bef82fb6c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f603a2a5-30de-4883-8598-6fedcf8b73be",
+  "input": "{\"title\": \"Too Much Love Will Kill You\", \"release_type\": \"single\", \"release_year\": 1995}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

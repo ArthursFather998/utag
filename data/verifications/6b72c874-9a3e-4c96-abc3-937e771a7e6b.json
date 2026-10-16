@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:32.13345+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fb580e8f-b839-4e83-80d9-1443787f939e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b72c874-9a3e-4c96-abc3-937e771a7e6b",
+  "input": "{\"title\": \"Euphoria\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

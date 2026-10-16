@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:15.954411+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": {
+    "applied": true,
+    "changes": [
+      "confidence->high_confidence"
+    ],
+    "verdict": "correct"
+  },
+  "entity_id": "bc8775a2-2ae3-43f5-b79e-eeacd42e8c9f",
+  "entity_type": "track",
+  "field_confidence": {
+    "overall": "high"
+  },
+  "id": "95050b67-3ec2-4c1b-accb-ca198377457c",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "17",
+    "title": "Jocelyn Flores"
+  },
+  "model": null,
+  "overall_confidence": "verified",
+  "rationale": "Track 2 on '17' (2017) per Wikipedia and Hypebeast tracklists. | sources: https://en.wikipedia.org/wiki/17_(XXXTentacion_album), https://hypebeast.com/2017/8/xxxtentacion-tracklist-17",
+  "status": "verified"
+}

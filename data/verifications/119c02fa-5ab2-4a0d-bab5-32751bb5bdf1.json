@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:21:33.88263+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82db6b3d-fd41-4db7-9fc4-8c2da52eb7cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "119c02fa-5ab2-4a0d-bab5-32751bb5bdf1",
+  "input": "{\"title\": \"A Bad Dream (The O2 2007)\", \"track_number\": 38}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 38 of 'Under the Iron Sea (20th Anniversary Deluxe Edition)'",
+  "status": "verified"
+}

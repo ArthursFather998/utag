@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:59.986217+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3e1b9a91-af83-4304-83c1-1dc5b6b04e1e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3775c2ec-9453-48e8-a89c-f4b1e176f9ed",
+  "input": "{\"title\": \"Price of Fame\", \"release_type\": \"single\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 05 research",
+  "status": "verified"
+}

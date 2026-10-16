@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:52:11.144781+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "10be30a4-4f4a-4348-b85d-87a790e1b2b9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "846557c3-d140-4be8-9b30-6a38519df14e",
+  "input": "{\"title\": \"What's Ur Name\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Discipline'",
+  "status": "verified"
+}

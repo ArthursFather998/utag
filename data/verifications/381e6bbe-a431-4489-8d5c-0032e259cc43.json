@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:13.407862+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "933cc097-4120-4762-b758-c0467444271a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "381e6bbe-a431-4489-8d5c-0032e259cc43",
+  "input": "{\"title\": \"Time to Dance (Live in Denver)\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live in Denver'",
+  "status": "verified"
+}

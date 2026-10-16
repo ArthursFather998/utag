@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:38:24.930557+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c2932778-9892-49cc-9dfb-54fb68733498",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ee56195a-b5f4-4da5-ba7c-f48f048d2f41",
+  "input": "{\"title\": \"Just a Little Bit\", \"release_type\": \"single\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

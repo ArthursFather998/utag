@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:20:10.281286+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eb1e38c5-fc20-4552-8794-fd9030defde9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56a77f48-f99d-45e6-842d-f70c9ed0cb8c",
+  "input": "{\"title\": \"Summer Love\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Take Me Home'",
+  "status": "verified"
+}

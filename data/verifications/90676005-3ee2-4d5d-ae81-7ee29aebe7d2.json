@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:23:42.840381+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "710da8af-c493-48fb-93c1-95c01ac7ae46",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90676005-3ee2-4d5d-ae81-7ee29aebe7d2",
+  "input": "{\"title\": \"New Guy (skit)\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'F*CK LOVE'",
+  "status": "verified"
+}

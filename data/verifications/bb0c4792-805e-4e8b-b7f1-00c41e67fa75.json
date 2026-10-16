@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:25.277905+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d20c928c-6892-4fcb-a0a9-0c2687498513",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb0c4792-805e-4e8b-b7f1-00c41e67fa75",
+  "input": "{\"title\": \"Big Dummy!\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Big Dummy!'",
+  "status": "verified"
+}

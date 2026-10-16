@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:04.782555+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3990089e-fb8c-4433-b7ef-c0a01c969640",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03570611-bf7f-4e8d-9938-be9eb35812d1",
+  "input": "{\"title\": \"Salvation\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'London 2012: Live at The Hammersmith Apollo'",
+  "status": "verified"
+}

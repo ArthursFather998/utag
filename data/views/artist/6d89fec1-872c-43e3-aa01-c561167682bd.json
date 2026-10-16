@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Nirvana",
+    "confidence": "unknown",
+    "created_at": "2026-10-16T18:00:29.467379+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "6d89fec1-872c-43e3-aa01-c561167682bd",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-16T18:00:29.467379+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Nirvana",
+        "id": "6d89fec1-872c-43e3-aa01-c561167682bd"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:29.581957+00:00",
+      "edition": "original",
+      "id": "5f270aab-c91d-440c-a28a-e0943ef67283",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "1994-02-22: Palaghiaccio di Marino, Rome, Italy"
+    }
+  ],
+  "verifications": []
+}

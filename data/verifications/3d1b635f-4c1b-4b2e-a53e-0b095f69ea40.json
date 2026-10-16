@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:04:03.743531+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a63bb60-9714-4ee1-842e-51f7e19b41ce",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3d1b635f-4c1b-4b2e-a53e-0b095f69ea40",
+  "input": "{\"title\": \"Escapade\", \"release_type\": \"single\", \"release_year\": 1990}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

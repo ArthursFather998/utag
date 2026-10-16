@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:51.397704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3b3f5505-e346-4d76-8c95-fb4706ca7bf8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "28dcaa22-afc5-45ad-b606-9e5d1b4032a8",
+  "input": "{\"title\": \"Goodnight My Love\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'The Fleetwoods Sing for Lovers by Night'",
+  "status": "verified"
+}

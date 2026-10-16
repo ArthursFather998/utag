@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:25.832799+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e06fe14-4878-4c04-97f3-8797c5fa8935",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b5795d01-fe10-4cc1-b9fd-9d9509b71568",
+  "input": "{\"title\": \"Nice & Slow\", \"release_type\": \"single\", \"release_year\": 1998}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

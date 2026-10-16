@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:00:26.12405+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c890a34c-8d3e-47c7-b353-c088fe85c4d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9b62d81-cbab-4556-8b42-fd4b36050f3a",
+  "input": "{\"title\": \"Pain\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'One-X (20th Anniversary Edition)'",
+  "status": "verified"
+}

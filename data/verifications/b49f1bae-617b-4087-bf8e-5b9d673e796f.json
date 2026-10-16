@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:09.739923+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "58b387bb-9521-4129-bda8-9c5753060d65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b49f1bae-617b-4087-bf8e-5b9d673e796f",
+  "input": "{\"title\": \"Billboard\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Melly vs. Melvin'",
+  "status": "verified"
+}

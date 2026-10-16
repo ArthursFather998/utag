@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:48.825834+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "45d68357-9474-4864-a0b0-a32e5b9e7b00",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b10fb493-186e-40ae-b9b0-b77e83e5756b",
+  "input": "{\"title\": \"Under Pressure\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Absolute Greatest'",
+  "status": "verified"
+}

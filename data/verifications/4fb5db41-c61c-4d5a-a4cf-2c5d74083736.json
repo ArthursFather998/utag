@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:05:48.802212+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2b2f5199-0a90-400e-92ee-fe86d17c2eff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4fb5db41-c61c-4d5a-a4cf-2c5d74083736",
+  "input": "{\"title\": \"Pistol\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Pistol'",
+  "status": "verified"
+}

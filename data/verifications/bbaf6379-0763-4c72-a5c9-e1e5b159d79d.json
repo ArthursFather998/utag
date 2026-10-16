@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:30.395446+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b070b838-c0af-465d-a1f0-d6dc30ab4e23",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbaf6379-0763-4c72-a5c9-e1e5b159d79d",
+  "input": "{\"title\": \"Just Like You\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Three Days Grace (Expanded Edition)'",
+  "status": "verified"
+}

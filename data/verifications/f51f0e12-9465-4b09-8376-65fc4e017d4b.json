@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:31:01.661814+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8146102-cba2-47ab-b796-0fc30d72bce2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f51f0e12-9465-4b09-8376-65fc4e017d4b",
+  "input": "{\"title\": \"Dientes\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Dientes'",
+  "status": "verified"
+}

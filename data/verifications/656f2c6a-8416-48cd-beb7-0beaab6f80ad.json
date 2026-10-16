@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:20.697915+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fd6a0468-d057-4331-a7ea-04a4cf239193",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "656f2c6a-8416-48cd-beb7-0beaab6f80ad",
+  "input": "{\"title\": \"4 Me\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Love Sick'",
+  "status": "verified"
+}

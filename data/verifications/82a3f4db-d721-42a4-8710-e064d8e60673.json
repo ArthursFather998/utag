@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:03:55.891366+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4022c70e-284c-4dac-b194-ed9c07624751",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82a3f4db-d721-42a4-8710-e064d8e60673",
+  "input": "{\"title\": \"D\\u00e9j\\u00e0 Vu\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Last Goodbye'",
+  "status": "verified"
+}

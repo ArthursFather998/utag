@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:56:59.820422+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7d748485-2943-40d4-b99b-83313d34a266",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c5ca3b3-d160-426c-949e-084a453417f2",
+  "input": "{\"title\": \"We Won't Back Down\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'This War Is Ours (Deluxe Edition)'",
+  "status": "verified"
+}

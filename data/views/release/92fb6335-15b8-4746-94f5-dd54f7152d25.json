@@ -1,0 +1,907 @@
+{
+  "artists": {
+    "canonical_name": "Three Days Grace",
+    "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:00:11.787956+00:00",
+      "edition": "original",
+      "id": "00fb4402-4331-4e1c-b5b4-394c63415ad1",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "One-X (20th Anniversary Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:01:39.049927+00:00",
+      "edition": "original",
+      "id": "0362823c-def9-4943-843d-8c71ee6ab508",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2008,
+      "title": "One-X / Live at the Palace"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:44:27.309031+00:00",
+      "edition": "original",
+      "id": "09e936eb-f14b-4733-9e50-2fc1aac88090",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "Transit of Venus"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:06:57.050434+00:00",
+      "edition": "original",
+      "id": "172915da-a891-4abb-b657-f2112b60ca9a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Don't Wanna Go Home Tonight"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:05:36.832719+00:00",
+      "edition": "original",
+      "id": "22b942a0-b703-4082-b3bd-793dbda4654e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "Right Left Wrong"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:02:28.098969+00:00",
+      "edition": "original",
+      "id": "2594a730-182d-48e8-a179-4687531b6ec0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2003,
+      "title": "I Hate Everything About You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:05:26.675285+00:00",
+      "edition": "original",
+      "id": "29e7d571-a963-4805-a751-19ab20275103",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "Infra-Red"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:05:07.654519+00:00",
+      "edition": "original",
+      "id": "36142dd7-e248-48e1-996e-fc452ce5d3de",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2015,
+      "title": "Fallen Angel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [
+        {
+          "id": "d040afa8-99c4-4942-b93c-f8c727bee320",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/cf/b4/5f/mzi.vgwnjneb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:34.014881+00:00",
+      "edition": "original",
+      "id": "3cb05b02-eaa2-4501-9f5c-1f0e04cdf536",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "One-X (Deluxe Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:05:56.292461+00:00",
+      "edition": "original",
+      "id": "44c0f166-2bbc-48e0-8857-1a56027c0f24",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "So Called Life"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:07:05.160568+00:00",
+      "edition": "original",
+      "id": "450e3dfb-2057-4cd2-9383-3326ab276d39",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Dominate"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:44:08.739788+00:00",
+      "edition": "original",
+      "id": "4a9447b1-caa9-4ffb-b7e5-fd4112ba9574",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2009,
+      "title": "Life Starts Now"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:56:52.798234+00:00",
+      "edition": "original",
+      "id": "510a736b-2b6f-465e-923a-a6be59f85824",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "Lost in You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:06:19.506412+00:00",
+      "edition": "original",
+      "id": "549a0a69-59a6-4ffc-8d5b-20227944ee40",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "I Am the Weapon"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:58:57.854789+00:00",
+      "edition": "original",
+      "id": "58b77c76-2fb7-4b5f-82f1-18f4093fe469",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "Human (Deluxe Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:52:11.282312+00:00",
+      "edition": "original",
+      "id": "63acb685-f078-42c0-a6ba-b229baec7a89",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Alienation"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:04:17.305958+00:00",
+      "edition": "original",
+      "id": "6eed6f3b-4930-4a7a-b8f1-d77ae48cf9fa",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2013,
+      "title": "The High Road"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:43:45.837538+00:00",
+      "edition": "original",
+      "id": "74e2cf81-e961-442e-a9e5-bbbb4b9ce399",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "One-X"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [
+        {
+          "id": "56c6b202-4ef8-469c-962b-4c97b2bf9f86",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/a7c5da69-a4c3-4627-99d7-075fa4132c25/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:00.239683+00:00",
+      "edition": "original",
+      "id": "76d49b81-ec15-4624-bb1d-957eb1e6f0cc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2003,
+      "title": "Rolling Stone Original"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:04:40.771979+00:00",
+      "edition": "original",
+      "id": "7eac7074-8d7a-44e6-8058-4a22626b80d6",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "Painkiller"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:43:24.047716+00:00",
+      "edition": "original",
+      "id": "88c26b8f-b6e6-4dfa-882a-180c6bb09d4d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2003,
+      "title": "Three Days Grace"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:06:10.834954+00:00",
+      "edition": "original",
+      "id": "894067a6-21ba-4f38-9809-97a2fde1513a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Lifetime"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:06:47.072234+00:00",
+      "edition": "original",
+      "id": "8b7d3e64-c687-4bfb-b01e-157c2f800182",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "Kill Me Fast"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:03:53.938943+00:00",
+      "edition": "original",
+      "id": "90d34879-4085-4185-99cf-6784937bf34c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2010,
+      "title": "World So Cold"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:03:12.182407+00:00",
+      "edition": "original",
+      "id": "90e1961c-6f47-4bb0-a537-43bf4f4b2fce",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2006,
+      "title": "Animal I Have Become"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:03:33.867822+00:00",
+      "edition": "original",
+      "id": "920a4663-000f-453d-83d4-3c370e6cad94",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2009,
+      "title": "Break"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:02:38.221305+00:00",
+      "edition": "original",
+      "id": "98dca857-8b9d-46a6-b266-648bc606225b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2004,
+      "title": "Just Like You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:07:36.899439+00:00",
+      "edition": "original",
+      "id": "98eaffa6-649f-489b-b4eb-84683c4a161e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Neurotic"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:05:17.850204+00:00",
+      "edition": "original",
+      "id": "9d2134f5-cebc-47d7-805b-c0cb51ac7ef4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "The Mountain"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:03:02.104345+00:00",
+      "edition": "original",
+      "id": "9fc132f3-649e-4e14-a930-4a0f3c68687e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2005,
+      "title": "Wake Up"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:48:08.40991+00:00",
+      "edition": "original",
+      "id": "a4398d20-4df5-4341-9636-8449fbdc5ddd",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Explosions"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:05:47.237711+00:00",
+      "edition": "original",
+      "id": "ab38d1a7-0a3e-4503-929c-ae05c06d8f91",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2020,
+      "title": "Somebody That I Used to Know"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:47:37.175639+00:00",
+      "edition": "original",
+      "id": "bbc181d0-f3de-4378-abed-1bce5398c6d3",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "Outsider"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [
+        {
+          "id": "e78269f3-085c-47e0-bcad-385e137f66c0",
+          "role": "canonical",
+          "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:06:06.190727+00:00",
+      "edition": "original",
+      "id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+      "label": "Jive / Zomba",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2008,
+      "title": "One-X / Live at the Palace 2008"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:56:20.45662+00:00",
+      "edition": "original",
+      "id": "bc8cd179-0e56-4215-a12d-fc08b95d3272",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2008,
+      "title": "Never Too Late"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:57:21.387846+00:00",
+      "edition": "original",
+      "id": "be2582ac-a4dd-4dc3-8a75-361b04867c2c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2003,
+      "title": "Three Days Grace (Expanded Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:02:52.722589+00:00",
+      "edition": "original",
+      "id": "c6605c0d-d4f1-4c26-a696-05c4e0832e04",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2004,
+      "title": "Home"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:06:38.097685+00:00",
+      "edition": "original",
+      "id": "c74fb400-9d69-4d31-ac35-84ae30516d54",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "Apologies"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:04:05.961382+00:00",
+      "edition": "original",
+      "id": "c9a53b08-b028-4f92-94fb-8293a47f4ca6",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Chalk Outline"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:47:12.419476+00:00",
+      "edition": "original",
+      "id": "cecd5ec5-a582-4b36-b717-73e645ecdd06",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "Human"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T07:55:17.875732+00:00",
+      "edition": "original",
+      "id": "d10f4449-0532-44bf-952a-a7e9b58485f8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "Pain"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:03:44.997618+00:00",
+      "edition": "original",
+      "id": "d83008fa-2e5a-463d-be05-65d5bfe97b36",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2010,
+      "title": "The Good Life"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:04:58.917414+00:00",
+      "edition": "original",
+      "id": "d8d16cb3-8796-490c-862c-fcebe9621301",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2015,
+      "title": "Human Race"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:04:49.846847+00:00",
+      "edition": "original",
+      "id": "da36e478-a8ce-423b-89cb-dda06a154c59",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "I Am Machine"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:06:29.478855+00:00",
+      "edition": "original",
+      "id": "e2803ac4-81cd-43fe-b949-82294ff1df93",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Mayday"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:07:26.261073+00:00",
+      "edition": "original",
+      "id": "e81fb498-55ba-43db-b1e9-074d48480d6c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "I Am an Outsider"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:04:28.22972+00:00",
+      "edition": "original",
+      "id": "eb297451-6916-4b63-b567-f32b39f90f94",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2013,
+      "title": "Misery Loves My Company"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:07:16.063415+00:00",
+      "edition": "original",
+      "id": "f335615c-c776-48e6-9b4f-b8584306ecfc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2016,
+      "title": "You Don't Get Me High Anymore"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T08:03:26.279512+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "92fb6335-15b8-4746-94f5-dd54f7152d25",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2007,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "Riot",
+    "updated_at": "2026-10-16T08:03:26.279512+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T08:03:29.219336+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9eea8939-47a3-442e-86a6-bb7b5613d082",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "92fb6335-15b8-4746-94f5-dd54f7152d25",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Riot",
+      "track_number": 1,
+      "updated_at": "2026-10-16T08:03:29.219336+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T08:03:27.75373+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "92fb6335-15b8-4746-94f5-dd54f7152d25",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "bfbc9d8d-0509-45a6-b286-7d09e52fa8a0",
+      "input": "{\"title\": \"Riot\", \"release_type\": \"single\", \"release_year\": 2007}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 05 research",
+      "status": "verified"
+    }
+  ]
+}

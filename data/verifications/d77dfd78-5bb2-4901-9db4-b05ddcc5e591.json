@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:37.339605+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "171a3099-a97d-45bf-89ae-d44ff7c7ff9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d77dfd78-5bb2-4901-9db4-b05ddcc5e591",
+  "input": "{\"title\": \"Ken Kaniff (skit)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'The Marshall Mathers LP (25th Anniversary Edition)'",
+  "status": "verified"
+}

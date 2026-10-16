@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:54:25.565565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cb293b7f-20c8-45d0-ab59-8392d2f8cf4d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2729952-ec3b-4d85-8210-41ba4115483b",
+  "input": "{\"title\": \"Long Away\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Queen Forever'",
+  "status": "verified"
+}

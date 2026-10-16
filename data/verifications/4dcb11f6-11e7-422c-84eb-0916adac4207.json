@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:43:58.143621+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f72aac33-9792-42b6-a5e6-22bb8f45d0f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dcb11f6-11e7-422c-84eb-0916adac4207",
+  "input": "{\"title\": \"Rupture\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Something Else'",
+  "status": "verified"
+}

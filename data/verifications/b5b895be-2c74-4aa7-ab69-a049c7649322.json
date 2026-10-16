@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:54:49.658312+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c10a8041-6683-4c00-98a1-e373f3574f1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5b895be-2c74-4aa7-ab69-a049c7649322",
+  "input": "{\"title\": \"Bidi Bidi Bom Bom\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Lo Mejor de...Selena'",
+  "status": "verified"
+}

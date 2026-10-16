@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:46.282711+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1fab480c-ef10-4f99-b226-f7dc9776202a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "813dc433-aa6e-4598-8ee7-0cc027b7025e",
+  "input": "{\"title\": \"Butterfly: 25th Anniversary Expanded Edition\", \"release_type\": \"album\", \"release_year\": 2022}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

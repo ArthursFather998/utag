@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:05.011545+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "23f20799-6653-47c3-a027-7d1122c5079a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36e9057c-d833-48c6-935c-b66bc54898a9",
+  "input": "{\"title\": \"Bye, Bye Blackbird\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Fleetwoods: Gretchen, Gary and Barbara'",
+  "status": "verified"
+}

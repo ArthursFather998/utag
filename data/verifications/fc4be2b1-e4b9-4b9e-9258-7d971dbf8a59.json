@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:33.080914+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af7f7261-5097-4147-a729-71f21070b12e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc4be2b1-e4b9-4b9e-9258-7d971dbf8a59",
+  "input": "{\"title\": \"I'll Be There\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Greatest Hits'",
+  "status": "verified"
+}

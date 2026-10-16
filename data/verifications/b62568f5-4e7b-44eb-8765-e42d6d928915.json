@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:32:00.853148+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ff21a9e3-7eeb-44b9-9f23-c2af95d2bea7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b62568f5-4e7b-44eb-8765-e42d6d928915",
+  "input": "{\"title\": \"Blackberry Sap\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'D-Day: A Gangsta Grillz Mixtape'",
+  "status": "verified"
+}

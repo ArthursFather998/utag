@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:46:35.886047+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0eca1896-004e-4c82-94e9-266aa7f36f82",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c8b0a11e-60ba-4b63-9a7b-5d2b8a317ccc",
+  "input": "{\"title\": \"Break It Off (with Sean Paul)\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'A Girl Like Me (Deluxe Edition)'",
+  "status": "verified"
+}

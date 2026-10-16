@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:09.032483+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "df0b536a-d847-433c-9b83-607617a39a64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "997e0c8c-67a9-47a5-ac78-2d006d970979",
+  "input": "{\"title\": \"Breathe No More\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Fallen (20th Anniversary Edition)'",
+  "status": "verified"
+}

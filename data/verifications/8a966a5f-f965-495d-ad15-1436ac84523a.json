@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:44.676627+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d80a7eeb-505f-44a5-b65e-14ac23467c1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a966a5f-f965-495d-ad15-1436ac84523a",
+  "input": "{\"title\": \"Something Inside of Me [Take 2]\", \"track_number\": 95}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 95 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

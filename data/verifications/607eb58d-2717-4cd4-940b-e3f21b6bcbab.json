@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:14.112788+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "89c1a632-aabc-4bc2-9b93-3f8d34c4ba97",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "607eb58d-2717-4cd4-940b-e3f21b6bcbab",
+  "input": "{\"title\": \"20 Dollar Nose Bleed\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Folie à Deux'",
+  "status": "verified"
+}

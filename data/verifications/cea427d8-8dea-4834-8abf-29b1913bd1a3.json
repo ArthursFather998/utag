@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:07:55.876812+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5e505da-5e19-4672-b720-3829ed43043d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cea427d8-8dea-4834-8abf-29b1913bd1a3",
+  "input": "{\"title\": \"Tough Luck\", \"track_number\": 21}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 21 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:30.142538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9ed07fd5-b3ee-4f48-b21c-2219df432696",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76c7932e-14c2-4cdf-a081-02965b7e6d1b",
+  "input": "{\"title\": \"Take This Dirty Water\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Diving Board'",
+  "status": "verified"
+}

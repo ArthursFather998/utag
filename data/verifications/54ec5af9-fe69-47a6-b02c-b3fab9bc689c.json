@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:44:16.696936+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "934d3dfa-b819-4bd8-add6-dfa4f20c19f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54ec5af9-fe69-47a6-b02c-b3fab9bc689c",
+  "input": "{\"title\": \"Dragon Attack\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Queen Rock Montreal'",
+  "status": "verified"
+}

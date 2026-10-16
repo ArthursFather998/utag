@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:39:40.82914+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "53e67e8e-c6f5-4248-ace0-4569c1babc74",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e7a36a29-48ec-4d4b-87d0-b0dd39415039",
+  "input": "{\"title\": \"Rock the Boat\", \"release_type\": \"single\", \"release_year\": 2002}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: ",
+  "status": "verified"
+}

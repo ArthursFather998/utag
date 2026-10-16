@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:09.487622+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "541e017f-f25f-4843-9279-3884dd65dff5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7aa44571-1142-4dcc-ba17-75e3bacb8bcf",
+  "input": "{\"title\": \"After School\", \"release_type\": \"album\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

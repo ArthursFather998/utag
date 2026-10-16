@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:36.214106+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fe34c8be-d4fe-404a-8d12-70bc784f7864",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "18afe0dc-994b-423e-b0a1-8dd9c8e048c8",
+  "input": "{\"title\": \"Live\", \"release_type\": \"album\", \"release_year\": 1980}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:36.813641+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d54c5960-78d5-4c4f-94ee-42001c1348a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9880f78-e393-4eeb-beb9-5d33dddcf5fc",
+  "input": "{\"title\": \"Feel Like Makin' Love\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Stone Cold Classics'",
+  "status": "verified"
+}

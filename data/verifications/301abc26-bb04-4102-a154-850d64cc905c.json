@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:04:35.780103+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "344eda4a-3208-480a-bf7e-ec8fbcff30a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "301abc26-bb04-4102-a154-850d64cc905c",
+  "input": "{\"title\": \"Sabotage\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'A Matter of Time'",
+  "status": "verified"
+}

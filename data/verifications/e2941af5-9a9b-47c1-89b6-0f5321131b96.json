@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:36.811579+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "071c7e91-6b89-4277-b382-dda414fc02aa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e2941af5-9a9b-47c1-89b6-0f5321131b96",
+  "input": "{\"title\": \"Christmas in My Home Town\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Great Songs of Christmas'",
+  "status": "verified"
+}

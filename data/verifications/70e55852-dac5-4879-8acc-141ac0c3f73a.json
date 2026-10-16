@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:17.016135+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5b205113-7ee4-4afc-9559-ad33057afd29",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "70e55852-dac5-4879-8acc-141ac0c3f73a",
+  "input": "{\"title\": \"Russian Roulette\", \"track_number\": 44}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 44 of 'Coffret 4 CD'",
+  "status": "verified"
+}

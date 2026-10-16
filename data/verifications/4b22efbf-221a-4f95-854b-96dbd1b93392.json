@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:03.805022+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e9a15b63-0b25-4660-a055-2b2781ae11ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b22efbf-221a-4f95-854b-96dbd1b93392",
+  "input": "{\"title\": \"Speed Demon\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Swag II'",
+  "status": "verified"
+}

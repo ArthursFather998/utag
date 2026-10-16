@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:54.194066+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "248f7c97-7bdf-4367-be3a-c5578321cb8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "839d039a-8cc3-4694-b18d-672100d4a57f",
+  "input": "{\"title\": \"The View from the Afternoon\", \"track_number\": 19}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 19 of 'Live at the Royal Albert Hall'",
+  "status": "verified"
+}

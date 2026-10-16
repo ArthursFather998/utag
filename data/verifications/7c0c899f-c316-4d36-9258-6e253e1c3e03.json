@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:23:52.823624+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f3a523a1-71a8-414d-99f0-90de9e3f5989",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c0c899f-c316-4d36-9258-6e253e1c3e03",
+  "input": "{\"title\": \"Looking Up\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Wonderful Crazy Night'",
+  "status": "verified"
+}

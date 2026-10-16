@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:07:40.683649+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5748b4fa-5ea9-452d-b5a3-ad91b81537dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84a947dc-2fc8-4f73-8504-e99fffba6fb4",
+  "input": "{\"title\": \"What Would Pluto Do\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'For All the Dogs'",
+  "status": "verified"
+}

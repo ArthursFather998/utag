@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:12:29.410941+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b413a5ea-cdde-40f6-bf8c-e1f400fd3dda",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "decdd1e6-ccf8-41e0-ab7b-24546188a2d1",
+  "input": "{\"title\": \"The Zone\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

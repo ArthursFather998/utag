@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:59:56.492345+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "37a15ef3-9250-47ac-a3c1-30e43f64c3db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b58e299-eb26-48c6-b157-b78493da6a21",
+  "input": "{\"title\": \"The Show Must Go On\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Show Must Go On'",
+  "status": "verified"
+}

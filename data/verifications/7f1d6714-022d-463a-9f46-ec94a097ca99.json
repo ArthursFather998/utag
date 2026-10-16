@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:36.827762+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "160674ca-9be2-45d0-9400-ee791a356007",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f1d6714-022d-463a-9f46-ec94a097ca99",
+  "input": "{\"title\": \"Skies the Limit\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Behind the Mask'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:24:10.170704+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7e49f804-611c-43b5-8736-cdf9b5305e35",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "31fc25e9-358c-4f0f-9928-95562566e149",
+  "input": "{\"title\": \"Stay Tuned\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Evolution of a Man'",
+  "status": "verified"
+}

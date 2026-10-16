@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:35:38.398702+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0058e8d-b246-4f78-80fa-43470983e9c2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ba7c5699-a32d-4761-b264-0309070ed144",
+  "input": "{\"title\": \"Panic! at the Disco Video Catalog\", \"release_type\": \"album\", \"release_year\": 2011}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 07 research",
+  "status": "verified"
+}

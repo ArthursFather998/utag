@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:52.154088+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "351f0dbb-2b1a-4cb2-9107-887ff3af507d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "99a8db19-a4c4-4a61-8f76-1cee4ed6ddd7",
+  "input": "{\"title\": \"Over and Over\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Vinton Sings Vinton'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:34.657857+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e3a74ff-f077-42d7-9075-26f704db19c8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c24c2923-810d-4755-9203-8e8ba01c1852",
+  "input": "{\"title\": \"Already Dead\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

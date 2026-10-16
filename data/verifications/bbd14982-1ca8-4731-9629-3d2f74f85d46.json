@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:34:38.457679+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "78cc3fd1-fbec-4422-ab46-bf700e308009",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbd14982-1ca8-4731-9629-3d2f74f85d46",
+  "input": "{\"title\": \"Everything\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Genesis (Deluxe)'",
+  "status": "verified"
+}

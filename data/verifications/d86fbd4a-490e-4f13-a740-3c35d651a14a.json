@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:50.537682+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2df9e0a0-0217-4f0f-a8cc-d90e9235947c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d86fbd4a-490e-4f13-a740-3c35d651a14a",
+  "input": "{\"title\": \"How I Learned to Love the Bomb\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'I Love You So F***ing Much'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:58.813888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "267f7624-f53d-49c8-8e82-bf5595baaeac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dccc5d4-23fa-48d3-aef6-23c60b205ad8",
+  "input": "{\"title\": \"Digging My Own Grave\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'I Am Human'",
+  "status": "verified"
+}

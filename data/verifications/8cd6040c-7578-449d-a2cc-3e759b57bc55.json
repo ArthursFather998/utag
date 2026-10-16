@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:13.155035+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0ba5e4fa-b0f8-4f4d-9ee6-7251618b0990",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8cd6040c-7578-449d-a2cc-3e759b57bc55",
+  "input": "{\"title\": \"Don't Stop\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Live'",
+  "status": "verified"
+}

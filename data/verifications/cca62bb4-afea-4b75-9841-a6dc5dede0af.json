@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:49:33.413822+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "02c8f98d-b8e3-47c5-8f57-47e5b06a00e0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cca62bb4-afea-4b75-9841-a6dc5dede0af",
+  "input": "{\"title\": \"La Trenza (Deluxe)\", \"release_type\": \"album\", \"release_year\": 2017}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:07.820924+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "de8d36f7-6a5b-44af-b5b9-fc2a41504f86",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ed48dd3-1b83-4e80-b905-23aa0b0c0de6",
+  "input": "{\"title\": \"Long Grey Mare\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Complete Blue Horizon Sessions 1967–1969'",
+  "status": "verified"
+}

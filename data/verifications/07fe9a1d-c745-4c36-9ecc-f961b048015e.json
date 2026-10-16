@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:48:12.076959+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b843b7c1-36da-4dcc-84ad-5014333b2e11",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "07fe9a1d-c745-4c36-9ecc-f961b048015e",
+  "input": "{\"title\": \"Love Sick\", \"release_type\": \"album\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

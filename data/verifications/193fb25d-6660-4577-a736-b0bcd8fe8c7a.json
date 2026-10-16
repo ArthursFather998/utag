@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:58:22.955032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "713fc788-161f-4ac3-bf47-7ee94f24fa71",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "193fb25d-6660-4577-a736-b0bcd8fe8c7a",
+  "input": "{\"title\": \"Waves\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Waves'",
+  "status": "verified"
+}

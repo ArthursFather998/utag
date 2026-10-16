@@ -1,0 +1,128 @@
+{
+  "artists": {
+    "canonical_name": "Corey Hommel",
+    "id": "2630ac53-a271-479c-8602-73610066bd5c"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "Corey Hommel",
+        "id": "2630ac53-a271-479c-8602-73610066bd5c"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:30:30.28332+00:00",
+      "edition": "original",
+      "id": "969f6cbf-b4fa-429e-ab1f-3dbb68bd9179",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "Back Where We Started (feat. Cara Harbinger)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Corey Hommel",
+        "id": "2630ac53-a271-479c-8602-73610066bd5c"
+      },
+      "artwork": [],
+      "confidence": "unknown",
+      "created_at": "2026-10-16T08:30:21.638778+00:00",
+      "edition": "original",
+      "id": "97732784-c466-4f9d-bf85-fb5dedee09b9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2019,
+      "title": "When I'm With You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Corey Hommel",
+        "id": "2630ac53-a271-479c-8602-73610066bd5c"
+      },
+      "artwork": [
+        {
+          "id": "ebbb05b1-370b-4903-ac37-1f346e110646",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/d3/13/9dd313ea-6ede-00c2-43df-b05e2b750eef/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:25.457812+00:00",
+      "edition": "original",
+      "id": "f128d55d-e147-48d6-8d49-3e1d6ddf4cf7",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2017,
+      "title": "Tired of Loving You"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "2630ac53-a271-479c-8602-73610066bd5c",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "unknown",
+    "country": null,
+    "created_at": "2026-10-16T08:30:12.536971+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "bb17190f-718b-439f-abf5-23d96be34f6d",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "single",
+    "release_year": 2017,
+    "spotify_id": null,
+    "status": "unknown",
+    "title": "Come Home (feat. Souly Had)",
+    "updated_at": "2026-10-16T08:30:12.536971+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2630ac53-a271-479c-8602-73610066bd5c",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T08:30:16.52715+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "90b83d69-fcb6-4e51-ac16-e60634b3e64c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "bb17190f-718b-439f-abf5-23d96be34f6d",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Come Home (feat. Souly Had)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T08:30:16.52715+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T08:30:14.625203+00:00",
+      "created_by": "hermes-discog",
+      "decision": "verified",
+      "entity_id": "bb17190f-718b-439f-abf5-23d96be34f6d",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "bfecdefb-52c7-4646-934a-e4539a90a422",
+      "input": "{\"title\": \"Come Home (feat. Souly Had)\", \"release_type\": \"single\", \"release_year\": 2017}",
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Wave 2 batch 10",
+      "status": "verified"
+    }
+  ]
+}

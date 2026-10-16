@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:00:37.665833+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fcdd7abb-1c98-45e8-9f92-2e0e40db175f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62a5a6d6-b3a2-4b06-b5d5-a03eb9d3ef30",
+  "input": "{\"title\": \"Walking Away\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Swag'",
+  "status": "verified"
+}

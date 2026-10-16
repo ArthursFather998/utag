@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:36.434264+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2758d5d0-df3a-48e3-8e63-a6367b25a75e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "668e032d-fa19-4af6-b20a-f2d8c30c94f2",
+  "input": "{\"title\": \"Off and Running\", \"release_type\": \"single\", \"release_year\": 1966}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 14",
+  "status": "verified"
+}

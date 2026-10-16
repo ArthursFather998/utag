@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:47:57.790969+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "85b24d2b-072c-43d6-befc-fdbd58e653ba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f43d3cb-3018-4488-962b-b5db41733e12",
+  "input": "{\"title\": \"Ride\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Singles'",
+  "status": "verified"
+}

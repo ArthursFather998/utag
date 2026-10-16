@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:36:09.263375+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3499626d-2b20-45fb-b8ac-cccea01856e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9ba36f4-7f9d-4acd-8d17-92dacc4d83b3",
+  "input": "{\"title\": \"I'm Down\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Age Ain't Nothing but a Number'",
+  "status": "verified"
+}

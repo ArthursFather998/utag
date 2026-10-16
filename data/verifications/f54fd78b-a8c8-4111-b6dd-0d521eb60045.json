@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:59.333565+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98d9019f-9ad8-4186-84a4-8b214ea4f7f3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f54fd78b-a8c8-4111-b6dd-0d521eb60045",
+  "input": "{\"title\": \"After the Love\", \"release_type\": \"single\", \"release_year\": 1993}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

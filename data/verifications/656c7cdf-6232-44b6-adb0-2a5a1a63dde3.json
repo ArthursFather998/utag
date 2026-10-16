@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:06:35.165461+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "485fc03d-4fca-4705-b5c6-f50b6249c607",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "656c7cdf-6232-44b6-adb0-2a5a1a63dde3",
+  "input": "{\"title\": \"Gravity\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Gravity'",
+  "status": "verified"
+}

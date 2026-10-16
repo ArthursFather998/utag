@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:48.122201+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e673f2d9-558d-4820-819c-ab6242325a59",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8ea89930-30e9-48cf-a314-aebb0cd1c52e",
+  "input": "{\"title\": \"soul eater\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

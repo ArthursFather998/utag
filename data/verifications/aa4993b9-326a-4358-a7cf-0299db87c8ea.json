@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:00.139688+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "406ae320-53a9-48b0-95e6-5db991146a83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa4993b9-326a-4358-a7cf-0299db87c8ea",
+  "input": "{\"title\": \"Madison Blues (Version 1)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Before the Beginning: 1968-1970 Live & Demo Sessions'",
+  "status": "verified"
+}

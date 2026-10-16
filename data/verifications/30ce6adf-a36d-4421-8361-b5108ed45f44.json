@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:30:29.599158+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "01cfe43b-2914-4588-ad3a-9bd3d3ad08a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30ce6adf-a36d-4421-8361-b5108ed45f44",
+  "input": "{\"title\": \"Bad Habits\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Bad Habits'",
+  "status": "verified"
+}

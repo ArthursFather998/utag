@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:43.493323+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a7f1419f-2fe6-46a2-9cdd-552432f7202d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ef163ad-bb3c-498b-aa61-2dd32cb21014",
+  "input": "{\"title\": \"Oh Well\", \"track_number\": 22}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 22 of 'The Vaudeville Years'",
+  "status": "verified"
+}

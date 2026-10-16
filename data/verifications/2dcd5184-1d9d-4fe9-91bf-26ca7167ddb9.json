@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:15.916097+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "82019dd0-5b31-495f-bdf6-3ad2942177bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2dcd5184-1d9d-4fe9-91bf-26ca7167ddb9",
+  "input": "{\"title\": \"Seems like Old Times\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'A Matter of Time: The Final Hour'",
+  "status": "verified"
+}

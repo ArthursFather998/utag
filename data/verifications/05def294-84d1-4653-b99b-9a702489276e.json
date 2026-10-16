@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:13:32.710236+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2a8d50be-c3b1-4011-930d-138f8a13937c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05def294-84d1-4653-b99b-9a702489276e",
+  "input": "{\"title\": \"Reality Bites\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Sad Boys'",
+  "status": "verified"
+}

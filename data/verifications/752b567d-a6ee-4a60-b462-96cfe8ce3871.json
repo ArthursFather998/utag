@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:48:14.709609+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "223dd75c-1fe7-41ed-8671-8899ff410876",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "752b567d-a6ee-4a60-b462-96cfe8ce3871",
+  "input": "{\"title\": \"MTV Unplugged\", \"release_type\": \"album\", \"release_year\": 2025}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 08 research: Recorded 14 Feb 1995, first audio release 7 Nov 2025.",
+  "status": "verified"
+}

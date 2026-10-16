@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:39.798777+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b6cd7fe2-e26b-4065-918b-575b2de5ed06",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9a2e5c9-6751-4750-962d-5aeb1d758e97",
+  "input": "{\"title\": \"Moving Mountains\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Here I Stand (Deluxe Version)'",
+  "status": "verified"
+}

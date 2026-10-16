@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:34.554639+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2f95a4b-e307-405b-922a-e51907a749fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e03371a-e6cc-4768-8321-fc860c2d1718",
+  "input": "{\"title\": \"engravings (solo piano)\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'SOLO I'",
+  "status": "verified"
+}

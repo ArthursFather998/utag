@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:48:46.779908+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f31e50d-600b-4dd9-95c1-add55f24c959",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c2968ce-0a5c-453c-9a42-1508492b3d63",
+  "input": "{\"title\": \"What'll I Do\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'janet.'",
+  "status": "verified"
+}

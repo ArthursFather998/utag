@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:25.237132+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0aeb5e7d-7e1d-4f8f-a735-7fa478c4f883",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "59e77ee1-a756-4a63-826d-033f1e43d828",
+  "input": "{\"title\": \"i hate my life\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 16",
+  "status": "verified"
+}

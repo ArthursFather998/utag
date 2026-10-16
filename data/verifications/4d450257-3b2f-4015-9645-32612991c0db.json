@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:03:37.765657+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec5a7b04-647b-4a5a-a416-a0c61a2d9463",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d450257-3b2f-4015-9645-32612991c0db",
+  "input": "{\"title\": \"Everybody Wants to Run the World\", \"track_number\": 24}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 24 of 'Songs from the Big Chair (40th Anniversary Edition)'",
+  "status": "verified"
+}

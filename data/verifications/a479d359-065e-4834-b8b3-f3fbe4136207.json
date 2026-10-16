@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:19.770132+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0194ee2d-623b-42d2-b6c1-cbf1a7ff333c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a479d359-065e-4834-b8b3-f3fbe4136207",
+  "input": "{\"title\": \"REM (lullaby)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'luna park (the lullabies)'",
+  "status": "verified"
+}

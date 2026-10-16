@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:24.493872+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4d3521f1-5539-4eb7-8ccf-e9db1c696c36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8104e8b3-c9ed-419a-adbb-2c80099e9af5",
+  "input": "{\"title\": \"Joy Ride\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Emancipation of Mimi'",
+  "status": "verified"
+}

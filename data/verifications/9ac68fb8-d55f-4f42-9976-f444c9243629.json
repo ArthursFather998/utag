@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:31:17.580538+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62f3ce68-6d02-48e8-9d09-9f5585d8b04b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ac68fb8-d55f-4f42-9976-f444c9243629",
+  "input": "{\"title\": \"Look of Love\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Look of Love'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:12.127873+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e67a00c6-e203-4398-83b2-be0123eeee70",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57c34620-49c9-4a6e-84a9-0fddc49a4362",
+  "input": "{\"title\": \"Mother, Father (Live)\", \"track_number\": 39}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 39 of 'The Essential Journey'",
+  "status": "verified"
+}

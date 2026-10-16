@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:00:07.548734+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c0bda271-e3d7-4d32-b327-937b4dd5f60e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b31d2b4c-b77d-4871-b9ed-6c1329bc05f4",
+  "input": "{\"title\": \"6 God\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'If You're Reading This It's Too Late'",
+  "status": "verified"
+}

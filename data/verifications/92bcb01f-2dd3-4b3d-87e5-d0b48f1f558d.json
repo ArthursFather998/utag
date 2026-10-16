@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:03.345259+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0555c969-219f-43bf-8de5-e9f76046c6ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92bcb01f-2dd3-4b3d-87e5-d0b48f1f558d",
+  "input": "{\"title\": \"Secrets\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Secrets'",
+  "status": "verified"
+}

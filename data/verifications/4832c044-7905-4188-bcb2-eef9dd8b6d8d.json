@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:57:32.595288+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d1639b44-0515-46b2-99c4-36226237440b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4832c044-7905-4188-bcb2-eef9dd8b6d8d",
+  "input": "{\"title\": \"Gigante\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Femme Fatale Vol. 2'",
+  "status": "verified"
+}

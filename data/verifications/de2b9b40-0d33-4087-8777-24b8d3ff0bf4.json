@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:19:46.707239+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "29d9d091-66d4-49f5-84e0-37f4a574d40e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de2b9b40-0d33-4087-8777-24b8d3ff0bf4",
+  "input": "{\"title\": \"If I Had\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Slim Shady LP'",
+  "status": "verified"
+}

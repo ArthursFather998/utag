@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:01:34.455454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ec5c30e6-31f6-44c9-8e1c-8333186645c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4757356d-3f93-48b9-9086-f32fa82a7cf7",
+  "input": "{\"title\": \"Moving Fast\", \"track_number\": 16}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 16 of 'Swag II'",
+  "status": "verified"
+}

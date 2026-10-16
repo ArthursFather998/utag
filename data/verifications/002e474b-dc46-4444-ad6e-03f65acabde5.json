@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:44:56.743727+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6d90132c-a893-4ef9-ab45-f0b00c60d0e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "002e474b-dc46-4444-ad6e-03f65acabde5",
+  "input": "{\"title\": \"Dirt Road Anthem\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of '30 Number One Hits'",
+  "status": "verified"
+}

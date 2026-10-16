@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:06.293888+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7fae60a0-6067-41af-a4c6-a6bfb0d65bd3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c9f6ac8-f097-476e-8b80-2a005145a894",
+  "input": "{\"title\": \"Locked Out of Heaven\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Locked Out of Heaven'",
+  "status": "verified"
+}

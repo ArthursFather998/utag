@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:23.894347+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "330533f1-fd6c-4668-9e45-f9d5ec71d6d1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa05163a-1cfc-47c5-a54a-b5b69dd8bfe2",
+  "input": "{\"title\": \"Can't Stop Won't Stop\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Looking 4 Myself'",
+  "status": "verified"
+}

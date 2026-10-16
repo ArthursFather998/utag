@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:55:07.227102+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "174aa6e2-ca32-4bd4-8b84-1b41f0d6960a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "500a71e8-d51f-40b9-977c-c89132a62c0c",
+  "input": "{\"title\": \"Nasty\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Japanese Singles Collection: Greatest Hits'",
+  "status": "verified"
+}

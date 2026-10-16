@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:49:12.272977+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e5c5869a-cb33-4e9a-92d8-0236ba7d9ed8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "06c16efc-6208-4314-bbe1-9b443d33e8f8",
+  "input": "{\"title\": \"The Phoenix\", \"release_type\": \"single\", \"release_year\": 2013}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

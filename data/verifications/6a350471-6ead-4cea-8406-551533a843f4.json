@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:06:03.74283+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e334d91e-77fa-49ce-aa07-734ee6e9d6fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a350471-6ead-4cea-8406-551533a843f4",
+  "input": "{\"title\": \"Grace\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Live at Wetlands, New York, NY, August 16, 1994'",
+  "status": "verified"
+}

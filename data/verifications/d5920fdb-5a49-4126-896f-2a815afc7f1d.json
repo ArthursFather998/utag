@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:57:29.621653+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "add4cb7c-ab87-4bca-b7c5-eb39d1401d8a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5920fdb-5a49-4126-896f-2a815afc7f1d",
+  "input": "{\"title\": \"When I See You Again\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Tango in the Night'",
+  "status": "verified"
+}

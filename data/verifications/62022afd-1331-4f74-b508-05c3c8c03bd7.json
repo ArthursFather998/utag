@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:43.599987+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ce0c2efb-a49a-42f6-a1ab-e1b5ad65d113",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "62022afd-1331-4f74-b508-05c3c8c03bd7",
+  "input": "{\"title\": \"Party Music ~~ 20 Hits\", \"release_type\": \"album\", \"release_year\": 1976}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

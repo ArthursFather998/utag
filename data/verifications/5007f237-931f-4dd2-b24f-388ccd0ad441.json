@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:40:53.932862+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4e8d85b8-4a33-4ada-8121-c069635c4abe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5007f237-931f-4dd2-b24f-388ccd0ad441",
+  "input": "{\"title\": \"Waltzing Back\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Everybody Else Is Doing It, So Why Can't We?'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:42:03.292357+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "af13b533-a2e1-4225-bc0c-f0535d816ea5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9a670edb-ec52-4bfc-bfab-baf479a2f201",
+  "input": "{\"title\": \"Lace It\", \"release_type\": \"single\", \"release_year\": 2023}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

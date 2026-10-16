@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:04:24.069164+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5f8c4866-325e-4857-9986-4ae191ba6052",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f592abeb-8a9b-4a03-9c9a-836650fed112",
+  "input": "{\"title\": \"Tusk\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'In Concert'",
+  "status": "verified"
+}

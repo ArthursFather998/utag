@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:09:01.927681+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "189bec84-ec99-43ad-9313-23a68d6b99ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0e92b6f-f4c3-4a12-8823-d3149b316a31",
+  "input": "{\"title\": \"Wait Your Turn\", \"track_number\": 40}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 40 of 'Coffret 4 CD'",
+  "status": "verified"
+}

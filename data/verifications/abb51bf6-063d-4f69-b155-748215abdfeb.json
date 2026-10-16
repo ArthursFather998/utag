@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:57.213436+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8a0dd44-5e6a-4d7d-b677-e8727ab54de3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "abb51bf6-063d-4f69-b155-748215abdfeb",
+  "input": "{\"title\": \"Me and My Big Ideas\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Raoul and the Kings of Spain (2009 Reissue)'",
+  "status": "verified"
+}

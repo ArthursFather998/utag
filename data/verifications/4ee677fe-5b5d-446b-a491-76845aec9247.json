@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:48.498363+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b8b64ac2-5eb8-4a89-b3ef-bdc5a9cad814",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ee677fe-5b5d-446b-a491-76845aec9247",
+  "input": "{\"title\": \"Burnin' It Down (Live from St. Louis, MO)\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Georgia'",
+  "status": "verified"
+}

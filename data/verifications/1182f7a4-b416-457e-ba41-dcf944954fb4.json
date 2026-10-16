@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:43:16.749104+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a961ff22-d562-4699-a515-c03b63071de5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1182f7a4-b416-457e-ba41-dcf944954fb4",
+  "input": "{\"title\": \"Sweet Dreams (Are Made of This)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'In Tokyo 2025'",
+  "status": "verified"
+}

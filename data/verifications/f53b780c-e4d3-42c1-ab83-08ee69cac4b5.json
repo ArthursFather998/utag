@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:04:47.070305+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6468acf8-5b47-4929-90a4-57975ba15d34",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f53b780c-e4d3-42c1-ab83-08ee69cac4b5",
+  "input": "{\"title\": \"Dream of You and I\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'You and I'",
+  "status": "verified"
+}

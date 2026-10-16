@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:10:02.311364+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fae7c1b8-56cf-493e-97cf-c35ed07d9e4d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a17c20aa-f54f-4962-9d9b-7df5eddb4ba0",
+  "input": "{\"title\": \"When He's Gone\", \"track_number\": 20}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 20 of 'Some Sexy Songs 4 U'",
+  "status": "verified"
+}

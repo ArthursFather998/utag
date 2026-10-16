@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:43:56.123838+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c8b481e3-5470-4fb5-ae95-c41882d6da0a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b40a5b5-ac8e-472b-b891-feff3e7f9fb9",
+  "input": "{\"title\": \"I Will Be Back One Day\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Lonesome Dreams (Bonus Track Version)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:40.4567+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0a56a79d-578c-4fc7-b111-99973b5d5a89",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "188f918f-b35d-4cd7-9e43-1d8850a4a4a0",
+  "input": "{\"title\": \"Majestic\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Captured'",
+  "status": "verified"
+}

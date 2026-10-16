@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:53:37.263176+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5d7a56c9-3a68-44b2-a8ec-0e5ff5111361",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17910dd7-627e-47ac-94e7-e41af800bca8",
+  "input": "{\"title\": \"Ven Conmigo/Perdoname\", \"track_number\": 80}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 80 of 'La Leyenda'",
+  "status": "verified"
+}

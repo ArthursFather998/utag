@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:52:57.905783+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e91f1df8-7195-4577-a743-cc04b61a7725",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c413bbf2-b41f-4d6b-b7ea-7751e59f65b6",
+  "input": "{\"title\": \"Mad World\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Live at Massey Hall Toronto, Canada / 1985'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:49.180731+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b1f6d41e-9684-4179-be3d-d60f39f4c3df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e8f7800f-28d7-4176-a42d-5c9cf0086806",
+  "input": "{\"title\": \"Home\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Three Days Grace (Expanded Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:53:16.93994+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f366d5c8-687c-4836-9b5a-64c344f03120",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1eb05296-d913-4ce1-9740-c1e082a66156",
+  "input": "{\"title\": \"Empire\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Epilogue'",
+  "status": "verified"
+}

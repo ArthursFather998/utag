@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:46.366809+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "31f4e16d-1d7b-4a02-9578-a5cddc9de932",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09bb51ad-5519-4884-a058-aac21abcee83",
+  "input": "{\"title\": \"Bad\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Exodus'",
+  "status": "verified"
+}

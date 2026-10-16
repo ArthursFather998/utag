@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:37:55.426469+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "436815df-460c-4e58-8fe3-762bfa1c9223",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa0301ef-32c9-481e-a32d-5ccb4e8c66b9",
+  "input": "{\"title\": \"Titanic\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Legends Never Die (5th Anniversary Edition)'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:11:28.431227+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "c44904b0-3593-4837-8c78-68ce08b5255f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8d23589-fee0-4e23-a2b9-c8dd7de05520",
+  "input": "{\"title\": \"The Dino Club\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Dino Club'",
+  "status": "verified"
+}

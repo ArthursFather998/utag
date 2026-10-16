@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:38:47.596492+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "885e7363-0c58-4a0c-afeb-79171a8c5c06",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd900512-e8fb-4dc2-8efa-c0901f6efa74",
+  "input": "{\"title\": \"My Life in a Nutshell\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Fighting Demons'",
+  "status": "verified"
+}

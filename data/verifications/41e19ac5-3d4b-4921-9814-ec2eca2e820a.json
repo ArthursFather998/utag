@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:55:48.34249+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cfca9835-cd63-4967-8798-21d7cee3dff6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41e19ac5-3d4b-4921-9814-ec2eca2e820a",
+  "input": "{\"title\": \"Always Be My Baby\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'The Ballads'",
+  "status": "verified"
+}

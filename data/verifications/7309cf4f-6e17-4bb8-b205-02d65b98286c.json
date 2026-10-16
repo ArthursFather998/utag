@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:06:55.263768+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f8a40556-3bfb-42bc-b7ba-3c5a96950e53",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7309cf4f-6e17-4bb8-b205-02d65b98286c",
+  "input": "{\"title\": \"Falling Behind\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'A Matter of Time: Live at Madison Square Garden'",
+  "status": "verified"
+}

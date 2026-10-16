@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:25:56.278349+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "8cb9e8d2-4453-4302-b213-160532badc08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a79bb01-879f-43c2-b711-47e9fd784b34",
+  "input": "{\"title\": \"Bad Side of the Moon\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of '17-11-70'",
+  "status": "verified"
+}

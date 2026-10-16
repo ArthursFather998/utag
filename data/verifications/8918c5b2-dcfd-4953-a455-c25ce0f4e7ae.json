@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:57:22.631486+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "571be886-39b3-4182-a528-2a8f81caa613",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8918c5b2-dcfd-4953-a455-c25ce0f4e7ae",
+  "input": "{\"title\": \"Until the End\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Epilogue (Deluxe)'",
+  "status": "verified"
+}

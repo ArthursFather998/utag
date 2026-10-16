@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:18:47.976615+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "076fad24-a8c9-4539-b7d8-8de0c392904f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8711ff17-0f7d-4325-903a-96e2e2d61988",
+  "input": "{\"title\": \"Are You Ready?\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Stadium Anthems'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:05:42.79035+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e2dbc18-274b-403e-8ac0-3f344a6718a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "abf43eab-3324-4fbf-ad3b-bcf0baee6259",
+  "input": "{\"title\": \"charades\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'charades'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:05.375366+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d86c1133-b90a-4b0b-bf81-6a39595cbeea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d03fc962-3997-4b6f-86ed-56e8d9b4cacc",
+  "input": "{\"title\": \"Love That Burns\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'The Vaudeville Years'",
+  "status": "verified"
+}

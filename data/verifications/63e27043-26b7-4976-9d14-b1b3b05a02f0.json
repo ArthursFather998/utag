@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:23.040096+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6a5ecb9e-bcd9-40cb-a6ff-1a545361b01f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "63e27043-26b7-4976-9d14-b1b3b05a02f0",
+  "input": "{\"title\": \"The Christmas Song\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'The Christmas Song'",
+  "status": "verified"
+}

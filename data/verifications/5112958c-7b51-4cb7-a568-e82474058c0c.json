@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:16.061432+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "1b8d95ac-395c-4251-b99c-7ba1c890427e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5112958c-7b51-4cb7-a568-e82474058c0c",
+  "input": "{\"title\": \"Ya No\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Enamorada de Ti'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:42:40.852481+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "e42f5e62-7720-4b8b-9064-8d22bb428368",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7429543-9abe-47a3-a974-01aecb04dd3f",
+  "input": "{\"title\": \"Just My Imagination\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'Bury the Hatchet'",
+  "status": "verified"
+}

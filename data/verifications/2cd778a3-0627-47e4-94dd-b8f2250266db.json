@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:47:48.371819+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7dcc796b-0a1d-4333-a570-3a315c9107e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2cd778a3-0627-47e4-94dd-b8f2250266db",
+  "input": "{\"title\": \"Tu Falta De Querer\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'Mon Laferte (Vol. 1/ Edicion Especial)'",
+  "status": "verified"
+}

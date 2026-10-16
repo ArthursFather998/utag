@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:44:30.597098+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0f746f8b-eb59-406e-acf9-4cfa54da6284",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca60ad9a-8920-4c68-bb24-0dc0fa1a92cc",
+  "input": "{\"title\": \"Watch Me Bleed\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'The Hurting'",
+  "status": "verified"
+}

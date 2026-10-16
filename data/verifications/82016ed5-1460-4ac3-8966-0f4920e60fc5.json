@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:31.603138+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "cbfeb3d2-4c3d-41a7-91a3-2faf6307c81c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82016ed5-1460-4ac3-8966-0f4920e60fc5",
+  "input": "{\"title\": \"I Belong to You\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'Anytime'",
+  "status": "verified"
+}

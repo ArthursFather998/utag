@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:19.908643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "dd01cc35-e202-497a-9106-1f439ff4e4bb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b2e70c19-0e7f-4cc5-84a8-f078387898a8",
+  "input": "{\"title\": \"Perfect\", \"release_type\": \"album\", \"release_year\": 2015}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 17",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:55:56.081951+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "450cc48e-acd9-4170-aeb5-68492a753efe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e9a59e9-05a9-4c6f-a2e2-55029705626f",
+  "input": "{\"title\": \"Bossanova\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Crunch Time'",
+  "status": "verified"
+}

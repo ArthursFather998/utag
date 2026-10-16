@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:36:48.361926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "91e6bdfc-85e3-425c-bfe0-c88d8a397079",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95029b70-fddc-465c-945e-b4fb13706305",
+  "input": "{\"title\": \"Sukiyaki\", \"track_number\": 9}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 9 of 'Selena: The Series Soundtrack'",
+  "status": "verified"
+}

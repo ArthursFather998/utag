@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:26:27.854643+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0e60377e-5a91-4dcc-ade7-d935d6b961de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18bc8dce-8f52-49d8-bc4f-f0542ddd8274",
+  "input": "{\"title\": \"Like I Do\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Better'",
+  "status": "verified"
+}

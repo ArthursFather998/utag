@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:10:50.993608+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "fdc12ab6-fc04-4e4b-b4e8-b2e9ac66ea5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7809c77-10c3-4303-93d3-be0ef2fcab68",
+  "input": "{\"title\": \"Famous Last Words\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Famous Last Words'",
+  "status": "verified"
+}

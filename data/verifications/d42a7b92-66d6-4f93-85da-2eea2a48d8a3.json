@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:39:54.905454+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6f16706c-eda1-4fcc-805d-bf8a95503e15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d42a7b92-66d6-4f93-85da-2eea2a48d8a3",
+  "input": "{\"title\": \"Ruby Red Baby Blue (A-side)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Ruby Red Baby Blue'",
+  "status": "verified"
+}

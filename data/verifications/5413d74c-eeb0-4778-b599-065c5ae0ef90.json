@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:22:26.917453+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6392cb23-b01e-4d49-9b86-491fe34b682c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5413d74c-eeb0-4778-b599-065c5ae0ef90",
+  "input": "{\"title\": \"This Train Don't Stop There Anymore\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Songs from the West Coast'",
+  "status": "verified"
+}

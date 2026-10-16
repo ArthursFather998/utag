@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:42:46.695879+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3009a1c1-cdf1-4a3a-839d-173f26b2d582",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9b724ff-dfa3-4bdb-a33a-672a0f905c22",
+  "input": "{\"title\": \"Jenny\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'Prom Queen / Crybaby + Sports'",
+  "status": "verified"
+}

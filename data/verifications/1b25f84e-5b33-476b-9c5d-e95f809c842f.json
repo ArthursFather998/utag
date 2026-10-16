@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:24:01.975787+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "81c834ef-1009-45ec-b938-ae126c4190a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b25f84e-5b33-476b-9c5d-e95f809c842f",
+  "input": "{\"title\": \"Space Ghost Coast to Coast\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Dreamland: Real Life Edition'",
+  "status": "verified"
+}

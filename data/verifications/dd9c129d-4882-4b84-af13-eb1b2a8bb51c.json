@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:46.622032+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6e111e9b-8ccc-4639-8679-e5faa800ff7b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd9c129d-4882-4b84-af13-eb1b2a8bb51c",
+  "input": "{\"title\": \"I Can Be\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Aaliyah'",
+  "status": "verified"
+}

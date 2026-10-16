@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:58:00.644428+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "68e92703-7237-4b17-b432-82b0931e36e7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aa328356-3d7d-40c8-b7c7-8af64c47638f",
+  "input": "{\"title\": \"Thank Me Later\", \"release_type\": \"album\", \"release_year\": 2010}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 11",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:50.894636+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d39cc4c7-771a-4910-800d-a20a46c6570f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38e68791-709a-48fe-a46b-a14c051c3e71",
+  "input": "{\"title\": \"Gift Shop\", \"track_number\": 8}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 8 of 'A'",
+  "status": "verified"
+}

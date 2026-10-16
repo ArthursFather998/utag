@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:37:37.90765+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d2778b52-0e63-476d-8a76-fef690660b0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "647a0d65-d214-4302-80f8-15ab91785a35",
+  "input": "{\"title\": \"Lake Effect Kid (Demo) - Fall Out Boy\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Welcome to the New Administration'",
+  "status": "verified"
+}

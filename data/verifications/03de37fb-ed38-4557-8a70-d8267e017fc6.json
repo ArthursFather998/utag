@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:57:35.598885+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "d8afed20-9533-40d6-bd8e-290f39260fb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "03de37fb-ed38-4557-8a70-d8267e017fc6",
+  "input": "{\"title\": \"Lily of the Valley\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Lily of the Valley'",
+  "status": "verified"
+}

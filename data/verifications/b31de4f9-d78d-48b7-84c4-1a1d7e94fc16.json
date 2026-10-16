@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:53:40.601478+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "62890419-9032-4bbd-8a92-e573c5041ead",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b31de4f9-d78d-48b7-84c4-1a1d7e94fc16",
+  "input": "{\"title\": \"Still Take You Home\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Whatever People Say I Am, That's What I'm Not'",
+  "status": "verified"
+}

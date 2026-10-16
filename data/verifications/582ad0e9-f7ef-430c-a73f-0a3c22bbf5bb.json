@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:47:54.200099+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0cd59466-7dc7-41a1-b5c4-daef6058e8e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "582ad0e9-f7ef-430c-a73f-0a3c22bbf5bb",
+  "input": "{\"title\": \"Someone New\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'Typical of Me'",
+  "status": "verified"
+}

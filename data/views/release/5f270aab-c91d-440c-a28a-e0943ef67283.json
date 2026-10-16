@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Nirvana",
+    "id": "6d89fec1-872c-43e3-aa01-c561167682bd"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "6d89fec1-872c-43e3-aa01-c561167682bd",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-16T18:00:29.581957+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "5f270aab-c91d-440c-a28a-e0943ef67283",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "1994-02-22: Palaghiaccio di Marino, Rome, Italy",
+    "updated_at": "2026-10-16T18:00:29.581957+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6d89fec1-872c-43e3-aa01-c561167682bd",
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T18:00:29.685526+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e22477f4-d546-44be-85fa-2b904e133f47",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5f270aab-c91d-440c-a28a-e0943ef67283",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Smells Like Teen Spirit",
+      "track_number": null,
+      "updated_at": "2026-10-16T18:00:29.685526+00:00"
+    }
+  ],
+  "verifications": []
+}

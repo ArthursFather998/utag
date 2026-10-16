@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:12:40.501206+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "da173332-f220-4b2d-b347-f0aab510e63d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56c9e451-010f-42e4-9008-5caa645a9c35",
+  "input": "{\"title\": \"Ballad of a Well-Known Gun\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Tumbleweed Connection'",
+  "status": "verified"
+}

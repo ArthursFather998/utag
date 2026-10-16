@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:34:29.041824+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9e84603e-5417-4b1d-90ba-7d4c9eaa5b26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d213f96f-61ac-4722-af64-de31a2a38d36",
+  "input": "{\"title\": \"Disc 1 - You Don't Own Me\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'It's My Party: The Mercury Anthology'",
+  "status": "verified"
+}

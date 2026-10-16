@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:30:23.408839+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79d94027-e38b-4be8-a08d-a4b614c31108",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4d6da7d-a7b6-42bf-a0bc-32ecb96226de",
+  "input": "{\"title\": \"Someone Saved My Life Tonight\", \"track_number\": 14}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 14 of 'Greatest Hits 1970–2002'",
+  "status": "verified"
+}

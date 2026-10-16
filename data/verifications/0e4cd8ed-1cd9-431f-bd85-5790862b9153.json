@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:28:29.987629+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "a6002a36-95ff-40c8-af8e-98f6b2cef17f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0e4cd8ed-1cd9-431f-bd85-5790862b9153",
+  "input": "{\"title\": \"Dive\", \"release_type\": \"single\", \"release_year\": 2012}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 20",
+  "status": "verified"
+}

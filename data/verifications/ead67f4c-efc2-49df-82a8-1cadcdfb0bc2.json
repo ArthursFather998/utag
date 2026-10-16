@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:03:44.52546+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "b10c39d2-e440-45da-8fdd-a3d6d2bd6c35",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ead67f4c-efc2-49df-82a8-1cadcdfb0bc2",
+  "input": "{\"title\": \"Clockwork\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'A Matter of Time'",
+  "status": "verified"
+}

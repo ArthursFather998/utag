@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:41:18.658437+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "7f1b5ee5-2c6b-4334-a076-b18f33ce5986",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "61ececb2-3834-4f2c-abc9-7e171e7d194d",
+  "input": "{\"title\": \"Smile\", \"release_type\": \"single\", \"release_year\": 2020}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 06 research",
+  "status": "verified"
+}

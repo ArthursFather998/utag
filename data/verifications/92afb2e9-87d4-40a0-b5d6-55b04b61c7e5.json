@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:02:10.103149+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5e2d2cb2-7981-428c-91f8-d33f34470f4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "92afb2e9-87d4-40a0-b5d6-55b04b61c7e5",
+  "input": "{\"title\": \"Sacrifices\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'More Life'",
+  "status": "verified"
+}

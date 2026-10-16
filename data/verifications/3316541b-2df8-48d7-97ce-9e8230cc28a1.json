@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:44:59.828583+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "408f0fd3-2d05-4a3f-b163-9b32c2de5c09",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3316541b-2df8-48d7-97ce-9e8230cc28a1",
+  "input": "{\"title\": \"Said It All\", \"track_number\": 5}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 5 of 'You're Almost There'",
+  "status": "verified"
+}

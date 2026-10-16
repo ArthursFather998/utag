@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:21.702496+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ad1febb-0451-45d8-bbed-1824493180b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b780a705-a3df-44e6-bf26-5b8cb7bb44e3",
+  "input": "{\"title\": \"Man of Action\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of 'The Vaudeville Years'",
+  "status": "verified"
+}

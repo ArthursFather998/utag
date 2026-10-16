@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:45:01.090985+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "3bafa9f2-f03c-4d1c-8f45-d32cba72c607",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f3b1a60-fef4-411d-9464-b1fe7f42ef4f",
+  "input": "{\"title\": \"Rainy Zurich\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Scars & Stories (Deluxe Edition)'",
+  "status": "verified"
+}

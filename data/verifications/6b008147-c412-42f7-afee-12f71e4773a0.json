@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:21:51.264537+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "98b13dce-7392-48d5-a5a2-f322b21d2d07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b008147-c412-42f7-afee-12f71e4773a0",
+  "input": "{\"title\": \"Mad Hatter\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Cry Baby'",
+  "status": "verified"
+}

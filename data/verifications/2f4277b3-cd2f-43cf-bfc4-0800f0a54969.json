@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:45.395253+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "48332d83-97d3-4089-8e33-3118969b56b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f4277b3-cd2f-43cf-bfc4-0800f0a54969",
+  "input": "{\"title\": \"Tuition\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Octane'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:12:54.709656+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "5fd97752-b994-4757-9b5b-ad8c3a86cdf5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80b9d48c-5982-40ef-a1fc-e2a62d8d8669",
+  "input": "{\"title\": \"I Have a Gun (performed by Politikz)\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Pink Season'",
+  "status": "verified"
+}

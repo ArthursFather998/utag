@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:14:44.081012+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "f2e4df00-0ef1-4e0c-b1fa-1cbbd4faf1a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05a07a3b-bd36-4fc9-bd94-2e31fdcd5891",
+  "input": "{\"title\": \"Freaks (feat. Travis Barker)\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 1 of 'Freaks (Remixes)'",
+  "status": "verified"
+}

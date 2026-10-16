@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:59:34.778092+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "200806f8-94dd-4a63-b567-578d428fe0a3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c7a42c9c-f574-4864-8e19-5b2fa8580c94",
+  "input": "{\"title\": \"Needed Me\", \"track_number\": 7}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 7 of 'ANTI (Deluxe)'",
+  "status": "verified"
+}

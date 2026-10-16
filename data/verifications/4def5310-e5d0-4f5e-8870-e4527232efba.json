@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:52:21.456782+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ab54afbc-68c5-4005-ac65-c583c5fba9ea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4def5310-e5d0-4f5e-8870-e4527232efba",
+  "input": "{\"title\": \"Tie Your Mother Down\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Stone Cold Classics'",
+  "status": "verified"
+}

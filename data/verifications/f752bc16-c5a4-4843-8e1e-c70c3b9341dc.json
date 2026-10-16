@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:50:47.540926+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "ac708d53-f50c-4ce2-aa31-6f154a52d3bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f752bc16-c5a4-4843-8e1e-c70c3b9341dc",
+  "input": "{\"title\": \"K9\", \"track_number\": 12}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 12 of 'Octane'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:07:38.375741+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "42160a40-dec2-4973-9f8c-5aacd7a976d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0353e99-44b0-49a4-ba37-e70805937bf4",
+  "input": "{\"title\": \"Moon River\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'To Each His Own'",
+  "status": "verified"
+}

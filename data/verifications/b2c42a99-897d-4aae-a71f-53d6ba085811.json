@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:15:51.084301+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "79b90933-c5f6-4f88-9eb9-41982c0d9556",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2c42a99-897d-4aae-a71f-53d6ba085811",
+  "input": "{\"title\": \"Cherry On Top\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Sincerely: P.S.'",
+  "status": "verified"
+}

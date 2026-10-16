@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T13:48:43.462007+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "eeb4a673-333b-4e86-8e01-a545faeebc3d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ffaab2e-7dbf-42c3-8422-5181ce07060d",
+  "input": "{\"title\": \"Closest Thing to Heaven\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Everybody Loves a Happy Ending'",
+  "status": "verified"
+}

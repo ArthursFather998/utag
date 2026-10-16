@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:40.489089+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0bd886b7-44a9-4e22-840f-c946f3b3d75a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "792ba7bf-3d79-41b4-bd93-f9b7feceb458",
+  "input": "{\"title\": \"Lullaby of Birdland (Live)\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'The Rarities'",
+  "status": "verified"
+}

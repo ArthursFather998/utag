@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:20:31.032008+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4acdec3c-b776-4be1-8571-4734e3da8f4a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c703ca2-b089-4c07-889e-bf7d0188ca0f",
+  "input": "{\"title\": \"Healing Hands\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Sleeping with the Past'",
+  "status": "verified"
+}

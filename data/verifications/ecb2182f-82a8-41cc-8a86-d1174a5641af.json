@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:15:28.138599+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "73e5bfae-f6a9-4b1d-9fa1-f9e1f513fe3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ecb2182f-82a8-41cc-8a86-d1174a5641af",
+  "input": "{\"title\": \"Sins of My Father\", \"track_number\": 13}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 13 of 'Looking 4 Myself (Deluxe Version)'",
+  "status": "verified"
+}

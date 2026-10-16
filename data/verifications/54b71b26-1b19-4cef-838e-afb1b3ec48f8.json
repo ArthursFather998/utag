@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T15:32:39.032036+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4ba56476-751e-4931-8a2a-4a6d40350051",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54b71b26-1b19-4cef-838e-afb1b3ec48f8",
+  "input": "{\"title\": \"That's the Way Boys Are\", \"track_number\": 6}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 6 of 'The Golden Hits of Lesley Gore'",
+  "status": "verified"
+}

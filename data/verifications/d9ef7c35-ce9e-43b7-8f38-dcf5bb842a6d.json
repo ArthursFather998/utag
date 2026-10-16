@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:47:38.539509+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "9f93f01c-3b63-4eb4-8477-20f6f49afddc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9ef7c35-ce9e-43b7-8f38-dcf5bb842a6d",
+  "input": "{\"title\": \"5X\", \"track_number\": 2}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 2 of 'Life of a Don'",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:59:42.880014+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "87250d45-9dca-4505-924a-c6711800892b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e2fcf3e-99da-43c7-b11f-21e2cc6fee2c",
+  "input": "{\"title\": \"Dreams\", \"track_number\": 3}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 3 of 'Live'",
+  "status": "verified"
+}

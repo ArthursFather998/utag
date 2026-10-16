@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:59:41.651728+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bd0b77fc-aba5-4114-b6fe-6809eeb6a073",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "608a4e75-6bad-44a6-8dcf-57ab94e801fa",
+  "input": "{\"title\": \"Lonely Star\", \"track_number\": 11}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 11 of 'Trilogy'",
+  "status": "verified"
+}

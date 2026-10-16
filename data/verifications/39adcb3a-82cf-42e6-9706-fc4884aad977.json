@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:27:46.883476+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "bc22d6c1-d92f-4542-92de-57426dab39c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39adcb3a-82cf-42e6-9706-fc4884aad977",
+  "input": "{\"title\": \"Hello\", \"track_number\": 10}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 10 of '2014 Forest Hills Drive'",
+  "status": "verified"
+}

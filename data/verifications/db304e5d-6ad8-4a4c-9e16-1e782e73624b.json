@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:18:08.360069+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "4fa26fd7-6d1b-4cab-a0d6-b2ce58287f73",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "db304e5d-6ad8-4a4c-9e16-1e782e73624b",
+  "input": "{\"title\": \"Goodbye\", \"release_type\": \"single\", \"release_year\": 2001}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 13",
+  "status": "verified"
+}

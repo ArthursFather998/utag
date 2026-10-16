@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T09:08:14.129241+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "59b6e084-e973-4852-a971-986a3d3566fa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "548f1588-b4f4-457e-83a1-a370fba69a3b",
+  "input": "{\"title\": \"Gracias\", \"release_type\": \"single\", \"release_year\": 2024}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 12",
+  "status": "verified"
+}

@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:13:10.525172+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "6ee761ce-085c-447f-80e9-bb7adef2d555",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f88c0f4b-b86f-415d-8999-b5f449b253ce",
+  "input": "{\"title\": \"Taste Tomorrow\", \"track_number\": 4}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 4 of 'Going Going Gone'",
+  "status": "verified"
+}

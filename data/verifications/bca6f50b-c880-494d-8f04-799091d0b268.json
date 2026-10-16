@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T08:35:06.781788+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "63f74407-71d9-4d75-b0d5-2a767a0f9243",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bca6f50b-c880-494d-8f04-799091d0b268",
+  "input": "{\"title\": \"Skydive (Unlocked)\", \"track_number\": 18}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 18 of 'Keys II'",
+  "status": "verified"
+}

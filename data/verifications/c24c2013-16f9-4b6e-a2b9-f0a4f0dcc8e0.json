@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:35:38.315855+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e4dbcdc-ae24-446e-be2b-959d2d77cd38",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c24c2013-16f9-4b6e-a2b9-f0a4f0dcc8e0",
+  "input": "{\"title\": \"The Way Love Goes\", \"release_type\": \"single\", \"release_year\": 1992}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 09",
+  "status": "verified"
+}

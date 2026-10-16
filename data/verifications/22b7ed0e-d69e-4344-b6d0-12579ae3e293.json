@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:22.740452+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "2e4e9119-d7d4-44eb-9fb1-bb04e6dfbe68",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "22b7ed0e-d69e-4344-b6d0-12579ae3e293",
+  "input": "{\"title\": \"Meet Me At Our Spot (Live)\", \"release_type\": \"single\", \"release_year\": 2021}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Wave 2 batch 19",
+  "status": "verified"
+}

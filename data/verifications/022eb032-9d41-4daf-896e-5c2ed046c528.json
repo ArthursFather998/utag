@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:14:46.911981+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "866ae579-8d12-421a-8448-11301ad1a685",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "022eb032-9d41-4daf-896e-5c2ed046c528",
+  "input": "{\"title\": \"Goofy's Trial\", \"track_number\": 34}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 34 of 'Pink Season'",
+  "status": "verified"
+}

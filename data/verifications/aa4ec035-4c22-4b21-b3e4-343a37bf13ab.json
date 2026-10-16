@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T14:43:18.983071+00:00",
+  "created_by": "hermes-discog",
+  "decision": "verified",
+  "entity_id": "0fec72a3-2d17-47df-9bb4-a5e035b16955",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aa4ec035-4c22-4b21-b3e4-343a37bf13ab",
+  "input": "{\"title\": \"My Kinda Party (Live from St. Louis, MO)\", \"track_number\": 15}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Track 15 of 'Macon'",
+  "status": "verified"
+}

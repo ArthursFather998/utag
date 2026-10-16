@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:14.607071+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hero",
+    "track_number": 1
+  },
+  "entity_id": "5aac4b4f-a863-4169-a4de-4d8d0ffb5bf7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f66f0b87-3c44-4447-a5c7-b6a5925a4e3c",
+  "input": {
+    "artist": "JVKE",
+    "release": "Hero",
+    "title": "Hero"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hero'.",
+  "status": "verified"
+}

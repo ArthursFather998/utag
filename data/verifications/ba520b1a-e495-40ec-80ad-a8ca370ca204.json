@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:54.759823+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Britney & Kevin: Chaotic",
+    "track_count": 3,
+    "tracklist": [
+      "Chaotic",
+      "Someday (I Will Understand)",
+      "Mona Lisa"
+    ]
+  },
+  "entity_id": "36045b6c-787a-4674-8e72-f17a0902e2f4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ba520b1a-e495-40ec-80ad-a8ca370ca204",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Britney & Kevin: Chaotic",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://en.wikipedia.org/wiki/Britney_%26_Kevin:_Chaotic_(EP), https://www.discogs.com/release/8170184-Britney-Spears-Britney-Kevin-Chaotic. 2005 EP, 3 tracks (standard). UK/Japanese editions add 'Over to You Now' and the Hi-Bias remix of 'Someday'.",
+  "status": "verified"
+}

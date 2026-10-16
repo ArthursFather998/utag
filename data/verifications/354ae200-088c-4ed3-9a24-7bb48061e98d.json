@@ -1,0 +1,44 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:24.691627+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Greatest Hits: My Prerogative",
+    "track_count": 20,
+    "tracklist": [
+      "My Prerogative",
+      "Toxic",
+      "I'm a Slave 4 U",
+      "Oops!... I Did It Again",
+      "Me Against the Music",
+      "Stronger",
+      "Everytime",
+      "...Baby One More Time",
+      "(You Drive Me) Crazy (The Stop Remix!)",
+      "Boys (The Co-Ed Remix)",
+      "Sometimes",
+      "Overprotected (The Darkchild Remix)",
+      "Lucky",
+      "Outrageous",
+      "Don't Let Me Be the Last to Know",
+      "Born to Make You Happy",
+      "I Love Rock 'N' Roll",
+      "I'm Not a Girl, Not Yet a Woman",
+      "I've Just Begun (Having My Fun)",
+      "Do Somethin'"
+    ]
+  },
+  "entity_id": "00d63cd7-9a09-48a7-b7de-e886ecc8e956",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "354ae200-088c-4ed3-9a24-7bb48061e98d",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Greatest Hits: My Prerogative",
+    "track_count": 20
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (20 tracks) per https://en.wikipedia.org/wiki/Greatest_Hits:_My_Prerogative, https://www.discogs.com/master/722732-Britney-Spears-The-Essential-Britney-Spears. International/Japanese edition, 20 tracks. US standard edition has 16 tracks.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:29.796452+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Jocelyn Flores (2017)",
+    "track_number": 1
+  },
+  "entity_id": "7d5ce3bd-8d87-47f2-84c9-9b13bd0d436a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f36593b1-af17-458e-a59a-defd33a1de72",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Jocelyn Flores (2017)",
+    "title": "Jocelyn Flores (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Jocelyn Flores (2017)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:00.566225+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "To Die For",
+    "track_number": 1
+  },
+  "entity_id": "113620db-6133-47c4-8422-421505eaeed6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e57a333f-6010-408f-be59-2a7d2b329878",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "To Die For",
+    "title": "To Die For"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'To Die For'.",
+  "status": "verified"
+}

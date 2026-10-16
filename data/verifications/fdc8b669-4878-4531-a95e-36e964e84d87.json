@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:07.055863+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Acoustic Break",
+    "track_count": 3,
+    "tracklist": [
+      "Japanese Denim (Live Acoustic)",
+      "Pseudo (Live Acoustic)",
+      "Porn Star (Live Acoustic)"
+    ]
+  },
+  "entity_id": "662806ac-3fad-4989-a66a-196e3ec01558",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fdc8b669-4878-4531-a95e-36e964e84d87",
+  "input": {
+    "artist": "Daniel Caesar",
+    "title": "Acoustic Break",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://archive.illroots.com/read/daniel-caesar-acoustic-break-ep, https://www.classicrockhistory.com/complete-list-of-daniel-caesar-songs-from-a-to-z/. EP (May 2015). Stripped-down live acoustic versions of Praise Break tracks plus new song 'Japanese Denim'.",
+  "status": "verified"
+}

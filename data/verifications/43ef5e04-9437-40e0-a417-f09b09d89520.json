@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:56:25.499069+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Fun in Acapulco",
+    "track_count": 13,
+    "tracklist": [
+      "Fun in Acapulco",
+      "Vino, Dinero Y Amor",
+      "Mexico",
+      "El Toro",
+      "Marguerita",
+      "The Bullfighter Was a Lady",
+      "(There's) No Room to Rhumba in a Sports Car",
+      "I Think I'm Gonna Like It Here",
+      "Bossa Nova Baby",
+      "You Can't Say No in Acapulco",
+      "Guadalajara",
+      "Love Me Tonight",
+      "Slowly But Surely"
+    ]
+  },
+  "entity_id": "516269c3-367d-4765-a98c-01fe5aa60725",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "43ef5e04-9437-40e0-a417-f09b09d89520",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Fun in Acapulco",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Fun_in_Acapulco_(soundtrack), https://www.discogs.com/release/4561181-Elvis-Presley-Fun-In-Acapulco?redirected=true. Original LP RCA Victor LPM/LSP 2756 (Nov 1963), 13 tracks. Tracks 12-13 ('Love Me Tonight', 'Slowly But Surely') are bonus tracks NOT from the film, recorded May 1963.",
+  "status": "verified"
+}

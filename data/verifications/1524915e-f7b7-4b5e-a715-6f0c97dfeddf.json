@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:11.698505+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Do You Like Me?",
+    "track_number": 1
+  },
+  "entity_id": "88db680c-42ff-4516-be3d-eb115cb43de2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1524915e-f7b7-4b5e-a715-6f0c97dfeddf",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Do You Like Me?",
+    "title": "Do You Like Me?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Do You Like Me?'.",
+  "status": "verified"
+}

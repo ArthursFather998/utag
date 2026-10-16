@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:13:02.884549+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "From Elvis Presley Boulevard, Memphis, Tennessee (1976)",
+    "track_count": 10,
+    "tracklist": [
+      "Hurt",
+      "Never Again",
+      "Blue Eyes Crying in the Rain",
+      "Danny Boy",
+      "The Last Farewell",
+      "For the Heart",
+      "Bitter They Are, Harder They Fall",
+      "Solitaire",
+      "Love Coming Down",
+      "I'll Never Fall in Love Again"
+    ]
+  },
+  "entity_id": "2948f54f-8626-47dc-a966-8167ffaaebf9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "36b41ee2-2aa4-47b5-a613-21226c149d1e",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "From Elvis Presley Boulevard, Memphis, Tennessee (1976)",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per http://en.wikipedia.org/wiki/From_Elvis_Presley_Boulevard,_Memphis,_Tennessee, https://www.citizendium.org/wiki/From_Elvis_Presley_Boulevard,_Memphis,_Tennessee. Recorded 'live' in studio at Graceland, not in concert. 2000 FTD 2-disc edition has bonus tracks.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:42.357659+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Milkcow Blues Boogie",
+    "track_number": 1
+  },
+  "entity_id": "72404f58-4969-4d6e-a0a4-4ac829c0c4a7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "018dc683-4385-4680-aa63-6e718065de20",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Milkcow Blues Boogie",
+    "title": "Milkcow Blues Boogie"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Milkcow Blues Boogie'.",
+  "status": "verified"
+}

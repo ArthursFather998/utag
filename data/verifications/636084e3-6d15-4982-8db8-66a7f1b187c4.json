@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:01:41.857295+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Girl Happy",
+    "track_count": 12,
+    "tracklist": [
+      "Girl Happy",
+      "Spring Fever",
+      "Fort Lauderdale Chamber Of Commerce",
+      "Startin' Tonight",
+      "Wolf Call",
+      "Do Not Disturb",
+      "Cross My Heart And Hope To Die",
+      "The Meanest Girl In Town",
+      "Do The Clam",
+      "Puppet On A String",
+      "I've Got To Find My Baby",
+      "You'll Be Gone"
+    ]
+  },
+  "entity_id": "f3d331f0-c7fe-4da5-b947-ae1bb0750de1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "636084e3-6d15-4982-8db8-66a7f1b187c4",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Girl Happy",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Girl_Happy_(soundtrack), https://www.discogs.com. 1965 film soundtrack, 12 tracks.",
+  "status": "verified"
+}

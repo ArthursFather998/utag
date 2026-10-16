@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:06.406422+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Summer Tic",
+    "track_count": 4,
+    "tracklist": [
+      "Emergency (Crab Mix)",
+      "O Star",
+      "Stuck on You",
+      "This Circle"
+    ]
+  },
+  "entity_id": "bd27ade3-c588-49a3-bc0f-abe2a78d03c3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "62b80a16-6a99-4a40-9a28-d8c36014f3d2",
+  "input": {
+    "artist": "Paramore",
+    "title": "The Summer Tic",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/The_Summer_Tic_EP, https://www.discogs.com/release/1895998-Paramore-The-Summer-Tic-EP?redirected=true. Debut EP, self-released June 2006, sold on 2006 Warped Tour. 'Stuck on You' is a Failure cover. 'Emergency (Crab Mix)' features Josh Farro's original screaming. Title comes from a lyric in 'Stuck on You'.",
+  "status": "verified"
+}

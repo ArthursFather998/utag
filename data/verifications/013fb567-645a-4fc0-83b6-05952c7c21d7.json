@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:30.660702+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bam Bam (2022)",
+    "track_number": 1
+  },
+  "entity_id": "01f2c89c-4458-48c0-8243-42296508f2c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "013fb567-645a-4fc0-83b6-05952c7c21d7",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Bam Bam (2022)",
+    "title": "Bam Bam (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bam Bam (2022)'.",
+  "status": "verified"
+}

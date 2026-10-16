@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:54.091655+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Best - Single (2026)",
+    "track_number": 1
+  },
+  "entity_id": "b9f60821-4854-407a-a92e-cda7dcaae061",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88aa4e83-bbff-4b36-b15b-86146beee3fb",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "The Best - Single (2026)",
+    "title": "The Best - Single (2026)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Best - Single (2026)'.",
+  "status": "verified"
+}

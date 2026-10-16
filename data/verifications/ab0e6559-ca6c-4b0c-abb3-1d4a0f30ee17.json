@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:48.18649+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In the Lonely Hour",
+    "track_count": 10,
+    "tracklist": [
+      "Money on My Mind",
+      "Good Thing",
+      "Stay with Me",
+      "Leave Your Lover",
+      "I'm Not the Only One",
+      "I've Told You Now",
+      "Like I Can",
+      "Life Support",
+      "Not in That Way",
+      "Lay Me Down"
+    ]
+  },
+  "entity_id": "e6c177b7-06a7-4911-b850-a6a63fc2eb25",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ab0e6559-ca6c-4b0c-abb3-1d4a0f30ee17",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "In the Lonely Hour",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/In_the_Lonely_Hour, https://de.wikipedia.org/wiki/In_the_Lonely_Hour. Standard 10-track edition. Verified against English and German Wikipedia.",
+  "status": "verified"
+}

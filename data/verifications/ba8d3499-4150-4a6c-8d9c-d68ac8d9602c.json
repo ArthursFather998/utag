@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:02:23.628537+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Frankie and Johnny",
+    "track_count": 12,
+    "tracklist": [
+      "Frankie And Johnny",
+      "Come Along",
+      "Petunia, The Gardener's Daughter",
+      "Chesay",
+      "What Every Woman Lives For",
+      "Look Out, Broadway",
+      "Beginner's Luck",
+      "Down By The Riverside And When The Saints Go Marching In",
+      "Shout It Out",
+      "Hard Luck",
+      "Please Don't Stop Loving Me",
+      "Everybody Come Aboard"
+    ]
+  },
+  "entity_id": "a8db2d93-8265-4924-9cc4-e72878faf834",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ba8d3499-4150-4a6c-8d9c-d68ac8d9602c",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Frankie and Johnny",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com/release/12945493-Elvis-Presley-Frankie-And-Johnny, https://www.elvisthemusic.com/es/music/frankie-and-johnny/. 1966 film soundtrack, 12 tracks. Note: 1976 Pickwick budget reissue 'Frankie & Johnny' omits 3 songs - not used here.",
+  "status": "verified"
+}

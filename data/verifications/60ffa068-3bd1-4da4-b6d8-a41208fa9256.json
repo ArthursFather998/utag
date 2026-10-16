@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:37.677408+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Olivia x Weezer Live",
+    "track_count": 2,
+    "tracklist": [
+      "Buddy Holly",
+      "Say It Ain't So"
+    ]
+  },
+  "entity_id": "5d34f934-1a40-47cd-8e62-b9ed603e51f3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "60ffa068-3bd1-4da4-b6d8-a41208fa9256",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "title": "Olivia x Weezer Live",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://store.oliviarodrigo.com/products/olivia-x-weezer-live-7-vinyl, https://en.wikipedia.org/wiki/Olivia_Rodrigo_discography. 7-inch vinyl single capturing her live performance with Weezer at Lollapalooza (August 2025). Released December 19, 2025 via Geffen. Live versions of two Weezer classics. Limited to 5,000 copies on 'Blue Album' blue vinyl.",
+  "status": "verified"
+}

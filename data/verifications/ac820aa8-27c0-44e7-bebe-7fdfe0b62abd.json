@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:00.779812+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Do You Wanna Come Over?",
+    "track_number": 1
+  },
+  "entity_id": "fa226575-b265-4239-b258-5d594dd33378",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac820aa8-27c0-44e7-bebe-7fdfe0b62abd",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Do You Wanna Come Over?",
+    "title": "Do You Wanna Come Over?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Do You Wanna Come Over?'.",
+  "status": "verified"
+}

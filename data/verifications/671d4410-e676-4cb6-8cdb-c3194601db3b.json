@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:17:16.706492+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Me Tender",
+    "track_count": 4,
+    "tracklist": [
+      "Love Me Tender",
+      "Let Me",
+      "Poor Boy",
+      "We're Gonna Move"
+    ]
+  },
+  "entity_id": "4da74e57-0d0d-43b0-8e4f-c29fe11345af",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "671d4410-e676-4cb6-8cdb-c3194601db3b",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Love Me Tender",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Love_Me_Tender_(EP), https://www.scribd.com/document/24715777/Elvis-Presley-Disk-01. DUPLICATE: Same EP as 'Love Me Tender (1956)' (917924cd-10e6-4e23-9e01-b583348ff529). 1997 CD reissue adds Jailhouse Rock soundtrack songs.",
+  "status": "verified"
+}

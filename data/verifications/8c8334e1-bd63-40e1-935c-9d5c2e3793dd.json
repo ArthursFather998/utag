@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:32.534355+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dangerously (2016)",
+    "track_number": 1
+  },
+  "entity_id": "7f598d8f-5c25-43c1-b0d6-56085194e2ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c8334e1-bd63-40e1-935c-9d5c2e3793dd",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Dangerously (2016)",
+    "title": "Dangerously (2016)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Dangerously (2016)'.",
+  "status": "verified"
+}

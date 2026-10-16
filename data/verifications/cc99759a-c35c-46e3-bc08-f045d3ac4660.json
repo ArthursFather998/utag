@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:15.344593+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Boredom",
+    "track_number": 1
+  },
+  "entity_id": "79d02e11-9ae8-438c-8338-15a9a57a7002",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc99759a-c35c-46e3-bc08-f045d3ac4660",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Boredom",
+    "title": "Boredom"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Boredom'.",
+  "status": "verified"
+}

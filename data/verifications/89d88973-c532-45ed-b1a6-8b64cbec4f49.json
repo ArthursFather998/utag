@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:58.149431+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Moon (2025)",
+    "track_number": 1
+  },
+  "entity_id": "4b2d63e0-8ad5-4c27-a2df-bc29c4b300eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89d88973-c532-45ed-b1a6-8b64cbec4f49",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Moon (2025)",
+    "title": "Moon (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Moon (2025)'.",
+  "status": "verified"
+}

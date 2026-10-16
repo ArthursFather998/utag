@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:36.394354+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Nonsense",
+    "track_number": 1
+  },
+  "entity_id": "768fcae6-2845-4ed5-9c94-567016bba0c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "242da7ef-6c0a-47e6-bcb9-758a0601f684",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Nonsense",
+    "title": "Nonsense"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Nonsense'.",
+  "status": "verified"
+}

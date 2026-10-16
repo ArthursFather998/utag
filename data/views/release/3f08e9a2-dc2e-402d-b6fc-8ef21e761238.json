@@ -816,6 +816,108 @@
     "title": "Singles Club",
     "updated_at": "2026-10-16T04:19:10.346397+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:23:18.166424+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "df53fa34-3b5b-47fc-9761-1b52c16e0db0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3f08e9a2-dc2e-402d-b6fc-8ef21e761238",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Monster",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:23:18.166424+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:23:18.795095+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "49156e65-8d2f-42a6-ba3b-622319c5338a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3f08e9a2-dc2e-402d-b6fc-8ef21e761238",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Renegade",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:23:18.795095+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:23:19.357085+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "074a599f-ebb6-4cc1-b358-304458c39582",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3f08e9a2-dc2e-402d-b6fc-8ef21e761238",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Hello Cold World",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:23:19.357085+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:23:19.887925+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "44844a3a-4a29-4f9f-9cd1-2258f6781379",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3f08e9a2-dc2e-402d-b6fc-8ef21e761238",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "In the Mourning",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:23:19.887925+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:23:20.499321+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Singles Club",
+        "track_count": 4,
+        "tracklist": [
+          "Monster",
+          "Renegade",
+          "Hello Cold World",
+          "In the Mourning"
+        ]
+      },
+      "entity_id": "3f08e9a2-dc2e-402d-b6fc-8ef21e761238",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "e3fce36b-1e7b-47e7-8fbd-644e904896db",
+      "input": {
+        "artist": "Paramore",
+        "title": "Singles Club",
+        "track_count": 4
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Singles_Club_(EP), https://www.discogs.com/release/3305777-Paramore-Singles-Club. Fourth EP. Songs released as singles Oct-Dec 2011, box set December 13, 2011 (3,500 copies, 4x 7-inch vinyl). Recorded March 2011. 'Monster' also appeared on the Transformers: Dark of the Moon soundtrack.",
+      "status": "verified"
+    }
+  ]
 }

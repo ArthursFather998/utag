@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:40.021193+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That's Not How This Works (Sabrina's Version)",
+    "track_number": 1
+  },
+  "entity_id": "444830e6-b7ae-4baa-b574-4921d871403d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "74db94cb-e28f-46ec-a379-2c4da3db8899",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "That's Not How This Works (Sabrina's Version)",
+    "title": "That's Not How This Works (Sabrina's Version)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'That's Not How This Works (Sabrina's Version)'.",
+  "status": "verified"
+}

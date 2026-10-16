@@ -830,6 +830,89 @@
     "title": "Pandora Sessions - EP",
     "updated_at": "2026-10-16T04:04:04.403305+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:20:01.319075+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "92146f31-7d7f-44d1-8f21-ca356940c7bb",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3e85e255-ae0c-4a69-8167-99a5f5cf4de3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Thumbs (Live at Pandora Headquarters, Oakland / February 2017)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:20:01.319075+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:20:02.233863+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "da121e23-8a1b-4505-bc43-fa66cdedf16c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3e85e255-ae0c-4a69-8167-99a5f5cf4de3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "On Purpose (Live at Pandora Headquarters, Oakland / February 2017)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:20:02.233863+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:20:03.332842+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f345509b-ca73-441f-80fa-effee6a17647",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3e85e255-ae0c-4a69-8167-99a5f5cf4de3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Feels Like Loneliness (Live at Pandora Headquarters, Oakland / February 2017)",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:20:03.332842+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:20:04.103419+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Pandora Sessions - EP",
+        "track_count": 3,
+        "tracklist": [
+          "Thumbs (Live at Pandora Headquarters, Oakland / February 2017)",
+          "On Purpose (Live at Pandora Headquarters, Oakland / February 2017)",
+          "Feels Like Loneliness (Live at Pandora Headquarters, Oakland / February 2017)"
+        ]
+      },
+      "entity_id": "3e85e255-ae0c-4a69-8167-99a5f5cf4de3",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "fb354db5-488c-4486-8dd4-cf1cb05acd75",
+      "input": {
+        "artist": "Sabrina Carpenter",
+        "title": "Pandora Sessions - EP",
+        "track_count": 3
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (3 tracks) per https://www.classicrockhistory.com/complete-list-of-sabrina-carpenter-albums-and-discography/, https://www.jiosaavn.com/album/pandora-sessions/txR1v7p2ncQ_. Three-track live EP (2017); acoustic performances recorded at Pandora HQ, Oakland, February 2017. Official track titles include the parenthetical live descriptor.",
+      "status": "verified"
+    }
+  ]
 }

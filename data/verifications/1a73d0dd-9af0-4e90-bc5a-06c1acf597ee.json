@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:57.008073+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My Oasis",
+    "track_number": 1
+  },
+  "entity_id": "735284fd-b19c-4e50-82c0-d4663fca3ada",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1a73d0dd-9af0-4e90-bc5a-06c1acf597ee",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "My Oasis",
+    "title": "My Oasis"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My Oasis'.",
+  "status": "verified"
+}

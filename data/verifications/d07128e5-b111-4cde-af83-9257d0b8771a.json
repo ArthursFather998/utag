@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:35.435224+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Remix",
+    "track_count": 6,
+    "tracklist": [
+      "Dancing with a Stranger (Cheat Codes Remix)",
+      "To Die For (Blinkie Remix)",
+      "Omen (Dillon Francis Remix)",
+      "Lay Me Down (Flume Remix)",
+      "La La La (Kaos Remix)",
+      "Too Good at Goodbyes (Galantis Remix)"
+    ]
+  },
+  "entity_id": "cfb6c65c-9cad-49db-a5dc-3a613d6d95ce",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d07128e5-b111-4cde-af83-9257d0b8771a",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Remix",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://www.youtube.com/@samsmith, https://www.muxicbeats.com/sam-smith-songs/. Remix EP, 6 tracks. Verified against Sam Smith's official YouTube (Sampler Media uploads) and muxicbeats.com tracklist.",
+  "status": "verified"
+}

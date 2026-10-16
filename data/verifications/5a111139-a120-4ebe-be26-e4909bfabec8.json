@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:06.654844+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Girl Is Mine",
+    "track_number": 1
+  },
+  "entity_id": "0a71cd87-d244-4b42-aede-39db96df416e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a111139-a120-4ebe-be26-e4909bfabec8",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "The Girl Is Mine",
+    "title": "The Girl Is Mine"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Girl Is Mine'.",
+  "status": "verified"
+}

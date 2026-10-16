@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:52.574252+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Fall",
+    "track_count": 5,
+    "tracklist": [
+      "Never",
+      "Ghost",
+      "The Fall",
+      "White Girl",
+      "Fuckabitchface"
+    ]
+  },
+  "entity_id": "5c8da5d5-064d-4d18-aa03-cbd30ac9df00",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "39d53457-86d5-49d9-8d10-3b7c783cad16",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "The Fall",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.mediaclub.com/en/album/x/xxxtentacion/the_fall_mixtape.487692.html, https://www.youtube.com/watch?v=RhGp3IflnPo. Mixtape released November 21, 2014. 5 tracks. Both sources agree on identical order.",
+  "status": "verified"
+}

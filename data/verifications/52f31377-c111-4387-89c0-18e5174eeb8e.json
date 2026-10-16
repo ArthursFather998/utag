@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:32.929599+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Raise 'Em Up",
+    "track_number": 1
+  },
+  "entity_id": "1fa63ee8-816e-4d24-8f71-c6f5fdd02cb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52f31377-c111-4387-89c0-18e5174eeb8e",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Raise 'Em Up",
+    "title": "Raise 'Em Up"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Raise 'Em Up'.",
+  "status": "verified"
+}

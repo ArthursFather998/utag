@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:24.390543+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Mind Is the Magic",
+    "track_number": 1
+  },
+  "entity_id": "bab29710-68af-465e-87a0-cf46471a38b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "746b296c-aff4-4822-98bf-f1ef66446494",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Mind Is the Magic",
+    "title": "Mind Is the Magic"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Mind Is the Magic'.",
+  "status": "verified"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:15.430723+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Way I Am (Acoustic + Remixes)",
+    "track_count": 4,
+    "tracklist": [
+      "The Way I Am (Acoustic)",
+      "The Way I Am (Eden Prince Remix)",
+      "The Way I Am (Taska Black Remix)",
+      "The Way I Am (Slushii Remix)"
+    ]
+  },
+  "entity_id": "93e9f9d3-c41f-4f13-9950-65425d12c90f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4d6d8e66-e45f-44c7-9e58-80e3ed9d9a2a",
+  "input": {
+    "artist": "Charlie Puth",
+    "title": "The Way I Am (Acoustic + Remixes)",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://grokipedia.com/page/Charlie_Puth_discography, https://en.wikipedia.org/wiki/The_Way_I_Am_(Charlie_Puth_song). Digital EP released July 27, 2018 (Atlantic): acoustic version of 'The Way I Am' plus three remixes (Eden Prince, Taska Black, Slushii). Duplicate entry 'The Way I Am (Acoustic + Remixes) (2018)' is the same EP — recommend merge/delete.",
+  "status": "verified"
+}

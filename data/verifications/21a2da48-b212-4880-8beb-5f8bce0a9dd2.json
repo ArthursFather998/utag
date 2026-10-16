@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:16:37.452101+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "House of Cards",
+    "track_number": 1
+  },
+  "entity_id": "ee540b3e-daea-4963-805d-9ec7cafca40d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21a2da48-b212-4880-8beb-5f8bce0a9dd2",
+  "input": {
+    "artist": "Radiohead",
+    "release": "House of Cards",
+    "title": "House of Cards"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'House of Cards'.",
+  "status": "verified"
+}

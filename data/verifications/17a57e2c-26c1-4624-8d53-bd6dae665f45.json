@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:52.360211+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Juliet",
+    "track_number": 1
+  },
+  "entity_id": "d0bce3ef-2e80-4485-a358-38a66a7b590d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17a57e2c-26c1-4624-8d53-bd6dae665f45",
+  "input": {
+    "artist": "JVKE",
+    "release": "Juliet",
+    "title": "Juliet"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Juliet'.",
+  "status": "verified"
+}

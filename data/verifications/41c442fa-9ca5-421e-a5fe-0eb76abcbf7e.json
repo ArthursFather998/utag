@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:18.919844+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "(Marie's the Name) His Latest Flame",
+    "track_number": 1
+  },
+  "entity_id": "22a9c9ad-1714-4c37-acb6-2be462a360a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41c442fa-9ca5-421e-a5fe-0eb76abcbf7e",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "(Marie's the Name) His Latest Flame",
+    "title": "(Marie's the Name) His Latest Flame"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '(Marie's the Name) His Latest Flame'.",
+  "status": "verified"
+}

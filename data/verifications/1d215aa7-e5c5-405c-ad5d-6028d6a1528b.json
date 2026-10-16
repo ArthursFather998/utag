@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:13.980304+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Merry Christmas",
+    "track_number": 1
+  },
+  "entity_id": "81757863-2611-4543-b38e-840de0dd2336",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d215aa7-e5c5-405c-ad5d-6028d6a1528b",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Merry Christmas",
+    "title": "Merry Christmas"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Merry Christmas'.",
+  "status": "verified"
+}

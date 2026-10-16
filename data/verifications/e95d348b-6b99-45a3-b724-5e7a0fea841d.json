@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:05.938708+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "She",
+    "track_number": 1
+  },
+  "entity_id": "0da87c5b-a0b6-4874-aa0b-8ae9e78d3202",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e95d348b-6b99-45a3-b724-5e7a0fea841d",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "She",
+    "title": "She"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'She'.",
+  "status": "verified"
+}

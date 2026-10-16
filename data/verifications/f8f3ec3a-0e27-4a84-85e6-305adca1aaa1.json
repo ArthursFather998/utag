@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:43.015167+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Watchtower",
+    "track_number": 1
+  },
+  "entity_id": "22e6b0bb-73fe-4df4-9d81-055c003b6e2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f8f3ec3a-0e27-4a84-85e6-305adca1aaa1",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Watchtower",
+    "title": "Watchtower"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Watchtower'.",
+  "status": "verified"
+}

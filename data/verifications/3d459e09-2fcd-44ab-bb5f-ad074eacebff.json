@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:51:17.489961+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Play (Deluxe)",
+    "track_count": 15,
+    "tracklist": [
+      "Opening",
+      "Sapphire",
+      "Azizam",
+      "Old Phone",
+      "Symmetry",
+      "Camera",
+      "In Other Words",
+      "A Little More",
+      "Slowly",
+      "Don't Look Down",
+      "The Vow",
+      "For Always",
+      "Heaven",
+      "Problems",
+      "War Game"
+    ]
+  },
+  "entity_id": "7b5d5acd-e46a-4164-ba13-e5aaaf387bd0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3d459e09-2fcd-44ab-bb5f-ad074eacebff",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Play (Deluxe)",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://usstore.edsheeran.com/products/play-deluxe-cd, https://store.warnermusic.com.au/products/play-deluxe-cd-signed-polaroid. 15 tracks = 13 standard Play tracks + 2 deluxe bonus tracks (Problems, War Game), per Ed Sheeran's official US store and Warner Music Australasia. Deluxe CD release date: 12 September 2025. Note: a later 'expanded deluxe' (streaming/book LP, 28 Nov 2025) adds 13 more tracks (Regrets, Freedom, Skeletons, Technicolor, Satellite, Lights Out, Fade Out, Crashing, Rapture, Spiral, I Don't Wanna Go To Bed, Sapphire feat. Arijit Singh, etc.) — that is a separate later expanded edition, NOT this Deluxe CD release.",
+  "status": "verified"
+}

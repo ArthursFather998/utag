@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:17.204475+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Don't Love You",
+    "track_number": 1
+  },
+  "entity_id": "0e76e71b-8b96-41e7-82e5-56494fd31cc0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45097c2b-4e4e-4273-ad00-08080d26c273",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "I Don't Love You",
+    "title": "I Don't Love You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Don't Love You'.",
+  "status": "verified"
+}

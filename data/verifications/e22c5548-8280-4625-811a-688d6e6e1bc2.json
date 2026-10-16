@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:13.731799+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Violets Are Blue",
+    "track_count": 5,
+    "tracklist": [
+      "Another One",
+      "Kids Again",
+      "Forgive Myself",
+      "Young",
+      "Fix You (Live)"
+    ]
+  },
+  "entity_id": "9cc09629-8584-4c30-b754-d06fb321072a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e22c5548-8280-4625-811a-688d6e6e1bc2",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Violets Are Blue",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.muxicbeats.com/sam-smith-songs/, https://www.youtube.com/@samsmith. Concept EP, 5 tracks. Released November 24, 2020. Part of a series of flower-themed EPs. Verified against muxicbeats.com and Sam Smith's official YouTube channel (concept EP series confirmed).",
+  "status": "verified"
+}

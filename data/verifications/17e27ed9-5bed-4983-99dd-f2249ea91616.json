@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:03.931267+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I'm a Slave 4 U (2001)",
+    "track_number": 1
+  },
+  "entity_id": "0bded864-c879-4b9c-9b32-32bf3fd3d7af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "17e27ed9-5bed-4983-99dd-f2249ea91616",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "I'm a Slave 4 U (2001)",
+    "title": "I'm a Slave 4 U (2001)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I'm a Slave 4 U (2001)'.",
+  "status": "verified"
+}

@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:53:45.181377+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis' Gold Records Volume 4 (1968)",
+    "track_count": 12,
+    "tracklist": [
+      "Love Letters",
+      "Witchcraft",
+      "It Hurts Me",
+      "What'd I Say",
+      "Please Don't Drag That String Around",
+      "Indescribably Blue",
+      "(You're the) Devil in Disguise",
+      "Lonely Man",
+      "A Mess of Blues",
+      "Ask Me",
+      "Ain't That Loving You Baby",
+      "Just Tell Her Jim Said Hello"
+    ]
+  },
+  "entity_id": "c2db02f2-4935-42c8-ab06-897e967a7a82",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fc26e993-ae04-4d50-8c1e-d39b1b63cda9",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis' Gold Records Volume 4 (1968)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com/release/2192724-Elvis-Presley-Elvis-Gold-Records-Volume-4?redirected=true, https://citizendium.org/wiki/Elvis%27_Gold_Records,_Volume_4. 1968 RCA Victor compilation (LSP-3921/LPM-3921) of 1961-1967 singles: 5 A-sides and 7 B-sides. 12-track sequence identical across Discogs US pressing, Citizendium and RareVinyl UK listing. The withdrawn UK sleeve (RD-7924) misprints 'Love Letters' as 'Never Ending' on the front cover; the vinyl track is 'Love Letters'.",
+  "status": "verified"
+}

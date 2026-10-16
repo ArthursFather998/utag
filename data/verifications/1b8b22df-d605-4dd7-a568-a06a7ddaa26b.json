@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:58:58.504549+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis",
+    "track_count": 10,
+    "tracklist": [
+      "Fool",
+      "Where Do I Go from Here?",
+      "Love Me, Love the Life I Lead",
+      "It's Still Here",
+      "It's Impossible",
+      "(That's What You Get) For Lovin' Me",
+      "Padre",
+      "I'll Take You Home Again, Kathleen",
+      "I Will Be True",
+      "Don't Think Twice, It's All Right"
+    ]
+  },
+  "entity_id": "b3f63e3b-10bf-4c82-a68c-3cb8552c9dc6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1b8b22df-d605-4dd7-a568-a06a7ddaa26b",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/Elvis_(1973_album), https://citizendium.org/wiki/Elvis_(1973_album). Identified as the 1973 self-titled album (a.k.a. the 'Fool' album), 10-track original LP sequence. Not the 1956 debut.",
+  "status": "verified"
+}

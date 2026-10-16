@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:30.679448+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Singles 4 You",
+    "track_count": 2,
+    "tracklist": [
+      "Good 4 U",
+      "Enough for You (Piano Version)"
+    ]
+  },
+  "entity_id": "f0bf09c0-b5ef-4e71-b819-4170f2bbd6de",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "770d8abc-6b9b-4c45-a277-a0745654bbbc",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "title": "Singles 4 You",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://en.wikipedia.org/wiki/Olivia_Rodrigo_discography, https://www.discogs.com/release/22949921-Olivia-Rodrigo-Singles-4-You. Debut EP. Urban Outfitters Singles Day exclusive 12-inch vinyl. Announced November 11, 2021, released April 1, 2022 via Geffen. 2 tracks.",
+  "status": "verified"
+}

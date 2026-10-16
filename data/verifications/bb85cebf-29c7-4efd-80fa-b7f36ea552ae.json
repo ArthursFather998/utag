@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:11:59.351936+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis (1956)",
+    "track_count": 12,
+    "tracklist": [
+      "Rip It Up",
+      "Love Me",
+      "When My Blue Moon Turns to Gold Again",
+      "Long Tall Sally",
+      "First in Line",
+      "Paralyzed",
+      "So Glad You're Mine",
+      "Old Shep",
+      "Ready Teddy",
+      "Anyplace Is Paradise",
+      "How's the World Treating You?",
+      "How Do You Think I Feel?"
+    ]
+  },
+  "entity_id": "a1e5cc73-7e13-4efe-95f3-eea65edaffce",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bb85cebf-29c7-4efd-80fa-b7f36ea552ae",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis (1956)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Elvis_(1956_album), https://www.allmusic.com/. DUPLICATE: Same album as 'Elvis' (4a428c38-3b73-4537-a3ff-6085d4219306). Year-suffix title variant.",
+  "status": "verified"
+}

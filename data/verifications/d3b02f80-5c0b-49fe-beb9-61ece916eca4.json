@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:32.316458+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Burning",
+    "track_number": 1
+  },
+  "entity_id": "2fafaffb-2946-4c70-8bd8-e3c779f4bd8c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3b02f80-5c0b-49fe-beb9-61ece916eca4",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Burning",
+    "title": "Burning"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Burning'.",
+  "status": "verified"
+}

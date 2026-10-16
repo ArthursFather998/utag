@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:46.677685+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "After All (with Elton John)",
+    "track_number": 1
+  },
+  "entity_id": "2f8e1757-b6f7-4c7d-9634-906a2c1189af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c6b2f69-e1eb-45f2-9738-521b0734ede8",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "After All (with Elton John)",
+    "title": "After All (with Elton John)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'After All (with Elton John)'.",
+  "status": "verified"
+}

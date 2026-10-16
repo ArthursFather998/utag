@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:57.481393+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "=",
+    "track_count": 14,
+    "tracklist": [
+      "Tides",
+      "Shivers",
+      "First Times",
+      "Bad Habits",
+      "Overpass Graffiti",
+      "The Joker and the Queen",
+      "Leave Your Life",
+      "Collide",
+      "2step",
+      "Stop the Rain",
+      "Love in Slow Motion",
+      "Visiting Hours",
+      "Sandman",
+      "Be Right Now"
+    ]
+  },
+  "entity_id": "d56a68c7-47db-4de8-859d-7e669ff4669c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bb9aaafc-aac2-4e24-9209-e597aaf0cef2",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "=",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/%3D_(album), https://www.discogs.com/master/2356768-Ed-Sheeran--Equals?redirected=true. Standard 14-track edition. '2step' is stylized lowercase; 'The Joker and the Queen' sentence-cased.",
+  "status": "verified"
+}

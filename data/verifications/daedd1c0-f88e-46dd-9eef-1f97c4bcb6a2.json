@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:37.703265+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Split with Keel Her",
+    "track_count": 8,
+    "tracklist": [
+      "Brain Jus",
+      "Complain Train",
+      "Settle Down",
+      "Fantasy",
+      "Sis",
+      "Turbulence",
+      "Edith",
+      "#12 Looks Just Like You"
+    ]
+  },
+  "entity_id": "1d0a1e4c-49bb-47e8-9b04-ef2ad007204a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "daedd1c0-f88e-46dd-9eef-1f97c4bcb6a2",
+  "input": {
+    "artist": "Clairo",
+    "title": "Split with Keel Her",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per http://thirdfloortapes.bandcamp.com/album/keel-her-claire-cottrill, http://betterontape.com/search.php?item=413473. Split cassette with Keel Her on Third Floor Tapes, released July 6, 2016 (Bandcamp) / April 10, 2016 (TFT). Tracks 1-4 by Keel Her ('Fantasy' is a Paul Nova cover), tracks 5-8 by Claire Cottrill ('#12 Looks Just Like You' is a Furnsss cover). 'Split with Keel Her (2016)' is a year-suffix duplicate.",
+  "status": "verified"
+}

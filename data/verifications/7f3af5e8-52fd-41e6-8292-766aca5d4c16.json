@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:01.456819+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Don't Be Cruel (1956)",
+    "track_number": 1
+  },
+  "entity_id": "e0d7c4dd-7d24-4dfb-882a-0f2099de6560",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7f3af5e8-52fd-41e6-8292-766aca5d4c16",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Don't Be Cruel (1956)",
+    "title": "Don't Be Cruel (1956)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Don't Be Cruel (1956)'.",
+  "status": "verified"
+}

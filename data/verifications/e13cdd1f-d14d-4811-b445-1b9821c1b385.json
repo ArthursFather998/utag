@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:00.303461+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Told You So",
+    "track_number": 1
+  },
+  "entity_id": "97aabfab-c25d-4e52-82fe-125e297da1e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e13cdd1f-d14d-4811-b445-1b9821c1b385",
+  "input": {
+    "artist": "Paramore",
+    "release": "Told You So",
+    "title": "Told You So"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Told You So'.",
+  "status": "verified"
+}

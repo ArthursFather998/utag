@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:09.552907+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Deathcamp",
+    "track_number": 1
+  },
+  "entity_id": "464617b5-b97f-4fc1-89a3-ce4b3ed43b18",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe7e742d-9894-45a7-8afa-60b057cc714f",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Deathcamp",
+    "title": "Deathcamp"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Deathcamp'.",
+  "status": "verified"
+}

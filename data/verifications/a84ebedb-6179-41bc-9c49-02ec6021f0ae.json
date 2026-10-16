@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:13.056475+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "ItWasntEnough (2023)",
+    "track_count": 4,
+    "tracklist": [
+      "Snow",
+      "01 MANIKIN",
+      "I LUv My CLiQuE LiKe KaNyE WeSt",
+      "I spoke to the devil in miami, he said everything would be fine"
+    ]
+  },
+  "entity_id": "e160766e-e4b0-49bf-9bb0-2c32e5dcb0e8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a84ebedb-6179-41bc-9c49-02ec6021f0ae",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "ItWasntEnough (2023)",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/XXXTentacion_discography, https://www.lyricsfromatoz.com/artist/xxxtentacion-lyrics. 2023 official re-release of the 2016 EP via Bad Vibes Forever/Columbia. Same 4 tracks. Kept as a separate release (official reissue), not a duplicate.",
+  "status": "verified"
+}

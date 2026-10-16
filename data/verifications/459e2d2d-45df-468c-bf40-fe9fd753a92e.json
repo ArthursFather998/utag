@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:11.32278+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Michael",
+    "track_count": 10,
+    "tracklist": [
+      "Hold My Hand",
+      "Hollywood Tonight",
+      "Keep Your Head Up",
+      "(I Like) The Way You Love Me",
+      "Monster",
+      "Best of Joy",
+      "Breaking News",
+      "(I Can't Make It) Another Day",
+      "Behind the Mask",
+      "Much Too Soon"
+    ]
+  },
+  "entity_id": "0d5a4e92-b7a0-4b4b-b91c-4a5f4be5b7b8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "459e2d2d-45df-468c-bf40-fe9fd753a92e",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Michael",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/Michael_(Michael_Jackson_album), https://simple.wikipedia.org/wiki/Michael_(Michael_Jackson_album). First posthumous album (2010). Original 10-track edition; a 2022 revision removed 3 contested Cascio tracks (Keep Your Head Up, Monster, Breaking News). This entry uses the original 2010 tracklist.",
+  "status": "verified"
+}

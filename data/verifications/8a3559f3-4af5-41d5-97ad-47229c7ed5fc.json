@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:03.542511+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My Boy",
+    "track_number": 1
+  },
+  "entity_id": "556de744-e4a2-43e9-8e77-282635e7f196",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a3559f3-4af5-41d5-97ad-47229c7ed5fc",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "My Boy",
+    "title": "My Boy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My Boy'.",
+  "status": "verified"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:59:10.016659+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Just for You",
+    "track_count": 4,
+    "tracklist": [
+      "I Need You So",
+      "Have I Told You Lately That I Love You",
+      "Blueberry Hill",
+      "Is It So Strange"
+    ]
+  },
+  "entity_id": "cbbb7fbb-0d49-4285-9877-9262c135579d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "23e4eb75-2193-4850-9668-71656e88b657",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Just for You",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.elvisthemusic.com/music/just-for-you/, https://www.spirit-of-rock.com/en/album/Just_for_You/50933. 1957 EP (EPA-4041). 4-track sequence.",
+  "status": "verified"
+}

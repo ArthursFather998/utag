@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:33.687457+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Are You Entertained (2022)",
+    "track_number": 1
+  },
+  "entity_id": "aace8e32-dc0a-4d4a-a354-2c170fc7aaf2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f91247d-3d7d-4461-a6e4-09ac4b05ac35",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Are You Entertained (2022)",
+    "title": "Are You Entertained (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Are You Entertained (2022)'.",
+  "status": "verified"
+}

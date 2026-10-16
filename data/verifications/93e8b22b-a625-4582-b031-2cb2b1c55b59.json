@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:27.019583+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Love Rock 'n' Roll",
+    "track_number": 1
+  },
+  "entity_id": "bd57ece4-5eb4-42bc-b597-28fc6962580f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93e8b22b-a625-4582-b031-2cb2b1c55b59",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "I Love Rock 'n' Roll",
+    "title": "I Love Rock 'n' Roll"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Love Rock 'n' Roll'.",
+  "status": "verified"
+}

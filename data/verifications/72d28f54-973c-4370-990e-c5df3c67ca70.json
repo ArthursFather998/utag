@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:12.588679+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Til It's Gone (2013)",
+    "track_number": 1
+  },
+  "entity_id": "ac2cd4ea-c562-44ed-9dca-12ab7c7f5182",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72d28f54-973c-4370-990e-c5df3c67ca70",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Til It's Gone (2013)",
+    "title": "Til It's Gone (2013)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Til It's Gone (2013)'.",
+  "status": "verified"
+}

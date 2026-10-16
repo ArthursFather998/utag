@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:23.7371+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In the Zone",
+    "track_count": 13,
+    "tracklist": [
+      "Me Against the Music",
+      "(I Got That) Boom Boom",
+      "Showdown",
+      "Breathe on Me",
+      "Early Mornin'",
+      "Toxic",
+      "Outrageous",
+      "Touch of My Hand",
+      "The Hook Up",
+      "Shadow",
+      "Brave New Girl",
+      "Everytime",
+      "Me Against the Music (Rishi Rich's Desi Kulcha Remix)"
+    ]
+  },
+  "entity_id": "01a593eb-8c74-4afb-839f-2b6e83f2a424",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9adac3be-e6c3-4758-bb73-a9d74e432b0e",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "In the Zone",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://simple.wikipedia.org/wiki/In_the_Zone, https://britneyspears.fandom.com/wiki/In_the_Zone. Standard edition, 13 tracks including the Rishi Rich remix.",
+  "status": "verified"
+}

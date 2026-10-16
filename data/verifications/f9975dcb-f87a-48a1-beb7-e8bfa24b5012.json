@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:28.073073+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Rubberneckin' (2003)",
+    "track_number": 1
+  },
+  "entity_id": "69cdb57a-a64c-4b86-92ee-c1476c795ca7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9975dcb-f87a-48a1-beb7-e8bfa24b5012",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Rubberneckin' (2003)",
+    "title": "Rubberneckin' (2003)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Rubberneckin' (2003)'.",
+  "status": "verified"
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:50:35.362814+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Deezer Session",
+    "track_count": 3,
+    "tracklist": [
+      "Don't",
+      "Sing",
+      "Thinking Out Loud"
+    ]
+  },
+  "entity_id": "2d5c3e77-437f-4828-bd35-607b1a344132",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "14e191df-0ef2-4ddd-8479-c547928cf2f9",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Deezer Session",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://musicbrainz.org/release/d105c1d9-4ebb-4e53-8bbb-df64fb631839, https://newsroom-deezer.com/2014/07/ed-sheeran-deezer-session/. DUPLICATE ROW of 'Deezer Session' (2014): both are the same 18 August 2014 Atlantic digital EP (barcode 825646221158). MusicBrainz track order corroborated by the official Deezer newsroom, which confirms Sheeran performed 'Sing', 'Thinking Out Loud' and 'Don't' at Deezer HQ Paris. NOTE: there is a SEPARATE, unrelated 2021 'Deezer Session' EP (Shivers + Bad Habits, recorded at Centre Pompidou for the '=' album) — do not merge that one with this 2014 release.",
+  "status": "verified"
+}

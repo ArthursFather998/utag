@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:06.342553+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Claire Cottrill",
+    "track_count": 5,
+    "tracklist": [
+      "Kiss Me, Kiss Me",
+      "I Saw U Leave",
+      "U Don't Want Me",
+      "Aquarius Boy",
+      "Dreams"
+    ]
+  },
+  "entity_id": "2fba1197-6af5-4405-9725-f10efed5fd95",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "77f24e5f-83d1-418f-8507-70abe591af98",
+  "input": {
+    "artist": "Clairo",
+    "title": "Claire Cottrill",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://clairo.fandom.com/wiki/Claire_Cottrill, https://en.wikipedia.org/wiki/Clairo_discography. EP, released April 18, 2015. First EP sold on handmade cassettes. 'Claire Cottrill (2015)' is a year-suffix duplicate.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:20.782108+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Heavy / Sienna",
+    "track_number": 1
+  },
+  "entity_id": "567e27c3-87f6-4021-a62e-f919a3c11669",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9eb98dc5-8d0a-4078-bc0b-2af46c111701",
+  "input": {
+    "artist": "The Marías",
+    "release": "Heavy / Sienna",
+    "title": "Heavy / Sienna"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Heavy / Sienna'.",
+  "status": "verified"
+}

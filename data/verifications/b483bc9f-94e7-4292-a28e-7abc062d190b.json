@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:51.146743+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Good Rockin' Tonight",
+    "track_number": 1
+  },
+  "entity_id": "bb64821d-e08b-4bf0-9140-10dcd1a6f7fc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b483bc9f-94e7-4292-a28e-7abc062d190b",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Good Rockin' Tonight",
+    "title": "Good Rockin' Tonight"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Good Rockin' Tonight'.",
+  "status": "verified"
+}

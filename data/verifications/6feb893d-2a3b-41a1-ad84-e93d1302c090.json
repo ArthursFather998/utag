@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:04.343608+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My Only Wish (This Year)",
+    "track_number": 1
+  },
+  "entity_id": "b3ca875f-9e53-4c50-bfcc-e8e5a80b67bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6feb893d-2a3b-41a1-ad84-e93d1302c090",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "My Only Wish (This Year)",
+    "title": "My Only Wish (This Year)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My Only Wish (This Year)'.",
+  "status": "verified"
+}

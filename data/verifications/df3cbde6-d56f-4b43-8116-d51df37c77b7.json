@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:49.124544+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Womanizer",
+    "track_number": 1
+  },
+  "entity_id": "5e8e5118-b156-4a51-b4ac-22f1c4d9cae0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df3cbde6-d56f-4b43-8116-d51df37c77b7",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Womanizer",
+    "title": "Womanizer"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Womanizer'.",
+  "status": "verified"
+}

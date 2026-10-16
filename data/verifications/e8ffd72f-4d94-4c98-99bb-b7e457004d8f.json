@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:00.116221+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Out for the Night (Live)",
+    "track_number": 1
+  },
+  "entity_id": "ddf8f82a-dbec-4d62-9479-286b4c56b9dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e8ffd72f-4d94-4c98-99bb-b7e457004d8f",
+  "input": {
+    "artist": "The Marías",
+    "release": "Out for the Night (Live)",
+    "title": "Out for the Night (Live)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Out for the Night (Live)'.",
+  "status": "verified"
+}

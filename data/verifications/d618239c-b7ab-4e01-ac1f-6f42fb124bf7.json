@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:17.56261+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "2step",
+    "track_number": 1
+  },
+  "entity_id": "ba73e56d-f439-475d-b886-787516248f72",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d618239c-b7ab-4e01-ac1f-6f42fb124bf7",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "2step",
+    "title": "2step"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '2step'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:01.915149+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All About It",
+    "track_number": 1
+  },
+  "entity_id": "d564e27e-ad70-41b8-a8ea-3a2933fce1f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b2877a1f-b928-441d-8038-c946c7d1c7c7",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "All About It",
+    "title": "All About It"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All About It'.",
+  "status": "verified"
+}

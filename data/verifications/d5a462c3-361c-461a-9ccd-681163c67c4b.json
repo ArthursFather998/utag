@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:06.673815+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Gimme",
+    "track_number": 1
+  },
+  "entity_id": "a883a4e5-0dbd-478d-b747-a509e00c7fb1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d5a462c3-361c-461a-9ccd-681163c67c4b",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Gimme",
+    "title": "Gimme"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Gimme'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:06.365801+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wish You Were Sober - Single (2020)",
+    "track_number": 1
+  },
+  "entity_id": "3c52e3a9-c3da-45e1-81a3-2e0a16ec0af9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0b09cf6e-cb06-465e-b2b6-905c5638fb68",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Wish You Were Sober - Single (2020)",
+    "title": "Wish You Were Sober - Single (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wish You Were Sober - Single (2020)'.",
+  "status": "verified"
+}

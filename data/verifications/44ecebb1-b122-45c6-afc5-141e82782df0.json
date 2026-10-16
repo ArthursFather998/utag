@@ -1,0 +1,43 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:53.320955+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Thriller 40",
+    "track_count": 19,
+    "tracklist": [
+      "Wanna Be Startin' Somethin'",
+      "Baby Be Mine",
+      "The Girl Is Mine",
+      "Thriller",
+      "Beat It",
+      "Billie Jean",
+      "Human Nature",
+      "P.Y.T. (Pretty Young Thing)",
+      "The Lady in My Life",
+      "Starlight",
+      "Got the Hots (Demo)",
+      "Who Do You Know (Demo)",
+      "Carousel",
+      "Behind the Mask (Mike's Mix, Demo)",
+      "Can't Get Outta the Rain",
+      "The Toy (Demo)",
+      "Sunset Driver (Demo)",
+      "What a Lovely Way to Go (Demo)",
+      "She's Trouble (Demo)"
+    ]
+  },
+  "entity_id": "381d3972-612f-47f5-8f4f-ad00ba5c3fe3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "44ecebb1-b122-45c6-afc5-141e82782df0",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Thriller 40",
+    "track_count": 19
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (19 tracks) per https://en.wikipedia.org/wiki/Thriller_40, https://newmusic.millpondrb.ca/shop/michael-jackson-thriller-40th-anniversary-expanded-edition. 40th anniversary reissue of Thriller (2022). Disc 1: original 9 tracks. Disc 2: 10 bonus demos/outtakes. Digital deluxe has additional tracks not included here.",
+  "status": "verified"
+}

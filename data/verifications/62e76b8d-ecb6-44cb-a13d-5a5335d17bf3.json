@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:35.386087+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Desolation Row",
+    "track_number": 1
+  },
+  "entity_id": "41f75ab5-850a-43fc-be45-263af521fb05",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62e76b8d-ecb6-44cb-a13d-5a5335d17bf3",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Desolation Row",
+    "title": "Desolation Row"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Desolation Row'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:02:52.810605+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Riot (2020)",
+    "track_number": 1
+  },
+  "entity_id": "952a849b-7049-46df-8459-6780a480b3ab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f8c2700-f542-4669-8c79-828de916cdc5",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Riot (2020)",
+    "title": "Riot (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Riot (2020)'.",
+  "status": "verified"
+}

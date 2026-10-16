@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:34.141035+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Anticipating (2002)",
+    "track_number": 1
+  },
+  "entity_id": "ff4ea52b-73aa-4680-a2fb-99d7a81a5ecb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1bff5e92-da57-4db6-af59-32021228f0f9",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Anticipating (2002)",
+    "title": "Anticipating (2002)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Anticipating (2002)'.",
+  "status": "verified"
+}

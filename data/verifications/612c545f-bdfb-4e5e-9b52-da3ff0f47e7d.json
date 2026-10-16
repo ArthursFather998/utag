@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:35.470378+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Wonder of You",
+    "track_number": 1
+  },
+  "entity_id": "45fc2de5-00c0-48e4-818f-6956adede54a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "612c545f-bdfb-4e5e-9b52-da3ff0f47e7d",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "The Wonder of You",
+    "title": "The Wonder of You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Wonder of You'.",
+  "status": "verified"
+}

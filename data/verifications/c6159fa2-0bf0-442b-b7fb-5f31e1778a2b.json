@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:27.667243+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Writing's on the Wall",
+    "track_number": 1
+  },
+  "entity_id": "3ba27861-a39e-4ab6-8996-705f8e480bd5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6159fa2-0bf0-442b-b7fb-5f31e1778a2b",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Writing's on the Wall",
+    "title": "Writing's on the Wall"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Writing's on the Wall'.",
+  "status": "verified"
+}

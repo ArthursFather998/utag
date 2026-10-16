@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:06.995581+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Blacker the Berry",
+    "track_number": 1
+  },
+  "entity_id": "854e504a-4548-4a78-bfcf-10a6a57260d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7f2a4b3-cb30-43f0-9d5f-1faa144b1fc9",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "The Blacker the Berry",
+    "title": "The Blacker the Berry"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Blacker the Berry'.",
+  "status": "verified"
+}

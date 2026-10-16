@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:58.876705+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Arms Around You (with Lil Pump feat. Maluma & Swae Lee)",
+    "track_number": 1
+  },
+  "entity_id": "49b506d2-5736-49b1-b035-6edd8e8a9fe6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "258b5d90-803d-4ae8-ace7-5427bdcd510a",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Arms Around You (with Lil Pump feat. Maluma & Swae Lee)",
+    "title": "Arms Around You (with Lil Pump feat. Maluma & Swae Lee)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Arms Around You (with Lil Pump feat. Maluma & Swae Lee)'.",
+  "status": "verified"
+}

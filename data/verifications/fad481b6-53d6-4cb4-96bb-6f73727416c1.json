@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:51:28.210488+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "+ (Deluxe)",
+    "track_count": 16,
+    "tracklist": [
+      "The A Team",
+      "Drunk",
+      "U.N.I.",
+      "Grade 8",
+      "Wake Me Up",
+      "Small Bump",
+      "This",
+      "The City",
+      "Lego House",
+      "You Need Me, I Don't Need You",
+      "Kiss Me",
+      "Give Me Love",
+      "Autumn Leaves",
+      "Little Bird",
+      "Gold Rush",
+      "Sunburn"
+    ]
+  },
+  "entity_id": "d59f82a5-a0af-4b79-bcfd-eb1ead382262",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fad481b6-53d6-4cb4-96bb-6f73727416c1",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "+ (Deluxe)",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://eil.com/shop/moreinfo.asp?catalogid=617229%0D%0A, https://www.herbmusic.net/album/ed-sheeran-%2b-33303. 16 tracks = 12 standard + 4 deluxe bonus tracks. CORRECTED bonus list: the suggested 'Let It Out' is NOT on the + deluxe — every source (eil.com, HerbMusic, onlineradiobox, Last.fm, vinylkitchen, edsheeran.fandom.com) agrees the 4 bonus tracks are Autumn Leaves, Little Bird, Gold Rush, Sunburn. Note: the standard 12th track 'Give Me Love' is followed on the physical disc by the hidden track 'The Parting Glass'; the deluxe bonus tracks follow after. Japanese and Australian deluxe variants add extra bonus content (not included here).",
+  "status": "verified"
+}

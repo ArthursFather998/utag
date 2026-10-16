@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:01.940439+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Heartbreak Hotel",
+    "track_count": 5,
+    "tracklist": [
+      "WingRiddenAngel",
+      "ElephantInTheRoom",
+      "skin",
+      "Teeth (Interlude)",
+      "Never"
+    ]
+  },
+  "entity_id": "cd541d16-ea9d-44f4-a85a-b9de523d6713",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2543d6eb-29c5-4214-aa1b-21095eaf0c0a",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "Heartbreak Hotel",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.youtube.com/watch?v=oYF1E7xuw9k, https://www.last.fm/music/XXXTENTACION/Heartbreak+Hotel. Scrapped EP from 2015, deleted by the artist shortly after release. 5-track version per YouTube full EP upload, Last.fm, and karaoke-lyrics. Some sources list additional associated songs, but these 5 form the EP.",
+  "status": "verified"
+}

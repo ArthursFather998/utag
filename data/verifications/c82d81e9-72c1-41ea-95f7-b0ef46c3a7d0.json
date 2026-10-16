@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:20.095196+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hard on Yourself (with Blackbear)",
+    "track_number": 1
+  },
+  "entity_id": "13e57f23-c738-49f2-ab41-421dd077cac5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c82d81e9-72c1-41ea-95f7-b0ef46c3a7d0",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Hard on Yourself (with Blackbear)",
+    "title": "Hard on Yourself (with Blackbear)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hard on Yourself (with Blackbear)'.",
+  "status": "verified"
+}

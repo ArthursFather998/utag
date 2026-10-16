@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:25.109882+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "4Ever (2018)",
+    "track_number": 1
+  },
+  "entity_id": "583917c1-acc8-44eb-b436-2a6c7fb93739",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e2de6c32-a8b3-438b-8e72-f57ddfa141df",
+  "input": {
+    "artist": "Clairo",
+    "release": "4Ever (2018)",
+    "title": "4Ever (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '4Ever (2018)'.",
+  "status": "verified"
+}

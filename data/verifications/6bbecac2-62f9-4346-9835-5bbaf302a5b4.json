@@ -1,0 +1,31 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:43.754904+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ice Hotel",
+    "track_count": 7,
+    "tracklist": [
+      "Ice Hotel",
+      "Inuyasha",
+      "Oc3an (Clip)",
+      "Blood Stains",
+      "Very Rare Boyz",
+      "Sounds Of The Melting Pot",
+      "Fuck V2"
+    ]
+  },
+  "entity_id": "e72a381e-adb2-4a36-b792-a6c58719493d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6bbecac2-62f9-4346-9835-5bbaf302a5b4",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "Ice Hotel",
+    "track_count": 7
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (7 tracks) per https://www.discogs.com/release/10064330-Xxxtentacion-Ice-Hotel, https://xxxtentacionsongs.fandom.com/wiki/ICE_HOTEL. EP released June 8, 2014. 7 tracks. First full project made available to the public after its original deletion.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:54.987034+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I'm Ready",
+    "track_number": 1
+  },
+  "entity_id": "e6fac0a9-3fb3-4101-842f-23422c579048",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b70a48e8-fadf-4a2b-92dc-8418b2ecebf4",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "I'm Ready",
+    "title": "I'm Ready"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I'm Ready'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:01.07306+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Feel So Bad (1961)",
+    "track_number": 1
+  },
+  "entity_id": "805667e6-b193-4d63-8fe3-18a8b7580885",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed9e5485-2f7c-4ab9-841c-90d4d381b998",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "I Feel So Bad (1961)",
+    "title": "I Feel So Bad (1961)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Feel So Bad (1961)'.",
+  "status": "verified"
+}

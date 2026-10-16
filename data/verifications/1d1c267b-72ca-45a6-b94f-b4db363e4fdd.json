@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:10:08.145131+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All My Life",
+    "track_number": 1
+  },
+  "entity_id": "cd1c6b53-091f-4797-88f8-6b510dd32b07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1d1c267b-72ca-45a6-b94f-b4db363e4fdd",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "All My Life",
+    "title": "All My Life"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All My Life'.",
+  "status": "verified"
+}

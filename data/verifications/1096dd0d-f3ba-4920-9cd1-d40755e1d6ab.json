@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:09.741992+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hold It Against Me (2011)",
+    "track_number": 1
+  },
+  "entity_id": "d54bfb2c-de76-4448-b47b-cbcd7851bbb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1096dd0d-f3ba-4920-9cd1-d40755e1d6ab",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Hold It Against Me (2011)",
+    "title": "Hold It Against Me (2011)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hold It Against Me (2011)'.",
+  "status": "verified"
+}

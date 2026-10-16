@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:14.126713+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Britney",
+    "track_count": 12,
+    "tracklist": [
+      "I'm a Slave 4 U",
+      "Overprotected",
+      "Lonely",
+      "I'm Not a Girl, Not Yet a Woman",
+      "Boys",
+      "Anticipating",
+      "I Love Rock 'N' Roll",
+      "Cinderella",
+      "Let Me Be",
+      "Bombastic Love",
+      "That's Where You Take Me",
+      "What It's Like to Be Me"
+    ]
+  },
+  "entity_id": "303ef049-a256-4bda-aec0-947ec6bb3453",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6edc1413-e06c-4d20-9213-dd8fdc75d150",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Britney",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Britney_(album), https://lyricstranslate.com/en/collection/britney-spears-britney-2001-tracklist. Standard US edition, 12 tracks.",
+  "status": "verified"
+}

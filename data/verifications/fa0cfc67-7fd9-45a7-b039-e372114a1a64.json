@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:22.760528+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Giver (2025)",
+    "track_number": 1
+  },
+  "entity_id": "4087a90f-1f71-4b45-875b-3ee1f61e7979",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fa0cfc67-7fd9-45a7-b039-e372114a1a64",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "The Giver (2025)",
+    "title": "The Giver (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Giver (2025)'.",
+  "status": "verified"
+}

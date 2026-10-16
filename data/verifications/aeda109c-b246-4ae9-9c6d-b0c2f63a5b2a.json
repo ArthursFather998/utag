@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:33.910464+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sausage Rolls for Everyone",
+    "track_number": 1
+  },
+  "entity_id": "f74935d5-510c-4355-8e8d-5f6b098ea532",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aeda109c-b246-4ae9-9c6d-b0c2f63a5b2a",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Sausage Rolls for Everyone",
+    "title": "Sausage Rolls for Everyone"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sausage Rolls for Everyone'.",
+  "status": "verified"
+}

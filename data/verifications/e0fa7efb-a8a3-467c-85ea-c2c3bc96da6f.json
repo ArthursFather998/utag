@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:17.926462+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Drive (2025)",
+    "track_number": 1
+  },
+  "entity_id": "4c4d9bd0-9dbb-4de0-93dc-ee4c9c3bc22d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0fa7efb-a8a3-467c-85ea-c2c3bc96da6f",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Drive (2025)",
+    "title": "Drive (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Drive (2025)'.",
+  "status": "verified"
+}

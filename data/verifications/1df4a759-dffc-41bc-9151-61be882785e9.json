@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:16.005654+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Only Exception EP",
+    "track_count": 3,
+    "tracklist": [
+      "The Only Exception (Album Version)",
+      "The Only Exception (Acoustic)",
+      "The Only Exception (Video)"
+    ]
+  },
+  "entity_id": "8f47d52f-68ef-46b0-9d72-836f3413a8f7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1df4a759-dffc-41bc-9151-61be882785e9",
+  "input": {
+    "artist": "Paramore",
+    "title": "The Only Exception EP",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://en.wikipedia.org/wiki/The_Only_Exception, https://paramore.fandom.com/wiki/The_Only_Exception_EP. Third EP, iTunes exclusive, September 28, 2010. Three versions of 'The Only Exception' (album, acoustic, video).",
+  "status": "verified"
+}

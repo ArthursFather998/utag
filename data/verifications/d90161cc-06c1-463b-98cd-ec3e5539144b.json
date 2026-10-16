@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:06.770375+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Queen",
+    "track_number": 1
+  },
+  "entity_id": "d8e5c0b5-12d6-450c-ac7f-7b08fcc5fd86",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d90161cc-06c1-463b-98cd-ec3e5539144b",
+  "input": {
+    "artist": "Clairo",
+    "release": "Queen",
+    "title": "Queen"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Queen'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:01.462123+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Maniac",
+    "track_number": 1
+  },
+  "entity_id": "08d954e2-72dd-43a6-ad26-c6d7dc9a9840",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d39c8f5-5581-408b-8001-e2fe5449bf08",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Maniac",
+    "title": "Maniac"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Maniac'.",
+  "status": "verified"
+}

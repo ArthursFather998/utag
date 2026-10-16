@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:33.451543+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Photograph",
+    "track_number": 1
+  },
+  "entity_id": "198e6dde-b876-4953-bc2e-1afb992a08eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "56e41c0c-545c-4a92-a7d8-14089c79a227",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Photograph",
+    "title": "Photograph"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Photograph'.",
+  "status": "verified"
+}

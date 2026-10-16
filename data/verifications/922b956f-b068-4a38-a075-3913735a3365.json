@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:51.127493+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Playing God",
+    "track_number": 1
+  },
+  "entity_id": "f439eed9-9e9f-4262-89b5-96475e72e378",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "922b956f-b068-4a38-a075-3913735a3365",
+  "input": {
+    "artist": "Paramore",
+    "release": "Playing God",
+    "title": "Playing God"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Playing God'.",
+  "status": "verified"
+}

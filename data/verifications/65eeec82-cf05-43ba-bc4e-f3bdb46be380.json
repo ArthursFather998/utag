@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:25.915268+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Where Do We Go from Here? (2018)",
+    "track_number": 1
+  },
+  "entity_id": "b043c364-5e30-42e0-b323-b858c1ddaed0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "65eeec82-cf05-43ba-bc4e-f3bdb46be380",
+  "input": {
+    "artist": "Clairo",
+    "release": "Where Do We Go from Here? (2018)",
+    "title": "Where Do We Go from Here? (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Where Do We Go from Here? (2018)'.",
+  "status": "verified"
+}

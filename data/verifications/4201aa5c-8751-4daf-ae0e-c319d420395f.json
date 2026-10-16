@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:35.860469+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ooh La La (2013)",
+    "track_number": 1
+  },
+  "entity_id": "4c3a4f62-f84a-4c9e-8c88-e67f9884d96f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4201aa5c-8751-4daf-ae0e-c319d420395f",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Ooh La La (2013)",
+    "title": "Ooh La La (2013)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ooh La La (2013)'.",
+  "status": "verified"
+}

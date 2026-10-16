@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:33.460586+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bop It Up!",
+    "track_number": 1
+  },
+  "entity_id": "6019de84-4dae-484e-ae25-e10ac979ef49",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5298446f-5e4e-4cfb-8a38-0c69b5959241",
+  "input": {
+    "artist": "The Marías",
+    "release": "Bop It Up!",
+    "title": "Bop It Up!"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bop It Up!'.",
+  "status": "verified"
+}

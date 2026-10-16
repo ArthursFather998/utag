@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:17.820073+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Wanna Go",
+    "track_number": 1
+  },
+  "entity_id": "02a88f7f-0516-4325-8d0c-fcc98f76cf98",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18b09840-1ac5-49df-b207-698cd8f979d4",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "I Wanna Go",
+    "title": "I Wanna Go"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Wanna Go'.",
+  "status": "verified"
+}

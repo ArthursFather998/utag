@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:49.965781+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Just a Little Bit of You",
+    "track_number": 1
+  },
+  "entity_id": "ca372164-96df-4981-957c-16c0818b9e3c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9357397e-d45d-401a-8fdd-c0ce48c9ab7e",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Just a Little Bit of You",
+    "title": "Just a Little Bit of You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Just a Little Bit of You'.",
+  "status": "verified"
+}

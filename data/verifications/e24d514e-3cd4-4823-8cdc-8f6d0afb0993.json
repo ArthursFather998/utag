@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:31.654261+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sweet Creature",
+    "track_number": 1
+  },
+  "entity_id": "4bb58227-10df-40d7-8472-0afaca0ac777",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e24d514e-3cd4-4823-8cdc-8f6d0afb0993",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Sweet Creature",
+    "title": "Sweet Creature"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sweet Creature'.",
+  "status": "verified"
+}

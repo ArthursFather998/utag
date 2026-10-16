@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:38.520288+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Heart Part 5",
+    "track_number": 1
+  },
+  "entity_id": "f0503c30-f37b-46eb-ab23-35028c920c52",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "477e923e-3e95-44d5-9c1e-8b5633e1f552",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "The Heart Part 5",
+    "title": "The Heart Part 5"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Heart Part 5'.",
+  "status": "verified"
+}

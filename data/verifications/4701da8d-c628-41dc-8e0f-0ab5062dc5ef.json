@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:04.887883+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "No Surprises",
+    "track_number": 1
+  },
+  "entity_id": "6864086e-39a3-4cd5-8dea-bdb6c3477dc9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4701da8d-c628-41dc-8e0f-0ab5062dc5ef",
+  "input": {
+    "artist": "Radiohead",
+    "release": "No Surprises",
+    "title": "No Surprises"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'No Surprises'.",
+  "status": "verified"
+}

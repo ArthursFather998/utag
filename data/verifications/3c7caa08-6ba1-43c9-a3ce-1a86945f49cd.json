@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:11.05369+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The News",
+    "track_number": 1
+  },
+  "entity_id": "cb5a3df7-6a59-4699-93f2-989ed5c28a2c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c7caa08-6ba1-43c9-a3ce-1a86945f49cd",
+  "input": {
+    "artist": "Paramore",
+    "release": "The News",
+    "title": "The News"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The News'.",
+  "status": "verified"
+}

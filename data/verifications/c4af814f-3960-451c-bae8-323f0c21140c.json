@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:35.929255+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Behind the Mask",
+    "track_number": 1
+  },
+  "entity_id": "a37c9181-a40f-4d35-b111-39a8964b1069",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4af814f-3960-451c-bae8-323f0c21140c",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Behind the Mask",
+    "title": "Behind the Mask"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Behind the Mask'.",
+  "status": "verified"
+}

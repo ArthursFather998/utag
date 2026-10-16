@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:42.485653+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dance No More",
+    "track_number": 1
+  },
+  "entity_id": "1886b9b0-5fe4-4668-aa62-8a0b24d7db51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53c970ab-6989-463e-900f-ecd8831e0c04",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Dance No More",
+    "title": "Dance No More"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Dance No More'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:26.98072+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Drug in Me Is Reimagined",
+    "track_number": 1
+  },
+  "entity_id": "e9f021e3-c5e2-406f-a6f1-e7cf0fa5f55d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15534b31-a687-401b-ba15-807e90411477",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "The Drug in Me Is Reimagined",
+    "title": "The Drug in Me Is Reimagined"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Drug in Me Is Reimagined'.",
+  "status": "verified"
+}

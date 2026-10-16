@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:26.249262+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Jigsaw Falling into Place",
+    "track_number": 1
+  },
+  "entity_id": "ddee260c-b49f-479e-9d0c-35af1a59a5f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "110f4eaf-c1f0-4c85-900f-f027f95e5e72",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Jigsaw Falling into Place",
+    "title": "Jigsaw Falling into Place"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Jigsaw Falling into Place'.",
+  "status": "verified"
+}

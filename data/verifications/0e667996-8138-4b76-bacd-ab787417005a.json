@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:15:59.342351+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis' Golden Records Volume 3",
+    "track_count": 12,
+    "tracklist": [
+      "It's Now or Never",
+      "Stuck on You",
+      "Fame and Fortune",
+      "I Gotta Know",
+      "Surrender",
+      "I Feel So Bad",
+      "Are You Lonesome Tonight?",
+      "(Marie's the Name) His Latest Flame",
+      "Little Sister",
+      "Good Luck Charm",
+      "Anything That's Part of You",
+      "She's Not You"
+    ]
+  },
+  "entity_id": "9ca7c453-2105-4bdd-91d8-98ef2f5921d4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0e667996-8138-4b76-bacd-ab787417005a",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis' Golden Records Volume 3",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Elvis'_Golden_Records_Volume_3, https://citizendium.org/wiki/Elvis%27_Golden_Records,_Volume_3. DUPLICATE: Same compilation as 'Elvis' Golden Records Volume 3 (1963)' (811902a6-205b-4094-978c-480fd1e19663).",
+  "status": "verified"
+}

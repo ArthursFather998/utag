@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:17.558519+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "These Walls",
+    "track_number": 1
+  },
+  "entity_id": "e05c0cdf-897c-41de-ac96-8805a61c3782",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4ff8233-30ab-4ce1-a9aa-8ffd4d649eed",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "These Walls",
+    "title": "These Walls"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'These Walls'.",
+  "status": "verified"
+}

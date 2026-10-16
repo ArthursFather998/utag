@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:32.475052+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Subway (2025)",
+    "track_number": 1
+  },
+  "entity_id": "def65f38-633f-47e5-935e-83a9eaf5a62b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d5aab95-b355-4a06-a01b-0045e7b93a21",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "The Subway (2025)",
+    "title": "The Subway (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Subway (2025)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:53.554083+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Don't Think That I Like Her (2022)",
+    "track_number": 1
+  },
+  "entity_id": "da4ad5ca-d42a-49c2-8d1b-aea9cac2b0b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "11c57c53-ad0b-4b06-96d2-9edf2e79e128",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "I Don't Think That I Like Her (2022)",
+    "title": "I Don't Think That I Like Her (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Don't Think That I Like Her (2022)'.",
+  "status": "verified"
+}

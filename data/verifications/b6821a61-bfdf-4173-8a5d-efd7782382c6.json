@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:36.757575+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Charlie Be Quiet! (2022)",
+    "track_number": 1
+  },
+  "entity_id": "7497c077-4083-4df9-98fe-cb224875c532",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6821a61-bfdf-4173-8a5d-efd7782382c6",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Charlie Be Quiet! (2022)",
+    "title": "Charlie Be Quiet! (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Charlie Be Quiet! (2022)'.",
+  "status": "verified"
+}

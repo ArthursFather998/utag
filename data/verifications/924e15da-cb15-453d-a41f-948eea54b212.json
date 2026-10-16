@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:41.10291+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hush Little Baby",
+    "track_number": 1
+  },
+  "entity_id": "279fc6cf-73d9-416b-920e-c01697448fac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "924e15da-cb15-453d-a41f-948eea54b212",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Hush Little Baby",
+    "title": "Hush Little Baby"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hush Little Baby'.",
+  "status": "verified"
+}

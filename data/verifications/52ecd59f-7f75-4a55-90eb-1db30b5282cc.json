@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:00.709154+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "It Should Be Easy (2014)",
+    "track_number": 1
+  },
+  "entity_id": "3c61636d-61ae-4a76-9b5a-7b9c30019690",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52ecd59f-7f75-4a55-90eb-1db30b5282cc",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "It Should Be Easy (2014)",
+    "title": "It Should Be Easy (2014)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'It Should Be Easy (2014)'.",
+  "status": "verified"
+}

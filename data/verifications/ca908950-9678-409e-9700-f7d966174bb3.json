@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:02.757647+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "drop dead",
+    "track_number": 1
+  },
+  "entity_id": "ee07f00e-9f82-4747-bf0f-b4e7af337bbe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca908950-9678-409e-9700-f7d966174bb3",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "drop dead",
+    "title": "drop dead"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'drop dead'.",
+  "status": "verified"
+}

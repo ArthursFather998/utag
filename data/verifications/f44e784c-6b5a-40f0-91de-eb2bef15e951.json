@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:50:32.028056+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "iTunes Festival: London 2012",
+    "track_count": 8,
+    "tracklist": [
+      "Drunk",
+      "The A Team",
+      "Small Bump",
+      "Lego House",
+      "Chasing Cars",
+      "You Need Me, I Don't Need You",
+      "Chasing Cars",
+      "The A Team"
+    ]
+  },
+  "entity_id": "61be0993-4479-4519-b0e6-ef3916c6f4e7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f44e784c-6b5a-40f0-91de-eb2bef15e951",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "iTunes Festival: London 2012",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per https://musicbrainz.org/release/30243e41-56a4-4ec0-b9a3-45536e80aaf6, https://www.lyricfinder.org/album/561426381/iTunes Festival: London 2012 - EP/Ed Sheeran. Live EP of the 2 September 2012 iTunes Festival headline set at the Roundhouse, London (Warner Music; released 2012-09-03). MusicBrainz track order and durations (03:28/04:59/04:40/04:10/05:04/19:46) are independently corroborated by lyricfinder (same 8 entries in the same order, titled with '(Live)' suffix) and by AllMusic (6 tracks, durations summing to exactly 42:07 = tracks 1-6). Tracks 7-8 repeat the recordings of tracks 5 and 2 (same MusicBrainz recordings; 'The A Team' 8th track is 5:01 vs 4:59). The 19:46 'You Need Me, I Don't Need You' is the guest medley finale (Devlin, Sway, Chipmunk, Wretch 32). The full 14-song concert setlist (CapitalFM) is NOT this EP. One source (grokipedia) claims 'Give Me Love' as a 7th track; no other source supports it, so it is excluded.",
+  "status": "verified"
+}

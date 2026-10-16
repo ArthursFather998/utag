@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:26.069081+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Earth Song",
+    "track_number": 1
+  },
+  "entity_id": "dcb4eb5d-3090-4c48-a39e-6678739cdfd2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fd3ade56-e143-4f4b-be30-03f1969a844f",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Earth Song",
+    "title": "Earth Song"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Earth Song'.",
+  "status": "verified"
+}

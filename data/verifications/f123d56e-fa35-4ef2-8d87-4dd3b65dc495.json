@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:19.803521+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Born to Make You Happy (1999)",
+    "track_number": 1
+  },
+  "entity_id": "a385c0a6-03db-466c-9903-446c4091a75f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f123d56e-fa35-4ef2-8d87-4dd3b65dc495",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Born to Make You Happy (1999)",
+    "title": "Born to Make You Happy (1999)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Born to Make You Happy (1999)'.",
+  "status": "verified"
+}

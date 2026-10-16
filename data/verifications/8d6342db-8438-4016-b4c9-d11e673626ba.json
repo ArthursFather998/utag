@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:47.490198+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Now",
+    "track_number": 1
+  },
+  "entity_id": "15872f6e-49e5-46df-9197-0d81fbbef59a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d6342db-8438-4016-b4c9-d11e673626ba",
+  "input": {
+    "artist": "Paramore",
+    "release": "Now",
+    "title": "Now"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Now'.",
+  "status": "verified"
+}

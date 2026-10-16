@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:12:55.788184+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "He Touched Me (1972)",
+    "track_count": 12,
+    "tracklist": [
+      "He Touched Me",
+      "I've Got Confidence",
+      "Amazing Grace",
+      "Seeing Is Believing",
+      "He Is My Everything",
+      "Bosom of Abraham",
+      "An Evening Prayer",
+      "Lead Me, Guide Me",
+      "There Is No God But God",
+      "A Thing Called Love",
+      "I, John",
+      "Reach Out to Jesus"
+    ]
+  },
+  "entity_id": "9aff5a17-db04-4a40-803f-45099d7391e8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9e781d30-6e23-4126-85c4-df6ecf71a408",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "He Touched Me (1972)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/He_Touched_Me_(album), https://www.allmusic.com/. Gospel album.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:40.507842+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That's All Right (1954)",
+    "track_number": 1
+  },
+  "entity_id": "19efc256-04b9-4956-bd79-0b92dc4ac031",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "81cd43da-4e8a-4f66-8634-ff65adbee1a1",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "That's All Right (1954)",
+    "title": "That's All Right (1954)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'That's All Right (1954)'.",
+  "status": "verified"
+}

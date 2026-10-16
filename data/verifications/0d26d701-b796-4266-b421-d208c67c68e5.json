@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:39.83522+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lumberjack",
+    "track_number": 1
+  },
+  "entity_id": "edf66613-cea0-4d03-bfec-16691aa0149d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d26d701-b796-4266-b421-d208c67c68e5",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Lumberjack",
+    "title": "Lumberjack"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lumberjack'.",
+  "status": "verified"
+}

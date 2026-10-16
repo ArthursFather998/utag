@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:15.750589+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Man",
+    "track_number": 1
+  },
+  "entity_id": "ea471c53-6a96-4a6f-85ed-ba0c46936c50",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c244b7eb-3d56-431a-9be5-b3db3db90757",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "The Man",
+    "title": "The Man"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Man'.",
+  "status": "verified"
+}

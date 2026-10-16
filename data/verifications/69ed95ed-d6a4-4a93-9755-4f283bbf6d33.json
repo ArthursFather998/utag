@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:16.527098+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is What Heartbreak Feels Like",
+    "track_number": 1
+  },
+  "entity_id": "c6e1f3f2-5b99-4621-98b4-475b3140a9ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69ed95ed-d6a4-4a93-9755-4f283bbf6d33",
+  "input": {
+    "artist": "JVKE",
+    "release": "This Is What Heartbreak Feels Like",
+    "title": "This Is What Heartbreak Feels Like"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Is What Heartbreak Feels Like'.",
+  "status": "verified"
+}

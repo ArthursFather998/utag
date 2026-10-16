@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:11.794244+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Will You Be There",
+    "track_number": 1
+  },
+  "entity_id": "126d82b5-f57b-452c-b07a-eab6a083254d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a86c0958-c813-46d0-a46b-0629317a25f1",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Will You Be There",
+    "title": "Will You Be There"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Will You Be There'.",
+  "status": "verified"
+}

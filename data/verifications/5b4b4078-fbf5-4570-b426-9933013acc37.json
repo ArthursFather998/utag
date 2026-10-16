@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:16:18.598141+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis' Golden Records (1958)",
+    "track_count": 14,
+    "tracklist": [
+      "Hound Dog",
+      "Loving You",
+      "All Shook Up",
+      "Heartbreak Hotel",
+      "Jailhouse Rock",
+      "Love Me",
+      "Too Much",
+      "Don't Be Cruel",
+      "That's When Your Heartaches Begin",
+      "(Let Me Be Your) Teddy Bear",
+      "Love Me Tender",
+      "Treat Me Nice",
+      "Anyway You Want Me (That's How I Will Be)",
+      "I Want You, I Need You, I Love You"
+    ]
+  },
+  "entity_id": "c0c7b5ad-23c2-4536-a33c-ad60bed23a84",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5b4b4078-fbf5-4570-b426-9933013acc37",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis' Golden Records (1958)",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Elvis%27_Golden_Records, https://En.Citizendium.org/wiki/Elvis%27_Golden_Records. First greatest-hits album in rock and roll history. 1997 CD reissue added 6 bonus tracks (My Baby Left Me, I Was the One, That's All Right, Baby Let's Play House, Mystery Train, Blue Suede Shoes).",
+  "status": "verified"
+}

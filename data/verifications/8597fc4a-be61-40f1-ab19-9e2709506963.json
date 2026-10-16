@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:04.922204+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All I Need",
+    "track_number": 1
+  },
+  "entity_id": "97499c8e-b441-43c8-b7d0-e5cf49f55c20",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8597fc4a-be61-40f1-ab19-9e2709506963",
+  "input": {
+    "artist": "Radiohead",
+    "release": "All I Need",
+    "title": "All I Need"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All I Need'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:18.387168+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Mother",
+    "track_number": 1
+  },
+  "entity_id": "ed1d1c22-7416-4b3f-b32f-079331414de5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f9e9fd3-d28a-455d-add7-a08c309e1eb9",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Mother",
+    "title": "Mother"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Mother'.",
+  "status": "verified"
+}

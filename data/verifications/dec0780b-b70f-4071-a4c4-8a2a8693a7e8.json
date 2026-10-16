@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:58.011739+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Everytime",
+    "track_number": 1
+  },
+  "entity_id": "9aac846d-5961-44a7-8888-614a93a3890b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dec0780b-b70f-4071-a4c4-8a2a8693a7e8",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Everytime",
+    "title": "Everytime"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Everytime'.",
+  "status": "verified"
+}

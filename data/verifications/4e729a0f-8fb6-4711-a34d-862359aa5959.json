@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:43.480425+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sorry Not Sorry",
+    "track_number": 1
+  },
+  "entity_id": "8361de30-72dc-4a1f-a254-9c5b53682b33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4e729a0f-8fb6-4711-a34d-862359aa5959",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Sorry Not Sorry",
+    "title": "Sorry Not Sorry"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sorry Not Sorry'.",
+  "status": "verified"
+}

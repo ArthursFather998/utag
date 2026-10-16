@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:48.486162+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Burn the Witch",
+    "track_number": 1
+  },
+  "entity_id": "fa132936-46fd-4874-8cc5-cb8be8ddaa3a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5df09a86-4b91-4dd9-998c-c38255f00ed4",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Burn the Witch",
+    "title": "Burn the Witch"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Burn the Witch'.",
+  "status": "verified"
+}

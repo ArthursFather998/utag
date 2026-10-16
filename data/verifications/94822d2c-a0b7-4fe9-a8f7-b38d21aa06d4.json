@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:07.573523+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Call Me If You Get Lost",
+    "track_count": 16,
+    "tracklist": [
+      "Sir Baudelaire",
+      "Corso",
+      "Lemonhead",
+      "WusYaName",
+      "Lumberjack",
+      "Hot Wind Blows",
+      "Massa",
+      "Runitup",
+      "Manifesto",
+      "Sweet / I Thought You Wanted to Dance",
+      "Momma Talk",
+      "Rise!",
+      "Blessed",
+      "Juggernaut",
+      "Wilshire",
+      "Safari"
+    ]
+  },
+  "entity_id": "36d9828a-c486-4326-b7df-82c8e3c6fa9d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "94822d2c-a0b7-4fe9-a8f7-b38d21aa06d4",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Call Me If You Get Lost",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://en.wikipedia.org/wiki/Call_Me_If_You_Get_Lost, https://www.discogs.com/release/19276378-TylerCreator-Call-Me-If-You-Get-Lost. 2021 studio album, 16 tracks. Vinyl/CD editions swap the closing track for 'Fishtail' - using the digital/standard edition order with 'Safari' as track 16. Track 8 often stylized 'RunItUp'.",
+  "status": "verified"
+}

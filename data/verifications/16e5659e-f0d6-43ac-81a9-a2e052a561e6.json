@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:03.704161+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Heal",
+    "track_count": 5,
+    "tracklist": [
+      "I'm Ready (feat. Demi Lovato)",
+      "La La La (feat. Naughty Boy)",
+      "Pray (Edit)",
+      "Like I Can",
+      "Midnight Train"
+    ]
+  },
+  "entity_id": "42b16f11-0d48-4d24-9ce9-e3ac350eae60",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "16e5659e-f0d6-43ac-81a9-a2e052a561e6",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Heal",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.deezer.com/en/album/164591372, https://intmusic.net/166449/sam-smith-heal-2020. Heal EP, 5 tracks. Released 2020. Thematic compilation EP. Verified against Deezer, intmusic.net, and songslover.",
+  "status": "verified"
+}

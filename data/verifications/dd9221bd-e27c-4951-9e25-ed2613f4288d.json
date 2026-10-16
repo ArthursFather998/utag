@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:43.568428+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Will Be Found",
+    "track_number": 1
+  },
+  "entity_id": "ec652fc7-8f49-4e89-afda-3fad6c5b2783",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd9221bd-e27c-4951-9e25-ed2613f4288d",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "You Will Be Found",
+    "title": "You Will Be Found"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You Will Be Found'.",
+  "status": "verified"
+}

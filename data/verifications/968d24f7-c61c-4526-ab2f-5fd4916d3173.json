@@ -1,0 +1,48 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:25.055558+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Call Me If You Get Lost: The Estate Sale",
+    "track_count": 24,
+    "tracklist": [
+      "Sir Baudelaire",
+      "Corso",
+      "Lemonhead",
+      "WusYaName",
+      "Lumberjack",
+      "Hot Wind Blows",
+      "Massa",
+      "Runitup",
+      "Manifesto",
+      "Sweet / I Thought You Wanted to Dance",
+      "Momma Talk",
+      "Rise!",
+      "Blessed",
+      "Juggernaut",
+      "Wilshire",
+      "Safari",
+      "Everything Must Go",
+      "Stuntman",
+      "What a Day",
+      "Wharf Talk",
+      "Dogtooth",
+      "Heaven to Me",
+      "Boyfriend, Girlfriend (2020 Demo)",
+      "Sorry Not Sorry"
+    ]
+  },
+  "entity_id": "facabe42-4c11-4e7f-9d5c-3fa92ac73b1d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "968d24f7-c61c-4526-ab2f-5fd4916d3173",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Call Me If You Get Lost: The Estate Sale",
+    "track_count": 24
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (24 tracks) per https://en.wikipedia.org/wiki/Call_Me_If_You_Get_Lost:_The_Estate_Sale, https://www.hhv.de/en/records/tyler-the-creator-call-me-if-you-get-lost-the-estate-sale-1077657. 2023 deluxe edition: the full 16-track original album (digital standard order with Safari closing) followed by 8 bonus tracks, in the order listed across sources.",
+  "status": "verified"
+}

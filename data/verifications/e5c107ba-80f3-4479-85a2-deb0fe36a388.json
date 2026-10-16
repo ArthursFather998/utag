@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:22.642402+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "With a Child's Heart",
+    "track_number": 1
+  },
+  "entity_id": "32bb69fc-3b11-4e79-998f-80644bf6e448",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5c107ba-80f3-4479-85a2-deb0fe36a388",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "With a Child's Heart",
+    "title": "With a Child's Heart"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'With a Child's Heart'.",
+  "status": "verified"
+}

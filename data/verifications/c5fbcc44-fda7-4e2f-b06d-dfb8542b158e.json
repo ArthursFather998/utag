@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:14:25.193133+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Harum Scarum",
+    "track_count": 11,
+    "tracklist": [
+      "Harem Holiday",
+      "My Desert Serenade",
+      "Go East, Young Man",
+      "Mirage",
+      "Kismet",
+      "Shake That Tambourine",
+      "Hey Little Girl",
+      "Golden Coins",
+      "So Close, Yet So Far (From Paradise)",
+      "Animal Instinct",
+      "Wisdom of the Ages"
+    ]
+  },
+  "entity_id": "64b11b22-b033-4a91-af72-6ad829ee62bf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c5fbcc44-fda7-4e2f-b06d-dfb8542b158e",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Harum Scarum",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://en.wikipedia.org/wiki/Harum_Scarum_(soundtrack), https://www.allmusic.com/. Soundtrack to the 1965 film.",
+  "status": "verified"
+}

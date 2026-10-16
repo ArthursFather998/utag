@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:39.609904+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Lonely Christmas",
+    "track_count": 4,
+    "tracklist": [
+      "Night Before Christmas",
+      "The Lighthouse Keeper",
+      "Have Yourself A Merry Little Christmas",
+      "Palace"
+    ]
+  },
+  "entity_id": "2f57acf9-56d7-41fc-9fd4-7182b8a57dc8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e489f055-5e59-45e6-8d7f-0bd9aba19335",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "A Lonely Christmas",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.discogs.com/release/29277916-Sam-Smith-A-Lonely-Christmas, https://www.amazon.com/Lonely-Christmas-Sam-Smith/dp/B0CNQGKTFN. Christmas EP, 4 tracks. Released November 20, 2023. Note: Track order differs between vinyl (The Lighthouse Keeper, Have Yourself A Merry Little Christmas, Palace, Night Before Christmas) and digital/streaming (Night Before Christmas, The Lighthouse Keeper, Have Yourself A Merry Little Christmas, Palace). Using the digital/streaming order from Deezer/Apple Music as the primary. Verified against Discogs, Amazon, Deezer, and recordstore.co.uk.",
+  "status": "verified"
+}

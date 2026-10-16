@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:37.074115+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Feel So Bad",
+    "track_number": 1
+  },
+  "entity_id": "c8838f8c-0001-44f2-af24-2542bd85a5be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5fd1fbae-cb59-4dea-9257-8aeaa76fac93",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "I Feel So Bad",
+    "title": "I Feel So Bad"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Feel So Bad'.",
+  "status": "verified"
+}

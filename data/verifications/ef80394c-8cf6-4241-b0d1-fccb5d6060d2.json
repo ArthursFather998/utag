@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:42.276574+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Good Hurt (2017)",
+    "track_number": 1
+  },
+  "entity_id": "c21b843e-c4d4-4b97-a489-7bfc57ea1f4f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ef80394c-8cf6-4241-b0d1-fccb5d6060d2",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Good Hurt (2017)",
+    "title": "Good Hurt (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Good Hurt (2017)'.",
+  "status": "verified"
+}

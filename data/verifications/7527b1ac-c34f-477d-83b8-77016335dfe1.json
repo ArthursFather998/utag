@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:58.644029+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Get Happy",
+    "track_number": 1
+  },
+  "entity_id": "61767c19-cbc0-4adf-b735-6c7a5937433c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7527b1ac-c34f-477d-83b8-77016335dfe1",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Get Happy",
+    "title": "Get Happy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Get Happy'.",
+  "status": "verified"
+}

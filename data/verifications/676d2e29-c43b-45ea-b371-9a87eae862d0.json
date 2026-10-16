@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:59:17.780787+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "King Creole Vol. 1",
+    "track_count": 4,
+    "tracklist": [
+      "King Creole",
+      "New Orleans",
+      "As Long As I Have You",
+      "Lover Doll"
+    ]
+  },
+  "entity_id": "5fbbd351-eb7e-401c-927d-c97443ac0c6c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "676d2e29-c43b-45ea-b371-9a87eae862d0",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "King Creole Vol. 1",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.discogs.com, https://www.elvisthemusic.com. 4-track EP drawn from the 1958 King Creole soundtrack sessions.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:37.779207+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "One Last Song",
+    "track_number": 1
+  },
+  "entity_id": "e115ff62-ed32-44ec-bd8f-f49584dee238",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdead4fb-4b27-4acb-8041-1d3774ff242c",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "One Last Song",
+    "title": "One Last Song"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'One Last Song'.",
+  "status": "verified"
+}

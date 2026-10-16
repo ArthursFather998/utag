@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:55.43892+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Man of War",
+    "track_number": 1
+  },
+  "entity_id": "52c287e1-9481-4ad2-8ac7-59415b5c765c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "329da3b6-86c2-4431-94c3-ef73985fb152",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Man of War",
+    "title": "Man of War"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Man of War'.",
+  "status": "verified"
+}

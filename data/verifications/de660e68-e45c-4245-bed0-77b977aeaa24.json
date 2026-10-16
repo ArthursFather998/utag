@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:42.42039+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sue Me",
+    "track_number": 1
+  },
+  "entity_id": "e562fe24-6241-4999-aebf-9963c0b05290",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de660e68-e45c-4245-bed0-77b977aeaa24",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Sue Me",
+    "title": "Sue Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sue Me'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:46.960569+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Just Can't Stop Loving You",
+    "track_number": 1
+  },
+  "entity_id": "0870747b-1416-40d5-9d51-99f385bb7898",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1054117b-141f-4b6a-9f75-07d93b638fce",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "I Just Can't Stop Loving You",
+    "title": "I Just Can't Stop Loving You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Just Can't Stop Loving You'.",
+  "status": "verified"
+}

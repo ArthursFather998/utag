@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:33.677767+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sunset Season",
+    "track_count": 5,
+    "tracklist": [
+      "Idle Town",
+      "Generation Why",
+      "Crush Culture",
+      "Greek God",
+      "Lookalike"
+    ]
+  },
+  "entity_id": "e60598a9-dee3-41c8-85c5-1554b4af6e32",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "804015c2-705f-4dd6-bcd9-57f6009dd43e",
+  "input": {
+    "artist": "Conan Gray",
+    "title": "Sunset Season",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/13001785-Conan-Gray-Sunset-Season, https://joseyrecords.com/products/conan-gray-sunset-season-ep-import-vinyl. Debut EP, released Nov 16, 2018 via Republic Records. 5-track order confirmed across Discogs, retailer listings, and the Conan Gray Fandom wiki.",
+  "status": "verified"
+}

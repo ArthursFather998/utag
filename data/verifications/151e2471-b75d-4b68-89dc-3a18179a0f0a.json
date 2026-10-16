@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:25.467385+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Almost Love",
+    "track_number": 1
+  },
+  "entity_id": "a741c299-6888-4061-a446-503092a2c13d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "151e2471-b75d-4b68-89dc-3a18179a0f0a",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Almost Love",
+    "title": "Almost Love"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Almost Love'.",
+  "status": "verified"
+}

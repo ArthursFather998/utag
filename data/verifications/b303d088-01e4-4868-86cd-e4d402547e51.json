@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:17.54252+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lay Me Down",
+    "track_number": 1
+  },
+  "entity_id": "702206f6-2be2-4780-aa04-ba19cb8f3c4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b303d088-01e4-4868-86cd-e4d402547e51",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Lay Me Down",
+    "title": "Lay Me Down"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lay Me Down'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:25.58077+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Too Good at Goodbyes",
+    "track_number": 1
+  },
+  "entity_id": "7bdcbbef-fca8-437e-bbc4-c12866774673",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f333c3f0-0a3b-478e-8163-ae2ee46eb1de",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Too Good at Goodbyes",
+    "title": "Too Good at Goodbyes"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Too Good at Goodbyes'.",
+  "status": "verified"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:38.835318+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In the Lonely Hour (10 Year Anniversary Edition)",
+    "track_count": 4,
+    "tracklist": [
+      "Stay with Me (Reimagined)",
+      "I'm Not the Only One (Reimagined)",
+      "Lay Me Down (Reimagined)",
+      "Good Thing (Reimagined)"
+    ]
+  },
+  "entity_id": "43a5cf80-dc1e-49c1-8e70-356963fab253",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ba651553-b302-4114-9665-6320c9ff24ca",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "In the Lonely Hour (10 Year Anniversary Edition)",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/In_the_Lonely_Hour, https://www.youtube.com/@samsmith. 10th Anniversary Edition EP, 4 reimagined tracks. Verified against Wikipedia and Sam Smith's official YouTube channel.",
+  "status": "verified"
+}

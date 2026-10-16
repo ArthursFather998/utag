@@ -1,0 +1,43 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:46.919588+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Black Parade Is Dead!",
+    "track_count": 19,
+    "tracklist": [
+      "The End.",
+      "Dead!",
+      "This Is How I Disappear",
+      "The Sharpest Lives",
+      "Welcome to the Black Parade",
+      "I Don't Love You",
+      "House of Wolves",
+      "Interlude",
+      "Cancer",
+      "Mama",
+      "Sleep",
+      "Teenagers",
+      "The Black Parade Is Dead",
+      "Disenchanted",
+      "Famous Last Words",
+      "Blood",
+      "Kill All Your Friends",
+      "My Way Home Is Through You",
+      "Heaven Help Us"
+    ]
+  },
+  "entity_id": "d5181eeb-e46a-410e-b878-48665f90f5b6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "620bd268-810b-4539-b21b-ed409e334761",
+  "input": {
+    "artist": "My Chemical Romance",
+    "title": "The Black Parade Is Dead!",
+    "track_count": 19
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (19 tracks) per Sonic Boom, TIDAL. Live album documenting the Black Parade World Tour concert in Mexico City, released June 30, 2008 (CD+DVD). Tracks 1-16 are the full live show; track 13 'The Black Parade Is Dead' is a title-card segment of the concert, not a song; tracks 17-19 are studio/B-side bonus tracks.",
+  "status": "verified"
+}

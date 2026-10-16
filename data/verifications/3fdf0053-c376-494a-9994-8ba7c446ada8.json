@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:23.172967+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love",
+    "track_number": 1
+  },
+  "entity_id": "a7c59a0b-1932-4125-a7db-9f365693d852",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3fdf0053-c376-494a-9994-8ba7c446ada8",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "Love",
+    "title": "Love"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Love'.",
+  "status": "verified"
+}

@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:18.158629+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Playlist: The Very Best of Britney Spears",
+    "track_count": 14,
+    "tracklist": [
+      "...Baby One More Time",
+      "(You Drive Me) Crazy (The Stop Remix!)",
+      "Oops!... I Did It Again",
+      "Stronger",
+      "I'm a Slave 4 U",
+      "Toxic",
+      "Gimme More",
+      "Womanizer",
+      "Hold It Against Me",
+      "Till the World Ends",
+      "If U Seek Amy",
+      "I Wanna Go",
+      "Piece of Me",
+      "Circus (Diplo Circus Remix)"
+    ]
+  },
+  "entity_id": "250403d0-bbcc-4622-8aeb-92621c5dc9e8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c47f2179-ff73-4177-aae7-3e1b822f29f1",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Playlist: The Very Best of Britney Spears",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Playlist:_The_Very_Best_of_Britney_Spears, https://www.discogs.com/release/4018015-Britney-Spears-Playlist-The-Very-Best-Of-Britney-Spears. 2012 budget compilation, 14 tracks.",
+  "status": "verified"
+}

@@ -1,0 +1,43 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:47.571759+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "TKOL RMX 1234567",
+    "track_count": 19,
+    "tracklist": [
+      "Little by Little (Caribou Remix)",
+      "Lotus Flower (Jacques Greene Remix)",
+      "Morning Mr Magpie (Nathan Fake Remix)",
+      "Bloom (Harmonic 313 Remix)",
+      "Bloom (Mark Pritchard Remix)",
+      "Feral (Lone Remix)",
+      "Morning Mr Magpie (Pearson Sound \"Scavenger\" Remix)",
+      "Separator (Four Tet Remix)",
+      "Give Up the Ghost (Thriller \"Houseghost\" Remix)",
+      "Codex (Illum Sphere Remix)",
+      "Little by Little (Shed Remix)",
+      "Give Up the Ghost (Brokenchord Remix)",
+      "TKOL (Altrice Remix)",
+      "Bloom (Blawan Remix)",
+      "Good Evening Mrs Magpie (Modeselektor Remix)",
+      "Bloom (Objekt Remix)",
+      "Bloom (Jamie xx Rework)",
+      "Separator (Anstam Remix)",
+      "Lotus Flower (SBTRKT Remix)"
+    ]
+  },
+  "entity_id": "01378e8b-1485-4f62-91d4-3140c1a8fe13",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "83dc55b0-3cd6-447a-af7e-d6d9bfbcb9f6",
+  "input": {
+    "artist": "Radiohead",
+    "title": "TKOL RMX 1234567",
+    "track_count": 19
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (19 tracks) per https://en.wikipedia.org/wiki/TKOL_RMX_1234567, https://www.nme.com/news/music/radiohead-273-1272976. Official remix compilation (Sep/Oct 2011, XL Recordings/Ticker Tape). 19 remixes of The King of Limbs tracks across 2 CDs; single-CD edition carries the same 19 tracks in order.",
+  "status": "verified"
+}

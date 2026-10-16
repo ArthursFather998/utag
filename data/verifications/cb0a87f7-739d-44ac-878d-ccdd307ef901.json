@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:57.943103+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "As It Was",
+    "track_number": 1
+  },
+  "entity_id": "a2c35018-a395-42f6-ade5-952f3a60a8c8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb0a87f7-739d-44ac-878d-ccdd307ef901",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "As It Was",
+    "title": "As It Was"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'As It Was'.",
+  "status": "verified"
+}

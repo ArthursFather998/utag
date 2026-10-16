@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:28.715879+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Better (2018)",
+    "track_number": 1
+  },
+  "entity_id": "62154e95-5741-418a-b36f-52f20ce14b65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6aec6e2b-9e3e-404c-aed7-554cdbd0cce5",
+  "input": {
+    "artist": "Clairo",
+    "release": "Better (2018)",
+    "title": "Better (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Better (2018)'.",
+  "status": "verified"
+}

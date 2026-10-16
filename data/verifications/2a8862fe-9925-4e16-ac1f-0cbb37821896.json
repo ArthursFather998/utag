@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:21.823933+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Stay with Me",
+    "track_number": 1
+  },
+  "entity_id": "8184f78e-678c-4d68-98c3-2768907a6f22",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a8862fe-9925-4e16-ac1f-0cbb37821896",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Stay with Me",
+    "title": "Stay with Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Stay with Me'.",
+  "status": "verified"
+}

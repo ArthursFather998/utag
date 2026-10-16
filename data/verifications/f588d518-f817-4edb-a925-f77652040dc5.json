@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:19:17.083833+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Easy Come, Easy Go (1967)",
+    "track_count": 6,
+    "tracklist": [
+      "Easy Come, Easy Go",
+      "The Love Machine",
+      "Yoga Is as Yoga Does",
+      "You Gotta Stop",
+      "Sing You Children",
+      "I'll Take Love"
+    ]
+  },
+  "entity_id": "498eb1b7-4eb4-4f8b-8269-ac404a92ca87",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f588d518-f817-4edb-a925-f77652040dc5",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Easy Come, Easy Go (1967)",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://en.wikipedia.org/wiki/Easy_Come,_Easy_Go_(EP), https://www.discogs.com/. EP from the Easy Come, Easy Go film soundtrack sessions.",
+  "status": "verified"
+}

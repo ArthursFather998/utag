@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:43.858594+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Never Ending Song",
+    "track_number": 1
+  },
+  "entity_id": "a614842d-180a-41e9-b484-f2b546315979",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6ea1f44-3a9b-4b26-9b6e-1310276b7967",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Never Ending Song",
+    "title": "Never Ending Song"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Never Ending Song'.",
+  "status": "verified"
+}

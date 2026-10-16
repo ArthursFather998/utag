@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:56.084624+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Songs (2024)",
+    "track_number": 1
+  },
+  "entity_id": "eb2184f3-095d-4f29-bc76-2361c8348aba",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "abe47c71-6d12-4145-ae3d-7324cbca64d5",
+  "input": {
+    "artist": "Clairo",
+    "release": "Love Songs (2024)",
+    "title": "Love Songs (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Love Songs (2024)'.",
+  "status": "verified"
+}

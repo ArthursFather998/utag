@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:05.084811+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Oops!... I Did It Again",
+    "track_count": 12,
+    "tracklist": [
+      "Oops!... I Did It Again",
+      "Stronger",
+      "Don't Go Knockin' on My Door",
+      "(I Can't Get No) Satisfaction",
+      "Don't Let Me Be the Last to Know",
+      "What U See (Is What U Get)",
+      "Lucky",
+      "One Kiss from You",
+      "Where Are You Now",
+      "Can't Make You Love Me",
+      "When Your Eyes Say It",
+      "Dear Diary"
+    ]
+  },
+  "entity_id": "673d6306-be89-431c-b46b-82f6bb0268e8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ef3183fa-e3c3-4148-ae37-d7212787ae20",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Oops!... I Did It Again",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album), https://britneyspears.fandom.com/wiki/Oops!..._I_Did_It_Again_(album). Standard North American edition, 12 tracks.",
+  "status": "verified"
+}

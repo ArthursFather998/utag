@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:20.662112+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Rockin' Robin",
+    "track_number": 1
+  },
+  "entity_id": "e6acff72-7af3-46e5-90d1-2591844055bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c81e6612-b1a5-48b4-a0ae-b28e64d1c371",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Rockin' Robin",
+    "title": "Rockin' Robin"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Rockin' Robin'.",
+  "status": "verified"
+}

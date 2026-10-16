@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:42.831149+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Perfume",
+    "track_number": 1
+  },
+  "entity_id": "8e5babe7-fc8a-4dfe-836d-388b3e0bf273",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e99f8228-b588-4c7e-b5c3-f170f29df8f7",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Perfume",
+    "title": "Perfume"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Perfume'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:08.424708+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Heal the World",
+    "track_number": 1
+  },
+  "entity_id": "b742a3ea-3834-495d-960e-ff89673f237a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bcae6298-d0ca-4ca6-91a6-9a8fc1a7eb61",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Heal the World",
+    "title": "Heal the World"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Heal the World'.",
+  "status": "verified"
+}

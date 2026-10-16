@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:57.941769+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Anticipate (2025)",
+    "track_number": 1
+  },
+  "entity_id": "cc568137-6915-4d08-9b3f-036b4d0ae140",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2b796caf-f6fd-4898-a49a-8155b71c818c",
+  "input": {
+    "artist": "Clairo",
+    "release": "Anticipate (2025)",
+    "title": "Anticipate (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Anticipate (2025)'.",
+  "status": "verified"
+}

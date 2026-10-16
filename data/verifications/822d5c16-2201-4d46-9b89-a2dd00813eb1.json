@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:55.853328+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Drunk",
+    "track_number": 1
+  },
+  "entity_id": "4e0247ed-1b68-479e-b801-d1694faadd4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "822d5c16-2201-4d46-9b89-a2dd00813eb1",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Drunk",
+    "title": "Drunk"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Drunk'.",
+  "status": "verified"
+}

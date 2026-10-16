@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:25.707636+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "For My Hand (2022)",
+    "track_number": 1
+  },
+  "entity_id": "3a68bff3-c023-40e8-a263-0bab382608cc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5803708d-8ab0-4dd6-9659-143e65fc2cb9",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "For My Hand (2022)",
+    "title": "For My Hand (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'For My Hand (2022)'.",
+  "status": "verified"
+}

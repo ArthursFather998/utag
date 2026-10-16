@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:15.556971+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Nice Shoes",
+    "track_number": 1
+  },
+  "entity_id": "7e8409a0-706b-4c51-8457-c249d3970155",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d0a7ef6b-e355-423b-8a9f-e4512810e788",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Nice Shoes",
+    "title": "Nice Shoes"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Nice Shoes'.",
+  "status": "verified"
+}

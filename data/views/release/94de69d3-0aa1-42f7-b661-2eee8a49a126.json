@@ -2125,6 +2125,89 @@
     "title": "Creased Laundry",
     "updated_at": "2026-10-16T04:23:57.507917+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:14.379125+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "8dbf6564-83ed-4391-9a29-5336b6d10475",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "94de69d3-0aa1-42f7-b661-2eee8a49a126",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Born",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:43:14.379125+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:14.971074+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "15717b7f-d799-40c9-994b-854f5519d3e5",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "94de69d3-0aa1-42f7-b661-2eee8a49a126",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Knuckles",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:43:14.971074+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:15.713857+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1593d81c-d363-497e-b2b1-16e7c45bcb21",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "94de69d3-0aa1-42f7-b661-2eee8a49a126",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Wine",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:43:15.713857+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:43:16.389276+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Creased Laundry",
+        "track_count": 3,
+        "tracklist": [
+          "Born",
+          "Knuckles",
+          "Wine"
+        ]
+      },
+      "entity_id": "94de69d3-0aa1-42f7-b661-2eee8a49a126",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "5cd63f6e-8936-499a-b4e4-a97e159539ab",
+      "input": {
+        "artist": "Clairo",
+        "title": "Creased Laundry",
+        "track_count": 3
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (3 tracks) per https://clairo.fandom.com/wiki/Creased_Laundry, https://www.qobuz.com/se-en/interpreter/clairo/3130841/page/2. EP, released February 20, 2016 on Bandcamp. 'Creased Laundry (2016)' is a year-suffix duplicate.",
+      "status": "verified"
+    }
+  ]
 }

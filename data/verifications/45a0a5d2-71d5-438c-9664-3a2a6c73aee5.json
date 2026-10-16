@@ -1,0 +1,42 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:29.610258+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "× (Wembley Edition)",
+    "track_count": 18,
+    "tracklist": [
+      "One",
+      "I'm a Mess",
+      "Sing",
+      "Don't",
+      "Nina",
+      "Photograph",
+      "Bloodstream",
+      "Tenerife Sea",
+      "Runaway",
+      "The Man",
+      "Thinking Out Loud",
+      "Afire Love",
+      "I See Fire",
+      "All of the Stars",
+      "English Rose",
+      "Touch and Go",
+      "New York",
+      "Lay It All on Me"
+    ]
+  },
+  "entity_id": "9b48640a-f038-46f7-a8fe-35c72b334667",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "45a0a5d2-71d5-438c-9664-3a2a6c73aee5",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "× (Wembley Edition)",
+    "track_count": 18
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (18 tracks) per https://piranharecords.net/UPC/825646974511, https://www.alibris.com/x-Wembley-Edition-Deluxe-Edition-Ed-Sheeran/music/403272321?qsort=p&matches=2. CORRECTION to the assumed 18-track bonus list: the physical Wembley Edition (CD+DVD, UPC 825646974511) is Disc 1 = 18 audio tracks (12 standard + 6 CD-only bonuses incl. 'Lay It All on Me' by Rudimental feat. Ed Sheeran), and Disc 2 = a DVD of the live Wembley concert (Jumpers for Goalposts) with 15 live video performances: I'm a Mess, Lego House, Photograph, Bloodstream, Don't, I See Fire, Don't Go Breaking My Heart, Thinking Out Loud, The A Team, You Need Me I Don't Need You, Sing, Afire Love, Drunk, Tenerife Sea, Take It Back / Superstition (not audio album tracks). Tracklist below is the 18-track CD (Disc 1).",
+  "status": "verified"
+}

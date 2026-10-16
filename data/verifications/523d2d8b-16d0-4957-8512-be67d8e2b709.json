@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:27.841213+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Gospel (with Rich Brian & Keith Ape) (2017)",
+    "track_number": 1
+  },
+  "entity_id": "2ed15e69-252c-43d1-b04d-6644e55e9193",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "523d2d8b-16d0-4957-8512-be67d8e2b709",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Gospel (with Rich Brian & Keith Ape) (2017)",
+    "title": "Gospel (with Rich Brian & Keith Ape) (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Gospel (with Rich Brian & Keith Ape) (2017)'.",
+  "status": "verified"
+}

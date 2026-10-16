@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:08.294946+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Man (2014)",
+    "track_number": 1
+  },
+  "entity_id": "c0e76fc5-d7f1-4f86-848d-b4b7233e7f4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ccd3f0e7-5889-4722-abeb-f92e9e8b0796",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "The Man (2014)",
+    "title": "The Man (2014)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Man (2014)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:33.327156+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Happy",
+    "track_number": 1
+  },
+  "entity_id": "495f3f55-6ada-41b4-87d1-3730c6cca80f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "982ebbb0-9fce-4b06-904b-25cddb6a14ce",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Happy",
+    "title": "Happy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Happy'.",
+  "status": "verified"
+}

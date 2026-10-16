@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:55.112321+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "To Pimp a Butterfly",
+    "track_count": 16,
+    "tracklist": [
+      "Wesley's Theory",
+      "For Free? (Interlude)",
+      "King Kunta",
+      "Institutionalized",
+      "These Walls",
+      "U",
+      "Alright",
+      "For Sale? (Interlude)",
+      "Momma",
+      "Hood Politics",
+      "How Much a Dollar Cost",
+      "Complexion (A Zulu Love)",
+      "The Blacker the Berry",
+      "You Ain't Gotta Lie (Momma Said)",
+      "I",
+      "Mortal Man"
+    ]
+  },
+  "entity_id": "6d1dd4c0-15e8-4c01-84a2-762e4ed37544",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "de8698a7-348d-43d4-8dcb-621c50917582",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "To Pimp a Butterfly",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly, https://www.nme.com/news/music/kendrick-lamar-90-1215907. Third studio album, released March 15, 2015. 16 tracks confirmed across Wikipedia, NME, and multiple retailers. All sources agree on order.",
+  "status": "verified"
+}

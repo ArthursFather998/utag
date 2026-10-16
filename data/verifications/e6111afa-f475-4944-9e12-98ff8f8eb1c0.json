@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:43.900019+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ignorance",
+    "track_number": 1
+  },
+  "entity_id": "3954292b-54cd-4361-8a04-494d6da12bf5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6111afa-f475-4944-9e12-98ff8f8eb1c0",
+  "input": {
+    "artist": "Paramore",
+    "release": "Ignorance",
+    "title": "Ignorance"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ignorance'.",
+  "status": "verified"
+}

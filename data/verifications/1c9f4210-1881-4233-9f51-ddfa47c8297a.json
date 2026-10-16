@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:19.986415+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cross Me (2019)",
+    "track_number": 1
+  },
+  "entity_id": "a6868940-61e0-4f87-b235-6026e3285e55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c9f4210-1881-4233-9f51-ddfa47c8297a",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Cross Me (2019)",
+    "title": "Cross Me (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cross Me (2019)'.",
+  "status": "verified"
+}

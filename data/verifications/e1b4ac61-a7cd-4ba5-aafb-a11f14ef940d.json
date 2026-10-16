@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:55.641162+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Losing My Life (2018)",
+    "track_number": 1
+  },
+  "entity_id": "1d9e980f-8de7-44e1-8248-96dfd41f4546",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e1b4ac61-a7cd-4ba5-aafb-a11f14ef940d",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Losing My Life (2018)",
+    "title": "Losing My Life (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Losing My Life (2018)'.",
+  "status": "verified"
+}

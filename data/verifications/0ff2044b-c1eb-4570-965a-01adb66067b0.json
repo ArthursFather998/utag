@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:57:29.619095+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That's the Way It Is",
+    "track_count": 12,
+    "tracklist": [
+      "I Just Can't Help Believin'",
+      "Twenty Days and Twenty Nights",
+      "How the Web Was Woven",
+      "Patch It Up",
+      "Mary in the Morning",
+      "You Don't Have To Say You Love Me",
+      "You've Lost That Lovin' Feelin'",
+      "I've Lost You",
+      "Just Pretend",
+      "Stranger in the Crowd",
+      "The Next Step Is Love",
+      "Bridge Over Troubled Water"
+    ]
+  },
+  "entity_id": "a442f278-0d6d-4df0-95ca-3e1e393fe400",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0ff2044b-c1eb-4570-965a-01adb66067b0",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "That's the Way It Is",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/That%27s_the_Way_It_Is_(Elvis_Presley_album), https://www.discogs.com/release/5952817-Elvis-Presley-Thats-The-Way-It-Is. Original LP RCA Victor LSP-4445 (Nov 1970), 12 tracks: 8 studio (RCA Studio B Nashville, June 1970) + 4 live (International Hotel, Las Vegas, Aug 1970). 'You Don't Have To Say You Love Me' is the common printed title (vs 'You Don't Have to Say You Love Me').",
+  "status": "verified"
+}

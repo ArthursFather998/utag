@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:35.285401+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blood on the Dance Floor",
+    "track_number": 1
+  },
+  "entity_id": "b3961f35-ce67-4593-970e-f84fb9a84bb2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7c69cd58-649f-4cab-84fb-f5b9790d52ee",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Blood on the Dance Floor",
+    "title": "Blood on the Dance Floor"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Blood on the Dance Floor'.",
+  "status": "verified"
+}

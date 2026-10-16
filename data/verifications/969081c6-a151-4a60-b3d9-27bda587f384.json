@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:11.307012+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Casual",
+    "track_number": 1
+  },
+  "entity_id": "fea34ddd-9a1c-4873-96ac-d745ca2426b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "969081c6-a151-4a60-b3d9-27bda587f384",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Casual",
+    "title": "Casual"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Casual'.",
+  "status": "verified"
+}

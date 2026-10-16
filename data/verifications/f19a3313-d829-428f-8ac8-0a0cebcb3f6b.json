@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:29.397513+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Nude",
+    "track_number": 1
+  },
+  "entity_id": "3fcfae94-eb61-4c0d-9a31-374462076a24",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f19a3313-d829-428f-8ac8-0a0cebcb3f6b",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Nude",
+    "title": "Nude"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Nude'.",
+  "status": "verified"
+}

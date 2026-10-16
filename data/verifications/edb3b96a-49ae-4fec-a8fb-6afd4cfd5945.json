@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:14.503719+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "To Be Free",
+    "track_number": 1
+  },
+  "entity_id": "0a193e7e-09f9-4a0e-b81b-7974124c609b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "edb3b96a-49ae-4fec-a8fb-6afd4cfd5945",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "To Be Free",
+    "title": "To Be Free"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'To Be Free'.",
+  "status": "verified"
+}

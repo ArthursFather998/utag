@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:46.717114+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "B in the Mix: The Remixes",
+    "track_count": 11,
+    "tracklist": [
+      "Toxic (Peter Rauhofer Reconstruction Mix Edit)",
+      "Me Against the Music (Justice Remix)",
+      "Touch of My Hand (Bill Hamel Remix)",
+      "Breathe on Me (Jacques Lu Cont's Thin White Duke Mix)",
+      "I'm a Slave 4 U (Dave Audé Slave Driver Mix)",
+      "And Then We Kiss (Junkie XL Remix)",
+      "Everytime (Valentin Remix)",
+      "Early Mornin' (Jason Nevins Remix)",
+      "Someday (I Will Understand) (Hi-Bias Signature Radio Remix)",
+      "...Baby One More Time (Davidson Ospina 2005 Remix)",
+      "Don't Let Me Be the Last to Know (Hex Hector Club Mix Edit)"
+    ]
+  },
+  "entity_id": "e7e6fddb-3f27-422d-ad72-d5b75ae97a4e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "83e013f9-a420-449f-9fa8-0f69753f7192",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "B in the Mix: The Remixes",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://en.wikipedia.org/wiki/B_in_the_Mix:_The_Remixes, https://www.discogs.com/master/30005-Britney-Spears-B-In-The-Mix-The-Remixes. Standard edition, 11 tracks.",
+  "status": "verified"
+}

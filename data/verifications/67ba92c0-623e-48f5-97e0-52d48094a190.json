@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:34.752169+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "GUTS: The Secret Tracks",
+    "track_count": 4,
+    "tracklist": [
+      "Obsessed",
+      "Scared of My Guitar",
+      "Stranger",
+      "Girl I've Always Been"
+    ]
+  },
+  "entity_id": "9c31b29e-60c4-47a8-b1f2-ec5953dc829f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "67ba92c0-623e-48f5-97e0-52d48094a190",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "title": "GUTS: The Secret Tracks",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Guts_(album), https://nailcityrecord.com/en-ca/products/olivia-rodrigo-guts-the-secret-tracks-rsd-black-friday-2023-purple-ep-vinyl. RSD Black Friday 2023 vinyl-exclusive EP via Third Man Records/Geffen. Collects the four secret bonus tracks from the GUTS vinyl variants. Limited to 7,500 copies. All four tracks later included on the GUTS (Spilled) deluxe edition.",
+  "status": "verified"
+}

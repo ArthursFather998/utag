@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:42.179844+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "December 25th",
+    "track_number": 1
+  },
+  "entity_id": "40b0e177-b2a3-48d8-8fd0-abac844d263a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea4da95e-9d14-4244-b72b-73af474b222c",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "December 25th",
+    "title": "December 25th"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'December 25th'.",
+  "status": "verified"
+}

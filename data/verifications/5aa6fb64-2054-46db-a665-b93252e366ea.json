@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:28.826805+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Jigsaw",
+    "track_number": 1
+  },
+  "entity_id": "217ce217-7c14-4577-bb73-c13795b2ead9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5aa6fb64-2054-46db-a665-b93252e366ea",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Jigsaw",
+    "title": "Jigsaw"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Jigsaw'.",
+  "status": "verified"
+}

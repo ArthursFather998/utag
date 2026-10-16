@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:06:50.266365+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Heartbreak Hotel",
+    "track_count": 4,
+    "tracklist": [
+      "Heartbreak Hotel",
+      "I Was The One",
+      "Money Honey",
+      "I Forgot To Remember To Forget"
+    ]
+  },
+  "entity_id": "b6cf8ed7-68ad-4e0a-8349-e90d761172e4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e025ad89-7cd8-46b6-8703-056130de4046",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Heartbreak Hotel",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.discogs.com, https://www.elvisthemusic.com. 4-track 1956 EP. IN-CHUNK DUPLICATE of 'Heartbreak Hotel (1956)' (release_id 313b3436-d46e-45f7-a383-9d2bfb6095c7) - same EP; the other row carries the full source detail.",
+  "status": "verified"
+}

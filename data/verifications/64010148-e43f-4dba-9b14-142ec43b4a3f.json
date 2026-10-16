@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:19.090689+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Ain't Got Time!",
+    "track_number": 1
+  },
+  "entity_id": "70297035-df5e-4085-9057-7899677809d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64010148-e43f-4dba-9b14-142ec43b4a3f",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "I Ain't Got Time!",
+    "title": "I Ain't Got Time!"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Ain't Got Time!'.",
+  "status": "verified"
+}

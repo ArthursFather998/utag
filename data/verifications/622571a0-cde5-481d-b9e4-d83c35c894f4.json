@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:09.564497+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Femininomenon (2022)",
+    "track_number": 1
+  },
+  "entity_id": "17babb08-b670-4fd5-9fb3-f9ace89267d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "622571a0-cde5-481d-b9e4-d83c35c894f4",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Femininomenon (2022)",
+    "title": "Femininomenon (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Femininomenon (2022)'.",
+  "status": "verified"
+}

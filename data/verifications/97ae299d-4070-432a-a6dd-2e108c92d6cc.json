@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:19:08.101419+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Me Tender (1956)",
+    "track_count": 4,
+    "tracklist": [
+      "Love Me Tender",
+      "Let Me",
+      "Poor Boy",
+      "We're Gonna Move"
+    ]
+  },
+  "entity_id": "917924cd-10e6-4e23-9e01-b583348ff529",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "97ae299d-4070-432a-a6dd-2e108c92d6cc",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Love Me Tender (1956)",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Love_Me_Tender_(EP), https://www.scribd.com/document/24715777/Elvis-Presley-Disk-01. DUPLICATE: Same EP as 'Love Me Tender' (4da74e57-0d0d-43b0-8e4f-c29fe11345af).",
+  "status": "verified"
+}

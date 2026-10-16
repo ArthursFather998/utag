@@ -1,0 +1,44 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:27.612299+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live from Glastonbury (A BBC Recording)",
+    "track_count": 20,
+    "tracklist": [
+      "Obsessed",
+      "Ballad of a Homeschooled Girl",
+      "Vampire",
+      "Drivers License",
+      "Traitor",
+      "Bad Idea Right?",
+      "Love Is Embarrassing",
+      "Pretty Isn't Pretty",
+      "Happier",
+      "Enough for You",
+      "Friday I'm in Love (with Robert Smith)",
+      "Just Like Heaven (with Robert Smith)",
+      "So American",
+      "Jealousy, Jealousy",
+      "Favorite Crime",
+      "Deja Vu",
+      "Brutal",
+      "All-American Bitch",
+      "Good 4 U",
+      "Get Him Back!"
+    ]
+  },
+  "entity_id": "abf63095-c0ed-47d5-8974-e7c1065bc1d1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "75751d45-4b64-4134-9034-4a6f2be04f42",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "title": "Live from Glastonbury (A BBC Recording)",
+    "track_count": 20
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (20 tracks) per https://en.wikipedia.org/wiki/Live_from_Glastonbury_(A_BBC_Recording), https://www.discogs.com/release/35852119-Olivia-Rodrigo-Live-From-Glastonbury-A-BBC-Recording. Live album capturing her Glastonbury 2025 Pyramid Stage headline set. Released December 5, 2025. 20 tracks. Includes two Cure covers performed with Robert Smith ('Friday I'm in Love', 'Just Like Heaven'); proceeds from those tracks donated to Doctors Without Borders.",
+  "status": "verified"
+}

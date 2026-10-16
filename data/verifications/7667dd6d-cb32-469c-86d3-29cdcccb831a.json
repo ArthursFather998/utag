@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:18.689005+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My Iron Lung",
+    "track_count": 8,
+    "tracklist": [
+      "My Iron Lung",
+      "The Trickster",
+      "Lewis (Mistreated)",
+      "Punchdrunk Lovesick Singalong",
+      "Permanent Daylight",
+      "Lozenge of Love",
+      "You Never Wash Up After Yourself",
+      "Creep (Acoustic)"
+    ]
+  },
+  "entity_id": "22d3e5e0-bbb9-4b25-beda-60aec6f8425b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7667dd6d-cb32-469c-86d3-29cdcccb831a",
+  "input": {
+    "artist": "Radiohead",
+    "title": "My Iron Lung",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per https://www.discogs.com/release/182449-Radiohead-My-Iron-Lung, https://idioteque.fandom.com/wiki/My_Iron_Lung_(EP). Third EP (Oct 1994). This is the 8-track EP edition (US/EU CD); the UK also issued it as two 4-track CD singles. 'Creep (Acoustic)' is the same KROQ recording that closes the Itch EP.",
+  "status": "verified"
+}

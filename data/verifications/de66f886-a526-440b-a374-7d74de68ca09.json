@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:03.023128+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Morning Glow",
+    "track_number": 1
+  },
+  "entity_id": "206f6874-0fd8-4907-bd81-3b32c5866daa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de66f886-a526-440b-a374-7d74de68ca09",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Morning Glow",
+    "title": "Morning Glow"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Morning Glow'.",
+  "status": "verified"
+}

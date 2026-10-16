@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:59:31.322257+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "His Hand in Mine (1960)",
+    "track_count": 12,
+    "tracklist": [
+      "His Hand in Mine",
+      "I'm Gonna Walk Dem Golden Stairs",
+      "In My Father's House",
+      "Milky White Way",
+      "Known Only to Him",
+      "I Believe in the Man in the Sky",
+      "Joshua Fit the Battle",
+      "He Knows Just What I Need",
+      "Swing Down Sweet Chariot",
+      "Mansion Over the Hilltop",
+      "If We Never Meet Again",
+      "Working on the Building"
+    ]
+  },
+  "entity_id": "7bcc9520-d0c3-4e9b-aec3-1cca83f55060",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b9f765e6-cd4e-435a-a7ad-e81ecbba50cf",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "His Hand in Mine (1960)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/His_Hand_in_Mine, https://www.discogs.com. Cross-chunk year-suffix duplicate: 'His Hand in Mine' may also appear without the year suffix in another chunk.",
+  "status": "verified"
+}

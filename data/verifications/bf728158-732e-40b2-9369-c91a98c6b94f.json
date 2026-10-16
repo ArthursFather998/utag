@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:36.291115+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Teardrop",
+    "track_number": 1
+  },
+  "entity_id": "55736858-f0d8-4489-b728-6117b7d35c0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf728158-732e-40b2-9369-c91a98c6b94f",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Teardrop",
+    "title": "Teardrop"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Teardrop'.",
+  "status": "verified"
+}

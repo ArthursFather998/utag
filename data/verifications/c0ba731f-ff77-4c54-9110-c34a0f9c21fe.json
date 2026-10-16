@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:13.520685+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Welcome to the Black Parade",
+    "track_number": 1
+  },
+  "entity_id": "27248c2c-76e2-4970-95c5-27d5576d72c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0ba731f-ff77-4c54-9110-c34a0f9c21fe",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Welcome to the Black Parade",
+    "title": "Welcome to the Black Parade"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Welcome to the Black Parade'.",
+  "status": "verified"
+}

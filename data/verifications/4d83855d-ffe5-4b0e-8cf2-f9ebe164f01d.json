@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:46.26379+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "School Nights",
+    "track_number": 1
+  },
+  "entity_id": "7fe64a5e-11db-48c1-8e35-50dd0889bf04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4d83855d-ffe5-4b0e-8cf2-f9ebe164f01d",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "School Nights",
+    "title": "School Nights"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'School Nights'.",
+  "status": "verified"
+}

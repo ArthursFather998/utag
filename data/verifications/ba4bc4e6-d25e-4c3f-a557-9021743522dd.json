@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:45.318999+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "February 2017 (2019)",
+    "track_number": 1
+  },
+  "entity_id": "ecd158eb-1947-4263-8fac-201a689d0816",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba4bc4e6-d25e-4c3f-a557-9021743522dd",
+  "input": {
+    "artist": "Clairo",
+    "release": "February 2017 (2019)",
+    "title": "February 2017 (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'February 2017 (2019)'.",
+  "status": "verified"
+}

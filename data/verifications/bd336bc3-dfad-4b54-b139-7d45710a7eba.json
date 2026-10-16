@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:23.228149+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is What Space Feels Like",
+    "track_number": 1
+  },
+  "entity_id": "a9f1c751-f1a7-4d19-b300-5564cb37a16a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd336bc3-dfad-4b54-b139-7d45710a7eba",
+  "input": {
+    "artist": "JVKE",
+    "release": "This Is What Space Feels Like",
+    "title": "This Is What Space Feels Like"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Is What Space Feels Like'.",
+  "status": "verified"
+}

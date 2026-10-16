@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:56.077616+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sag Harbor",
+    "track_number": 1
+  },
+  "entity_id": "e5aca038-5ca5-4fbd-8000-93a91f1044d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "78d08c44-63ec-43f3-a50c-a99c3fd69778",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Sag Harbor",
+    "title": "Sag Harbor"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sag Harbor'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:07.278142+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Upside Down",
+    "track_number": 1
+  },
+  "entity_id": "7e90fab5-f74b-4566-8125-327fae376500",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a669b10-0c6b-4e4f-8754-aaf9fe4e6cf4",
+  "input": {
+    "artist": "JVKE",
+    "release": "Upside Down",
+    "title": "Upside Down"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Upside Down'.",
+  "status": "verified"
+}

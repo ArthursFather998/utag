@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:14:56.824643+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Double Trouble",
+    "track_count": 12,
+    "tracklist": [
+      "Double Trouble",
+      "Baby, If You'll Give Me All of Your Love",
+      "Could I Fall in Love",
+      "Long Legged Girl (With the Short Dress On)",
+      "City by Night",
+      "Old MacDonald",
+      "I Love Only One Girl",
+      "There Is So Much World to See",
+      "It Won't Be Long",
+      "Never Ending",
+      "Blue River",
+      "What Now, What Next, Where To"
+    ]
+  },
+  "entity_id": "b5eeca12-d95e-495a-bf42-a411f0934516",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "96143f8b-c061-413c-85a0-6192ff80221e",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Double Trouble",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Double_Trouble_(soundtrack), https://www.allmusic.com/. Soundtrack to the 1967 film.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:20.626538+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Me More",
+    "track_number": 1
+  },
+  "entity_id": "fa17a56c-3121-4753-b9ed-2a509668ce26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fcfc5445-71ed-4a4a-886b-db3a20f985d8",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Love Me More",
+    "title": "Love Me More"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Love Me More'.",
+  "status": "verified"
+}

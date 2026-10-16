@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:09.561722+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Present Tense",
+    "track_number": 1
+  },
+  "entity_id": "de22060a-370e-4366-b6ef-606ba5b8ec15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7fbbb5e-1fb4-4660-9fc9-44532f120f4d",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Present Tense",
+    "title": "Present Tense"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Present Tense'.",
+  "status": "verified"
+}

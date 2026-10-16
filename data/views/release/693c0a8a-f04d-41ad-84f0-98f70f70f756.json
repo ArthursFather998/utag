@@ -1285,6 +1285,146 @@
     "title": "No Surprises / Running from Demons",
     "updated_at": "2026-10-16T04:00:46.936695+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:20.557648+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "19a0fdf3-5f89-494b-a9cf-8cf2974bc000",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "693c0a8a-f04d-41ad-84f0-98f70f70f756",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "No Surprises",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:28:20.557648+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:21.096465+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a0157655-ab12-4c90-a3e1-528c11eee9ff",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "693c0a8a-f04d-41ad-84f0-98f70f70f756",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Pearly*",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:28:21.096465+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:21.793507+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5a8b2047-1eda-4fc8-a491-e3603a776a86",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "693c0a8a-f04d-41ad-84f0-98f70f70f756",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Melatonin",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:28:21.793507+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:22.528112+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b4c367f6-2e9b-432b-ad3b-208dd9e38ae6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "693c0a8a-f04d-41ad-84f0-98f70f70f756",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Meeting in the Aisle",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:28:22.528112+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:23.0971+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "8ab3e386-385c-4046-9483-4a267bf66176",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "693c0a8a-f04d-41ad-84f0-98f70f70f756",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Bishop's Robes",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:28:23.0971+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:23.621407+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e88207e4-8c94-4291-bc41-113c5d7b2f07",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "693c0a8a-f04d-41ad-84f0-98f70f70f756",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "A Reminder",
+      "track_number": 6,
+      "updated_at": "2026-10-16T06:28:23.621407+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:28:24.211437+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "No Surprises / Running from Demons",
+        "track_count": 6,
+        "tracklist": [
+          "No Surprises",
+          "Pearly*",
+          "Melatonin",
+          "Meeting in the Aisle",
+          "Bishop's Robes",
+          "A Reminder"
+        ]
+      },
+      "entity_id": "693c0a8a-f04d-41ad-84f0-98f70f70f756",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "de17a574-425b-4b5c-a828-6d642fd924a7",
+      "input": {
+        "artist": "Radiohead",
+        "title": "No Surprises / Running from Demons",
+        "track_count": 6
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (6 tracks) per https://en-academic.com/dic.nsf/enwiki/149977/, https://www.discogs.com/release/27386-Radiohead-%E3%83%AC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%98%E3%83%83%E3%83%89-No-Surprises-Running-From-Demons-%E3%83%8E%E3%83%BC%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BC%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%8B. Japan-only EP (Dec 10, 1997, Toshiba-EMI, TOCP-50354) released ahead of the January 1998 Japan tour. 'Pearly*' is the remixed version (distinct from the original on the Paranoid Android single).",
+      "status": "verified"
+    }
+  ]
 }

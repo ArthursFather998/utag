@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:59.75372+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Want You, I Need You, I Love You",
+    "track_number": 1
+  },
+  "entity_id": "167731bd-2c2e-41eb-807d-bd5c7970267c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc753787-551c-4047-a825-ce12e4f6e7c6",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "I Want You, I Need You, I Love You",
+    "title": "I Want You, I Need You, I Love You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Want You, I Need You, I Love You'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:12.832276+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Golden Hour",
+    "track_number": 1
+  },
+  "entity_id": "b1d4b1c0-ecf0-4d51-ab47-0e5ae4b51df1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "307b97b2-f377-47f4-8f98-f29f86d78d39",
+  "input": {
+    "artist": "JVKE",
+    "release": "Golden Hour",
+    "title": "Golden Hour"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Golden Hour'.",
+  "status": "verified"
+}

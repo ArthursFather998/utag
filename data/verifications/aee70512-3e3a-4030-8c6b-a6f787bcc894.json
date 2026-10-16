@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:52.161217+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Shivers",
+    "track_number": 1
+  },
+  "entity_id": "c3ab53e0-c9ad-41eb-9b3d-bf50d6b1ff76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aee70512-3e3a-4030-8c6b-a6f787bcc894",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Shivers",
+    "title": "Shivers"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Shivers'.",
+  "status": "verified"
+}

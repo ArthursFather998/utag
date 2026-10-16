@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:30.690809+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Unstoppable",
+    "track_number": 1
+  },
+  "entity_id": "51970d21-a2cd-452c-ada7-bbef60553f0c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "231ab731-1465-48ff-8176-719b10f9c58a",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Unstoppable",
+    "title": "Unstoppable"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Unstoppable'.",
+  "status": "verified"
+}

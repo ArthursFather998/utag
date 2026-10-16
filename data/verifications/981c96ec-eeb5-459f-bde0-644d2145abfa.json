@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:06.467565+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "stupid song",
+    "track_number": 1
+  },
+  "entity_id": "53c4965e-91a1-4dae-932d-13e938e005be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "981c96ec-eeb5-459f-bde0-644d2145abfa",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "stupid song",
+    "title": "stupid song"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'stupid song'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:03.665113+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Running Out of Time",
+    "track_number": 1
+  },
+  "entity_id": "a85d0393-a790-4481-b651-f88178ea3d5b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "071078f8-69fb-4a20-a0f9-0ae53c4a3770",
+  "input": {
+    "artist": "Paramore",
+    "release": "Running Out of Time",
+    "title": "Running Out of Time"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Running Out of Time'.",
+  "status": "verified"
+}

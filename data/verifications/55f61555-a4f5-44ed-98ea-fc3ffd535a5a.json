@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:01:07.546777+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Girls! Girls! Girls!",
+    "track_count": 13,
+    "tracklist": [
+      "Girls! Girls! Girls!",
+      "I Don't Wanna Be Tied",
+      "Where Do You Come From",
+      "I Don't Want To",
+      "We'll Be Together",
+      "A Boy Like Me, A Girl Like You",
+      "Earth Boy",
+      "Return To Sender",
+      "Because Of Love",
+      "Thanks To The Rolling Sea",
+      "Song Of The Shrimp",
+      "The Walls Have Ears",
+      "We're Comin' In Loaded"
+    ]
+  },
+  "entity_id": "ab3ee37f-b409-4d68-a5e7-89102b58622e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "55f61555-a4f5-44ed-98ea-fc3ffd535a5a",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Girls! Girls! Girls!",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Girls!_Girls!_Girls!_(soundtrack), https://www.discogs.com. 1962 film soundtrack, 13 tracks.",
+  "status": "verified"
+}

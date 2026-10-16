@@ -1,0 +1,42 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:00.424621+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "MiniDiscs [Hacked]",
+    "track_count": 18,
+    "tracklist": [
+      "MD111",
+      "MD112",
+      "MD113",
+      "MD114",
+      "MD115",
+      "MD116",
+      "MD117",
+      "MD118",
+      "MD119",
+      "MD120",
+      "MD121",
+      "MD122",
+      "MD123",
+      "MD124",
+      "MD125",
+      "MD126",
+      "MD127",
+      "MD128"
+    ]
+  },
+  "entity_id": "0ad636b1-f912-4d0f-a517-f6701aad2ee1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b2589937-9686-4ca1-8ea1-9981d988b061",
+  "input": {
+    "artist": "Radiohead",
+    "title": "MiniDiscs [Hacked]",
+    "track_count": 18
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (18 tracks) per https://en.wikipedia.org/wiki/MiniDiscs_(Hacked), https://www.discogs.com/release/13747135-Radiohead-Minidiscs-Hacked?redirected=true. Official self-released compilation (Jun 11, 2019) sold on Bandcamp for 18 days after Thom Yorke's MiniDisc archive was leaked; proceeds to Extinction Rebellion. 18 tracks, each a full MiniDisc (~17 min to 1h13m) of OK Computer-era demos, rehearsals and live material; total runtime ~16h19m. The individual recordings within each MiniDisc are not separate tracks on the release.",
+  "status": "verified"
+}

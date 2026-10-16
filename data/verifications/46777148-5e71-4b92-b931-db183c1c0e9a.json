@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:50:38.771079+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Deezer Session (2014)",
+    "track_count": 3,
+    "tracklist": [
+      "Don't",
+      "Sing",
+      "Thinking Out Loud"
+    ]
+  },
+  "entity_id": "5be0a8b1-cbdd-4583-bc22-8fdf0de4a029",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "46777148-5e71-4b92-b931-db183c1c0e9a",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Deezer Session (2014)",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://musicbrainz.org/release/d105c1d9-4ebb-4e53-8bbb-df64fb631839, https://newsroom-deezer.com/2014/07/ed-sheeran-deezer-session/. Same release as 'Deezer Session' (see that entry's notes): the 18 August 2014 Atlantic digital EP. Track order confirmed by MusicBrainz (2014-08-18, barcode 825646221158) and corroborated by the official Deezer newsroom report of the session.",
+  "status": "verified"
+}

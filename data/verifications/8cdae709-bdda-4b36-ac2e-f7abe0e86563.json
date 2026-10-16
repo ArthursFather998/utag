@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:27.330064+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "And Then We Kiss (2005)",
+    "track_number": 1
+  },
+  "entity_id": "4f097bd5-a2d0-4715-84c7-3a90ff9743b4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8cdae709-bdda-4b36-ac2e-f7abe0e86563",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "And Then We Kiss (2005)",
+    "title": "And Then We Kiss (2005)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'And Then We Kiss (2005)'.",
+  "status": "verified"
+}

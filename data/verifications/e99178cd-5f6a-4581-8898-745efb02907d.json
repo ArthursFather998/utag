@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:40.328028+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Grow - Single (2017)",
+    "track_number": 1
+  },
+  "entity_id": "6a13aed6-6c11-402f-84ab-cd0c2faf8844",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e99178cd-5f6a-4581-8898-745efb02907d",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Grow - Single (2017)",
+    "title": "Grow - Single (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Grow - Single (2017)'.",
+  "status": "verified"
+}

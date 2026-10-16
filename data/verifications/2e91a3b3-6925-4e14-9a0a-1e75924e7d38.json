@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:05.91425+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In Love with a Memory (2025)",
+    "track_number": 1
+  },
+  "entity_id": "c863a84f-ec45-435c-854d-602c86c97cca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2e91a3b3-6925-4e14-9a0a-1e75924e7d38",
+  "input": {
+    "artist": "Clairo",
+    "release": "In Love with a Memory (2025)",
+    "title": "In Love with a Memory (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'In Love with a Memory (2025)'.",
+  "status": "verified"
+}

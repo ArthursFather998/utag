@@ -1,0 +1,49 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:42.142352+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Black Parade/Living with Ghosts",
+    "track_count": 25,
+    "tracklist": [
+      "The End.",
+      "Dead!",
+      "This Is How I Disappear",
+      "The Sharpest Lives",
+      "Welcome to the Black Parade",
+      "I Don't Love You",
+      "House of Wolves",
+      "Cancer",
+      "Mama",
+      "Sleep",
+      "Teenagers",
+      "Disenchanted",
+      "Famous Last Words",
+      "Blood (Hidden Track)",
+      "The Five of Us Are Dying (Rough Mix)",
+      "Kill All Your Friends (Live Demo)",
+      "Party at the End of the World (Live Demo)",
+      "Mama (Live Demo)",
+      "My Way Home Is Through You (Live Demo)",
+      "Not That Kind of Girl (Live Demo)",
+      "House of Wolves (Version 1) (Live Demo)",
+      "House of Wolves (Version 2) (Live Demo)",
+      "Emily (Rough Mix)",
+      "Disenchanted (Live Demo)",
+      "All the Angels (Live Demo)"
+    ]
+  },
+  "entity_id": "db67bf42-e412-4af9-af2d-91a5e9633f99",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "859e0d4f-8471-4943-a4ce-bdf639c94205",
+  "input": {
+    "artist": "My Chemical Romance",
+    "title": "The Black Parade/Living with Ghosts",
+    "track_count": 25
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (25 tracks) per https://en.wikipedia.org/wiki/The_Black_Parade/Living_with_Ghosts, https://exclaim.ca/music/article/my_chemical_romance_detail_the_black_parade_deluxe_reissue. 10th Anniversary Edition of The Black Parade, released September 23, 2016 by Reprise (2CD / 3LP). Tracks 1-14 are the remastered original album (Disc 1); tracks 15-25 are the 'Living with Ghosts' bonus disc (Disc 2) of 11 previously unreleased demos and outtakes. 'The Five of Us Are Dying' is an early version of 'Welcome to the Black Parade'; no demo of 'Teenagers' was included. Not to be confused with the separate 2026 20th Anniversary Deluxe Edition, which has different bonus tracks.",
+  "status": "verified"
+}

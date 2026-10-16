@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:09.41564+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is Why",
+    "track_number": 1
+  },
+  "entity_id": "b39e7ebf-5a9a-4877-9345-9a7041881d19",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "eb100c6a-d28d-4dde-ac20-62f49b94d8f5",
+  "input": {
+    "artist": "Paramore",
+    "release": "This Is Why",
+    "title": "This Is Why"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Is Why'.",
+  "status": "verified"
+}

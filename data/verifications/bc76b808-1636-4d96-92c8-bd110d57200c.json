@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:21.632945+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "2 + 2 = 5",
+    "track_number": 1
+  },
+  "entity_id": "f65ca230-4143-4242-aca2-697af6656b13",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bc76b808-1636-4d96-92c8-bd110d57200c",
+  "input": {
+    "artist": "Radiohead",
+    "release": "2 + 2 = 5",
+    "title": "2 + 2 = 5"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '2 + 2 = 5'.",
+  "status": "verified"
+}

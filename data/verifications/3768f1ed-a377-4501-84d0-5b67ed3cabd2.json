@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:01.002334+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "30 for 30",
+    "track_number": 1
+  },
+  "entity_id": "e8674cac-9345-4ccc-91d3-1e41888b99b8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3768f1ed-a377-4501-84d0-5b67ed3cabd2",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "30 for 30",
+    "title": "30 for 30"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '30 for 30'.",
+  "status": "verified"
+}

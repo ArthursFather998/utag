@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:57.567546+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Naked in Manhattan",
+    "track_number": 1
+  },
+  "entity_id": "dae02000-cb4f-48f2-a55b-de00a666d422",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8716c456-b187-4fdc-bd61-665bd9fa1d99",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Naked in Manhattan",
+    "title": "Naked in Manhattan"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Naked in Manhattan'.",
+  "status": "verified"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:06.40713+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "ItWasntEnough",
+    "track_count": 4,
+    "tracklist": [
+      "Snow",
+      "01 MANIKIN",
+      "I LUv My CLiQuE LiKe KaNyE WeSt",
+      "I spoke to the devil in miami, he said everything would be fine"
+    ]
+  },
+  "entity_id": "e08383e7-5d20-4099-acbf-a30405ae6fdd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5adef634-74b6-4343-8e0a-5a72ad053fcf",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "ItWasntEnough",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.lyricsfromatoz.com/artist/xxxtentacion-lyrics, https://apkpure.com/tr/xxxtentacion-sad/com.sibejo.tentacion.sad. EP released March 18, 2016. 4 tracks. Re-released September 8, 2023 via Bad Vibes Forever/Columbia.",
+  "status": "verified"
+}

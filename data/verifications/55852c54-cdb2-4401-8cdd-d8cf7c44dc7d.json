@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:16.253915+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "S&M (remix)",
+    "track_number": 1
+  },
+  "entity_id": "fa6afb9c-5513-4b1b-af02-0074164a0786",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55852c54-cdb2-4401-8cdd-d8cf7c44dc7d",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "S&M (remix)",
+    "title": "S&M (remix)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'S&M (remix)'.",
+  "status": "verified"
+}

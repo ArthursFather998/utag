@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:51.883967+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Reuf",
+    "track_number": 1
+  },
+  "entity_id": "c00950b9-c380-474a-826d-51b03b763b7c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "def1ab27-1ddd-4c52-b7b8-a15a34b600cc",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Reuf",
+    "title": "Reuf"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Reuf'.",
+  "status": "verified"
+}

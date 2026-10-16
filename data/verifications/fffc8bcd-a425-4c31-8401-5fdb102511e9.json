@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:26.498592+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All the Stars",
+    "track_number": 1
+  },
+  "entity_id": "04339141-a6fe-49b3-b3f7-0c425be36483",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fffc8bcd-a425-4c31-8401-5fdb102511e9",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "All the Stars",
+    "title": "All the Stars"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All the Stars'.",
+  "status": "verified"
+}

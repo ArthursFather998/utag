@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:10:06.226318+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ronald (2024)",
+    "track_number": 1
+  },
+  "entity_id": "84295b72-2483-43e4-bb3c-9c23342cabb4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8229b501-a315-4a85-b309-9f0041623e04",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Ronald (2024)",
+    "title": "Ronald (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ronald (2024)'.",
+  "status": "verified"
+}

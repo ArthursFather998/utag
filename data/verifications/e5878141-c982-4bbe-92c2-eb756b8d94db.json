@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:10:31.233426+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Swim Good",
+    "track_number": 1
+  },
+  "entity_id": "ae6233e8-5b28-41dc-9e3d-98df8748d694",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e5878141-c982-4bbe-92c2-eb756b8d94db",
+  "input": {
+    "artist": "Frank Ocean",
+    "release": "Swim Good",
+    "title": "Swim Good"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Swim Good'.",
+  "status": "verified"
+}

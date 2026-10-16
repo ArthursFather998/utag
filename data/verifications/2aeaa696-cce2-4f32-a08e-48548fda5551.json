@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:23.370582+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Stop Whispering",
+    "track_number": 1
+  },
+  "entity_id": "cdafe72e-e018-40e8-a573-1173419975d3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2aeaa696-cce2-4f32-a08e-48548fda5551",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Stop Whispering",
+    "title": "Stop Whispering"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Stop Whispering'.",
+  "status": "verified"
+}

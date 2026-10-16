@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:27.171812+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lavender",
+    "track_number": 1
+  },
+  "entity_id": "3d84c065-a4a4-4db6-b7a2-0a77255173a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4054aa5-e76c-4c8c-9204-aaeca3b99244",
+  "input": {
+    "artist": "JVKE",
+    "release": "Lavender",
+    "title": "Lavender"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lavender'.",
+  "status": "verified"
+}

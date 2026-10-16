@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:15.956616+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Raised by Wolves (2011)",
+    "track_number": 1
+  },
+  "entity_id": "6c57d996-a77b-4d2a-af12-18a675a9b90f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "34ba89c2-14c3-47ef-93f6-ec2c77640836",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Raised by Wolves (2011)",
+    "title": "Raised by Wolves (2011)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Raised by Wolves (2011)'.",
+  "status": "verified"
+}

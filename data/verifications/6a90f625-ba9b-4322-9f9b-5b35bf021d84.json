@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:10.94284+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bed Chem",
+    "track_number": 1
+  },
+  "entity_id": "9b6e6d0b-f5b1-4e20-9304-4786cdf5216e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a90f625-ba9b-4322-9f9b-5b35bf021d84",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Bed Chem",
+    "title": "Bed Chem"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bed Chem'.",
+  "status": "verified"
+}

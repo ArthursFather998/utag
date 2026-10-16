@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:52.062767+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Born to Make You Happy",
+    "track_number": 1
+  },
+  "entity_id": "c61e4a05-a4a7-46df-b3cd-ab426d5c0eef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a49cfee-e978-4938-992c-67f3410d4540",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Born to Make You Happy",
+    "title": "Born to Make You Happy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Born to Make You Happy'.",
+  "status": "verified"
+}

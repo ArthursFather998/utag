@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:10.151864+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Supermarket Flowers",
+    "track_number": 1
+  },
+  "entity_id": "34fb110f-3da5-4af0-9b5b-7c1f8e4e5932",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f66d7e61-5981-4dad-b28b-0dfd8843f588",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Supermarket Flowers",
+    "title": "Supermarket Flowers"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Supermarket Flowers'.",
+  "status": "verified"
+}

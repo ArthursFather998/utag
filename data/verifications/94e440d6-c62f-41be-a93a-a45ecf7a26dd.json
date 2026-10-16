@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:50:50.60155+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ed Sheeran",
+    "track_count": 13,
+    "tracklist": [
+      "Open Your Ears",
+      "Beyond the Pale",
+      "In Memory",
+      "Insomniac's Lullaby",
+      "Quiet Ballad of Ed",
+      "No Luck",
+      "Stevensong",
+      "Billy Ruskin",
+      "Spark",
+      "Pause",
+      "The Sea",
+      "Way Home",
+      "Last Night"
+    ]
+  },
+  "entity_id": "6de5a0ff-bc31-4cf3-8816-7eb2c5a62971",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "94e440d6-c62f-41be-a93a-a45ecf7a26dd",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Ed Sheeran",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://musicbrainz.org/release/71c07e92-4b71-43d3-a041-5fd67d8343af, https://musicbrainz.org/release/fe2c71cf-52e3-4abd-a0ed-45ab3770d965. Self-released debut EP, 22 March 2006, label Sheeran Lock (catalog ESCD001). Two editions exist: the original 12-track CD (ends with 'Way Home') and a 13-track reissue adding 'Last Night' as track 13 (MusicBrainz lists both). Tracklist below is the 13-track version, confirmed by MusicBrainz (2 releases) and the Ed Sheeran Fandom wiki (matching durations). Title disputes resolved: track 1 is 'Open Your Ears' (NOT 'Open Your Eyes' as one blog lists; lyric sites with the actual lyrics confirm 'Open Your Ears'); track 13 is 'Last Night' (the song's actual title per MusicBrainz + Fandom + lyric sites), though some sources print it as 'Bonus Track'. Track 10 'Pause' is credited 'featuring Alonestar' on fan sources (MusicBrainz lists it as 'Pause' only). Wikipedia's Ed Sheeran discography confirms this as a 2006 self-released EP.",
+  "status": "verified"
+}

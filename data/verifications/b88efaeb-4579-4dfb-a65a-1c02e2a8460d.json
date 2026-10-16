@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:13.728733+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Toxic Las Vegas (2023)",
+    "track_number": 1
+  },
+  "entity_id": "343e0412-4ba0-4b21-9113-c9346630187f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b88efaeb-4579-4dfb-a65a-1c02e2a8460d",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Toxic Las Vegas (2023)",
+    "title": "Toxic Las Vegas (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Toxic Las Vegas (2023)'.",
+  "status": "verified"
+}

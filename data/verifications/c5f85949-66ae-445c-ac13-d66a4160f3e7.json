@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:33.216373+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Radiohead: The Best Of",
+    "track_count": 16,
+    "tracklist": [
+      "Just",
+      "Paranoid Android",
+      "Karma Police",
+      "Creep",
+      "No Surprises",
+      "High and Dry",
+      "My Iron Lung",
+      "There There",
+      "Lucky",
+      "Fake Plastic Trees",
+      "Idioteque",
+      "2 + 2 = 5",
+      "The Bends",
+      "Pyramid Song",
+      "Street Spirit (Fade Out)",
+      "Everything in Its Right Place"
+    ]
+  },
+  "entity_id": "253b29d7-8248-47dd-b58a-49b2176a1b6d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c5f85949-66ae-445c-ac13-d66a4160f3e7",
+  "input": {
+    "artist": "Radiohead",
+    "title": "Radiohead: The Best Of",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://www.spinmagazine.com/2008/04/radiohead-best-release-date-tracklist-revealed/, https://www.bibleinmylanguage.com/radiohead-the-best-of-16-classic-tracks-including-creep-karma-police-paranoid-android-fake-plastic-trees-and-no-surprises-parlophone-audio-cd-2008-216-3052/. Official EMI compilation (Jun 2008), released without the band's input. This is the standard 16-track single-disc edition; 'Idioteque' appears as an edit. The deluxe 2CD edition adds a 13-track second disc: Airbag, I Might Be Wrong, Go to Sleep, Let Down, Planet Telex, Exit Music (For a Film), The National Anthem, Knives Out, Talk Show Host, You, Anyone Can Play Guitar, How to Disappear Completely, True Love Waits (Live).",
+  "status": "verified"
+}

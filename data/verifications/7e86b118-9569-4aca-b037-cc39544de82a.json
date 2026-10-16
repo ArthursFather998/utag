@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:19.556997+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Singular: Act I",
+    "track_count": 8,
+    "tracklist": [
+      "Almost Love",
+      "Paris",
+      "Hold Tight (featuring Uhmeer)",
+      "Sue Me",
+      "Prfct",
+      "Bad Time",
+      "Mona Lisa",
+      "Diamonds Are Forever"
+    ]
+  },
+  "entity_id": "3f6d021a-3dc9-44e3-ab67-f3ab99513b37",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7e86b118-9569-4aca-b037-cc39544de82a",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "title": "Singular: Act I",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per https://en.wikipedia.org/wiki/Singular:_Act_I, https://www.universalmusic.ca/2018/10/25/sabrina-carpenter-reveals-release-for-new-album-singular-act-i-november-9/. Standard 8-track edition. Japanese edition bonus tracks (Alien with Jonas Blue, remixes, Why) excluded.",
+  "status": "verified"
+}

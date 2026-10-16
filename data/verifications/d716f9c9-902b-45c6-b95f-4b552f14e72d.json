@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:16:27.86+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cayendo",
+    "track_number": 1
+  },
+  "entity_id": "4b2fcffe-7610-418e-b0ac-a8f156eb60ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d716f9c9-902b-45c6-b95f-4b552f14e72d",
+  "input": {
+    "artist": "Frank Ocean",
+    "release": "Cayendo",
+    "title": "Cayendo"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cayendo'.",
+  "status": "verified"
+}

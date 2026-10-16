@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:29.910653+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All We Know",
+    "track_number": 1
+  },
+  "entity_id": "27c81e04-d9bb-4b3d-b0c3-24e47def2ca7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0598dcdf-a30a-4af0-85dc-4e14e7dcf79c",
+  "input": {
+    "artist": "Paramore",
+    "release": "All We Know",
+    "title": "All We Know"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All We Know'.",
+  "status": "verified"
+}

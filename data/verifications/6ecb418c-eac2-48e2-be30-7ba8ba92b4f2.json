@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:02:39.851003+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Recorded Live on Stage in Memphis",
+    "track_count": 15,
+    "tracklist": [
+      "See See Rider",
+      "I Got A Woman",
+      "Love Me",
+      "Trying To Get To You",
+      "Long Tall Sally / Whole Lotta Shakin' Goin' On / Mama Don't Dance / Flip Flop And Fly / Jailhouse Rock / Hound Dog",
+      "Why Me Lord",
+      "How Great Thou Art",
+      "Blueberry Hill / I Can't Stop Loving You",
+      "Help Me",
+      "An American Trilogy",
+      "Let Me Be There",
+      "My Baby Left Me",
+      "Lawdy Miss Clawdy",
+      "Can't Help Falling In Love",
+      "Closing Vamp"
+    ]
+  },
+  "entity_id": "ad8075a3-108a-481c-863f-22b18d5394c1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6ecb418c-eac2-48e2-be30-7ba8ba92b4f2",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Recorded Live on Stage in Memphis",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://www.discogs.com/release/21850579-Elvis-Recorded-Live-On-Stage-In-Memphis, https://en.citizendium.org/wiki/Elvis_Recorded_Live_on_Stage_in_Memphis. Original 1974 LP (CPL1-0606), 15 tracks recorded March 20, 1974 at the Mid-South Coliseum, Memphis. Expanded legacy editions add Richmond concert and rehearsal tracks - not included here.",
+  "status": "verified"
+}

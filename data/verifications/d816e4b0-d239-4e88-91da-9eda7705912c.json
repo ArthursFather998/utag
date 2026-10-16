@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:31.799971+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Suspicious Minds",
+    "track_number": 1
+  },
+  "entity_id": "78bd39f1-8447-4f41-8449-4f60583e3375",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d816e4b0-d239-4e88-91da-9eda7705912c",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Suspicious Minds",
+    "title": "Suspicious Minds"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Suspicious Minds'.",
+  "status": "verified"
+}

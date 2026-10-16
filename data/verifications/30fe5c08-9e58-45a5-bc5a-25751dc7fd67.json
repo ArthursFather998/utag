@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:50.889156+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Key Cuts from Remixed",
+    "track_count": 5,
+    "tracklist": [
+      "And Then We Kiss (Junkie XL Remix)",
+      "Me Against the Music (Justice Extended Mix)",
+      "Touch of My Hand (Bill Hamel Remix)",
+      "Toxic (Peter Rauhofer Reconstruction Mix)",
+      "Breathe on Me (Jacques Lu Cont's Thin White Duke Mix)"
+    ]
+  },
+  "entity_id": "9c66625c-1435-40de-97cf-295ef9134989",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "30fe5c08-9e58-45a5-bc5a-25751dc7fd67",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Key Cuts from Remixed",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/1285359-Britney-Spears-Key-Cuts-From-Remixed, https://en.wikipedia.org/wiki/B_in_the_Mix:_The_Remixes. 2005 promotional CD sampler, 5 tracks. Promo-only release to promote B in the Mix.",
+  "status": "verified"
+}

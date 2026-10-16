@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:37.677979+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Me Against the Music",
+    "track_number": 1
+  },
+  "entity_id": "97fcb2d8-b2aa-46d3-925f-7f7e0818422d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06d02e29-77f7-40b9-8bcc-dbf6dba6760c",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Me Against the Music",
+    "title": "Me Against the Music"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Me Against the Music'.",
+  "status": "verified"
+}

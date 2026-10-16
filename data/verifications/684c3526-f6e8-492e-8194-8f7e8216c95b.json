@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:11.915986+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "2010 Summer Tour EP",
+    "track_count": 6,
+    "tracklist": [
+      "Ignorance (live)",
+      "My Heart (live)",
+      "Back in Your Head (live)",
+      "Sheets",
+      "I'm the Fool",
+      "Gonna Stay"
+    ]
+  },
+  "entity_id": "89858fc1-b08a-462b-807a-0868b0f9da55",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "684c3526-f6e8-492e-8194-8f7e8216c95b",
+  "input": {
+    "artist": "Paramore",
+    "title": "2010 Summer Tour EP",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://paramore-music.com/menu/paramore/other-releases/, https://en.wikipedia.org/wiki/2010_Summer_Tour_EP. Released during the 2010 Honda Civic Tour (iTunes July 20, 2010; physical August 10, 2010). Features Paramore, Tegan and Sara, New Found Glory, and Kadawatha. Per Wikipedia: tracks 1-2 are Paramore live at Wembley Arena; track 3 is Tegan and Sara live acoustic in Australia; track 4 is a previously unreleased Tegan and Sara track; track 5 is a New Found Glory B-side; track 6 is a previously unreleased Kadawatha track.",
+  "status": "verified"
+}

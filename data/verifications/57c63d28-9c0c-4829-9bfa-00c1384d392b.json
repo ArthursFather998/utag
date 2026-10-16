@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:45.870607+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Want You, I Need You, I Love You (1956)",
+    "track_number": 1
+  },
+  "entity_id": "f72095e2-764d-4727-bfd8-af1b4798519e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57c63d28-9c0c-4829-9bfa-00c1384d392b",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "I Want You, I Need You, I Love You (1956)",
+    "title": "I Want You, I Need You, I Love You (1956)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Want You, I Need You, I Love You (1956)'.",
+  "status": "verified"
+}

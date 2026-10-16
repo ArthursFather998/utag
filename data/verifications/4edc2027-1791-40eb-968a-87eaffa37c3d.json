@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:39.165715+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Voicenotes",
+    "track_count": 13,
+    "tracklist": [
+      "The Way I Am",
+      "Attention",
+      "LA Girls",
+      "How Long",
+      "Done For Me (feat. Kehlani)",
+      "Patient",
+      "If You Leave Me Now (feat. Boyz II Men)",
+      "BOY",
+      "Slow It Down",
+      "Change (feat. James Taylor)",
+      "Somebody Told Me",
+      "Empty Cups",
+      "Through It All"
+    ]
+  },
+  "entity_id": "bf2f5213-e5af-4b40-8914-82fe5627af63",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4edc2027-1791-40eb-968a-87eaffa37c3d",
+  "input": {
+    "artist": "Charlie Puth",
+    "title": "Voicenotes",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://albumpedia.fandom.com/wiki/Voicenotes, https://onlineradiobox.com/album/1293229669-voicenotes?lang=en. Second studio album, released May 11, 2018 (Atlantic). All sources agree on identical 13-track order. Duplicate entry 'Voicenotes (2018)' is the same album (year-disambiguation artifact) — recommend merge/delete.",
+  "status": "verified"
+}

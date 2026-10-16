@@ -1,0 +1,41 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:08.526089+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Goes",
+    "track_count": 17,
+    "tracklist": [
+      "Young",
+      "Diamonds",
+      "Another One",
+      "My Oasis (featuring Burna Boy)",
+      "So Serious",
+      "Dance ('Til You Love Someone Else)",
+      "For the Lover That I Lost",
+      "Breaking Hearts",
+      "Forgive Myself",
+      "Love Goes (featuring Labrinth)",
+      "Kids Again",
+      "Dancing with a Stranger (with Normani)",
+      "How Do You Sleep?",
+      "To Die For",
+      "I'm Ready (with Demi Lovato)",
+      "Fire on Fire",
+      "Promises (with Calvin Harris)"
+    ]
+  },
+  "entity_id": "17f9f946-1f7d-4c61-b667-5c7739028db1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "aa5329c5-4de2-440d-9ca4-2c26882170f2",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Love Goes",
+    "track_count": 17
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (17 tracks) per https://en.wikipedia.org/wiki/Love_Goes_(Sam_Smith_album), https://de.wikipedia.org/wiki/Love_Goes_(Sam_Smith_album). Standard 17-track edition. Verified against English and German Wikipedia.",
+  "status": "verified"
+}

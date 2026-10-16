@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:17.22994+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Burning Love",
+    "track_number": 1
+  },
+  "entity_id": "12e41d6f-5ee6-4e6e-aab7-1d869e83c4e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c434b2be-4722-4e84-88ad-09c5eb7958c9",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Burning Love",
+    "title": "Burning Love"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Burning Love'.",
+  "status": "verified"
+}

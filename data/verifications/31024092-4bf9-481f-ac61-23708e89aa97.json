@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:10.453927+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Glory",
+    "track_count": 12,
+    "tracklist": [
+      "Invitation",
+      "Do You Wanna Come Over?",
+      "Make Me",
+      "Private Show",
+      "Man on the Moon",
+      "Just Luv Me",
+      "Clumsy",
+      "Slumber Party",
+      "Just Like Me",
+      "Love Me Down",
+      "Hard to Forget Ya",
+      "What You Need"
+    ]
+  },
+  "entity_id": "bfaf23c7-b304-4294-bc09-15f917327c5b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "31024092-4bf9-481f-ac61-23708e89aa97",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Glory",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album), https://albumpedia.fandom.com/wiki/Glory_(Britney_Spears). Standard edition, 12 tracks.",
+  "status": "verified"
+}

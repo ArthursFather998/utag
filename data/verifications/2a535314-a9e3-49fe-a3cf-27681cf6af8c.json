@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:46.798902+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wishbone",
+    "track_count": 12,
+    "tracklist": [
+      "Actor",
+      "This Song",
+      "Vodka Cranberry",
+      "Romeo",
+      "My World",
+      "Class Clown",
+      "Nauseous",
+      "Caramel",
+      "Connell",
+      "Sunset Tower",
+      "Eleven Eleven",
+      "Care"
+    ]
+  },
+  "entity_id": "5ec8f06a-79a3-4e02-9a36-493a39e2d505",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2a535314-a9e3-49fe-a3cf-27681cf6af8c",
+  "input": {
+    "artist": "Conan Gray",
+    "title": "Wishbone",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Wishbone_(album), https://www.discogs.com/release/34840481-Conan-Gray-Wishbone. Fourth studio album, released Aug 15, 2025 via Republic Records. 12-track standard edition.",
+  "status": "verified"
+}

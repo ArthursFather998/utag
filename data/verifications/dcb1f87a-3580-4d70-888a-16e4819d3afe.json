@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:40.875579+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Groundwork",
+    "track_number": 1
+  },
+  "entity_id": "3c47c848-ee94-4d9d-b627-170ca3bea70c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcb1f87a-3580-4d70-888a-16e4819d3afe",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Groundwork",
+    "title": "Groundwork"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Groundwork'.",
+  "status": "verified"
+}

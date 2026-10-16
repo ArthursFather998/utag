@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:56:33.518094+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kissin' Cousins",
+    "track_count": 12,
+    "tracklist": [
+      "Kissin' Cousins (Number 2)",
+      "Smokey Mountain Boy",
+      "There's Gold in the Mountains",
+      "One Boy, Two Little Girls",
+      "Catchin' On Fast",
+      "Tender Feeling",
+      "Anyone (Could Fall in Love with You)",
+      "Barefoot Ballad",
+      "Once Is Enough",
+      "Kissin' Cousins",
+      "Echoes of Love",
+      "(It's a) Long Lonely Highway"
+    ]
+  },
+  "entity_id": "ffe4d7f9-55ef-436c-baed-630216fd5766",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e1f5e6f4-766c-438c-b52c-7b166c2bca92",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Kissin' Cousins",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Kissin'_Cousins_(soundtrack), https://www.discogs.com/release/2476804-Elvis-Presley-Kissin-Cousins. Original LP RCA Victor LPM/LSP 2894 (Apr 1964), 12 tracks. DUPLICATE TITLE: 'Kissin' Cousins' appears twice — track 1 is 'Kissin' Cousins (Number 2)' (the film's opening version) and track 10 is the single version 'Kissin' Cousins'. Tracks 11-12 ('Echoes of Love', '(It's a) Long Lonely Highway') are bonus tracks not in the film; 'Anyone (Could Fall in Love with You)' was also omitted from the film.",
+  "status": "verified"
+}

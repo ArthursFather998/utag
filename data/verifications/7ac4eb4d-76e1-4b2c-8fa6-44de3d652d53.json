@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:58.094553+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Other Side",
+    "track_number": 1
+  },
+  "entity_id": "4e67028f-d5a8-4949-a864-de4b73bc5434",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7ac4eb4d-76e1-4b2c-8fa6-44de3d652d53",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "The Other Side",
+    "title": "The Other Side"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Other Side'.",
+  "status": "verified"
+}

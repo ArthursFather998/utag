@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:33.895262+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Fuck Love (feat. Trippie Redd) (2018)",
+    "track_number": 1
+  },
+  "entity_id": "d2c18e6b-aca1-4abe-a88e-1f93a8924f1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d84698a3-90b8-4f9c-9b44-08244c53f912",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Fuck Love (feat. Trippie Redd) (2018)",
+    "title": "Fuck Love (feat. Trippie Redd) (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Fuck Love (feat. Trippie Redd) (2018)'.",
+  "status": "verified"
+}

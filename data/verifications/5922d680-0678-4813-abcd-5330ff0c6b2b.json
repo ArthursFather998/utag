@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:35.491228+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Song",
+    "track_number": 1
+  },
+  "entity_id": "cb4d1244-ca79-41a7-a555-f91f1ed1f677",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5922d680-0678-4813-abcd-5330ff0c6b2b",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "This Song",
+    "title": "This Song"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Song'.",
+  "status": "verified"
+}

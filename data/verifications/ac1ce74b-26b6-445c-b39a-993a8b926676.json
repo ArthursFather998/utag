@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:42.446701+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blue Suede Shoes (1956)",
+    "track_number": 1
+  },
+  "entity_id": "8d9a0949-ec01-4665-b865-664fa4bef68f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac1ce74b-26b6-445c-b39a-993a8b926676",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Blue Suede Shoes (1956)",
+    "title": "Blue Suede Shoes (1956)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Blue Suede Shoes (1956)'.",
+  "status": "verified"
+}

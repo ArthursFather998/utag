@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:02:58.414098+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Vice City (2022)",
+    "track_number": 1
+  },
+  "entity_id": "a1da887d-5b85-4e65-a9a5-bb9415ebf9b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b383c26b-c6b6-4560-a07b-c6337a296558",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Vice City (2022)",
+    "title": "Vice City (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Vice City (2022)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:19.65463+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Camera (2025)",
+    "track_number": 1
+  },
+  "entity_id": "83a07b5f-9b4b-4d04-9830-b327b1321ced",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f51c7c07-05b9-4cd9-8b7f-90daeccf16e1",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Camera (2025)",
+    "title": "Camera (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Camera (2025)'.",
+  "status": "verified"
+}

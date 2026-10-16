@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:24.211437+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "No Surprises / Running from Demons",
+    "track_count": 6,
+    "tracklist": [
+      "No Surprises",
+      "Pearly*",
+      "Melatonin",
+      "Meeting in the Aisle",
+      "Bishop's Robes",
+      "A Reminder"
+    ]
+  },
+  "entity_id": "693c0a8a-f04d-41ad-84f0-98f70f70f756",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "de17a574-425b-4b5c-a828-6d642fd924a7",
+  "input": {
+    "artist": "Radiohead",
+    "title": "No Surprises / Running from Demons",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://en-academic.com/dic.nsf/enwiki/149977/, https://www.discogs.com/release/27386-Radiohead-%E3%83%AC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%98%E3%83%83%E3%83%89-No-Surprises-Running-From-Demons-%E3%83%8E%E3%83%BC%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BC%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%8B. Japan-only EP (Dec 10, 1997, Toshiba-EMI, TOCP-50354) released ahead of the January 1998 Japan tour. 'Pearly*' is the remixed version (distinct from the original on the Paranoid Android single).",
+  "status": "verified"
+}

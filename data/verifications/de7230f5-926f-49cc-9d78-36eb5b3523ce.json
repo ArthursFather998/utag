@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:02.640232+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Diamonds",
+    "track_number": 1
+  },
+  "entity_id": "c00f8d6f-08bf-4dcd-bdb7-0cacc38b41d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de7230f5-926f-49cc-9d78-36eb5b3523ce",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Diamonds",
+    "title": "Diamonds"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Diamonds'.",
+  "status": "verified"
+}

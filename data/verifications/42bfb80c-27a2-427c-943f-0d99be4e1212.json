@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:20.661923+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Planetary (Go!)",
+    "track_number": 1
+  },
+  "entity_id": "462b216c-faba-4f15-abd5-d71fe072229b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42bfb80c-27a2-427c-943f-0d99be4e1212",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Planetary (Go!)",
+    "title": "Planetary (Go!)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Planetary (Go!)'.",
+  "status": "verified"
+}

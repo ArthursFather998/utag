@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:29.19635+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live",
+    "track_count": 5,
+    "tracklist": [
+      "I've Told You Now (Live At St Pancras Old Church, London)",
+      "Fix You (Live)",
+      "Hotline Bling (Live From Maida Vale)",
+      "Latch (Live From Madison Square Garden)",
+      "Omen (Live From Maida Vale)"
+    ]
+  },
+  "entity_id": "6cad8999-e9eb-4f5b-a9a7-233eda994c24",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dbb1a52a-7f1d-4883-8373-828476c73848",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Live",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.qobuz.com/be-nl/album/live-sam-smith/solfpv5y374oa, https://www.allmusic.com/album/live-mw0003496780. Live EP, 5 tracks. Released February 26, 2021. Tracks 3 and 5 are credited to Disclosure as main artist with Sam Smith as featured artist (BBC Maida Vale recordings). Verified against Qobuz and AllMusic (durations and credits match).",
+  "status": "verified"
+}

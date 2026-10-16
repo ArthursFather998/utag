@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:20.242176+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cry (featuring Kenny G) (2026)",
+    "track_number": 1
+  },
+  "entity_id": "c5fe37f8-60c7-4cab-9773-6b705bbb6fab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01fac160-5a7e-4205-a588-55deebff2f3a",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Cry (featuring Kenny G) (2026)",
+    "title": "Cry (featuring Kenny G) (2026)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cry (featuring Kenny G) (2026)'.",
+  "status": "verified"
+}

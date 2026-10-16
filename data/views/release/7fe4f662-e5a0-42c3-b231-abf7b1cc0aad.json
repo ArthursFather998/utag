@@ -1268,6 +1268,164 @@
     "title": "Stripped",
     "updated_at": "2026-10-16T04:06:34.664752+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T07:24:16.02187+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "de69390d-de4a-4dab-ae46-e6af02b79d9b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7fe4f662-e5a0-42c3-b231-abf7b1cc0aad",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "{\"n\": 1, \"title\": \"My Oasis (feat. Burna Boy)\"}",
+      "track_number": 1,
+      "updated_at": "2026-10-16T07:24:16.02187+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T07:24:16.965732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5615f903-fb94-4ffb-9654-36cfa27078bd",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7fe4f662-e5a0-42c3-b231-abf7b1cc0aad",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "{\"n\": 2, \"title\": \"Fix You - Live\"}",
+      "track_number": 2,
+      "updated_at": "2026-10-16T07:24:16.965732+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T07:24:17.676312+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "33440aa1-43ca-4144-922a-0554bceff04c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7fe4f662-e5a0-42c3-b231-abf7b1cc0aad",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "{\"n\": 3, \"title\": \"Latch - Acoustic\"}",
+      "track_number": 3,
+      "updated_at": "2026-10-16T07:24:17.676312+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T07:24:18.490352+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "0a8d4ea0-8f93-40ba-9211-734cb1490ab3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7fe4f662-e5a0-42c3-b231-abf7b1cc0aad",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "{\"n\": 4, \"title\": \"How Do You Sleep? - Acoustic\"}",
+      "track_number": 4,
+      "updated_at": "2026-10-16T07:24:18.490352+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T07:24:18.996763+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5e078cb2-ba3d-4a93-8d6e-0616297a2051",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7fe4f662-e5a0-42c3-b231-abf7b1cc0aad",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "{\"n\": 5, \"title\": \"Dancing With A Stranger (feat. Normani) - Acoustic\"}",
+      "track_number": 5,
+      "updated_at": "2026-10-16T07:24:18.996763+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T07:24:19.573068+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a1dc9134-f970-461b-a112-bf1d0674ae50",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "7fe4f662-e5a0-42c3-b231-abf7b1cc0aad",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "{\"n\": 6, \"title\": \"To Die For - Acoustic\"}",
+      "track_number": 6,
+      "updated_at": "2026-10-16T07:24:19.573068+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T07:24:20.066391+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Stripped",
+        "track_count": 6,
+        "tracklist": [
+          {
+            "n": 1,
+            "title": "My Oasis (feat. Burna Boy)"
+          },
+          {
+            "n": 2,
+            "title": "Fix You - Live"
+          },
+          {
+            "n": 3,
+            "title": "Latch - Acoustic"
+          },
+          {
+            "n": 4,
+            "title": "How Do You Sleep? - Acoustic"
+          },
+          {
+            "n": 5,
+            "title": "Dancing With A Stranger (feat. Normani) - Acoustic"
+          },
+          {
+            "n": 6,
+            "title": "To Die For - Acoustic"
+          }
+        ]
+      },
+      "entity_id": "7fe4f662-e5a0-42c3-b231-abf7b1cc0aad",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "3b4c0683-7a70-4b11-8ffe-f7c832c986f1",
+      "input": {
+        "artist": "Various",
+        "title": "Stripped",
+        "track_count": 6
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (6 tracks) per . Verified 2020 EP (Wikipedia discography: released 14 August 2020, Capitol). Tracklist confirmed by hdmusic.cc and Universal Music Brazil official link (umusicbrazil.lnk.to/STRIPPED), both listing the same 6 tracks in order. Note: a separate 2023 'Sam Smith Stripped' release contains different tracks (Say It First, Diamonds, Lay Me Down, Stay With Me); this entry uses the 2020 EP per the official discography.",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:20.961963+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Boat",
+    "track_number": 1
+  },
+  "entity_id": "e07fb8c5-3e81-40e6-9bd2-bbc84791a641",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea7f97e6-cf13-4c05-b99c-c1b740e0b379",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Boat",
+    "title": "Boat"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Boat'.",
+  "status": "verified"
+}

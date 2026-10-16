@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:57.524852+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Playground",
+    "track_number": 1
+  },
+  "entity_id": "75643317-2932-482e-a1e3-25cad01478c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23f24511-0c26-441b-99bd-2ad9dbdba59d",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Playground",
+    "title": "Playground"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Playground'.",
+  "status": "verified"
+}

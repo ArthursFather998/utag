@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:50.777815+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Closer to You",
+    "track_number": 1
+  },
+  "entity_id": "e0661199-4a0c-4c4c-a78a-e9aa652c8b04",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fc4040d2-a054-4ab6-af45-c5c019d2c99d",
+  "input": {
+    "artist": "Clairo",
+    "release": "Closer to You",
+    "title": "Closer to You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Closer to You'.",
+  "status": "verified"
+}

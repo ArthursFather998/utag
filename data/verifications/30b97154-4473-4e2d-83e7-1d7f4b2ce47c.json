@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:30.257527+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Idle Town - Single (2017)",
+    "track_number": 1
+  },
+  "entity_id": "04182519-25b2-4924-a40b-de98bca79c59",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30b97154-4473-4e2d-83e7-1d7f4b2ce47c",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Idle Town - Single (2017)",
+    "title": "Idle Town - Single (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Idle Town - Single (2017)'.",
+  "status": "verified"
+}

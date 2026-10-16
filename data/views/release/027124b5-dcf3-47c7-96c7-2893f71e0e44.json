@@ -1268,6 +1268,127 @@
     "title": "Heartbreak",
     "updated_at": "2026-10-16T04:06:28.307391+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:27.309101+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ff216fad-5617-4105-bff6-58d7dae82b69",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "027124b5-dcf3-47c7-96c7-2893f71e0e44",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "To Die For",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:31:27.309101+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:27.907065+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b799688a-2341-4111-a423-18c616e4ced8",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "027124b5-dcf3-47c7-96c7-2893f71e0e44",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Too Good At Goodbyes (Edit)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:31:27.907065+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:28.487594+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b878df30-dc70-42d0-aed8-326e9a2c5cbe",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "027124b5-dcf3-47c7-96c7-2893f71e0e44",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "I'm Not The Only One",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:31:28.487594+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:29.111378+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9da5ef5a-d9d6-4d75-84a9-d9bec1126702",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "027124b5-dcf3-47c7-96c7-2893f71e0e44",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Stay With Me",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:31:29.111378+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:29.7261+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7b51bb13-4d1a-4ff3-a3ed-34db1cfdea0c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "027124b5-dcf3-47c7-96c7-2893f71e0e44",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Palace",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:31:29.7261+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:31:30.37502+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Heartbreak",
+        "track_count": 5,
+        "tracklist": [
+          "To Die For",
+          "Too Good At Goodbyes (Edit)",
+          "I'm Not The Only One",
+          "Stay With Me",
+          "Palace"
+        ]
+      },
+      "entity_id": "027124b5-dcf3-47c7-96c7-2893f71e0e44",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "c356644c-4c63-43f1-8ae2-79335f7002d4",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "Heartbreak",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/16049624-Sam-Smith-Heartbreak, https://houseofaceonline.com/2020/07/29/sam-smith-heartbreak-ep-download/. Heartbreak EP, 5 tracks. Released July 24, 2020. Thematic compilation EP. Verified against Discogs, houseofaceonline, and intmusic.net.",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:40.464257+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blossom",
+    "track_count": 5,
+    "tracklist": [
+      "My Oasis",
+      "So Serious",
+      "I'm Ready",
+      "Diamonds (Joel Corry Remix)",
+      "Fire on Fire (From \"Watership Down\")"
+    ]
+  },
+  "entity_id": "0b09dd73-e01b-4983-ac75-9924145ad3ca",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "58039697-75e0-493e-b67c-f536c5b6e2d8",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Blossom",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.muxicbeats.com/sam-smith-songs/, https://www.youtube.com/@samsmith. Concept EP, 5 tracks. Released November 27, 2020. Part of a series of flower-themed EPs. Verified against muxicbeats.com and Sam Smith's official YouTube channel (concept EP series confirmed).",
+  "status": "verified"
+}

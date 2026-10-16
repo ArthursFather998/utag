@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:24.538322+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Holiday Sessions",
+    "track_count": 3,
+    "tracklist": [
+      "Interlude: Moving On",
+      "Interlude: Holiday",
+      "Interlude: I'm Not Angry Anymore"
+    ]
+  },
+  "entity_id": "8b9d0bcb-77f8-4e1a-b184-aad846ffe791",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "66584f49-74ff-42fa-b537-1b5ca17f3f84",
+  "input": {
+    "artist": "Paramore",
+    "title": "The Holiday Sessions",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://en.wikipedia.org/wiki/The_Holiday_Sessions, https://www.spirit-of-rock.com/en/album/The_Holiday_Sessions/103955. RSD 2013 EP, April 20, 2013. 7-inch vinyl shaped like a pink hibiscus, limited to 700 copies (300 in Nashville). Contains the three ukulele interludes from the self-titled album.",
+  "status": "verified"
+}

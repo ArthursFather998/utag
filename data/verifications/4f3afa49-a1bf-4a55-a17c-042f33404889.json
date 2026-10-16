@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:43.653017+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Generation Why - Single (2018)",
+    "track_number": 1
+  },
+  "entity_id": "faca1cad-3397-4398-8d57-949259e6d3a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f3afa49-a1bf-4a55-a17c-042f33404889",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Generation Why - Single (2018)",
+    "title": "Generation Why - Single (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Generation Why - Single (2018)'.",
+  "status": "verified"
+}

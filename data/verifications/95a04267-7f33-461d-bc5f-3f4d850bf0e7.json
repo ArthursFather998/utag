@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:34.540035+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Because I Liked a Boy",
+    "track_number": 1
+  },
+  "entity_id": "a0dedb7f-c45c-4d54-9f47-fff22b393843",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95a04267-7f33-461d-bc5f-3f4d850bf0e7",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Because I Liked a Boy",
+    "title": "Because I Liked a Boy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Because I Liked a Boy'.",
+  "status": "verified"
+}

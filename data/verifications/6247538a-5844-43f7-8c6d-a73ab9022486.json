@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:10.472276+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "If I Can Dream",
+    "track_number": 1
+  },
+  "entity_id": "05f8ce0d-a4b0-4cd9-86de-ebdd792bf0f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6247538a-5844-43f7-8c6d-a73ab9022486",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "If I Can Dream",
+    "title": "If I Can Dream"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'If I Can Dream'.",
+  "status": "verified"
+}

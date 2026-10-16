@@ -663,6 +663,89 @@
     "title": "This Is What Sadness Feels Like (214 Hz)",
     "updated_at": "2026-10-16T04:04:40.666908+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:00.77029+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "3a472c98-0cf1-4a43-a016-cbf2a0d2648f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "346b8818-1a00-4d1c-8dbc-93b6344798bf",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "this is what sadness feels like",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:09:00.77029+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:01.471808+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "be3e9452-ecfa-4082-8786-672a8af40720",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "346b8818-1a00-4d1c-8dbc-93b6344798bf",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "wonder if she loves me",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:09:01.471808+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:01.953122+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "aebb15eb-2fa1-47f6-859e-e41f871914ae",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "346b8818-1a00-4d1c-8dbc-93b6344798bf",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "save your breath",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:09:01.953122+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:09:02.528166+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "This Is What Sadness Feels Like (214 Hz)",
+        "track_count": 3,
+        "tracklist": [
+          "this is what sadness feels like",
+          "wonder if she loves me",
+          "save your breath"
+        ]
+      },
+      "entity_id": "346b8818-1a00-4d1c-8dbc-93b6344798bf",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "128256b7-a2c7-450a-a606-895e9c76b5a5",
+      "input": {
+        "artist": "JVKE",
+        "title": "This Is What Sadness Feels Like (214 Hz)",
+        "track_count": 3
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (3 tracks) per https://www.deezer.com/us/album/359547217, https://onlineradiobox.com/album/1645425380-this-is-what-sadness. 3-track EP at 214 Hz. Identical tracklist across Deezer and Online Radio Box.",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:35.433959+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Born to Lead",
+    "track_number": 1
+  },
+  "entity_id": "ee42a837-e069-4226-b545-e1220748c3ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b5c39c7f-e532-44a3-b533-78d70f125271",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Born to Lead",
+    "title": "Born to Lead"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Born to Lead'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:07.75613+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Joker and the Queen (2022)",
+    "track_number": 1
+  },
+  "entity_id": "97a525b7-6e26-4ec1-8d47-2b07772d6771",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dc809a19-8965-4630-9faf-939e8e2d9feb",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "The Joker and the Queen (2022)",
+    "title": "The Joker and the Queen (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Joker and the Queen (2022)'.",
+  "status": "verified"
+}

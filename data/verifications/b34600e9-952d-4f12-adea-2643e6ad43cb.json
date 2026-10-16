@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:12.094698+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Reuf (2015)",
+    "track_number": 1
+  },
+  "entity_id": "3a5ac15c-1b29-4b58-81f5-eaadba21fd1c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b34600e9-952d-4f12-adea-2643e6ad43cb",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Reuf (2015)",
+    "title": "Reuf (2015)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Reuf (2015)'.",
+  "status": "verified"
+}

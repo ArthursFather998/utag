@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:43.280351+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Circus",
+    "track_count": 13,
+    "tracklist": [
+      "Womanizer",
+      "Circus",
+      "Out from Under",
+      "Kill the Lights",
+      "Shattered Glass",
+      "If U Seek Amy",
+      "Unusual You",
+      "Blur",
+      "Mmm Papi",
+      "Mannequin",
+      "Lace and Leather",
+      "My Baby",
+      "Radar"
+    ]
+  },
+  "entity_id": "695566de-d633-4600-a008-43e405f951c2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d7c991b2-c819-4474-91e0-c5ea0145e692",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Circus",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Circus_(Britney_Spears_album), https://lyricstranslate.com/en/collection/britney-spears-circus-2008-tracklist. Standard edition, 13 tracks including 'Radar' as bonus track.",
+  "status": "verified"
+}

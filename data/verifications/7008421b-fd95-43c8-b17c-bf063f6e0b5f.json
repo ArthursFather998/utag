@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:26.718199+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Red Wine Supernova (2023)",
+    "track_number": 1
+  },
+  "entity_id": "55e8a3f3-7787-4380-85fe-ab69a84fd34f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7008421b-fd95-43c8-b17c-bf063f6e0b5f",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Red Wine Supernova (2023)",
+    "title": "Red Wine Supernova (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Red Wine Supernova (2023)'.",
+  "status": "verified"
+}

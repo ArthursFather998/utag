@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:27.179573+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Let Me Go (2023)",
+    "track_number": 1
+  },
+  "entity_id": "6a25d85b-bfb4-4489-b8e7-570a45ff1ad3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c80191be-ba20-4c36-8353-b7a10c29b948",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Let Me Go (2023)",
+    "title": "Let Me Go (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Let Me Go (2023)'.",
+  "status": "verified"
+}

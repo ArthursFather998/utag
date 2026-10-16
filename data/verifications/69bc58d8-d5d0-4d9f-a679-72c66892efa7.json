@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:07.746156+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Domo23",
+    "track_number": 1
+  },
+  "entity_id": "861e4f46-f9c2-4d5b-aed5-681f7e1046ec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69bc58d8-d5d0-4d9f-a679-72c66892efa7",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Domo23",
+    "title": "Domo23"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Domo23'.",
+  "status": "verified"
+}

@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:00.654801+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Moth Girl",
+    "track_count": 5,
+    "tracklist": [
+      "Sad Anco",
+      "Up To the Brim",
+      "No Place 2 Be",
+      "Libra (demo)",
+      "It Is Over"
+    ]
+  },
+  "entity_id": "4287213d-a099-44d0-9002-994d0a5daade",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "304b9a72-b50b-44f3-97f6-4fd6973abbd4",
+  "input": {
+    "artist": "Clairo",
+    "title": "Moth Girl",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://clairo.fandom.com/wiki/Moth_Girl, https://en.wikipedia.org/wiki/Clairo_discography. EP, released June 8, 2015 on Bandcamp. 'Moth Girl (2015)' is a year-suffix duplicate.",
+  "status": "verified"
+}

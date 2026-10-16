@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:28.329553+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pick Up the Phone",
+    "track_number": 1
+  },
+  "entity_id": "35c9f822-eb80-4b09-a985-ceca3a24d1d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6d278e37-7a7f-4348-a891-bae728f5b4d2",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Pick Up the Phone",
+    "title": "Pick Up the Phone"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pick Up the Phone'.",
+  "status": "verified"
+}

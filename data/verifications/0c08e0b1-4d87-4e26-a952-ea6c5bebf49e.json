@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:35.62041+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Beautiful Game (2023)",
+    "track_number": 1
+  },
+  "entity_id": "1c644d8f-04b2-4934-946b-0d2781b6d156",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c08e0b1-4d87-4e26-a952-ea6c5bebf49e",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "A Beautiful Game (2023)",
+    "title": "A Beautiful Game (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Beautiful Game (2023)'.",
+  "status": "verified"
+}

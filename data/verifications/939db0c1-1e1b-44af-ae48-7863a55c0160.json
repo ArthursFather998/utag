@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:00.131083+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "True Love (with Kanye West)",
+    "track_number": 1
+  },
+  "entity_id": "87cde6ef-7b5b-455b-ac68-0642e95c36f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "939db0c1-1e1b-44af-ae48-7863a55c0160",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "True Love (with Kanye West)",
+    "title": "True Love (with Kanye West)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'True Love (with Kanye West)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:08.205699+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I'm Not Okay (I Promise)",
+    "track_number": 1
+  },
+  "entity_id": "0441a6a6-b7a9-4047-97fb-13d41cca7e53",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c575629-4c9b-41ee-aac7-924cb7d1b7ca",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "I'm Not Okay (I Promise)",
+    "title": "I'm Not Okay (I Promise)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I'm Not Okay (I Promise)'.",
+  "status": "verified"
+}

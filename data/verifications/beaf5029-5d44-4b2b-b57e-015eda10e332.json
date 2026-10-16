@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:48.864963+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Drive",
+    "track_number": 1
+  },
+  "entity_id": "d8688bff-9df3-49c3-ada7-c6b0da2dcc55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "beaf5029-5d44-4b2b-b57e-015eda10e332",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Drive",
+    "title": "Drive"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Drive'.",
+  "status": "verified"
+}

@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:50.249608+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Nine Track Mind (Deluxe)",
+    "track_count": 16,
+    "tracklist": [
+      "One Call Away",
+      "Dangerously",
+      "Marvin Gaye (feat. Meghan Trainor)",
+      "Losing My Mind",
+      "We Don't Talk Anymore (feat. Selena Gomez)",
+      "My Gospel",
+      "Up All Night",
+      "Left Right Left",
+      "Then There's You",
+      "Suffer",
+      "As You Are (feat. Shy Carter)",
+      "Some Type Of Love",
+      "See You Again (with Wiz Khalifa)",
+      "River",
+      "Does It Feel",
+      "Nothing But Trouble (Instagram Models) (Dance Remix)"
+    ]
+  },
+  "entity_id": "e070cd47-0359-4c88-b477-36390e128654",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2ff20baf-ed6e-4e94-8bab-c8483ef0c134",
+  "input": {
+    "artist": "Charlie Puth",
+    "title": "Nine Track Mind (Deluxe)",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://en.wikipedia.org/wiki/Nine_Track_Mind, https://www.cdjapan.co.jp/product/NEOIMP-13017. Debut studio album deluxe edition (2016). Used the 16-track digital/international deluxe: 12 standard + See You Again, River, Does It Feel, Nothing But Trouble (Dance Remix). Note: the North American physical deluxe is 15 tracks (omits See You Again) per Wikipedia; the streaming/import deluxe adds See You Again at track 13 per CDJapan and the 2016 digital release. Duplicate entry 'Nine Track Mind (Deluxe) (2016)' is the same edition — recommend merge/delete.",
+  "status": "verified"
+}

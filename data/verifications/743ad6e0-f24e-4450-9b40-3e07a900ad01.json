@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:28.848274+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ain't It Fun Remixes",
+    "track_count": 4,
+    "tracklist": [
+      "Ain't It Fun (Radio Edit)",
+      "Ain't It Fun (Dutch Uncles Remix)",
+      "Ain't It Fun (Kye Kye Remix)",
+      "Ain't It Fun (Smash Mode Remix)"
+    ]
+  },
+  "entity_id": "45bc8afc-187f-4e18-a79a-a5285b0e17d5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "743ad6e0-f24e-4450-9b40-3e07a900ad01",
+  "input": {
+    "artist": "Paramore",
+    "title": "Ain't It Fun Remixes",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Ain%27t_It_Fun_(Paramore_song), https://paramore.fandom.com/wiki/Ain%27t_It_Fun_Remixes. Remixes EP, June 24, 2014 (iTunes). Four remixes of 'Ain't It Fun' from the self-titled album. Note: 'Smash Mode Remix' confirmed by Wikipedia and Fandom; some listings show it as 'Smash Mode' vs other variant names.",
+  "status": "verified"
+}

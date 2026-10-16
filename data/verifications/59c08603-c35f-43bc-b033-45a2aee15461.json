@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:17.489179+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "bad idea right?",
+    "track_number": 1
+  },
+  "entity_id": "730f2428-f0bf-465f-96d5-831ec05f338f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "59c08603-c35f-43bc-b033-45a2aee15461",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "bad idea right?",
+    "title": "bad idea right?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'bad idea right?'.",
+  "status": "verified"
+}

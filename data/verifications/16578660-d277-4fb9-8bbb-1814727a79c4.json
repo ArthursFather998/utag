@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:59:05.79219+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Sails",
+    "track_count": 3,
+    "tracklist": [
+      "Press interview with Elvis Presley, September 22, 1958",
+      "Elvis Presley's Newsreel interview",
+      "Pat Hernon interviews Elvis at sailing"
+    ]
+  },
+  "entity_id": "dca54d00-337f-44de-9d46-c7e99d77f6ef",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "16578660-d277-4fb9-8bbb-1814727a79c4",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Sails",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://www.elvisthemusic.com/music/elvis-sails/, https://www.elvisrecords.com/epa-4325-elvis-sails/. 1958 interview/sound-effects EP (EPA-4325). 3 spoken-word tracks; not music tracks but this is the official content.",
+  "status": "verified"
+}

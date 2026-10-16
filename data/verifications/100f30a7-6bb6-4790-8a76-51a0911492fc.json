@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:12.678125+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hail to the Thief",
+    "track_count": 14,
+    "tracklist": [
+      "2 + 2 = 5 (The Lukewarm.)",
+      "Sit Down. Stand Up. (Snakes & Ladders.)",
+      "Sail to the Moon. (Brush the Cobwebs Out of the Sky.)",
+      "Backdrifts. (Honeymoon Is Over.)",
+      "Go to Sleep. (Little Man Being Erased.)",
+      "Where I End and You Begin. (The Sky Is Falling In.)",
+      "We Suck Young Blood. (Your Time Is Up.)",
+      "The Gloaming. (Softly Open Our Mouths in the Cold.)",
+      "There, There. (The Boney King of Nowhere.)",
+      "I Will. (No Man's Land.)",
+      "A Punchup at a Wedding. (No No No No No No No No.)",
+      "Myxomatosis. (Judge, Jury & Executioner.)",
+      "Scatterbrain. (As Dead as Leaves.)",
+      "A Wolf at the Door. (It Girl. Rag Doll.)"
+    ]
+  },
+  "entity_id": "04575f20-c0e4-45c6-aab7-604d348c731d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "100f30a7-6bb6-4790-8a76-51a0911492fc",
+  "input": {
+    "artist": "Radiohead",
+    "title": "Hail to the Thief",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Hail_to_the_Thief, https://www.discogs.com/release/4780652-Radiohead-Hail-To-The-Thief. Sixth studio album (Jun 2003). Each track carries an official parenthetical subtitle, included here as part of the official track titles.",
+  "status": "verified"
+}

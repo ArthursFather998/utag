@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:23.771533+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Why",
+    "track_number": 1
+  },
+  "entity_id": "3678779d-db9a-4115-9a37-78ccfa4fa7ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01a3fa06-6a4d-49cb-af76-8c90d246e8bd",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Why",
+    "title": "Why"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Why'.",
+  "status": "verified"
+}

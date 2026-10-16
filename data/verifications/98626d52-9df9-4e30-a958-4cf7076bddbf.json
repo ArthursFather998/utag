@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:26.09083+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Astronomy",
+    "track_number": 1
+  },
+  "entity_id": "52fda8e2-1b85-4dfe-a685-3f5f0b2b0c7e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "98626d52-9df9-4e30-a958-4cf7076bddbf",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Astronomy",
+    "title": "Astronomy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Astronomy'.",
+  "status": "verified"
+}

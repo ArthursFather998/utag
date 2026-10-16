@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:49.983756+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "L.U.V.",
+    "track_number": 1
+  },
+  "entity_id": "6438977a-0e26-431a-a517-ed112b56f074",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf6f2c38-c3c4-44bc-aa34-52ec8b224a45",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "L.U.V.",
+    "title": "L.U.V."
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'L.U.V.'.",
+  "status": "verified"
+}

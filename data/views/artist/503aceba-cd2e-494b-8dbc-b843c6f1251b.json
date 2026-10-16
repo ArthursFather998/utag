@@ -50,6 +50,31 @@
       "source": "manual"
     }
   ],
-  "releases": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Various Artists",
+        "id": "503aceba-cd2e-494b-8dbc-b843c6f1251b"
+      },
+      "artwork": [
+        {
+          "id": "314519ca-5897-4f3a-a854-345cea418dbf",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/ed/83/9fed8304-a865-af85-8d99-6d063cd60c93/dj.ipmigxtf.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:43:49.927842+00:00",
+      "edition": "original",
+      "id": "3a00764d-d483-4d0e-8333-f990d91e234d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2018,
+      "title": "Top of the Morning"
+    }
+  ],
   "verifications": []
 }

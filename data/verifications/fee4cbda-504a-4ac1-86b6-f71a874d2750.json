@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:34.113163+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Like I Can",
+    "track_number": 1
+  },
+  "entity_id": "6e92346d-5b37-4662-b914-f4bf44cb6a69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fee4cbda-504a-4ac1-86b6-f71a874d2750",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Like I Can",
+    "title": "Like I Can"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Like I Can'.",
+  "status": "verified"
+}

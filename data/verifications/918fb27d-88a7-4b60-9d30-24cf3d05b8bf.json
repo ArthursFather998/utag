@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:56.143348+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Treat People with Kindness",
+    "track_number": 1
+  },
+  "entity_id": "8d485d42-04e4-4176-aa8b-6ce5eea050da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "918fb27d-88a7-4b60-9d30-24cf3d05b8bf",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Treat People with Kindness",
+    "title": "Treat People with Kindness"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Treat People with Kindness'.",
+  "status": "verified"
+}

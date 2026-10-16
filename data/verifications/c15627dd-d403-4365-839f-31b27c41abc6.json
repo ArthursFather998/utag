@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:49.299802+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ain't It Fun",
+    "track_number": 1
+  },
+  "entity_id": "92a97fa0-6f6f-441c-bcc7-8e82bbb27def",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c15627dd-d403-4365-839f-31b27c41abc6",
+  "input": {
+    "artist": "Paramore",
+    "release": "Ain't It Fun",
+    "title": "Ain't It Fun"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ain't It Fun'.",
+  "status": "verified"
+}

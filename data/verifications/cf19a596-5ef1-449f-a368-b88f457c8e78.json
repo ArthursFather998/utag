@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:42.827203+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad Girls Club",
+    "track_number": 1
+  },
+  "entity_id": "1f6b082b-caec-4dc9-ac03-5ed80813d3ca",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf19a596-5ef1-449f-a368-b88f457c8e78",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Bad Girls Club",
+    "title": "Bad Girls Club"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad Girls Club'.",
+  "status": "verified"
+}

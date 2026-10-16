@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:05.001827+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Good Luck Charm (1962)",
+    "track_number": 1
+  },
+  "entity_id": "cf0fe703-45b7-4261-b172-a65e59699f4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35f7d964-2ca1-4931-b505-901bbdb48baf",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Good Luck Charm (1962)",
+    "title": "Good Luck Charm (1962)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Good Luck Charm (1962)'.",
+  "status": "verified"
+}

@@ -459,6 +459,70 @@
     "title": "Singles 4 You",
     "updated_at": "2026-10-16T04:17:17.971277+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:29.624501+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b95b6c50-b182-47e1-9e29-ed4e4d138224",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f0bf09c0-b5ef-4e71-b819-4170f2bbd6de",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Good 4 U",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:08:29.624501+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:30.166096+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "89b23a70-7d19-4b5b-873b-06186f9ad419",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f0bf09c0-b5ef-4e71-b819-4170f2bbd6de",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Enough for You (Piano Version)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:08:30.166096+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:08:30.679448+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Singles 4 You",
+        "track_count": 2,
+        "tracklist": [
+          "Good 4 U",
+          "Enough for You (Piano Version)"
+        ]
+      },
+      "entity_id": "f0bf09c0-b5ef-4e71-b819-4170f2bbd6de",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "770d8abc-6b9b-4c45-a277-a0745654bbbc",
+      "input": {
+        "artist": "Olivia Rodrigo",
+        "title": "Singles 4 You",
+        "track_count": 2
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (2 tracks) per https://en.wikipedia.org/wiki/Olivia_Rodrigo_discography, https://www.discogs.com/release/22949921-Olivia-Rodrigo-Singles-4-You. Debut EP. Urban Outfitters Singles Day exclusive 12-inch vinyl. Announced November 11, 2021, released April 1, 2022 via Geffen. 2 tracks.",
+      "status": "verified"
+    }
+  ]
 }

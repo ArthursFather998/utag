@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:01.409464+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Aquarius Boy (2015)",
+    "track_count": 3,
+    "tracklist": [
+      "Aquarius Boy",
+      "Feel",
+      "Sunburn"
+    ]
+  },
+  "entity_id": "6db72ec8-c47a-49dc-a949-39e01abff963",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fc3016eb-3677-41ec-9e4d-9191a997b7da",
+  "input": {
+    "artist": "Clairo",
+    "title": "Aquarius Boy (2015)",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://clairo.fandom.com/wiki/Aquarius_Boy, https://en.wikipedia.org/wiki/Clairo_discography. EP, released April 4, 2015. 'Aquarius Boy (2015)' is a year-suffix duplicate.",
+  "status": "verified"
+}

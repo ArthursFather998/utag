@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:33.640464+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Diary 001",
+    "track_count": 6,
+    "tracklist": [
+      "Hello?",
+      "Flaming Hot Cheetos",
+      "B.O.M.D.",
+      "4EVER",
+      "Pretty Girl",
+      "How"
+    ]
+  },
+  "entity_id": "99771297-2396-4066-953a-71f8f3f311f9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "290fcb25-a8b8-4425-ad30-1b8596479999",
+  "input": {
+    "artist": "Clairo",
+    "title": "Diary 001",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://shop.thefader.com/products/clairo-diary-001-ep-vinyl, https://www.flyingnun.co.nz/collections/not-flying-nun/products/clairo-diary-001. Debut EP, released May 25, 2018. 'Hello?' feat. Rejjie Snow, 'B.O.M.D.' feat. Danny L Harle, 'How' is a demo. 'Diary 001 (2018)' is a year-suffix duplicate.",
+  "status": "verified"
+}

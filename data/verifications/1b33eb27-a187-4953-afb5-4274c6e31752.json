@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:23.181645+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sigue",
+    "track_number": 1
+  },
+  "entity_id": "242b5eff-1a8b-4dde-b802-4648af44f627",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1b33eb27-a187-4953-afb5-4274c6e31752",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Sigue",
+    "title": "Sigue"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sigue'.",
+  "status": "verified"
+}

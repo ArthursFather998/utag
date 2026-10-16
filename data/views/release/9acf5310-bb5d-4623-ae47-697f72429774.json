@@ -806,6 +806,146 @@
     "title": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
     "updated_at": "2026-10-16T04:12:59.449209+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:05:41.256185+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c2ee00ce-9398-4c84-a506-b95163141a67",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9acf5310-bb5d-4623-ae47-697f72429774",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Whoville",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:05:41.256185+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:05:41.903109+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "90381b51-cc28-4fac-886a-cc03ea0c3b32",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9acf5310-bb5d-4623-ae47-697f72429774",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Lights On",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:05:41.903109+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:05:42.457997+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f3259796-1697-4300-8142-cdf22fbb1ec0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9acf5310-bb5d-4623-ae47-697f72429774",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Hot Chocolate",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:05:42.457997+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:05:42.923853+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cd1e3101-3a7c-4f04-9dc9-79de1cc5b682",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9acf5310-bb5d-4623-ae47-697f72429774",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Big Bag",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:05:42.923853+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:05:43.515123+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4afd0c7d-72fd-46dd-a32e-e6015d051abf",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9acf5310-bb5d-4623-ae47-697f72429774",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "When Gloves Come Off",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:05:43.515123+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:05:44.125311+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2810967c-7826-4cef-80d3-cc5315a003d7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9acf5310-bb5d-4623-ae47-697f72429774",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Cindy Lou's Wish",
+      "track_number": 6,
+      "updated_at": "2026-10-16T06:05:44.125311+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:05:44.75088+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+        "track_count": 6,
+        "tracklist": [
+          "Whoville",
+          "Lights On",
+          "Hot Chocolate",
+          "Big Bag",
+          "When Gloves Come Off",
+          "Cindy Lou's Wish"
+        ]
+      },
+      "entity_id": "9acf5310-bb5d-4623-ae47-697f72429774",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "4bb746e4-4f7d-4a66-834d-79d23bc3cab1",
+      "input": {
+        "artist": "Tyler, The Creator",
+        "title": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+        "track_count": 6
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (6 tracks) per https://music.mxdwn.com/2018/11/15/news/tyler-the-creator-to-release-new-grinch-themed-ep-tonight-and-shares-new-song-lights-on-featuring-santigold-and-ryan-beatty/, https://wolf-haley.fandom.com/wiki/Music_Inspired_by_Illumination_%26_Dr._Seuss%27_The_Grinch. 2018 six-track EP released Nov 16, 2018 alongside his contributions to The Grinch film soundtrack. Features from Santigold, Ryan Beatty (tracks 2 & 5), Jerry Paper (track 3). Track titles agree across all sources; feature credits omitted from track names per DB convention.",
+      "status": "verified"
+    }
+  ]
 }

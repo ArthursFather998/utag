@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:26.873695+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Teardrop (2011)",
+    "track_number": 1
+  },
+  "entity_id": "b0de6fe5-33e3-4530-bf04-dc9ae4cdce15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcaeb939-232f-416a-869d-1c4873ddab40",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Teardrop (2011)",
+    "title": "Teardrop (2011)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Teardrop (2011)'.",
+  "status": "verified"
+}

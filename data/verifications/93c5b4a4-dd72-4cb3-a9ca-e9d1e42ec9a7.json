@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:46.610408+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Skin",
+    "track_number": 1
+  },
+  "entity_id": "f8e9e7ac-7f2b-43eb-a871-95a6856cdf51",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93c5b4a4-dd72-4cb3-a9ca-e9d1e42ec9a7",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Skin",
+    "title": "Skin"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Skin'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:24.335731+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Only Hope for Me Is You",
+    "track_number": 1
+  },
+  "entity_id": "21e6211e-5b87-4a75-8f58-82a9dfd7352a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c34130f3-765b-4a56-9763-3953bfe89808",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "The Only Hope for Me Is You",
+    "title": "The Only Hope for Me Is You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Only Hope for Me Is You'.",
+  "status": "verified"
+}

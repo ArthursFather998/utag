@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:54.562709+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Baby, Let's Play House",
+    "track_number": 1
+  },
+  "entity_id": "d91d4bdb-e109-4673-ac81-37e047314fc7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7a0ebb6-190e-46bd-aa83-54c9109e6718",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Baby, Let's Play House",
+    "title": "Baby, Let's Play House"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Baby, Let's Play House'.",
+  "status": "verified"
+}

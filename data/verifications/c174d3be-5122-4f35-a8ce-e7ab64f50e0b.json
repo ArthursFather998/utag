@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:45.58288+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Killing Me - Single (2023)",
+    "track_number": 1
+  },
+  "entity_id": "c7c45b50-c8b8-4df7-89fd-f0a09b106109",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c174d3be-5122-4f35-a8ce-e7ab64f50e0b",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Killing Me - Single (2023)",
+    "title": "Killing Me - Single (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Killing Me - Single (2023)'.",
+  "status": "verified"
+}

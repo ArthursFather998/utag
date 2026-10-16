@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:33.441456+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hallelujah",
+    "track_number": 1
+  },
+  "entity_id": "7d37115c-6ed3-4eef-a205-04e827900711",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42ff9c2e-c0d7-42c8-9968-6a82fe176dd4",
+  "input": {
+    "artist": "Paramore",
+    "release": "Hallelujah",
+    "title": "Hallelujah"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hallelujah'.",
+  "status": "verified"
+}

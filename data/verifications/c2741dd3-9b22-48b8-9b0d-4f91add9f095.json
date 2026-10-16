@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:50.16372+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "(You Drive Me) Crazy (1999)",
+    "track_number": 1
+  },
+  "entity_id": "fa49dbf4-815c-4ef0-ada8-935cc366eb39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c2741dd3-9b22-48b8-9b0d-4f91add9f095",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "(You Drive Me) Crazy (1999)",
+    "title": "(You Drive Me) Crazy (1999)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '(You Drive Me) Crazy (1999)'.",
+  "status": "verified"
+}

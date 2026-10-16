@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:59.161142+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "An American Trilogy (1972)",
+    "track_number": 1
+  },
+  "entity_id": "e28186bd-aee5-41f3-adbc-eee5dd6e9104",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "201b9ca4-f942-40cb-aff8-8778d4acc6dd",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "An American Trilogy (1972)",
+    "title": "An American Trilogy (1972)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'An American Trilogy (1972)'.",
+  "status": "verified"
+}

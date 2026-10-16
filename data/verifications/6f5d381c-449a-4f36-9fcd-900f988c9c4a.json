@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:30.863014+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dangerously",
+    "track_number": 1
+  },
+  "entity_id": "43317c35-8740-4093-9855-58de4bcc21f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6f5d381c-449a-4f36-9fcd-900f988c9c4a",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Dangerously",
+    "title": "Dangerously"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Dangerously'.",
+  "status": "verified"
+}

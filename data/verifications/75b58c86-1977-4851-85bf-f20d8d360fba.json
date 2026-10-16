@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:24.217707+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Greatest Hits: HIStory, Volume I",
+    "track_count": 15,
+    "tracklist": [
+      "Billie Jean",
+      "The Way You Make Me Feel",
+      "Black or White",
+      "Rock with You",
+      "She's Out of My Life",
+      "Bad",
+      "I Just Can't Stop Loving You",
+      "Man in the Mirror",
+      "Thriller",
+      "Beat It",
+      "The Girl Is Mine",
+      "Remember the Time",
+      "Don't Stop 'Til You Get Enough",
+      "Wanna Be Startin' Somethin'",
+      "Heal the World"
+    ]
+  },
+  "entity_id": "76382f2e-4c3e-4126-b336-b965d56fdb91",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "75b58c86-1977-4851-85bf-f20d8d360fba",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Greatest Hits: HIStory, Volume I",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://www.discogs.com/master/141734-Michael-Jackson-Greatest-Hits-HIStory-Volume-I?redirected=true, https://www.deezer.com/en/album/97574. Standalone 2001 reissue of HIStory disc 1 (the greatest-hits disc). 15 tracks.",
+  "status": "verified"
+}

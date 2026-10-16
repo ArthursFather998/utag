@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:48:56.866299+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Need Me (2009)",
+    "track_count": 5,
+    "tracklist": [
+      "You Need Me, I Don't Need You",
+      "So",
+      "Be Like You",
+      "The City",
+      "Sunburn"
+    ]
+  },
+  "entity_id": "4b90e419-561c-4443-89dd-f95580ada9f2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c04a0917-9ef1-4761-9094-09a1f41380af",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "You Need Me (2009)",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/master/764405-Ed-Sheeran-You-Need-Me, https://www.simplygames.com/p/ed-sheeran-you-need-me-cd. 2009 independent CD/12\" EP (Sheeran Lock). 5 tracks confirmed across Discogs master 764405, multiple retail tracklist pages (simplygames, cultureshockshop, everybodysrecords, riverbendrecords) and press (The Spectator). Reissued 2011 (Paw Print) and 2016 (Atlantic/Gingerbread Man vinyl). THIS IS THE SAME RELEASE as the duplicate entry 'You Need Me' - same artist, same year, same 5-track tracklist; one is a year-suffixed duplicate row.",
+  "status": "verified"
+}

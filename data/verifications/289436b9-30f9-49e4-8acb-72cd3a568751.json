@@ -1,0 +1,41 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:33.295366+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Short n' Sweet (Deluxe)",
+    "track_count": 17,
+    "tracklist": [
+      "Taste",
+      "Please Please Please",
+      "Good Graces",
+      "Sharpest Tool",
+      "Coincidence",
+      "Bed Chem",
+      "Espresso",
+      "Dumb & Poetic",
+      "Slim Pickins",
+      "Juno",
+      "Lie To Girls",
+      "Don't Smile",
+      "15 Minutes",
+      "Please Please Please (feat. Dolly Parton)",
+      "Couldn't Make It Any Harder",
+      "Busy Woman",
+      "Bad Reviews"
+    ]
+  },
+  "entity_id": "db9f0e19-023b-4a91-80d3-9e6c762c621f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "289436b9-30f9-49e4-8acb-72cd3a568751",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "title": "Short n' Sweet (Deluxe)",
+    "track_count": 17
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (17 tracks) per https://shop.udiscovermusic.com/products/sabrina-carpenter-short-n-sweet-deluxe-edition-cd, https://www.Amoeba.com/short-n-sweet-deluxe-edition-cd-sabrina-carpenter/albums/4415892/. Deluxe edition: 12 standard tracks (tracks 1-12) plus 5 deluxe bonus tracks (tracks 13-17: 15 Minutes; Please Please Please feat. Dolly Parton; Couldn't Make It Any Harder; Busy Woman; Bad Reviews). Order confirmed by uDiscover Music (official UMG store) and Amoeba.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:13.153353+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Who Dat Boy / 911",
+    "track_number": 1
+  },
+  "entity_id": "90df44a6-7b97-4baf-b7c8-c8a7bc5674ce",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b80c5f80-7fa5-4f52-bd00-602a46f68d6c",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Who Dat Boy / 911",
+    "title": "Who Dat Boy / 911"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Who Dat Boy / 911'.",
+  "status": "verified"
+}

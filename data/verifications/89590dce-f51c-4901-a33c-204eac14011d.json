@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:12.461484+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cherry Bomb",
+    "track_count": 13,
+    "tracklist": [
+      "Deathcamp",
+      "Buffalo",
+      "Pilot",
+      "Run",
+      "Find Your Wings",
+      "Cherry Bomb",
+      "Blow My Load",
+      "2Seater",
+      "The Brown Stains of Darkeese Latifah Part 6-12 (Remix)",
+      "Fucking Young / Perfect",
+      "Smuckers",
+      "Keep Da O's",
+      "Okaga, CA"
+    ]
+  },
+  "entity_id": "15075a50-da6d-42a0-a227-6675a40b272d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "89590dce-f51c-4901-a33c-204eac14011d",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Cherry Bomb",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Cherry_Bomb_(Tyler,_the_Creator_album), https://www.discogs.com/release/6954381-TylerTheCreator-Cherry-Bomb. 2015 studio album, 13-track digital standard edition. Physical bonus track 'Yellow' is an edition-specific bonus (release row is standard edition) - excluded.",
+  "status": "verified"
+}

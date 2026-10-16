@@ -1,0 +1,42 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:03.130868+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wolf",
+    "track_count": 18,
+    "tracklist": [
+      "Wolf",
+      "Jamba",
+      "Cowboy",
+      "Awkward",
+      "Domo23",
+      "Answer",
+      "Slater",
+      "48",
+      "Colossus",
+      "PartyIsntOver / Campfire / Bimmer",
+      "IFHY",
+      "Pigs",
+      "Parking Lot",
+      "Rusty",
+      "Trashwang",
+      "Treehome95",
+      "Tamale",
+      "Lone"
+    ]
+  },
+  "entity_id": "dab61104-158f-40b0-9ed2-84b8a24126fc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1b40aeed-1b06-40cf-b11c-5b0e794e1509",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Wolf",
+    "track_count": 18
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (18 tracks) per https://simple.wikipedia.org/wiki/Wolf_(Tyler,_The_Creator_album), https://www.shugarecords.com/products/tyler-the-creator-wolf-instrumentals-new-4-lp-record-box-set-2023-columbia-usa-pink-blue-vinyl-screenplay-film-booklet-hardcore-hip-hop. 2013 studio album, 18 tracks (track 10 is the three-part suite PartyIsntOver / Campfire / Bimmer).",
+  "status": "verified"
+}

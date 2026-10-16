@@ -1,0 +1,42 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:37.263773+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Singles Collection",
+    "track_count": 18,
+    "tracklist": [
+      "3",
+      "...Baby One More Time",
+      "(You Drive Me) Crazy (The Stop Remix!)",
+      "Born to Make You Happy",
+      "Oops!... I Did It Again",
+      "Stronger",
+      "I'm a Slave 4 U",
+      "I'm Not a Girl, Not Yet a Woman",
+      "Boys (The Co-Ed Remix)",
+      "Me Against the Music",
+      "Toxic",
+      "Everytime",
+      "Gimme More",
+      "Piece of Me",
+      "Womanizer",
+      "Circus",
+      "If U Seek Amy",
+      "Radar"
+    ]
+  },
+  "entity_id": "e2542065-adc5-41a4-bd1d-8eadecb3b471",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "58b20a3b-6138-4b77-8208-fd892a2d5cf3",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "The Singles Collection",
+    "track_count": 18
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (18 tracks) per https://www.discogs.com/release/2029952-Britney-Spears-The-Singles-Collection, https://www.onrepeat.store/products/britney-spears-the-singles-collection-cd. UK/international CD edition, 18 tracks including bonus track 'I'm Not a Girl, Not Yet a Woman'.",
+  "status": "verified"
+}

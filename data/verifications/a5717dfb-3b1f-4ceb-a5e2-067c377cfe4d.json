@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:18.839846+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Are Not Alone",
+    "track_number": 1
+  },
+  "entity_id": "c6920af4-79bd-467a-8390-c31493adf035",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5717dfb-3b1f-4ceb-a5e2-067c377cfe4d",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "You Are Not Alone",
+    "title": "You Are Not Alone"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You Are Not Alone'.",
+  "status": "verified"
+}

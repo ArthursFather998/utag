@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:27.846653+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sum1 Else",
+    "track_number": 1
+  },
+  "entity_id": "5daf6fc9-97f3-4cd7-811e-424332cfdcbe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "745adf96-a6d7-4e68-b9be-e628621e9945",
+  "input": {
+    "artist": "Clairo",
+    "release": "Sum1 Else",
+    "title": "Sum1 Else"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sum1 Else'.",
+  "status": "verified"
+}

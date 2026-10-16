@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:16.413634+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Perfect (2017)",
+    "track_number": 1
+  },
+  "entity_id": "5b93685e-3c34-4aec-9f12-a6f1f24b8017",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22fe88c3-19b2-4f05-aaf1-e40f6f90f07e",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Perfect (2017)",
+    "title": "Perfect (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Perfect (2017)'.",
+  "status": "verified"
+}

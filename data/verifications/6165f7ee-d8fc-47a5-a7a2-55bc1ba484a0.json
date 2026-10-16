@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:41.248539+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Mother (2019)",
+    "track_number": 1
+  },
+  "entity_id": "e5b33134-954a-4c1e-bee5-c12bf9d15fb7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6165f7ee-d8fc-47a5-a7a2-55bc1ba484a0",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Mother (2019)",
+    "title": "Mother (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Mother (2019)'.",
+  "status": "verified"
+}

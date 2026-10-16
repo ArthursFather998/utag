@@ -459,6 +459,108 @@
     "title": "GUTS: The Secret Tracks",
     "updated_at": "2026-10-16T04:17:21.82109+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:32.372945+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "dc84b2ef-59ad-4d74-851f-7fffcac3473c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9c31b29e-60c4-47a8-b1f2-ec5953dc829f",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Obsessed",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:08:32.372945+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:32.983214+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "50ca3f65-f18d-494a-ba86-1222fa563567",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9c31b29e-60c4-47a8-b1f2-ec5953dc829f",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Scared of My Guitar",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:08:32.983214+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:33.436794+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7743afc8-313e-4bc4-8949-e19e69d13353",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9c31b29e-60c4-47a8-b1f2-ec5953dc829f",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Stranger",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:08:33.436794+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:34.046614+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e186099a-b1fd-42ca-b5ee-e9e8bb5ff45a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9c31b29e-60c4-47a8-b1f2-ec5953dc829f",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Girl I've Always Been",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:08:34.046614+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:08:34.752169+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "GUTS: The Secret Tracks",
+        "track_count": 4,
+        "tracklist": [
+          "Obsessed",
+          "Scared of My Guitar",
+          "Stranger",
+          "Girl I've Always Been"
+        ]
+      },
+      "entity_id": "9c31b29e-60c4-47a8-b1f2-ec5953dc829f",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "67ba92c0-623e-48f5-97e0-52d48094a190",
+      "input": {
+        "artist": "Olivia Rodrigo",
+        "title": "GUTS: The Secret Tracks",
+        "track_count": 4
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Guts_(album), https://nailcityrecord.com/en-ca/products/olivia-rodrigo-guts-the-secret-tracks-rsd-black-friday-2023-purple-ep-vinyl. RSD Black Friday 2023 vinyl-exclusive EP via Third Man Records/Geffen. Collects the four secret bonus tracks from the GUTS vinyl variants. Limited to 7,500 copies. All four tracks later included on the GUTS (Spilled) deluxe edition.",
+      "status": "verified"
+    }
+  ]
 }

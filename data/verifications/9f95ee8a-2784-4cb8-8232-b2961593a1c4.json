@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:19.876067+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lipstick",
+    "track_number": 1
+  },
+  "entity_id": "845ff7e7-06be-4217-be25-d65a84426f58",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f95ee8a-2784-4cb8-8232-b2961593a1c4",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Lipstick",
+    "title": "Lipstick"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lipstick'.",
+  "status": "verified"
+}

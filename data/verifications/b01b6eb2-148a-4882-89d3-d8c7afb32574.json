@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:19.852129+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Immunity (5th Anniversary Edition)",
+    "track_count": 11,
+    "tracklist": [
+      "Alewife",
+      "Impossible",
+      "Closer to You",
+      "North",
+      "Bags",
+      "Softly",
+      "Sofia",
+      "White Flag",
+      "Feel Something",
+      "Sinking",
+      "I Wouldn't Ask You"
+    ]
+  },
+  "entity_id": "61d59f5e-37ef-4fa7-af67-c06f20e495b3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b01b6eb2-148a-4882-89d3-d8c7afb32574",
+  "input": {
+    "artist": "Clairo",
+    "title": "Immunity (5th Anniversary Edition)",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://www.turntablelab.com/products/clairo-immunity-5th-anniversary-olive-colored-vinyl-vinyl-lp-turntable-lab-exclusive, https://en.wikipedia.org/wiki/Immunity_(Clairo_album). 5th anniversary colored-vinyl reissue (2024), same 11 tracks as standard Immunity, no bonus tracks. '(2024)' suffixed row is a duplicate.",
+  "status": "verified"
+}

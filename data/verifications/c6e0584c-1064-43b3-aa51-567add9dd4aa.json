@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:32.687117+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Vicious",
+    "track_number": 1
+  },
+  "entity_id": "24427ca5-2f02-4231-af57-79508652cc1a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6e0584c-1064-43b3-aa51-567add9dd4aa",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Vicious",
+    "title": "Vicious"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Vicious'.",
+  "status": "verified"
+}

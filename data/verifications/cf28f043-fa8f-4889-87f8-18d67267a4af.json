@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:00:40.627001+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "King Creole (1958)",
+    "track_count": 11,
+    "tracklist": [
+      "King Creole",
+      "As Long as I Have You",
+      "Hard Headed Woman",
+      "Trouble",
+      "Dixieland Rock",
+      "Don't Ask Me Why",
+      "Lover Doll",
+      "Crawfish",
+      "Young Dreams",
+      "Steadfast, Loyal and True",
+      "New Orleans"
+    ]
+  },
+  "entity_id": "2c3a35cd-9b71-4aef-96b6-eeb81b409d6e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cf28f043-fa8f-4889-87f8-18d67267a4af",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "King Creole (1958)",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://en.wikipedia.org/wiki/King_Creole_(soundtrack), https://www.discogs.com. Original 1958 film soundtrack, 11 tracks. Cross-chunk year-suffix duplicate possible.",
+  "status": "verified"
+}

@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:30.37502+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Heartbreak",
+    "track_count": 5,
+    "tracklist": [
+      "To Die For",
+      "Too Good At Goodbyes (Edit)",
+      "I'm Not The Only One",
+      "Stay With Me",
+      "Palace"
+    ]
+  },
+  "entity_id": "027124b5-dcf3-47c7-96c7-2893f71e0e44",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c356644c-4c63-43f1-8ae2-79335f7002d4",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Heartbreak",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/16049624-Sam-Smith-Heartbreak, https://houseofaceonline.com/2020/07/29/sam-smith-heartbreak-ep-download/. Heartbreak EP, 5 tracks. Released July 24, 2020. Thematic compilation EP. Verified against Discogs, houseofaceonline, and intmusic.net.",
+  "status": "verified"
+}

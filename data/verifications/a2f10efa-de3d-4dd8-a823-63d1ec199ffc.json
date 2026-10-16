@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:24.28273+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Star Spangled Banner (Live) (2026)",
+    "track_number": 1
+  },
+  "entity_id": "cc6d1b84-1af3-4b09-8f20-16a5cd8b311d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a2f10efa-de3d-4dd8-a823-63d1ec199ffc",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "The Star Spangled Banner (Live) (2026)",
+    "title": "The Star Spangled Banner (Live) (2026)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Star Spangled Banner (Live) (2026)'.",
+  "status": "verified"
+}

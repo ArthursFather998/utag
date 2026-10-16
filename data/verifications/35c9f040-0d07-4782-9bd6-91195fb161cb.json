@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:49.884048+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Son of Spergy",
+    "track_count": 12,
+    "tracklist": [
+      "Rain Down (feat. Sampha)",
+      "Have a Baby (With Me)",
+      "Call on Me",
+      "Baby Blue (feat. Norwill Simmonds)",
+      "Root of All Evil",
+      "Who Knows",
+      "Moon (feat. Bon Iver)",
+      "Touching God (feat. Yebba & Blood Orange)",
+      "Sign of the Times",
+      "Emily's Song",
+      "No More Loving (On Women I Don't Love) (feat. 646yf4t)",
+      "Sins of the Father (feat. Bon Iver)"
+    ]
+  },
+  "entity_id": "67bfe1e2-b218-47f9-a48a-130729cc746a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "35c9f040-0d07-4782-9bd6-91195fb161cb",
+  "input": {
+    "artist": "Daniel Caesar",
+    "title": "Son of Spergy",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.universalmusic.ca/2025/09/24/daniel-caesar-shares-new-single-featuring-bon-iver/, https://www.stereoboard.com/content/view/249069/9. Fourth studio album (October 24, 2025, Republic Records). 'Spergy' is his father's nickname. Track 11 feature stylized '646yf4t' (also rendered 656yf4t in some press).",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:03.658871+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lay It All on Me (2015)",
+    "track_number": 1
+  },
+  "entity_id": "84396cc9-36fa-482a-bfc4-9f0b75618c3c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "707d94a7-b3e5-48af-afa2-487856bd856b",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Lay It All on Me (2015)",
+    "title": "Lay It All on Me (2015)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lay It All on Me (2015)'.",
+  "status": "verified"
+}

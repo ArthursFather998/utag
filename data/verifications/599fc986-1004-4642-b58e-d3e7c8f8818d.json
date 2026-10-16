@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:24.900294+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Whatever's Clever!",
+    "track_count": 12,
+    "tracklist": [
+      "Changes",
+      "Beat Yourself Up",
+      "Cry (feat. Kenny G)",
+      "Washed Up",
+      "New Jersey (feat. Ravyn Lenae)",
+      "Don't Meet Your Heroes",
+      "Home (feat. Hikaru Utada)",
+      "Hey Brother",
+      "Sideways (feat. Coco Jones)",
+      "Love In Exile (feat. Michael McDonald & Kenny Loggins)",
+      "Until It Happens To You (feat. Jeff Goldblum & The Mildred Snitzer Orchestra)",
+      "I Used To Be Cringe"
+    ]
+  },
+  "entity_id": "31d1e5fb-2384-44a5-901c-c07ce5f49bf8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "599fc986-1004-4642-b58e-d3e7c8f8818d",
+  "input": {
+    "artist": "Charlie Puth",
+    "title": "Whatever's Clever!",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Whatever%27s_Clever!, https://musicbrainz.org/release/f4bdcfa3-9cba-43a3-98f6-49d5b7af0dd4. Fourth studio album, released March 27, 2026 (Atlantic). First full-length since 2022's CHARLIE. All sources agree on the 12-track order. 'Until It Happens To You' is credited to Jeff Goldblum & The Mildred Snitzer Orchestra per Wikipedia. Duplicate entry \"Whatever's Clever! (2026)\" is the same album (year-disambiguation artifact) — recommend merge/delete.",
+  "status": "verified"
+}

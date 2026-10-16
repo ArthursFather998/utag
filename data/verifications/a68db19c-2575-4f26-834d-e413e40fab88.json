@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:04.997766+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Afire Love",
+    "track_number": 1
+  },
+  "entity_id": "c6494a4e-b8ca-44fc-b163-afd9c33b888d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a68db19c-2575-4f26-834d-e413e40fab88",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Afire Love",
+    "title": "Afire Love"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Afire Love'.",
+  "status": "verified"
+}

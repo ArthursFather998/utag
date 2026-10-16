@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:46.663057+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Adore You",
+    "track_number": 1
+  },
+  "entity_id": "1916a3c1-48b6-4712-907a-4be8c7afa20f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7aca48d3-5553-49e7-ace7-a0f10a9e77ca",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Adore You",
+    "title": "Adore You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Adore You'.",
+  "status": "verified"
+}

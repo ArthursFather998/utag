@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:10.432523+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In the City",
+    "track_number": 1
+  },
+  "entity_id": "c3364c3c-93ba-43b3-a098-8d193b0c1b8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "90f9f8ef-e7c7-4e13-b6dd-09be1cb5d7a1",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "In the City",
+    "title": "In the City"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'In the City'.",
+  "status": "verified"
+}

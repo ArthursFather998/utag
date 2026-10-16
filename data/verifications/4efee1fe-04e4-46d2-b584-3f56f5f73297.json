@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:38.100197+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Nonsense Christmas",
+    "track_number": 1
+  },
+  "entity_id": "c194f9c6-83b5-4727-a5c4-3a86290a8b6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4efee1fe-04e4-46d2-b584-3f56f5f73297",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "A Nonsense Christmas",
+    "title": "A Nonsense Christmas"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Nonsense Christmas'.",
+  "status": "verified"
+}

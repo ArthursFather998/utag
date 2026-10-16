@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:34.008363+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Whatever's Clever! (Expanded)",
+    "track_count": 13,
+    "tracklist": [
+      "Changes",
+      "Beat Yourself Up",
+      "Cry (feat. Kenny G)",
+      "Washed Up",
+      "New Jersey (feat. Ravyn Lenae)",
+      "Don't Meet Your Heroes",
+      "Home (feat. Hikaru Utada)",
+      "Hey Brother",
+      "Sideways (feat. Coco Jones)",
+      "Love In Exile (feat. Michael McDonald & Kenny Loggins)",
+      "Until It Happens To You (feat. Jeff Goldblum & The Mildred Snitzer Orchestra)",
+      "I Used To Be Cringe",
+      "Reply To This"
+    ]
+  },
+  "entity_id": "7560f975-97b8-4deb-895a-622d04a7140d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b747a52f-7779-4997-ba4f-302c667eb232",
+  "input": {
+    "artist": "Charlie Puth",
+    "title": "Whatever's Clever! (Expanded)",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Whatever%27s_Clever!, https://charlieputh.fandom.com/wiki/Whatever's_Clever!_(album). Expanded edition of Whatever's Clever! (2026): the 12 standard tracks plus bonus track 'Reply To This' (per Wikipedia 'Limited edition CD and expanded edition bonus track', the official Charlie Puth store's Bonus Track CD, and the Charlie Puth Wiki). Note: the Japanese edition has a different bonus track ('Holding On For Dear Life') instead — not the same as this Expanded edition. Duplicate entry \"Whatever's Clever! (Expanded) (2026)\" is the same edition — recommend merge/delete.",
+  "status": "verified"
+}

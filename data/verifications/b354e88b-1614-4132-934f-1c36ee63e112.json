@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:27.376739+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pushing 20",
+    "track_number": 1
+  },
+  "entity_id": "991ab34e-bda1-4cbc-a1db-e565d6a274ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b354e88b-1614-4132-934f-1c36ee63e112",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Pushing 20",
+    "title": "Pushing 20"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pushing 20'.",
+  "status": "verified"
+}

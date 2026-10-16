@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:07.712974+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Oops! I Did It Again: The Best of Britney Spears",
+    "track_count": 16,
+    "tracklist": [
+      "Oops!... I Did It Again",
+      "...Baby One More Time",
+      "I'm a Slave 4 U",
+      "Born to Make You Happy (Radio edit)",
+      "Cinderella",
+      "Brave New Girl",
+      "The Hook Up",
+      "Don't Hang Up",
+      "One Kiss from You",
+      "Anticipating",
+      "What It's Like to Be Me",
+      "My Baby",
+      "Out from Under",
+      "You Got It All",
+      "Showdown",
+      "That's Where You Take Me"
+    ]
+  },
+  "entity_id": "99c5ba41-9c0c-432b-b824-c69933a59a31",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "951009c5-2afa-4951-b4d9-d10a479a8317",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Oops! I Did It Again: The Best of Britney Spears",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://en.wikipedia.org/wiki/Oops!_I_Did_It_Again:_The_Best_of_Britney_Spears. 2012 compilation, 16 tracks. Official release.",
+  "status": "verified"
+}

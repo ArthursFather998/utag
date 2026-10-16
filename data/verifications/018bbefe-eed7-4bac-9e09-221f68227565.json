@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:53.22989+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Femme Fatale",
+    "track_count": 12,
+    "tracklist": [
+      "Till the World Ends",
+      "Hold It Against Me",
+      "Inside Out",
+      "I Wanna Go",
+      "How I Roll",
+      "(Drop Dead) Beautiful",
+      "Seal It with a Kiss",
+      "Big Fat Bass",
+      "Trouble for Me",
+      "Trip to Your Heart",
+      "Gasoline",
+      "Criminal"
+    ]
+  },
+  "entity_id": "0277ca0e-2d9f-4c8a-9c08-734c0227fe1e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "018bbefe-eed7-4bac-9e09-221f68227565",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Femme Fatale",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Femme_Fatale_(Britney_Spears_album), https://britneyspears.fandom.com/wiki/Femme_Fatale. Standard edition, 12 tracks.",
+  "status": "verified"
+}

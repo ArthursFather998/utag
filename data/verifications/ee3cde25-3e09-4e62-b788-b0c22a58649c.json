@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:51.926231+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Don't Think That I Like Her",
+    "track_number": 1
+  },
+  "entity_id": "1f76ec2e-9e33-4083-884c-f9fcdb8aae85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ee3cde25-3e09-4e62-b788-b0c22a58649c",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "I Don't Think That I Like Her",
+    "title": "I Don't Think That I Like Her"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Don't Think That I Like Her'.",
+  "status": "verified"
+}

@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:12:15.582286+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That's the Way It Is",
+    "track_count": 12,
+    "tracklist": [
+      "I Just Can't Help Believin'",
+      "Twenty Days and Twenty Nights",
+      "How the Web Was Woven",
+      "Patch It Up",
+      "Mary in the Morning",
+      "You Don't Have to Say You Love Me",
+      "You've Lost That Lovin' Feelin'",
+      "I've Lost You",
+      "Just Pretend",
+      "Stranger in the Crowd",
+      "The Next Step Is Love",
+      "Bridge Over Troubled Water"
+    ]
+  },
+  "entity_id": "c4b6de5d-38f1-4aaf-8750-7ed1aab6d876",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "335e0b5f-3d17-453b-b8bb-9d299e44d79e",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "That's the Way It Is",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/That%27s_the_Way_It_Is_(Elvis_Presley_album), https://www.allmusic.com/.",
+  "status": "verified"
+}

@@ -459,6 +459,70 @@
     "title": "Olivia x Weezer Live",
     "updated_at": "2026-10-16T04:17:28.670188+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:36.584704+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e88176dd-dc97-494d-a6de-0aa1b6aff44a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5d34f934-1a40-47cd-8e62-b9ed603e51f3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Buddy Holly",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:08:36.584704+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:37.132373+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "0a72cb77-06c4-483c-b59b-9802be4442bf",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5d34f934-1a40-47cd-8e62-b9ed603e51f3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Say It Ain't So",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:08:37.132373+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:08:37.677408+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Olivia x Weezer Live",
+        "track_count": 2,
+        "tracklist": [
+          "Buddy Holly",
+          "Say It Ain't So"
+        ]
+      },
+      "entity_id": "5d34f934-1a40-47cd-8e62-b9ed603e51f3",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "60ffa068-3bd1-4da4-b6d8-a41208fa9256",
+      "input": {
+        "artist": "Olivia Rodrigo",
+        "title": "Olivia x Weezer Live",
+        "track_count": 2
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (2 tracks) per https://store.oliviarodrigo.com/products/olivia-x-weezer-live-7-vinyl, https://en.wikipedia.org/wiki/Olivia_Rodrigo_discography. 7-inch vinyl single capturing her live performance with Weezer at Lollapalooza (August 2025). Released December 19, 2025 via Geffen. Live versions of two Weezer classics. Limited to 5,000 copies on 'Blue Album' blue vinyl.",
+      "status": "verified"
+    }
+  ]
 }

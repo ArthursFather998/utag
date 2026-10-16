@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:03.017434+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "How Was Your Day?",
+    "track_number": 1
+  },
+  "entity_id": "cb9a768b-3174-4b00-9eb5-0fadef43a44a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d2e42c98-4714-4341-91a8-4e615f2a6696",
+  "input": {
+    "artist": "Clairo",
+    "release": "How Was Your Day?",
+    "title": "How Was Your Day?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'How Was Your Day?'.",
+  "status": "verified"
+}

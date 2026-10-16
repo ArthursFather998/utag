@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:37.423614+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Brace It (2022)",
+    "track_number": 1
+  },
+  "entity_id": "5c04245f-795b-431c-ad28-da6872b8dc4f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "daf114dd-69b8-48b5-b2a1-bd4c310f9070",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Brace It (2022)",
+    "title": "Brace It (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Brace It (2022)'.",
+  "status": "verified"
+}

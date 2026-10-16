@@ -1,0 +1,31 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:02:29.328771+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis (NBC TV Special)",
+    "track_count": 7,
+    "tracklist": [
+      "Trouble / Guitar Man (Opening)",
+      "Medley: Lawdy Miss Clawdy / Baby What You Want Me To Do / Heartbreak Hotel / Hound Dog / All Shook Up / Can't Help Falling In Love / Jailhouse Rock / Love Me Tender",
+      "Medley: Where Could I Go But To The Lord / Up Above My Head / Saved",
+      "Medley: Blue Christmas / One Night",
+      "Memories",
+      "Medley: Nothingville / Big Boss Man / Guitar Man / Little Egypt / Trouble / Guitar Man",
+      "If I Can Dream"
+    ]
+  },
+  "entity_id": "c605aaaa-5758-49cd-a66b-9f30f81345b5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "231ec465-dfd9-4197-9f39-d8be031e2f09",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis (NBC TV Special)",
+    "track_count": 7
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (7 tracks) per https://en.wikipedia.org/wiki/Elvis_(NBC_TV_Special), https://www.graceland.com/default.aspx?p=169279&beid=197831. Original 1968 LP (LPM-4088), 7 medley-format tracks. 1991/2018 reissues add bonus cuts (It Hurts Me; Let Yourself Go) - not included here.",
+  "status": "verified"
+}

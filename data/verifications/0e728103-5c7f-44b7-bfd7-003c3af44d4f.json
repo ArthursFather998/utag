@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:48.061515+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Meet the Grahams",
+    "track_number": 1
+  },
+  "entity_id": "be28eb63-f794-47ca-b018-b7c5ee2bd9ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e728103-5c7f-44b7-bfd7-003c3af44d4f",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "Meet the Grahams",
+    "title": "Meet the Grahams"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Meet the Grahams'.",
+  "status": "verified"
+}

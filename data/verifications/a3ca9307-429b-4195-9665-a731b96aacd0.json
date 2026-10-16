@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:01.609877+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "California (2020)",
+    "track_number": 1
+  },
+  "entity_id": "92fd1835-9375-48e1-a794-73a4c8f7d20b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3ca9307-429b-4195-9665-a731b96aacd0",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "California (2020)",
+    "title": "California (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'California (2020)'.",
+  "status": "verified"
+}

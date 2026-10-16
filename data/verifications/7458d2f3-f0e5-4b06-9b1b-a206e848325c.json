@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:46.602398+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bossa Nova Baby (1963)",
+    "track_number": 1
+  },
+  "entity_id": "b30afc72-0db5-4036-9040-1d7b099be0dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7458d2f3-f0e5-4b06-9b1b-a206e848325c",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Bossa Nova Baby (1963)",
+    "title": "Bossa Nova Baby (1963)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bossa Nova Baby (1963)'.",
+  "status": "verified"
+}

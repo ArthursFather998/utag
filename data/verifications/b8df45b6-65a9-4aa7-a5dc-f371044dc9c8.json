@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:05.849781+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is What Falling Out of Love Feels Like (392 Hz)",
+    "track_count": 3,
+    "tracklist": [
+      "this is what falling out of love feels like",
+      "catch me",
+      "i can't help it"
+    ]
+  },
+  "entity_id": "9367811a-f8f2-43a1-abd3-3bf85839b963",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b8df45b6-65a9-4aa7-a5dc-f371044dc9c8",
+  "input": {
+    "artist": "JVKE",
+    "title": "This Is What Falling Out of Love Feels Like (392 Hz)",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://www.deezer.com/us/album/359523087, https://www.maniadb.com/album/993261. 3-track EP at 392 Hz. Identical tracklist across Deezer, ManiaDB, and Qobuz.",
+  "status": "verified"
+}

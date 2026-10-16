@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:02.484988+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In the Closet",
+    "track_number": 1
+  },
+  "entity_id": "567d847f-8bfb-4b5e-88a2-4945de4e0896",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5b29d7f0-d01e-47a2-a04b-ab9cfb7427dd",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "In the Closet",
+    "title": "In the Closet"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'In the Closet'.",
+  "status": "verified"
+}

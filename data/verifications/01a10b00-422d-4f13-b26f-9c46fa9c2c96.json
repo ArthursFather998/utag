@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:02.80712+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Give Me Love",
+    "track_number": 1
+  },
+  "entity_id": "aa4093d3-2716-4187-b10e-2a7c44e5e71c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01a10b00-422d-4f13-b26f-9c46fa9c2c96",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Give Me Love",
+    "title": "Give Me Love"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Give Me Love'.",
+  "status": "verified"
+}

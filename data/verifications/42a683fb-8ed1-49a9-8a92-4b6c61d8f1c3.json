@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:57.475692+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Drunk (2012)",
+    "track_number": 1
+  },
+  "entity_id": "6d23695d-c543-4540-8141-a7908791b7a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "42a683fb-8ed1-49a9-8a92-4b6c61d8f1c3",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Drunk (2012)",
+    "title": "Drunk (2012)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Drunk (2012)'.",
+  "status": "verified"
+}

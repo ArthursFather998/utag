@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:59.230199+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Surrender",
+    "track_number": 1
+  },
+  "entity_id": "8e6cd148-989f-40b4-925e-c336958a8db2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18f42e44-0473-4751-9928-e504b21bfbe2",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Surrender",
+    "title": "Surrender"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Surrender'.",
+  "status": "verified"
+}

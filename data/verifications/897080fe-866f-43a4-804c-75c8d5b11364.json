@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:55.439796+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Wonder of You (1970)",
+    "track_number": 1
+  },
+  "entity_id": "c232e82d-9940-47c5-8714-dbe26209c049",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "897080fe-866f-43a4-804c-75c8d5b11364",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "The Wonder of You (1970)",
+    "title": "The Wonder of You (1970)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Wonder of You (1970)'.",
+  "status": "verified"
+}

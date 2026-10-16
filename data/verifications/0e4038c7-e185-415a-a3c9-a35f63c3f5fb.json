@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:03:03.146841+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "For LP Fans Only (1959)",
+    "track_count": 10,
+    "tracklist": [
+      "That's All Right",
+      "Lawdy, Miss Clawdy",
+      "Mystery Train",
+      "Playing For Keeps",
+      "Poor Boy",
+      "My Baby Left Me",
+      "I Was The One",
+      "Shake, Rattle And Roll",
+      "I'm Left, You're Right, She's Gone",
+      "You're A Heartbreaker"
+    ]
+  },
+  "entity_id": "450c50c7-66fb-47d5-8951-8364b6dcaf00",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0e4038c7-e185-415a-a3c9-a35f63c3f5fb",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "For LP Fans Only (1959)",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://www.discogs.com/master/286881-Elvis-Presley-For-LP-Fans-Only?redirected=true, https://www.elvisthemusic.com/music/for-lp-fans-only/. 1959 compilation of 1954-1956 singles/sides not previously on LP, 10 tracks. IN-CHUNK DUPLICATE: same album also filed under 'For LP Fans Only' (release_id f0323c4e-8874-4a8a-ae55-9d30131a9030). Note: Wax Time label reissue adds 4 bonus tracks (Baby Let's Play House; Good Rockin' Tonight; I Forgot To Remember To Forget; Blue Moon Of Kentucky) - not included here.",
+  "status": "verified"
+}

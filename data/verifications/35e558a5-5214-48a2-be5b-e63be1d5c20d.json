@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:53:03.087094+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis' Golden Records",
+    "track_count": 14,
+    "tracklist": [
+      "Hound Dog",
+      "Loving You",
+      "All Shook Up",
+      "Heartbreak Hotel",
+      "Jailhouse Rock",
+      "Love Me",
+      "Too Much",
+      "Don't Be Cruel",
+      "That's When Your Heartaches Begin",
+      "(Let Me Be Your) Teddy Bear",
+      "Love Me Tender",
+      "Treat Me Nice",
+      "Anyway You Want Me (That's How I Will Be)",
+      "I Want You, I Need You, I Love You"
+    ]
+  },
+  "entity_id": "75084eab-5708-4b68-9252-bf3c9a664810",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "35e558a5-5214-48a2-be5b-e63be1d5c20d",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis' Golden Records",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://En.Citizendium.org/wiki/Elvis%27_Golden_Records, https://www.theingroove.com/products/elvis-presley-elvis-golden-records-speakers-corner-lp. 1958 RCA Victor compilation of 1956-57 hit singles (LPM-1707), widely cited as the first rock-and-roll greatest-hits album. 14 tracks in two LP sides; sequence identical across Citizendium, MusicChartsArchive, The In Groove reissue listing and RareVinyl first-pressing listing.",
+  "status": "verified"
+}

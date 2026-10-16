@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:06.324033+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live at the Bedford",
+    "track_count": 6,
+    "tracklist": [
+      "The A Team",
+      "Homeless",
+      "The City",
+      "Fall",
+      "Wake Me Up",
+      "You Need Me, I Don't Need You"
+    ]
+  },
+  "entity_id": "6aeb9da2-a7f4-4c9d-b3e1-b11d3c9a6547",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d9c3f364-8ed5-425b-9fb6-cc71be08e886",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Live at the Bedford",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per http://en.wikipedia.org/wiki/5_(Ed_Sheeran_album), https://www.davegott.com/music/artist/ed_sheeran/index.html. 2010 live EP (Asylum digital/vinyl). Recorded at The Bedford, Balham. 6 tracks confirmed by Wikipedia '5' box-set listing, justrandomthings.com and davegott.com (which gives full durations). Note: the '5' box set credits Random Impulse as a guest on the closing 'You Need Me, I Don't Need You'.",
+  "status": "verified"
+}

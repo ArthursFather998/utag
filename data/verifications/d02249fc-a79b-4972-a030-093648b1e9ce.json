@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:57.342809+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Castle on the Hill",
+    "track_number": 1
+  },
+  "entity_id": "9ec02112-a125-4f6d-9fea-c2a073fc628a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d02249fc-a79b-4972-a030-093648b1e9ce",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Castle on the Hill",
+    "title": "Castle on the Hill"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Castle on the Hill'.",
+  "status": "verified"
+}

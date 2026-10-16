@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:02:50.082897+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Just Like You",
+    "track_count": 12,
+    "tracklist": [
+      "Chemical Prisoner",
+      "God, If You Are Above...",
+      "Sexy Drug",
+      "Just Like You",
+      "Guillotine IV (The Final Chapter)",
+      "Stay Away",
+      "Wait and See",
+      "The Bitter End",
+      "My Heart's to Blame",
+      "Get Me Out",
+      "Die for You",
+      "Brother"
+    ]
+  },
+  "entity_id": "4fe63a0d-6b13-41fe-a72c-f1e05f01d33a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c8818203-bfd1-4b59-91cd-91db9e4acca8",
+  "input": {
+    "artist": "Falling In Reverse",
+    "title": "Just Like You",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Just_Like_You_(Falling_in_Reverse_album), https://www.discogs.com/master/804169-Falling-In-Reverse-Just-Like-You. Third studio album, released February 24, 2015 via Epitaph Records. Standard 12-track edition confirmed across Wikipedia, Exclaim, Discogs, Spirit of Metal, and multiple retailers.",
+  "status": "verified"
+}

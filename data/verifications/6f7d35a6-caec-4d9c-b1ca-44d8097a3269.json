@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:43.969157+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hail to the Thief (Live Recordings 2003-2009)",
+    "track_count": 12,
+    "tracklist": [
+      "2 + 2 = 5",
+      "Sit Down. Stand Up.",
+      "Sail to the Moon.",
+      "Go to Sleep.",
+      "Where I End and You Begin.",
+      "We Suck Young Blood.",
+      "The Gloaming.",
+      "There, There.",
+      "I Will.",
+      "Myxomatosis.",
+      "Scatterbrain.",
+      "A Wolf at the Door."
+    ]
+  },
+  "entity_id": "9a87d921-2576-4fb6-a6f3-97caa99b427c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6f7d35a6-caec-4d9c-b1ca-44d8097a3269",
+  "input": {
+    "artist": "Radiohead",
+    "title": "Hail to the Thief (Live Recordings 2003-2009)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Hail_to_the_Thief_(Live_Recordings_2003%E2%80%932009), https://www.discogs.com/release/34809743-Radiohead-Hail-To-The-Thief-Live-Recordings-2003-2009. Official live album (digital Aug 13, 2025; CD/vinyl Oct 31, 2025, XL Recordings). Performances from London, Amsterdam, Buenos Aires and Dublin 2003-2009. Omits 'Backdrifts' and 'A Punchup at a Wedding' from the studio album.",
+  "status": "verified"
+}

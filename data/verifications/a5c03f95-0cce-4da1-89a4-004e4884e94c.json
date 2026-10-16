@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:43.153426+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Thousand Years (Cinematic Version)",
+    "track_number": 1
+  },
+  "entity_id": "37c2aaee-6124-48cd-b111-6e4910312c9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5c03f95-0cce-4da1-89a4-004e4884e94c",
+  "input": {
+    "artist": "JVKE",
+    "release": "A Thousand Years (Cinematic Version)",
+    "title": "A Thousand Years (Cinematic Version)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Thousand Years (Cinematic Version)'.",
+  "status": "verified"
+}

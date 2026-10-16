@@ -1,0 +1,48 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:15:27.403808+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "An Afternoon in the Garden (1997)",
+    "track_count": 24,
+    "tracklist": [
+      "Introduction: Also Sprach Zarathustra",
+      "That's All Right",
+      "Proud Mary",
+      "Never Been to Spain",
+      "You Don't Have to Say You Love Me",
+      "Until It's Time for You to Go",
+      "You've Lost That Lovin' Feelin'",
+      "Polk Salad Annie",
+      "Love Me",
+      "All Shook Up",
+      "Heartbreak Hotel",
+      "(Let Me Be Your) Teddy Bear / Don't Be Cruel",
+      "Love Me Tender",
+      "Blue Suede Shoes",
+      "Reconsider Baby",
+      "Hound Dog",
+      "I'll Remember You",
+      "Suspicious Minds",
+      "Introductions by Elvis",
+      "For the Good Times",
+      "An American Trilogy",
+      "Funny How Time Slips Away",
+      "I Can't Stop Loving You",
+      "Can't Help Falling in Love"
+    ]
+  },
+  "entity_id": "6e8d3b31-f8fb-479a-89b5-b252b3f4124e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1aae696b-32a5-4f8a-bf84-1c8402c826d8",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "An Afternoon in the Garden (1997)",
+    "track_count": 24
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (24 tracks) per https://en.wikipedia.org/wiki/An_Afternoon_in_the_Garden, https://www.moviemars.com/products/afternoon-in-the-garden. DUPLICATE: Same album as 'An Afternoon in the Garden' (0b7e7944-483f-406e-8f5b-e90b8a73e620). Saturday matinee at Madison Square Garden, June 10 1972.",
+  "status": "verified"
+}

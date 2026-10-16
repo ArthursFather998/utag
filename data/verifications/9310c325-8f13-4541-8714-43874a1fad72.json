@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:28.363749+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Emergency",
+    "track_number": 1
+  },
+  "entity_id": "5f61e3ef-994f-4f2c-8010-21b9df92e02c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9310c325-8f13-4541-8714-43874a1fad72",
+  "input": {
+    "artist": "Paramore",
+    "release": "Emergency",
+    "title": "Emergency"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Emergency'.",
+  "status": "verified"
+}

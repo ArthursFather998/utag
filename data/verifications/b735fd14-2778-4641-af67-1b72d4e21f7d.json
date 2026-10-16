@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:02.1571+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Taste",
+    "track_number": 1
+  },
+  "entity_id": "f3b62ad8-793a-4544-b01d-c7ff499aaebc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b735fd14-2778-4641-af67-1b72d4e21f7d",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Taste",
+    "title": "Taste"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Taste'.",
+  "status": "verified"
+}

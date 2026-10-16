@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:31.614681+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Care for You",
+    "track_number": 1
+  },
+  "entity_id": "3051ac04-66a0-4114-a5db-631fffcac8ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c6ff54f4-3c17-43b0-a67f-dd3c5f6f1bcb",
+  "input": {
+    "artist": "The Marías",
+    "release": "Care for You",
+    "title": "Care for You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Care for You'.",
+  "status": "verified"
+}

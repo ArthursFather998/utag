@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:52.341144+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ring Ring Ring",
+    "track_number": 1
+  },
+  "entity_id": "673438e4-044a-4129-aabf-997e4aa8f68e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d58670df-ea10-4034-b386-9ede4599d4d4",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Ring Ring Ring",
+    "title": "Ring Ring Ring"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ring Ring Ring'.",
+  "status": "verified"
+}

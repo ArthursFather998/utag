@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:35.348683+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My G",
+    "track_number": 1
+  },
+  "entity_id": "a97386ec-89c2-46fd-8e3d-d813c650c327",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "36c5ca5c-51e0-4c83-a848-85e0e10c2015",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "My G",
+    "title": "My G"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My G'.",
+  "status": "verified"
+}

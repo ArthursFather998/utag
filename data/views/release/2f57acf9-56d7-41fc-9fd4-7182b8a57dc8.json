@@ -1268,6 +1268,108 @@
     "title": "A Lonely Christmas",
     "updated_at": "2026-10-16T04:07:04.998014+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:29:37.046147+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "712173d7-3b31-44f1-8961-b4aa8b728442",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2f57acf9-56d7-41fc-9fd4-7182b8a57dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Night Before Christmas",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:29:37.046147+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:29:37.58543+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "dc984a8e-8808-41a4-b6ac-bb636a29f877",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2f57acf9-56d7-41fc-9fd4-7182b8a57dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "The Lighthouse Keeper",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:29:37.58543+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:29:38.22466+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a258beea-f524-4e75-b8ed-5083b5b74153",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2f57acf9-56d7-41fc-9fd4-7182b8a57dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Have Yourself A Merry Little Christmas",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:29:38.22466+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:29:38.876681+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "05b931a8-5aee-444b-a51d-cf4added3dd5",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2f57acf9-56d7-41fc-9fd4-7182b8a57dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Palace",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:29:38.876681+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:29:39.609904+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "A Lonely Christmas",
+        "track_count": 4,
+        "tracklist": [
+          "Night Before Christmas",
+          "The Lighthouse Keeper",
+          "Have Yourself A Merry Little Christmas",
+          "Palace"
+        ]
+      },
+      "entity_id": "2f57acf9-56d7-41fc-9fd4-7182b8a57dc8",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "e489f055-5e59-45e6-8d7f-0bd9aba19335",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "A Lonely Christmas",
+        "track_count": 4
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (4 tracks) per https://www.discogs.com/release/29277916-Sam-Smith-A-Lonely-Christmas, https://www.amazon.com/Lonely-Christmas-Sam-Smith/dp/B0CNQGKTFN. Christmas EP, 4 tracks. Released November 20, 2023. Note: Track order differs between vinyl (The Lighthouse Keeper, Have Yourself A Merry Little Christmas, Palace, Night Before Christmas) and digital/streaming (Night Before Christmas, The Lighthouse Keeper, Have Yourself A Merry Little Christmas, Palace). Using the digital/streaming order from Deezer/Apple Music as the primary. Verified against Discogs, Amazon, Deezer, and recordstore.co.uk.",
+      "status": "verified"
+    }
+  ]
 }

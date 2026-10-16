@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:58.400575+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hard Times",
+    "track_number": 1
+  },
+  "entity_id": "fe553c07-bf77-401e-854e-f2576a556ff3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f268e14e-d787-4e6d-89ff-5fb35150f109",
+  "input": {
+    "artist": "Paramore",
+    "release": "Hard Times",
+    "title": "Hard Times"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hard Times'.",
+  "status": "verified"
+}

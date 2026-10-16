@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:11:04.64827+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Now",
+    "track_count": 10,
+    "tracklist": [
+      "Help Me Make It Through the Night",
+      "Miracle of the Rosary",
+      "Hey Jude",
+      "Put Your Hand in the Hand",
+      "Until It's Time for You to Go",
+      "We Can Make the Morning",
+      "Early Mornin' Rain",
+      "Sylvia",
+      "Fools Rush In (Where Angels Fear to Tread)",
+      "I Was Born About Ten Thousand Years Ago"
+    ]
+  },
+  "entity_id": "3f9d0107-52df-4c94-9467-374c86748159",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c47e1afe-ce06-4e0a-9b43-9900a0fe26a1",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Now",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/Elvis_Now, https://www.bear-family.com/presley-elvis-elvis-now-1972.html. Studio album, released February 20, 1972. DUPLICATE: 'Elvis Now (1972)' is the same album with year suffix.",
+  "status": "verified"
+}

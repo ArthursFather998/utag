@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:54:11.318474+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis: A Legendary Performer Volume 1",
+    "track_count": 14,
+    "tracklist": [
+      "That's All Right",
+      "I Love You Because",
+      "Heartbreak Hotel",
+      "Elvis (Excerpt from Interview Held September 22, 1958)",
+      "Don't Be Cruel",
+      "Love Me",
+      "Trying to Get to You",
+      "Love Me Tender",
+      "(There'll Be) Peace in the Valley (For Me)",
+      "Elvis (Excerpt from Interview Held September 22, 1958)",
+      "(Now and Then There's) A Fool Such as I",
+      "Tonight's All Right for Love",
+      "Are You Lonesome To-Night?",
+      "Can't Help Falling in Love"
+    ]
+  },
+  "entity_id": "69bf226e-1a96-4fe5-b71a-7a10ca525aff",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "88ca363a-00f8-40fb-a04b-0ec93b440cb7",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis: A Legendary Performer Volume 1",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://www.discogs.com/release/1039295-Elvis-A-Legendary-Performer-Volume-1, https://wake.store/products/elvis-presley-a-legendary-performer-volume-1. 1974 RCA compilation (CPL1-0341) in die-cut wood-grain sleeve with 12-page 'The Early Years' booklet; contains 6 previously unreleased tracks plus two excerpts from the September 22, 1958 Army press interview (0:34 and 2:14). 14-track LP-side sequence identical across Discogs, wake.store, Citizendium and Strummer Room listings. Some CD/bootleg tracklists reorder tracks or retitle 'Tonight's All Right for Love' as 'Tonight Is So Right for Love'; the official LP sequence above is used.",
+  "status": "verified"
+}

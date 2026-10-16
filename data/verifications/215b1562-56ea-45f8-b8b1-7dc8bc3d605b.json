@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:02.065009+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Easier (Remix) (2019)",
+    "track_number": 1
+  },
+  "entity_id": "93fdbe58-48c4-4bb7-a9b5-570358699a9f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "215b1562-56ea-45f8-b8b1-7dc8bc3d605b",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Easier (Remix) (2019)",
+    "title": "Easier (Remix) (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Easier (Remix) (2019)'.",
+  "status": "verified"
+}

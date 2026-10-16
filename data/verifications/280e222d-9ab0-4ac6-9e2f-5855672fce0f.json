@@ -1,0 +1,44 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:12.853171+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Members Only, Vol. 2",
+    "track_count": 20,
+    "tracklist": [
+      "XXX (Intro)",
+      "Broly!",
+      "BitchCallMeCaptainMorgan",
+      "Splash!",
+      "Nascar",
+      "King Of The Dead",
+      "Take It There",
+      "Orgy",
+      "Very Rare Forever Freestyle",
+      "Polo Man",
+      "Netherrack! - I Just Wont Break",
+      "Killers!",
+      "Save Me",
+      "Mia Wallace",
+      "Lunacy",
+      "Lick! (Clip)",
+      "Playboy!",
+      "WingRiddenAngel",
+      "Xanax!",
+      "I Am!"
+    ]
+  },
+  "entity_id": "2aa69d83-ba3f-466c-afd1-14445bf4543a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "280e222d-9ab0-4ac6-9e2f-5855672fce0f",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "Members Only, Vol. 2",
+    "track_count": 20
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (20 tracks) per https://en.wikipedia.org/wiki/Members_Only,_Vol._2, https://www.last.fm/music/XXXTENTACION/Members+Only,+Vol.+2. Second mixtape by Members Only, released October 2015. 20 tracks. Various performers across the collective.",
+  "status": "verified"
+}

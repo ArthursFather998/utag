@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:19.969318+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Angel Pt. 2",
+    "track_number": 1
+  },
+  "entity_id": "6544cbdb-5655-43f5-924d-6425284d2151",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1c22a113-e49a-440c-b737-7c2e34844bbf",
+  "input": {
+    "artist": "JVKE",
+    "release": "Angel Pt. 2",
+    "title": "Angel Pt. 2"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Angel Pt. 2'.",
+  "status": "verified"
+}

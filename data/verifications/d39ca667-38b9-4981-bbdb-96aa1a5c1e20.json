@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:58.549077+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All Falls Down",
+    "track_number": 1
+  },
+  "entity_id": "fa1a1d5e-a295-459c-b493-9270c1c23748",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d39ca667-38b9-4981-bbdb-96aa1a5c1e20",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "All Falls Down",
+    "title": "All Falls Down"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All Falls Down'.",
+  "status": "verified"
+}

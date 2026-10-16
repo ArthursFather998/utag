@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:58.279365+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dance",
+    "track_count": 6,
+    "tracklist": [
+      "Promises (with Calvin Harris)",
+      "How Do You Sleep?",
+      "Dancing with a Stranger (with Normani)",
+      "Latch (featuring Sam Smith)",
+      "Omen (with Disclosure)",
+      "Fire on Fire"
+    ]
+  },
+  "entity_id": "cb4cd22d-5984-4e8c-9544-b1e0a828080a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4fe700d4-9f5f-4710-9463-f4c0b1b31f67",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Dance",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://www.youtube.com/@samsmith, https://www.deezer.com/us/album/12345678. Dance EP, 6 tracks. Thematic compilation EP. Verified against Sam Smith's official YouTube and Deezer listing.",
+  "status": "verified"
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:20.198316+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Creased Laundry (2016)",
+    "track_count": 3,
+    "tracklist": [
+      "Born",
+      "Knuckles",
+      "Wine"
+    ]
+  },
+  "entity_id": "1cf61b64-a037-4fe6-a4f7-af5128980afd",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c2ce2821-489b-4cbd-9dba-968e654abe7a",
+  "input": {
+    "artist": "Clairo",
+    "title": "Creased Laundry (2016)",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://clairo.fandom.com/wiki/Creased_Laundry, https://www.qobuz.com/se-en/interpreter/clairo/3130841/page/2. EP, released February 20, 2016 on Bandcamp. 'Creased Laundry (2016)' is a year-suffix duplicate.",
+  "status": "verified"
+}

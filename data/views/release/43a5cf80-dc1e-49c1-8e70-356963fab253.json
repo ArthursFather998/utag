@@ -1268,6 +1268,108 @@
     "title": "In the Lonely Hour (10 Year Anniversary Edition)",
     "updated_at": "2026-10-16T04:06:00.724565+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:30:36.557679+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2978a179-7b77-497f-ba3f-f39240419588",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "43a5cf80-dc1e-49c1-8e70-356963fab253",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Stay with Me (Reimagined)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:30:36.557679+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:30:37.151044+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cbfd518f-8172-4707-8b8a-9cb1789fe2ec",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "43a5cf80-dc1e-49c1-8e70-356963fab253",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "I'm Not the Only One (Reimagined)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:30:37.151044+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:30:37.741692+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "bc739794-9324-4cb9-9417-8937e0bd348b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "43a5cf80-dc1e-49c1-8e70-356963fab253",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Lay Me Down (Reimagined)",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:30:37.741692+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:30:38.288409+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cc9afa30-857e-4c07-a56d-d5077fa07c73",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "43a5cf80-dc1e-49c1-8e70-356963fab253",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Good Thing (Reimagined)",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:30:38.288409+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:30:38.835318+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "In the Lonely Hour (10 Year Anniversary Edition)",
+        "track_count": 4,
+        "tracklist": [
+          "Stay with Me (Reimagined)",
+          "I'm Not the Only One (Reimagined)",
+          "Lay Me Down (Reimagined)",
+          "Good Thing (Reimagined)"
+        ]
+      },
+      "entity_id": "43a5cf80-dc1e-49c1-8e70-356963fab253",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "ba651553-b302-4114-9665-6320c9ff24ca",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "In the Lonely Hour (10 Year Anniversary Edition)",
+        "track_count": 4
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/In_the_Lonely_Hour, https://www.youtube.com/@samsmith. 10th Anniversary Edition EP, 4 reimagined tracks. Verified against Wikipedia and Sam Smith's official YouTube channel.",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:08.307979+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Swimming in the Stars",
+    "track_number": 1
+  },
+  "entity_id": "a6ea0255-3331-4495-85e7-0e081a876d15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e190264-f00b-4278-bc61-883d224bbdd4",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Swimming in the Stars",
+    "title": "Swimming in the Stars"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Swimming in the Stars'.",
+  "status": "verified"
+}

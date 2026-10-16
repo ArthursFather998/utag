@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:18:45.788884+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Sings Christmas Songs (1957)",
+    "track_count": 4,
+    "tracklist": [
+      "Santa Bring My Baby Back (To Me)",
+      "Blue Christmas",
+      "Santa Claus Is Back in Town",
+      "I'll Be Home for Christmas"
+    ]
+  },
+  "entity_id": "6e6e547a-61e7-4bb0-a152-cbcdc3b78cf4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "335f45a8-122a-4336-acbe-4284395b1256",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Sings Christmas Songs (1957)",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.elvisrecords.com/epa-4108-elvis-sings-christmas-songs/, https://Sergent.com.au/elvis/1957.html. EP EPA-4108. An earlier RCA listing notice had different tracks (Here Comes Santa Claus, White Christmas) but was replaced before release.",
+  "status": "verified"
+}

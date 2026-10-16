@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:29.050279+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "DAMN. (Collector's Edition)",
+    "track_count": 14,
+    "tracklist": [
+      "DUCKWORTH.",
+      "GOD.",
+      "FEAR.",
+      "XXX.",
+      "LOVE.",
+      "LUST.",
+      "HUMBLE.",
+      "PRIDE.",
+      "LOYALTY.",
+      "FEEL.",
+      "ELEMENT.",
+      "YAH.",
+      "DNA.",
+      "BLOOD."
+    ]
+  },
+  "entity_id": "ae159a29-24c9-4d5b-b18f-c5366a1d629d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a36780a0-32b1-41fc-be14-5a44e7adf688",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "DAMN. (Collector's Edition)",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://hiphop-n-more.com/2017/12/kendrick-lamar-damn-collectors-edition-artwork-tracklist/amp/, https://tower.com/products/kendrick-lamar-damn-collectors-edition. Collector's Edition, released December 8, 2017. Same 14 tracks as DAMN. in REVERSED order (confirmed by Kendrick as intentional - the album plays as a full story backwards). No new songs.",
+  "status": "verified"
+}

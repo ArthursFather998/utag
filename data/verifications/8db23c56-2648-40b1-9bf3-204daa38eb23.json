@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:58.089784+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Forgot to Remember to Forget (1955)",
+    "track_number": 1
+  },
+  "entity_id": "4843b840-f3af-4559-b4e5-17de54c078e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8db23c56-2648-40b1-9bf3-204daa38eb23",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "I Forgot to Remember to Forget (1955)",
+    "title": "I Forgot to Remember to Forget (1955)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Forgot to Remember to Forget (1955)'.",
+  "status": "verified"
+}

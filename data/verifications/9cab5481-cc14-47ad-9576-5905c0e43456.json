@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:43.303698+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Thriller",
+    "track_number": 1
+  },
+  "entity_id": "318e1c6a-7c1c-48e4-ba4e-cf9152a888b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9cab5481-cc14-47ad-9576-5905c0e43456",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Thriller",
+    "title": "Thriller"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Thriller'.",
+  "status": "verified"
+}

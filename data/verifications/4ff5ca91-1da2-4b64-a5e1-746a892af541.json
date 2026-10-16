@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:32.102117+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Song - Single (2025)",
+    "track_number": 1
+  },
+  "entity_id": "7d749a70-f0ad-4fc5-9eed-f6bbdfc6e5f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ff5ca91-1da2-4b64-a5e1-746a892af541",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "This Song - Single (2025)",
+    "title": "This Song - Single (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Song - Single (2025)'.",
+  "status": "verified"
+}

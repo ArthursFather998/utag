@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:37.995657+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hush Little Baby (2012)",
+    "track_number": 1
+  },
+  "entity_id": "51795d59-4f55-436b-bee6-6202fadf5ed4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "813af314-67a2-46e6-86de-91daf66f3a97",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Hush Little Baby (2012)",
+    "title": "Hush Little Baby (2012)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hush Little Baby (2012)'.",
+  "status": "verified"
+}

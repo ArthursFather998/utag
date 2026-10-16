@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:38.279288+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "High and Dry / Planet Telex",
+    "track_number": 1
+  },
+  "entity_id": "d60b0348-7f01-4fe6-aac7-603ed830d3f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ca2c66bc-9463-4f28-8925-2dae20a64b70",
+  "input": {
+    "artist": "Radiohead",
+    "release": "High and Dry / Planet Telex",
+    "title": "High and Dry / Planet Telex"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'High and Dry / Planet Telex'.",
+  "status": "verified"
+}

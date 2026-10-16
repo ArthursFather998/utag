@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:48:52.272427+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Want Some? (2007)",
+    "track_count": 11,
+    "tracklist": [
+      "You Break Me",
+      "I'm Glad I'm Not You",
+      "You Need to Cut Your Hair",
+      "Sara",
+      "Move On (feat. Alonestar)",
+      "Yellow Pages",
+      "Smile",
+      "Postcards",
+      "Two Blokes and a Double Bass",
+      "The West Coast of Clare",
+      "I Can't Spell"
+    ]
+  },
+  "entity_id": "4a0e6b32-2e3f-41ef-be4b-7394834647ed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5e7831ed-2ddd-4d37-a947-c3364045d8e2",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Want Some? (2007)",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://www.discogs.com/Ed-Sheeran-Want-Some/release/6634760, https://www.herbmusic.net/album/ed-sheeran-want-some%3f-33298. 2007 independent release (Sheeran Lock). Discogs formats it as a CD 'Album', others as an EP. 11 tracks on both Discogs (r6634760) and herbmusic.net/musify. Track 11 'I Can't Spell' contains a hidden track: an acoustic version of 'You Break Me'. 'Move On' features Alonestar. THIS IS THE SAME RELEASE as the duplicate entry 'Want Some?' - same artist, same year, same tracklist; one is a year-suffixed duplicate row.",
+  "status": "verified"
+}

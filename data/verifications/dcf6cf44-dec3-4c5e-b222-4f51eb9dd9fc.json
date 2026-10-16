@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:21.611901+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pretty Girl (2017)",
+    "track_number": 1
+  },
+  "entity_id": "b21e423b-5748-4d3e-a9ff-c593757787a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcf6cf44-dec3-4c5e-b222-4f51eb9dd9fc",
+  "input": {
+    "artist": "Clairo",
+    "release": "Pretty Girl (2017)",
+    "title": "Pretty Girl (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pretty Girl (2017)'.",
+  "status": "verified"
+}

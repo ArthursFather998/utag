@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:48.41234+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Oh to Be Loved",
+    "track_number": 1
+  },
+  "entity_id": "82744342-1227-4adf-8fc9-f05d53982344",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fde9ee1d-f3a3-44ba-9eb4-2ec1b664ccf6",
+  "input": {
+    "artist": "JVKE",
+    "release": "Oh to Be Loved",
+    "title": "Oh to Be Loved"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Oh to Be Loved'.",
+  "status": "verified"
+}

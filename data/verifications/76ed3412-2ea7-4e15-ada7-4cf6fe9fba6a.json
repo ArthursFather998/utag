@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:48:21.234798+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "−",
+    "track_count": 14,
+    "tracklist": [
+      "Boat",
+      "Salt Water",
+      "Eyes Closed",
+      "Life Goes On",
+      "Dusty",
+      "End of Youth",
+      "Colourblind",
+      "Curtains",
+      "Borderline",
+      "Spark",
+      "Vega",
+      "Sycamore",
+      "No Strings",
+      "The Hills of Aberfeldy"
+    ]
+  },
+  "entity_id": "c5e38931-c3ba-4053-be2b-edc146f87097",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "76ed3412-2ea7-4e15-ada7-4cf6fe9fba6a",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "−",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://upcomingvinyl.com/record/ed-sheeran-subtract, http://hi-fihits.com/product/ed-sheeran-subtract-vinyl-yellow/. Standard 14-track edition. Deluxe CD/Japanese editions add further bonus tracks (e.g. Wildflowers, Stoned, Toughest, Moving); not verified to Wikipedia level here and not part of the core release.",
+  "status": "verified"
+}

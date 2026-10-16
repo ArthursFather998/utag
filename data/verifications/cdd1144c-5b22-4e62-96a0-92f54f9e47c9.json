@@ -1,0 +1,45 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:57:43.981828+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis: As Recorded at Madison Square Garden",
+    "track_count": 21,
+    "tracklist": [
+      "Introduction: Also Sprach Zarathustra (Theme from 2001: A Space Odyssey)",
+      "That's All Right",
+      "Proud Mary",
+      "Never Been to Spain",
+      "You Don't Have to Say You Love Me",
+      "You've Lost That Lovin' Feelin'",
+      "Polk Salad Annie",
+      "Love Me",
+      "All Shook Up",
+      "Heartbreak Hotel",
+      "Medley: (Let Me Be Your) Teddy Bear / Don't Be Cruel",
+      "Love Me Tender",
+      "The Impossible Dream",
+      "Introductions by Elvis",
+      "Hound Dog",
+      "Suspicious Minds",
+      "For the Good Times",
+      "An American Trilogy",
+      "Funny How Time Slips Away",
+      "I Can't Stop Loving You",
+      "Can't Help Falling in Love"
+    ]
+  },
+  "entity_id": "2f30cf7a-4802-489c-a906-86b7612e6b4b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cdd1144c-5b22-4e62-96a0-92f54f9e47c9",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis: As Recorded at Madison Square Garden",
+    "track_count": 21
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (21 tracks) per https://www.discogs.com/release/1619790-Elvis-Presley-Elvis-As-Recorded-At-Madison-Square-Garden, https://www.discogs.com/release/2099355-Elvis-Presley-Elvis-As-Recorded-At-Madison-Square-Garden. VERIFIED: original LP (RCA Victor LSP-4776, June 1972) has 21 indexed bands (12 side A + 9 side B), NOT 16 — including 'Introduction: Also Sprach Zarathustra' and 'Introductions by Elvis'. Recorded at the June 10, 1972 evening show, released ~1 week later. The modern 2LP reissue adds 'End Theme (Orchestra)' as track 22 — not on the original.",
+  "status": "verified"
+}

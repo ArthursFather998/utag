@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:07.986187+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hold It Against Me",
+    "track_number": 1
+  },
+  "entity_id": "d348a85f-7209-45d0-88ba-7b9f28660c2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26b18b83-516b-40de-93ed-302fc3416c26",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Hold It Against Me",
+    "title": "Hold It Against Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hold It Against Me'.",
+  "status": "verified"
+}

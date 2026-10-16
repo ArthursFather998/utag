@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:37.719776+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pablo Honey",
+    "track_count": 12,
+    "tracklist": [
+      "You",
+      "Creep",
+      "How Do You?",
+      "Stop Whispering",
+      "Thinking About You",
+      "Anyone Can Play Guitar",
+      "Ripcord",
+      "Vegetable",
+      "Prove Yourself",
+      "I Can't",
+      "Lurgee",
+      "Blow Out"
+    ]
+  },
+  "entity_id": "caef5603-c5ee-4972-a13c-8c268a7f0b8b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "04bb5f5b-1319-447f-b071-88505feccac0",
+  "input": {
+    "artist": "Radiohead",
+    "title": "Pablo Honey",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.sonicboommusic.com/products/radiohead-pablo-honey-vinyl, http://www.classic-rock-covers.com/2020/03/radiohead-pablo-honey-1993.html. Debut studio album (Feb 1993). All sources agree on the 12-track order.",
+  "status": "verified"
+}

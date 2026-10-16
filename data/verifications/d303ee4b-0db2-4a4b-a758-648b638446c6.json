@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:15.689673+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "What's Going On",
+    "track_number": 1
+  },
+  "entity_id": "2a9004fd-8a00-4fc3-9cbc-78b6bcd45541",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d303ee4b-0db2-4a4b-a758-648b638446c6",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "What's Going On",
+    "title": "What's Going On"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'What's Going On'.",
+  "status": "verified"
+}

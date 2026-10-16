@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:17.195723+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Surrender (1961)",
+    "track_number": 1
+  },
+  "entity_id": "aebc4f8e-4f20-48b6-bb81-4e7f531ee43b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df8807e8-acf3-4667-a29e-45c620ca067f",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Surrender (1961)",
+    "title": "Surrender (1961)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Surrender (1961)'.",
+  "status": "verified"
+}

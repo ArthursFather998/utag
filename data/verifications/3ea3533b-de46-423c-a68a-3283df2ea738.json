@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:56.957887+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Welcome to the Black Parade (10th Anniversary Steve Aoki Remix)",
+    "track_number": 1
+  },
+  "entity_id": "1005c47f-b523-45a0-a419-09a88ff01192",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ea3533b-de46-423c-a68a-3283df2ea738",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Welcome to the Black Parade (10th Anniversary Steve Aoki Remix)",
+    "title": "Welcome to the Black Parade (10th Anniversary Steve Aoki Remix)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Welcome to the Black Parade (10th Anniversary Steve Aoki Remix)'.",
+  "status": "verified"
+}

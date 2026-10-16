@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:35.436858+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Yours - Single (2022)",
+    "track_number": 1
+  },
+  "entity_id": "c46842b4-9fa8-4830-8956-674df65c2a5f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a5ddfaef-9a8f-46b9-9929-5dd609a74dca",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Yours - Single (2022)",
+    "title": "Yours - Single (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Yours - Single (2022)'.",
+  "status": "verified"
+}

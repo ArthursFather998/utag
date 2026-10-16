@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:12.677699+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "No.5 Collaborations Project",
+    "track_count": 8,
+    "tracklist": [
+      "Lately (feat. Devlin)",
+      "You (feat. Wiley)",
+      "Family (feat. P Money)",
+      "Radio (feat. JME)",
+      "Little Lady (feat. Mikill Pane)",
+      "Drown Me Out (feat. Ghetts)",
+      "Nightmares (feat. Random Impulse, Sway & Wretch 32)",
+      "Goodbye to You (feat. Dot Rotten)"
+    ]
+  },
+  "entity_id": "1a77bdf2-2913-4ea5-8b1a-e9369a9ad027",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1ec6b1aa-d231-4c74-9706-39a9377ba0c9",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "No.5 Collaborations Project",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per http://en.wikipedia.org/wiki/5_(Ed_Sheeran_album), https://www.discogs.com/release/7329735-Ed-Sheeran-5. 2011 self-released EP (via TuneCore, later Asylum), peaked at #2 iTunes UK / #46 UK Albums. 8 tracks confirmed by Wikipedia '5' box listing, Discogs '5' box set (r7329735), and the answers.com complete song list. NOTE: one AI-generated discography page (grokipedia) wrongly lists 'London Bridge (ft. Wiley & Labrinth)' as track 7 - that track does not exist on this EP and was excluded. Correct order per Wikipedia/Discogs.",
+  "status": "verified"
+}

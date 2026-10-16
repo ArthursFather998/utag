@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:23.815937+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Light Switch (2022)",
+    "track_number": 1
+  },
+  "entity_id": "a89d7d03-fdba-4565-9880-6ffec9d0aa96",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05b20e30-1d02-412c-bb7a-4f094be1bbaa",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Light Switch (2022)",
+    "title": "Light Switch (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Light Switch (2022)'.",
+  "status": "verified"
+}

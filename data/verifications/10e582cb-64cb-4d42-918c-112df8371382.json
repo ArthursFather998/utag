@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:14.895984+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kaleidoscope",
+    "track_number": 1
+  },
+  "entity_id": "88d256bb-e15f-4584-9928-0ccf86a9b845",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10e582cb-64cb-4d42-918c-112df8371382",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Kaleidoscope",
+    "title": "Kaleidoscope"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Kaleidoscope'.",
+  "status": "verified"
+}

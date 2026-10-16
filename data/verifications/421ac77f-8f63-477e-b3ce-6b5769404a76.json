@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:56.69546+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Black or White",
+    "track_number": 1
+  },
+  "entity_id": "68da39d1-5e0e-443d-94a0-0c11e3e60dd9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "421ac77f-8f63-477e-b3ce-6b5769404a76",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Black or White",
+    "title": "Black or White"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Black or White'.",
+  "status": "verified"
+}

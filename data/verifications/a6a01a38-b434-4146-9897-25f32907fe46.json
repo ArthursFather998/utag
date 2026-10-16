@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:29.429224+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "MIND YOUR BUSINESS (2023)",
+    "track_number": 1
+  },
+  "entity_id": "e5a6ab86-05f1-4921-8c26-340297cdf393",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a6a01a38-b434-4146-9897-25f32907fe46",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "MIND YOUR BUSINESS (2023)",
+    "title": "MIND YOUR BUSINESS (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'MIND YOUR BUSINESS (2023)'.",
+  "status": "verified"
+}

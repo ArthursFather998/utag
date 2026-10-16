@@ -1,0 +1,41 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:37.590502+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Members Only, Vol. 4",
+    "track_count": 17,
+    "tracklist": [
+      "Corey's Intro",
+      "Nothing",
+      "Sauce!",
+      "Gassed Up!",
+      "Plottin",
+      "Pick Your Poison",
+      "Fall in Love with Death",
+      "Love Hard, Fall Fast",
+      "Now or Never",
+      "Cold Weather",
+      "Touch Eem Body",
+      "Jahseh on My Wrist",
+      "He Diddy!",
+      "You Are Not M.O.",
+      "Make Eem Run!",
+      "Proud Puppy Lover!",
+      "Woah (Freestyle)"
+    ]
+  },
+  "entity_id": "c231b99a-feb5-4317-a2f0-5f4a628b3b14",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ad082cac-bc39-4c6c-8ab2-f1bee18367d2",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "Members Only, Vol. 4",
+    "track_count": 17
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (17 tracks) per https://en.wikipedia.org/wiki/Members_Only,_Vol._4, https://horriblemusic.miraheze.org/wiki/XXXTENTACION_Presents:_Members_Only,_Vol._4. Fourth compilation by Members Only, released January 23, 2019 (XXXTENTACION's 21st birthday). 17 tracks on the standard edition; extended editions add Members Only!, Radar, Hi Wendy!, Over the Rainbow, Red Pills (Love in the Matrix). Using the canonical 17-track sequence.",
+  "status": "verified"
+}

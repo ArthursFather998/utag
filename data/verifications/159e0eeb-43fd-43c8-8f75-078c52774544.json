@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:59.106742+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Britney Spears: In the Zone",
+    "track_count": 4,
+    "tracklist": [
+      "I've Just Begun (Having My Fun)",
+      "Girls and Boys",
+      "Toxic (Lenny Bertoldo Radio Mix)",
+      "Me Against the Music (Bloodshy & Avant's Chix Mix)"
+    ]
+  },
+  "entity_id": "48ee6c43-573b-4d91-bd90-01738fa63898",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "159e0eeb-43fd-43c8-8f75-078c52774544",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Britney Spears: In the Zone",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.discogs.com/release/6977016-Britney-Spears-In-The-Zone, https://en.wikipedia.org/wiki/Britney_Spears:_In_the_Zone. 2004 DVD release. Tracklist shown is the exclusive bonus music CD included with the DVD (4 tracks). The DVD itself contains the ABC TV special, TRL performance, and music videos.",
+  "status": "verified"
+}

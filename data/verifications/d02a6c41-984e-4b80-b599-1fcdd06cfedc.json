@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:55.990657+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Do U Wanna Fall in Love? (2014)",
+    "track_count": 3,
+    "tracklist": [
+      "Kiss Me, Kiss Me",
+      "I Saw U Leave",
+      "For Ur Love"
+    ]
+  },
+  "entity_id": "7b184db0-8c4f-4d4d-aab8-6515f3302bf6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d02a6c41-984e-4b80-b599-1fcdd06cfedc",
+  "input": {
+    "artist": "Clairo",
+    "title": "Do U Wanna Fall in Love? (2014)",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://clairo.fandom.com/wiki/Do_U_Wanna_Fall_in_Love%3F, https://en.wikipedia.org/wiki/Clairo. EP, released December 24, 2014 on Bandcamp. '(2014)' suffixed row is a duplicate.",
+  "status": "verified"
+}

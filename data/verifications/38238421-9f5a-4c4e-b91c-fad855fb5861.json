@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:00.296411+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Glue Song (2023)",
+    "track_number": 1
+  },
+  "entity_id": "faf23a25-52e9-42d1-8959-710fb04ee768",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "38238421-9f5a-4c4e-b91c-fad855fb5861",
+  "input": {
+    "artist": "Clairo",
+    "release": "Glue Song (2023)",
+    "title": "Glue Song (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Glue Song (2023)'.",
+  "status": "verified"
+}

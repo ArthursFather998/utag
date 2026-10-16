@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:13.369954+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Do Somethin' (2005)",
+    "track_number": 1
+  },
+  "entity_id": "650134b1-af52-4db2-a3da-741f34803eae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2a13d64-489a-4f30-aef7-3e461ca12882",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Do Somethin' (2005)",
+    "title": "Do Somethin' (2005)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Do Somethin' (2005)'.",
+  "status": "verified"
+}

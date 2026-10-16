@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:45.682977+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The A Team (2011)",
+    "track_number": 1
+  },
+  "entity_id": "fc2adb39-4f63-4532-9e18-17bf52a8a619",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a08cbd6b-9fbb-408c-8b8b-aff061c1f857",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "The A Team (2011)",
+    "title": "The A Team (2011)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The A Team (2011)'.",
+  "status": "verified"
+}

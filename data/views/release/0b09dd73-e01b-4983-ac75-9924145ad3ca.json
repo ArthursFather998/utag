@@ -1268,6 +1268,127 @@
     "title": "Blossom",
     "updated_at": "2026-10-16T04:06:48.205918+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:37.299612+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6c9c8758-e2eb-4506-b6b4-f4dc046d5bc1",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0b09dd73-e01b-4983-ac75-9924145ad3ca",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "My Oasis",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:31:37.299612+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:38.103657+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a8f3fb92-6b8f-4e01-963e-1fb23dbc85a7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0b09dd73-e01b-4983-ac75-9924145ad3ca",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "So Serious",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:31:38.103657+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:38.619098+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b9f384a8-5293-449c-a501-3c679910bd41",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0b09dd73-e01b-4983-ac75-9924145ad3ca",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "I'm Ready",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:31:38.619098+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:39.282882+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1dfb23bd-166a-4b7b-9aab-a44e8448a0dd",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0b09dd73-e01b-4983-ac75-9924145ad3ca",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Diamonds (Joel Corry Remix)",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:31:39.282882+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:39.826517+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "46a4d1f5-7fd7-490c-add1-c9affe858e42",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0b09dd73-e01b-4983-ac75-9924145ad3ca",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Fire on Fire (From \"Watership Down\")",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:31:39.826517+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:31:40.464257+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Blossom",
+        "track_count": 5,
+        "tracklist": [
+          "My Oasis",
+          "So Serious",
+          "I'm Ready",
+          "Diamonds (Joel Corry Remix)",
+          "Fire on Fire (From \"Watership Down\")"
+        ]
+      },
+      "entity_id": "0b09dd73-e01b-4983-ac75-9924145ad3ca",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "58039697-75e0-493e-b67c-f536c5b6e2d8",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "Blossom",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://www.muxicbeats.com/sam-smith-songs/, https://www.youtube.com/@samsmith. Concept EP, 5 tracks. Released November 27, 2020. Part of a series of flower-themed EPs. Verified against muxicbeats.com and Sam Smith's official YouTube channel (concept EP series confirmed).",
+      "status": "verified"
+    }
+  ]
 }

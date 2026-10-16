@@ -1,0 +1,47 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:34.733083+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In the Lonely Hour: Drowning Shadows Edition",
+    "track_count": 23,
+    "tracklist": [
+      "Money on My Mind",
+      "Good Thing",
+      "Stay with Me",
+      "Leave Your Lover",
+      "I'm Not the Only One",
+      "I've Told You Now",
+      "Like I Can",
+      "Life Support",
+      "Not in That Way",
+      "Lay Me Down",
+      "Restart",
+      "Latch (Acoustic)",
+      "La La La (featuring Naughty Boy)",
+      "Make It to Me",
+      "Drowning Shadows",
+      "Love Is a Losing Game",
+      "Nirvana",
+      "How Will I Know",
+      "Omen (Acoustic)",
+      "Latch (Live from Madison Square Garden)",
+      "Stay with Me (Darkchild Version)",
+      "I'm Not the Only One (featuring A$AP Rocky)",
+      "Lay Me Down (featuring John Legend)"
+    ]
+  },
+  "entity_id": "4a6bf6ce-fcc4-4062-9a42-849466f74055",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "803a3c66-d569-429e-a8d0-7d7dc113eb62",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "In the Lonely Hour: Drowning Shadows Edition",
+    "track_count": 23
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (23 tracks) per https://en.wikipedia.org/wiki/In_the_Lonely_Hour, https://www.allmusic.com/album/in-the-lonely-hour-drowning-shadows-edition-mw0002901894. Drowning Shadows Edition, 23 tracks. Verified against Wikipedia and AllMusic.",
+  "status": "verified"
+}

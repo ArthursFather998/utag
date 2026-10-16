@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:42.745977+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Voices in My Head (2022)",
+    "track_number": 1
+  },
+  "entity_id": "50c78155-1a6a-45b5-9cfc-efa432afd685",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a4e6e95-7672-4266-8b7d-3427f024ff60",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Voices in My Head (2022)",
+    "title": "Voices in My Head (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Voices in My Head (2022)'.",
+  "status": "verified"
+}

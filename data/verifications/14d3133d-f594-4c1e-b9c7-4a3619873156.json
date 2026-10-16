@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:25.146891+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Beat Yourself Up (2026)",
+    "track_number": 1
+  },
+  "entity_id": "06e14b47-8f31-4f70-8d65-fd6e29df40b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "14d3133d-f594-4c1e-b9c7-4a3619873156",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Beat Yourself Up (2026)",
+    "title": "Beat Yourself Up (2026)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Beat Yourself Up (2026)'.",
+  "status": "verified"
+}

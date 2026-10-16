@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:54.326749+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Late Show (2015)",
+    "track_count": 4,
+    "tracklist": [
+      "Bubble Gum",
+      "Stranger Love",
+      "Pal",
+      "Leonie"
+    ]
+  },
+  "entity_id": "bf06bb92-9acf-46c0-b863-ddd965f2bf7b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "df2bb6e1-7b7d-49a5-be23-7b372a88855d",
+  "input": {
+    "artist": "Clairo",
+    "title": "Late Show (2015)",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://clairo.fandom.com/wiki/Late_Show, https://clairo.fandom.com/wiki/Stranger_Love. EP, released March 2, 2015. 'Leonie' is a Frankie Cosmos cover. 'Late Show (2015)' is a year-suffix duplicate.",
+  "status": "verified"
+}

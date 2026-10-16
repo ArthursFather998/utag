@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:08.365608+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "serena joy",
+    "track_number": 1
+  },
+  "entity_id": "d09912fe-79cf-4a58-9697-047c0c111b39",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f293e473-ba30-413b-873a-a3bfd0f706c6",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "serena joy",
+    "title": "serena joy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'serena joy'.",
+  "status": "verified"
+}

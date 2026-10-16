@@ -1,0 +1,46 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:04.381133+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Gloria (Special Edition)",
+    "track_count": 22,
+    "tracklist": [
+      "Love Me More",
+      "No God",
+      "Hurting Interlude",
+      "Lose You",
+      "Perfect",
+      "Unholy",
+      "How To Cry",
+      "Six Shots",
+      "Gimme",
+      "Dorothy's Interlude",
+      "I'm Not Here To Make Friends",
+      "Gloria",
+      "Who We Love",
+      "Kissing You",
+      "Heavenly Sent",
+      "Stay With Me (Live From The Royal Albert Hall)",
+      "I'm Not The Only One (Live From The Royal Albert Hall)",
+      "Too Good At Goodbyes (Live From The Royal Albert Hall)",
+      "How Do You Sleep? (Live From The Royal Albert Hall)",
+      "Dancing With A Stranger (Live From The Royal Albert Hall)",
+      "Lose You (Live From The Royal Albert Hall)",
+      "Unholy (Live From The Royal Albert Hall)"
+    ]
+  },
+  "entity_id": "05d0cd46-e14c-48c1-ac2c-391132ab7015",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8b6f964f-b520-4ef6-9bc1-0bc9c32b000f",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Gloria (Special Edition)",
+    "track_count": 22
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (22 tracks) per https://en.wikipedia.org/wiki/Gloria_(Sam_Smith_album), https://www.hoopladigital.com/music/gloria-[special-edition]-sam-smith/15896910. Special Edition, 22 tracks across 2 discs. Disc 1: 13 standard tracks. Disc 2: 2 studio bonus tracks (Kissing You, Heavenly Sent) + 7 live tracks from Royal Albert Hall. Verified against Wikipedia, hoopla, Deezer, and jazz-jazz.com. Note: The 7 live tracks are also released as the standalone 'Live from the Royal Albert Hall' EP.",
+  "status": "verified"
+}

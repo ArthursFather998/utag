@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:41.047535+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Perfume (2013)",
+    "track_number": 1
+  },
+  "entity_id": "9f65b971-8e30-4e3f-b1be-72515b3fc1e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab4f533f-3f59-45a4-b5a1-ce493c949426",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Perfume (2013)",
+    "title": "Perfume (2013)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Perfume (2013)'.",
+  "status": "verified"
+}

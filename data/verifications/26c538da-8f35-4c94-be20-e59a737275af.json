@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:15.802749+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "One Take",
+    "track_count": 3,
+    "tracklist": [
+      "Wayfaring Stranger",
+      "U.N.I.",
+      "You Need Me, I Don't Need You (SBTV Version)"
+    ]
+  },
+  "entity_id": "b7e70041-7422-4db2-ac31-a98eab8ce510",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "26c538da-8f35-4c94-be20-e59a737275af",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "One Take",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://www.discogs.com/release/6634796-Ed-Sheeran-One-Take-EP, https://www.stereoboard.com/content/view/164756/9. 2011 free digital promotional EP (Atlantic) - three one-take recordings. NOT 6 tracks: Discogs (r6634796), Stereoboard UK (Apr 7 2011 contemporary press release), eruce.com and racksandtags all agree on 3 tracks. Discogs entry has a typo 'Wayfarer Stranger'; correct title per press is 'Wayfaring Stranger'. 'U.N.I.' became a track on '+' (2011).",
+  "status": "verified"
+}

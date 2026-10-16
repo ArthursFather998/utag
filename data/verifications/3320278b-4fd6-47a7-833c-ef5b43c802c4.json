@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:19.915287+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "good kid, m.A.A.d city",
+    "track_count": 12,
+    "tracklist": [
+      "Sherane a.k.a Master Splinter's Daughter",
+      "Bitch, Don't Kill My Vibe",
+      "Backseat Freestyle",
+      "The Art of Peer Pressure",
+      "Money Trees",
+      "Poetic Justice",
+      "good kid",
+      "m.A.A.d city",
+      "Swimming Pools (Drank)",
+      "Sing About Me, I'm Dying of Thirst",
+      "Real",
+      "Compton"
+    ]
+  },
+  "entity_id": "9e6d204e-e0df-45ae-b976-c9a84103dcf2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3320278b-4fd6-47a7-833c-ef5b43c802c4",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "good kid, m.A.A.d city",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Good_Kid,_M.A.A.D_City, https://www.hotnewhiphop.com/5834-tracklist-and-features-for-kendrick-lamar-s-good-kid-m-a-a-d-city-news. Second studio album, released October 22, 2012. Standard 12-track edition. Track 9 is the extended version on the album.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:04.830413+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "the cure",
+    "track_number": 1
+  },
+  "entity_id": "a438dd84-97ee-425b-a318-d9043e3c5ea0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e0afeb0-ba5f-4269-8368-784e84806594",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "the cure",
+    "title": "the cure"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'the cure'.",
+  "status": "verified"
+}

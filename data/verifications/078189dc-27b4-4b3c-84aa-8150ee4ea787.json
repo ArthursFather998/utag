@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:32.873828+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Right Now (Taste the Victory)",
+    "track_number": 1
+  },
+  "entity_id": "ec14bc87-965a-4355-b757-c5435d577bd6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "078189dc-27b4-4b3c-84aa-8150ee4ea787",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Right Now (Taste the Victory)",
+    "title": "Right Now (Taste the Victory)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Right Now (Taste the Victory)'.",
+  "status": "verified"
+}

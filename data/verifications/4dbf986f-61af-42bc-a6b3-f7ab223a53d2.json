@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:54.137549+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "moonboy",
+    "track_number": 1
+  },
+  "entity_id": "116deb63-699a-42f1-a3c0-6d3ead438365",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dbf986f-61af-42bc-a6b3-f7ab223a53d2",
+  "input": {
+    "artist": "JVKE",
+    "release": "moonboy",
+    "title": "moonboy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'moonboy'.",
+  "status": "verified"
+}

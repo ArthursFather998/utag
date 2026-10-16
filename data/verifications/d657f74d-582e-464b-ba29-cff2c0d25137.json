@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:39.496523+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sexy to Someone (2024)",
+    "track_number": 1
+  },
+  "entity_id": "09d6455b-568c-4076-bfd4-a6800cf9c307",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d657f74d-582e-464b-ba29-cff2c0d25137",
+  "input": {
+    "artist": "Clairo",
+    "release": "Sexy to Someone (2024)",
+    "title": "Sexy to Someone (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sexy to Someone (2024)'.",
+  "status": "verified"
+}

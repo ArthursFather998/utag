@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:37.263806+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+    "track_number": 1
+  },
+  "entity_id": "37917c7c-b9c2-4b91-a3d6-ed64cb5d910e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8720f581-ac3b-48df-90ae-e84aa8e9a250",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+    "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Na Na Na (Na Na Na Na Na Na Na Na Na)'.",
+  "status": "verified"
+}

@@ -1268,6 +1268,127 @@
     "title": "The Holly & the Ivy",
     "updated_at": "2026-10-16T04:06:54.594501+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:20.625307+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f344ca50-3f92-427a-be0d-d209df94f6e2",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d43c6199-9491-48cb-8b42-6f8900383dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "The Lighthouse Keeper",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:32:20.625307+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:21.333952+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a2626b6d-0ba8-468c-8a5e-c4518e820fcc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d43c6199-9491-48cb-8b42-6f8900383dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Have Yourself a Merry Little Christmas",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:32:21.333952+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:21.890527+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "66f3ab88-c3f7-477b-b0ff-1ff458a575fe",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d43c6199-9491-48cb-8b42-6f8900383dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Palace",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:32:21.890527+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:22.594017+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "409d1738-883c-4c5a-b980-5e281f13874f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d43c6199-9491-48cb-8b42-6f8900383dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "River (Recorded at RAK Studios, London)",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:32:22.594017+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:23.166937+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d3491c8e-1c26-4b7c-959a-da8fe4965a87",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d43c6199-9491-48cb-8b42-6f8900383dc8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Fire on Fire (From \"Watership Down\")",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:32:23.166937+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:32:23.754919+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "The Holly & the Ivy",
+        "track_count": 5,
+        "tracklist": [
+          "The Lighthouse Keeper",
+          "Have Yourself a Merry Little Christmas",
+          "Palace",
+          "River (Recorded at RAK Studios, London)",
+          "Fire on Fire (From \"Watership Down\")"
+        ]
+      },
+      "entity_id": "d43c6199-9491-48cb-8b42-6f8900383dc8",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "410b3e62-1a04-44da-889f-7d0babc55123",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "The Holly & the Ivy",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://en.wikipedia.org/wiki/The_Holly_%26_the_Ivy_(Sam_Smith_EP), https://de.wikipedia.org/wiki/The_Holly_%26_the_Ivy_(Sam_Smith_EP). Christmas EP, 5 tracks. Released December 4, 2020. Verified against English and German Wikipedia.",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:19:21.505848+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Tickle Me (1965)",
+    "track_count": 5,
+    "tracklist": [
+      "I Feel That I've Known You Forever",
+      "Slowly but Surely",
+      "Night Rider",
+      "Put the Blame on Me",
+      "Dirty, Dirty Feeling"
+    ]
+  },
+  "entity_id": "fdd7a53a-76c5-4598-9d44-c2ba2d0af393",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d09aef3e-90d7-4654-94c8-8ca595e2934f",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Tickle Me (1965)",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://en.wikipedia.org/wiki/Tickle_Me_(EP), https://www.discogs.com/. EP. Tracks recorded for other films/sessions, assembled for the Tickle Me movie.",
+  "status": "verified"
+}

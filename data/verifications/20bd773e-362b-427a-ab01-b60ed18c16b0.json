@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:29.538073+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "(Now and Then There's) A Fool Such as I",
+    "track_number": 1
+  },
+  "entity_id": "5247fc31-e612-432c-a40d-3259529c2e3f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "20bd773e-362b-427a-ab01-b60ed18c16b0",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "(Now and Then There's) A Fool Such as I",
+    "title": "(Now and Then There's) A Fool Such as I"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '(Now and Then There's) A Fool Such as I'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:40.187901+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Feather",
+    "track_number": 1
+  },
+  "entity_id": "df5db53d-8bcc-469b-b2f1-c7beca51945c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22e69047-a6a6-4ca8-af60-6fd2db6520e3",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Feather",
+    "title": "Feather"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Feather'.",
+  "status": "verified"
+}

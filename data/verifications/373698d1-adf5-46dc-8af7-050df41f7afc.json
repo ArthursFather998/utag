@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:41.989815+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Only Exception",
+    "track_number": 1
+  },
+  "entity_id": "1dad413c-8ea3-4171-9e56-03ccb7027e11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "373698d1-adf5-46dc-8af7-050df41f7afc",
+  "input": {
+    "artist": "Paramore",
+    "release": "The Only Exception",
+    "title": "The Only Exception"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Only Exception'.",
+  "status": "verified"
+}

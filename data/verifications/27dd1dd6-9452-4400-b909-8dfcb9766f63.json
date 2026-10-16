@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:44.765844+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Just",
+    "track_number": 1
+  },
+  "entity_id": "8d30388f-61d4-4b76-96c9-55925c2a87a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27dd1dd6-9452-4400-b909-8dfcb9766f63",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Just",
+    "title": "Just"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Just'.",
+  "status": "verified"
+}

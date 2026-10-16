@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:45.426622+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Tom's Diner (2015)",
+    "track_number": 1
+  },
+  "entity_id": "448efa58-0b10-46ac-a106-00b4d19d856e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73d42bfc-a77b-4ec3-97ac-3bd40e468bbc",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Tom's Diner (2015)",
+    "title": "Tom's Diner (2015)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Tom's Diner (2015)'.",
+  "status": "verified"
+}

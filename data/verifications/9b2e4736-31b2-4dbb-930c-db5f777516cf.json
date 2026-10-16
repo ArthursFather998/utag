@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:12:24.283097+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Presley",
+    "track_count": 12,
+    "tracklist": [
+      "Blue Suede Shoes",
+      "I'm Counting on You",
+      "I Got a Woman",
+      "One Sided Love Affair",
+      "I Love You Because",
+      "Just Because",
+      "Tutti Frutti",
+      "Tryin' to Get to You",
+      "I'm Gonna Sit Right Down and Cry (over You)",
+      "I'll Never Let You Go (Little Darlin')",
+      "Blue Moon",
+      "Money Honey"
+    ]
+  },
+  "entity_id": "b843eb94-4013-4bb7-82dc-207ccbc1ced7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9b2e4736-31b2-4dbb-930c-db5f777516cf",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Presley",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Elvis_Presley_(album), https://www.allmusic.com/. Debut studio album, 1956.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:04.215692+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Airbag",
+    "track_number": 1
+  },
+  "entity_id": "03fe3110-b45c-4ee2-ab35-1e62dbebe07c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c68814c1-d800-4f80-aa07-537d4eae75d0",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Airbag",
+    "title": "Airbag"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Airbag'.",
+  "status": "verified"
+}

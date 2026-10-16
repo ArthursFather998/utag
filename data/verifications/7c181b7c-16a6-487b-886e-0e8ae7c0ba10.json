@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:11:29.217011+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Moody Blue (1977)",
+    "track_count": 10,
+    "tracklist": [
+      "Unchained Melody",
+      "If You Love Me (Let Me Know)",
+      "Little Darlin'",
+      "He'll Have to Go",
+      "Let Me Be There",
+      "Way Down",
+      "Pledging My Love",
+      "Moody Blue",
+      "She Thinks I Still Care",
+      "It's Easy for You"
+    ]
+  },
+  "entity_id": "8c70f17c-34fa-4418-b2a7-b6eaaed1bbdb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7c181b7c-16a6-487b-886e-0e8ae7c0ba10",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Moody Blue (1977)",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://www.discogs.com/release/23458433-Elvis-Moody-Blue, https://www.discogs.com/release/1776519-Elvis-Presley-Moody-Blue. Studio album, released July 19, 1977. Elvis's final studio album released during his lifetime.",
+  "status": "verified"
+}

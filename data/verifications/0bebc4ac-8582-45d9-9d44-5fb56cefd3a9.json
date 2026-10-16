@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:49.136198+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Good Rockin' Tonight (1954)",
+    "track_number": 1
+  },
+  "entity_id": "068a7d65-8dd2-4761-8d4c-8865876371c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0bebc4ac-8582-45d9-9d44-5fb56cefd3a9",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Good Rockin' Tonight (1954)",
+    "title": "Good Rockin' Tonight (1954)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Good Rockin' Tonight (1954)'.",
+  "status": "verified"
+}

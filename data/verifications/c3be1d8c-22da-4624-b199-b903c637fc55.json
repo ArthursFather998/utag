@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:43.390941+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Man I Am",
+    "track_number": 1
+  },
+  "entity_id": "7e3f851b-2039-4f89-92b3-462266700069",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3be1d8c-22da-4624-b199-b903c637fc55",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Man I Am",
+    "title": "Man I Am"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Man I Am'.",
+  "status": "verified"
+}

@@ -1268,6 +1268,127 @@
     "title": "Loves Me, Loves Me Not",
     "updated_at": "2026-10-16T04:06:51.460201+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:15.673551+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "35b470c8-efd7-4bff-95e6-e9e9838f6d2e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5ed5fb8d-4c0e-4d45-8106-5ee08bc1a6ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Breaking Hearts",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:32:15.673551+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:16.305728+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d59ebb35-59da-45f0-ac36-0bf6c4be7138",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5ed5fb8d-4c0e-4d45-8106-5ee08bc1a6ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "How Do You Sleep?",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:32:16.305728+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:16.917227+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2734d9b4-938c-4f23-b9cd-5e3da0b25bdf",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5ed5fb8d-4c0e-4d45-8106-5ee08bc1a6ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Love Goes",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:32:16.917227+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:17.479551+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "fb879e8b-05b5-43ed-b16b-50b115ee12fa",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5ed5fb8d-4c0e-4d45-8106-5ee08bc1a6ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "To Die For",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:32:17.479551+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:18.098179+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "77e457c5-50ba-46a5-8087-40d644cd7ee3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5ed5fb8d-4c0e-4d45-8106-5ee08bc1a6ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "For the Lover That I Lost",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:32:18.098179+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:32:18.805806+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Loves Me, Loves Me Not",
+        "track_count": 5,
+        "tracklist": [
+          "Breaking Hearts",
+          "How Do You Sleep?",
+          "Love Goes",
+          "To Die For",
+          "For the Lover That I Lost"
+        ]
+      },
+      "entity_id": "5ed5fb8d-4c0e-4d45-8106-5ee08bc1a6ce",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "a79ac315-6a40-49ed-9786-f163b4ee0202",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "Loves Me, Loves Me Not",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://www.muxicbeats.com/sam-smith-songs/, https://www.youtube.com/@samsmith. Concept EP, 5 tracks. Released December 1, 2020. Part of a series of flower-themed EPs. Verified against muxicbeats.com and Sam Smith's official YouTube channel (concept EP series confirmed).",
+      "status": "verified"
+    }
+  ]
 }

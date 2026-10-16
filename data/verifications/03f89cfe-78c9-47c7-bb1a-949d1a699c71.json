@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:46.392513+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "GNX",
+    "track_count": 12,
+    "tracklist": [
+      "Wacced Out Murals",
+      "Squabble Up",
+      "Luther",
+      "Man at the Garden",
+      "Hey Now",
+      "Reincarnated",
+      "TV Off",
+      "Dodger Blue",
+      "Peekaboo",
+      "Heart Pt. 6",
+      "GNX",
+      "Gloria"
+    ]
+  },
+  "entity_id": "77da410f-0575-49ed-bd86-19db9bfce16f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "03f89cfe-78c9-47c7-bb1a-949d1a699c71",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "GNX",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://simple.wikipedia.org/wiki/GNX, https://www.xxlmag.com/kendrick-lamar-gnx-album/. Sixth studio album, surprise-released November 22, 2024. 12 tracks, all stylized in lowercase. First release after leaving Top Dawg Entertainment.",
+  "status": "verified"
+}

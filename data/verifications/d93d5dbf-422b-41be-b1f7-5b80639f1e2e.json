@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:16.884852+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Anyone Can Play Guitar",
+    "track_number": 1
+  },
+  "entity_id": "620982dd-2537-4727-ba29-37c0fe8aa7bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d93d5dbf-422b-41be-b1f7-5b80639f1e2e",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Anyone Can Play Guitar",
+    "title": "Anyone Can Play Guitar"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Anyone Can Play Guitar'.",
+  "status": "verified"
+}

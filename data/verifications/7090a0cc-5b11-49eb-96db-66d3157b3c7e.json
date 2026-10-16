@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:10:07.167998+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Presley (1956)",
+    "track_count": 12,
+    "tracklist": [
+      "Blue Suede Shoes",
+      "I'm Counting on You",
+      "I Got a Woman",
+      "One-Sided Love Affair",
+      "I Love You Because",
+      "Just Because",
+      "Tutti Frutti",
+      "Tryin' to Get to You",
+      "I'm Gonna Sit Right Down and Cry (Over You)",
+      "I'll Never Let You Go (Little Darlin')",
+      "Blue Moon",
+      "Money Honey"
+    ]
+  },
+  "entity_id": "413ff8fb-ced8-4f4d-a2c4-610f8cabf6bc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7090a0cc-5b11-49eb-96db-66d3157b3c7e",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Presley (1956)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per http://en.wikipedia.org/wiki/Elvis_Presley_(album), https://www.noise11.com/news/elvis-presley-self-titled-debut-was-released-65-years-ago-today-20210323. Debut studio album, released March 23, 1956. Original 12-track release.",
+  "status": "verified"
+}

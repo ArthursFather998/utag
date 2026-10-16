@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:05.45182+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Aperture",
+    "track_number": 1
+  },
+  "entity_id": "17206bfa-2c73-4c47-9750-3d020ccb269b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f018849c-0478-4e2e-b8a3-ca74a77d3f3b",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Aperture",
+    "title": "Aperture"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Aperture'.",
+  "status": "verified"
+}

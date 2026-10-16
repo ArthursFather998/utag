@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:11.820917+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sunshine",
+    "track_number": 1
+  },
+  "entity_id": "e5d8d6ea-1f3f-4eb6-a984-e7aaa24fefab",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9318c1a-4053-4df5-843a-af9d61ce33e9",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Sunshine",
+    "title": "Sunshine"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sunshine'.",
+  "status": "verified"
+}

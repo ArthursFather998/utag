@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:56.795278+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "good kid, m.A.A.d city (Deluxe)",
+    "track_count": 15,
+    "tracklist": [
+      "Sherane a.k.a Master Splinter's Daughter",
+      "Bitch, Don't Kill My Vibe",
+      "Backseat Freestyle",
+      "The Art of Peer Pressure",
+      "Money Trees",
+      "Poetic Justice",
+      "good kid",
+      "m.A.A.d city",
+      "Swimming Pools (Drank)",
+      "Sing About Me, I'm Dying of Thirst",
+      "Real",
+      "Compton",
+      "The Recipe",
+      "Black Boy Fly",
+      "Now or Never"
+    ]
+  },
+  "entity_id": "eabe44ed-4efe-4358-9e1c-1b733a53c413",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5f4dc8f3-0cfc-4d4c-8ea3-46bb7046fab3",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "good kid, m.A.A.d city (Deluxe)",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://en.wikipedia.org/wiki/Good_Kid,_M.A.A.D_City, https://www.valueyourmusic.com/items/125153018814-3-bonus-tracks-kendrick-lamar-good-kid-m-a-a-d-city-deluxe-2lp-set-1116. Deluxe edition: standard 12 tracks + 3 bonus tracks (The Recipe feat. Dr. Dre, Black Boy Fly, Now or Never feat. Mary J. Blige). This is the standard deluxe configuration; iTunes/Target/Spotify variants add further retailer-exclusive bonus tracks.",
+  "status": "verified"
+}

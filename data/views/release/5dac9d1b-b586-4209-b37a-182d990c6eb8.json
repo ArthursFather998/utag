@@ -782,6 +782,127 @@
     "title": "The Black Parade: The B-Sides",
     "updated_at": "2026-10-16T04:15:11.483481+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:10:26.898842+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7f5af9a9-e303-49c9-b4e7-1dc3c87b8ff4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5dac9d1b-b586-4209-b37a-182d990c6eb8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "My Way Home Is Through You",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:10:26.898842+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:10:27.594057+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "fa307db9-0fe2-4c4a-9c95-f3a84e397138",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5dac9d1b-b586-4209-b37a-182d990c6eb8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Famous Last Words (Live)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:10:27.594057+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:10:28.200503+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "77f72bf4-18e3-4162-912e-626416d07b71",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5dac9d1b-b586-4209-b37a-182d990c6eb8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Kill All Your Friends",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:10:28.200503+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:10:28.886554+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "09aa74b6-700d-414f-b9ed-ea9f0225b137",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5dac9d1b-b586-4209-b37a-182d990c6eb8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Welcome to the Black Parade (Live)",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:10:28.886554+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:10:29.607638+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1fc17a15-d647-41d4-a272-9b540ac80bd3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5dac9d1b-b586-4209-b37a-182d990c6eb8",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Heaven Help Us",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:10:29.607638+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:10:30.226612+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "The Black Parade: The B-Sides",
+        "track_count": 5,
+        "tracklist": [
+          "My Way Home Is Through You",
+          "Famous Last Words (Live)",
+          "Kill All Your Friends",
+          "Welcome to the Black Parade (Live)",
+          "Heaven Help Us"
+        ]
+      },
+      "entity_id": "5dac9d1b-b586-4209-b37a-182d990c6eb8",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "cf46a6e8-96dd-4a76-bd11-7f55ac0522d0",
+      "input": {
+        "artist": "My Chemical Romance",
+        "title": "The Black Parade: The B-Sides",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/4722179-My-Chemical-Romance-The-Black-Parade-The-B-Sides, https://www.deezer.com/album/271736. Digital EP released February 3, 2009 by Reprise Records. All five tracks previously appeared as B-sides on singles from The Black Parade. Live tracks (2 and 4) recorded October 14, 2006 at O2 Music Flash, E-Werk, Berlin, Germany.",
+      "status": "verified"
+    }
+  ]
 }

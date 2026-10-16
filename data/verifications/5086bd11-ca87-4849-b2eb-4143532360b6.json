@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:58.578499+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Liberian Girl",
+    "track_number": 1
+  },
+  "entity_id": "8002aded-d38c-4208-bef4-b19e0b9e412f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5086bd11-ca87-4849-b2eb-4143532360b6",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Liberian Girl",
+    "title": "Liberian Girl"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Liberian Girl'.",
+  "status": "verified"
+}

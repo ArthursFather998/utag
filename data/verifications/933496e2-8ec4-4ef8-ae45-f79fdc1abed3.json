@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:22.176647+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Death and Taxes (2015)",
+    "track_number": 1
+  },
+  "entity_id": "0e331410-f1a9-45e4-bf26-5ecd7890c5c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "933496e2-8ec4-4ef8-ae45-f79fdc1abed3",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Death and Taxes (2015)",
+    "title": "Death and Taxes (2015)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Death and Taxes (2015)'.",
+  "status": "verified"
+}

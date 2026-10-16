@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:37.855283+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Throwaway",
+    "track_number": 1
+  },
+  "entity_id": "e70571cf-d60f-474b-9a6a-8a73937b87cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "98420b66-5630-4292-b151-bca656879942",
+  "input": {
+    "artist": "Clairo",
+    "release": "Throwaway",
+    "title": "Throwaway"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Throwaway'.",
+  "status": "verified"
+}

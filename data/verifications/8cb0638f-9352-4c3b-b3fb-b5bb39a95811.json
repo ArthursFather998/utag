@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:24.015921+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Piece of Me (2007)",
+    "track_number": 1
+  },
+  "entity_id": "ceed40ca-7db6-457a-a580-34b9ec012a33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8cb0638f-9352-4c3b-b3fb-b5bb39a95811",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Piece of Me (2007)",
+    "title": "Piece of Me (2007)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Piece of Me (2007)'.",
+  "status": "verified"
+}

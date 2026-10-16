@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:17.846116+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Xscape",
+    "track_count": 8,
+    "tracklist": [
+      "Love Never Felt So Good",
+      "Chicago",
+      "Loving You",
+      "A Place with No Name",
+      "Slave to the Rhythm",
+      "Do You Know Where Your Children Are",
+      "Blue Gangsta",
+      "Xscape"
+    ]
+  },
+  "entity_id": "bfdb70fc-7c6b-4ea5-b53d-c61cb3b84f03",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "67d723ae-5757-49ad-bc46-1807070fa58a",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Xscape",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per http://en.wikipedia.org/wiki/Xscape_(album), https://hiphop-n-more.com/2014/05/michael-jackson-xscape-track-list/. Second posthumous album (2014). Standard 8-track edition (a 17-track deluxe exists with original versions).",
+  "status": "verified"
+}

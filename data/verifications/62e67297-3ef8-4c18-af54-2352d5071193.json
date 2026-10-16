@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:04.444703+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+    "track_number": 1
+  },
+  "entity_id": "87c77e89-812a-423b-a65f-5af3956e67b3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62e67297-3ef8-4c18-af54-2352d5071193",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+    "title": "Honey, This Mirror Isn't Big Enough for the Two of Us"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Honey, This Mirror Isn't Big Enough for the Two of Us'.",
+  "status": "verified"
+}

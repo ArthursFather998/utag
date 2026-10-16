@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:51.764353+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Asia Tour: Blooming Season EP",
+    "track_count": 5,
+    "tracklist": [
+      "easy",
+      "seasons",
+      "colors",
+      "moonboy",
+      "easy (Chinese Version)"
+    ]
+  },
+  "entity_id": "1bb71a1a-060b-4492-9c07-b161a089e17c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a706218f-c2b8-4761-abb5-5607046b883a",
+  "input": {
+    "artist": "JVKE",
+    "title": "The Asia Tour: Blooming Season EP",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://play.anghami.com/album/1086300138, https://therarbg.to/post-detail/840f13/jvke-the-asia-tour_-blooming-season-ep-2025-mp3-320kbps-pmed/. 5-track EP of Asia tour collaborations. Track order from Anghami album page; torrent file listing confirms easy/seasons/colors/easy (Chinese Version) order. Moonboy appears on Anghami but not in the torrent file listing — included per Anghami as the primary source.",
+  "status": "verified"
+}

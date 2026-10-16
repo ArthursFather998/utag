@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:50.560428+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sing It for Japan",
+    "track_number": 1
+  },
+  "entity_id": "f52e086e-5db6-4d8e-9433-f883eaa77d6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ebeced0-8d17-4ad9-9265-75c5325af5fa",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Sing It for Japan",
+    "title": "Sing It for Japan"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sing It for Japan'.",
+  "status": "verified"
+}

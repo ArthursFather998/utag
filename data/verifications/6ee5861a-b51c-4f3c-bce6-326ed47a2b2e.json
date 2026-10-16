@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:05.228369+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "One Call Away",
+    "track_number": 1
+  },
+  "entity_id": "4ec7fa73-bb77-48e1-8ea9-36de4a0d6fc8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ee5861a-b51c-4f3c-bce6-326ed47a2b2e",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "One Call Away",
+    "title": "One Call Away"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'One Call Away'.",
+  "status": "verified"
+}

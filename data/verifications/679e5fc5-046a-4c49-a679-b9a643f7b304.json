@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:40.081749+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Need Me",
+    "track_count": 5,
+    "tracklist": [
+      "You Need Me, I Don't Need You",
+      "So",
+      "Be Like You",
+      "The City",
+      "Sunburn"
+    ]
+  },
+  "entity_id": "9faf5f6b-d387-48dd-b25b-0d401491b4b6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "679e5fc5-046a-4c49-a679-b9a643f7b304",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "You Need Me",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/master/764405-Ed-Sheeran-You-Need-Me, https://www.simplygames.com/p/ed-sheeran-you-need-me-cd. DUPLICATE ENTRY of 'You Need Me (2009)' - same artist, same year, same 5-track tracklist (confirmed as the same release by identical tracklists on Discogs master 764405, simplygames, cultureshockshop). Tracklist copied from the (2009)-suffixed row.",
+  "status": "verified"
+}

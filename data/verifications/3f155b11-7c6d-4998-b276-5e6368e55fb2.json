@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:14.044571+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Azizam (2025)",
+    "track_number": 1
+  },
+  "entity_id": "ce26ac6a-7b18-4d7b-aa8b-acfe357cd9c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f155b11-7c6d-4998-b276-5e6368e55fb2",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Azizam (2025)",
+    "title": "Azizam (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Azizam (2025)'.",
+  "status": "verified"
+}

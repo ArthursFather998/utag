@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:44.72749+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spectre",
+    "track_number": 1
+  },
+  "entity_id": "5003054a-c7ce-41a9-932b-6bc74f38f070",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d14536d-9d4c-442f-88df-b4db8a88adc6",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Spectre",
+    "title": "Spectre"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Spectre'.",
+  "status": "verified"
+}

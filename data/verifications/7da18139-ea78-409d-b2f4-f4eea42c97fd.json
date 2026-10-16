@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:59:57.497079+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis' Christmas Album (1957)",
+    "track_count": 12,
+    "tracklist": [
+      "Santa Claus Is Back in Town",
+      "White Christmas",
+      "Here Comes Santa Claus",
+      "I'll Be Home for Christmas",
+      "Blue Christmas",
+      "Santa Bring My Baby Back (To Me)",
+      "O Little Town of Bethlehem",
+      "Silent Night",
+      "(There'll Be) Peace in the Valley (For Me)",
+      "I Believe",
+      "Take My Hand, Precious Lord",
+      "It Is No Secret (What God Can Do)"
+    ]
+  },
+  "entity_id": "f9f9cc17-63ca-488d-aa3d-92b831130f75",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7da18139-ea78-409d-b2f4-f4eea42c97fd",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis' Christmas Album (1957)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Elvis%27_Christmas_Album, https://www.discogs.com. Original 1957 RCA Victor release, 12 tracks. Cross-chunk year-suffix duplicate possible.",
+  "status": "verified"
+}

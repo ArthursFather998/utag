@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:04.469142+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Coming Home",
+    "track_number": 1
+  },
+  "entity_id": "c2f8aeb7-756d-48db-9fcb-65689d47959a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b43352fa-fc8d-46df-aeb8-0e2f0d8389e2",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Coming Home",
+    "title": "Coming Home"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Coming Home'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:11.834216+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Maniac - Single (2019)",
+    "track_number": 1
+  },
+  "entity_id": "bdd58b81-7d60-4ac0-8c0e-4dcb61f581c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dbd6fd2a-e42d-4444-86e2-3bf1a93d147a",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Maniac - Single (2019)",
+    "title": "Maniac - Single (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Maniac - Single (2019)'.",
+  "status": "verified"
+}

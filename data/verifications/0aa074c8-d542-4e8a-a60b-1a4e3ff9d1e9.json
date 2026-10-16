@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:43.239011+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Nomad (2024)",
+    "track_number": 1
+  },
+  "entity_id": "3eca7b40-ebe5-47f6-b1b2-ad0ec30d49f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0aa074c8-d542-4e8a-a60b-1a4e3ff9d1e9",
+  "input": {
+    "artist": "Clairo",
+    "release": "Nomad (2024)",
+    "title": "Nomad (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Nomad (2024)'.",
+  "status": "verified"
+}

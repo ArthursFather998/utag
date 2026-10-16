@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:00.692515+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Remember the Time",
+    "track_number": 1
+  },
+  "entity_id": "ef327095-acbf-4cf8-b095-3bc8632feb9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d2fe7e9-a05c-475e-920d-03996cd96c64",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Remember the Time",
+    "title": "Remember the Time"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Remember the Time'.",
+  "status": "verified"
+}

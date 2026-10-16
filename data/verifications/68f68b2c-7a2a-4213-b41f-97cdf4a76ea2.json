@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:14.789854+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad",
+    "track_count": 11,
+    "tracklist": [
+      "Bad",
+      "The Way You Make Me Feel",
+      "Speed Demon",
+      "Liberian Girl",
+      "Just Good Friends",
+      "Another Part of Me",
+      "Man in the Mirror",
+      "I Just Can't Stop Loving You",
+      "Dirty Diana",
+      "Smooth Criminal",
+      "Leave Me Alone"
+    ]
+  },
+  "entity_id": "a52fd34a-f850-43b5-aac6-615f30b859ed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "68f68b2c-7a2a-4213-b41f-97cdf4a76ea2",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Bad",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://en.wikipedia.org/wiki/Bad_(album), https://simple.wikipedia.org/wiki/Bad_(album). Seventh solo studio album (1987, Epic). Track 11 'Leave Me Alone' is the CD/cassette/digital bonus track, included here per standard CD tracklist.",
+  "status": "verified"
+}

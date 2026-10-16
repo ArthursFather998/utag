@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:15:39.729492+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Biking (Solo)",
+    "track_number": 1
+  },
+  "entity_id": "f7127d0b-ddc4-4545-9c95-f5f0f30f5a85",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "268618ac-0963-4d24-a99d-cc1ce972dbf5",
+  "input": {
+    "artist": "Frank Ocean",
+    "release": "Biking (Solo)",
+    "title": "Biking (Solo)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Biking (Solo)'.",
+  "status": "verified"
+}

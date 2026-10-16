@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:52.317898+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Who Hurt You? (2018)",
+    "track_number": 1
+  },
+  "entity_id": "ac24beed-062e-49d3-afad-73e1c63b151a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b4140b44-3941-4870-8c2e-2240f3d50421",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Who Hurt You? (2018)",
+    "title": "Who Hurt You? (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Who Hurt You? (2018)'.",
+  "status": "verified"
+}

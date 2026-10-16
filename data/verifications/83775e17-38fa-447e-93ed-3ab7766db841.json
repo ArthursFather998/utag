@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:43.693842+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Un Millón",
+    "track_number": 1
+  },
+  "entity_id": "315a843e-e534-46b6-8711-d9fbae2304c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83775e17-38fa-447e-93ed-3ab7766db841",
+  "input": {
+    "artist": "The Marías",
+    "release": "Un Millón",
+    "title": "Un Millón"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Un Millón'.",
+  "status": "verified"
+}

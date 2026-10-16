@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:44.432869+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "She's Out of My Life",
+    "track_number": 1
+  },
+  "entity_id": "56185fca-55ab-4708-8de1-21f89040922a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "55a7bb5b-aeb3-4d8f-9891-942e9a9cffb9",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "She's Out of My Life",
+    "title": "She's Out of My Life"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'She's Out of My Life'.",
+  "status": "verified"
+}

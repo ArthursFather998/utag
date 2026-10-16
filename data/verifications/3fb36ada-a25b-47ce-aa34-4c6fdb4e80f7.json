@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:11:50.707123+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kid Galahad",
+    "track_count": 6,
+    "tracklist": [
+      "King of the Whole Wide World",
+      "This Is Living",
+      "Riding the Rainbow",
+      "Home Is Where the Heart Is",
+      "I Got Lucky",
+      "A Whistling Tune"
+    ]
+  },
+  "entity_id": "a9e12620-7775-4bd1-a225-ccccf2e3eb35",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3fb36ada-a25b-47ce-aa34-4c6fdb4e80f7",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Kid Galahad",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://en.wikipedia.org/wiki/Kid_Galahad_(EP), https://www.discogs.com/release/. EP from the Kid Galahad film soundtrack sessions.",
+  "status": "verified"
+}

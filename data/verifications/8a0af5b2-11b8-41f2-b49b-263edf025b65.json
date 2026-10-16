@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:55.455673+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Stuck on You",
+    "track_number": 1
+  },
+  "entity_id": "ef92fdba-7ef2-4474-a5b7-5972496ad40d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8a0af5b2-11b8-41f2-b49b-263edf025b65",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Stuck on You",
+    "title": "Stuck on You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Stuck on You'.",
+  "status": "verified"
+}

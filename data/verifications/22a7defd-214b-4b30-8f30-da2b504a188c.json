@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:57.673471+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "If U Seek Amy",
+    "track_number": 1
+  },
+  "entity_id": "8c05ab80-d41d-441d-94ed-fff1f36ecfb1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22a7defd-214b-4b30-8f30-da2b504a188c",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "If U Seek Amy",
+    "title": "If U Seek Amy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'If U Seek Amy'.",
+  "status": "verified"
+}

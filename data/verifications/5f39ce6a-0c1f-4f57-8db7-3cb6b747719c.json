@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:10.344019+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "One Night (1958)",
+    "track_number": 1
+  },
+  "entity_id": "6e897282-a877-44fa-a093-9ec15934ca82",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f39ce6a-0c1f-4f57-8db7-3cb6b747719c",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "One Night (1958)",
+    "title": "One Night (1958)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'One Night (1958)'.",
+  "status": "verified"
+}

@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:59.475322+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Forever, Michael",
+    "track_count": 10,
+    "tracklist": [
+      "We're Almost There",
+      "Take Me Back",
+      "One Day in Your Life",
+      "Cinderella Stay Awhile",
+      "We've Got Forever",
+      "Just a Little Bit of You",
+      "You Are There",
+      "Dapper Dan",
+      "Dear Michael",
+      "I'll Come Home to You"
+    ]
+  },
+  "entity_id": "dffe3556-46dd-4e00-b68d-f7c0c260c6ec",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e2daeb82-7a6e-4576-8be7-1ec25f066578",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Forever, Michael",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/Forever,_Michael, https://simple.wikipedia.org/wiki/Forever,_Michael. Fourth and final Motown solo studio album (1975). All sources agree on 10-track order.",
+  "status": "verified"
+}

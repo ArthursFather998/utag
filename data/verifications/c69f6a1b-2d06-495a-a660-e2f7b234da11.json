@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:33.449619+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Don't Cry Daddy (1969)",
+    "track_number": 1
+  },
+  "entity_id": "7ec239d0-382d-4c4b-be2d-6d2da610ce1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c69f6a1b-2d06-495a-a660-e2f7b234da11",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Don't Cry Daddy (1969)",
+    "title": "Don't Cry Daddy (1969)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Don't Cry Daddy (1969)'.",
+  "status": "verified"
+}

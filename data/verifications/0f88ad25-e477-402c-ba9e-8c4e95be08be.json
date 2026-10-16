@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:01.124501+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Radar",
+    "track_number": 1
+  },
+  "entity_id": "6de61887-8d77-4066-977f-0ec5efdca85c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f88ad25-e477-402c-ba9e-8c4e95be08be",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Radar",
+    "title": "Radar"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Radar'.",
+  "status": "verified"
+}

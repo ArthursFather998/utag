@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:48.211548+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Crying in the Chapel (1965)",
+    "track_number": 1
+  },
+  "entity_id": "de6e0f84-ff75-45ae-a1d3-0896f62f4787",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6973ae0-15f3-476f-893d-c5fec82ce3c8",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Crying in the Chapel (1965)",
+    "title": "Crying in the Chapel (1965)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Crying in the Chapel (1965)'.",
+  "status": "verified"
+}

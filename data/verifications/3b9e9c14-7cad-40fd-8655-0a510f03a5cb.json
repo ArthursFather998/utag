@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:20.730147+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "River",
+    "track_number": 1
+  },
+  "entity_id": "a4fd299f-fb4e-4091-8d53-9b0f08f0ad9f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3b9e9c14-7cad-40fd-8655-0a510f03a5cb",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "River",
+    "title": "River"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'River'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:38.045468+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is What Heartbreak Feels Like (Remix)",
+    "track_number": 1
+  },
+  "entity_id": "01ecad99-ce41-43d7-8c11-f107b479a0d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80b779ea-889f-40b2-8a3f-6478012a8e8b",
+  "input": {
+    "artist": "JVKE",
+    "release": "This Is What Heartbreak Feels Like (Remix)",
+    "title": "This Is What Heartbreak Feels Like (Remix)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Is What Heartbreak Feels Like (Remix)'.",
+  "status": "verified"
+}

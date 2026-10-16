@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:06.177599+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Broken",
+    "track_number": 1
+  },
+  "entity_id": "eff0cf0b-7b58-4fa1-8926-d957bf154908",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27c13e34-48c1-4dbe-85c2-cde27f189684",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Broken",
+    "title": "Broken"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Broken'.",
+  "status": "verified"
+}

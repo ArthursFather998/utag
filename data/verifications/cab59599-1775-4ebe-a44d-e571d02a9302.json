@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:29.980751+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Little More (2025)",
+    "track_number": 1
+  },
+  "entity_id": "55766613-4303-4039-932a-2f5a6293b472",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cab59599-1775-4ebe-a44d-e571d02a9302",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "A Little More (2025)",
+    "title": "A Little More (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Little More (2025)'.",
+  "status": "verified"
+}

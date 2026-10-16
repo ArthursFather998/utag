@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:02.700857+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Chemical Prisoner (2016)",
+    "track_number": 1
+  },
+  "entity_id": "6f43cba2-1e38-49fa-a8cd-fbfda3ed9ca3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3f26894-7d4b-485e-aa09-b1b98abfe744",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Chemical Prisoner (2016)",
+    "title": "Chemical Prisoner (2016)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Chemical Prisoner (2016)'.",
+  "status": "verified"
+}

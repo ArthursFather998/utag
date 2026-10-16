@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:44.447331+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Fake Your Death",
+    "track_number": 1
+  },
+  "entity_id": "05450bb6-619e-4ebc-830c-20f0ff0e4063",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a1b7330-6a24-49c7-943f-8a5c777bdf6c",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Fake Your Death",
+    "title": "Fake Your Death"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Fake Your Death'.",
+  "status": "verified"
+}

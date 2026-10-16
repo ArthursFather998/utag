@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:48.247107+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "We're Almost There",
+    "track_number": 1
+  },
+  "entity_id": "6fe64f09-225a-4f5c-aea7-5c05a8ec3e2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10cda50e-67d5-48fb-9750-009986d7d427",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "We're Almost There",
+    "title": "We're Almost There"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'We're Almost There'.",
+  "status": "verified"
+}

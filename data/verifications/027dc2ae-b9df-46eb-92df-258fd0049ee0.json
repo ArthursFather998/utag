@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:00.870317+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Small Bump (2012)",
+    "track_number": 1
+  },
+  "entity_id": "b8106c83-34a2-4754-a044-61bcfadf732d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "027dc2ae-b9df-46eb-92df-258fd0049ee0",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Small Bump (2012)",
+    "title": "Small Bump (2012)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Small Bump (2012)'.",
+  "status": "verified"
+}

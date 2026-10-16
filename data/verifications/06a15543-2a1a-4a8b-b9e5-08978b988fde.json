@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:39.169636+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sing",
+    "track_number": 1
+  },
+  "entity_id": "e55a785b-057f-4413-bc73-207f6e3c06a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "06a15543-2a1a-4a8b-b9e5-08978b988fde",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Sing",
+    "title": "Sing"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sing'.",
+  "status": "verified"
+}

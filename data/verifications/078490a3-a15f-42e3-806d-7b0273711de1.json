@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:18.302056+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Up Next Live From Apple Covent Garden",
+    "track_count": 6,
+    "tracklist": [
+      "Cyanide (Live)",
+      "Open Up (Live)",
+      "Complexities (Live)",
+      "Best Part (Live)",
+      "Get You (Live)",
+      "Superposition (Live)"
+    ]
+  },
+  "entity_id": "2f50fbfa-ba5b-4bad-9289-2783c8370b44",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "078490a3-a15f-42e3-806d-7b0273711de1",
+  "input": {
+    "artist": "Daniel Caesar",
+    "title": "Up Next Live From Apple Covent Garden",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://www.shazam.com/album/1800204112/up-next-live-from-apple-covent-garden-ep, https://www.classicrockhistory.com/complete-list-of-daniel-caesar-songs-from-a-to-z/. Live EP recorded at Apple Covent Garden, London (2019). All six are live versions of Case Study 01 and Freudian tracks.",
+  "status": "verified"
+}

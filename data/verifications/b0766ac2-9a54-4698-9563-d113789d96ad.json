@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:25.858357+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bossa Nova Baby",
+    "track_number": 1
+  },
+  "entity_id": "97627c8f-48e0-4d1a-be3d-d88308c5fc2d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b0766ac2-9a54-4698-9563-d113789d96ad",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Bossa Nova Baby",
+    "title": "Bossa Nova Baby"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bossa Nova Baby'.",
+  "status": "verified"
+}

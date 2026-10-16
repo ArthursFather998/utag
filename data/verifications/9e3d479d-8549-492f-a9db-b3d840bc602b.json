@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:55.043922+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I've Just Begun (Having My Fun)",
+    "track_number": 1
+  },
+  "entity_id": "48fb0562-f0bf-42a2-92d8-29de617d8b62",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e3d479d-8549-492f-a9db-b3d840bc602b",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "I've Just Begun (Having My Fun)",
+    "title": "I've Just Begun (Having My Fun)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I've Just Begun (Having My Fun)'.",
+  "status": "verified"
+}

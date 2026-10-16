@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:30.824572+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Her",
+    "track_number": 1
+  },
+  "entity_id": "df06379f-8dc3-40f9-80c2-33a2c87e2999",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f86ed50-8038-4d52-bde3-73e73e800124",
+  "input": {
+    "artist": "JVKE",
+    "release": "Her",
+    "title": "Her"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Her'.",
+  "status": "verified"
+}

@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:53.475919+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Short n' Sweet(est)",
+    "track_count": 13,
+    "tracklist": [
+      "Taste",
+      "Please Please Please",
+      "Good Graces",
+      "Sharpest Tool",
+      "Coincidence",
+      "Bed Chem",
+      "Espresso",
+      "Dumb & Poetic",
+      "Slim Pickins",
+      "Juno",
+      "Lie To Girls",
+      "Don't Smile",
+      "Taste (Demo)"
+    ]
+  },
+  "entity_id": "20087060-0503-4da2-8696-62885e9e6599",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "777465d2-2e04-48aa-b4c4-8665ecc480f8",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "title": "Short n' Sweet(est)",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://sabrina-carpenter.com/2024/09/03/2817/, https://sabrinacarpenter.fandom.com/wiki/Short_n'_Sweet. Limited-edition digital variant released Aug 29, 2024, sold exclusively via her webstore for one day (Billboard). Contains the standard album's 12 songs plus a demo recording of 'Taste' (track 13), listed as 'Taste (Demo)'. Distinct from the standard album and from the Feb 2025 Deluxe; NOT a duplicate.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:19.694417+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I'm Not a Vampire",
+    "track_number": 1
+  },
+  "entity_id": "14bac648-83db-4828-ab54-474ab8ae2aea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a654b558-dfc7-4121-893b-ba575dc08782",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "I'm Not a Vampire",
+    "title": "I'm Not a Vampire"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I'm Not a Vampire'.",
+  "status": "verified"
+}

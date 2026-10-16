@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:05.450868+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Rose-Colored Boy",
+    "track_number": 1
+  },
+  "entity_id": "208215ff-1d42-4984-8f1d-54f2423e8ec0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8eff8c2-bf8a-4da5-a5d6-430915f56484",
+  "input": {
+    "artist": "Paramore",
+    "release": "Rose-Colored Boy",
+    "title": "Rose-Colored Boy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Rose-Colored Boy'.",
+  "status": "verified"
+}

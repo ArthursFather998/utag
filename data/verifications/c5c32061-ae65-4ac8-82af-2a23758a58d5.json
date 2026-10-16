@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:56.347483+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Toxic (2004)",
+    "track_number": 1
+  },
+  "entity_id": "4f60d2a4-a9ca-434c-9e5d-211cab9b96ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c5c32061-ae65-4ac8-82af-2a23758a58d5",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Toxic (2004)",
+    "title": "Toxic (2004)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Toxic (2004)'.",
+  "status": "verified"
+}

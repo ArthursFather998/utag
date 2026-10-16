@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:35.379955+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Are You Lonesome Tonight? (1960)",
+    "track_number": 1
+  },
+  "entity_id": "6b0eeb40-7ecc-495d-92fb-d79924f9a46f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d90e563d-220c-4689-8147-6a03549ec23f",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Are You Lonesome Tonight? (1960)",
+    "title": "Are You Lonesome Tonight? (1960)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Are You Lonesome Tonight? (1960)'.",
+  "status": "verified"
+}

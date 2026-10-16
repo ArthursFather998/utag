@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:17.358446+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Is It Cool?",
+    "track_number": 1
+  },
+  "entity_id": "a0a2c808-6eaf-48ee-9577-32eca8ac0649",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "297845a9-053a-42b1-a4a6-d65b47c161e9",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Is It Cool?",
+    "title": "Is It Cool?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Is It Cool?'.",
+  "status": "verified"
+}

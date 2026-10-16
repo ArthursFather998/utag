@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:24.708794+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Beautiful",
+    "track_number": 1
+  },
+  "entity_id": "76aaf3b0-9f2b-40c1-8f2b-d9bf4dd473fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15f2e5ab-8aca-4ec6-a81c-6280b11cdb76",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Beautiful",
+    "title": "Beautiful"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Beautiful'.",
+  "status": "verified"
+}

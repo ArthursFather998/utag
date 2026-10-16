@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:36.034519+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "How Long (2017)",
+    "track_number": 1
+  },
+  "entity_id": "d76eb006-9ce0-4843-a601-7ab26943bb27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39aa84c7-b62f-46f0-86c8-370582f5f940",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "How Long (2017)",
+    "title": "How Long (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'How Long (2017)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:00.109764+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Don't Think I Can Do This Again (2019)",
+    "track_number": 1
+  },
+  "entity_id": "ca6521ad-d2c5-4603-bce6-48a500bce6e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39ce8a9f-d84d-440b-abdc-af6935c3e121",
+  "input": {
+    "artist": "Clairo",
+    "release": "I Don't Think I Can Do This Again (2019)",
+    "title": "I Don't Think I Can Do This Again (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Don't Think I Can Do This Again (2019)'.",
+  "status": "verified"
+}

@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:48.638071+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live at Electric Lady (2023)",
+    "track_count": 5,
+    "tracklist": [
+      "Bags",
+      "Amoeba",
+      "Zinnias",
+      "Partridge",
+      "Blouse"
+    ]
+  },
+  "entity_id": "de8a018a-7cd4-4633-b3f3-d1dd704ebad3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "20959f4a-5b6b-4105-86a4-62379ce4696e",
+  "input": {
+    "artist": "Clairo",
+    "title": "Live at Electric Lady (2023)",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://consequence.net/2023/05/clairo-live-at-electric-lady-ep-stream/, https://www.udiscovermusic.com/news/clairo-live-at-electric-lady-ep/. Spotify Live at Electric Lady EP, released May 12, 2023. 5 reimagined tracks. 'Live at Electric Lady (2023)' is a year-suffix duplicate.",
+  "status": "verified"
+}

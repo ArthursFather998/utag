@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:09.127314+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That's Hilarious (2022)",
+    "track_number": 1
+  },
+  "entity_id": "a31ae9ac-33c6-4f18-978c-58b5cdd57dfe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "997f5e63-fad7-4c5e-8bf0-5b946c3f7661",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "That's Hilarious (2022)",
+    "title": "That's Hilarious (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'That's Hilarious (2022)'.",
+  "status": "verified"
+}

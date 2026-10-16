@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:10.22861+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The National Anthem",
+    "track_number": 1
+  },
+  "entity_id": "0138f081-9af4-4d10-9e06-7101364c550f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "203be4e4-3e8d-47c8-aa05-5fc2e6c915e7",
+  "input": {
+    "artist": "Radiohead",
+    "release": "The National Anthem",
+    "title": "The National Anthem"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The National Anthem'.",
+  "status": "verified"
+}

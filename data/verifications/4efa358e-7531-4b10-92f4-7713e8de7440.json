@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:22.683417+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Night Before Christmas",
+    "track_number": 1
+  },
+  "entity_id": "0e84b1c4-4aab-4022-bddd-788909ffa178",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4efa358e-7531-4b10-92f4-7713e8de7440",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Night Before Christmas",
+    "title": "Night Before Christmas"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Night Before Christmas'.",
+  "status": "verified"
+}

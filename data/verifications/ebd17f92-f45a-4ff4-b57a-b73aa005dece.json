@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:53.722599+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kentucky Rain",
+    "track_number": 1
+  },
+  "entity_id": "be66249c-509d-44b3-8189-9d1e099014df",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ebd17f92-f45a-4ff4-b57a-b73aa005dece",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Kentucky Rain",
+    "title": "Kentucky Rain"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Kentucky Rain'.",
+  "status": "verified"
+}

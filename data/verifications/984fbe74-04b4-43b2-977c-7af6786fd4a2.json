@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:12:40.276882+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "From Elvis in Memphis",
+    "track_count": 12,
+    "tracklist": [
+      "Wearin' That Loved On Look",
+      "Only the Strong Survive",
+      "I'll Hold You in My Heart (Till I Can Hold You in My Arms)",
+      "Long Black Limousine",
+      "It Keeps Right On A-Hurtin'",
+      "I'm Movin' On",
+      "Power of My Love",
+      "Gentle on My Mind",
+      "After Loving You",
+      "True Love Travels on a Gravel Road",
+      "Any Day Now",
+      "In the Ghetto"
+    ]
+  },
+  "entity_id": "a394fbbd-267b-4535-a18a-17732d202990",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "984fbe74-04b4-43b2-977c-7af6786fd4a2",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "From Elvis in Memphis",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/From_Elvis_in_Memphis, https://www.allmusic.com/.",
+  "status": "verified"
+}

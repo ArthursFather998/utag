@@ -2125,6 +2125,127 @@
     "title": "Claire Cottrill (2015)",
     "updated_at": "2026-10-16T04:23:35.044964+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:08.29792+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a5e94a66-2123-47a4-80f7-b71b9447f831",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d4c9db9c-36ee-4777-bf16-26c1cf2caa7e",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Kiss Me, Kiss Me",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:42:08.29792+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:09.09456+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9fc771dd-7e0b-46e6-b7ba-616a36bc7360",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d4c9db9c-36ee-4777-bf16-26c1cf2caa7e",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "I Saw U Leave",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:42:09.09456+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:09.592602+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "49d0ad70-c2fb-4a29-83ac-2f0177ae1c5f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d4c9db9c-36ee-4777-bf16-26c1cf2caa7e",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "U Don't Want Me",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:42:09.592602+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:10.073592+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ccdabd67-52d8-4954-b186-fc110cf7ef4b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d4c9db9c-36ee-4777-bf16-26c1cf2caa7e",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Aquarius Boy",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:42:10.073592+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:10.618743+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e8725c59-4de5-49a8-904a-513b2cad1813",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "d4c9db9c-36ee-4777-bf16-26c1cf2caa7e",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Dreams",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:42:10.618743+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:42:11.362198+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Claire Cottrill (2015)",
+        "track_count": 5,
+        "tracklist": [
+          "Kiss Me, Kiss Me",
+          "I Saw U Leave",
+          "U Don't Want Me",
+          "Aquarius Boy",
+          "Dreams"
+        ]
+      },
+      "entity_id": "d4c9db9c-36ee-4777-bf16-26c1cf2caa7e",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "226b37f9-eacb-4c68-a373-ddf59dd114a5",
+      "input": {
+        "artist": "Clairo",
+        "title": "Claire Cottrill (2015)",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://clairo.fandom.com/wiki/Claire_Cottrill, https://en.wikipedia.org/wiki/Clairo_discography. EP, released April 18, 2015. First EP sold on handmade cassettes. 'Claire Cottrill (2015)' is a year-suffix duplicate.",
+      "status": "verified"
+    }
+  ]
 }

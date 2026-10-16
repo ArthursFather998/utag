@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:03.621888+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Satellite",
+    "track_number": 1
+  },
+  "entity_id": "b56bfbc6-a19f-4277-906b-418ac124625d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2aafcc80-9c93-4b3b-a62d-80dbb5a02d9c",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Satellite",
+    "title": "Satellite"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Satellite'.",
+  "status": "verified"
+}

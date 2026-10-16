@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:54.233958+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Golden",
+    "track_number": 1
+  },
+  "entity_id": "289ebd9b-0f4e-4994-b2ca-42d121614a29",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96b347e5-4799-465f-94b8-1e42bf703ee4",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Golden",
+    "title": "Golden"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Golden'.",
+  "status": "verified"
+}

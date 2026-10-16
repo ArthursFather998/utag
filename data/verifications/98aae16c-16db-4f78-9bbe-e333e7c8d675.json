@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:21.041978+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Visiting Hours",
+    "track_number": 1
+  },
+  "entity_id": "a70be63e-9ecc-4f9d-9098-b40d493ddd14",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "98aae16c-16db-4f78-9bbe-e333e7c8d675",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Visiting Hours",
+    "title": "Visiting Hours"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Visiting Hours'.",
+  "status": "verified"
+}

@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:18.805806+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Loves Me, Loves Me Not",
+    "track_count": 5,
+    "tracklist": [
+      "Breaking Hearts",
+      "How Do You Sleep?",
+      "Love Goes",
+      "To Die For",
+      "For the Lover That I Lost"
+    ]
+  },
+  "entity_id": "5ed5fb8d-4c0e-4d45-8106-5ee08bc1a6ce",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a79ac315-6a40-49ed-9786-f163b4ee0202",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Loves Me, Loves Me Not",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.muxicbeats.com/sam-smith-songs/, https://www.youtube.com/@samsmith. Concept EP, 5 tracks. Released December 1, 2020. Part of a series of flower-themed EPs. Verified against muxicbeats.com and Sam Smith's official YouTube channel (concept EP series confirmed).",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:40.871439+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Born to Lead (2013)",
+    "track_number": 1
+  },
+  "entity_id": "4b6a954f-d131-4de7-b7de-a403122bd1bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3181af7e-15ea-4d60-a1d9-e471746dee15",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Born to Lead (2013)",
+    "title": "Born to Lead (2013)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Born to Lead (2013)'.",
+  "status": "verified"
+}

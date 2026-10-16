@@ -1,0 +1,31 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:12.857742+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pilgrim's Paradise",
+    "track_count": 7,
+    "tracklist": [
+      "Trinity Bellwoods",
+      "Death & Taxes",
+      "Paradise (feat. BADBADNOTGOOD & Sean Leon)",
+      "A Cappella",
+      "Streetcar",
+      "Show No Regret",
+      "Little Rowboat"
+    ]
+  },
+  "entity_id": "a2e5dda4-6379-4348-8e00-ad23bcad261d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a2c07abf-3552-488f-a5d8-557c7831a250",
+  "input": {
+    "artist": "Daniel Caesar",
+    "title": "Pilgrim's Paradise",
+    "track_count": 7
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (7 tracks) per https://www.discogs.com/release/15662164-Daniel-Caesar-Pilgrims-Paradise, https://www.qobuz.com/se-en/album/pilgrims-paradise-daniel-caesar/qzyie2g9oh2oc. EP (November 12, 2015). 'Streetcar' is a reimagining of Kanye West's 'Street Lights'. Longlisted for the 2016 Polaris Music Prize. Standard 7-track digital edition (the 2025 vinyl reissue adds bonus tracks 'Violet' and 'Won't Live Here').",
+  "status": "verified"
+}

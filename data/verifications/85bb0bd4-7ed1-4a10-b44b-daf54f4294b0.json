@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:17.399632+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "See You Again",
+    "track_number": 1
+  },
+  "entity_id": "45a8b0bb-32a7-46d0-9af4-c18f08518a91",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85bb0bd4-7ed1-4a10-b44b-daf54f4294b0",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "See You Again",
+    "title": "See You Again"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'See You Again'.",
+  "status": "verified"
+}

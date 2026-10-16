@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:45.668205+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Careful",
+    "track_number": 1
+  },
+  "entity_id": "8c2211c0-b505-4a83-9698-3523b59aca4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b13c7439-507b-498f-a83e-50392777477b",
+  "input": {
+    "artist": "Paramore",
+    "release": "Careful",
+    "title": "Careful"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Careful'.",
+  "status": "verified"
+}

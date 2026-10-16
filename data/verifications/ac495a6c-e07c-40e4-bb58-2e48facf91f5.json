@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:15.193943+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Got to Be There",
+    "track_number": 1
+  },
+  "entity_id": "cde13c2c-a77a-47ee-b9cb-3e4b24c30be0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac495a6c-e07c-40e4-bb58-2e48facf91f5",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Got to Be There",
+    "title": "Got to Be There"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Got to Be There'.",
+  "status": "verified"
+}

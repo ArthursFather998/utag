@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:29.901118+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hold My Hand",
+    "track_number": 1
+  },
+  "entity_id": "8f94cd01-33f5-4d0d-9a43-62a61add59dd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b30a2a54-a0e3-4560-90e8-ac8671152864",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Hold My Hand",
+    "title": "Hold My Hand"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hold My Hand'.",
+  "status": "verified"
+}

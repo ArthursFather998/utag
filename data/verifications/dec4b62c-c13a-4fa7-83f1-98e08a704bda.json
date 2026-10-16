@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:01.4838+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Mercury",
+    "track_number": 1
+  },
+  "entity_id": "ec5deb81-479e-4d8f-9e52-3c27146a4e0f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dec4b62c-c13a-4fa7-83f1-98e08a704bda",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Mercury",
+    "title": "Mercury"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Mercury'.",
+  "status": "verified"
+}

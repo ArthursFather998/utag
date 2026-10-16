@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:48.883786+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That Guy",
+    "track_number": 1
+  },
+  "entity_id": "e955cdf5-1973-4cd3-ae0d-b96b65e1bb3e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a404ffb-2d2b-4da7-9397-b51a363653fc",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "That Guy",
+    "title": "That Guy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'That Guy'.",
+  "status": "verified"
+}

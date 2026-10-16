@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:16.035433+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Can't Blame a Girl for Trying",
+    "track_number": 1
+  },
+  "entity_id": "f80a8725-b4af-4516-a560-92f93e3efbe1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8c256c3-a3ba-4e9e-be86-3cbb5c68c56d",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Can't Blame a Girl for Trying",
+    "title": "Can't Blame a Girl for Trying"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Can't Blame a Girl for Trying'.",
+  "status": "verified"
+}

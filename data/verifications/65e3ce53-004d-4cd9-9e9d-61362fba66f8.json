@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:36.530067+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad Day All Week",
+    "track_number": 1
+  },
+  "entity_id": "d80090dc-5052-475b-bac1-a4645289093a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "65e3ce53-004d-4cd9-9e9d-61362fba66f8",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Bad Day All Week",
+    "title": "Bad Day All Week"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad Day All Week'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:21.1744+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Drugs (2019)",
+    "track_number": 1
+  },
+  "entity_id": "4f8a4bdc-e9d0-42ae-8297-93de66efe8cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0f84d63e-a674-44bc-a2fd-a9391bb38bd1",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Drugs (2019)",
+    "title": "Drugs (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Drugs (2019)'.",
+  "status": "verified"
+}

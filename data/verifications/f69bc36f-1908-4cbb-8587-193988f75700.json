@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:08.220941+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Feeling",
+    "track_number": 1
+  },
+  "entity_id": "055a4187-ee81-414f-bb3f-561d18e3d290",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f69bc36f-1908-4cbb-8587-193988f75700",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "The Feeling",
+    "title": "The Feeling"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Feeling'.",
+  "status": "verified"
+}

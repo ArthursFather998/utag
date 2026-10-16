@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:21.567801+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "From the Bottom of My Broken Heart",
+    "track_number": 1
+  },
+  "entity_id": "d0613289-e1bb-41f1-ab49-3c1b62a23d33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9ae6fc5-c3e5-4fdd-857a-d207a26e2a1f",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "From the Bottom of My Broken Heart",
+    "title": "From the Bottom of My Broken Heart"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'From the Bottom of My Broken Heart'.",
+  "status": "verified"
+}

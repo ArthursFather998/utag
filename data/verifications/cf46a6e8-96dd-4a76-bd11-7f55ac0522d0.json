@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:10:30.226612+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Black Parade: The B-Sides",
+    "track_count": 5,
+    "tracklist": [
+      "My Way Home Is Through You",
+      "Famous Last Words (Live)",
+      "Kill All Your Friends",
+      "Welcome to the Black Parade (Live)",
+      "Heaven Help Us"
+    ]
+  },
+  "entity_id": "5dac9d1b-b586-4209-b37a-182d990c6eb8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "cf46a6e8-96dd-4a76-bd11-7f55ac0522d0",
+  "input": {
+    "artist": "My Chemical Romance",
+    "title": "The Black Parade: The B-Sides",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/4722179-My-Chemical-Romance-The-Black-Parade-The-B-Sides, https://www.deezer.com/album/271736. Digital EP released February 3, 2009 by Reprise Records. All five tracks previously appeared as B-sides on singles from The Black Parade. Live tracks (2 and 4) recorded October 14, 2006 at O2 Music Flash, E-Werk, Berlin, Germany.",
+  "status": "verified"
+}

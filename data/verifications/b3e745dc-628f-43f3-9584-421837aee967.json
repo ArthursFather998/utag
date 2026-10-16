@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:16.130269+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Suffer (Vince Staples & AndreaLo Remix) (2016)",
+    "track_number": 1
+  },
+  "entity_id": "22b753c5-bcf5-47d5-85fc-1fc3bb963446",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3e745dc-628f-43f3-9584-421837aee967",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Suffer (Vince Staples & AndreaLo Remix) (2016)",
+    "title": "Suffer (Vince Staples & AndreaLo Remix) (2016)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Suffer (Vince Staples & AndreaLo Remix) (2016)'.",
+  "status": "verified"
+}

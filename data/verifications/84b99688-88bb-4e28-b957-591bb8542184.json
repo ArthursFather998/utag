@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:50.451215+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live and in Session",
+    "track_count": 5,
+    "tracklist": [
+      "Sing (Live and in Session)",
+      "You Need Me, I Don't Need You (Live and in Session)",
+      "The A Team (Live and in Session)",
+      "I See Fire (Live and in Session)",
+      "One (Live and in Session)"
+    ]
+  },
+  "entity_id": "0fd601e2-c3ba-4ead-83cf-182321c78f76",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "84b99688-88bb-4e28-b957-591bb8542184",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Live and in Session",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://albumblitz.com/ed-sheeran-live-and-in-session/, https://lyrics.rare-lyrics.com/artist/19. 2014 live digital EP (Atlantic) tied to 'x' promotion. NOT 6 tracks: 5 live tracks confirmed by three indexes (albumblitz.com, rare-lyrics.com, daletra.net); a fourth (rclyricsband.com) lists only 4, apparently missing 'You Need Me, I Don't Need You'. Order follows albumblitz (numbered tracks with durations, cover art sourced from Spotify); rare-lyrics lists the same 5 tracks in a different (likely alphabetical) order. One AI-generated page claimed 4 tracks - excluded as unreliable.",
+  "status": "verified"
+}

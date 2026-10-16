@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:55:33.008715+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Welcome to My World",
+    "track_count": 10,
+    "tracklist": [
+      "Welcome to My World (Live)",
+      "Help Me Make It Through the Night",
+      "Release Me (And Let Me Love Again) (Live)",
+      "I Really Don't Want to Know",
+      "For the Good Times (Live)",
+      "Make the World Go Away",
+      "Gentle on My Mind",
+      "I'm So Lonesome I Could Cry (Live)",
+      "Your Cheatin' Heart",
+      "I Can't Stop Loving You (Live)"
+    ]
+  },
+  "entity_id": "660ff1c7-4e7b-4e52-8bab-098e3456e817",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "25dbd3e1-ccc2-4aea-8b39-388391a54279",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Welcome to My World",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/Welcome_to_My_World_(Elvis_Presley_album), https://www.discogs.com/release/4791870-Elvis-Presley-Welcome-To-My-World. 1977 RCA compilation (APL1-2274) of country-flavoured songs, a mix of live and studio cuts. 'I Can't Stop Loving You' (live, June 10, 1972 Madison Square Garden afternoon show) was previously unreleased; all other tracks had been previously issued. 10-track sequence identical across Wikipedia, Discogs 1992 CD reissue, MusicChartsArchive and RareVinyl UK LP listing. Certified Platinum by the RIAA.",
+  "status": "verified"
+}

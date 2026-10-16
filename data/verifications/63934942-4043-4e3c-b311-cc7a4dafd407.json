@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:11.359368+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Till the World Ends",
+    "track_number": 1
+  },
+  "entity_id": "400012d0-10d3-4757-99f1-7253af2760dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "63934942-4043-4e3c-b311-cc7a4dafd407",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Till the World Ends",
+    "title": "Till the World Ends"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Till the World Ends'.",
+  "status": "verified"
+}

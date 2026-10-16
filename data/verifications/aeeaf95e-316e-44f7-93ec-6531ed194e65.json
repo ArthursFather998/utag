@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:56.071989+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Run Your Mouth",
+    "track_number": 1
+  },
+  "entity_id": "78312972-6a80-481a-9d37-5a81bb6f755d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aeeaf95e-316e-44f7-93ec-6531ed194e65",
+  "input": {
+    "artist": "The Marías",
+    "release": "Run Your Mouth",
+    "title": "Run Your Mouth"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Run Your Mouth'.",
+  "status": "verified"
+}

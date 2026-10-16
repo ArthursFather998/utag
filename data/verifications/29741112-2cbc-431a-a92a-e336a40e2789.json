@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:14.260766+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Stronger",
+    "track_number": 1
+  },
+  "entity_id": "2b7ad27d-7454-4049-b22f-b3c46345f279",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "29741112-2cbc-431a-a92a-e336a40e2789",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Stronger",
+    "title": "Stronger"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Stronger'.",
+  "status": "verified"
+}

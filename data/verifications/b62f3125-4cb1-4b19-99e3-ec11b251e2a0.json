@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:55.910759+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "made for me",
+    "track_number": 1
+  },
+  "entity_id": "14c25866-192b-48cd-a134-0051b221f64c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b62f3125-4cb1-4b19-99e3-ec11b251e2a0",
+  "input": {
+    "artist": "JVKE",
+    "release": "made for me",
+    "title": "made for me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'made for me'.",
+  "status": "verified"
+}

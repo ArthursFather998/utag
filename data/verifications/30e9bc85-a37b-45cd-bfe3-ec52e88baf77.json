@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:59.641967+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hate CD",
+    "track_number": 1
+  },
+  "entity_id": "e8b843af-e6c1-4ad8-b49b-a8a62c357e8b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "30e9bc85-a37b-45cd-bfe3-ec52e88baf77",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Hate CD",
+    "title": "Hate CD"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hate CD'.",
+  "status": "verified"
+}

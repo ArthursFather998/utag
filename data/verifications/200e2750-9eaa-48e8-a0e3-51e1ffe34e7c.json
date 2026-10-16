@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:45.925934+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Moonlight (2018)",
+    "track_number": 1
+  },
+  "entity_id": "128a73dc-d79a-4838-82b2-3c25fd73658b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "200e2750-9eaa-48e8-a0e3-51e1ffe34e7c",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Moonlight (2018)",
+    "title": "Moonlight (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Moonlight (2018)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:29.099111+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Clouds",
+    "track_number": 1
+  },
+  "entity_id": "e9d9ed20-c78d-4864-8089-a2f19d8f467c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c145da6-09ca-442e-b1c1-8db417c8a0f9",
+  "input": {
+    "artist": "JVKE",
+    "release": "Clouds",
+    "title": "Clouds"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Clouds'.",
+  "status": "verified"
+}

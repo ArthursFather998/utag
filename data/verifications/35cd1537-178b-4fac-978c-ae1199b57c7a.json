@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:25:49.472373+00:00",
+  "created_by": "hermes-tracklist",
+  "decision": "verified",
+  "entity_id": "e5fa1fea-ade2-42b5-b035-83e2e6a57e54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35cd1537-178b-4fac-978c-ae1199b57c7a",
+  "input": "{\"title\": \"That's All Right\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Title track for single 'That's All Right'",
+  "status": "verified"
+}

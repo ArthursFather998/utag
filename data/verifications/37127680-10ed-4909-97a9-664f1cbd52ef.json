@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:41.905491+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Eyes Closed",
+    "track_number": 1
+  },
+  "entity_id": "8c9e5962-097d-4649-baa6-036567ec3a81",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37127680-10ed-4909-97a9-664f1cbd52ef",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Eyes Closed",
+    "title": "Eyes Closed"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Eyes Closed'.",
+  "status": "verified"
+}

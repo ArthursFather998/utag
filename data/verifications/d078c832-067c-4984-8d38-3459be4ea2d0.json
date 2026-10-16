@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:21.573579+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is What Autumn Feels Like",
+    "track_number": 1
+  },
+  "entity_id": "218a57c0-61af-424d-ad0e-763cc32e7468",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d078c832-067c-4984-8d38-3459be4ea2d0",
+  "input": {
+    "artist": "JVKE",
+    "release": "This Is What Autumn Feels Like",
+    "title": "This Is What Autumn Feels Like"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Is What Autumn Feels Like'.",
+  "status": "verified"
+}

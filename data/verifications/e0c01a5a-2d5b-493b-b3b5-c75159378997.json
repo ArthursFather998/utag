@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:27.877193+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Holidays - Single (2024)",
+    "track_number": 1
+  },
+  "entity_id": "2b086fae-c153-4d66-b376-ea3afde2962d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0c01a5a-2d5b-493b-b3b5-c75159378997",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Holidays - Single (2024)",
+    "title": "Holidays - Single (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Holidays - Single (2024)'.",
+  "status": "verified"
+}

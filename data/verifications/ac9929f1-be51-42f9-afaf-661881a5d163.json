@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:52.369368+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Promise",
+    "track_number": 1
+  },
+  "entity_id": "a5546798-3863-4f82-b3f1-0d470f61932d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac9929f1-be51-42f9-afaf-661881a5d163",
+  "input": {
+    "artist": "Radiohead",
+    "release": "I Promise",
+    "title": "I Promise"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Promise'.",
+  "status": "verified"
+}

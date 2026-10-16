@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:10:36.349478+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Mad Gear and Missile Kid",
+    "track_count": 3,
+    "tracklist": [
+      "F.T.W.W.W.",
+      "Mastas of Ravenkroft",
+      "Black Dragon Fighting Society"
+    ]
+  },
+  "entity_id": "c122852e-81ca-4359-bd46-fe0dc67ad595",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "11cace38-d386-47c1-bb90-fe8aae1b3f52",
+  "input": {
+    "artist": "My Chemical Romance",
+    "title": "The Mad Gear and Missile Kid",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://www.discogs.com/release/32462778-My-Chemical-Romance-The-Mad-Gear-And-Missile-Kid, https://www.last.fm/music/My+Chemical+Romance/The+Mad+Gear+and+Missile+Kid+EP. Exclusive 3-track EP by MCR's fictional alter-ego band, released November 22, 2010. Originally bundled with the limited (5000-copy) Danger Days: The True Lives of the Fabulous Killjoys California 2019 Edition box set; released to streaming services August 2022. First and only MCR release featuring Michael Pedicone on drums.",
+  "status": "verified"
+}

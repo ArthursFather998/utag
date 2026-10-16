@@ -1268,6 +1268,127 @@
     "title": "Roses Are Red",
     "updated_at": "2026-10-16T04:06:41.733727+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:05.604717+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a1abdbd9-8382-489a-92df-11a65eb736bd",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "08ac00af-7571-4f70-95d2-fa7c72799360",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Dance ('Til You Love Someone Else)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:32:05.604717+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:06.164886+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "18d2d5e7-04db-4718-8c98-92cb6cbd3952",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "08ac00af-7571-4f70-95d2-fa7c72799360",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Diamonds",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:32:06.164886+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:06.787078+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4804d191-4449-48e9-a9b9-f1bbbe61a3ca",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "08ac00af-7571-4f70-95d2-fa7c72799360",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Latch",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:32:06.787078+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:07.538652+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "790b601d-039c-4750-a4a0-9bd383ef5ff6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "08ac00af-7571-4f70-95d2-fa7c72799360",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Dancing with a Stranger",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:32:07.538652+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:08.150438+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "84e5b891-3ce8-4d8b-9668-d66fda67a22f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "08ac00af-7571-4f70-95d2-fa7c72799360",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Temptation",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:32:08.150438+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:32:08.921249+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Roses Are Red",
+        "track_count": 5,
+        "tracklist": [
+          "Dance ('Til You Love Someone Else)",
+          "Diamonds",
+          "Latch",
+          "Dancing with a Stranger",
+          "Temptation"
+        ]
+      },
+      "entity_id": "08ac00af-7571-4f70-95d2-fa7c72799360",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "e2bb49ec-a437-49f7-8635-f509872c3a3d",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "Roses Are Red",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://www.muxicbeats.com/sam-smith-songs/, https://www.youtube.com/@samsmith. Concept EP, 5 tracks. Released November 17, 2020. Part of a series of flower-themed EPs. Verified against muxicbeats.com and Sam Smith's official YouTube channel (concept EP series confirmed).",
+      "status": "verified"
+    }
+  ]
 }

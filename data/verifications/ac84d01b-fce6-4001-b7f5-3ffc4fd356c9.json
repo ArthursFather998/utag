@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:41.829224+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blessed",
+    "track_number": 1
+  },
+  "entity_id": "cb86f484-aba4-469a-b6b6-178f9a0ab2a9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ac84d01b-fce6-4001-b7f5-3ffc4fd356c9",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Blessed",
+    "title": "Blessed"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Blessed'.",
+  "status": "verified"
+}

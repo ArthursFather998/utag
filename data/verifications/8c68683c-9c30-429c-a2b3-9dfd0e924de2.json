@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:44.247115+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Beautiful Game",
+    "track_number": 1
+  },
+  "entity_id": "f2578734-71d0-4013-81ac-c1b5788af2f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c68683c-9c30-429c-a2b3-9dfd0e924de2",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "A Beautiful Game",
+    "title": "A Beautiful Game"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Beautiful Game'.",
+  "status": "verified"
+}

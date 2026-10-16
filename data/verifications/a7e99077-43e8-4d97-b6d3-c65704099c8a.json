@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:10:25.130415+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Joseph (2026)",
+    "track_number": 1
+  },
+  "entity_id": "18eb84ad-f2a9-4a56-8600-a504f843b8f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7e99077-43e8-4d97-b6d3-c65704099c8a",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Joseph (2026)",
+    "title": "Joseph (2026)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Joseph (2026)'.",
+  "status": "verified"
+}

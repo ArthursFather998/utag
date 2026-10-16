@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:09.500321+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Thinking Out Loud (2014)",
+    "track_number": 1
+  },
+  "entity_id": "ad460ffc-b5d6-49a6-a8b4-083e9ba61b66",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1fd8a7d7-2488-46b2-8add-fc755bf7e1af",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Thinking Out Loud (2014)",
+    "title": "Thinking Out Loud (2014)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Thinking Out Loud (2014)'.",
+  "status": "verified"
+}

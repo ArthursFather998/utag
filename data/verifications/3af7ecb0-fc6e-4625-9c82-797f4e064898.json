@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:55.282692+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "We Don't Talk Anymore (featuring Selena Gomez)",
+    "track_number": 1
+  },
+  "entity_id": "98428e82-d438-4faf-97d8-a8e62e0c8187",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3af7ecb0-fc6e-4625-9c82-797f4e064898",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "We Don't Talk Anymore (featuring Selena Gomez)",
+    "title": "We Don't Talk Anymore (featuring Selena Gomez)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'We Don't Talk Anymore (featuring Selena Gomez)'.",
+  "status": "verified"
+}

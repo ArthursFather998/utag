@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:09.574297+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "2 Hold U (2017)",
+    "track_number": 1
+  },
+  "entity_id": "3a809872-aa11-48aa-937c-d6dbedf975b7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8798cea-40c2-4651-bbf5-3d240c8993a5",
+  "input": {
+    "artist": "Clairo",
+    "release": "2 Hold U (2017)",
+    "title": "2 Hold U (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '2 Hold U (2017)'.",
+  "status": "verified"
+}

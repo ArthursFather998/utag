@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:21.412875+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Make It Rain (2014)",
+    "track_number": 1
+  },
+  "entity_id": "1037d526-98cc-42b7-853f-8e59c203f82c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b60a619a-6b33-4878-8876-6722298e85bf",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Make It Rain (2014)",
+    "title": "Make It Rain (2014)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Make It Rain (2014)'.",
+  "status": "verified"
+}

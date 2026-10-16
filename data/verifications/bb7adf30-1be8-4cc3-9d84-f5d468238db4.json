@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:38.708615+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Winner",
+    "track_number": 1
+  },
+  "entity_id": "e1e44c21-d5dd-4878-a1b1-f9c590235e99",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb7adf30-1be8-4cc3-9d84-f5d468238db4",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Winner",
+    "title": "Winner"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Winner'.",
+  "status": "verified"
+}

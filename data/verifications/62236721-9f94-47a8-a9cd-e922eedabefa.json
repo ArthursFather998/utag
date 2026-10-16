@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:25.162383+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "And Then We Kiss",
+    "track_number": 1
+  },
+  "entity_id": "4ff86b0e-bc03-4160-a1d3-efa1b45ed808",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "62236721-9f94-47a8-a9cd-e922eedabefa",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "And Then We Kiss",
+    "title": "And Then We Kiss"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'And Then We Kiss'.",
+  "status": "verified"
+}

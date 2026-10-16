@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:10:17.533148+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "God Is a Weapon (2025)",
+    "track_number": 1
+  },
+  "entity_id": "c6264ca3-13c2-4774-9b05-2ae0f566735d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "921f7895-5044-4334-9990-ece857a1d70b",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "God Is a Weapon (2025)",
+    "title": "God Is a Weapon (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'God Is a Weapon (2025)'.",
+  "status": "verified"
+}

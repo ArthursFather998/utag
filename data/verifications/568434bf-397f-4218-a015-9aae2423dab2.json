@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:47.469052+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That's All Right",
+    "track_number": 1
+  },
+  "entity_id": "e5fa1fea-ade2-42b5-b035-83e2e6a57e54",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "568434bf-397f-4218-a015-9aae2423dab2",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "That's All Right",
+    "title": "That's All Right"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'That's All Right'.",
+  "status": "verified"
+}

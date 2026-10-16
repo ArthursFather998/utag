@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:56.15611+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cherry Bomb Instrumentals",
+    "track_count": 14,
+    "tracklist": [
+      "Deathcamp (Instrumental)",
+      "Buffalo (Instrumental)",
+      "Pilot (Instrumental)",
+      "Run (Instrumental)",
+      "Find Your Wings (Instrumental)",
+      "Cherry Bomb (Instrumental)",
+      "Blow My Load (Instrumental)",
+      "2Seater (Instrumental)",
+      "The Brown Stains of Darkeese Latifah Part 6-12 (Remix) (Instrumental)",
+      "Fucking Young / Perfect (Instrumental)",
+      "Smuckers (Instrumental)",
+      "Keep Da O's (Instrumental)",
+      "Okaga, CA (Instrumental)",
+      "Yellow (Instrumental)"
+    ]
+  },
+  "entity_id": "85b0cc9f-032b-467d-a52e-7de8156511db",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3035a571-531b-4cc3-ae39-a01d340bfd85",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Cherry Bomb Instrumentals",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://www.discogs.com/release/15796413-TylerCreator-Cherry-Bomb-Instrumentals, https://www.discogs.com/release/15836751-TylerCreator-Cherry-Bomb-Instrumentals. Record Store Day 2020 exclusive 2xLP (pink vinyl, 4,500 copies). 13 instrumental versions of the standard Cherry Bomb tracks in the same order, PLUS Yellow as the final track (D3) - listed on LP2 inner sleeve. Digital 2018 edition also mirrors the 13-track order. Track 9 full title 'The Brown Stains of Darkeese Latifah Part 6-12 (Remix)' confirmed by goodrecordstogo.com.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:52.469273+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Busy Woman",
+    "track_number": 1
+  },
+  "entity_id": "28fabc73-f747-4ed9-838b-156be1539ef0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7424042b-1fa2-4c35-8683-c8fb507b6995",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Busy Woman",
+    "title": "Busy Woman"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Busy Woman'.",
+  "status": "verified"
+}

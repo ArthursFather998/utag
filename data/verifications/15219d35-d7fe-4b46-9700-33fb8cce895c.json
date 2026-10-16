@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:35.958276+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Have Yourself a Merry Little Christmas",
+    "track_number": 1
+  },
+  "entity_id": "ca30962a-7a10-4215-aecb-d1e6f28f7438",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15219d35-d7fe-4b46-9700-33fb8cce895c",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Have Yourself a Merry Little Christmas",
+    "title": "Have Yourself a Merry Little Christmas"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Have Yourself a Merry Little Christmas'.",
+  "status": "verified"
+}

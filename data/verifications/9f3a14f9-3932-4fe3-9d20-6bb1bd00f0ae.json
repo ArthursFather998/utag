@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:48.111741+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Fuck You and All Your Friends (2017)",
+    "track_number": 1
+  },
+  "entity_id": "cffb8506-1272-4692-bc06-7ed72f859904",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f3a14f9-3932-4fe3-9d20-6bb1bd00f0ae",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Fuck You and All Your Friends (2017)",
+    "title": "Fuck You and All Your Friends (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Fuck You and All Your Friends (2017)'.",
+  "status": "verified"
+}

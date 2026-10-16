@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:37.078092+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Winner - Single (2023)",
+    "track_number": 1
+  },
+  "entity_id": "5c1fcd82-3c98-4d87-bbd7-973461d96425",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8dbdb04-2149-4d06-a92e-3cab823e9c04",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Winner - Single (2023)",
+    "title": "Winner - Single (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Winner - Single (2023)'.",
+  "status": "verified"
+}

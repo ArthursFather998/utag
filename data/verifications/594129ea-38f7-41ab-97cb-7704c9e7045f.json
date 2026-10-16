@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:30.548724+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "When It's Alright",
+    "track_number": 1
+  },
+  "entity_id": "e3602440-d34b-43bb-b79b-bd440d22f28f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "594129ea-38f7-41ab-97cb-7704c9e7045f",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "When It's Alright",
+    "title": "When It's Alright"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'When It's Alright'.",
+  "status": "verified"
+}

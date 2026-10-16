@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:36.193789+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "These Are My Twisted Words",
+    "track_number": 1
+  },
+  "entity_id": "394c2458-2d8e-4318-ac3c-3b3384ba4301",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e8fb307f-0533-40ac-97c4-a87e28972c9a",
+  "input": {
+    "artist": "Radiohead",
+    "release": "These Are My Twisted Words",
+    "title": "These Are My Twisted Words"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'These Are My Twisted Words'.",
+  "status": "verified"
+}

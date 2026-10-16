@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:18.580752+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Someday (I Will Understand)",
+    "track_number": 1
+  },
+  "entity_id": "880ec501-b232-415e-9717-35bb1f2bd135",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4b8ec043-a5de-482d-b33e-51bf239fdd0d",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Someday (I Will Understand)",
+    "title": "Someday (I Will Understand)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Someday (I Will Understand)'.",
+  "status": "verified"
+}

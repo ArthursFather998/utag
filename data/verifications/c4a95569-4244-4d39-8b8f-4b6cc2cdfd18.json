@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:41.513773+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Toxic",
+    "track_number": 1
+  },
+  "entity_id": "ddbe6555-f49f-4f9a-be3a-c7d6d8b8a80c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4a95569-4244-4d39-8b8f-4b6cc2cdfd18",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Toxic",
+    "title": "Toxic"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Toxic'.",
+  "status": "verified"
+}

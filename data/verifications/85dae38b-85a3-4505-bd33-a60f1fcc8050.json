@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:37.048407+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Forever My Love (2022)",
+    "track_number": 1
+  },
+  "entity_id": "9fb97887-43d0-4c89-a802-61c5a13dbae0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "85dae38b-85a3-4505-bd33-a60f1fcc8050",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Forever My Love (2022)",
+    "title": "Forever My Love (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Forever My Love (2022)'.",
+  "status": "verified"
+}

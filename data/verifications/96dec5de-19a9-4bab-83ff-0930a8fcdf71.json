@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:51.279507+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Bends",
+    "track_number": 1
+  },
+  "entity_id": "33bca6d6-b17f-474b-91e8-4fbad5d80eff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "96dec5de-19a9-4bab-83ff-0930a8fcdf71",
+  "input": {
+    "artist": "Radiohead",
+    "release": "The Bends",
+    "title": "The Bends"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Bends'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:48.941729+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Caramel",
+    "track_number": 1
+  },
+  "entity_id": "4cac36e0-e893-4f99-9633-7c424c319e88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "107d171d-57bf-4e96-85a7-e44c1dcc4577",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Caramel",
+    "title": "Caramel"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Caramel'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:57.683896+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "If You Say the Word",
+    "track_number": 1
+  },
+  "entity_id": "2084eebf-a328-4b6e-95f7-34a8740438f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d370f220-0510-4fa5-b713-a8f68ac267d1",
+  "input": {
+    "artist": "Radiohead",
+    "release": "If You Say the Word",
+    "title": "If You Say the Word"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'If You Say the Word'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:40.134269+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Brick by Boring Brick",
+    "track_number": 1
+  },
+  "entity_id": "8e437ddc-8199-42fd-bd83-9126015aa481",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3aaf8fb1-6936-41ad-8c12-6c968bb0c9ba",
+  "input": {
+    "artist": "Paramore",
+    "release": "Brick by Boring Brick",
+    "title": "Brick by Boring Brick"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Brick by Boring Brick'.",
+  "status": "verified"
+}

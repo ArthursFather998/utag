@@ -1,0 +1,42 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:36.870997+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Number Ones",
+    "track_count": 18,
+    "tracklist": [
+      "Don't Stop 'Til You Get Enough",
+      "Rock with You",
+      "Billie Jean",
+      "Beat It",
+      "Thriller",
+      "I Just Can't Stop Loving You",
+      "Bad",
+      "Smooth Criminal",
+      "The Way You Make Me Feel",
+      "Man in the Mirror",
+      "Dirty Diana",
+      "Black or White",
+      "You Are Not Alone",
+      "Earth Song",
+      "You Rock My World",
+      "Break of Dawn",
+      "One More Chance",
+      "Ben (Live)"
+    ]
+  },
+  "entity_id": "40f101a7-65ae-48e1-b419-d30b7150563f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b64f8b27-6d8e-4f95-b581-e02350dcc239",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Number Ones",
+    "track_count": 18
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (18 tracks) per https://en.wikipedia.org/wiki/Number_Ones_(Michael_Jackson_album), https://simple.wikipedia.org/wiki/Number_Ones_(Michael_Jackson_album). Compilation (2003). North American 18-track version used (international version swaps some tracks). 'Ben (Live)' is from the 1981 Triumph Tour.",
+  "status": "verified"
+}

@@ -20,7 +20,30 @@
       "width": null
     }
   ],
-  "corrections": [],
+  "corrections": [
+    {
+      "created_at": "2026-10-16T06:03:18.472007+00:00",
+      "entity_id": "da9e7a3b-a0d7-48fe-82ba-b4e3f77642a6",
+      "entity_type": "release",
+      "field": "release_status",
+      "id": "be0a4a3b-3df6-455a-850c-1c1b2d7ae917",
+      "new_value": "released",
+      "note": null,
+      "old_value": "",
+      "source": "manual"
+    },
+    {
+      "created_at": "2026-10-16T06:03:16.488982+00:00",
+      "entity_id": "da9e7a3b-a0d7-48fe-82ba-b4e3f77642a6",
+      "entity_type": "release",
+      "field": "release_type",
+      "id": "9755d8ee-85e7-4183-ae9b-6e3236ccc740",
+      "new_value": "ep",
+      "note": null,
+      "old_value": "album",
+      "source": "manual"
+    }
+  ],
   "more_from_artist": [
     {
       "artists": {
@@ -1626,13 +1649,13 @@
     "label": null,
     "mbid": null,
     "release_date": null,
-    "release_status": null,
-    "release_type": "album",
+    "release_status": "released",
+    "release_type": "ep",
     "release_year": 2023,
     "spotify_id": null,
     "status": "high_confidence",
     "title": "Petals to Thorns",
-    "updated_at": "2026-10-14T01:01:40.53214+00:00"
+    "updated_at": "2026-10-16T06:03:18.361845+00:00"
   },
   "tracks": [
     {

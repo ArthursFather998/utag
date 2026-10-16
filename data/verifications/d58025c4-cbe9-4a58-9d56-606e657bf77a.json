@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:44.992933+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wish You Were Here (2012)",
+    "track_number": 1
+  },
+  "entity_id": "bc092611-abb3-47ab-a3c2-3b922a6d8186",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d58025c4-cbe9-4a58-9d56-606e657bf77a",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Wish You Were Here (2012)",
+    "title": "Wish You Were Here (2012)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wish You Were Here (2012)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:29.127504+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Exhale",
+    "track_number": 1
+  },
+  "entity_id": "59cc6c1f-b339-455b-bdb4-991fd2cc1c16",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0013d1fd-b2e2-4294-acaf-17ea21c58de6",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Exhale",
+    "title": "Exhale"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Exhale'.",
+  "status": "verified"
+}

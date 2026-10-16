@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:21.617551+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lipstick (2023)",
+    "track_number": 1
+  },
+  "entity_id": "c6b0f498-7e42-42c0-8fde-37c34f310932",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a1cc411-9008-4ed3-896b-877f4e7a49cb",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Lipstick (2023)",
+    "title": "Lipstick (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lipstick (2023)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:48.40483+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Light Switch",
+    "track_number": 1
+  },
+  "entity_id": "21d60419-1027-4e30-9222-99957ffe35bd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bf76dc1d-62b5-4379-bd60-f741775ea007",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Light Switch",
+    "title": "Light Switch"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Light Switch'.",
+  "status": "verified"
+}

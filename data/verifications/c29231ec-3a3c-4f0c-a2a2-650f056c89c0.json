@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:13.395377+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Seem Pretty Sad for a Girl So in Love",
+    "track_count": 13,
+    "tracklist": [
+      "Drop Dead",
+      "Stupid Song",
+      "Honeybee",
+      "Maggots for Brains",
+      "U + Me = <3",
+      "My Way",
+      "Purple",
+      "The Cure",
+      "Begged",
+      "What's Wrong with Me",
+      "Less",
+      "Expectations",
+      "Cigarette Smoke"
+    ]
+  },
+  "entity_id": "5cc704ef-878a-45f8-920e-bc24515d8a2a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c29231ec-3a3c-4f0c-a2a2-650f056c89c0",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "title": "You Seem Pretty Sad for a Girl So in Love",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/You_Seem_Pretty_Sad_for_a_Girl_So_in_Love, https://www.discogs.com/release/37593093-Olivia-Rodrigo-You-Seem-Pretty-Sad-For-A-Girl-So-In-Love. Third studio album, released June 12, 2026 via Geffen. 13 tracks. 'What's Wrong with Me' features Robert Smith of The Cure (first guest appearance on her studio album). 'Expectations' had a remix featuring Chappell Roan released as the fourth single; album version is Olivia solo.",
+  "status": "verified"
+}

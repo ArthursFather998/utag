@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:51.550643+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "One Night",
+    "track_number": 1
+  },
+  "entity_id": "b688a2d9-1d32-4e46-a94b-3318adf9cdb9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a3036d92-ffa2-47c8-98df-b66c6a28d671",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "One Night",
+    "title": "One Night"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'One Night'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:11.873907+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "good 4 u",
+    "track_number": 1
+  },
+  "entity_id": "727103cc-7ce6-431d-b327-729a34531232",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "079556f3-1775-404c-be68-09c5d937e6b3",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "good 4 u",
+    "title": "good 4 u"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'good 4 u'.",
+  "status": "verified"
+}

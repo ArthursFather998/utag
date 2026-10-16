@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:56.097806+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Best Part (2017)",
+    "track_number": 1
+  },
+  "entity_id": "800afb8b-f4bc-44a4-9ab6-dfe59a08800f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "031b9fd5-53d0-4db0-9433-92dc9bda255a",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Best Part (2017)",
+    "title": "Best Part (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Best Part (2017)'.",
+  "status": "verified"
+}

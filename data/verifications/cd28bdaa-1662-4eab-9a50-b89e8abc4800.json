@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:20.990361+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pop Is Dead",
+    "track_number": 1
+  },
+  "entity_id": "9ced44de-616c-431e-87a8-c236447c6c9f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd28bdaa-1662-4eab-9a50-b89e8abc4800",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Pop Is Dead",
+    "title": "Pop Is Dead"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pop Is Dead'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:51.96272+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pink Pony Club (2020)",
+    "track_number": 1
+  },
+  "entity_id": "76cd10ec-77ff-4eca-8be7-42610ecef1bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "869b3f49-403e-453f-b124-5005c177eca9",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Pink Pony Club (2020)",
+    "title": "Pink Pony Club (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pink Pony Club (2020)'.",
+  "status": "verified"
+}

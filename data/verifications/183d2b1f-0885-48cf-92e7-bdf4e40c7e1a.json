@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:09.831273+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Comfort Crowd - Single (2019)",
+    "track_number": 1
+  },
+  "entity_id": "ed3f9888-f263-4382-bfad-69b7551ae3c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "183d2b1f-0885-48cf-92e7-bdf4e40c7e1a",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Comfort Crowd - Single (2019)",
+    "title": "Comfort Crowd - Single (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Comfort Crowd - Single (2019)'.",
+  "status": "verified"
+}

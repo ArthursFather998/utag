@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:00.617434+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Marvin Gaye (featuring Meghan Trainor)",
+    "track_number": 1
+  },
+  "entity_id": "3a889c5d-5216-4aec-8a18-66d23d7d2901",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c9e99aec-dce7-4fec-a86a-bf4705cce6f2",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Marvin Gaye (featuring Meghan Trainor)",
+    "title": "Marvin Gaye (featuring Meghan Trainor)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Marvin Gaye (featuring Meghan Trainor)'.",
+  "status": "verified"
+}

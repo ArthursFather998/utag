@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:46.855762+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Gangsta's Paradise",
+    "track_number": 1
+  },
+  "entity_id": "cf135400-391e-44ea-b338-7f40821da8b2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1611e2f4-8b6b-4562-8172-074bdda0312e",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Gangsta's Paradise",
+    "title": "Gangsta's Paradise"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Gangsta's Paradise'.",
+  "status": "verified"
+}

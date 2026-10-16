@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:34.349373+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Group B",
+    "track_number": 1
+  },
+  "entity_id": "674ed1bb-cc81-474e-bdca-0cd1d2fbac4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "063b55eb-d6ca-484b-9b49-896e0cfe98ef",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Group B",
+    "title": "Group B"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Group B'.",
+  "status": "verified"
+}

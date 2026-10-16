@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:25.937941+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Brains a Bus Station",
+    "track_count": 6,
+    "tracklist": [
+      "Survive",
+      "Girl Girl Girl",
+      "Going A Bad Party",
+      "How It Feels When We Make Eye Contact At That Party",
+      "Twin Falls (Built To Spill)",
+      "Tie"
+    ]
+  },
+  "entity_id": "e9a12985-6158-4518-8288-451583c32f37",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7f1d4327-bbe3-42fb-9d35-4477b6389ed2",
+  "input": {
+    "artist": "Clairo",
+    "title": "Brains a Bus Station",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://www.discogs.com/release/19016671-Clairo-Brains-A-Bus-Station, https://www.qobuz.com/se-en/interpreter/clairo/3130841/page/2. 6-track EP, released April 14, 2016. 'Twin Falls' is a Built To Spill cover. 'Brains a Bus Station (2016)' is a year-suffix duplicate.",
+  "status": "verified"
+}

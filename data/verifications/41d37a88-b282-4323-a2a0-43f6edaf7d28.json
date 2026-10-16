@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:56.956252+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "When Did You Get Hot?",
+    "track_number": 1
+  },
+  "entity_id": "947e1194-9326-4fd6-b67b-4fe003d298d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41d37a88-b282-4323-a2a0-43f6edaf7d28",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "When Did You Get Hot?",
+    "title": "When Did You Get Hot?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'When Did You Get Hot?'.",
+  "status": "verified"
+}

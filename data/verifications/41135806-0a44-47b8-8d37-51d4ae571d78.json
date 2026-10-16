@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:27.543647+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Womanizer (2008)",
+    "track_number": 1
+  },
+  "entity_id": "40e071e5-b1d0-4e92-bd8b-ff6a1cf5da44",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41135806-0a44-47b8-8d37-51d4ae571d78",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Womanizer (2008)",
+    "title": "Womanizer (2008)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Womanizer (2008)'.",
+  "status": "verified"
+}

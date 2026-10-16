@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:26.387875+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Good Girls, Bad Guys",
+    "track_number": 1
+  },
+  "entity_id": "7e8b4788-97ad-426c-a7ea-f991794e1c42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c64967b0-9f61-4fe9-b3a1-34287c71dd40",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Good Girls, Bad Guys",
+    "title": "Good Girls, Bad Guys"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Good Girls, Bad Guys'.",
+  "status": "verified"
+}

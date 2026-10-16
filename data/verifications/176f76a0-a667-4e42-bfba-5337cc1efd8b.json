@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:34.340227+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "When He's Gone",
+    "track_number": 1
+  },
+  "entity_id": "be7f8a83-c14a-4dd9-919a-dfec8d1d1622",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "176f76a0-a667-4e42-bfba-5337cc1efd8b",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "When He's Gone",
+    "title": "When He's Gone"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'When He's Gone'.",
+  "status": "verified"
+}

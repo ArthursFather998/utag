@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:01.452128+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All of the Stars",
+    "track_number": 1
+  },
+  "entity_id": "4b426935-40dd-4520-aa24-e9888654790a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c65f1d6-3679-486d-a471-26495fc73d66",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "All of the Stars",
+    "title": "All of the Stars"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All of the Stars'.",
+  "status": "verified"
+}

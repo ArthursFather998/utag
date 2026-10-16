@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:30.87765+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Fast Times",
+    "track_number": 1
+  },
+  "entity_id": "858e5e11-72d5-4682-ab8f-8882a53f8435",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c17bddf1-8daf-4782-8dfd-39ffd5230744",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Fast Times",
+    "title": "Fast Times"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Fast Times'.",
+  "status": "verified"
+}

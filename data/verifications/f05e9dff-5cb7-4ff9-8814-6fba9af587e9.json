@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:53.673205+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blood on the Dance Floor: HIStory in the Mix",
+    "track_count": 13,
+    "tracklist": [
+      "Blood on the Dance Floor",
+      "Morphine",
+      "Superfly Sister",
+      "Ghosts",
+      "Is It Scary",
+      "Scream Louder (Flyte Tyme Remix)",
+      "Money (Fire Island Radio Edit)",
+      "2 Bad (Refugee Camp Mix)",
+      "Stranger in Moscow (Tee's In-House Club Mix)",
+      "This Time Around (D.M. Radio Mix)",
+      "Earth Song (Hani's Club Experience)",
+      "You Are Not Alone (Classic Club Mix)",
+      "HIStory (Tony Moran's HIStory Lesson)"
+    ]
+  },
+  "entity_id": "b7b9a42d-6b84-41da-97b7-9faaf022ba39",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f05e9dff-5cb7-4ff9-8814-6fba9af587e9",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Blood on the Dance Floor: HIStory in the Mix",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor:_HIStory_in_the_Mix, https://www.minidisc.wiki/releases/michael_jackson/blood_on_the_dance_floor_-_history_in_the_mix. Remix album (1997). Tracks 6-13 are remixes with parenthetical mix names included per official tracklist.",
+  "status": "verified"
+}

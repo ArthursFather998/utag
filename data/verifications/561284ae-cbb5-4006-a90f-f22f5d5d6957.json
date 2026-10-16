@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:16.995983+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Willy Wonka Was a Child Murderer",
+    "track_count": 4,
+    "tracklist": [
+      "Valentine",
+      "King",
+      "Willy Wonka Was a Child Murderer",
+      "NEVER"
+    ]
+  },
+  "entity_id": "72884339-5b3d-44f1-bf08-f53097577797",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "561284ae-cbb5-4006-a90f-f22f5d5d6957",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "Willy Wonka Was a Child Murderer",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.last.fm/music/XXXTENTACION/Willy+Wonka+was+a+child+murderer, https://www.youtube.com/watch?v=D0v84evuWUU. EP released April 28, 2016. 4 tracks. Track 1 is 'Valentine' per Last.fm and YouTube (AOTY lists it as 'THROAT: the violent valentine lullaby').",
+  "status": "verified"
+}

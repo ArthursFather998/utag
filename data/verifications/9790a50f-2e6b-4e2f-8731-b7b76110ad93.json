@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:34.016941+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Two Ghosts",
+    "track_number": 1
+  },
+  "entity_id": "17098a61-3db8-40a8-bc9d-186df8bbf3ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9790a50f-2e6b-4e2f-8731-b7b76110ad93",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Two Ghosts",
+    "title": "Two Ghosts"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Two Ghosts'.",
+  "status": "verified"
+}

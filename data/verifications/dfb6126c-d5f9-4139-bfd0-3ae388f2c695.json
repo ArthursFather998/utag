@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:54.708088+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Still Into You",
+    "track_number": 1
+  },
+  "entity_id": "dfccaf84-c531-493f-b5e6-9d2b9f5ca596",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dfb6126c-d5f9-4139-bfd0-3ae388f2c695",
+  "input": {
+    "artist": "Paramore",
+    "release": "Still Into You",
+    "title": "Still Into You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Still Into You'.",
+  "status": "verified"
+}

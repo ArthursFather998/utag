@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:06.639495+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Who Is It",
+    "track_number": 1
+  },
+  "entity_id": "7ae3abaf-14bb-4385-b992-40879a4026eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4ddcb7a5-daf9-4e73-8ff2-b17ca80b7dd3",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Who Is It",
+    "title": "Who Is It"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Who Is It'.",
+  "status": "verified"
+}

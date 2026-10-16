@@ -1,0 +1,48 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:24:28.966077+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Selections from Michael Jackson's This Is It",
+    "track_count": 6,
+    "tracklist": [
+      {
+        "n": 1,
+        "title": "This Is It"
+      },
+      {
+        "n": 2,
+        "title": "This Is It (Orchestra Version)"
+      },
+      {
+        "n": 3,
+        "title": "She's Out of My Life (Demo)"
+      },
+      {
+        "n": 4,
+        "title": "Wanna Be Startin' Somethin' (Demo)"
+      },
+      {
+        "n": 5,
+        "title": "Beat It (Demo)"
+      },
+      {
+        "n": 6,
+        "title": "Planet Earth (Poem)"
+      }
+    ]
+  },
+  "entity_id": "b90295e4-9b96-4c6b-a27a-aa7b17547a11",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6d5eb696-703b-4ed3-8905-f7a95943011b",
+  "input": {
+    "artist": "Various",
+    "title": "Selections from Michael Jackson's This Is It",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per . Verified digital-only EP. Wikipedia: 'The two versions of This Is It along with the second disc contents are available separately as the digital-only EP Selections from Michael Jackson's This Is It.' Alibris confirms: 'featured the single version of This Is It, an alternate mix featuring an orchestra, rare demo recordings.' The 6 tracks are the two 'This Is It' versions plus the four disc-2 tracks from the This Is It album, in that order.",
+  "status": "verified"
+}

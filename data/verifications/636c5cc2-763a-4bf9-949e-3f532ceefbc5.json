@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:20.931721+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Okra",
+    "track_number": 1
+  },
+  "entity_id": "fbb5c0d7-8522-48ac-97e2-bee1ce131ad3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "636c5cc2-763a-4bf9-949e-3f532ceefbc5",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Okra",
+    "title": "Okra"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Okra'.",
+  "status": "verified"
+}

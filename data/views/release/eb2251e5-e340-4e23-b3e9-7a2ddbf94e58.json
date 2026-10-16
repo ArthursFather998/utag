@@ -1285,6 +1285,108 @@
     "title": "Drill",
     "updated_at": "2026-10-16T04:00:37.383936+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:02.21404+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4a21266e-4f10-4b81-b4cb-8753d60a1630",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "eb2251e5-e340-4e23-b3e9-7a2ddbf94e58",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Prove Yourself",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:28:02.21404+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:02.79304+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "032be71a-1fda-4b0f-938d-b671fb6f3b5f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "eb2251e5-e340-4e23-b3e9-7a2ddbf94e58",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Stupid Car",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:28:02.79304+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:03.515753+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "67c8be07-a6f1-4f8f-95e4-5a8a59bec112",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "eb2251e5-e340-4e23-b3e9-7a2ddbf94e58",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "You",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:28:03.515753+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:28:04.052238+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e654b3c4-bf75-4886-9cd3-70ec896b18fa",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "eb2251e5-e340-4e23-b3e9-7a2ddbf94e58",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Thinking About You",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:28:04.052238+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:28:04.637031+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Drill",
+        "track_count": 4,
+        "tracklist": [
+          "Prove Yourself",
+          "Stupid Car",
+          "You",
+          "Thinking About You"
+        ]
+      },
+      "entity_id": "eb2251e5-e340-4e23-b3e9-7a2ddbf94e58",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "5dad32ac-1d54-40d8-a430-e10861e59249",
+      "input": {
+        "artist": "Radiohead",
+        "title": "Drill",
+        "track_count": 4
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Drill_(EP), https://www.discogs.com/release/767600-Radiohead-Drill-EP. Debut EP (May 5, 1992, Parlophone); first official Radiohead release. Digital reissue appends '(Drill Version)' to some titles; original EP titles used here.",
+      "status": "verified"
+    }
+  ]
 }

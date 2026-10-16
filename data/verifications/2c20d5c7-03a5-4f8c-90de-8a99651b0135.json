@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:36.775158+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Man's Best Friend",
+    "track_count": 12,
+    "tracklist": [
+      "Manchild",
+      "Tears",
+      "My Man on Willpower",
+      "Sugar Talking",
+      "We Almost Broke Up Again Last Night",
+      "Nobody's Son",
+      "Never Getting Laid",
+      "When Did You Get Hot?",
+      "Go Go Juice",
+      "Don't Worry I'll Make You Worry",
+      "House Tour",
+      "Goodbye"
+    ]
+  },
+  "entity_id": "9c16532a-45df-4292-91df-66d0df763aed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2c20d5c7-03a5-4f8c-90de-8a99651b0135",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "title": "Man's Best Friend",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Man%27s_Best_Friend_(album), https://www.nme.com/news/music/sabrina-carpenter-reveals-full-mans-best-friend-tracklist-with-the-help-of-fans-and-a-puppy-3882291. Standard 12-track edition. Tracklist revealed by Carpenter herself via Instagram napkin photo (NME).",
+  "status": "verified"
+}

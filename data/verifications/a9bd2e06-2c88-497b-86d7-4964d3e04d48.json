@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:06.337464+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Beat Yourself Up",
+    "track_number": 1
+  },
+  "entity_id": "3d3fa1b1-364b-4006-a7b0-8974c6b600d4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9bd2e06-2c88-497b-86d7-4964d3e04d48",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Beat Yourself Up",
+    "title": "Beat Yourself Up"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Beat Yourself Up'.",
+  "status": "verified"
+}

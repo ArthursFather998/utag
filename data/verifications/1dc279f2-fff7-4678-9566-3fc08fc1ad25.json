@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:49.148538+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dark Red",
+    "track_number": 1
+  },
+  "entity_id": "d339c331-8b1a-4ca3-b4f1-740e56ea511c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1dc279f2-fff7-4678-9566-3fc08fc1ad25",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Dark Red",
+    "title": "Dark Red"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Dark Red'.",
+  "status": "verified"
+}

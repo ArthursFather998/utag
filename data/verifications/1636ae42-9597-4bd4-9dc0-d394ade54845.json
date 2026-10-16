@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:19.094403+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Never Felt So Good",
+    "track_number": 1
+  },
+  "entity_id": "f3d991a0-b475-4071-ae63-49fc6c981ca6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1636ae42-9597-4bd4-9dc0-d394ade54845",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Love Never Felt So Good",
+    "title": "Love Never Felt So Good"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Love Never Felt So Good'.",
+  "status": "verified"
+}

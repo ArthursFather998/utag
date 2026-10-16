@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:46.713957+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Easy",
+    "track_number": 1
+  },
+  "entity_id": "8f075a13-adf4-4452-ae81-fc9456486c6c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba515e4e-d01d-4484-b248-d43332da7c94",
+  "input": {
+    "artist": "JVKE",
+    "release": "Easy",
+    "title": "Easy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Easy'.",
+  "status": "verified"
+}

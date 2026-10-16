@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:15.190325+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Own It",
+    "track_number": 1
+  },
+  "entity_id": "ff72e86a-4b37-45e8-a072-6c6727788a30",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8f2b3579-99c4-4196-b7ad-aeb716fe0fcc",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Own It",
+    "title": "Own It"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Own It'.",
+  "status": "verified"
+}

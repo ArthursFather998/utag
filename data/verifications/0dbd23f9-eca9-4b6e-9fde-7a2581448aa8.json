@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:16.696777+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sling (5th Anniversary Edition) (2026)",
+    "track_count": 12,
+    "tracklist": [
+      "Bambi",
+      "Amoeba",
+      "Partridge",
+      "Zinnias",
+      "Blouse",
+      "Wade",
+      "Harbor",
+      "Just For Today",
+      "Joanie",
+      "Reaper",
+      "Little Changes",
+      "Management"
+    ]
+  },
+  "entity_id": "6db3aaa0-6e20-4311-af9a-f414d965d8eb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0dbd23f9-eca9-4b6e-9fde-7a2581448aa8",
+  "input": {
+    "artist": "Clairo",
+    "title": "Sling (5th Anniversary Edition) (2026)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://blood-records.co.uk/products/sling, http://www.phono.cz/en/rock-pop-vinyl-records-lps/clairo-sling. 5th anniversary vinyl reissue (2026), same 12 tracks, no bonus tracks. '(2026)' suffixed row is a duplicate.",
+  "status": "verified"
+}

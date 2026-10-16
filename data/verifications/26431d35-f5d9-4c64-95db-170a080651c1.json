@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:08.787761+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "King Kunta",
+    "track_number": 1
+  },
+  "entity_id": "2569a8c0-474e-4369-a201-b3d466c3aa43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26431d35-f5d9-4c64-95db-170a080651c1",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "King Kunta",
+    "title": "King Kunta"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'King Kunta'.",
+  "status": "verified"
+}

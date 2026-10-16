@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:05.673783+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Overprotected (2001)",
+    "track_number": 1
+  },
+  "entity_id": "7ad69782-e705-46c9-b913-792c0e0a85d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b3f0ec94-a370-4c2e-925e-803a5857aca9",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Overprotected (2001)",
+    "title": "Overprotected (2001)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Overprotected (2001)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:46.100635+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Home (featuring Hikaru Utada)",
+    "track_number": 1
+  },
+  "entity_id": "357f2480-b041-42dc-83f8-1710f327419a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "64dfb5e8-565f-4b9e-887b-17b0a3dea847",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Home (featuring Hikaru Utada)",
+    "title": "Home (featuring Hikaru Utada)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Home (featuring Hikaru Utada)'.",
+  "status": "verified"
+}

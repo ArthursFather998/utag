@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:47.831894+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Nobodys",
+    "track_count": 4,
+    "tracklist": [
+      "NOBODYS (intro)",
+      "The shuttle",
+      "sounds of the melting pot",
+      "ghosts"
+    ]
+  },
+  "entity_id": "c48fa7f5-abe3-4ce8-8304-bfc2b1cc7461",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ca99864b-2419-417c-832b-fcdc4a9f5d8e",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "The Nobodys",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://lyricsweb.com/album/xxxtentacion/the-nobodys, https://www.youtube.com/watch?v=Oxf3XO7g3qQ. Scrapped collaboration EP with Ski Mask the Slump God and YXXXNZ, dated July 11, 2014. 4 tracks per LyricsWeb. Part of a planned trilogy with 'The Fall' and the abandoned 'The Underworld'.",
+  "status": "verified"
+}

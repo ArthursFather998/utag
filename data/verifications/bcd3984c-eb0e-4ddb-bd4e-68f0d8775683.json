@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:48.652119+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Place with No Name",
+    "track_number": 1
+  },
+  "entity_id": "4b75e5d4-3b62-490e-8149-16ab3e85873d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bcd3984c-eb0e-4ddb-bd4e-68f0d8775683",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "A Place with No Name",
+    "title": "A Place with No Name"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Place with No Name'.",
+  "status": "verified"
+}

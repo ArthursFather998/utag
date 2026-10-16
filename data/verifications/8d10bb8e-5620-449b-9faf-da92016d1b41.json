@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:21.191918+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hands (2016)",
+    "track_number": 1
+  },
+  "entity_id": "6f6d5f20-222a-4bfd-a14a-48578382d99e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8d10bb8e-5620-449b-9faf-da92016d1b41",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Hands (2016)",
+    "title": "Hands (2016)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hands (2016)'.",
+  "status": "verified"
+}

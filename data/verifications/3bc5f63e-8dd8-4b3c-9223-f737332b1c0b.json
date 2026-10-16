@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:12:32.360531+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Something for Everybody",
+    "track_count": 12,
+    "tracklist": [
+      "There's Always Me",
+      "Give Me the Right",
+      "It's a Sin",
+      "Sentimental Me",
+      "Starting Today",
+      "Gently",
+      "I'm Comin' Home",
+      "In Your Arms",
+      "Put the Blame On Me",
+      "Judy",
+      "I Want You with Me",
+      "I Slipped, I Stumbled, I Fell"
+    ]
+  },
+  "entity_id": "1b37750e-40d3-4d04-b0e9-ebf87298c8ed",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3bc5f63e-8dd8-4b3c-9223-f737332b1c0b",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Something for Everybody",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Something_for_Everybody, https://www.allmusic.com/.",
+  "status": "verified"
+}

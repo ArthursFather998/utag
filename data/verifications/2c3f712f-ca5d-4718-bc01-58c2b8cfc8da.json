@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:48.975124+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bags (2019)",
+    "track_number": 1
+  },
+  "entity_id": "9e65cbb7-a356-477e-b820-854245fa79da",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c3f712f-ca5d-4718-bc01-58c2b8cfc8da",
+  "input": {
+    "artist": "Clairo",
+    "release": "Bags (2019)",
+    "title": "Bags (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bags (2019)'.",
+  "status": "verified"
+}

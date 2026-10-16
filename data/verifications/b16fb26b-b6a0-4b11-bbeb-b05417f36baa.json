@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:29.130903+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spotify Singles",
+    "track_count": 2,
+    "tracklist": [
+      "Cyanide",
+      "Made to Fall in Love"
+    ]
+  },
+  "entity_id": "5311ad62-26ff-4ece-ab71-0661c471b87a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b16fb26b-b6a0-4b11-bbeb-b05417f36baa",
+  "input": {
+    "artist": "Daniel Caesar",
+    "title": "Spotify Singles",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://www.qobuz.com/se-en/album/spotify-singles-daniel-caesar/y2webp9g6l0pa, https://ratedrnb.com/2020/05/daniel-caesar-drops-spotify-singles-ep-with-a-new-version-of-2019-hit-cyanide/. Spotify Singles 2-track EP (May 2020). 'Cyanide' is a stripped-down re-recording; 'Made to Fall in Love' is a cover of Bitty McLean & Sly & Robbie.",
+  "status": "verified"
+}

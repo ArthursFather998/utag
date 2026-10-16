@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:24.518357+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All Shook Up (1957)",
+    "track_number": 1
+  },
+  "entity_id": "604b3e2d-2ac9-4009-90cc-3f668ddf4429",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fb75eb46-18ac-43af-9db9-7835c45e3051",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "All Shook Up (1957)",
+    "title": "All Shook Up (1957)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All Shook Up (1957)'.",
+  "status": "verified"
+}

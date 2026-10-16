@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:46.041765+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Loose Change",
+    "track_count": 8,
+    "tracklist": [
+      "Let It Out",
+      "Homeless",
+      "Little Bird",
+      "Sofa",
+      "One Night",
+      "Firefly",
+      "The City (Live at Sticky Studios)",
+      "Firefly (Bravado Dubstep Remix)"
+    ]
+  },
+  "entity_id": "dcd699f4-1255-483b-b3de-2ad58b7b2069",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "71797e5f-c289-4ddc-b828-2b77c09fa1d3",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Loose Change",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per https://www.discogs.com/release/4173613-Ed-Sheeran-Loose-Change, https://en.wikipedia.org/wiki/Loose_Change_(EP). 2010 independent CD EP (Sheeran Lock, Feb 7 2010); reissued by Atlantic Dec 2011. IMPORTANT VERSION NOTE: the original 2010 independent CD (Discogs r5476474) opens with 'The A Team'; the Atlantic reissue (Discogs r4173613) replaced it with 'Let It Out'. Wikipedia's track listing, the Record Exchange vinyl listing and justrandomthings all follow the reissue version recorded here (8 tracks). The 2016 vinyl reissues also use 'Let It Out'.",
+  "status": "verified"
+}

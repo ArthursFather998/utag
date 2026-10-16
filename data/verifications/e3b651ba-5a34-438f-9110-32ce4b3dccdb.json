@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:19.050981+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "DAMN.",
+    "track_count": 14,
+    "tracklist": [
+      "BLOOD.",
+      "DNA.",
+      "YAH.",
+      "ELEMENT.",
+      "FEEL.",
+      "LOYALTY.",
+      "PRIDE.",
+      "HUMBLE.",
+      "LUST.",
+      "LOVE.",
+      "XXX.",
+      "FEAR.",
+      "GOD.",
+      "DUCKWORTH."
+    ]
+  },
+  "entity_id": "8337c142-f083-4654-8c50-594fd9638a93",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e3b651ba-5a34-438f-9110-32ce4b3dccdb",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "DAMN.",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://hiphop-n-more.com/2017/12/kendrick-lamar-damn-collectors-edition-artwork-tracklist/amp/, https://tower.com/products/kendrick-lamar-damn-collectors-edition. Fourth studio album, released April 14, 2017. 14 tracks, all stylized in uppercase with trailing periods. Track order confirmed by the Collector's Edition (which reverses this order).",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:07.82051+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Very Rare Forever Freestyle",
+    "track_number": 1
+  },
+  "entity_id": "b25cd41f-9ae7-4eee-a306-bb0ef28b90e5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b08d7799-525d-4381-835f-0bf5d57ff025",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Very Rare Forever Freestyle",
+    "title": "Very Rare Forever Freestyle"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Very Rare Forever Freestyle'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:03.248632+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "People Watching",
+    "track_number": 1
+  },
+  "entity_id": "b5fe5f0a-71ce-41c6-8b19-e9d41a783512",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "617ca174-b5b1-45e9-b9f5-4497d0ba748c",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "People Watching",
+    "title": "People Watching"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'People Watching'.",
+  "status": "verified"
+}

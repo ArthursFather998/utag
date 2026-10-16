@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:11:22.197816+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blue Hawaii",
+    "track_count": 14,
+    "tracklist": [
+      "Blue Hawaii",
+      "Almost Always True",
+      "Aloha 'Oe",
+      "No More",
+      "Can't Help Falling in Love",
+      "Rock-A-Hula Baby",
+      "Moonlight Swim",
+      "Ku-U-I-Po",
+      "Ito Eats",
+      "Slicin' Sand",
+      "Hawaiian Sunset",
+      "Beach Boy Blues",
+      "Island of Love",
+      "Hawaiian Wedding Song"
+    ]
+  },
+  "entity_id": "aa5af875-976a-4af6-8a64-e0cfd8856f98",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f4f101ab-b1fb-4275-888f-b06c26475396",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Blue Hawaii",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Blue_Hawaii_(soundtrack), https://www.elvisthemusic.com/music/blue-hawaii/. Soundtrack album, released October 20, 1961. DUPLICATE: 'Blue Hawaii (1961)' is the same album with year suffix.",
+  "status": "verified"
+}

@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:35.864773+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Want Some?",
+    "track_count": 11,
+    "tracklist": [
+      "You Break Me",
+      "I'm Glad I'm Not You",
+      "You Need to Cut Your Hair",
+      "Sara",
+      "Move On (feat. Alonestar)",
+      "Yellow Pages",
+      "Smile",
+      "Postcards",
+      "Two Blokes and a Double Bass",
+      "The West Coast of Clare",
+      "I Can't Spell"
+    ]
+  },
+  "entity_id": "bbf75455-fe5c-463f-b61f-c119a97befb5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fd3da9ff-6d28-497a-aa0c-6096e6102424",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Want Some?",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://www.discogs.com/Ed-Sheeran-Want-Some/release/6634760, https://www.herbmusic.net/album/ed-sheeran-want-some%3f-33298. DUPLICATE ENTRY of 'Want Some? (2007)' - same artist, same year, same tracklist (confirmed as the same single release by identical tracklists on Discogs r6634760, herbmusic.net, musify.club). Tracklist copied from the (2007)-suffixed row.",
+  "status": "verified"
+}

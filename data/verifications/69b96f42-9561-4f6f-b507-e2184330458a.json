@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:08.588171+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hard Headed Woman",
+    "track_number": 1
+  },
+  "entity_id": "08fff4f8-9f77-479d-8f8b-1043e04558e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69b96f42-9561-4f6f-b507-e2184330458a",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Hard Headed Woman",
+    "title": "Hard Headed Woman"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hard Headed Woman'.",
+  "status": "verified"
+}

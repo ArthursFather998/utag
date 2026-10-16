@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:09.261383+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Anticipating",
+    "track_number": 1
+  },
+  "entity_id": "721e8836-f94f-45bf-b6b6-3a0a1f6e108d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e85c7ef-0aab-4afe-ac14-b6690759a1e1",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Anticipating",
+    "title": "Anticipating"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Anticipating'.",
+  "status": "verified"
+}

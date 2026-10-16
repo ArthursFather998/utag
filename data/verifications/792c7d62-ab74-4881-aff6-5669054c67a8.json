@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:57.733134+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Guillotine IV (The Final Chapter)",
+    "track_number": 1
+  },
+  "entity_id": "ea68d48e-d0bd-4815-b6cb-438e7c1d9d12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "792c7d62-ab74-4881-aff6-5669054c67a8",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Guillotine IV (The Final Chapter)",
+    "title": "Guillotine IV (The Final Chapter)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Guillotine IV (The Final Chapter)'.",
+  "status": "verified"
+}

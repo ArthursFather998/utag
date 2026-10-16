@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:04.935969+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Mood Ring (2020)",
+    "track_number": 1
+  },
+  "entity_id": "25821f0c-2568-47a3-8852-e24270265341",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "97712807-fbde-4924-ae27-cbedd944b280",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Mood Ring (2020)",
+    "title": "Mood Ring (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Mood Ring (2020)'.",
+  "status": "verified"
+}

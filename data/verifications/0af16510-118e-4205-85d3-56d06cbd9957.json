@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:58:50.789435+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Raised on Rock / For Ol' Times Sake",
+    "track_count": 10,
+    "tracklist": [
+      "Raised on Rock",
+      "Are You Sincere?",
+      "Find Out What's Happening",
+      "I Miss You",
+      "Girl of Mine",
+      "For Ol' Times Sake",
+      "If You Don't Come Back",
+      "Just a Little Bit",
+      "Sweet Angeline",
+      "Three Corn Patches"
+    ]
+  },
+  "entity_id": "66a37dae-e28a-44e9-996e-4384aab0acdb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0af16510-118e-4205-85d3-56d06cbd9957",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Raised on Rock / For Ol' Times Sake",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per http://en.wikipedia.org/wiki/Raised_on_Rock_/_For_Ol'_Times_Sake, https://En.Citizendium.org/wiki/Raised_on_Rock. 1973 studio album. 10-track original LP sequence.",
+  "status": "verified"
+}

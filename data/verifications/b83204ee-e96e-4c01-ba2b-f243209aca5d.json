@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:03.550629+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cheating on You (2019)",
+    "track_number": 1
+  },
+  "entity_id": "b05d221c-7116-464e-a6f5-793a7412cd08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b83204ee-e96e-4c01-ba2b-f243209aca5d",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Cheating on You (2019)",
+    "title": "Cheating on You (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cheating on You (2019)'.",
+  "status": "verified"
+}

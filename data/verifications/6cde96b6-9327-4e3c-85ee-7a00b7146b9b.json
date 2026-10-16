@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:08.201824+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pyramid Song",
+    "track_number": 1
+  },
+  "entity_id": "74c29ffd-5020-4d1c-b502-5dc2aa9898e1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6cde96b6-9327-4e3c-85ee-7a00b7146b9b",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Pyramid Song",
+    "title": "Pyramid Song"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pyramid Song'.",
+  "status": "verified"
+}

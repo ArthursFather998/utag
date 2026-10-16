@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:29.614101+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "They Don't Care About Us",
+    "track_number": 1
+  },
+  "entity_id": "49ff3523-74ae-4fbf-9f5b-ef96a591bf90",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bde87057-d2f3-4091-b55e-17ff1ab81780",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "They Don't Care About Us",
+    "title": "They Don't Care About Us"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'They Don't Care About Us'.",
+  "status": "verified"
+}

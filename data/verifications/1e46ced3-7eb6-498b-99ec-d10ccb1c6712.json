@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:31.49242+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Big Hunk o' Love (1959)",
+    "track_number": 1
+  },
+  "entity_id": "25eb60b0-aad2-48b6-badb-c07eed49b433",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e46ced3-7eb6-498b-99ec-d10ccb1c6712",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "A Big Hunk o' Love (1959)",
+    "title": "A Big Hunk o' Love (1959)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Big Hunk o' Love (1959)'.",
+  "status": "verified"
+}

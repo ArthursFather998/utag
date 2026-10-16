@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:23.058201+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Life Goes On (2023)",
+    "track_number": 1
+  },
+  "entity_id": "4f7823a1-9964-43aa-b51b-bebf08dbd3eb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bff031ef-6ac8-4b2b-aff2-640467c170a4",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Life Goes On (2023)",
+    "title": "Life Goes On (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Life Goes On (2023)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:19.376194+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Indecision",
+    "track_number": 1
+  },
+  "entity_id": "0d9d56d7-ef1f-4a44-868f-407ab06197c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43ce501f-633e-4c34-a643-1d799947259c",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Indecision",
+    "title": "Indecision"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Indecision'.",
+  "status": "verified"
+}

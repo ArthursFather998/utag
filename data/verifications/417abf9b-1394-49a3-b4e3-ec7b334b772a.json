@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:24.07525+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Déjate Llevar",
+    "track_number": 1
+  },
+  "entity_id": "9e53892d-1e47-4421-a56a-46715d50ec57",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "417abf9b-1394-49a3-b4e3-ec7b334b772a",
+  "input": {
+    "artist": "The Marías",
+    "release": "Déjate Llevar",
+    "title": "Déjate Llevar"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Déjate Llevar'.",
+  "status": "verified"
+}

@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:08.718107+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Section.80",
+    "track_count": 16,
+    "tracklist": [
+      "Fuck Your Ethnicity",
+      "Hol' Up",
+      "A.D.H.D.",
+      "No Make-Up (Her Vice)",
+      "Tammy's Song (Her Evils)",
+      "Chapter Six",
+      "Ronald Reagan Era (His Evils)",
+      "Poe Mans Dreams (His Vice)",
+      "The Spiteful Chant",
+      "Chapter Ten",
+      "Keisha's Song (Her Pain)",
+      "Rigamortis",
+      "Kush & Corinthians (His Pain)",
+      "Blow My High (Members Only)",
+      "Ab-Soul's Outro",
+      "HiiiPoWeR"
+    ]
+  },
+  "entity_id": "14628e76-6b92-4b92-b4b6-7325fe424c32",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4218a5b9-db33-4cca-9af0-99a586e53372",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "Section.80",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://simple.wikipedia.org/wiki/Section.80, https://www.discogs.com/release/4550311-Kendrick-Lamar-Section-80. Debut studio album, released July 2, 2011. 16 tracks. Track 14 listed as 'Blow My High (Members Only)' on streaming/Simple Wikipedia; Discogs lists as 'Members Only'. Used the fuller form.",
+  "status": "verified"
+}

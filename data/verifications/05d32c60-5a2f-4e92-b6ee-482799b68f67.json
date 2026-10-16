@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:23.443745+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "From the Bottom of My Broken Heart (1999)",
+    "track_number": 1
+  },
+  "entity_id": "3613a848-26a7-41dc-8ef0-b00fe2fc5fb3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "05d32c60-5a2f-4e92-b6ee-482799b68f67",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "From the Bottom of My Broken Heart (1999)",
+    "title": "From the Bottom of My Broken Heart (1999)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'From the Bottom of My Broken Heart (1999)'.",
+  "status": "verified"
+}

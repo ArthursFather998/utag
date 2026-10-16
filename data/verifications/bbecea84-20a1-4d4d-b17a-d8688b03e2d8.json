@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:17:26.031863+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis: A Legendary Performer Volume 2 (1976)",
+    "track_count": 14,
+    "tracklist": [
+      "Harbor Lights",
+      "Interview with Elvis: Jay Thompson",
+      "I Want You, I Need You, I Love You",
+      "Blue Suede Shoes",
+      "Blue Christmas",
+      "Jailhouse Rock",
+      "It's Now or Never",
+      "A Cane and a High Starched Collar",
+      "Presentation of Awards to Elvis",
+      "Blue Hawaii",
+      "Such a Night",
+      "Baby, What You Want Me to Do",
+      "How Great Thou Art",
+      "If I Can Dream"
+    ]
+  },
+  "entity_id": "0c106c09-8184-4633-bf6b-58966e53b08e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bbecea84-20a1-4d4d-b17a-d8688b03e2d8",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis: A Legendary Performer Volume 2 (1976)",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per http://en.wikipedia.org/wiki/Elvis:_A_Legendary_Performer_Volume_2, https://www.citizendium.org/wiki/Elvis:_A_Legendary_Performer,_Volume_2. DUPLICATE: Same compilation as 'Elvis: A Legendary Performer Volume 2' (53548b82-2a7a-4fd3-970b-270297207d47).",
+  "status": "verified"
+}

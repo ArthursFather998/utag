@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:03.200735+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "One (2014)",
+    "track_number": 1
+  },
+  "entity_id": "200ac6cb-48b8-474d-b622-9227fae77da1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "86066bad-4d28-4931-8688-506a247800f8",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "One (2014)",
+    "title": "One (2014)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'One (2014)'.",
+  "status": "verified"
+}

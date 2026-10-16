@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:34.129321+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ooh La La",
+    "track_number": 1
+  },
+  "entity_id": "b539c235-bd17-4e1e-a32f-04265fdb1dc1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95b1dc96-e02e-4578-b943-22ca61c15195",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Ooh La La",
+    "title": "Ooh La La"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ooh La La'.",
+  "status": "verified"
+}

@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:58:43.65801+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Sings the Wonderful World of Christmas (1971)",
+    "track_count": 11,
+    "tracklist": [
+      "O Come, All Ye Faithful",
+      "The First Noel",
+      "On a Snowy Christmas Night",
+      "Winter Wonderland",
+      "The Wonderful World of Christmas",
+      "It Won't Seem Like Christmas (Without You)",
+      "I'll Be Home on Christmas Day",
+      "If I Get Home On Christmas Day",
+      "Holly Leaves and Christmas Trees",
+      "Merry Christmas Baby",
+      "Silver Bells"
+    ]
+  },
+  "entity_id": "1164a2e9-1e47-4a8d-925e-f174ab501463",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d3fff63d-0878-4924-9a60-f0027e953c0c",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Sings the Wonderful World of Christmas (1971)",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per http://en.wikipedia.org/wiki/Elvis_Sings_The_Wonderful_World_of_Christmas, https://citizendium.org/wiki/Elvis_Sings_the_Wonderful_World_of_Christmas. 1971 Christmas studio album. 11-track original LP sequence (Blue Christmas appears only on some reissue pressings, excluded).",
+  "status": "verified"
+}

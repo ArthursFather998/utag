@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:25.096828+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "After Laughter",
+    "track_count": 12,
+    "tracklist": [
+      "Hard Times",
+      "Rose-Colored Boy",
+      "Told You So",
+      "Forgiveness",
+      "Fake Happy",
+      "26",
+      "Pool",
+      "Grudges",
+      "Caught in the Middle",
+      "Idle Worship",
+      "No Friend",
+      "Tell Me How"
+    ]
+  },
+  "entity_id": "a93d65d0-324c-4d1b-9bbf-d852d1e6e4eb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "80f28938-120a-469a-9e20-fafa4845ccbc",
+  "input": {
+    "artist": "Paramore",
+    "title": "After Laughter",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.out.com/music/2017/4/19/pop-punk-pop-paramore-returns-new-single-video-album, https://www.discogs.com/master/1184947-Paramore-After-Laughter?redirected=true. Fifth studio album, May 2017. 12 tracks. Marks return of Zac Farro.",
+  "status": "verified"
+}

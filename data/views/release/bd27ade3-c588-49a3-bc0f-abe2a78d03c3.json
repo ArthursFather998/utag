@@ -816,6 +816,108 @@
     "title": "The Summer Tic",
     "updated_at": "2026-10-16T04:18:59.121653+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:23:03.974542+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6d2bcf64-10b9-40cd-87ce-7aa0de3c15ed",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "bd27ade3-c588-49a3-bc0f-abe2a78d03c3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Emergency (Crab Mix)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:23:03.974542+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:23:04.530111+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "be6fc1a9-b1cd-4069-aa6a-7431c03f3a5e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "bd27ade3-c588-49a3-bc0f-abe2a78d03c3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "O Star",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:23:04.530111+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:23:05.077881+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "02aaa817-fea5-4147-92f6-e74c33333681",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "bd27ade3-c588-49a3-bc0f-abe2a78d03c3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Stuck on You",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:23:05.077881+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "28af6bb4-6a92-4274-86ac-2c4144933aa3",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:23:05.675721+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "014d60aa-4edd-4aa2-bfd7-21c40e854547",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "bd27ade3-c588-49a3-bc0f-abe2a78d03c3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "This Circle",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:23:05.675721+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:23:06.406422+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "The Summer Tic",
+        "track_count": 4,
+        "tracklist": [
+          "Emergency (Crab Mix)",
+          "O Star",
+          "Stuck on You",
+          "This Circle"
+        ]
+      },
+      "entity_id": "bd27ade3-c588-49a3-bc0f-abe2a78d03c3",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "62b80a16-6a99-4a40-9a28-d8c36014f3d2",
+      "input": {
+        "artist": "Paramore",
+        "title": "The Summer Tic",
+        "track_count": 4
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/The_Summer_Tic_EP, https://www.discogs.com/release/1895998-Paramore-The-Summer-Tic-EP?redirected=true. Debut EP, self-released June 2006, sold on 2006 Warped Tour. 'Stuck on You' is a Failure cover. 'Emergency (Crab Mix)' features Josh Farro's original screaming. Title comes from a lyric in 'Stuck on You'.",
+      "status": "verified"
+    }
+  ]
 }

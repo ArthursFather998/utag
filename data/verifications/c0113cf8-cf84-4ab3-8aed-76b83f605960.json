@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:17.481757+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "What's Going On (2001)",
+    "track_number": 1
+  },
+  "entity_id": "b9d0750a-2d7e-43e6-89fe-55d08d1698e7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0113cf8-cf84-4ab3-8aed-76b83f605960",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "What's Going On (2001)",
+    "title": "What's Going On (2001)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'What's Going On (2001)'.",
+  "status": "verified"
+}

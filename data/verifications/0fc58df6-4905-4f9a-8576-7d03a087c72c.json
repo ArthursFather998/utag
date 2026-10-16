@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:46.85979+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Everything Has Changed",
+    "track_number": 1
+  },
+  "entity_id": "e9537fde-a36f-49fc-9ed1-98bcca678e07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0fc58df6-4905-4f9a-8576-7d03a087c72c",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Everything Has Changed",
+    "title": "Everything Has Changed"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Everything Has Changed'.",
+  "status": "verified"
+}

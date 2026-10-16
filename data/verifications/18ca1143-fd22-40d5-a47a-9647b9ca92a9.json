@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:48:30.877675+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Autumn Variations",
+    "track_count": 14,
+    "tracklist": [
+      "Magical",
+      "England",
+      "Amazing",
+      "Plastic Bag",
+      "Blue",
+      "American Town",
+      "That's on Me",
+      "Page",
+      "Midnight",
+      "Spring",
+      "Punchline",
+      "When Will I Be Alright",
+      "The Day I Was Born",
+      "Head > Heels"
+    ]
+  },
+  "entity_id": "4b8ac19b-eb49-4afc-987b-b6fc3995029f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "18ca1143-fd22-40d5-a47a-9647b9ca92a9",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Autumn Variations",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://businessmirror.com.ph/2023/10/08/ed-sheeran-releases-new-album-autumn-variations/, https://3345.nl/products/ed-sheeran-autumn-variations-white-vinyl. Title is 'Head > Heels' (with the > symbol), and 'That's on Me' per official listings.",
+  "status": "verified"
+}

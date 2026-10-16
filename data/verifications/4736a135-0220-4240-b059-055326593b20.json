@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:01.25679+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Checkmate - Single (2019)",
+    "track_number": 1
+  },
+  "entity_id": "a74ba20f-31c0-47d1-ac5b-174a2ca75a1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4736a135-0220-4240-b059-055326593b20",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Checkmate - Single (2019)",
+    "title": "Checkmate - Single (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Checkmate - Single (2019)'.",
+  "status": "verified"
+}

@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:27.990883+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Moon Shaped Pool",
+    "track_count": 11,
+    "tracklist": [
+      "Burn the Witch",
+      "Daydreaming",
+      "Decks Dark",
+      "Desert Island Disk",
+      "Ful Stop",
+      "Glass Eyes",
+      "Identikit",
+      "The Numbers",
+      "Present Tense",
+      "Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief",
+      "True Love Waits"
+    ]
+  },
+  "entity_id": "3b9db551-1694-45b7-bc49-8f17a196a003",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c8820d40-da02-4629-9038-3e9ba453ae96",
+  "input": {
+    "artist": "Radiohead",
+    "title": "A Moon Shaped Pool",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://en.wikipedia.org/wiki/A_Moon_Shaped_Pool, https://www.sonicboommusic.com/products/radiohead-a-moon-shaped-pool-vinyl. Ninth studio album (May 2016). The special edition CD adds two bonus tracks (not listed here); this is the standard 11-track edition.",
+  "status": "verified"
+}

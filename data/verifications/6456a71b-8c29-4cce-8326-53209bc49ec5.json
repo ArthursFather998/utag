@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:25.190168+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Young Guns",
+    "track_number": 1
+  },
+  "entity_id": "87ed1580-5f3e-465a-afea-7384bc3101c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6456a71b-8c29-4cce-8326-53209bc49ec5",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Young Guns",
+    "title": "Young Guns"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Young Guns'.",
+  "status": "verified"
+}

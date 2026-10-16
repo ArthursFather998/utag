@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:42.506482+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Groundwork (2022)",
+    "track_number": 1
+  },
+  "entity_id": "0cdd2a2d-d2f4-4db9-a053-4f1e66fbfffc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "73c6a81d-057b-432f-aa09-6cdee1dda838",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Groundwork (2022)",
+    "title": "Groundwork (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Groundwork (2022)'.",
+  "status": "verified"
+}

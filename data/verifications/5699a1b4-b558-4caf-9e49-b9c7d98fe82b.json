@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:54.478485+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Paranoid Android",
+    "track_number": 1
+  },
+  "entity_id": "d202d5af-905e-4871-82dc-a516cf9be7fa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5699a1b4-b558-4caf-9e49-b9c7d98fe82b",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Paranoid Android",
+    "title": "Paranoid Android"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Paranoid Android'.",
+  "status": "verified"
+}

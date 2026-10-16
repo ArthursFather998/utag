@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:59.354519+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The King - Single (2019)",
+    "track_number": 1
+  },
+  "entity_id": "2e4137e1-dcc1-46dd-8991-439e25fdad7e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e540e29-b6a3-4da9-9075-6fa17343d7ff",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "The King - Single (2019)",
+    "title": "The King - Single (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The King - Single (2019)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:36.537032+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Shape of You",
+    "track_number": 1
+  },
+  "entity_id": "4e0644ba-0c9c-43de-9148-b398d196da7a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89eaaa8b-63ad-4283-8e41-7838a3dd7e03",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Shape of You",
+    "title": "Shape of You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Shape of You'.",
+  "status": "verified"
+}

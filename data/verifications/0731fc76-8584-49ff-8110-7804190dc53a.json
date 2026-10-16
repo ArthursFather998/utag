@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:43.195694+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Short n' Sweet(er)",
+    "track_count": 13,
+    "tracklist": [
+      "Taste",
+      "Please Please Please",
+      "Good Graces",
+      "Sharpest Tool",
+      "Coincidence",
+      "Bed Chem",
+      "Espresso",
+      "Dumb & Poetic",
+      "Slim Pickins",
+      "Juno",
+      "Lie To Girls",
+      "Don't Smile",
+      "Busy Woman"
+    ]
+  },
+  "entity_id": "5208192c-47dc-43bb-abae-2e6ce345774e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0731fc76-8584-49ff-8110-7804190dc53a",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "title": "Short n' Sweet(er)",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://sabrina-carpenter.com/2024/09/03/2817/, https://sabrinacarpenter.fandom.com/wiki/Short_n'_Sweet. Limited-edition digital variant released Aug 29, 2024, sold exclusively via her webstore for one day (Billboard). Contains the standard album's 12 songs plus the bonus track 'Busy Woman' (track 13). Distinct from the standard album and from the Feb 2025 Deluxe; NOT a duplicate.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:17.93973+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Girl",
+    "track_number": 1
+  },
+  "entity_id": "8000d819-34af-4ba6-b449-efb79193a8e2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "98b616d3-f3ac-400c-941d-69313c1d876a",
+  "input": {
+    "artist": "Clairo",
+    "release": "Girl",
+    "title": "Girl"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Girl'.",
+  "status": "verified"
+}

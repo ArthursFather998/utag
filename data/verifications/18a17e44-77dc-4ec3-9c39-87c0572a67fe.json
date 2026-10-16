@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:30.506492+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hot to Go! (2023)",
+    "track_number": 1
+  },
+  "entity_id": "ec0d93e7-1bcc-4b8c-885d-5456005471f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18a17e44-77dc-4ec3-9c39-87c0572a67fe",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Hot to Go! (2023)",
+    "title": "Hot to Go! (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hot to Go! (2023)'.",
+  "status": "verified"
+}

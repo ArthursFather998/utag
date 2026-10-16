@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:39.539574+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Young Guns (2011)",
+    "track_number": 1
+  },
+  "entity_id": "0f9024bb-442e-4cff-b829-661f4cd34cf2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a85e9ede-c7dd-40cc-90b8-352b2a64d626",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Young Guns (2011)",
+    "title": "Young Guns (2011)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Young Guns (2011)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:44.388571+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In My Bed",
+    "track_number": 1
+  },
+  "entity_id": "048cd9d3-402a-423c-b5ef-d6ac2f43606a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a3a1ddc-7828-4e48-b0e5-c20faeaa356c",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "In My Bed",
+    "title": "In My Bed"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'In My Bed'.",
+  "status": "verified"
+}

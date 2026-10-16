@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:37.627721+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lights Up",
+    "track_number": 1
+  },
+  "entity_id": "dca80dd1-5d1a-41d6-bf01-49c421979a92",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "76f4471f-037e-4f0f-b8f7-036ea0429390",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Lights Up",
+    "title": "Lights Up"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lights Up'.",
+  "status": "verified"
+}

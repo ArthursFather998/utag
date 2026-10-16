@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:12.2647+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In the Ghetto (1969)",
+    "track_number": 1
+  },
+  "entity_id": "cf881c1d-09f6-4867-bed3-8e818ae28033",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c98e9729-17b7-4b4d-a073-9de83a7d02ab",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "In the Ghetto (1969)",
+    "title": "In the Ghetto (1969)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'In the Ghetto (1969)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:50.072016+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "In the Ghetto",
+    "track_number": 1
+  },
+  "entity_id": "20858438-c4df-4a9d-9dfd-b00642c7934b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f06d244f-f964-439e-aa10-24d790c23e67",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "In the Ghetto",
+    "title": "In the Ghetto"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'In the Ghetto'.",
+  "status": "verified"
+}

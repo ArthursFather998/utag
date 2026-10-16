@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:25.693318+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Streetcar (2015)",
+    "track_number": 1
+  },
+  "entity_id": "ad1ded33-50cf-4ecf-aa41-e65480a00822",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4036001-bfdd-4739-b7cf-965c58036b8a",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Streetcar (2015)",
+    "title": "Streetcar (2015)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Streetcar (2015)'.",
+  "status": "verified"
+}

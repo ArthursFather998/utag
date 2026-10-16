@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:31.717215+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "King's Dead",
+    "track_number": 1
+  },
+  "entity_id": "d890b40a-e709-430d-8c0b-f22f600b1c5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3036f5a4-70a0-44be-bb01-012359de4a16",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "King's Dead",
+    "title": "King's Dead"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'King's Dead'.",
+  "status": "verified"
+}

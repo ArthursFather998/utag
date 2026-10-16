@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:33.77478+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Memories - Single (2022)",
+    "track_number": 1
+  },
+  "entity_id": "73e5d587-8514-4bfc-a95e-958b6b1fa195",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bfca32bb-0a39-4872-a44c-cb121bf9d42d",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Memories - Single (2022)",
+    "title": "Memories - Single (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Memories - Single (2022)'.",
+  "status": "verified"
+}

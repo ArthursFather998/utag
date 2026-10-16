@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:08.220652+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cyanide (Remix) (2019)",
+    "track_number": 1
+  },
+  "entity_id": "84b188f9-c6fc-4e91-a8cd-22eaaf7ad50c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "61766e92-9c16-4280-8ce7-1867db5a354a",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Cyanide (Remix) (2019)",
+    "title": "Cyanide (Remix) (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cyanide (Remix) (2019)'.",
+  "status": "verified"
+}

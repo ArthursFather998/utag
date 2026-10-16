@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:11:45.769833+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Roustabout (1964)",
+    "track_count": 11,
+    "tracklist": [
+      "Roustabout",
+      "Little Egypt",
+      "Poison Ivy League",
+      "Hard Knocks",
+      "It's a Wonderful World",
+      "Big Love Big Heartache",
+      "One Track Heart",
+      "It's Carnival Time",
+      "Carny Town",
+      "There's a Brand New Day on the Horizon",
+      "Wheels on My Heels"
+    ]
+  },
+  "entity_id": "766c5d52-ea05-4355-a986-5b741996ee2d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dfd1984b-4ca7-46e4-af33-70cfbe773e15",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Roustabout (1964)",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://en.wikipedia.org/wiki/Roustabout_(soundtrack), http://discogs.com/release/3317617-Elvis-Presley-Roustabout. Soundtrack album, released October 20, 1964. Original 11-track release.",
+  "status": "verified"
+}

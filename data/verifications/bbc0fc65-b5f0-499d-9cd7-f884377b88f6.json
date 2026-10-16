@@ -1,0 +1,47 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:00.386381+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "OK Computer OKNOTOK 1997 2017",
+    "track_count": 23,
+    "tracklist": [
+      "Airbag",
+      "Paranoid Android",
+      "Subterranean Homesick Alien",
+      "Exit Music (For a Film)",
+      "Let Down",
+      "Karma Police",
+      "Fitter Happier",
+      "Electioneering",
+      "Climbing Up the Walls",
+      "No Surprises",
+      "Lucky",
+      "The Tourist",
+      "I Promise",
+      "Man of War",
+      "Lift",
+      "Lull",
+      "Meeting in the Aisle",
+      "Melatonin",
+      "A Reminder",
+      "Polyethylene (Parts 1 & 2)",
+      "Pearly*",
+      "Palo Alto",
+      "How I Made My Millions"
+    ]
+  },
+  "entity_id": "038b3ea1-e967-4ab9-817c-3cc66a819e57",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bbc0fc65-b5f0-499d-9cd7-f884377b88f6",
+  "input": {
+    "artist": "Radiohead",
+    "title": "OK Computer OKNOTOK 1997 2017",
+    "track_count": 23
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (23 tracks) per https://www.theingroove.com/products/radiohead-ok-computer-oknotok-1997-2017-lp, https://punktofunkheaven.co.uk/products/radiohead-ok-computer-oknotok-1997-2017-label-xl-recordings-xllp868-format-3-x-vinyl-lp-album. Official 20th-anniversary reissue (Jun 2017, XL Recordings), 3xLP. Tracks 1-12 = remastered OK Computer; tracks 13-23 = 8 B-sides plus 3 previously unreleased tracks (I Promise, Man of War, Lift). 'Pearly*' carries its official asterisk.",
+  "status": "verified"
+}

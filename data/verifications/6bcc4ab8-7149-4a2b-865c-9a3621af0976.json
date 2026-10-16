@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:13.909207+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Scream",
+    "track_count": 14,
+    "tracklist": [
+      "This Place Hotel",
+      "Thriller",
+      "Blood on the Dance Floor",
+      "Somebody's Watching Me",
+      "Dirty Diana",
+      "Torture",
+      "Leave Me Alone",
+      "Scream",
+      "Dangerous",
+      "Unbreakable",
+      "Xscape",
+      "Threatened",
+      "Ghosts",
+      "Blood on the Dance Floor X Dangerous (The White Panda Mash-Up)"
+    ]
+  },
+  "entity_id": "842c52d1-e940-43ca-a0a3-04b2664bf513",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6bcc4ab8-7149-4a2b-865c-9a3621af0976",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Scream",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://www.discogs.com/release/10915774-Michael-Jackson-Scream, https://www.spinmagazine.com/2017/09/michael-jackson-scream-compilation-halloween/. Halloween-themed compilation (2017). Tracks 4 (Rockwell feat. MJ) and 6 (The Jacksons) are not solo MJ recordings but are on the official compilation. Track 14 is the White Panda mash-up bonus.",
+  "status": "verified"
+}

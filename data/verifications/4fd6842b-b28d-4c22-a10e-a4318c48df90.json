@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:31.75178+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Misery Business",
+    "track_number": 1
+  },
+  "entity_id": "f1084070-7534-4e96-8bfa-9d829553838f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4fd6842b-b28d-4c22-a10e-a4318c48df90",
+  "input": {
+    "artist": "Paramore",
+    "release": "Misery Business",
+    "title": "Misery Business"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Misery Business'.",
+  "status": "verified"
+}

@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:44.75088+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+    "track_count": 6,
+    "tracklist": [
+      "Whoville",
+      "Lights On",
+      "Hot Chocolate",
+      "Big Bag",
+      "When Gloves Come Off",
+      "Cindy Lou's Wish"
+    ]
+  },
+  "entity_id": "9acf5310-bb5d-4623-ae47-697f72429774",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4bb746e4-4f7d-4a66-834d-79d23bc3cab1",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://music.mxdwn.com/2018/11/15/news/tyler-the-creator-to-release-new-grinch-themed-ep-tonight-and-shares-new-song-lights-on-featuring-santigold-and-ryan-beatty/, https://wolf-haley.fandom.com/wiki/Music_Inspired_by_Illumination_%26_Dr._Seuss%27_The_Grinch. 2018 six-track EP released Nov 16, 2018 alongside his contributions to The Grinch film soundtrack. Features from Santigold, Ryan Beatty (tracks 2 & 5), Jerry Paper (track 3). Track titles agree across all sources; feature credits omitted from track names per DB convention.",
+  "status": "verified"
+}

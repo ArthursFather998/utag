@@ -1,0 +1,53 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:08.150726+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Paramore (Deluxe)",
+    "track_count": 29,
+    "tracklist": [
+      "Fast in My Car",
+      "Now",
+      "Grow Up",
+      "Daydreaming",
+      "Interlude: Moving On",
+      "Ain't It Fun",
+      "Part II",
+      "Last Hope",
+      "Still Into You",
+      "Anklebiters",
+      "Interlude: Holiday",
+      "Proof",
+      "Hate to See Your Heart Break",
+      "(One of Those) Crazy Girls",
+      "Interlude: I'm Not Angry Anymore",
+      "Be Alone",
+      "Future",
+      "Hate to See Your Heart Break (feat. Joy Williams)",
+      "Escape Route",
+      "Native Tongue",
+      "Tell Me It's Okay (demo)",
+      "Still Into You (live at Red Rocks)",
+      "Decode (live at Red Rocks)",
+      "The Only Exception (live at Red Rocks)",
+      "Brick by Boring Brick (live at Red Rocks)",
+      "Let the Flames Begin (live at Red Rocks)",
+      "Part II (live at Red Rocks)",
+      "Proof (live at Red Rocks)",
+      "Ain't It Fun (live at Red Rocks)"
+    ]
+  },
+  "entity_id": "82257c8f-1f76-4d67-843a-5fb723aa1056",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "81dce97d-6475-4784-8e7f-f0f45ae89391",
+  "input": {
+    "artist": "Paramore",
+    "title": "Paramore (Deluxe)",
+    "track_count": 29
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (29 tracks) per https://www.loudersound.com/news/paramore-detail-self-titled-deluxe, https://www.gigwise.com/news/78981/paramore-reveal-tracklist-for-upcoming-self-titled-album/. Self-Titled Deluxe (2014): 17 standard tracks + 4 studio bonus tracks + 8 live tracks from Red Rocks.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:16:14.203435+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "DHL",
+    "track_number": 1
+  },
+  "entity_id": "3e139057-3811-407b-9b43-5bfe08788ee4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "777cd818-8b43-4fa3-889b-329a7fe9ce67",
+  "input": {
+    "artist": "Frank Ocean",
+    "release": "DHL",
+    "title": "DHL"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'DHL'.",
+  "status": "verified"
+}

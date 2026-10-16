@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:01:50.040075+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Clambake",
+    "track_count": 12,
+    "tracklist": [
+      "Guitar Man",
+      "Clambake",
+      "Who Needs Money",
+      "A House That Has Everything",
+      "Confidence",
+      "Hey, Hey, Hey",
+      "You Don't Know Me",
+      "The Girl I Never Loved",
+      "How Can You Lose What You Never Had",
+      "Big Boss Man",
+      "Singing Tree",
+      "Just Call Me Lonesome"
+    ]
+  },
+  "entity_id": "f4c321d1-c670-4e34-b834-0590fe21b462",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "83c9793c-b9e6-45a4-bde6-e3e93e26d961",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Clambake",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Clambake_(soundtrack), https://www.elvisthemusic.com. 1967 film soundtrack, 12 tracks.",
+  "status": "verified"
+}

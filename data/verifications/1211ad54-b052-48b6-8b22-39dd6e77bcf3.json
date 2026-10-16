@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:10.8069+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Froyo",
+    "track_number": 1
+  },
+  "entity_id": "5c4cf4c8-738c-4571-aae6-8629d2e72d5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1211ad54-b052-48b6-8b22-39dd6e77bcf3",
+  "input": {
+    "artist": "Clairo",
+    "release": "Froyo",
+    "title": "Froyo"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Froyo'.",
+  "status": "verified"
+}

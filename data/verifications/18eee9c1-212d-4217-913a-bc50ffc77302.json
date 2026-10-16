@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:35.591309+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Conducta (2018)",
+    "track_number": 1
+  },
+  "entity_id": "aa4f7466-93d1-42b3-8e22-dc8ba827b037",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18eee9c1-212d-4217-913a-bc50ffc77302",
+  "input": {
+    "artist": "Clairo",
+    "release": "Conducta (2018)",
+    "title": "Conducta (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Conducta (2018)'.",
+  "status": "verified"
+}

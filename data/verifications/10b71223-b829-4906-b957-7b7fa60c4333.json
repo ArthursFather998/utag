@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:13.992164+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Raised by Wolves",
+    "track_number": 1
+  },
+  "entity_id": "813528f2-e33a-497b-b2ca-b015965a6e94",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "10b71223-b829-4906-b957-7b7fa60c4333",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Raised by Wolves",
+    "title": "Raised by Wolves"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Raised by Wolves'.",
+  "status": "verified"
+}

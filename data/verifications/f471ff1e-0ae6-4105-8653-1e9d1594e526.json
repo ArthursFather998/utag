@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:54.951158+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Vodka Cranberry",
+    "track_number": 1
+  },
+  "entity_id": "a04ce91e-b2d1-4c28-b80c-c0d2b5535602",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f471ff1e-0ae6-4105-8653-1e9d1594e526",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Vodka Cranberry",
+    "title": "Vodka Cranberry"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Vodka Cranberry'.",
+  "status": "verified"
+}

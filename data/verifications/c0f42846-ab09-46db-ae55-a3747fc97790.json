@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:13.583169+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Gone Too Soon",
+    "track_number": 1
+  },
+  "entity_id": "8e9a0d9b-b445-474e-9693-4f9ed5daabee",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0f42846-ab09-46db-ae55-a3747fc97790",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Gone Too Soon",
+    "title": "Gone Too Soon"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Gone Too Soon'.",
+  "status": "verified"
+}

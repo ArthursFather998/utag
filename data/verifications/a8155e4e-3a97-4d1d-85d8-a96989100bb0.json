@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:28.325271+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Little More",
+    "track_number": 1
+  },
+  "entity_id": "a93705d7-c60f-43e0-bf87-901a8628bb17",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a8155e4e-3a97-4d1d-85d8-a96989100bb0",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "A Little More",
+    "title": "A Little More"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Little More'.",
+  "status": "verified"
+}

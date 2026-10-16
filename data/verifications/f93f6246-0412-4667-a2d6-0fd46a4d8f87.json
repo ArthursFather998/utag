@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:45.311154+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "She'll Never Be Me",
+    "track_number": 1
+  },
+  "entity_id": "bc1161d5-b8ff-4a9c-bc4c-8fae3ce0a537",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f93f6246-0412-4667-a2d6-0fd46a4d8f87",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "She'll Never Be Me",
+    "title": "She'll Never Be Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'She'll Never Be Me'.",
+  "status": "verified"
+}

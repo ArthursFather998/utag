@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:37.129951+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Burning Love (1972)",
+    "track_number": 1
+  },
+  "entity_id": "f92a06f6-379d-42b2-8261-47412e24728c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "190bfe5c-c27f-4c61-928f-f05b2b4993fe",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Burning Love (1972)",
+    "title": "Burning Love (1972)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Burning Love (1972)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:47.317736+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Break the Ice (2008)",
+    "track_number": 1
+  },
+  "entity_id": "1031f159-31e3-4b3b-8bf9-bd42723aac43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26330feb-d684-42f2-8440-b771d9bd54d0",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Break the Ice (2008)",
+    "title": "Break the Ice (2008)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Break the Ice (2008)'.",
+  "status": "verified"
+}

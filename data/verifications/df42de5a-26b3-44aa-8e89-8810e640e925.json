@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:46.644927+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "South of the Border",
+    "track_number": 1
+  },
+  "entity_id": "b4826691-b5c3-41cc-b606-5b9d82a6f559",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df42de5a-26b3-44aa-8e89-8810e640e925",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "South of the Border",
+    "title": "South of the Border"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'South of the Border'.",
+  "status": "verified"
+}

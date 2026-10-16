@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:16:52.048587+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bodysnatchers",
+    "track_number": 1
+  },
+  "entity_id": "95c1ae8d-47d6-45bc-a72a-57c2a3e0085a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8ccec77-ceb6-41d9-9649-cc375be34640",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Bodysnatchers",
+    "title": "Bodysnatchers"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bodysnatchers'.",
+  "status": "verified"
+}

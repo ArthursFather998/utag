@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:13.53746+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Get with U (2017)",
+    "track_number": 1
+  },
+  "entity_id": "5bbb2b79-e134-46b7-926f-7c12fcae394a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8600795-0364-4e9f-ac61-f7479aa0c17c",
+  "input": {
+    "artist": "Clairo",
+    "release": "Get with U (2017)",
+    "title": "Get with U (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Get with U (2017)'.",
+  "status": "verified"
+}

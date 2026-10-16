@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:47.313793+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Some",
+    "track_number": 1
+  },
+  "entity_id": "4c507a05-5fad-4146-9737-8c2071af9ee1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "98732576-6e8b-4862-aec8-658914476af7",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Some",
+    "title": "Some"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Some'.",
+  "status": "verified"
+}

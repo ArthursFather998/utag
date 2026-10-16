@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:02.895725+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Radar (2009)",
+    "track_number": 1
+  },
+  "entity_id": "af06335c-1fc6-4d51-b1eb-c412f978f57b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a5dc0a7-9b2e-43b9-af1d-2b37369539a4",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Radar (2009)",
+    "title": "Radar (2009)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Radar (2009)'.",
+  "status": "verified"
+}

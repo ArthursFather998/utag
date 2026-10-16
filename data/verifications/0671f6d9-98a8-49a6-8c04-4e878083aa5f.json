@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:53.012827+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Holidays",
+    "track_number": 1
+  },
+  "entity_id": "d06ef270-4dc0-4aac-a0ca-7fe14e7a13af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0671f6d9-98a8-49a6-8c04-4e878083aa5f",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Holidays",
+    "title": "Holidays"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Holidays'.",
+  "status": "verified"
+}

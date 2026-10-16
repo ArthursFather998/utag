@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:27.652707+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Coming Home (Deluxe Edition)",
+    "track_count": 13,
+    "tracklist": [
+      "Coming Home",
+      "Broken",
+      "Loser",
+      "Fuck You and All Your Friends",
+      "I Hate Everyone",
+      "I'm Bad at Life",
+      "Hanging On",
+      "Superhero",
+      "Straight to Hell",
+      "I Don't Mind",
+      "The Departure",
+      "Right Now",
+      "Paparazzi"
+    ]
+  },
+  "entity_id": "49772cd2-fb6e-49b8-a1b0-49b391821174",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1ffe0a56-1735-42a8-9a85-8d36aedc3b51",
+  "input": {
+    "artist": "Falling In Reverse",
+    "title": "Coming Home (Deluxe Edition)",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Coming_Home_(Falling_in_Reverse_album), https://songdata.io/album/79fnwKynD56xIXBVWkyaE5/Coming-Home-Deluxe-Edition-by-Falling-In-Reverse. Fourth studio album, released April 7, 2017 via Epitaph. Deluxe/digital edition adds 2 bonus tracks (Right Now, Paparazzi) per Wikipedia, songdata.io, and Qobuz.",
+  "status": "verified"
+}

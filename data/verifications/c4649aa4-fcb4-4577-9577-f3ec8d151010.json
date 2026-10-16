@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:14.245319+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Midnight (2018)",
+    "track_number": 1
+  },
+  "entity_id": "9cd40910-6f45-4581-8349-4339bb673822",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c4649aa4-fcb4-4577-9577-f3ec8d151010",
+  "input": {
+    "artist": "Clairo",
+    "release": "Midnight (2018)",
+    "title": "Midnight (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Midnight (2018)'.",
+  "status": "verified"
+}

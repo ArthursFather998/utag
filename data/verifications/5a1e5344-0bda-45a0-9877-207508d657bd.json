@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:08.781108+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Alien",
+    "track_number": 1
+  },
+  "entity_id": "d928e9a5-cb9c-4fb9-ae0c-7f64331160e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a1e5344-0bda-45a0-9877-207508d657bd",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Alien",
+    "title": "Alien"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Alien'.",
+  "status": "verified"
+}

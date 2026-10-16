@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:55:59.817428+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Viva Las Vegas",
+    "track_count": 4,
+    "tracklist": [
+      "If You Think I Don't Need You",
+      "I Need Somebody to Lean On",
+      "C'mon Everybody",
+      "Today, Tomorrow and Forever"
+    ]
+  },
+  "entity_id": "924b6fd8-5a86-440d-aa3f-66f4fc086ffe",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8cf0c82d-2a1e-4e6d-8ddb-de2df720be6b",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Viva Las Vegas",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Viva_Las_Vegas_(EP), https://www.discogs.com/release/14635759-Elvis-Presley-%E3%83%A9%E3%82%B9%E3%83%99%E3%82%AC%E3%82%B9%E4%B8%87%E6%89%8D-Viva-Las-Vegas. VERIFIED: no full soundtrack LP was issued in 1964. The only official 1964 release was this 4-track EP (RCA Victor EPA-4382, May 1964, coincided with the film premiere). The 12-track 'soundtrack album' (Viva Las Vegas, What'd I Say, If You Think I Don't Need You, I Need Somebody to Lean On, C'mon Everybody, Today Tomorrow and Forever, Night Life, Santa Lucia, Do the Vega, You're the Boss, The Yellow Rose of Texas/The Eyes of Texas, The Lady Loves Me) is a later compilation (2003 FTD / 2010 Legacy), NOT a 1964 release.",
+  "status": "verified"
+}

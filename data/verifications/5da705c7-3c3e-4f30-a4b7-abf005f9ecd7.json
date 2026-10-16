@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:42:42.373018+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Die Hard",
+    "track_number": 1
+  },
+  "entity_id": "58e45bde-f022-4de1-940c-7d209bf5c424",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5da705c7-3c3e-4f30-a4b7-abf005f9ecd7",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "release": "Die Hard",
+    "title": "Die Hard"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Die Hard'.",
+  "status": "verified"
+}

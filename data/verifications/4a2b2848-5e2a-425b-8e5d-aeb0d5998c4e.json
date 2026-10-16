@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:22.997439+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "brutal",
+    "track_number": 1
+  },
+  "entity_id": "854e75c1-baa8-43ec-acdb-6c28eca600ac",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4a2b2848-5e2a-425b-8e5d-aeb0d5998c4e",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "brutal",
+    "title": "brutal"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'brutal'.",
+  "status": "verified"
+}

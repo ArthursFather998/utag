@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:43.346601+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Break the Ice",
+    "track_number": 1
+  },
+  "entity_id": "e218ae12-d8c5-4c0f-8cf6-3f0739a17a2e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6cef09a8-c4bd-4f58-98ab-5e21c279280d",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Break the Ice",
+    "title": "Break the Ice"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Break the Ice'.",
+  "status": "verified"
+}

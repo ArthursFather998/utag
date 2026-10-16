@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:47.313674+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Juna (2024)",
+    "track_number": 1
+  },
+  "entity_id": "9efc416c-4383-4795-b747-e2b6e7f22116",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2379d04d-15f8-442a-b5fa-edd59d787f1d",
+  "input": {
+    "artist": "Clairo",
+    "release": "Juna (2024)",
+    "title": "Juna (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Juna (2024)'.",
+  "status": "verified"
+}

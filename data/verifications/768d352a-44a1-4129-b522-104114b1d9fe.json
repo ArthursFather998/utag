@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:16.718373+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Fashionably Late (Deluxe Edition)",
+    "track_count": 15,
+    "tracklist": [
+      "Champion",
+      "Bad Girls Club",
+      "Rolling Stone",
+      "Fashionably Late",
+      "Alone",
+      "Born to Lead",
+      "It's Over When It's Over",
+      "Game Over",
+      "Self-Destruct Personality",
+      "Fuck the Rest",
+      "Keep Holding On",
+      "Drifter",
+      "Where Have You Been",
+      "Goddamn",
+      "Rolling Stone (Shy Kidx Remix)"
+    ]
+  },
+  "entity_id": "ac155169-847d-432d-8615-2b0f14dde4ce",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "768d352a-44a1-4129-b522-104114b1d9fe",
+  "input": {
+    "artist": "Falling In Reverse",
+    "title": "Fashionably Late (Deluxe Edition)",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://en.wikipedia.org/wiki/Fashionably_Late_(Falling_in_Reverse_album), https://www.discogs.com/release/4747972-Falling-In-Reverse-Fashionably-Late. Second studio album, released June 18, 2013 via Epitaph. Deluxe edition adds 3 bonus tracks per Wikipedia, Discogs, and Last.fm (all agree on 15-track order).",
+  "status": "verified"
+}

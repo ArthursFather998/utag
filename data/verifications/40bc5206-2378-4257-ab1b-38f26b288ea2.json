@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:35.061917+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Crushcrushcrush",
+    "track_number": 1
+  },
+  "entity_id": "9e14be77-7d5d-4059-8d9d-eeae0f353e98",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40bc5206-2378-4257-ab1b-38f26b288ea2",
+  "input": {
+    "artist": "Paramore",
+    "release": "Crushcrushcrush",
+    "title": "Crushcrushcrush"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Crushcrushcrush'.",
+  "status": "verified"
+}

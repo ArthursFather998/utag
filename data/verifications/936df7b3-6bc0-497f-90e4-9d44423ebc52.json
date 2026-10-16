@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:31.817131+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Foundations of Decay",
+    "track_number": 1
+  },
+  "entity_id": "11d51286-16f3-44f6-ba96-7bfd0c3dc99e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "936df7b3-6bc0-497f-90e4-9d44423ebc52",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "The Foundations of Decay",
+    "title": "The Foundations of Decay"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Foundations of Decay'.",
+  "status": "verified"
+}

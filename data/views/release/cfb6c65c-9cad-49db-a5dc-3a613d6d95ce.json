@@ -1268,6 +1268,146 @@
     "title": "Remix",
     "updated_at": "2026-10-16T04:06:38.277924+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:31.987815+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ce32983c-fb6f-496b-8b03-a4434a364d6d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "cfb6c65c-9cad-49db-a5dc-3a613d6d95ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Dancing with a Stranger (Cheat Codes Remix)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:31:31.987815+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:32.593315+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c841f318-5d2f-4e30-a20f-f714bca0d4e6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "cfb6c65c-9cad-49db-a5dc-3a613d6d95ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "To Die For (Blinkie Remix)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:31:32.593315+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:33.183444+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "73eb3414-2d27-4740-a59e-47b02c5e9641",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "cfb6c65c-9cad-49db-a5dc-3a613d6d95ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Omen (Dillon Francis Remix)",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:31:33.183444+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:33.705718+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "15c71091-da42-484f-a1fc-dd03da2eff96",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "cfb6c65c-9cad-49db-a5dc-3a613d6d95ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Lay Me Down (Flume Remix)",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:31:33.705718+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:34.278998+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "37647a2c-8bc2-4ab4-9cae-2efe0c565085",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "cfb6c65c-9cad-49db-a5dc-3a613d6d95ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "La La La (Kaos Remix)",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:31:34.278998+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:31:34.797134+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e7a253a6-a2ee-4dd8-b549-dc07f7fcbe01",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "cfb6c65c-9cad-49db-a5dc-3a613d6d95ce",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Too Good at Goodbyes (Galantis Remix)",
+      "track_number": 6,
+      "updated_at": "2026-10-16T06:31:34.797134+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:31:35.435224+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Remix",
+        "track_count": 6,
+        "tracklist": [
+          "Dancing with a Stranger (Cheat Codes Remix)",
+          "To Die For (Blinkie Remix)",
+          "Omen (Dillon Francis Remix)",
+          "Lay Me Down (Flume Remix)",
+          "La La La (Kaos Remix)",
+          "Too Good at Goodbyes (Galantis Remix)"
+        ]
+      },
+      "entity_id": "cfb6c65c-9cad-49db-a5dc-3a613d6d95ce",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "d07128e5-b111-4cde-af83-9257d0b8771a",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "Remix",
+        "track_count": 6
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (6 tracks) per https://www.youtube.com/@samsmith, https://www.muxicbeats.com/sam-smith-songs/. Remix EP, 6 tracks. Verified against Sam Smith's official YouTube (Sampler Media uploads) and muxicbeats.com tracklist.",
+      "status": "verified"
+    }
+  ]
 }

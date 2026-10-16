@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:35.625005+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lavender (2023)",
+    "track_number": 1
+  },
+  "entity_id": "63aade79-ba73-4501-b1f7-2769ecbdc82c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bef91c4f-e4ea-4b24-89df-2b6a75941c3e",
+  "input": {
+    "artist": "Clairo",
+    "release": "Lavender (2023)",
+    "title": "Lavender (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lavender (2023)'.",
+  "status": "verified"
+}

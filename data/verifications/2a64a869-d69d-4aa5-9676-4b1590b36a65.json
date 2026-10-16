@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:02:44.433674+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hearteater (2019)",
+    "track_number": 1
+  },
+  "entity_id": "c180fe85-adf0-4dd2-a37e-539fef8e5849",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a64a869-d69d-4aa5-9676-4b1590b36a65",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Hearteater (2019)",
+    "title": "Hearteater (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hearteater (2019)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:54.666209+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "So Low (2023)",
+    "track_number": 1
+  },
+  "entity_id": "5a07c914-0492-4c81-b03f-30da6c68056f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "849c1330-cce2-40cb-826d-56bcc9e24e2e",
+  "input": {
+    "artist": "Clairo",
+    "release": "So Low (2023)",
+    "title": "So Low (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'So Low (2023)'.",
+  "status": "verified"
+}

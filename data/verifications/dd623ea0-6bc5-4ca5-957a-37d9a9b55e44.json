@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:50.340727+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Defenseless",
+    "track_number": 1
+  },
+  "entity_id": "1f2f7083-b286-4409-808b-921899d065a8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dd623ea0-6bc5-4ca5-957a-37d9a9b55e44",
+  "input": {
+    "artist": "JVKE",
+    "release": "Defenseless",
+    "title": "Defenseless"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Defenseless'.",
+  "status": "verified"
+}

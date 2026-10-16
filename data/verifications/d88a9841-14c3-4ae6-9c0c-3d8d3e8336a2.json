@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:30.162173+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Nothing but Trouble (with Lil Wayne)",
+    "track_number": 1
+  },
+  "entity_id": "f771b92b-b710-4b50-9673-1e9c48f20461",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d88a9841-14c3-4ae6-9c0c-3d8d3e8336a2",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Nothing but Trouble (with Lil Wayne)",
+    "title": "Nothing but Trouble (with Lil Wayne)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Nothing but Trouble (with Lil Wayne)'.",
+  "status": "verified"
+}

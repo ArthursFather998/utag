@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:07.030543+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Yours",
+    "track_number": 1
+  },
+  "entity_id": "f3bed17a-2914-41c6-9c0f-c926f08d819f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60f1a00f-e931-4618-836b-606ab7f48111",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Yours",
+    "title": "Yours"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Yours'.",
+  "status": "verified"
+}

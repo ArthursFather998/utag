@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:10.174185+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "expectations",
+    "track_number": 1
+  },
+  "entity_id": "d762ef48-4752-4343-8356-925c4fc601bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c7fe2525-7516-4fa1-9902-64bcdf501ee9",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "expectations",
+    "title": "expectations"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'expectations'.",
+  "status": "verified"
+}

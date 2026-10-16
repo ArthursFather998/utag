@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:03.580934+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Just Like You (Deluxe Edition)",
+    "track_count": 14,
+    "tracklist": [
+      "Chemical Prisoner",
+      "God, If You Are Above...",
+      "Sexy Drug",
+      "Just Like You",
+      "Guillotine IV (The Final Chapter)",
+      "Stay Away",
+      "Wait and See",
+      "The Bitter End",
+      "My Heart's to Blame",
+      "Get Me Out",
+      "Die for You",
+      "Brother",
+      "My Apocalypse II",
+      "Pray"
+    ]
+  },
+  "entity_id": "9eccd11f-638f-468a-9fda-db9c1953d9d3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "52f6a647-d3c9-4694-8289-8ff8ae9a0273",
+  "input": {
+    "artist": "Falling In Reverse",
+    "title": "Just Like You (Deluxe Edition)",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Just_Like_You_(Falling_in_Reverse_album), https://www.spirit-of-metal.com/en/album/Just_Like_You/291496. Digital and Target deluxe edition adds 2 bonus tracks (My Apocalypse II, Pray) per Wikipedia and Spirit of Metal.",
+  "status": "verified"
+}

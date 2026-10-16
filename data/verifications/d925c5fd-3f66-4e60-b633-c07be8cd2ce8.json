@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:39.713202+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "infinity beyond",
+    "track_number": 1
+  },
+  "entity_id": "2cd14cbf-8f7f-4229-8a57-2c81a2c083ed",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d925c5fd-3f66-4e60-b633-c07be8cd2ce8",
+  "input": {
+    "artist": "JVKE",
+    "release": "infinity beyond",
+    "title": "infinity beyond"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'infinity beyond'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:33.925344+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sis (2019)",
+    "track_number": 1
+  },
+  "entity_id": "ad6f78c1-24bb-44c8-8393-e2e2e32d5945",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7749689-374c-4c7d-be3b-eaa577ff5445",
+  "input": {
+    "artist": "Clairo",
+    "release": "Sis (2019)",
+    "title": "Sis (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sis (2019)'.",
+  "status": "verified"
+}

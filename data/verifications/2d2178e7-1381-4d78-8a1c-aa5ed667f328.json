@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:09.796071+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Attention",
+    "track_number": 1
+  },
+  "entity_id": "6a3d438e-7950-4829-8e72-1241abe6074f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d2178e7-1381-4d78-8a1c-aa5ed667f328",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Attention",
+    "title": "Attention"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Attention'.",
+  "status": "verified"
+}

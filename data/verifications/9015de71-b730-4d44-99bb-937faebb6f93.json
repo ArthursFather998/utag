@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:12.035465+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Big Hunk o' Love",
+    "track_number": 1
+  },
+  "entity_id": "0fde0ac3-f125-440b-81dd-ccbf69c45c88",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9015de71-b730-4d44-99bb-937faebb6f93",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "A Big Hunk o' Love",
+    "title": "A Big Hunk o' Love"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Big Hunk o' Love'.",
+  "status": "verified"
+}

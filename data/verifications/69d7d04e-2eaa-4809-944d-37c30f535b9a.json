@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:08.361821+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "(You're the) Devil in Disguise (1963)",
+    "track_number": 1
+  },
+  "entity_id": "6b019706-6409-41e4-8ab3-34459fc812de",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69d7d04e-2eaa-4809-944d-37c30f535b9a",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "(You're the) Devil in Disguise (1963)",
+    "title": "(You're the) Devil in Disguise (1963)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '(You're the) Devil in Disguise (1963)'.",
+  "status": "verified"
+}

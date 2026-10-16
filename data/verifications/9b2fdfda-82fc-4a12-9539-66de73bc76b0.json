@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:11.482469+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Itch",
+    "track_count": 8,
+    "tracklist": [
+      "Stop Whispering (US Version)",
+      "Thinking About You",
+      "Faithless, The Wonder Boy",
+      "Banana Co.",
+      "Killer Cars (Live)",
+      "Vegetable (Live)",
+      "You (Live)",
+      "Creep (Acoustic)"
+    ]
+  },
+  "entity_id": "126b072c-fc21-4252-8ef1-e4f33e54ae06",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "9b2fdfda-82fc-4a12-9539-66de73bc76b0",
+  "input": {
+    "artist": "Radiohead",
+    "title": "Itch",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per https://www.discogs.com/release/479086-Radiohead-Itch, https://us.rarevinyl.com/products/radiohead-itch-japanese-cd-album-cdlp-tocp-8285-236093. Japan tour mini-album EP (Jun 1, 1994, Toshiba-EMI, TOCP-8285). Tracks 5-7 recorded live at Cabaret Metro, Chicago (Jun 30, 1993); track 8 is the acoustic KROQ version. Track 3 is 'Faithless, The Wonder Boy' per the booklet (rear artwork omits the space).",
+  "status": "verified"
+}

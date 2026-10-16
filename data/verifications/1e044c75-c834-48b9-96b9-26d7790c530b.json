@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:11.855724+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Do Somethin'",
+    "track_number": 1
+  },
+  "entity_id": "734ddc57-1ccd-474c-aae1-3c99d4c7a15c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1e044c75-c834-48b9-96b9-26d7790c530b",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Do Somethin'",
+    "title": "Do Somethin'"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Do Somethin''.",
+  "status": "verified"
+}

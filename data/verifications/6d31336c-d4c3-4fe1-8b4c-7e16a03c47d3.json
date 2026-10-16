@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:05:12.913701+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis' Gold Records, Volume 2 (1959)",
+    "track_count": 10,
+    "tracklist": [
+      "I Need Your Love Tonight",
+      "Don't",
+      "Wear My Ring Around Your Neck",
+      "My Wish Came True",
+      "I Got Stung",
+      "One Night",
+      "A Big Hunk O' Love",
+      "I Beg Of You",
+      "(Now And Then There's) A Fool Such As I",
+      "Doncha' Think It's Time"
+    ]
+  },
+  "entity_id": "a6f80d22-8336-4b7e-9508-76fa50e559c7",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6d31336c-d4c3-4fe1-8b4c-7e16a03c47d3",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis' Gold Records, Volume 2 (1959)",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/50,000,000_Elvis_Fans_Can't_Be_Wrong:_Elvis'_Gold_Records,_Volume_2, https://www.discogs.com/release/2471053-Elvis-Presley-50000000-Elvis-Fans-Cant-Be-Wrong-Elvis-Gold-Records-Volume-2. Full title: '50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Volume 2'. 1959 compilation of 1958-1959 hit singles, 10 tracks. Cross-chunk year-suffix duplicate possible.",
+  "status": "verified"
+}

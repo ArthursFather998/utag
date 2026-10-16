@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:49.430035+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Under the Tree",
+    "track_number": 1
+  },
+  "entity_id": "cc10ff7f-8661-4fa2-99c6-a5017c542655",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bb6d89c1-c13c-465f-be73-2f608983fe9c",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Under the Tree",
+    "title": "Under the Tree"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Under the Tree'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:26.598454+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sapphire (2025)",
+    "track_number": 1
+  },
+  "entity_id": "312a1c24-abb7-4f20-89e6-a9723770208e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b04d2cf-6076-4334-a023-3bf64a3a9b15",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Sapphire (2025)",
+    "title": "Sapphire (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sapphire (2025)'.",
+  "status": "verified"
+}

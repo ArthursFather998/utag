@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:12.870877+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "C'est Comme Ça",
+    "track_number": 1
+  },
+  "entity_id": "0d804793-1a57-4840-8fad-a6b5e8c3449d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ab9cf1a5-683d-455b-bea7-9cfffa0d514d",
+  "input": {
+    "artist": "Paramore",
+    "release": "C'est Comme Ça",
+    "title": "C'est Comme Ça"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'C'est Comme Ça'.",
+  "status": "verified"
+}

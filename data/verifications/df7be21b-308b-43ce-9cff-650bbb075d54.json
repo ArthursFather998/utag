@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:50.307141+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lay It All on Me",
+    "track_number": 1
+  },
+  "entity_id": "a8eedd5a-864d-49be-9d79-cb01286c8152",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "df7be21b-308b-43ce-9cff-650bbb075d54",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Lay It All on Me",
+    "title": "Lay It All on Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lay It All on Me'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:17.392169+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "How Would You Feel (Paean)",
+    "track_number": 1
+  },
+  "entity_id": "c37fabd0-c28a-46be-ae50-b503a5265609",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "174f24e3-5506-40c1-9c72-73e1aca38cf0",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "How Would You Feel (Paean)",
+    "title": "How Would You Feel (Paean)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'How Would You Feel (Paean)'.",
+  "status": "verified"
+}

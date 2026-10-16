@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:56.85782+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Clumsy",
+    "track_number": 1
+  },
+  "entity_id": "f3d39ae6-29c8-4f74-b54a-a7ee6cfd69f7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ad0bc69d-2a56-4900-9c7b-e8a1c86b5297",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Clumsy",
+    "title": "Clumsy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Clumsy'.",
+  "status": "verified"
+}

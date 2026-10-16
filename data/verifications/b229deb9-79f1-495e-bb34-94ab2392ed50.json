@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:15.733168+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Stronger (2000)",
+    "track_number": 1
+  },
+  "entity_id": "af60312e-d565-4c22-a141-8fcb41c22492",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b229deb9-79f1-495e-bb34-94ab2392ed50",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Stronger (2000)",
+    "title": "Stronger (2000)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Stronger (2000)'.",
+  "status": "verified"
+}

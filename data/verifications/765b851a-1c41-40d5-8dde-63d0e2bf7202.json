@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:08.353946+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Billie Jean",
+    "track_number": 1
+  },
+  "entity_id": "c6c0096e-9dd6-4535-afd9-3b65c851acde",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "765b851a-1c41-40d5-8dde-63d0e2bf7202",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Billie Jean",
+    "title": "Billie Jean"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Billie Jean'.",
+  "status": "verified"
+}

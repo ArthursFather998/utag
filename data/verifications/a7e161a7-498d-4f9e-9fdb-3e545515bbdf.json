@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:03.308087+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All Shook Up",
+    "track_number": 1
+  },
+  "entity_id": "58ef07b1-412e-4c15-a4b0-14195ce9c030",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a7e161a7-498d-4f9e-9fdb-3e545515bbdf",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "All Shook Up",
+    "title": "All Shook Up"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All Shook Up'.",
+  "status": "verified"
+}

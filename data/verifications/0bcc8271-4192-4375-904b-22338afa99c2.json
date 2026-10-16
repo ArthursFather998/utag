@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:18.619148+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Go to Sleep",
+    "track_number": 1
+  },
+  "entity_id": "5a15c538-f696-4aa0-8566-a7f2f1f4b5cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0bcc8271-4192-4375-904b-22338afa99c2",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Go to Sleep",
+    "title": "Go to Sleep"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Go to Sleep'.",
+  "status": "verified"
+}

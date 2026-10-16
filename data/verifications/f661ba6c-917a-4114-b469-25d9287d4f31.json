@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:36.252698+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is What Floating Feels Like",
+    "track_number": 1
+  },
+  "entity_id": "e608bb56-9e76-4a23-9079-584ee025a5dc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f661ba6c-917a-4114-b469-25d9287d4f31",
+  "input": {
+    "artist": "JVKE",
+    "release": "This Is What Floating Feels Like",
+    "title": "This Is What Floating Feels Like"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Is What Floating Feels Like'.",
+  "status": "verified"
+}

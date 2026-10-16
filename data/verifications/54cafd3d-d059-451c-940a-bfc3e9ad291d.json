@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:59.515017+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Up Next Session: Daniel Caesar",
+    "track_count": 3,
+    "tracklist": [
+      "Get You",
+      "We Find Love",
+      "Blessed"
+    ]
+  },
+  "entity_id": "20b99dee-85db-40ce-87c9-78289a55fd37",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "54cafd3d-d059-451c-940a-bfc3e9ad291d",
+  "input": {
+    "artist": "Daniel Caesar",
+    "title": "Up Next Session: Daniel Caesar",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://musicbrainz.org/ws/2/release/24841c84-d7dd-44e4-9a88-8a28e9aaa23c, https://www.classicrockhistory.com/complete-list-of-daniel-caesar-songs-from-a-to-z/. Apple Music Up Next session EP (August 2017). Track order confirmed via MusicBrainz release 24841c84. All three are session versions.",
+  "status": "verified"
+}

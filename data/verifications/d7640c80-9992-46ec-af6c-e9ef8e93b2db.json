@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:12.040589+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Optimistic",
+    "track_number": 1
+  },
+  "entity_id": "24e9d718-3c44-403a-9306-7fba920853cf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d7640c80-9992-46ec-af6c-e9ef8e93b2db",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Optimistic",
+    "title": "Optimistic"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Optimistic'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:38.569399+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Noche de Novela",
+    "track_number": 1
+  },
+  "entity_id": "346bd5ba-c3f6-4fc6-8317-677cd2dc5243",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "83bd0c00-f935-48ab-b90b-f14df24aa41d",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Noche de Novela",
+    "title": "Noche de Novela"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Noche de Novela'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:51.025821+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "American Town",
+    "track_number": 1
+  },
+  "entity_id": "d12f8a7a-55a7-4bd4-8a7d-4ce2a52bff12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "abf456ec-75fd-49ac-9e5c-dc7d0b9c5ab4",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "American Town",
+    "title": "American Town"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'American Town'.",
+  "status": "verified"
+}

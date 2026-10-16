@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:08.60908+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I'm Not Here to Make Friends",
+    "track_number": 1
+  },
+  "entity_id": "a7a573e3-fd21-48a5-a214-8d0b45ffebdc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6aeb9d51-f0da-42f7-8da7-858f2c50882d",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "I'm Not Here to Make Friends",
+    "title": "I'm Not Here to Make Friends"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I'm Not Here to Make Friends'.",
+  "status": "verified"
+}

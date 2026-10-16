@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:03.014043+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Outrageous (2004)",
+    "track_number": 1
+  },
+  "entity_id": "9be1b376-b499-4e23-ae09-857840dc0aa5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15d6e38e-5f5a-4045-b371-c708306e5293",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Outrageous (2004)",
+    "title": "Outrageous (2004)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Outrageous (2004)'.",
+  "status": "verified"
+}

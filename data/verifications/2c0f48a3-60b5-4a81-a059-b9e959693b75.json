@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:09.812844+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "track_count": 15,
+    "tracklist": [
+      "Look Alive, Sunshine",
+      "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "Bulletproof Heart",
+      "SING",
+      "Planetary (GO!)",
+      "The Only Hope for Me Is You",
+      "Jet-Star and the Kobra Kid/Traffic Report",
+      "Party Poison",
+      "Save Yourself, I'll Hold Them Back",
+      "S/C/A/R/E/C/R/O/W",
+      "Summertime",
+      "DESTROYA",
+      "The Kids from Yesterday",
+      "Goodnite, Dr. Death",
+      "Vampire Money"
+    ]
+  },
+  "entity_id": "505c3a8c-28c1-4e73-a28d-50ecb19a58d3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2c0f48a3-60b5-4a81-a059-b9e959693b75",
+  "input": {
+    "artist": "My Chemical Romance",
+    "title": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per Wikipedia, HMV. Fourth studio album, original 2010 edition (released November 22, 2010). This is the ORIGINAL tracklist; the 2026 deluxe reissue omits the interludes/intros (tracks 1, 7, 14) and adds bonus material, so it must not be confused with this edition.",
+  "status": "verified"
+}

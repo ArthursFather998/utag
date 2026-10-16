@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:26.697356+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Potato Salad",
+    "track_number": 1
+  },
+  "entity_id": "085d4ec0-574d-46f3-9327-eb458265a4a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aea1c240-40bf-4ebf-8c3d-1a1b2e073863",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Potato Salad",
+    "title": "Potato Salad"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Potato Salad'.",
+  "status": "verified"
+}

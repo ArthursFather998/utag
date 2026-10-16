@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:45.313394+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Promises",
+    "track_number": 1
+  },
+  "entity_id": "fccc5422-bef2-4a62-acfb-2c8a25a9ad4b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "25d231f7-1cf4-4bb6-a2d0-95cc88a93e45",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Promises",
+    "title": "Promises"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Promises'.",
+  "status": "verified"
+}

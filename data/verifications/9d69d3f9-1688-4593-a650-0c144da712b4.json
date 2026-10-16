@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:13.492899+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Change (featuring James Taylor)",
+    "track_number": 1
+  },
+  "entity_id": "42285a3f-147e-4493-898d-d8ebf7e71f9c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d69d3f9-1688-4593-a650-0c144da712b4",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Change (featuring James Taylor)",
+    "title": "Change (featuring James Taylor)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Change (featuring James Taylor)'.",
+  "status": "verified"
+}

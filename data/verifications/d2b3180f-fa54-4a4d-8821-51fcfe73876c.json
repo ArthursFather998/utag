@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:10:16.680988+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Is Back! (1960)",
+    "track_count": 12,
+    "tracklist": [
+      "Make Me Know It",
+      "Fever",
+      "The Girl of My Best Friend",
+      "I Will Be Home Again",
+      "Dirty, Dirty Feeling",
+      "Thrill of Your Love",
+      "Soldier Boy",
+      "Such a Night",
+      "It Feels So Right",
+      "Girl Next Door Went A-Walking",
+      "Like a Baby",
+      "Reconsider Baby"
+    ]
+  },
+  "entity_id": "543b5037-8dea-47d0-a2ef-23943ac014e4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d2b3180f-fa54-4a4d-8821-51fcfe73876c",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Is Back! (1960)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per http://en.wikipedia.org/wiki/Elvis_Is_Back!, https://www.discogs.com/release/3875811-Elvis-Presley-Elvis-Is-Back. Studio album, released April 8, 1960. Original 12-track release.",
+  "status": "verified"
+}

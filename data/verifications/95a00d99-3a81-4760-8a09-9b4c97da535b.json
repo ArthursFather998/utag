@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:10.765267+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Left and Right (with Jung Kook) (2022)",
+    "track_number": 1
+  },
+  "entity_id": "65188cfc-964b-40ce-a81a-f10f8621ff9d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "95a00d99-3a81-4760-8a09-9b4c97da535b",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Left and Right (with Jung Kook) (2022)",
+    "title": "Left and Right (with Jung Kook) (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Left and Right (with Jung Kook) (2022)'.",
+  "status": "verified"
+}

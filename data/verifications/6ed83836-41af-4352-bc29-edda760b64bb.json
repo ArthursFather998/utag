@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:17.551697+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Story",
+    "track_number": 1
+  },
+  "entity_id": "62cf1271-5a77-452b-96f4-dd2300d39b6d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6ed83836-41af-4352-bc29-edda760b64bb",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "The Story",
+    "title": "The Story"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Story'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:33.974257+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I'm Not a Vampire (Revamped)",
+    "track_number": 1
+  },
+  "entity_id": "7c89d452-93dd-44cc-a8ef-df5a1e9dc1a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "14f32054-210a-4745-b9c8-508fef75ed31",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "I'm Not a Vampire (Revamped)",
+    "title": "I'm Not a Vampire (Revamped)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I'm Not a Vampire (Revamped)'.",
+  "status": "verified"
+}

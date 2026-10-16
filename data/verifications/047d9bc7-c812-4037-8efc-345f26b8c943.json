@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:58:28.320064+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Country (I'm 10,000 Years Old)",
+    "track_count": 12,
+    "tracklist": [
+      "Snowbird",
+      "Tomorrow Never Comes",
+      "Little Cabin on the Hill",
+      "Whole Lotta Shakin' Goin' On",
+      "Funny How Time Slips Away",
+      "I Really Don't Want to Know",
+      "There Goes My Everything",
+      "It's Your Baby, You Rock It",
+      "The Fool",
+      "Faded Love",
+      "I Washed My Hands in Muddy Water",
+      "Make the World Go Away"
+    ]
+  },
+  "entity_id": "1d193aae-f897-47f2-9d37-130dfc8d02d1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "047d9bc7-c812-4037-8efc-345f26b8c943",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Country (I'm 10,000 Years Old)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Elvis_Country_(I%27m_10,000_Years_Old), https://citizendium.org/wiki/Elvis_Country_(I%27m_10,000_Years_Old). 1971 studio album. 12-track original LP sequence.",
+  "status": "verified"
+}

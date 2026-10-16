@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:15.418496+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Heather - Single (2020)",
+    "track_number": 1
+  },
+  "entity_id": "e1cfee43-3ce6-4b3f-b435-04d4b93fb50f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3bb5cf61-d177-435e-bf8f-9659ba768161",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Heather - Single (2020)",
+    "title": "Heather - Single (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Heather - Single (2020)'.",
+  "status": "verified"
+}

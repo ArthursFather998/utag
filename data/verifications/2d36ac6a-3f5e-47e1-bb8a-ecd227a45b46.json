@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:18.107554+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Don't Care",
+    "track_number": 1
+  },
+  "entity_id": "30d44b02-a048-4256-a72d-1e8c7f548f4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2d36ac6a-3f5e-47e1-bb8a-ecd227a45b46",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "I Don't Care",
+    "title": "I Don't Care"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Don't Care'.",
+  "status": "verified"
+}

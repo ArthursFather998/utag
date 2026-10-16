@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:50:41.591985+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spotify Singles",
+    "track_count": 2,
+    "tracklist": [
+      "Castle on the Hill",
+      "...Baby One More Time"
+    ]
+  },
+  "entity_id": "ca9e6579-3dc0-4e3e-9a8f-0266a3798407",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "25cd8572-0de1-4c97-a8bb-f6c9dbbbc12d",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Spotify Singles",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://musicbrainz.org/release/08f7a2ef-23cc-4e8b-8862-a296fd1c2bf0, https://grokipedia.com/page/Ed_Sheeran_discography. CORRECTION vs. the briefing hint: this is NOT 'Shape of You' + 'Perfect'. The 7 June 2017 Spotify Singles release (Asylum, barcode 190295783211, recorded at Spotify Studios NYC) is a 2-track EP: a piano version of 'Castle on the Hill' and a Britney Spears cover of '...Baby One More Time'. MusicBrainz order corroborated by grokipedia ('Castle on the Hill' piano version + '...Baby One More Time' Britney cover) and rclyricsband (both tracks listed under 'Spotify Singles').",
+  "status": "verified"
+}

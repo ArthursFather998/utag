@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:38.221567+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Loser (2022)",
+    "track_number": 1
+  },
+  "entity_id": "9cd344c5-2024-4be9-be66-e5e7bee18fd7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0768d99c-779b-4b4b-8cbc-1640a6d512b9",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Loser (2022)",
+    "title": "Loser (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Loser (2022)'.",
+  "status": "verified"
+}

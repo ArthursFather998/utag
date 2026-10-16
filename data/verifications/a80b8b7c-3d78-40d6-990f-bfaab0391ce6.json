@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:56:42.786994+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spinout",
+    "track_count": 12,
+    "tracklist": [
+      "Stop, Look and Listen",
+      "Adam and Evil",
+      "All That I Am",
+      "Never Say Yes",
+      "Am I Ready",
+      "Beach Shack",
+      "Spinout",
+      "Smorgasbord",
+      "I'll Be Back",
+      "Tomorrow Is a Long Time",
+      "Down in the Alley",
+      "I'll Remember You"
+    ]
+  },
+  "entity_id": "9e7a41fb-9951-4b47-a2c2-c26b94a8ec45",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a80b8b7c-3d78-40d6-990f-bfaab0391ce6",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Spinout",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Spinout_(soundtrack), https://www.discogs.com/release/1633870-Elvis-Presley-Spinout. Original LP RCA Victor LPM/LSP 3702 (Oct 1966), 12 tracks. Tracks 10-12 ('Tomorrow Is a Long Time' — Dylan cover, 'Down in the Alley', 'I'll Remember You') are bonus tracks recorded outside the film sessions. 'Smorgasbord' is printed 'Smörgåsbord' on some labels.",
+  "status": "verified"
+}

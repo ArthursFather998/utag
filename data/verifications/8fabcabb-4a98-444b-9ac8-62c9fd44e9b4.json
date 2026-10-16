@@ -1,0 +1,44 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:40.20505+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wolf Instrumentals",
+    "track_count": 20,
+    "tracklist": [
+      "Wolf (Instrumental)",
+      "Jamba (Instrumental)",
+      "Cowboy (Instrumental)",
+      "Awkward (Instrumental)",
+      "Domo23 (Instrumental)",
+      "Answer (Instrumental)",
+      "Slater (Instrumental)",
+      "48 (Instrumental)",
+      "Colossus (Instrumental)",
+      "PartyIsntOver (Instrumental)",
+      "Campfire (Instrumental)",
+      "Bimmer (Instrumental)",
+      "IFHY (Instrumental)",
+      "Pigs (Instrumental)",
+      "Parking Lot (Instrumental)",
+      "Rusty (Instrumental)",
+      "Trashwang (Instrumental)",
+      "Treehome95 (Instrumental)",
+      "Tamale (Instrumental)",
+      "Lone (Instrumental)"
+    ]
+  },
+  "entity_id": "94f641b2-7808-48a3-9a0f-bc3e5bc19486",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8fabcabb-4a98-444b-9ac8-62c9fd44e9b4",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Wolf Instrumentals",
+    "track_count": 20
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (20 tracks) per https://simple.wikipedia.org/wiki/Wolf_(Tyler,_The_Creator_album), https://en.wikipedia.org/wiki/Wolf_(Tyler,_the_Creator_album). 20 tracks. The three-part suite 'PartyIsntOver / Campfire / Bimmer' is split into three separate instrumental tracks on the instrumentals edition, confirmed identically by Simple Wikipedia, English Wikipedia, Shuga Records (vinyl sides E-H), and Qobuz (Disc 2).",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:09.974097+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Beat It",
+    "track_number": 1
+  },
+  "entity_id": "33068c7a-c696-464c-80d0-333a8e27e586",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c91fd775-dfef-4152-a147-f215bef67d22",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Beat It",
+    "title": "Beat It"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Beat It'.",
+  "status": "verified"
+}

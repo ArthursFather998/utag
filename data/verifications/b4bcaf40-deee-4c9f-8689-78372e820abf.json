@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:56:58.378976+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Frankie and Johnny",
+    "track_count": 12,
+    "tracklist": [
+      "Frankie and Johnny",
+      "Come Along",
+      "Petunia, the Gardener's Daughter",
+      "Chesay",
+      "What Every Woman Lives For",
+      "Look Out, Broadway",
+      "Beginner's Luck",
+      "Down by the Riverside / When the Saints Go Marching In",
+      "Shout It Out",
+      "Hard Luck",
+      "Please Don't Stop Loving Me",
+      "Everybody Come Aboard"
+    ]
+  },
+  "entity_id": "5c9dbc5f-c887-4c69-9d09-cc54196ff672",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b4bcaf40-deee-4c9f-8689-78372e820abf",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Frankie and Johnny",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com/release/12945493-Elvis-Presley-Frankie-And-Johnny, https://www.shugarecords.com/products/elvis-presley-frankie-and-johnny-vg-lp-record. Original LP RCA Victor LPM/LSP 3553 (Mar 1966), 12 tracks. Track 8 is the two-song medley 'Down by the Riverside / When the Saints Go Marching In'. Note: Pickwick's 1976 budget reissue retitled 'Frankie & Johnny' omitted 3 songs — that is NOT the original; use this 12-track original.",
+  "status": "verified"
+}

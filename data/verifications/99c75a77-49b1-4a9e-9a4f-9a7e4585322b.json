@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:58:35.759465+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Promised Land (1975)",
+    "track_count": 10,
+    "tracklist": [
+      "Promised Land",
+      "There's a Honky Tonk Angel (Who'll Take Me Back In)",
+      "Help Me",
+      "Mr. Songman",
+      "Love Song of the Year",
+      "It's Midnight",
+      "Your Love's Been a Long Time Coming",
+      "If You Talk in Your Sleep",
+      "Thinking About You",
+      "You Asked Me To"
+    ]
+  },
+  "entity_id": "6be568ad-79af-4e73-ba5e-1a792fdadba4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "99c75a77-49b1-4a9e-9a4f-9a7e4585322b",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Promised Land (1975)",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per http://en.wikipedia.org/wiki/Promised_Land_(Elvis_Presley_album), https://citizendium.org/wiki/Promised_Land_(album). 1975 studio album. 10-track original LP sequence.",
+  "status": "verified"
+}

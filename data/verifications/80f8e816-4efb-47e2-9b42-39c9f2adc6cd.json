@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:22.605216+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "435",
+    "track_number": 1
+  },
+  "entity_id": "87785441-b763-4167-abf9-ecca13d71417",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80f8e816-4efb-47e2-9b42-39c9f2adc6cd",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "435",
+    "title": "435"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '435'.",
+  "status": "verified"
+}

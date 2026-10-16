@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:08.207185+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Heather",
+    "track_number": 1
+  },
+  "entity_id": "c9eca1ee-89b0-459d-8ba6-443a2d1a330e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c02c89af-744b-4476-918b-5d85a5b5b29b",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Heather",
+    "title": "Heather"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Heather'.",
+  "status": "verified"
+}

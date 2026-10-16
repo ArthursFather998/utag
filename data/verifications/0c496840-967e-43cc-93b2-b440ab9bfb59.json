@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:42.897281+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "She's Not You (1962)",
+    "track_number": 1
+  },
+  "entity_id": "10f80150-76ed-4d14-804a-9acefadd1096",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0c496840-967e-43cc-93b2-b440ab9bfb59",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "She's Not You (1962)",
+    "title": "She's Not You (1962)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'She's Not You (1962)'.",
+  "status": "verified"
+}

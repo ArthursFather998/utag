@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:46.720246+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Bends",
+    "track_count": 12,
+    "tracklist": [
+      "Planet Telex",
+      "The Bends",
+      "High and Dry",
+      "Fake Plastic Trees",
+      "Bones",
+      "(Nice Dream)",
+      "Just",
+      "My Iron Lung",
+      "Bullet Proof..I Wish I Was",
+      "Black Star",
+      "Sulk",
+      "Street Spirit (Fade Out)"
+    ]
+  },
+  "entity_id": "78a3ed45-fd0e-4a61-9a17-17da70f573b4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "00a03cd0-3ed5-4d52-8177-1d25b8147167",
+  "input": {
+    "artist": "Radiohead",
+    "title": "The Bends",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per http://discogs.com/release/23449382-Radiohead-The-Bends, https://www.sonicboommusic.com/products/radiohead-the-bends-vinyl. Second studio album (Mar 1995). Track 9 is officially punctuated 'Bullet Proof..I Wish I Was' (two dots). Standard 12-track edition; Japanese CD adds two bonus tracks (How Can You Be Sure, Killer Cars).",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:42.181852+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Fake Plastic Trees",
+    "track_number": 1
+  },
+  "entity_id": "ed0f569f-f330-4686-8324-67f5d81930ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f5f460f2-da47-4528-836b-0546631d6fb9",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Fake Plastic Trees",
+    "title": "Fake Plastic Trees"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Fake Plastic Trees'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:38.16849+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dogtooth",
+    "track_number": 1
+  },
+  "entity_id": "9a11384b-1603-43ec-a779-240739746fea",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77be94af-2db5-4b39-bf4e-e1b6c461090f",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Dogtooth",
+    "title": "Dogtooth"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Dogtooth'.",
+  "status": "verified"
+}

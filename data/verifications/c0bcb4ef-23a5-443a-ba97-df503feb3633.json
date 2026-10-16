@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:16.860793+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "×",
+    "track_count": 12,
+    "tracklist": [
+      "One",
+      "I'm a Mess",
+      "Sing",
+      "Don't",
+      "Nina",
+      "Photograph",
+      "Bloodstream",
+      "Tenerife Sea",
+      "Runaway",
+      "The Man",
+      "Thinking Out Loud",
+      "Afire Love"
+    ]
+  },
+  "entity_id": "aa6f47cb-0c96-4e26-a1b4-7c1217cf199b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c0bcb4ef-23a5-443a-ba97-df503feb3633",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "×",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/X_(Ed_Sheeran_album), https://www.deaddogrecords.com/lp-ed-sheeran-x-10th-anniversary-edition.html. Standard 12-track edition. (The later deluxe/10th anniversary editions add Take It Back, Shirtsleeves, Even My Dad Does Sometimes, I See Fire, All of the Stars, English Rose, Touch and Go, New York, Make It Rain.)",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:11.714264+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Waiting in Vain (2024)",
+    "track_number": 1
+  },
+  "entity_id": "5c0aaf41-390a-43fc-92cd-15b2e0826262",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cfa4eb17-177b-44a3-aa07-7ef07c8ecc47",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Waiting in Vain (2024)",
+    "title": "Waiting in Vain (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Waiting in Vain (2024)'.",
+  "status": "verified"
+}

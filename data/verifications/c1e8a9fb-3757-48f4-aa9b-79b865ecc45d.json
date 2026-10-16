@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:31.117807+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Tik Tik Boom (2014)",
+    "track_number": 1
+  },
+  "entity_id": "7c82bd97-18c7-4c8f-b2c6-95d8c59b34db",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c1e8a9fb-3757-48f4-aa9b-79b865ecc45d",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Tik Tik Boom (2014)",
+    "title": "Tik Tik Boom (2014)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Tik Tik Boom (2014)'.",
+  "status": "verified"
+}

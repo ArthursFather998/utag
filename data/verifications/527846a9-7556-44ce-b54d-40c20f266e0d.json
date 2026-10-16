@@ -1,0 +1,46 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:14:17.346416+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "From Memphis to Vegas / From Vegas to Memphis",
+    "track_count": 22,
+    "tracklist": [
+      "Blue Suede Shoes",
+      "Johnny B. Goode",
+      "All Shook Up",
+      "Are You Lonesome Tonight?",
+      "Hound Dog",
+      "I Can't Stop Loving You",
+      "My Babe",
+      "Mystery Train / Tiger Man",
+      "Words",
+      "In the Ghetto",
+      "Suspicious Minds",
+      "Can't Help Falling in Love",
+      "Inherit the Wind",
+      "This Is the Story",
+      "Stranger in My Own Home Town",
+      "A Little Bit of Green",
+      "And the Grass Won't Pay No Mind",
+      "Do You Know Who I Am",
+      "From a Jack to a King",
+      "The Fair's Moving On",
+      "You'll Think of Me",
+      "Without Love (There Is Nothing)"
+    ]
+  },
+  "entity_id": "12cc8464-8e7b-4b8f-9fe5-b0ab757ea15e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "527846a9-7556-44ce-b54d-40c20f266e0d",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "From Memphis to Vegas / From Vegas to Memphis",
+    "track_count": 22
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (22 tracks) per https://en.wikipedia.org/wiki/From_Memphis_to_Vegas_/_From_Vegas_to_Memphis, https://En.Citizendium.org/wiki/From_Memphis_to_Vegas_-_From_Vegas_to_Memphis. Double album: 'Elvis in Person' live disc (12 tracks, International Hotel Las Vegas) + 'Back in Memphis' studio disc (10 tracks). Later split into two standalone LPs.",
+  "status": "verified"
+}

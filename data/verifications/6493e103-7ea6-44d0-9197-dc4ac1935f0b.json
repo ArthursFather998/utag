@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:14:33.325873+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Speedway",
+    "track_count": 12,
+    "tracklist": [
+      "Speedway",
+      "There Ain't Nothing Like a Song",
+      "Your Time Hasn't Come Yet, Baby",
+      "Who Are You (Who Am I)",
+      "He's Your Uncle Not Your Dad",
+      "Let Yourself Go",
+      "Your Groovy Self",
+      "Five Sleepy Heads",
+      "Western Union",
+      "Mine",
+      "Goin' Home",
+      "Suppose"
+    ]
+  },
+  "entity_id": "d7704d25-443a-465e-9b6d-8c50abbbb6e9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6493e103-7ea6-44d0-9197-dc4ac1935f0b",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Speedway",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Speedway_(soundtrack), https://www.allmusic.com/. Soundtrack to the 1968 film.",
+  "status": "verified"
+}

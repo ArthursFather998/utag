@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:43.992085+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Baby, Let's Play House (1955)",
+    "track_number": 1
+  },
+  "entity_id": "da33c810-2c7d-482c-b616-b0841ed1724d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ed3dfac9-0215-43e4-a82e-f05a6c4980e9",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Baby, Let's Play House (1955)",
+    "title": "Baby, Let's Play House (1955)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Baby, Let's Play House (1955)'.",
+  "status": "verified"
+}

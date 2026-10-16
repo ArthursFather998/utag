@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:42.941227+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cheating on You",
+    "track_number": 1
+  },
+  "entity_id": "42613f32-60ae-41ef-ab31-f528b2598a67",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3830993c-d1dd-4738-8241-4567e936f676",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Cheating on You",
+    "title": "Cheating on You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cheating on You'.",
+  "status": "verified"
+}

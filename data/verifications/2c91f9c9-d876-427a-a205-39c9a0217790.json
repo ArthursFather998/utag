@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:17:14.177574+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Creep",
+    "track_number": 1
+  },
+  "entity_id": "7c011472-3e3f-453e-8528-56fcd591a3a0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2c91f9c9-d876-427a-a205-39c9a0217790",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Creep",
+    "title": "Creep"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Creep'.",
+  "status": "verified"
+}

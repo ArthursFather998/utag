@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:12.647844+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Growing (2015)",
+    "track_count": 3,
+    "tracklist": [
+      "Dream Boy",
+      "Carbon Copy",
+      "Song 2 My Journal"
+    ]
+  },
+  "entity_id": "fd222c91-9cf5-4a4c-81bc-7662ae101504",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5ec25a99-1613-4485-acec-f3741bd95c23",
+  "input": {
+    "artist": "Clairo",
+    "title": "Growing (2015)",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://clairo.fandom.com/wiki/Growing, https://en.wikipedia.org/wiki/Clairo_discography. EP, released August 5, 2015 on Bandcamp. 'Growing (2015)' is a year-suffix duplicate.",
+  "status": "verified"
+}

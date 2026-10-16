@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:27.856501+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ain't No Sunshine",
+    "track_number": 1
+  },
+  "entity_id": "2d9a63ee-a69c-4b90-a221-615ef54f0865",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "871d93d8-24b0-4b21-a382-9360ee2f43d1",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Ain't No Sunshine",
+    "title": "Ain't No Sunshine"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ain't No Sunshine'.",
+  "status": "verified"
+}

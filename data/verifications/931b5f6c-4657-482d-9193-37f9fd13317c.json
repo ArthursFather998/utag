@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:26.071048+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Freudian",
+    "track_count": 10,
+    "tracklist": [
+      "Get You (feat. Kali Uchis)",
+      "Best Part (feat. H.E.R.)",
+      "Hold Me Down",
+      "Neu Roses (Transgressor's Song)",
+      "Loose",
+      "We Find Love",
+      "Blessed",
+      "Take Me Away (feat. Syd)",
+      "Transform (feat. Charlotte Day Wilson)",
+      "Freudian"
+    ]
+  },
+  "entity_id": "7eb7bb1c-b672-414a-805a-a37a14e28f4f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "931b5f6c-4657-482d-9193-37f9fd13317c",
+  "input": {
+    "artist": "Daniel Caesar",
+    "title": "Freudian",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/Freudian_(album), https://www.shazam.com/album/1799080774/freudian. Debut studio album (August 25, 2017, Golden Child Recordings). Standard 10-track edition. Some vinyl editions add 'Japanese Denim' as a bonus track.",
+  "status": "verified"
+}

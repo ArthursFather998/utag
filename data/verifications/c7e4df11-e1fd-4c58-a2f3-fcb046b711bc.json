@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:35.784881+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bastard",
+    "track_count": 15,
+    "tracklist": [
+      "Bastard",
+      "Seven",
+      "Odd Toddlers",
+      "French!",
+      "Blow",
+      "Pigs Fly",
+      "Parade",
+      "Slow It Down",
+      "AssMilk",
+      "VCR/Wheels",
+      "Session",
+      "Sarah",
+      "Jack and the Beanstalk",
+      "Tina",
+      "Inglorious"
+    ]
+  },
+  "entity_id": "b4c75832-be58-4a7a-899e-06d53ed2192f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c7e4df11-e1fd-4c58-a2f3-fcb046b711bc",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Bastard",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://en.wikipedia.org/wiki/Bastard_(Tyler,_the_Creator_album), https://www.discogs.com/release/2862545-TylerTheCreator-Bastard. 2009 debut mixtape/album, 15 tracks. Wikipedia and Discogs agree on order and titles. Not a duplicate of any other release row.",
+  "status": "verified"
+}

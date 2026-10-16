@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:54.275117+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kid A",
+    "track_count": 10,
+    "tracklist": [
+      "Everything in Its Right Place",
+      "Kid A",
+      "The National Anthem",
+      "How to Disappear Completely",
+      "Treefingers",
+      "Optimistic",
+      "In Limbo",
+      "Idioteque",
+      "Morning Bell",
+      "Motion Picture Soundtrack"
+    ]
+  },
+  "entity_id": "e5b97a5c-3a3e-4d69-955d-d72a0a8a26bb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d28dc154-6f5f-4e14-acad-5a2e2807e9e6",
+  "input": {
+    "artist": "Radiohead",
+    "title": "Kid A",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/Kid_A, https://juicyrecords.com.au/products/radiohead-kid-a-vinyl. Fourth studio album (Oct 2000). Track 10 ends at 3:20 followed by an untitled hidden track and silence; on streaming the hidden track is listed separately as 'Untitled'.",
+  "status": "verified"
+}

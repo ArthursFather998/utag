@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:16:44.548413+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Identikit",
+    "track_number": 1
+  },
+  "entity_id": "e0fcbd2d-6844-41a8-bdfd-e371b7160f43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "23a86442-b720-47fd-a2ad-fd3bd6424985",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Identikit",
+    "title": "Identikit"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Identikit'.",
+  "status": "verified"
+}

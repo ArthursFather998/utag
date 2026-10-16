@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:27.419788+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Smells Like Me",
+    "track_number": 1
+  },
+  "entity_id": "d41881f1-fccb-45aa-8186-bda02c180e8c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40574fb2-0f88-423d-b89e-c71e24b11ecc",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Smells Like Me",
+    "title": "Smells Like Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Smells Like Me'.",
+  "status": "verified"
+}

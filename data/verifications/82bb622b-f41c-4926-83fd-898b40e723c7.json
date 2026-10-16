@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:10:25.416478+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Something for Everybody (1961)",
+    "track_count": 12,
+    "tracklist": [
+      "There's Always Me",
+      "Give Me the Right",
+      "It's a Sin",
+      "Sentimental Me",
+      "Starting Today",
+      "Gently",
+      "I'm Coming Home",
+      "In Your Arms",
+      "Put the Blame on Me",
+      "Judy",
+      "I Want You with Me",
+      "I Slipped, I Stumbled, I Fell"
+    ]
+  },
+  "entity_id": "8dbe384f-ed0f-4fc7-ba99-c53401361260",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "82bb622b-f41c-4926-83fd-898b40e723c7",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Something for Everybody (1961)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com/release/3875811-Elvis-Presley-Elvis-Is-Back, http://en.wikipedia.org/wiki/Elvis_Is_Back!. Studio album, released June 17, 1961. Tracklist from Discogs 2011 2-CD reissue (disc 2).",
+  "status": "verified"
+}

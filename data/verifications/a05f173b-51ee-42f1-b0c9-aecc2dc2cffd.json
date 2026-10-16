@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:50.834469+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Like Him",
+    "track_number": 1
+  },
+  "entity_id": "85d0c090-832f-4af1-a88e-ba46eda97e43",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a05f173b-51ee-42f1-b0c9-aecc2dc2cffd",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Like Him",
+    "title": "Like Him"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Like Him'.",
+  "status": "verified"
+}

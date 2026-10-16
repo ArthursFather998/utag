@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:58.20209+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Glue Song",
+    "track_number": 1
+  },
+  "entity_id": "865c2f9e-de33-4c67-9bff-84b35acd7c7f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3f41a255-fac0-4dc0-be4f-c1ecbe4a3b2f",
+  "input": {
+    "artist": "Clairo",
+    "release": "Glue Song",
+    "title": "Glue Song"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Glue Song'.",
+  "status": "verified"
+}

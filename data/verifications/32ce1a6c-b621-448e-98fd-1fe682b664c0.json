@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:07.938239+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "+",
+    "track_count": 12,
+    "tracklist": [
+      "The A Team",
+      "Drunk",
+      "U.N.I.",
+      "Grade 8",
+      "Wake Me Up",
+      "Small Bump",
+      "This",
+      "The City",
+      "Lego House",
+      "You Need Me, I Don't Need You",
+      "Kiss Me",
+      "Give Me Love"
+    ]
+  },
+  "entity_id": "f8dbcd6e-8f65-4b70-973d-6a952c745427",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "32ce1a6c-b621-448e-98fd-1fe682b664c0",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "+",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/%2B_(album), https://www.virginmegastore.bh/en/music/cds/pop-cds/plus-ed-sheeran/p/493293. Hidden track 'The Parting Glass' is appended to 'Give Me Love' on the standard edition. Deluxe edition adds 4 bonus tracks: Autumn Leaves, Little Bird, Gold Rush, Sunburn.",
+  "status": "verified"
+}

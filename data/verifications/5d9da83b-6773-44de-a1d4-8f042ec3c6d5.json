@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:57:07.223959+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Girl Happy",
+    "track_count": 12,
+    "tracklist": [
+      "Girl Happy",
+      "Spring Fever",
+      "Fort Lauderdale Chamber of Commerce",
+      "Startin' Tonight",
+      "Wolf Call",
+      "Do Not Disturb",
+      "Cross My Heart and Hope to Die",
+      "The Meanest Girl in Town",
+      "Do the Clam",
+      "Puppet on a String",
+      "I've Got to Find My Baby",
+      "You'll Be Gone"
+    ]
+  },
+  "entity_id": "10961d34-3619-4e1a-91d9-ebfc4707d596",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5d9da83b-6773-44de-a1d4-8f042ec3c6d5",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Girl Happy",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Girl_Happy_(album), https://www.discogs.com/release/2495929-Elvis-Presley-Girl-Happy. Original LP RCA Victor LPM/LSP 3338 (Mar 1965), 12 tracks. 'You'll Be Gone' is a bonus track not from the film — taken from the March 1962 Pot Luck sessions, co-written by Elvis Presley, Charlie Hodge and Red West.",
+  "status": "verified"
+}

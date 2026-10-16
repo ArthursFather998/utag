@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:16:47.773957+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ill Wind",
+    "track_number": 1
+  },
+  "entity_id": "5a3baa40-9d1b-4e48-baa2-71ba390b7d55",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f536bae7-8ae4-4e06-b2cd-40c4ba31cc65",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Ill Wind",
+    "title": "Ill Wind"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ill Wind'.",
+  "status": "verified"
+}

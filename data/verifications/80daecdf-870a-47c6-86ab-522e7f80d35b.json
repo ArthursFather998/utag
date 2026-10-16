@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:33.866152+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "F64",
+    "track_number": 1
+  },
+  "entity_id": "906e7d06-b24d-4903-bf02-795b219fcb71",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "80daecdf-870a-47c6-86ab-522e7f80d35b",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "F64",
+    "title": "F64"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'F64'.",
+  "status": "verified"
+}

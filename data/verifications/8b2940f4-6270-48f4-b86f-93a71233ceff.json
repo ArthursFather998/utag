@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:41.654937+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "WusYaName",
+    "track_number": 1
+  },
+  "entity_id": "3076f730-1bc8-4207-96df-f8f95f9cf8ef",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8b2940f4-6270-48f4-b86f-93a71233ceff",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "WusYaName",
+    "title": "WusYaName"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'WusYaName'.",
+  "status": "verified"
+}

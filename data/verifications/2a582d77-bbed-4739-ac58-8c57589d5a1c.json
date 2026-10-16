@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:24.199392+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Whoa (Mind in Awe) (Remix) (with Juice WRLD) (2025)",
+    "track_number": 1
+  },
+  "entity_id": "b968cf9c-5804-494a-9a25-f7c1681220f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a582d77-bbed-4739-ac58-8c57589d5a1c",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Whoa (Mind in Awe) (Remix) (with Juice WRLD) (2025)",
+    "title": "Whoa (Mind in Awe) (Remix) (with Juice WRLD) (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Whoa (Mind in Awe) (Remix) (with Juice WRLD) (2025)'.",
+  "status": "verified"
+}

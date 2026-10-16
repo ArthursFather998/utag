@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:35.642264+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bam Bam",
+    "track_number": 1
+  },
+  "entity_id": "96b45ac7-7dfb-4b5b-b1da-4ca3250ebe26",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bd4a42ba-062b-4bc0-9d10-6e20566227bb",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Bam Bam",
+    "title": "Bam Bam"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bam Bam'.",
+  "status": "verified"
+}

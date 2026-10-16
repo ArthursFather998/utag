@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:22.530952+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bulletproof Heart",
+    "track_number": 1
+  },
+  "entity_id": "a684a5ae-e5e9-4066-8b1c-f0b28ca340f0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "115179b0-5a46-4983-9531-5b949e1eed9f",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Bulletproof Heart",
+    "title": "Bulletproof Heart"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bulletproof Heart'.",
+  "status": "verified"
+}

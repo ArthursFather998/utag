@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:13.621109+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Human Nature",
+    "track_number": 1
+  },
+  "entity_id": "931eec41-4386-4e47-8d57-d83d51bfdc21",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "22f04bf4-36de-490f-9059-72d2e4e38710",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Human Nature",
+    "title": "Human Nature"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Human Nature'.",
+  "status": "verified"
+}

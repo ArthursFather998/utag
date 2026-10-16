@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:07.247833+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Caught in the Middle",
+    "track_number": 1
+  },
+  "entity_id": "8e52535e-3f45-4ab7-852a-9d1071b66b4c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ba3d8b84-760e-4f63-a048-5bc1d644ac33",
+  "input": {
+    "artist": "Paramore",
+    "release": "Caught in the Middle",
+    "title": "Caught in the Middle"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Caught in the Middle'.",
+  "status": "verified"
+}

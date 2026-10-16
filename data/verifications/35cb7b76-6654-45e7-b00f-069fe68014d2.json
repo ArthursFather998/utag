@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:34.001508+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dirty Diana",
+    "track_number": 1
+  },
+  "entity_id": "5e5bad00-fa41-4b06-8aca-e0e774eccc9a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35cb7b76-6654-45e7-b00f-069fe68014d2",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Dirty Diana",
+    "title": "Dirty Diana"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Dirty Diana'.",
+  "status": "verified"
+}

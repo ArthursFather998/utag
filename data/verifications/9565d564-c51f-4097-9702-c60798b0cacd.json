@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:19.560565+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Superhero (2017)",
+    "track_number": 1
+  },
+  "entity_id": "8df6ff32-fc48-42c5-b9f4-ae38a7b30fcb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9565d564-c51f-4097-9702-c60798b0cacd",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Superhero (2017)",
+    "title": "Superhero (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Superhero (2017)'.",
+  "status": "verified"
+}

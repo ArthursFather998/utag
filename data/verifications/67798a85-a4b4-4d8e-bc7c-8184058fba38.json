@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:19.705593+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Teeth (Interlude) (2024)",
+    "track_number": 1
+  },
+  "entity_id": "6f349133-c247-4bd3-9a60-305187d38d36",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "67798a85-a4b4-4d8e-bc7c-8184058fba38",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Teeth (Interlude) (2024)",
+    "title": "Teeth (Interlude) (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Teeth (Interlude) (2024)'.",
+  "status": "verified"
+}

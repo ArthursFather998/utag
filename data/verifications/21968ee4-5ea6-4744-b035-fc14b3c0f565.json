@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:12.19998+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Moody Blue (1976)",
+    "track_number": 1
+  },
+  "entity_id": "f4a88eeb-3e48-4d8f-aeaf-177dfc92a87f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "21968ee4-5ea6-4744-b035-fc14b3c0f565",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Moody Blue (1976)",
+    "title": "Moody Blue (1976)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Moody Blue (1976)'.",
+  "status": "verified"
+}

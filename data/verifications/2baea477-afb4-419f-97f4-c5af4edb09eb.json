@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:53.352401+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "4real",
+    "track_number": 1
+  },
+  "entity_id": "8d914456-66ae-4638-b0f8-96e801b5e904",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2baea477-afb4-419f-97f4-c5af4edb09eb",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "4real",
+    "title": "4real"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '4real'.",
+  "status": "verified"
+}

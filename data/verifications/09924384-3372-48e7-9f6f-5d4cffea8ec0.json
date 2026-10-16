@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:15.316918+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Matches (2020)",
+    "track_number": 1
+  },
+  "entity_id": "76c8fde7-cbf7-4518-897b-1f92931e7bfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "09924384-3372-48e7-9f6f-5d4cffea8ec0",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Matches (2020)",
+    "title": "Matches (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Matches (2020)'.",
+  "status": "verified"
+}

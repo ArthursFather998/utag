@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:38.812899+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "An American Trilogy",
+    "track_number": 1
+  },
+  "entity_id": "dfd77a8c-1b44-4be8-814a-1c8ea2cc587f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "51fa9386-41d2-4e29-bfca-cbbd4b27118a",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "An American Trilogy",
+    "title": "An American Trilogy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'An American Trilogy'.",
+  "status": "verified"
+}

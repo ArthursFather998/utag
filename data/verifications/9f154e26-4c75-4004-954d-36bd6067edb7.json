@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:35.718165+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kiwi",
+    "track_number": 1
+  },
+  "entity_id": "cff88222-bc25-4b61-b178-314b679dd8bb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f154e26-4c75-4004-954d-36bd6067edb7",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Kiwi",
+    "title": "Kiwi"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Kiwi'.",
+  "status": "verified"
+}

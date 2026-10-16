@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:06.196276+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "For Now (2023)",
+    "track_number": 1
+  },
+  "entity_id": "bd0f2636-a59b-4727-ad14-9c64029fa491",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4231c766-ddb7-4bdf-bb04-6e92f0878a8d",
+  "input": {
+    "artist": "Clairo",
+    "release": "For Now (2023)",
+    "title": "For Now (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'For Now (2023)'.",
+  "status": "verified"
+}

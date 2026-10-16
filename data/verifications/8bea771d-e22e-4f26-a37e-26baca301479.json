@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:11.630112+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spotify Singles",
+    "track_count": 2,
+    "tracklist": [
+      "Attention (Recorded at Spotify Studios NYC)",
+      "I Don't Wanna Know (Recorded at Spotify Studios NYC)"
+    ]
+  },
+  "entity_id": "df87d488-cfde-4a2d-973c-aa4249f373cc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8bea771d-e22e-4f26-a37e-26baca301479",
+  "input": {
+    "artist": "Charlie Puth",
+    "title": "Spotify Singles",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://en.wikipedia.org/wiki/Attention_(Charlie_Puth_song), https://www.musictour.eu/en/news/charlie-puth-unleashes-new-attention-remix-by-david-guetta-203200. Spotify exclusive session, August 2017: 'Attention' (Spotify Studios NYC version) plus a cover of Mario Winans' 'I Don't Wanna Know'. Recorded at Spotify Studios NYC. Duplicate entry 'Spotify Singles (2017)' is the same release — recommend merge/delete.",
+  "status": "verified"
+}

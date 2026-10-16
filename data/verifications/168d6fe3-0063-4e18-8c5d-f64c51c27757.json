@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:58:11.264946+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pot Luck",
+    "track_count": 12,
+    "tracklist": [
+      "Kiss Me Quick",
+      "Just for Old Time Sake",
+      "Gonna Get Back Home Somehow",
+      "(Such an) Easy Question",
+      "Steppin' Out of Line",
+      "I'm Yours",
+      "Something Blue",
+      "Suspicion",
+      "I Feel That I've Known You Forever",
+      "Night Rider",
+      "Fountain of Love",
+      "That's Someone You Never Forget"
+    ]
+  },
+  "entity_id": "62135418-4598-4e0a-855c-8bfd8938fb8c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "168d6fe3-0063-4e18-8c5d-f64c51c27757",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Pot Luck",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per http://en.wikipedia.org/wiki/Pot_Luck_(Elvis_Presley_album), https://www.longplayerhq.com/post/29-elvis-presley-pot-luck-with-elvis. 1962 studio album (Pot Luck with Elvis). 12-track original LP sequence.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:15.527457+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Flaming Hot Cheetos",
+    "track_number": 1
+  },
+  "entity_id": "8d5650d7-c573-484f-a02e-a10685e0db1e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "39796e3a-b67a-4279-be14-8894e32edbfb",
+  "input": {
+    "artist": "Clairo",
+    "release": "Flaming Hot Cheetos",
+    "title": "Flaming Hot Cheetos"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Flaming Hot Cheetos'.",
+  "status": "verified"
+}

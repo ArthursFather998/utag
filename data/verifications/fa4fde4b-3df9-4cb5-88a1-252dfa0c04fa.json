@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:15.688595+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live from the Roundhouse",
+    "track_count": 15,
+    "tracklist": [
+      "Intro (Live)",
+      "Nirvana (Live)",
+      "Together (Live)",
+      "Leave Your Lover (Live)",
+      "I'm Not The Only One (Live)",
+      "I've Told You Now (Live)",
+      "Like I Can (Live)",
+      "Restart (Live)",
+      "Good Thing / Berlin (Live)",
+      "La La La (Live)",
+      "Lay Me Down (Live)",
+      "Money On My Mind / Finally (Live)",
+      "Latch (Live)",
+      "Make It To Me (Live)",
+      "Stay With Me (Live)"
+    ]
+  },
+  "entity_id": "89818628-6a7d-46f0-bba8-e889414b6c6f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fa4fde4b-3df9-4cb5-88a1-252dfa0c04fa",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Live from the Roundhouse",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://tidal.com/browse/album/30349342, https://www.hoopladigital.com/music/sam-smith-live-from-the-roundhouse-sam-smith/15777692. Live album, 15 tracks. Recorded at the Roundhouse, London. Released June 2, 2014. Verified against Tidal, hoopla, and Deezer.",
+  "status": "verified"
+}

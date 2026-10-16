@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:38.052358+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Galway Girl (2017)",
+    "track_number": 1
+  },
+  "entity_id": "5ecac9ba-b923-4b23-ba51-8c08b5b31b33",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44b35e22-37dd-4c3e-ab39-0838c1119f34",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Galway Girl (2017)",
+    "title": "Galway Girl (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Galway Girl (2017)'.",
+  "status": "verified"
+}

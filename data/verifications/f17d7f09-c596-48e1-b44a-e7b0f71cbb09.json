@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:56.063815+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Thrill of It All",
+    "track_count": 10,
+    "tracklist": [
+      "Too Good at Goodbyes",
+      "Say It First",
+      "One Last Song",
+      "Midnight Train",
+      "Burning",
+      "Him",
+      "Baby, You Make Me Crazy",
+      "No Peace (featuring Yebba)",
+      "Palace",
+      "Pray"
+    ]
+  },
+  "entity_id": "b31a2319-08af-429c-bcbc-ad29dfecef0e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f17d7f09-c596-48e1-b44a-e7b0f71cbb09",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "The Thrill of It All",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/The_Thrill_of_It_All_(Sam_Smith_album), https://de.wikipedia.org/wiki/The_Thrill_of_It_All_(Sam_Smith_album). Standard 10-track edition. Verified against English and German Wikipedia.",
+  "status": "verified"
+}

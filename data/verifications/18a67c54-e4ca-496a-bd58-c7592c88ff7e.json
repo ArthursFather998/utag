@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:12:47.62264+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis Back in Memphis (1970)",
+    "track_count": 10,
+    "tracklist": [
+      "Inherit the Wind",
+      "This Is the Story",
+      "Stranger in My Own Home Town",
+      "A Little Bit of Green",
+      "And the Grass Won't Pay No Mind",
+      "Do You Know Who I Am",
+      "From a Jack to a King",
+      "The Fair's Moving On",
+      "You'll Think of Me",
+      "Without Love (There Is Nothing)"
+    ]
+  },
+  "entity_id": "810a6447-aee0-4713-81a6-ab0b6d30d2f8",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "18a67c54-e4ca-496a-bd58-c7592c88ff7e",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis Back in Memphis (1970)",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/From_Memphis_to_Vegas_/_From_Vegas_to_Memphis, https://En.Citizendium.org/wiki/From_Memphis_to_Vegas_-_From_Vegas_to_Memphis. Standalone reissue of the 'Back in Memphis' studio disc from the 1969 double album. Same 10 tracks.",
+  "status": "verified"
+}

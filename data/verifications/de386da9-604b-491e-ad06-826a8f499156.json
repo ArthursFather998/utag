@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:01.893793+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blouse (2021)",
+    "track_number": 1
+  },
+  "entity_id": "15fa1e2e-4a02-487c-9ea2-d66978f49934",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "de386da9-604b-491e-ad06-826a8f499156",
+  "input": {
+    "artist": "Clairo",
+    "release": "Blouse (2021)",
+    "title": "Blouse (2021)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Blouse (2021)'.",
+  "status": "verified"
+}

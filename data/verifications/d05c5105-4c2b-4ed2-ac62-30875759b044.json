@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:15.262821+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Famous Last Words",
+    "track_number": 1
+  },
+  "entity_id": "3a546ce5-f7f5-443d-98ea-c58dc50dcb5d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d05c5105-4c2b-4ed2-ac62-30875759b044",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Famous Last Words",
+    "title": "Famous Last Words"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Famous Last Words'.",
+  "status": "verified"
+}

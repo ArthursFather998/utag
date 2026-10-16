@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:50.489611+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Brooklyn Baby (2024)",
+    "track_number": 1
+  },
+  "entity_id": "d252bf46-d20d-4312-be1f-73e0a49fad08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "54d5f825-6698-4aef-87ec-50632e240f4c",
+  "input": {
+    "artist": "Clairo",
+    "release": "Brooklyn Baby (2024)",
+    "title": "Brooklyn Baby (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Brooklyn Baby (2024)'.",
+  "status": "verified"
+}

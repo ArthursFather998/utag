@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:21.922837+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Free (2020)",
+    "track_number": 1
+  },
+  "entity_id": "ef5c9278-fb04-4739-83ab-e21dd621f3d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "adf85ba3-14a6-4310-847c-4d42e2ad169f",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Free (2020)",
+    "title": "Free (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Free (2020)'.",
+  "status": "verified"
+}

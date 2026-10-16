@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:03.087239+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad Habit",
+    "track_number": 1
+  },
+  "entity_id": "561e27a3-7353-4920-99e6-80def4f0a8d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d3ebe14a-5c85-4cf3-a822-a44580c1f9fc",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Bad Habit",
+    "title": "Bad Habit"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad Habit'.",
+  "status": "verified"
+}

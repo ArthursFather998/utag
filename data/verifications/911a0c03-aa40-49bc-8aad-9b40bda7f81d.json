@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:33.088782+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is Why",
+    "track_count": 10,
+    "tracklist": [
+      "This Is Why",
+      "The News",
+      "Running Out of Time",
+      "C'est Comme Ça",
+      "Big Man, Little Dignity",
+      "You First",
+      "Figure 8",
+      "Liar",
+      "Crave",
+      "Thick Skull"
+    ]
+  },
+  "entity_id": "06e6ab35-22da-4f2e-bc0b-fe549f40d88e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "911a0c03-aa40-49bc-8aad-9b40bda7f81d",
+  "input": {
+    "artist": "Paramore",
+    "title": "This Is Why",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://www.discogs.com/master/2973844-Paramore-This-Is-Why?redirected=true, https://consequence.net/2023/02/paramore-this-is-why-stream-album/. Sixth studio album, February 2023. 10 tracks.",
+  "status": "verified"
+}

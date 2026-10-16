@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:27.920249+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Clueless",
+    "track_number": 1
+  },
+  "entity_id": "4828f570-1839-4e4a-a75d-1b10b1e2105c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "53981d3d-08f3-4fa1-8ddb-35828fdfaf4a",
+  "input": {
+    "artist": "The Marías",
+    "release": "Clueless",
+    "title": "Clueless"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Clueless'.",
+  "status": "verified"
+}

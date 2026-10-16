@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:10:48.867403+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "How Great Thou Art",
+    "track_count": 13,
+    "tracklist": [
+      "How Great Thou Art",
+      "In the Garden",
+      "Somebody Bigger Than You and I",
+      "Farther Along",
+      "Stand By Me",
+      "Without Him",
+      "So High",
+      "Where Could I Go But to the Lord",
+      "By and By",
+      "If the Lord Wasn't Walking By My Side",
+      "Run On",
+      "Where No One Stands Alone",
+      "Crying in the Chapel"
+    ]
+  },
+  "entity_id": "d62a4d27-55f2-463d-b6cc-a4886f76b54a",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "766f680c-afdc-418a-be3b-b6a424df3183",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "How Great Thou Art",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://www.discogs.com/release/6915856-Elvis-How-Great-Thou-Art, https://www.discogs.com/release/5969535-Elvis-Presley-How-Great-Thou-Art. Gospel studio album, released February 27, 1967. Won Grammy for Best Sacred Performance.",
+  "status": "verified"
+}

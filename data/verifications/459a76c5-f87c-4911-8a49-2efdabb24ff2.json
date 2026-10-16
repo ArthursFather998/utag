@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:39.569134+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pretty Girls (2015)",
+    "track_number": 1
+  },
+  "entity_id": "cbe715a7-1ba3-4365-8020-4918a329a383",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "459a76c5-f87c-4911-8a49-2efdabb24ff2",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Pretty Girls (2015)",
+    "title": "Pretty Girls (2015)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pretty Girls (2015)'.",
+  "status": "verified"
+}

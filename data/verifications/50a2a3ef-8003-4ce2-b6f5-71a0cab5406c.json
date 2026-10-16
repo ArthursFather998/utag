@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:08.327044+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Idioteque",
+    "track_number": 1
+  },
+  "entity_id": "b3ce6ae5-d399-4e7b-a8e8-d69601c716f9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50a2a3ef-8003-4ce2-b6f5-71a0cab5406c",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Idioteque",
+    "title": "Idioteque"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Idioteque'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:15.72209+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Who Knows (2026)",
+    "track_number": 1
+  },
+  "entity_id": "be8a5e41-35fa-4771-b109-32a01f8bef71",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01467704-96d6-4473-86e1-745f617e9140",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Who Knows (2026)",
+    "title": "Who Knows (2026)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Who Knows (2026)'.",
+  "status": "verified"
+}

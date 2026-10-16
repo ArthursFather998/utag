@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:05.551681+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Free",
+    "track_number": 1
+  },
+  "entity_id": "f8b17563-45ca-419d-96a0-e7c18a2bbf84",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "48f329f7-65e8-439c-b71b-bfc853fdef58",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Free",
+    "title": "Free"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Free'.",
+  "status": "verified"
+}

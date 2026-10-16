@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:37.232122+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Great British Bar Off",
+    "track_number": 1
+  },
+  "entity_id": "db1b9aa3-ea6b-4d2f-9b57-7c47bbb81527",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d2847c8-f0e0-444f-81e7-e3870ce0c122",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "The Great British Bar Off",
+    "title": "The Great British Bar Off"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Great British Bar Off'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:14.346143+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Might Be Wrong",
+    "track_number": 1
+  },
+  "entity_id": "11ef5631-553d-4b57-badb-e198462fe84e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "752653c1-afbd-42dd-addd-240118d0594f",
+  "input": {
+    "artist": "Radiohead",
+    "release": "I Might Be Wrong",
+    "title": "I Might Be Wrong"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Might Be Wrong'.",
+  "status": "verified"
+}

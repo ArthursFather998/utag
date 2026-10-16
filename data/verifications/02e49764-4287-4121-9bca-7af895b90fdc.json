@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:19:12.140394+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "King Creole Vol. 1 (1958)",
+    "track_count": 4,
+    "tracklist": [
+      "King Creole",
+      "New Orleans",
+      "As Long as I Have You",
+      "Lover Doll"
+    ]
+  },
+  "entity_id": "538b71ad-ad3c-4b1f-81c8-c1b797bbf49e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "02e49764-4287-4121-9bca-7af895b90fdc",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "King Creole Vol. 1 (1958)",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://www.discogs.com/release/2134652-Elvis-Presley-King-Creole-Vol-1, https://www.elvisthemusic.com/music/king-creole-vol-1/. EP EPA-4319. Official site notes 'Lover Doll (EP Version)'. Companion Vol. 2 EP exists.",
+  "status": "verified"
+}

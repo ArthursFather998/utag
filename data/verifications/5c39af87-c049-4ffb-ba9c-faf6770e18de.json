@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:54.155381+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sugar on My Tongue",
+    "track_number": 1
+  },
+  "entity_id": "6d66b827-5dc5-470a-bbc1-a68b37130cb6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c39af87-c049-4ffb-ba9c-faf6770e18de",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Sugar on My Tongue",
+    "title": "Sugar on My Tongue"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sugar on My Tongue'.",
+  "status": "verified"
+}

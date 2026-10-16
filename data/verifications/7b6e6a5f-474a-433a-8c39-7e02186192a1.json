@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:50.101987+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I See Fire",
+    "track_number": 1
+  },
+  "entity_id": "6cee3db5-6b5f-4e82-8f30-c4599db9b9fb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7b6e6a5f-474a-433a-8c39-7e02186192a1",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "I See Fire",
+    "title": "I See Fire"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I See Fire'.",
+  "status": "verified"
+}

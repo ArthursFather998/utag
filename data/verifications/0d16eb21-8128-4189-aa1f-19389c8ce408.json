@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:10:21.296514+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All My Women (2025)",
+    "track_number": 1
+  },
+  "entity_id": "78c032ff-15c8-44c6-9de0-aa7f793af82a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d16eb21-8128-4189-aa1f-19389c8ce408",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "All My Women (2025)",
+    "title": "All My Women (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All My Women (2025)'.",
+  "status": "verified"
+}

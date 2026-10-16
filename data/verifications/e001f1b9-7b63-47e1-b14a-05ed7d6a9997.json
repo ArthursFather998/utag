@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:09.937449+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Kids from Yesterday",
+    "track_number": 1
+  },
+  "entity_id": "247b239e-1b85-4b3f-b1c7-8dbc4dfe5c07",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e001f1b9-7b63-47e1-b14a-05ed7d6a9997",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "The Kids from Yesterday",
+    "title": "The Kids from Yesterday"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Kids from Yesterday'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:01.387309+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Outrageous",
+    "track_number": 1
+  },
+  "entity_id": "eb330d22-69db-4ab2-beb5-9289f73c2cb0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bc0174d5-5df4-4283-90f9-a4ccbec8b0e5",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Outrageous",
+    "title": "Outrageous"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Outrageous'.",
+  "status": "verified"
+}

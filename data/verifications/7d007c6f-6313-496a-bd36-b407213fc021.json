@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:10.070976+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Toxic Pony (2022)",
+    "track_number": 1
+  },
+  "entity_id": "ff02bb11-e788-4507-b648-075707578a25",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7d007c6f-6313-496a-bd36-b407213fc021",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Toxic Pony (2022)",
+    "title": "Toxic Pony (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Toxic Pony (2022)'.",
+  "status": "verified"
+}

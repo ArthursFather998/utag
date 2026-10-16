@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:44.860308+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Coming Up Roses",
+    "track_number": 1
+  },
+  "entity_id": "c775d75e-e262-422e-8a74-8bbbc4776e42",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c4cf00b-2ada-4192-8552-f0d914e517a1",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "Coming Up Roses",
+    "title": "Coming Up Roses"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Coming Up Roses'.",
+  "status": "verified"
+}

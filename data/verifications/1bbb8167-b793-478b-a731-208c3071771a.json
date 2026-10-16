@@ -1,0 +1,44 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:39.508047+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Michael Jackson's This Is It",
+    "track_count": 20,
+    "tracklist": [
+      "Wanna Be Startin' Somethin'",
+      "Jam",
+      "They Don't Care About Us",
+      "Human Nature",
+      "Smooth Criminal",
+      "The Way You Make Me Feel",
+      "Shake Your Body (Down to the Ground)",
+      "I Just Can't Stop Loving You",
+      "Thriller",
+      "Beat It",
+      "Black or White",
+      "Earth Song",
+      "Billie Jean",
+      "Man in the Mirror",
+      "This Is It",
+      "This Is It (Orchestra Version)",
+      "She's Out of My Life (Demo)",
+      "Wanna Be Startin' Somethin' (Demo)",
+      "Beat It (Demo)",
+      "Planet Earth (Poem)"
+    ]
+  },
+  "entity_id": "847305af-438b-4e2b-a27b-ca77fd268d50",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1bbb8167-b793-478b-a731-208c3071771a",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Michael Jackson's This Is It",
+    "track_count": 20
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (20 tracks) per http://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It_(album), https://en.wikipedia.org/wiki/Michael_Jackson%27s_This_Is_It. 2-disc companion to the 2009 concert film. Disc 1: hits in film sequence + 2 versions of 'This Is It'. Disc 2: demos + spoken-word poem.",
+  "status": "verified"
+}

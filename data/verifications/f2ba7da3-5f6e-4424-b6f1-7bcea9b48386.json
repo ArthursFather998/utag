@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:39.736227+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kids Again",
+    "track_number": 1
+  },
+  "entity_id": "c093e450-8b55-4393-ba4e-4e74176305ad",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f2ba7da3-5f6e-4424-b6f1-7bcea9b48386",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Kids Again",
+    "title": "Kids Again"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Kids Again'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:38.907164+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Rock My World",
+    "track_number": 1
+  },
+  "entity_id": "63e7f1a3-e2e5-4cbd-bc58-8d0bde102c20",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "350841c9-1d4c-4a4e-9f44-76a082303890",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "You Rock My World",
+    "title": "You Rock My World"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You Rock My World'.",
+  "status": "verified"
+}

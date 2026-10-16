@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:44.902464+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Antisocial",
+    "track_number": 1
+  },
+  "entity_id": "ef21148f-a010-4a1a-8669-b5dd8662d03b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "37d312eb-6158-4f98-a322-15e5fca613ea",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Antisocial",
+    "title": "Antisocial"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Antisocial'.",
+  "status": "verified"
+}

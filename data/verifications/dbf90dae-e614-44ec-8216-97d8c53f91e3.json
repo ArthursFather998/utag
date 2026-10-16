@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:57:15.464773+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Clambake",
+    "track_count": 12,
+    "tracklist": [
+      "Guitar Man",
+      "Clambake",
+      "Who Needs Money",
+      "A House That Has Everything",
+      "Confidence",
+      "Hey, Hey, Hey",
+      "You Don't Know Me",
+      "The Girl I Never Loved",
+      "How Can You Lose What You Never Had",
+      "Big Boss Man",
+      "Singing Tree",
+      "Just Call Me Lonesome"
+    ]
+  },
+  "entity_id": "52f9934f-4df5-4672-a4bc-75c2c07f6fb0",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "dbf90dae-e614-44ec-8216-97d8c53f91e3",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Clambake",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Clambake_(soundtrack), https://www.shugarecords.com/products/elvispresleyclambake1967-newlprecord2010musiconvinyleuropeimport180gramvinyl-soundtrackrockroll. Original LP RCA Victor LPM/LSP 3893 (Oct 1967), 12 tracks. Only 7 are film songs; 5 are bonus tracks recorded Sept 1967 outside the film sessions: 'Guitar Man', 'You Don't Know Me', 'How Can You Lose What You Never Had', 'Big Boss Man', 'Singing Tree', 'Just Call Me Lonesome'.",
+  "status": "verified"
+}

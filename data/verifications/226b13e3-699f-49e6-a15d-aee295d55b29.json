@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:46.220679+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Oops!...I Did It Again (Remixes and B-Sides)",
+    "track_count": 8,
+    "tracklist": [
+      "Oops!... I Did It Again (Ospina's Deep Club Mix)",
+      "Lucky (Jason Nevins Mixshow Edit)",
+      "Stronger (Mac Quayle Club Mix)",
+      "Don't Let Me Be the Last to Know (Hex Hector Radio Mix)",
+      "You Got It All",
+      "Girl in the Mirror",
+      "Heart",
+      "Walk On By"
+    ]
+  },
+  "entity_id": "b0a169d2-28ff-452d-9f35-b22d19029e59",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "226b13e3-699f-49e6-a15d-aee295d55b29",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "Oops!...I Did It Again (Remixes and B-Sides)",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per https://www.discogs.com/release/15924296-Britney-Spears-OopsI-Did-It-Again-Remixes-And-B-Sides, https://us.rarevinyl.com/products/britney-spears-oops-i-did-it-again-remixes-and-b-sides-baby-blue-vinyl-sealed-uk-vinyl-lp-album-record-19439727511-775823. 2020 Record Store Day exclusive, 8 tracks. Limited to 4,600 copies on baby blue vinyl.",
+  "status": "verified"
+}

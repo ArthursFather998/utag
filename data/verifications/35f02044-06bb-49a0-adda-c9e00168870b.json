@@ -1,0 +1,48 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:50:25.629269+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "+−=÷× (Tour Collection)",
+    "track_count": 24,
+    "tracklist": [
+      "The A Team",
+      "You Need Me, I Don't Need You",
+      "Lego House",
+      "Give Me Love",
+      "Sing",
+      "Don't",
+      "Thinking Out Loud",
+      "Bloodstream",
+      "Photograph",
+      "Tenerife Sea",
+      "I See Fire",
+      "Lay It All on Me (with Rudimental)",
+      "Castle on the Hill",
+      "Shape of You",
+      "Galway Girl",
+      "Perfect",
+      "Happier",
+      "Dive",
+      "I Don't Care (with Justin Bieber)",
+      "Beautiful People (featuring Khalid)",
+      "Afterglow",
+      "Bad Habits",
+      "Shivers",
+      "Eyes Closed"
+    ]
+  },
+  "entity_id": "6d127cad-8bd3-44ea-87e1-2aaad720d277",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "35f02044-06bb-49a0-adda-c9e00168870b",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "+−=÷× (Tour Collection)",
+    "track_count": 24
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (24 tracks) per https://en.wikipedia.org/wiki/%2B%E2%88%92%3D%C3%B7%C3%97_(Tour_Collection), https://www.discogs.com/release/31843265-Ed-Sheeran---Tour-Collection. Greatest hits compilation released 27 September 2024 (Asylum/Atlantic), spanning the five math-symbol albums + - = ÷ × plus collaborations-era singles. DIGITAL/STREAMING EDITION listed here (24 tracks). Wikipedia's standard track listing marks tracks 2 ('You Need Me, I Don't Need You') and 12 ('Lay It All on Me (with Rudimental)') as digital/streaming-only [note b]. The physical CD/vinyl edition is 22 tracks: identical list minus tracks 2 and 12 (confirmed by Discogs CD r31843265, Discogs vinyl r32696685, Muziker, Ireland Vinyl). Also note the Japanese edition adds 'Celestial' and a Christmas edition adds 'Merry Christmas' (with Elton John); a separate '+−=÷× (Tour Collection: Live)' release (Dec 2024) is a different 2-disc live set, NOT this release.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:16:24.947519+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dear April",
+    "track_number": 1
+  },
+  "entity_id": "5584207c-2518-444f-be4e-1d7ca2363c68",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c1a0d25-f8c3-4a0b-b416-aa5285f70c5c",
+  "input": {
+    "artist": "Frank Ocean",
+    "release": "Dear April",
+    "title": "Dear April"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Dear April'.",
+  "status": "verified"
+}

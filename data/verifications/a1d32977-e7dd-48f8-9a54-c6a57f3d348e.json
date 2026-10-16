@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:23.930855+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Return to Sender (1962)",
+    "track_number": 1
+  },
+  "entity_id": "3f749b1f-5a4e-47e0-86d5-f1a83e328b28",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a1d32977-e7dd-48f8-9a54-c6a57f3d348e",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Return to Sender (1962)",
+    "title": "Return to Sender (1962)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Return to Sender (1962)'.",
+  "status": "verified"
+}

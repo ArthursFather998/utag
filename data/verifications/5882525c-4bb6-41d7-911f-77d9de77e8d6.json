@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:59:39.546877+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pot Luck (1962)",
+    "track_count": 12,
+    "tracklist": [
+      "Kiss Me Quick",
+      "Just for Old Time Sake",
+      "Gonna Get Back Home Somehow",
+      "(Such an) Easy Question",
+      "Steppin' Out of Line",
+      "I'm Yours",
+      "Something Blue",
+      "Suspicion",
+      "I Feel That I've Known You Forever",
+      "Night Rider",
+      "Fountain of Love",
+      "That's Someone You Never Forget"
+    ]
+  },
+  "entity_id": "0543e89c-ab79-414a-9b73-3746405fae14",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5882525c-4bb6-41d7-911f-77d9de77e8d6",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Pot Luck (1962)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Pot_Luck_(album), https://www.discogs.com. Cross-chunk year-suffix duplicate: 'Pot Luck' may also appear without the year suffix in another chunk.",
+  "status": "verified"
+}

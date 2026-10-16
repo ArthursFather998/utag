@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:44.810101+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sometimes",
+    "track_number": 1
+  },
+  "entity_id": "36b98b08-9b02-45e4-a528-298dc155fd69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "02cad096-1b25-4dfe-98b2-4c36a5c41520",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Sometimes",
+    "title": "Sometimes"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sometimes'.",
+  "status": "verified"
+}

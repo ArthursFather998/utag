@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:05.150781+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Overdrive",
+    "track_number": 1
+  },
+  "entity_id": "04e512f1-77af-46f0-bf5c-4d82c4e43523",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15829cd4-c5ae-4989-a9d6-4ef600d90988",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Overdrive",
+    "title": "Overdrive"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Overdrive'.",
+  "status": "verified"
+}

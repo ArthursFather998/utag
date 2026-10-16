@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:35.097303+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live from the Royal Albert Hall",
+    "track_count": 6,
+    "tracklist": [
+      "Stay With Me (Live)",
+      "I'm Not The Only One (Live)",
+      "Too Good At Goodbyes (Live)",
+      "How Do You Sleep? (Live)",
+      "Dancing With A Stranger (Live)",
+      "Unholy (Live)"
+    ]
+  },
+  "entity_id": "89f34e86-bc2c-48f5-8e70-dc7561a02b14",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "4677bf96-a6a7-4fb3-bf7d-196f218383dc",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Live from the Royal Albert Hall",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per http://onlineradiobox.com/album/1654902404-live-from-the-royal-, https://musicchartsarchive.com/albums/sam-smith/live-from-the-royal-albert-hall. Live EP from Royal Albert Hall performance, October 2022. Released November 29, 2022 as part of Apple Music 'From Apple Music With Love' series. 6 tracks. Verified against onlineradiobox, musicchartsarchive, and American Songwriter.",
+  "status": "verified"
+}

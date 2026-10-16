@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:12.624472+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Knives Out",
+    "track_number": 1
+  },
+  "entity_id": "cf85ff2d-4ae3-4e32-af3e-71a728c2897e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9e4d801d-5589-4b29-b7a8-ad59d84eddc7",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Knives Out",
+    "title": "Knives Out"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Knives Out'.",
+  "status": "verified"
+}

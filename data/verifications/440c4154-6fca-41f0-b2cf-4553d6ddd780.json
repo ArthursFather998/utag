@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:00:15.920371+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "How Great Thou Art (1967)",
+    "track_count": 13,
+    "tracklist": [
+      "How Great Thou Art",
+      "In the Garden",
+      "Somebody Bigger Than You and I",
+      "Farther Along",
+      "Stand by Me",
+      "Without Him",
+      "So High",
+      "Where Could I Go But to the Lord",
+      "By and By",
+      "If the Lord Wasn't Walking by My Side",
+      "Run On",
+      "Where No One Stands Alone",
+      "Crying in the Chapel"
+    ]
+  },
+  "entity_id": "a89b59b4-b960-472a-9f2a-ff64a2a3c031",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "440c4154-6fca-41f0-b2cf-4553d6ddd780",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "How Great Thou Art (1967)",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://www.discogs.com. Original 1967 gospel album, 13 tracks. 2008 CD reissue adds 3 bonus tracks (You'll Never Walk Alone; We Call On Him; Who Am I?) - not included here. Cross-chunk year-suffix duplicate possible.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:21.194512+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My Way (1977)",
+    "track_number": 1
+  },
+  "entity_id": "b482719f-8d4f-48e2-9d9a-d9e47d7f35c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cd589e83-cd97-482a-82b4-b0cb3539b6f8",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "My Way (1977)",
+    "title": "My Way (1977)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My Way (1977)'.",
+  "status": "verified"
+}

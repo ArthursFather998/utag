@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:25.272309+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is What Winter Feels Like",
+    "track_number": 1
+  },
+  "entity_id": "679c12d9-e55c-4560-91ce-dfba8524deaf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "af139c0f-c639-452c-aa9c-d6072060285c",
+  "input": {
+    "artist": "JVKE",
+    "release": "This Is What Winter Feels Like",
+    "title": "This Is What Winter Feels Like"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'This Is What Winter Feels Like'.",
+  "status": "verified"
+}

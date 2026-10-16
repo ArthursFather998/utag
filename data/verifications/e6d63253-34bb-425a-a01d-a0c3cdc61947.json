@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:19.159695+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Always on My Mind (1972)",
+    "track_number": 1
+  },
+  "entity_id": "2cb77da5-73d1-4bb9-93f4-ef16042e3a86",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e6d63253-34bb-425a-a01d-a0c3cdc61947",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Always on My Mind (1972)",
+    "title": "Always on My Mind (1972)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Always on My Mind (1972)'.",
+  "status": "verified"
+}

@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:38.688355+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "÷",
+    "track_count": 12,
+    "tracklist": [
+      "Eraser",
+      "Castle on the Hill",
+      "Dive",
+      "Shape of You",
+      "Perfect",
+      "Galway Girl",
+      "Happier",
+      "New Man",
+      "Hearts Don't Break Around Here",
+      "What Do I Know?",
+      "How Would You Feel (Paean)",
+      "Supermarket Flowers"
+    ]
+  },
+  "entity_id": "59bfb842-aa7a-4c0f-8d75-3c49b721211d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ad1d3191-d24a-45af-a486-3a09177c6a4f",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "÷",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://lyricsweb.com/album/ed-sheeran/divide, http://www.Enstarz.com/articles/184076/20170111/ed-sheeran-new-music-shape-of-you-singer-reveals-full-divide-tracklist-video.htm. Deluxe edition adds 4 bonus tracks: Barcelona, Bibia Be Ye Ye, Nancy Mulligan, Save Myself.",
+  "status": "verified"
+}

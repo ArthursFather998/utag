@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:37.056081+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "HIStory",
+    "track_number": 1
+  },
+  "entity_id": "53bdcc66-f874-41cd-a1c1-cb764a6308b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4bcda3ff-aa51-43a8-8b86-f6a34be7ccd6",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "HIStory",
+    "title": "HIStory"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'HIStory'.",
+  "status": "verified"
+}

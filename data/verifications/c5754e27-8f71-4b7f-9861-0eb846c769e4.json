@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:15:05.237905+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis in Person at the International Hotel, Las Vegas, Nevada",
+    "track_count": 12,
+    "tracklist": [
+      "Blue Suede Shoes",
+      "Johnny B. Goode",
+      "All Shook Up",
+      "Are You Lonesome Tonight?",
+      "Hound Dog",
+      "I Can't Stop Loving You",
+      "My Babe",
+      "Mystery Train / Tiger Man",
+      "Words",
+      "In the Ghetto",
+      "Suspicious Minds",
+      "Can't Help Falling in Love"
+    ]
+  },
+  "entity_id": "ad208981-7d03-4c73-a825-9c942a78e7c2",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c5754e27-8f71-4b7f-9861-0eb846c769e4",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis in Person at the International Hotel, Las Vegas, Nevada",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/From_Memphis_to_Vegas_/_From_Vegas_to_Memphis, https://www.elvisthemusic.com/de/music/elvis-in-person-at-the-international-hotel/. Standalone reissue of the 'Elvis in Person' live disc from the 1969 double album. Same 12 tracks.",
+  "status": "verified"
+}

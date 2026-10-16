@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:48.871838+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Brooklyn Baby",
+    "track_number": 1
+  },
+  "entity_id": "ab7d6f55-32e8-4591-aeb3-6184c24b3c8e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2968b745-2a98-4900-90da-4441213f850a",
+  "input": {
+    "artist": "Clairo",
+    "release": "Brooklyn Baby",
+    "title": "Brooklyn Baby"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Brooklyn Baby'.",
+  "status": "verified"
+}

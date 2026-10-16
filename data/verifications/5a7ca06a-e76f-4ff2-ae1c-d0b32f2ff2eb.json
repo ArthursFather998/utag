@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:35.955469+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bubble Gum",
+    "track_number": 1
+  },
+  "entity_id": "1bed8073-a538-4d08-a8a7-f9b9151a9273",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5a7ca06a-e76f-4ff2-ae1c-d0b32f2ff2eb",
+  "input": {
+    "artist": "Clairo",
+    "release": "Bubble Gum",
+    "title": "Bubble Gum"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bubble Gum'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:00.536305+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That's Not How This Works (featuring Dan + Shay)",
+    "track_number": 1
+  },
+  "entity_id": "9f7bab81-695e-43cb-b1c7-d6b2b8bd2619",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "960623ef-8be2-4d57-89d6-c02fde29d5dc",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "That's Not How This Works (featuring Dan + Shay)",
+    "title": "That's Not How This Works (featuring Dan + Shay)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'That's Not How This Works (featuring Dan + Shay)'.",
+  "status": "verified"
+}

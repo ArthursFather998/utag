@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:15:53.92625+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Provider",
+    "track_number": 1
+  },
+  "entity_id": "dda08909-63d1-434a-aa20-ae45338f61b1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "43e1b383-4673-4d59-af87-3c63e92117dc",
+  "input": {
+    "artist": "Frank Ocean",
+    "release": "Provider",
+    "title": "Provider"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Provider'.",
+  "status": "verified"
+}

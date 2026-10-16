@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:28.100417+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Slumdon Bridge",
+    "track_count": 4,
+    "tracklist": [
+      "London Bridge",
+      "You Don't Know (For Fuck's Sake)",
+      "Faces",
+      "Tone"
+    ]
+  },
+  "entity_id": "23672e45-956f-42fc-9b50-3580db5da8d3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0c538169-a104-40c3-9b8e-7728cdfb1a8d",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "The Slumdon Bridge",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/The_Slumdon_Bridge, https://www.capitalfm.com/artists/ed-sheeran/news/new-ep-the-slumdon-bridge/. 2012 collaborative EP with Yelawolf (self-released free digital download Feb 14 2012; Interscope US re-release Apr 24 2012). 4 tracks, produced by Jake Gosling, confirmed by Wikipedia, Capital FM (contemporary Feb 2012 press with full tracklist), Rap Radar, Certified Mixtapes and others. NOTE: one AI-generated page (grokipedia) wrongly lists track 4 as 'Outro' - excluded; 4+ independent sources agree it is 'Tone'.",
+  "status": "verified"
+}

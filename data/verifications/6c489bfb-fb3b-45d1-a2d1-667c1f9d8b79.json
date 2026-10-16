@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:20.746234+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Can't Help Falling in Love (1961)",
+    "track_number": 1
+  },
+  "entity_id": "b9deb3b9-a5e1-4c5e-94a9-482c3387463e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c489bfb-fb3b-45d1-a2d1-667c1f9d8b79",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Can't Help Falling in Love (1961)",
+    "title": "Can't Help Falling in Love (1961)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Can't Help Falling in Love (1961)'.",
+  "status": "verified"
+}

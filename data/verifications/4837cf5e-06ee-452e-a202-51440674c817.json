@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:32.179569+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Boys (2002)",
+    "track_number": 1
+  },
+  "entity_id": "01dfd09b-6cb0-4949-9db8-a1e0bcb39b83",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4837cf5e-06ee-452e-a202-51440674c817",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Boys (2002)",
+    "title": "Boys (2002)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Boys (2002)'.",
+  "status": "verified"
+}

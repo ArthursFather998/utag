@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:09.995676+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Please Do Not Lean (2022)",
+    "track_number": 1
+  },
+  "entity_id": "54037269-c87f-4e1d-85a5-6a12a1a1c329",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d8f75666-4917-493b-983e-4043007dd60c",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Please Do Not Lean (2022)",
+    "title": "Please Do Not Lean (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Please Do Not Lean (2022)'.",
+  "status": "verified"
+}

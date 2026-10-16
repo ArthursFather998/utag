@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:16.562149+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Way Down (1977)",
+    "track_number": 1
+  },
+  "entity_id": "0fa3ebee-43f4-4507-a0fb-c37649b7afbe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "69f7238a-de0c-4067-811d-cc2822016926",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Way Down (1977)",
+    "title": "Way Down (1977)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Way Down (1977)'.",
+  "status": "verified"
+}

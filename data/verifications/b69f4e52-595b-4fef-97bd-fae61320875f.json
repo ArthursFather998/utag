@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:00.094568+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lucky",
+    "track_number": 1
+  },
+  "entity_id": "6901eef7-a33b-47ee-ad32-89128731c0a4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b69f4e52-595b-4fef-97bd-fae61320875f",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Lucky",
+    "title": "Lucky"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lucky'.",
+  "status": "verified"
+}

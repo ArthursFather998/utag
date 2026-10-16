@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:26.598845+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pressure",
+    "track_number": 1
+  },
+  "entity_id": "9da47bde-da03-4da9-9742-ad7c99121428",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3273f4ba-c339-4443-9b95-aee218c379ce",
+  "input": {
+    "artist": "Paramore",
+    "release": "Pressure",
+    "title": "Pressure"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pressure'.",
+  "status": "verified"
+}

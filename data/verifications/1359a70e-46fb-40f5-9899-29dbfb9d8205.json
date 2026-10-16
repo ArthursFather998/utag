@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:04.252721+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "GUTS",
+    "track_count": 12,
+    "tracklist": [
+      "All-American Bitch",
+      "Bad Idea Right?",
+      "Vampire",
+      "Lacy",
+      "Ballad of a Homeschooled Girl",
+      "Making the Bed",
+      "Logical",
+      "Get Him Back!",
+      "Love Is Embarrassing",
+      "The Grudge",
+      "Pretty Isn't Pretty",
+      "Teenage Dream"
+    ]
+  },
+  "entity_id": "e18b7163-9a8a-45a4-9e8d-5b67fefe4490",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1359a70e-46fb-40f5-9899-29dbfb9d8205",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "title": "GUTS",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Guts_(album), https://www.nme.com/news/music/olivia-rodrigo-reveals-tracklist-for-guts-3476574. Second studio album, released September 8, 2023 via Geffen. Standard 12-track edition. All tracks stylized in all lowercase on the release; using standard title case per DB convention.",
+  "status": "verified"
+}

@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:51.340914+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live in the UK 2008",
+    "track_count": 14,
+    "tracklist": [
+      "For a Pessimist, I'm Pretty Optimistic",
+      "Born for This",
+      "Emergency",
+      "Never Let This Go",
+      "Fences",
+      "Let the Flames Begin",
+      "When It Rains",
+      "Crushcrushcrush",
+      "Pressure",
+      "Here We Go Again",
+      "That's What You Get",
+      "My Heart",
+      "Decoy",
+      "Misery Business"
+    ]
+  },
+  "entity_id": "8aa96db6-19d1-4d2a-a8c6-61a1b3d2bd10",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "07576b4e-b025-4a5a-a5fd-8b80ca93fec2",
+  "input": {
+    "artist": "Paramore",
+    "title": "Live in the UK 2008",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://www.discogs.com/release/2185636-Paramore-Live-In-The-UK-2008, https://thefinalparamore.crd.co. Live album recorded at Manchester Apollo, January 30, 2008. Limited to 1,000 copies via Concert Live. 14 tracks. 'Never Let This Go' appears as 'Let This Go' on some listings.",
+  "status": "verified"
+}

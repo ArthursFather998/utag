@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:51.748074+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Suspicious Minds (1969)",
+    "track_number": 1
+  },
+  "entity_id": "3a4e257e-7edf-46b7-a40e-2de29d592c9b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "da6775f8-0e26-4701-b0e1-d1ff0ba72e1c",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Suspicious Minds (1969)",
+    "title": "Suspicious Minds (1969)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Suspicious Minds (1969)'.",
+  "status": "verified"
+}

@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:18.88789+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Gloria",
+    "track_count": 13,
+    "tracklist": [
+      "Love Me More",
+      "No God",
+      "Hurting Interlude",
+      "Lose You",
+      "Perfect (with Jessie Reyez)",
+      "Unholy (with Kim Petras)",
+      "How to Cry",
+      "Six Shots",
+      "Gimme (with Koffee and Jessie Reyez)",
+      "Dorothy's Interlude",
+      "I'm Not Here to Make Friends",
+      "Gloria",
+      "Who We Love (with Ed Sheeran)"
+    ]
+  },
+  "entity_id": "0cdde568-9f97-4bf7-88f6-38c5b111635b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "3d16c882-396c-4831-ab38-c99452fcbd13",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "Gloria",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Gloria_(Sam_Smith_album). Standard 13-track edition. Verified against English Wikipedia.",
+  "status": "verified"
+}

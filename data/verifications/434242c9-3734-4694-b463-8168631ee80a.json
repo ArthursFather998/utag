@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:41.4983+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Thousand Years",
+    "track_number": 1
+  },
+  "entity_id": "79c157dc-5d45-4407-b554-6149a92a8b47",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "434242c9-3734-4694-b463-8168631ee80a",
+  "input": {
+    "artist": "JVKE",
+    "release": "A Thousand Years",
+    "title": "A Thousand Years"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Thousand Years'.",
+  "status": "verified"
+}

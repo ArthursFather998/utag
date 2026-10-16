@@ -1,0 +1,28 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:28:04.637031+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Drill",
+    "track_count": 4,
+    "tracklist": [
+      "Prove Yourself",
+      "Stupid Car",
+      "You",
+      "Thinking About You"
+    ]
+  },
+  "entity_id": "eb2251e5-e340-4e23-b3e9-7a2ddbf94e58",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5dad32ac-1d54-40d8-a430-e10861e59249",
+  "input": {
+    "artist": "Radiohead",
+    "title": "Drill",
+    "track_count": 4
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (4 tracks) per https://en.wikipedia.org/wiki/Drill_(EP), https://www.discogs.com/release/767600-Radiohead-Drill-EP. Debut EP (May 5, 1992, Parlophone); first official Radiohead release. Digital reissue appends '(Drill Version)' to some titles; original EP titles used here.",
+  "status": "verified"
+}

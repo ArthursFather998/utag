@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:25:51.282924+00:00",
+  "created_by": "hermes-tracklist",
+  "decision": "verified",
+  "entity_id": "068a7d65-8dd2-4761-8d4c-8865876371c3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d9d6a090-5ab1-44c8-87f6-3605b18d1083",
+  "input": "{\"title\": \"Good Rockin' Tonight\", \"track_number\": 1}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Title track for single 'Good Rockin' Tonight (1954)'",
+  "status": "verified"
+}

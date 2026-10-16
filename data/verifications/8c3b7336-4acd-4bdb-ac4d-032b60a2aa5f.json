@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:55.428787+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "N Side",
+    "track_number": 1
+  },
+  "entity_id": "b43cf75d-ce46-49ae-93ca-4d20ddb68eaa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c3b7336-4acd-4bdb-ac4d-032b60a2aa5f",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "N Side",
+    "title": "N Side"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'N Side'.",
+  "status": "verified"
+}

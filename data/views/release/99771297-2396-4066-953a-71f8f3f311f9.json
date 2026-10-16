@@ -2125,6 +2125,146 @@
     "title": "Diary 001",
     "updated_at": "2026-10-16T04:22:34.960332+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:29.942093+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ebf606f1-e59c-465e-a9c8-2db590eee585",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "99771297-2396-4066-953a-71f8f3f311f9",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Hello?",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:42:29.942093+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:30.549708+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7a80e1ec-46a7-43e0-8ee6-41df31e48586",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "99771297-2396-4066-953a-71f8f3f311f9",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Flaming Hot Cheetos",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:42:30.549708+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:31.203434+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7d084bcb-0caa-4c49-8b29-0632a583ecc8",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "99771297-2396-4066-953a-71f8f3f311f9",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "B.O.M.D.",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:42:31.203434+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:31.748438+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b433654f-e9a2-4b33-880c-14dcc4125e50",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "99771297-2396-4066-953a-71f8f3f311f9",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "4EVER",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:42:31.748438+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:32.487212+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "429426ab-8d11-4601-9ef0-49bfec5123bc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "99771297-2396-4066-953a-71f8f3f311f9",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Pretty Girl",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:42:32.487212+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:42:33.039328+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d3128e86-5bf6-4843-8726-9025bcf1e17a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "99771297-2396-4066-953a-71f8f3f311f9",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "How",
+      "track_number": 6,
+      "updated_at": "2026-10-16T06:42:33.039328+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:42:33.640464+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Diary 001",
+        "track_count": 6,
+        "tracklist": [
+          "Hello?",
+          "Flaming Hot Cheetos",
+          "B.O.M.D.",
+          "4EVER",
+          "Pretty Girl",
+          "How"
+        ]
+      },
+      "entity_id": "99771297-2396-4066-953a-71f8f3f311f9",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "290fcb25-a8b8-4425-ad30-1b8596479999",
+      "input": {
+        "artist": "Clairo",
+        "title": "Diary 001",
+        "track_count": 6
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (6 tracks) per https://shop.thefader.com/products/clairo-diary-001-ep-vinyl, https://www.flyingnun.co.nz/collections/not-flying-nun/products/clairo-diary-001. Debut EP, released May 25, 2018. 'Hello?' feat. Rejjie Snow, 'B.O.M.D.' feat. Danny L Harle, 'How' is a demo. 'Diary 001 (2018)' is a year-suffix duplicate.",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:44.194863+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bitter",
+    "track_number": 1
+  },
+  "entity_id": "ec0477a8-b87e-4397-ab9d-b662cbd4b23d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdcece47-d816-4a4c-a266-8075e402dbf4",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Bitter",
+    "title": "Bitter"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bitter'.",
+  "status": "verified"
+}

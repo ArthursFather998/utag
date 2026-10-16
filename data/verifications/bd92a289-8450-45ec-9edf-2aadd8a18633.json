@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:40.51064+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Olivia Rodrigo & Noah Kahan",
+    "track_count": 2,
+    "tracklist": [
+      "Stick Season",
+      "Lacy"
+    ]
+  },
+  "entity_id": "461324ba-f8bc-4692-ab2e-0586dd0180bb",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bd92a289-8450-45ec-9edf-2aadd8a18633",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "title": "Olivia Rodrigo & Noah Kahan",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://www.nme.com/news/music/olivia-rodrigo-and-noah-kahan-announce-joint-record-store-day-2024-release-with-covers-of-each-other-3591532, https://www.roanrecords.co.uk/product/olivia-rodrigo-stick-season-noah-kahan-lacy-rsd-24/. RSD 2024 7-inch colored vinyl (limited to 15,000 copies). Recorded live from the BBC Radio 1 Live Lounge. Side A: Olivia Rodrigo covering Noah Kahan's 'Stick Season'. Side B: Noah Kahan covering Olivia's 'Lacy' (from GUTS). Released April 20, 2024 via Geffen/Mercury/Republic.",
+  "status": "verified"
+}

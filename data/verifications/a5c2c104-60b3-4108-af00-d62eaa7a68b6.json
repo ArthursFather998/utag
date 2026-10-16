@@ -1,0 +1,15 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:21:16.636733+00:00",
+  "created_by": "hermes-tracklist",
+  "decision": "verified",
+  "entity_id": "effd83a1-dc0f-4221-926f-996fb4b5b3ea",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a5c2c104-60b3-4108-af00-d62eaa7a68b6",
+  "input": "{\"note\": \"Box set intentionally has no flattened tracklist; contents duplicate individual albums\"}",
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Official 7-CD box set; 79 tracks across 7 discs identical to individual album releases. No flattened tracklist to avoid duplication.",
+  "status": "verified"
+}

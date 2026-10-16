@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:02:48.231903+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad Vibes Forever (feat. PnB Rock & Trippie Redd) (2019)",
+    "track_number": 1
+  },
+  "entity_id": "4573a6e5-a786-42dd-97a9-981f7b87fd11",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cc2a0a63-9ef9-44b0-a079-f3f32963d79a",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Bad Vibes Forever (feat. PnB Rock & Trippie Redd) (2019)",
+    "title": "Bad Vibes Forever (feat. PnB Rock & Trippie Redd) (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad Vibes Forever (feat. PnB Rock & Trippie Redd) (2019)'.",
+  "status": "verified"
+}

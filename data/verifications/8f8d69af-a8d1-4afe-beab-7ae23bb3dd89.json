@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:53:55.514094+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Sun Sessions (1976)",
+    "track_count": 16,
+    "tracklist": [
+      "That's All Right",
+      "Blue Moon of Kentucky",
+      "I Don't Care If the Sun Don't Shine",
+      "Good Rockin' Tonight",
+      "Milkcow Blues Boogie",
+      "You're a Heartbreaker",
+      "I'm Left, You're Right, She's Gone",
+      "Baby Let's Play House",
+      "Mystery Train",
+      "I Forgot to Remember to Forget",
+      "I'll Never Let You Go (Little Darlin')",
+      "I Love You Because (1st Version)",
+      "Trying to Get to You",
+      "Blue Moon",
+      "Just Because",
+      "I Love You Because (2nd Version)"
+    ]
+  },
+  "entity_id": "664bd62f-fa7e-49be-bbe8-95bc03410ff3",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8f8d69af-a8d1-4afe-beab-7ae23bb3dd89",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "The Sun Sessions (1976)",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://www.discogs.com/release/1729944-Elvis-Presley-The-Sun-Sessions, https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Elvis_Presley_on_the_Sun_label. 1976 RCA compilation (APM1-1675) of Sun Records masters; 16 of the 24 known Sun titles, including two versions of 'I Love You Because' (labelled '1st Version' / '2nd Version'). Previously issued in the UK in 1975 as 'The Sun Collection'. Sequence identical across Discogs US LP, Wikipedia, Last.fm and herbmusic listings.",
+  "status": "verified"
+}

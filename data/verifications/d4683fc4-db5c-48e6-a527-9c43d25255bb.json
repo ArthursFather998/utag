@@ -1,0 +1,33 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:06.457995+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Thriller",
+    "track_count": 9,
+    "tracklist": [
+      "Wanna Be Startin' Somethin'",
+      "Baby Be Mine",
+      "The Girl Is Mine",
+      "Thriller",
+      "Beat It",
+      "Billie Jean",
+      "Human Nature",
+      "P.Y.T. (Pretty Young Thing)",
+      "The Lady in My Life"
+    ]
+  },
+  "entity_id": "95c5e9e0-3a9a-461f-8fa1-2d1f5f787789",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d4683fc4-db5c-48e6-a527-9c43d25255bb",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Thriller",
+    "track_count": 9
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (9 tracks) per https://en.wikipedia.org/wiki/Thriller_(Michael_Jackson_album), https://the-king-of-pop-michael-jackson.fandom.com/wiki/Thriller_(Album). Sixth solo studio album (1982, Epic). Standard 9-track edition; feature credits omitted per DB convention.",
+  "status": "verified"
+}

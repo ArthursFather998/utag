@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:41.86416+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Re: This Is Why",
+    "track_count": 12,
+    "tracklist": [
+      "This Is Why (Re: Foals)",
+      "The News (Re: The Linda Lindas)",
+      "Running Out of Time (Re: Panda Bear)",
+      "Running Out of Time (Re: Zane Lowe)",
+      "C'est Comme Ça (Re: Wet Leg)",
+      "Big Man, Little Dignity (Re: DOMi & JD Beck)",
+      "You First (Re: Remi Wolf)",
+      "Figure 8 (Re: Bartees Strange)",
+      "Liar (Re: Romy)",
+      "Crave (Re: Claud)",
+      "Thick Skull (Re: Julien Baker)",
+      "Sanity (demo)"
+    ]
+  },
+  "entity_id": "7092538d-14c6-41be-a19d-1d0c006609f6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "715d8972-499e-46c5-a101-6fbf9be1dd7c",
+  "input": {
+    "artist": "Paramore",
+    "title": "Re: This Is Why",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per http://www.kerrang.com/paramore-announce-collaborators-on-their-this-is-why-almost-remix-album-foals-wet-leg-zane-lowe-julien-baker-linda-lindas-bartees-strange, https://www.discogs.com/release/30447449-Paramore-Re-This-Is-Why. Remix/rework album, October 2023. 'Almost a remix album' — songs remixed, reworked, or rewritten by guest artists. Two versions of Running Out of Time. Closes with the 'Sanity' demo.",
+  "status": "verified"
+}

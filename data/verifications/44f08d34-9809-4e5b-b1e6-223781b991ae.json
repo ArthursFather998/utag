@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:06.758948+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Return to Sender",
+    "track_number": 1
+  },
+  "entity_id": "a761eb7c-99a9-4d95-a0c8-cbb956f4e16f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44f08d34-9809-4e5b-b1e6-223781b991ae",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Return to Sender",
+    "title": "Return to Sender"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Return to Sender'.",
+  "status": "verified"
+}

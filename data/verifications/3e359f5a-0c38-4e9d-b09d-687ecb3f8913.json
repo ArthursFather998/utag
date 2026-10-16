@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:39.582398+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blue Angel (2018)",
+    "track_number": 1
+  },
+  "entity_id": "6122c99e-1e79-4d39-a27e-9409b6d68d69",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3e359f5a-0c38-4e9d-b09d-687ecb3f8913",
+  "input": {
+    "artist": "Clairo",
+    "release": "Blue Angel (2018)",
+    "title": "Blue Angel (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Blue Angel (2018)'.",
+  "status": "verified"
+}

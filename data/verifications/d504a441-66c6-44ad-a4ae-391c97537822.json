@@ -1,0 +1,31 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:59.033446+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Members Only, Vol. 1",
+    "track_count": 7,
+    "tracklist": [
+      "RestInPussy",
+      "Amy Whinehouse",
+      "GXD DAMN",
+      "Freddy Vs Jason",
+      "FUXK",
+      "Planet Drool",
+      "CallMeRonaldReagan"
+    ]
+  },
+  "entity_id": "c48259ed-7076-437b-8281-8dde138ae60c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d504a441-66c6-44ad-a4ae-391c97537822",
+  "input": {
+    "artist": "XXXTENTACION",
+    "title": "Members Only, Vol. 1",
+    "track_count": 7
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (7 tracks) per https://en.wikipedia.org/wiki/Members_Only,_Vol._1, https://www.last.fm/music/XXXTENTACION/Members+Only,+Vol.+1. Debut EP by Members Only (XXXTENTACION & Ski Mask the Slump God), released April 20, 2015 via SoundCloud. 7 tracks. Track 2 stylized 'Amy Whinehouse' on Wikipedia.",
+  "status": "verified"
+}

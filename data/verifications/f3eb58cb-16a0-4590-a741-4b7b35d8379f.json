@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:57.407908+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Always on My Mind",
+    "track_number": 1
+  },
+  "entity_id": "4e14f783-a0f9-4353-9831-b1a3c676e6ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f3eb58cb-16a0-4590-a741-4b7b35d8379f",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Always on My Mind",
+    "title": "Always on My Mind"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Always on My Mind'.",
+  "status": "verified"
+}

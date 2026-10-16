@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:24.357799+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Brand New Eyes (Deluxe Version)",
+    "track_count": 14,
+    "tracklist": [
+      "Careful",
+      "Ignorance",
+      "Playing God",
+      "Brick by Boring Brick",
+      "Turn It Off",
+      "The Only Exception",
+      "Feeling Sorry",
+      "Looking Up",
+      "Where the Lines Overlap",
+      "Misguided Ghosts",
+      "All I Wanted",
+      "Ignorance (Acoustic Version)",
+      "Brick by Boring Brick (Acoustic Version)",
+      "Turn It Off (Acoustic Version)"
+    ]
+  },
+  "entity_id": "9f6284cc-330f-40ce-831b-ab99937cc118",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "223319ee-d6ab-4a1f-9e69-bc3c4fb8d22d",
+  "input": {
+    "artist": "Paramore",
+    "title": "Brand New Eyes (Deluxe Version)",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Brand_New_Eyes, https://www.last.fm/music/Paramore/Brand+New+Eyes+%28Deluxe+Version%29. iTunes Deluxe edition: 11 standard tracks + 3 acoustic bonus tracks (Ignorance, Brick by Boring Brick, Turn It Off). Wikipedia confirms the iTunes Deluxe bonus set.",
+  "status": "verified"
+}

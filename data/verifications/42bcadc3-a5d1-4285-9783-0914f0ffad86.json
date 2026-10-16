@@ -1,0 +1,32 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:19.443284+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The King of Limbs",
+    "track_count": 8,
+    "tracklist": [
+      "Bloom",
+      "Morning Mr Magpie",
+      "Little by Little",
+      "Feral",
+      "Lotus Flower",
+      "Codex",
+      "Give Up the Ghost",
+      "Separator"
+    ]
+  },
+  "entity_id": "dfe6e4e5-a692-458e-bdde-1636fce91554",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "42bcadc3-a5d1-4285-9783-0914f0ffad86",
+  "input": {
+    "artist": "Radiohead",
+    "title": "The King of Limbs",
+    "track_count": 8
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (8 tracks) per https://en.wikipedia.org/wiki/The_King_of_Limbs, https://www.sonicboommusic.com/products/radiohead-the-king-of-limbs-vinyl. Eighth studio album (Feb 2011). 8 tracks; all sources agree.",
+  "status": "verified"
+}

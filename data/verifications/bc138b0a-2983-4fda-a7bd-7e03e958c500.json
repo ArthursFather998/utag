@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:01.182583+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sexy Drug (2015)",
+    "track_number": 1
+  },
+  "entity_id": "df5c5447-c9df-4e16-8b0b-27ce731a09af",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bc138b0a-2983-4fda-a7bd-7e03e958c500",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Sexy Drug (2015)",
+    "title": "Sexy Drug (2015)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sexy Drug (2015)'.",
+  "status": "verified"
+}

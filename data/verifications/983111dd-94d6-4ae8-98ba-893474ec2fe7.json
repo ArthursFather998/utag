@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:28.447809+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad Habits",
+    "track_number": 1
+  },
+  "entity_id": "a595d393-e397-4680-bef5-5a3cf8a8f00a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "983111dd-94d6-4ae8-98ba-893474ec2fe7",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Bad Habits",
+    "title": "Bad Habits"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad Habits'.",
+  "status": "verified"
+}

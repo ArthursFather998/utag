@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:59.041953+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Eyes Wide Open",
+    "track_count": 12,
+    "tracklist": [
+      "Eyes Wide Open",
+      "Can't Blame a Girl for Trying",
+      "The Middle of Starting Over",
+      "We'll Be the Stars",
+      "Two Young Hearts",
+      "Your Love's Like",
+      "Too Young",
+      "Seamless",
+      "Right Now",
+      "Darling I'm a Mess",
+      "White Flag",
+      "Best Thing I Got"
+    ]
+  },
+  "entity_id": "996e371d-1c51-4447-beb0-c9eb8a06d148",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "8f8caef2-99da-447a-9403-912bd17028d8",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "title": "Eyes Wide Open",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Eyes_Wide_Open_(Sabrina_Carpenter_album), https://albumpedia.fandom.com/wiki/Eyes_Wide_Open_(Sabrina_Carpenter). Standard 12-track edition. Sources agree on identical order.",
+  "status": "verified"
+}

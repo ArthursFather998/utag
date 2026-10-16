@@ -64,23 +64,6 @@
       },
       "artwork": [],
       "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:10:09.430242+00:00",
-      "edition": "original",
-      "id": "080795c2-b53f-4fca-a804-839302e86ed2",
-      "label": "Republic Records",
-      "release_date": "2018-11-16",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2018,
-      "title": "Sunset Season (2018)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Conan Gray",
-        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
       "created_at": "2026-10-16T04:11:13.090714+00:00",
       "edition": "original",
       "id": "0b89504f-3558-405e-a51a-564e6b2e82d3",
@@ -1034,40 +1017,6 @@
       },
       "artwork": [],
       "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:09:54.950551+00:00",
-      "edition": "original",
-      "id": "dc615c00-529e-408f-86df-6f76febe9753",
-      "label": "Republic Records",
-      "release_date": "2025-08-15",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2025,
-      "title": "Wishbone (2025)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Conan Gray",
-        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:10:01.979853+00:00",
-      "edition": "deluxe",
-      "id": "de740b9c-a781-4259-8de2-7df7e15af058",
-      "label": "Republic Records",
-      "release_date": "2026-04-24",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2026,
-      "title": "Wishbone Deluxe (2026)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Conan Gray",
-        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
       "created_at": "2026-10-16T04:12:25.575681+00:00",
       "edition": "original",
       "id": "e21cea6c-cd14-47af-966e-9f2b09bd4646",
@@ -1245,6 +1194,127 @@
     "title": "Sunset Season",
     "updated_at": "2026-10-16T04:10:05.258252+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:30.784418+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e76b11a0-2a54-47d4-bc95-7ae92e33b57c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e60598a9-dee3-41c8-85c5-1554b4af6e32",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Idle Town",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:09:30.784418+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:31.336778+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1d1eee88-a9af-4a26-b7cd-c076a1a81356",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e60598a9-dee3-41c8-85c5-1554b4af6e32",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Generation Why",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:09:31.336778+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:31.877757+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1490d365-8c9f-48c7-ba0b-073e0f54b396",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e60598a9-dee3-41c8-85c5-1554b4af6e32",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Crush Culture",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:09:31.877757+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:32.521835+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7d40bf9a-9c8c-4ce3-90d2-a916c909c1c0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e60598a9-dee3-41c8-85c5-1554b4af6e32",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Greek God",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:09:32.521835+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "6e251fee-a2ab-4d37-876c-6cd146436f2f",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:33.039873+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "0995bae1-44c1-4567-ae1c-6e26d1d5e7b6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "e60598a9-dee3-41c8-85c5-1554b4af6e32",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Lookalike",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:09:33.039873+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:09:33.677767+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Sunset Season",
+        "track_count": 5,
+        "tracklist": [
+          "Idle Town",
+          "Generation Why",
+          "Crush Culture",
+          "Greek God",
+          "Lookalike"
+        ]
+      },
+      "entity_id": "e60598a9-dee3-41c8-85c5-1554b4af6e32",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "804015c2-705f-4dd6-bcd9-57f6009dd43e",
+      "input": {
+        "artist": "Conan Gray",
+        "title": "Sunset Season",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/13001785-Conan-Gray-Sunset-Season, https://joseyrecords.com/products/conan-gray-sunset-season-ep-import-vinyl. Debut EP, released Nov 16, 2018 via Republic Records. 5-track order confirmed across Discogs, retailer listings, and the Conan Gray Fandom wiki.",
+      "status": "verified"
+    }
+  ]
 }

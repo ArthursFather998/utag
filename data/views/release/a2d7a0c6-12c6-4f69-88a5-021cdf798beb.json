@@ -663,6 +663,89 @@
     "title": "This Is What Heartbreak Feels Like (432 Hz)",
     "updated_at": "2026-10-16T04:04:37.326241+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:57.56762+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "14d868d2-0e9e-4378-8a21-0c3f07ff80b6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a2d7a0c6-12c6-4f69-88a5-021cdf798beb",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "this is what heartbreak feels like",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:08:57.56762+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:58.113411+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "67595fe6-6d9f-4aa4-bc8e-46555fef14ef",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a2d7a0c6-12c6-4f69-88a5-021cdf798beb",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "i'm not okay",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:08:58.113411+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:58.6662+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "821d6936-10ae-4650-977c-0fc52ca8007a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a2d7a0c6-12c6-4f69-88a5-021cdf798beb",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "ghost town",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:08:58.6662+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:08:59.218177+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "This Is What Heartbreak Feels Like (432 Hz)",
+        "track_count": 3,
+        "tracklist": [
+          "this is what heartbreak feels like",
+          "i'm not okay",
+          "ghost town"
+        ]
+      },
+      "entity_id": "a2d7a0c6-12c6-4f69-88a5-021cdf798beb",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "b660bc4c-3acf-4c49-948a-96ac184d971a",
+      "input": {
+        "artist": "JVKE",
+        "title": "This Is What Heartbreak Feels Like (432 Hz)",
+        "track_count": 3
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (3 tracks) per https://www.deezer.com/en/album/359525697, https://www.qobuz.com/fi-en/album/this-is-what-heartbreak-feels-like-432hz-jvke/d3adb65dry0ib. 3-track EP at 432 Hz. Identical tracklist across Deezer and Qobuz.",
+      "status": "verified"
+    }
+  ]
 }

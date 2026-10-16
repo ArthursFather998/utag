@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:41.564252+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Piece of Me",
+    "track_number": 1
+  },
+  "entity_id": "561c8215-feb5-4dba-bcd7-d5e74dc9f81a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b068844f-9ee0-4824-920e-b3d53738fe5d",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Piece of Me",
+    "title": "Piece of Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Piece of Me'.",
+  "status": "verified"
+}

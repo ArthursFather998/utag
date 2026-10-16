@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:39.77912+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Smooth Criminal",
+    "track_number": 1
+  },
+  "entity_id": "9cc369a6-ab48-4176-860e-d7303c55266b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0ac3812e-7bf6-42ca-aae5-3473efbd79d8",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Smooth Criminal",
+    "title": "Smooth Criminal"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Smooth Criminal'.",
+  "status": "verified"
+}

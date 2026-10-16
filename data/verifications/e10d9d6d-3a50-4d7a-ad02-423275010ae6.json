@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:04.650683+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Comfort Crowd",
+    "track_number": 1
+  },
+  "entity_id": "a02abcdc-05c6-47ec-913d-953f5f2f2d82",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e10d9d6d-3a50-4d7a-ad02-423275010ae6",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Comfort Crowd",
+    "title": "Comfort Crowd"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Comfort Crowd'.",
+  "status": "verified"
+}

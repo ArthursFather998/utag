@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:24.59783+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Peach Fuzz",
+    "track_number": 1
+  },
+  "entity_id": "10aaa27a-b400-42af-aeba-309d892bb6c1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cf24daa6-a47f-4d2e-bc2a-f939991a6e76",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Peach Fuzz",
+    "title": "Peach Fuzz"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Peach Fuzz'.",
+  "status": "verified"
+}

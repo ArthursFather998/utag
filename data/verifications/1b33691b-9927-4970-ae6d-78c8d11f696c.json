@@ -1,0 +1,41 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:43:55.853657+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "...Baby One More Time (Deluxe Version)",
+    "track_count": 17,
+    "tracklist": [
+      "...Baby One More Time",
+      "(You Drive Me) Crazy",
+      "Sometimes",
+      "Soda Pop",
+      "Born to Make You Happy",
+      "From the Bottom of My Broken Heart",
+      "I Will Be There",
+      "I Will Still Love You",
+      "Deep in My Heart",
+      "Thinkin' About You",
+      "E-Mail My Heart",
+      "The Beat Goes On",
+      "I'll Never Stop Loving You",
+      "Autumn Goodbye",
+      "I'm So Curious",
+      "...Baby One More Time (Davidson Ospina Radio Mix)",
+      "...Baby One More Time (Boy Wunder Radio Mix)"
+    ]
+  },
+  "entity_id": "c09b26a7-3858-4767-831d-204748589678",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1b33691b-9927-4970-ae6d-78c8d11f696c",
+  "input": {
+    "artist": "Britney Spears",
+    "title": "...Baby One More Time (Deluxe Version)",
+    "track_count": 17
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (17 tracks) per https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album), https://lyricstranslate.com/en/collection/britney-spears-baby-one-more-time-1999-tracklist. Digital deluxe edition. Standard 12 tracks plus international and deluxe bonus tracks.",
+  "status": "verified"
+}

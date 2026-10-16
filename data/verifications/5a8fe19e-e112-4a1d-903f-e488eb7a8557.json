@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:55.702982+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "This Is What Falling in Love Feels Like (554 Hz)",
+    "track_count": 3,
+    "tracklist": [
+      "this is what falling in love feels like",
+      "moon and back",
+      "golden hour"
+    ]
+  },
+  "entity_id": "112b4b93-c2d4-422d-96d0-2f9cd12a300d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5a8fe19e-e112-4a1d-903f-e488eb7a8557",
+  "input": {
+    "artist": "JVKE",
+    "title": "This Is What Falling in Love Feels Like (554 Hz)",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://www.deezer.com/en/album/360122457, https://www.kkbox.com/sg/en/album/8rrPDzSbLZoqNYtHM0. 3-track EP at 554 Hz. Identical tracklist across Deezer, KKBOX, Last.fm, and Qobuz.",
+  "status": "verified"
+}

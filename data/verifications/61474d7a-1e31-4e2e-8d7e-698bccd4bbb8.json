@@ -1,0 +1,47 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:48:11.56245+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "= (Tour Edition)",
+    "track_count": 23,
+    "tracklist": [
+      "Tides",
+      "Shivers",
+      "First Times",
+      "Bad Habits",
+      "Overpass Graffiti",
+      "The Joker and the Queen",
+      "Leave Your Life",
+      "Collide",
+      "2step",
+      "Stop the Rain",
+      "Love in Slow Motion",
+      "Visiting Hours",
+      "Sandman",
+      "Be Right Now",
+      "Afterglow",
+      "One Life",
+      "Penguins",
+      "I Will Remember You",
+      "Welcome to the World",
+      "The Joker and the Queen (feat. Taylor Swift)",
+      "2step (feat. Lil Baby)",
+      "Bad Habits (feat. Bring Me the Horizon)",
+      "Peru (with Fireboy DML)"
+    ]
+  },
+  "entity_id": "81b32212-5aca-4784-a0bf-f9efbea12039",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "61474d7a-1e31-4e2e-8d7e-698bccd4bbb8",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "= (Tour Edition)",
+    "track_count": 23
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (23 tracks) per https://en.wikipedia.org/wiki/%3D_(album), http://capitalfm.com/news/ed-sheeran-equals-tour-edition/. CORRECTION to the assumed bonus list: released 27 May 2022; Wikipedia documents 23 tracks (14 standard + 9 bonus). Bonus tracks are: Afterglow; One Life and Penguins (both from the 2019 film 'Yesterday', previously unreleased); two brand-new songs I Will Remember You and Welcome to the World; the Taylor Swift version of The Joker and the Queen; 2step (feat. Lil Baby); Bad Habits (feat. Bring Me the Horizon); Peru (with Fireboy DML). Note: several countries got a 24th track — a second 2step remix (Potter Payper in the UK per Capital FM; other territories got Budjerah/Antytila/Ellinoora/Ultimo/1.Cuz versions) — so regional variants run to 24 tracks.",
+  "status": "verified"
+}

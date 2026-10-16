@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:30.356816+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Scream & Shout (2012)",
+    "track_number": 1
+  },
+  "entity_id": "e830a0a9-9af2-4e53-8798-0bf0b1bea3a2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "696849cb-4046-4164-a392-d5b470a68ed9",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Scream & Shout (2012)",
+    "title": "Scream & Shout (2012)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Scream & Shout (2012)'.",
+  "status": "verified"
+}

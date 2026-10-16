@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:38.399054+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Supercollider / The Butcher",
+    "track_number": 1
+  },
+  "entity_id": "7387ee3b-707b-4bee-9d80-fa96f0437729",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "79eaed03-c362-467d-b48b-7fdbcf67b743",
+  "input": {
+    "artist": "Radiohead",
+    "release": "Supercollider / The Butcher",
+    "title": "Supercollider / The Butcher"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Supercollider / The Butcher'.",
+  "status": "verified"
+}

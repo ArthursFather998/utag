@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:47.428648+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sling",
+    "track_count": 12,
+    "tracklist": [
+      "Bambi",
+      "Amoeba",
+      "Partridge",
+      "Zinnias",
+      "Blouse",
+      "Wade",
+      "Harbor",
+      "Just For Today",
+      "Joanie",
+      "Reaper",
+      "Little Changes",
+      "Management"
+    ]
+  },
+  "entity_id": "a7fe24d8-da85-474d-8849-60a28ea0894c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "5d6cedf4-58d3-4955-89ed-611da3b2624a",
+  "input": {
+    "artist": "Clairo",
+    "title": "Sling",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.thelineofbestfit.com/news/latest-news/clairo-shares-tracklist-for-new-album-sling, https://www.discogs.com/master/2215273-Clairo-Sling?redirected=true. Second studio album, released July 16, 2021. 'Sling (2021)' is a year-suffix duplicate.",
+  "status": "verified"
+}

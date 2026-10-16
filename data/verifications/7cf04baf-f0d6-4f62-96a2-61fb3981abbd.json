@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:32.195437+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Alone (2013)",
+    "track_number": 1
+  },
+  "entity_id": "4506838e-793d-4b93-9bbb-83ed19af322c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7cf04baf-f0d6-4f62-96a2-61fb3981abbd",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Alone (2013)",
+    "title": "Alone (2013)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Alone (2013)'.",
+  "status": "verified"
+}

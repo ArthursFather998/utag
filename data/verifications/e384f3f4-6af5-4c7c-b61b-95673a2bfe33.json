@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:02.146649+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Final Riot!",
+    "track_count": 15,
+    "tracklist": [
+      "Born for This",
+      "That's What You Get",
+      "Here We Go Again",
+      "Fences",
+      "Crushcrushcrush",
+      "Let the Flames Begin",
+      "When It Rains",
+      "My Heart",
+      "Decoy",
+      "Pressure",
+      "For a Pessimist, I'm Pretty Optimistic",
+      "We Are Broken",
+      "Emergency",
+      "Hallelujah",
+      "Misery Business"
+    ]
+  },
+  "entity_id": "e334703b-84eb-497a-946e-41d054c0612f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e384f3f4-6af5-4c7c-b61b-95673a2bfe33",
+  "input": {
+    "artist": "Paramore",
+    "title": "The Final Riot!",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://www.youtube.com/watch?v=rNk438jqOCM, https://www.herbmusic.net/album/paramore-the-final-riot%21-33281. Live CD/DVD recorded at Congress Theater, Chicago, August 12, 2008. Released November 2008. 15 tracks. Track 9 is the b-side 'Decoy'.",
+  "status": "verified"
+}

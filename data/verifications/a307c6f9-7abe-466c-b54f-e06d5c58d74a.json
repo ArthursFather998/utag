@@ -1,0 +1,35 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:00:25.08928+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Letters from Elvis (1971)",
+    "track_count": 11,
+    "tracklist": [
+      "Love Letters",
+      "When I'm Over You",
+      "If I Were You",
+      "Got My Mojo Working",
+      "Heart of Rome",
+      "Only Believe",
+      "This Is Our Dance",
+      "Cindy, Cindy",
+      "I'll Never Know",
+      "It Ain't No Big Thing (But It's Growing)",
+      "Life"
+    ]
+  },
+  "entity_id": "93706e30-309b-4ade-b198-584f663a94cc",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a307c6f9-7abe-466c-b54f-e06d5c58d74a",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Love Letters from Elvis (1971)",
+    "track_count": 11
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (11 tracks) per https://www.discogs.com. Verified across 4 Discogs release pages. Cross-chunk year-suffix duplicate possible.",
+  "status": "verified"
+}

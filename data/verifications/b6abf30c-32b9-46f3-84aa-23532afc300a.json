@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:01.342924+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Songs I Wrote with Amy",
+    "track_count": 5,
+    "tracklist": [
+      "Fall",
+      "Fire Alarms",
+      "Where We Land",
+      "Cold Coffee",
+      "She"
+    ]
+  },
+  "entity_id": "1d30a558-b028-4cfd-b7ae-2ba54540dad4",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b6abf30c-32b9-46f3-84aa-23532afc300a",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "Songs I Wrote with Amy",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/5291741-Ed-Sheeran-Songs-I-Wrote-With-Amy?redirected=true, https://en.wikipedia.org/wiki/Songs_I_Wrote_with_Amy. 2010 independent CDr EP (Sheeran Lock, released Apr 4, 2010). Co-written with Amy Wadge; backing vocals by Leddra Chapman; produced by Jake Gosling. 5 tracks confirmed by Discogs (r5291741, r8176238), Wikipedia, and retailer shugarecords.",
+  "status": "verified"
+}

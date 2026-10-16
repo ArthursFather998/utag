@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:48.607781+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Old School Love (2013)",
+    "track_number": 1
+  },
+  "entity_id": "ddf4eda0-fa9c-432f-b0ca-5b3ae4010a31",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e091a554-4448-4b50-8abc-d2d38babddf5",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Old School Love (2013)",
+    "title": "Old School Love (2013)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Old School Love (2013)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:40.179403+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "We Find Love (2017)",
+    "track_number": 1
+  },
+  "entity_id": "d814f992-9309-4937-81be-be8e029b0458",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ff62135d-b543-4163-88ec-42071a801730",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "We Find Love (2017)",
+    "title": "We Find Love (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'We Find Love (2017)'.",
+  "status": "verified"
+}

@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:39.911258+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live at Wembley July 16, 1988",
+    "track_count": 16,
+    "tracklist": [
+      "Wanna Be Startin' Somethin'",
+      "This Place Hotel",
+      "Another Part of Me",
+      "I Just Can't Stop Loving You",
+      "She's Out of My Life",
+      "I Want You Back/The Love You Save/I'll Be There",
+      "Rock with You",
+      "Human Nature",
+      "Smooth Criminal",
+      "Dirty Diana",
+      "Thriller",
+      "Workin' Day and Night",
+      "Beat It",
+      "Billie Jean",
+      "Bad",
+      "Man in the Mirror"
+    ]
+  },
+  "entity_id": "9051bad6-7a97-4ebb-9692-fb3546fd3662",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "74ec987c-707f-4f23-b0a9-1d3f00399a30",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Live at Wembley July 16, 1988",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://en.wikipedia.org/wiki/Live_at_Wembley_July_16,_1988, https://www.noise11.com/news/michael-jackson-bad-25th-anniversary-tracklisting-unveiled-20120809. Live album from the Bad World Tour (released 2012, part of Bad 25). 16-track CD version; the DVD adds 'Bad Groove' interlude and 2 bonus performances from other dates.",
+  "status": "verified"
+}

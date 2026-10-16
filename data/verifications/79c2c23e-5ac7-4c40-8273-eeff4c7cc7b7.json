@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:31.054518+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kendrick Lamar",
+    "track_count": 15,
+    "tracklist": [
+      "Is It Love",
+      "Celebration",
+      "P&P",
+      "She Needs Me",
+      "I Am (Interlude)",
+      "Wanna Be Heard",
+      "I Do This",
+      "Uncle Bobby & Jason Keaton",
+      "Faith",
+      "Trip",
+      "Vanity Slaves",
+      "Far From Here",
+      "Thanksgiving",
+      "Let Me Be Me",
+      "Determined"
+    ]
+  },
+  "entity_id": "bfa09b1b-f248-45da-9bc8-2fbd477a013b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "79c2c23e-5ac7-4c40-8273-eeff4c7cc7b7",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "Kendrick Lamar",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://www.discogs.com/release/4294909-Kendrick-Lamar-Kendrick-Lamar-EP, https://kendricklamar.fandom.com/wiki/Kendrick_Lamar_EP. Self-titled EP, released December 31, 2009. First project under his birth name (previously K.Dot). 15 tracks including bonus 'Determined'. Discogs notes tracks 1 and 16 unlisted on original CDr; the standard 15-track sequence is used here.",
+  "status": "verified"
+}

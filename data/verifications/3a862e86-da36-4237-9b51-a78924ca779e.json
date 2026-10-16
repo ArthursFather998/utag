@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:32.048337+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Drown (2018)",
+    "track_number": 1
+  },
+  "entity_id": "19ae56b5-8a2c-443b-89dd-6fd496bbd76e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3a862e86-da36-4237-9b51-a78924ca779e",
+  "input": {
+    "artist": "Clairo",
+    "release": "Drown (2018)",
+    "title": "Drown (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Drown (2018)'.",
+  "status": "verified"
+}

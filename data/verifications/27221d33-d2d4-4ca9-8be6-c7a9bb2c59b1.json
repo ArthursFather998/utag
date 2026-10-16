@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:38.936106+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "(Marie's the Name) His Latest Flame (1961)",
+    "track_number": 1
+  },
+  "entity_id": "69448962-9081-4000-a88e-67ca9fe23c76",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "27221d33-d2d4-4ca9-8be6-c7a9bb2c59b1",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "(Marie's the Name) His Latest Flame (1961)",
+    "title": "(Marie's the Name) His Latest Flame (1961)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '(Marie's the Name) His Latest Flame (1961)'.",
+  "status": "verified"
+}

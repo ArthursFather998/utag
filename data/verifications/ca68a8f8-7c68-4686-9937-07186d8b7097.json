@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:09.459799+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spotify Singles - EP",
+    "track_count": 2,
+    "tracklist": [
+      "I Knew You Were Trouble",
+      "Feather"
+    ]
+  },
+  "entity_id": "391bcb58-279c-4276-86ce-0cabc6d78077",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ca68a8f8-7c68-4686-9937-07186d8b7097",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "title": "Spotify Singles - EP",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://www.beautifulballad.org/2023/10/18/sabrina-carpenter-covers-taylor-swift-for-spotify-singles/, https://www.gagadaily.com/forums/topic/400142-sabrina-carpenter-releases-spotify-singles/. Spotify Singles (Oct 18, 2023). 'I Knew You Were Trouble' is a cover of the Taylor Swift song; 'Feather' is from emails i can't send fwd:.",
+  "status": "verified"
+}

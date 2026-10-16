@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:26.466235+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Thriller 25",
+    "track_count": 16,
+    "tracklist": [
+      "Wanna Be Startin' Somethin'",
+      "Baby Be Mine",
+      "The Girl Is Mine",
+      "Thriller",
+      "Beat It",
+      "Billie Jean",
+      "Human Nature",
+      "P.Y.T. (Pretty Young Thing)",
+      "The Lady in My Life",
+      "Vincent Price Excerpt from Thriller Voice-Over Session",
+      "The Girl Is Mine 2008",
+      "P.Y.T. (Pretty Young Thing) 2008",
+      "Wanna Be Startin' Somethin' 2008",
+      "Beat It 2008",
+      "Billie Jean 2008 (Kanye West Mix)",
+      "For All Time"
+    ]
+  },
+  "entity_id": "cc4dc927-5e5e-4880-ae19-c60765b84d11",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "6b4f7183-94a5-4bb5-97ba-d71e15628c48",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Thriller 25",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://en.wikipedia.org/wiki/Thriller_25, https://www.moodomedia.com/products/michael-jackson-thriller-25-remastered-2lp-brand-new-vinyl. 25th anniversary reissue of Thriller (2008). CD: original 9 tracks + Vincent Price voice-over excerpt + 5 2008 remixes + 'For All Time'. DVD tracks excluded.",
+  "status": "verified"
+}

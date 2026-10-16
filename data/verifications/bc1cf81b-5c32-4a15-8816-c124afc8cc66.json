@@ -1,0 +1,43 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:18:12.471837+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "May Death Never Stop You",
+    "track_count": 19,
+    "tracklist": [
+      "Fake Your Death",
+      "Honey, This Mirror Isn't Big Enough for the Two of Us",
+      "Vampires Will Never Hurt You",
+      "Helena",
+      "You Know What They Do to Guys Like Us in Prison",
+      "I'm Not Okay (I Promise)",
+      "The Ghost of You",
+      "Welcome to the Black Parade",
+      "Cancer",
+      "Mama",
+      "Teenagers",
+      "Famous Last Words",
+      "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "SING",
+      "Planetary (GO!)",
+      "The Kids from Yesterday",
+      "Skylines and Turnstiles (Demo)",
+      "Knives/Sorrow (Demo)",
+      "Cubicles (Demo)"
+    ]
+  },
+  "entity_id": "048ad5c9-2808-44fb-b737-21a12f9bd48f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "bc1cf81b-5c32-4a15-8816-c124afc8cc66",
+  "input": {
+    "artist": "My Chemical Romance",
+    "title": "May Death Never Stop You",
+    "track_count": 19
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (19 tracks) per Gigwise, Discogs (release r11118576). Greatest hits compilation, released March 25, 2014 by Reprise Records. Track 1 'Fake Your Death' is a previously unreleased studio recording; tracks 17-19 are demo versions of songs from the debut album. CD+DVD editions include the 'The Final Parade' DVD.",
+  "status": "verified"
+}

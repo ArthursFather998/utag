@@ -1,0 +1,37 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:46.635887+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Man's Best Friend (Bonus Track Version)",
+    "track_count": 13,
+    "tracklist": [
+      "Manchild",
+      "Tears",
+      "My Man on Willpower",
+      "Sugar Talking",
+      "We Almost Broke Up Again Last Night",
+      "Nobody's Son",
+      "Never Getting Laid",
+      "When Did You Get Hot?",
+      "Go Go Juice",
+      "Don't Worry I'll Make You Worry",
+      "House Tour",
+      "Goodbye",
+      "Such a Funny Way"
+    ]
+  },
+  "entity_id": "c41662ea-37be-4a5f-8ecb-b968ed40a11e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d329b9a2-08e2-44c8-b81d-4ffbf44aeb04",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "title": "Man's Best Friend (Bonus Track Version)",
+    "track_count": 13
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (13 tracks) per https://en.wikipedia.org/wiki/Man%27s_Best_Friend_(album), http://hellorayo.co.uk/forth//entertainment/music/sabrina-carpenter-mans-best-friend. Bonus track edition: the 12 standard tracks plus bonus track 'Such a Funny Way' (track 13). Distinct release from the standard edition, not a duplicate.",
+  "status": "verified"
+}

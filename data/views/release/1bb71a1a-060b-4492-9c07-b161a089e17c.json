@@ -663,6 +663,127 @@
     "title": "The Asia Tour: Blooming Season EP",
     "updated_at": "2026-10-16T04:04:31.079899+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:48.54479+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "edfd4740-0140-489e-8c8d-e5adc9d02f1b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1bb71a1a-060b-4492-9c07-b161a089e17c",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "easy",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:08:48.54479+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:49.432441+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d334206b-c981-43e1-9d29-c5a53a831a23",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1bb71a1a-060b-4492-9c07-b161a089e17c",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "seasons",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:08:49.432441+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:50.001781+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4dce25bf-00d6-4ca5-b6a4-024d15005f46",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1bb71a1a-060b-4492-9c07-b161a089e17c",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "colors",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:08:50.001781+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:50.660358+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "07c8c102-4553-4b5e-b217-dafbe98f10b8",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1bb71a1a-060b-4492-9c07-b161a089e17c",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "moonboy",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:08:50.660358+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:51.21998+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "8a2cc93b-05b9-4448-b787-298cfa0904bf",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1bb71a1a-060b-4492-9c07-b161a089e17c",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "easy (Chinese Version)",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:08:51.21998+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:08:51.764353+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "The Asia Tour: Blooming Season EP",
+        "track_count": 5,
+        "tracklist": [
+          "easy",
+          "seasons",
+          "colors",
+          "moonboy",
+          "easy (Chinese Version)"
+        ]
+      },
+      "entity_id": "1bb71a1a-060b-4492-9c07-b161a089e17c",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "a706218f-c2b8-4761-abb5-5607046b883a",
+      "input": {
+        "artist": "JVKE",
+        "title": "The Asia Tour: Blooming Season EP",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://play.anghami.com/album/1086300138, https://therarbg.to/post-detail/840f13/jvke-the-asia-tour_-blooming-season-ep-2025-mp3-320kbps-pmed/. 5-track EP of Asia tour collaborations. Track order from Anghami album page; torrent file listing confirms easy/seasons/colors/easy (Chinese Version) order. Moonboy appears on Anghami but not in the torrent file listing — included per Anghami as the primary source.",
+      "status": "verified"
+    }
+  ]
 }

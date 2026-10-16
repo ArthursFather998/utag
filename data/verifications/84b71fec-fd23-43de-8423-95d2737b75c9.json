@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:47.174904+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Racecar",
+    "track_number": 1
+  },
+  "entity_id": "0bbcf1aa-6607-40fb-9533-00a64a512205",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "84b71fec-fd23-43de-8423-95d2737b75c9",
+  "input": {
+    "artist": "Clairo",
+    "release": "Racecar",
+    "title": "Racecar"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Racecar'.",
+  "status": "verified"
+}

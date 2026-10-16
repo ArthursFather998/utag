@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:53:37.083315+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Having Fun with Elvis on Stage (1974)",
+    "track_count": 2,
+    "tracklist": [
+      "Side A",
+      "Side B"
+    ]
+  },
+  "entity_id": "9d65d9c6-3078-4325-8b42-8a346012b210",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7baa503a-b7e6-40ef-aee9-f6ec2523daed",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Having Fun with Elvis on Stage (1974)",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per http://en.wikipedia.org/wiki/Having_Fun_with_Elvis_on_Stage, https://www.discogs.com/release/3460639-Elvis-Presley-Having-Fun-With-Elvis-On-Stage. 1974 spoken-word 'talking album' of on-stage banter, snippets spliced from 1969-1972 concert tapes with all music edited out. Officially banded as just two untitled tracks: Side A (18:06) and Side B (19:00). Originally released on Colonel Tom Parker's Boxcar Enterprises label (sold only at performances), picked up by RCA Victor (CPM1-0818/APM1-0818). Deleted at Presley's request; remains unavailable on CD. Recorded per task as the official banded titles, not song titles (none exist).",
+  "status": "verified"
+}

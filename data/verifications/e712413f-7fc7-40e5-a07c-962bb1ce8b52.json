@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:31.258526+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Have a Baby (With Me) (2025)",
+    "track_number": 1
+  },
+  "entity_id": "3f78afa3-f5b7-48d6-846e-d9abb35d9ca0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e712413f-7fc7-40e5-a07c-962bb1ce8b52",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Have a Baby (With Me) (2025)",
+    "title": "Have a Baby (With Me) (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Have a Baby (With Me) (2025)'.",
+  "status": "verified"
+}

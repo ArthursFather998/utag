@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:58.510197+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Life's Good",
+    "track_number": 1
+  },
+  "entity_id": "09638b72-0bf4-4c75-8a9f-7927c796fc98",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "00db3bc3-2a7a-473f-8843-75c8677e6a28",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Life's Good",
+    "title": "Life's Good"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Life's Good'.",
+  "status": "verified"
+}

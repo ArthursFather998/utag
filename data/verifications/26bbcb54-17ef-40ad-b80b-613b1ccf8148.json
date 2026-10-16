@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:39.176631+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Zombified (2022)",
+    "track_number": 1
+  },
+  "entity_id": "391d180d-a2bc-4d75-80dc-01e0d11e39c2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26bbcb54-17ef-40ad-b80b-613b1ccf8148",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Zombified (2022)",
+    "title": "Zombified (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Zombified (2022)'.",
+  "status": "verified"
+}

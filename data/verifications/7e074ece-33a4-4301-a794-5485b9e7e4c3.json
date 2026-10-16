@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:28.591016+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Love Rock 'n' Roll (2002)",
+    "track_number": 1
+  },
+  "entity_id": "23fc353b-612a-4cc1-9b2b-accbcd5dbc23",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e074ece-33a4-4301-a794-5485b9e7e4c3",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "I Love Rock 'n' Roll (2002)",
+    "title": "I Love Rock 'n' Roll (2002)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Love Rock 'n' Roll (2002)'.",
+  "status": "verified"
+}

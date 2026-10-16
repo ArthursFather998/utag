@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:31.542471+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Are You Bored Yet?",
+    "track_number": 1
+  },
+  "entity_id": "43b18c67-0371-49d4-b5af-c5f7e5a13307",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "82172fbb-5919-4da2-bb0a-f89f7c5b2a22",
+  "input": {
+    "artist": "Clairo",
+    "release": "Are You Bored Yet?",
+    "title": "Are You Bored Yet?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Are You Bored Yet?'.",
+  "status": "verified"
+}

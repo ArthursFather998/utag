@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:22.403255+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "She's Not You",
+    "track_number": 1
+  },
+  "entity_id": "8560d018-f104-4000-aa8e-0981db74d25a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "45e0f2a6-3c51-47ad-8a77-8442bc175f16",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "She's Not You",
+    "title": "She's Not You"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'She's Not You'.",
+  "status": "verified"
+}

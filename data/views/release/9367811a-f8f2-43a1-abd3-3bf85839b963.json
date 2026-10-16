@@ -663,6 +663,89 @@
     "title": "This Is What Falling Out of Love Feels Like (392 Hz)",
     "updated_at": "2026-10-16T04:04:43.966241+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:04.193977+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2c75a50f-b0bc-4971-9e68-79efaf545b3a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9367811a-f8f2-43a1-abd3-3bf85839b963",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "this is what falling out of love feels like",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:09:04.193977+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:04.707727+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1eb1e2fc-01eb-4064-9a4e-d6dc522036d9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9367811a-f8f2-43a1-abd3-3bf85839b963",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "catch me",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:09:04.707727+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:09:05.248018+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b61c389d-e2e5-4189-ab50-50d2605af159",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9367811a-f8f2-43a1-abd3-3bf85839b963",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "i can't help it",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:09:05.248018+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:09:05.849781+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "This Is What Falling Out of Love Feels Like (392 Hz)",
+        "track_count": 3,
+        "tracklist": [
+          "this is what falling out of love feels like",
+          "catch me",
+          "i can't help it"
+        ]
+      },
+      "entity_id": "9367811a-f8f2-43a1-abd3-3bf85839b963",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "b8df45b6-65a9-4aa7-a5dc-f371044dc9c8",
+      "input": {
+        "artist": "JVKE",
+        "title": "This Is What Falling Out of Love Feels Like (392 Hz)",
+        "track_count": 3
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (3 tracks) per https://www.deezer.com/us/album/359523087, https://www.maniadb.com/album/993261. 3-track EP at 392 Hz. Identical tracklist across Deezer, ManiaDB, and Qobuz.",
+      "status": "verified"
+    }
+  ]
 }

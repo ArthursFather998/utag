@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:21.863114+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Might Be Sleeping",
+    "track_number": 1
+  },
+  "entity_id": "f9f457b0-f46d-4f56-a95d-f20779ebd708",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9d99a20f-b667-478c-bcb2-e56b695db6e9",
+  "input": {
+    "artist": "Clairo",
+    "release": "You Might Be Sleeping",
+    "title": "You Might Be Sleeping"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You Might Be Sleeping'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:30.636017+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Carry On",
+    "track_number": 1
+  },
+  "entity_id": "b0f4fdf6-d355-46dd-a424-7a895e9a6387",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4c98115c-e797-45a8-9234-a38795a2a1d0",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Carry On",
+    "title": "Carry On"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Carry On'.",
+  "status": "verified"
+}

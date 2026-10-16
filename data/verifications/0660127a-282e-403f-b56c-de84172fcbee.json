@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:21.739959+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Beautiful People (2019)",
+    "track_number": 1
+  },
+  "entity_id": "9f3ffe08-b18e-4596-9174-7fd8dd8d5030",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0660127a-282e-403f-b56c-de84172fcbee",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Beautiful People (2019)",
+    "title": "Beautiful People (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Beautiful People (2019)'.",
+  "status": "verified"
+}

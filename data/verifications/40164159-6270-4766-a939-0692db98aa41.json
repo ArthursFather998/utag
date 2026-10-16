@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:01.362428+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My Boy (1975)",
+    "track_number": 1
+  },
+  "entity_id": "5beec7d4-df34-4149-b75d-184bf6e2045a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40164159-6270-4766-a939-0692db98aa41",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "My Boy (1975)",
+    "title": "My Boy (1975)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My Boy (1975)'.",
+  "status": "verified"
+}

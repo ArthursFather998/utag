@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:58.161579+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Back to Me",
+    "track_number": 1
+  },
+  "entity_id": "0c9a3f04-6db5-4b9a-82d6-ec73cbdf7006",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "763c08bb-b96d-4376-9467-bf33ab37c94c",
+  "input": {
+    "artist": "The Marías",
+    "release": "Back to Me",
+    "title": "Back to Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Back to Me'.",
+  "status": "verified"
+}

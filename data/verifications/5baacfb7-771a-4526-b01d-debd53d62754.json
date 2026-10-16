@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:22.112877+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hold Me Closer",
+    "track_number": 1
+  },
+  "entity_id": "2eaf7128-a181-4e7c-9e69-173f08d2909f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5baacfb7-771a-4526-b01d-debd53d62754",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Hold Me Closer",
+    "title": "Hold Me Closer"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hold Me Closer'.",
+  "status": "verified"
+}

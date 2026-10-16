@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:20:50.97805+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "How Do You Sleep?",
+    "track_number": 1
+  },
+  "entity_id": "3675ba60-7a52-42b5-93ff-9bedcc0c5f6c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "77810070-df71-40a7-9562-87580bc5643c",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "How Do You Sleep?",
+    "title": "How Do You Sleep?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'How Do You Sleep?'.",
+  "status": "verified"
+}

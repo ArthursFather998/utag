@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:00.814766+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Girl Is Mine 2008",
+    "track_number": 1
+  },
+  "entity_id": "55845e6b-13ed-4320-ac41-5fe17c13f9cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3fb24d95-9476-4a83-8a4b-d3b098f8f57e",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "The Girl Is Mine 2008",
+    "title": "The Girl Is Mine 2008"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Girl Is Mine 2008'.",
+  "status": "verified"
+}

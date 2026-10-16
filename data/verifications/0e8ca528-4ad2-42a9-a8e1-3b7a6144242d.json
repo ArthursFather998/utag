@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:59.475712+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Stay Away (2015)",
+    "track_number": 1
+  },
+  "entity_id": "83e137b4-7614-4da9-a05a-68a7d1adaa28",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e8ca528-4ad2-42a9-a8e1-3b7a6144242d",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Stay Away (2015)",
+    "title": "Stay Away (2015)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Stay Away (2015)'.",
+  "status": "verified"
+}

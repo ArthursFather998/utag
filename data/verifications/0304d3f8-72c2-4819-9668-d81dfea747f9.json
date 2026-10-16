@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:21:26.818434+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Vulgar",
+    "track_number": 1
+  },
+  "entity_id": "7d8087ca-fcca-4da1-b2c3-819bac7d3d59",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0304d3f8-72c2-4819-9668-d81dfea747f9",
+  "input": {
+    "artist": "Sam Smith",
+    "release": "Vulgar",
+    "title": "Vulgar"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Vulgar'.",
+  "status": "verified"
+}

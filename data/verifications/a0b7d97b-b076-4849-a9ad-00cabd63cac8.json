@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:59:22.573709+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Easy Come, Easy Go",
+    "track_count": 6,
+    "tracklist": [
+      "Easy Come, Easy Go",
+      "The Love Machine",
+      "Yoga Is As Yoga Does",
+      "You Gotta Stop",
+      "Sing You Children",
+      "I'll Take Love"
+    ]
+  },
+  "entity_id": "99dc9ce4-6b21-460e-b0c7-abb83a294eb5",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a0b7d97b-b076-4849-a9ad-00cabd63cac8",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Easy Come, Easy Go",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://en.wikipedia.org/wiki/Easy_Come,_Easy_Go_(soundtrack), https://www.ha.com. 6-track US EP (1967 film soundtrack EP). UK EP has only 4 tracks; DB release follows the 6-track US version.",
+  "status": "verified"
+}

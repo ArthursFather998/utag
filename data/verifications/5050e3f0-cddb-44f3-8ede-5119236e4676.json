@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:56.897729+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "How Long",
+    "track_number": 1
+  },
+  "entity_id": "5f621cee-8bca-4180-b0c6-f8448fedab0e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5050e3f0-cddb-44f3-8ede-5119236e4676",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "How Long",
+    "title": "How Long"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'How Long'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:32.352516+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Earfquake (Channel Tres Remix)",
+    "track_number": 1
+  },
+  "entity_id": "2d7cb879-8ae0-4440-9139-ae75256ee763",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdfafa10-b41b-4d62-9ae5-6ece7f2a2ce9",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Earfquake (Channel Tres Remix)",
+    "title": "Earfquake (Channel Tres Remix)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Earfquake (Channel Tres Remix)'.",
+  "status": "verified"
+}

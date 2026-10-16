@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:16.588579+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Way I Am (2018)",
+    "track_number": 1
+  },
+  "entity_id": "a19d1762-b755-4143-afa1-c96ca7745c81",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "40d1349f-7d20-43f1-a4f3-7346c4e5be4e",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "The Way I Am (2018)",
+    "title": "The Way I Am (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Way I Am (2018)'.",
+  "status": "verified"
+}

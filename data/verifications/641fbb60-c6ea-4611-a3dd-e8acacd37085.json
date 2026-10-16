@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:50.669199+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Caramel - Single (2025)",
+    "track_number": 1
+  },
+  "entity_id": "ed820738-1007-47bb-b8e0-acf23b11f791",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "641fbb60-c6ea-4611-a3dd-e8acacd37085",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Caramel - Single (2025)",
+    "title": "Caramel - Single (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Caramel - Single (2025)'.",
+  "status": "verified"
+}

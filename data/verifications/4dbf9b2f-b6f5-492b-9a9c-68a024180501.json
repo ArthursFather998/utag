@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:54.053899+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Me Anyway",
+    "track_number": 1
+  },
+  "entity_id": "95e952d3-246f-4edd-ae05-bf474feac93f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4dbf9b2f-b6f5-492b-9a9c-68a024180501",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Love Me Anyway",
+    "title": "Love Me Anyway"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Love Me Anyway'.",
+  "status": "verified"
+}

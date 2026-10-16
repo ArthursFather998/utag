@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:30:47.019818+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bags",
+    "track_number": 1
+  },
+  "entity_id": "dd303c1b-bf98-4243-8d1f-4399fa78f59e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "509b7afc-94c0-4c7e-a6e4-90632076dd00",
+  "input": {
+    "artist": "Clairo",
+    "release": "Bags",
+    "title": "Bags"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bags'.",
+  "status": "verified"
+}

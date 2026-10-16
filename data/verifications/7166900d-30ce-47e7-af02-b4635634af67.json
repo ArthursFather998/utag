@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:35.322104+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hush",
+    "track_number": 1
+  },
+  "entity_id": "725fb95b-5180-4e76-8849-67fa5c2e985d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7166900d-30ce-47e7-af02-b4635634af67",
+  "input": {
+    "artist": "The Marías",
+    "release": "Hush",
+    "title": "Hush"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hush'.",
+  "status": "verified"
+}

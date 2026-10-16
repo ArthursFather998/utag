@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:59.06582+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Watch the World Burn (2023)",
+    "track_number": 1
+  },
+  "entity_id": "8414277b-ffc2-46e0-ba38-3e5e680ac227",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "15a0cdcf-4eb3-4945-9062-ff2e31892207",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Watch the World Burn (2023)",
+    "title": "Watch the World Burn (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Watch the World Burn (2023)'.",
+  "status": "verified"
+}

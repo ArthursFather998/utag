@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:46:19.215816+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "drivers license",
+    "track_number": 1
+  },
+  "entity_id": "cc9988d2-6e20-41eb-bd2c-2167165d5167",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ea61aa0e-fda4-42b0-b4ee-48d1b42939c2",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "drivers license",
+    "title": "drivers license"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'drivers license'.",
+  "status": "verified"
+}

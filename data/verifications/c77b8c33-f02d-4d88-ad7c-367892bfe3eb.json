@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:48.608102+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Slumber Party",
+    "track_number": 1
+  },
+  "entity_id": "8254d84c-0665-4cef-b17d-dbc09eee3656",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c77b8c33-f02d-4d88-ad7c-367892bfe3eb",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Slumber Party",
+    "title": "Slumber Party"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Slumber Party'.",
+  "status": "verified"
+}

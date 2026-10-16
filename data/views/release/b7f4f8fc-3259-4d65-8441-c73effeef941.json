@@ -2125,6 +2125,146 @@
     "title": "Brains a Bus Station (2016)",
     "updated_at": "2026-10-16T04:24:07.080413+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:27.693711+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "84e30a2b-0ac0-472f-90e6-0696349d6622",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b7f4f8fc-3259-4d65-8441-c73effeef941",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Survive",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:43:27.693711+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:28.259532+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "35359949-70b9-4102-b58c-a4e34d8e2707",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b7f4f8fc-3259-4d65-8441-c73effeef941",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Girl Girl Girl",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:43:28.259532+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:28.861974+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ee46b87b-aef6-4b69-92fc-059ffc54ad51",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b7f4f8fc-3259-4d65-8441-c73effeef941",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Going A Bad Party",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:43:28.861974+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:29.448413+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c5b1da9c-23ad-470b-a87c-f63530db4369",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b7f4f8fc-3259-4d65-8441-c73effeef941",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "How It Feels When We Make Eye Contact At That Party",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:43:29.448413+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:30.166699+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "eab7dfa4-25e2-4d2d-b53d-efaacc5ed2ab",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b7f4f8fc-3259-4d65-8441-c73effeef941",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Twin Falls (Built To Spill)",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:43:30.166699+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:43:30.75165+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c3a82d82-3b8a-40f3-9fb6-8bd16783cd32",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b7f4f8fc-3259-4d65-8441-c73effeef941",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Tie",
+      "track_number": 6,
+      "updated_at": "2026-10-16T06:43:30.75165+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:43:31.373832+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Brains a Bus Station (2016)",
+        "track_count": 6,
+        "tracklist": [
+          "Survive",
+          "Girl Girl Girl",
+          "Going A Bad Party",
+          "How It Feels When We Make Eye Contact At That Party",
+          "Twin Falls (Built To Spill)",
+          "Tie"
+        ]
+      },
+      "entity_id": "b7f4f8fc-3259-4d65-8441-c73effeef941",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "d10ba9ef-bb3f-426b-80cd-3085c0f55a47",
+      "input": {
+        "artist": "Clairo",
+        "title": "Brains a Bus Station (2016)",
+        "track_count": 6
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (6 tracks) per https://www.discogs.com/release/19016671-Clairo-Brains-A-Bus-Station, https://www.qobuz.com/se-en/interpreter/clairo/3130841/page/2. 6-track EP, released April 14, 2016. 'Twin Falls' is a Built To Spill cover. 'Brains a Bus Station (2016)' is a year-suffix duplicate.",
+      "status": "verified"
+    }
+  ]
 }

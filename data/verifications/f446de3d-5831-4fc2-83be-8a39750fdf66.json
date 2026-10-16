@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:52.023825+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Stay Away",
+    "track_number": 1
+  },
+  "entity_id": "75dd08c6-4d5d-4741-b4f6-1720059ed22b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f446de3d-5831-4fc2-83be-8a39750fdf66",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Stay Away",
+    "title": "Stay Away"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Stay Away'.",
+  "status": "verified"
+}

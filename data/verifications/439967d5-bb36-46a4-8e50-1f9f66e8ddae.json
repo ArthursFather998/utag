@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:23.018945+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "A Little Less Conversation",
+    "track_number": 1
+  },
+  "entity_id": "15dc9bdf-d24f-41ce-956b-4cb23a2c764a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "439967d5-bb36-46a4-8e50-1f9f66e8ddae",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "A Little Less Conversation",
+    "title": "A Little Less Conversation"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'A Little Less Conversation'.",
+  "status": "verified"
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:42.537944+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Have a Nice Day",
+    "track_count": 3,
+    "tracklist": [
+      "Winters Love",
+      "Drywall",
+      "Doggy"
+    ]
+  },
+  "entity_id": "07b13405-8470-4de8-82df-800724f4535c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "2a41904c-3905-4be0-ae60-ef14feeeb957",
+  "input": {
+    "artist": "Clairo",
+    "title": "Have a Nice Day",
+    "track_count": 3
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (3 tracks) per https://clairo.fandom.com/wiki/Have_a_Nice_Day, https://en.wikipedia.org/wiki/Clairo_discography. EP, released February 19, 2015. 'Have a Nice Day (2015)' is a year-suffix duplicate.",
+  "status": "verified"
+}

@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:01:58.624756+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kissin' Cousins",
+    "track_count": 12,
+    "tracklist": [
+      "Kissin' Cousins (Number 2)",
+      "Smokey Mountain Boy",
+      "There's Gold In The Mountains",
+      "One Boy Two Little Girls",
+      "Catchin' On Fast",
+      "Tender Feeling",
+      "Anyone (Could Fall In Love With You)",
+      "Barefoot Ballad",
+      "Once Is Enough",
+      "Kissin' Cousins",
+      "Echoes Of Love",
+      "(It's A) Long Lonely Highway"
+    ]
+  },
+  "entity_id": "758664a4-596b-4337-ad93-9a3a3eb86c3e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d147ca97-aa99-4dca-8fe6-6d9c1bdf772e",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Kissin' Cousins",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://en.wikipedia.org/wiki/Kissin%27_Cousins_(soundtrack), https://www.discogs.com. 1964 film soundtrack, 12 tracks.",
+  "status": "verified"
+}

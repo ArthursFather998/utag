@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:16.172177+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Loser (2017)",
+    "track_number": 1
+  },
+  "entity_id": "cb207169-38cb-45ee-b92f-5a654f5168fd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0a5506d1-75bf-45b1-89fb-c8302dcc8eb8",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Loser (2017)",
+    "title": "Loser (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Loser (2017)'.",
+  "status": "verified"
+}

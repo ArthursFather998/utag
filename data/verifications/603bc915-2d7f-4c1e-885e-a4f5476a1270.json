@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:38.707851+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sweet (2015)",
+    "track_count": 2,
+    "tracklist": [
+      "Fingertips",
+      "Let My Baby Stay"
+    ]
+  },
+  "entity_id": "6734f5aa-8563-42d1-9800-7e6edcf26b36",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "603bc915-2d7f-4c1e-885e-a4f5476a1270",
+  "input": {
+    "artist": "Clairo",
+    "title": "Sweet (2015)",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://clairo.fandom.com/wiki/Sweet, https://en.wikipedia.org/wiki/Clairo_discography. 2-track EP, released January 20, 2015. 'Sweet (2015)' is a year-suffix duplicate.",
+  "status": "verified"
+}

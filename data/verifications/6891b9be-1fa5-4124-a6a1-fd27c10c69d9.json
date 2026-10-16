@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:15.541046+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hollywood Tonight",
+    "track_number": 1
+  },
+  "entity_id": "4af8adef-9d12-40c9-8819-2fd73b087d2e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6891b9be-1fa5-4124-a6a1-fd27c10c69d9",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Hollywood Tonight",
+    "title": "Hollywood Tonight"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hollywood Tonight'.",
+  "status": "verified"
+}

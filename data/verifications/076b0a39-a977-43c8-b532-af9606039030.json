@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:08:12.356044+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Killing Me",
+    "track_number": 1
+  },
+  "entity_id": "f08a133d-59dc-4be2-b6ee-8773cf234c15",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "076b0a39-a977-43c8-b532-af9606039030",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Killing Me",
+    "title": "Killing Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Killing Me'.",
+  "status": "verified"
+}

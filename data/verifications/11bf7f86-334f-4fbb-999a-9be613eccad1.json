@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:24:55.363753+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lucky",
+    "track_number": 1
+  },
+  "entity_id": "e3a953a4-d9ef-4739-9818-ec32858bdf17",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "11bf7f86-334f-4fbb-999a-9be613eccad1",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Lucky",
+    "title": "Lucky"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lucky'.",
+  "status": "verified"
+}

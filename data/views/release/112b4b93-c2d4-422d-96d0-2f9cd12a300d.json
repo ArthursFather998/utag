@@ -663,6 +663,89 @@
     "title": "This Is What Falling in Love Feels Like (554 Hz)",
     "updated_at": "2026-10-16T04:04:34.039308+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:53.571338+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "25496bc0-117e-4ba5-8d5c-81cef8f8d4ed",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "112b4b93-c2d4-422d-96d0-2f9cd12a300d",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "this is what falling in love feels like",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:08:53.571338+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:54.420802+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c2068396-b5db-4dfd-9ac1-556f5488abf7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "112b4b93-c2d4-422d-96d0-2f9cd12a300d",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "moon and back",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:08:54.420802+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f835a288-a8b1-4ee0-a093-34d87857ee87",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:55.073021+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "29f83417-871b-4647-9710-6f39d1580625",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "112b4b93-c2d4-422d-96d0-2f9cd12a300d",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "golden hour",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:08:55.073021+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:08:55.702982+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "This Is What Falling in Love Feels Like (554 Hz)",
+        "track_count": 3,
+        "tracklist": [
+          "this is what falling in love feels like",
+          "moon and back",
+          "golden hour"
+        ]
+      },
+      "entity_id": "112b4b93-c2d4-422d-96d0-2f9cd12a300d",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "5a8fe19e-e112-4a1d-903f-e488eb7a8557",
+      "input": {
+        "artist": "JVKE",
+        "title": "This Is What Falling in Love Feels Like (554 Hz)",
+        "track_count": 3
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (3 tracks) per https://www.deezer.com/en/album/360122457, https://www.kkbox.com/sg/en/album/8rrPDzSbLZoqNYtHM0. 3-track EP at 554 Hz. Identical tracklist across Deezer, KKBOX, Last.fm, and Qobuz.",
+      "status": "verified"
+    }
+  ]
 }

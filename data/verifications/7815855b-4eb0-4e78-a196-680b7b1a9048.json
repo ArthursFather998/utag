@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:24.340412+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dangerous",
+    "track_count": 14,
+    "tracklist": [
+      "Jam",
+      "Why You Wanna Trip on Me",
+      "In the Closet",
+      "She Drives Me Wild",
+      "Remember the Time",
+      "Can't Let Her Get Away",
+      "Heal the World",
+      "Black or White",
+      "Who Is It",
+      "Give In to Me",
+      "Will You Be There",
+      "Keep the Faith",
+      "Gone Too Soon",
+      "Dangerous"
+    ]
+  },
+  "entity_id": "a060dc27-0622-4215-9b57-85fa2cc5f4f9",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7815855b-4eb0-4e78-a196-680b7b1a9048",
+  "input": {
+    "artist": "Michael Jackson",
+    "title": "Dangerous",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per http://en.wikipedia.org/wiki/Dangerous_(Michael_Jackson_album), https://simple.wikipedia.org/wiki/Dangerous_(Michael_Jackson_album). Eighth solo studio album (1991, Epic). All sources agree on 14-track order.",
+  "status": "verified"
+}

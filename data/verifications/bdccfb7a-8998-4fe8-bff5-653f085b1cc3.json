@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:55.284805+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wish You Were Here",
+    "track_number": 1
+  },
+  "entity_id": "84cf62ec-3b4c-474d-9112-a1ef753fad5e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bdccfb7a-8998-4fe8-bff5-653f085b1cc3",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Wish You Were Here",
+    "title": "Wish You Were Here"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wish You Were Here'.",
+  "status": "verified"
+}

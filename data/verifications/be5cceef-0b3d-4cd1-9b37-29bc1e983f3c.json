@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:06.330676+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Love Again (2019)",
+    "track_number": 1
+  },
+  "entity_id": "92523291-4287-4c1f-b806-6c60bfbcd105",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be5cceef-0b3d-4cd1-9b37-29bc1e983f3c",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Love Again (2019)",
+    "title": "Love Again (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Love Again (2019)'.",
+  "status": "verified"
+}

@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:50.673292+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Goblin",
+    "track_count": 15,
+    "tracklist": [
+      "Goblin",
+      "Yonkers",
+      "Radicals",
+      "She",
+      "Transylvania",
+      "Nightmare",
+      "Tron Cat",
+      "Her",
+      "Sandwitches",
+      "Fish",
+      "Analog",
+      "Bitch Suck Dick",
+      "Window",
+      "AU79",
+      "Golden"
+    ]
+  },
+  "entity_id": "c30432c1-0574-450c-b764-705923fab63b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e1ca6c27-a8dc-46c9-b8a1-84b8d91a6607",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Goblin",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://en.wikipedia.org/wiki/Goblin_(Tyler,_the_Creator_album), https://www.discogs.com/release/2862546-TylerTheCreator-Goblin. 2011 studio album, 15 tracks. Digital/streaming standard edition. Deluxe edition bonus tracks (Burger, Untitled 63, Steak Sauce) not included - release row is the standard edition.",
+  "status": "verified"
+}

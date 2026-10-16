@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:18.909599+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Violet",
+    "track_number": 1
+  },
+  "entity_id": "52a92902-da4d-4d6e-b3da-f13aa330cdbf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6dd8f264-477d-4576-99c2-3e5284166a9e",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Violet",
+    "title": "Violet"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Violet'.",
+  "status": "verified"
+}

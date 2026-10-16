@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:27:59.634905+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Naked in Manhattan (2022)",
+    "track_number": 1
+  },
+  "entity_id": "7c49b81e-84de-426b-afbf-65117a818091",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d22eaa6a-bb58-4556-b814-51545a38872f",
+  "input": {
+    "artist": "Chappell Roan",
+    "release": "Naked in Manhattan (2022)",
+    "title": "Naked in Manhattan (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Naked in Manhattan (2022)'.",
+  "status": "verified"
+}

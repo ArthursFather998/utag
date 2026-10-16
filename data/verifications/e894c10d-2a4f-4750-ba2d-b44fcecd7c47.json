@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:47.990637+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sideways (featuring Coco Jones) (2026)",
+    "track_number": 1
+  },
+  "entity_id": "26b7c443-c5b3-4a58-b89a-6bac9634fa27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e894c10d-2a4f-4750-ba2d-b44fcecd7c47",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Sideways (featuring Coco Jones) (2026)",
+    "title": "Sideways (featuring Coco Jones) (2026)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sideways (featuring Coco Jones) (2026)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:05.27833+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad Habit (Sped Up)",
+    "track_number": 1
+  },
+  "entity_id": "2969d2db-01b8-4249-a349-c99ca51d79bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4362a52a-be13-4c3b-82b1-3d354500c840",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Bad Habit (Sped Up)",
+    "title": "Bad Habit (Sped Up)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad Habit (Sped Up)'.",
+  "status": "verified"
+}

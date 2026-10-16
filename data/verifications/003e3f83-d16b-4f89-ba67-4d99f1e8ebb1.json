@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:41.041041+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Good Luck Charm",
+    "track_number": 1
+  },
+  "entity_id": "795f8cd3-9fd7-4b90-94bb-4053e5d669ff",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "003e3f83-d16b-4f89-ba67-4d99f1e8ebb1",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Good Luck Charm",
+    "title": "Good Luck Charm"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Good Luck Charm'.",
+  "status": "verified"
+}

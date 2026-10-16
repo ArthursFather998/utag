@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:05.786637+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hurt (1976)",
+    "track_number": 1
+  },
+  "entity_id": "fc70df4d-1f96-4e05-845b-c094b686e3a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f14b30a2-4b23-459a-87fc-f874f7ef6160",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Hurt (1976)",
+    "title": "Hurt (1976)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hurt (1976)'.",
+  "status": "verified"
+}

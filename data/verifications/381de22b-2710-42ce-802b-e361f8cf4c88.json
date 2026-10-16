@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:06:37.95835+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Grow",
+    "track_number": 1
+  },
+  "entity_id": "24c125cb-4da8-4457-851d-be977d83cab8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "381de22b-2710-42ce-802b-e361f8cf4c88",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Grow",
+    "title": "Grow"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Grow'.",
+  "status": "verified"
+}

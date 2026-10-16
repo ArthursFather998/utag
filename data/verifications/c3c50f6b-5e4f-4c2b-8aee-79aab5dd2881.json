@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:05.346122+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "End Game (2017)",
+    "track_number": 1
+  },
+  "entity_id": "e76a0b93-11fd-4cb3-b616-6746b79b3e08",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c3c50f6b-5e4f-4c2b-8aee-79aab5dd2881",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "End Game (2017)",
+    "title": "End Game (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'End Game (2017)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:48.250002+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Take Me Back to London (2019)",
+    "track_number": 1
+  },
+  "entity_id": "7674b527-9769-4940-8725-c68d51a1972e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "459d874e-ca2c-4cee-8a06-f60ae8324527",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Take Me Back to London (2019)",
+    "title": "Take Me Back to London (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Take Me Back to London (2019)'.",
+  "status": "verified"
+}

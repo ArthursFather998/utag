@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:38:49.772526+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wear My Ring Around Your Neck (1958)",
+    "track_number": 1
+  },
+  "entity_id": "3205e06f-ff91-4d50-88d3-b6da5d46c5bf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e24dfe94-7805-44e8-b6be-98422b004da5",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Wear My Ring Around Your Neck (1958)",
+    "title": "Wear My Ring Around Your Neck (1958)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wear My Ring Around Your Neck (1958)'.",
+  "status": "verified"
+}

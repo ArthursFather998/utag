@@ -782,6 +782,89 @@
     "title": "The Mad Gear and Missile Kid",
     "updated_at": "2026-10-16T04:15:15.289777+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:10:32.512172+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "66ba01be-80e4-4f8f-8adb-075f00104fe7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "c122852e-81ca-4359-bd46-fe0dc67ad595",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "F.T.W.W.W.",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:10:32.512172+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:10:33.794732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a0e45285-ac8d-4daf-a65f-d0f2a4f9627b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "c122852e-81ca-4359-bd46-fe0dc67ad595",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Mastas of Ravenkroft",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:10:33.794732+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:10:35.250754+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "efc36b01-db35-49b6-9b1a-981b843a3660",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "c122852e-81ca-4359-bd46-fe0dc67ad595",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Black Dragon Fighting Society",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:10:35.250754+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:10:36.349478+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "The Mad Gear and Missile Kid",
+        "track_count": 3,
+        "tracklist": [
+          "F.T.W.W.W.",
+          "Mastas of Ravenkroft",
+          "Black Dragon Fighting Society"
+        ]
+      },
+      "entity_id": "c122852e-81ca-4359-bd46-fe0dc67ad595",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "11cace38-d386-47c1-bb90-fe8aae1b3f52",
+      "input": {
+        "artist": "My Chemical Romance",
+        "title": "The Mad Gear and Missile Kid",
+        "track_count": 3
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (3 tracks) per https://www.discogs.com/release/32462778-My-Chemical-Romance-The-Mad-Gear-And-Missile-Kid, https://www.last.fm/music/My+Chemical+Romance/The+Mad+Gear+and+Missile+Kid+EP. Exclusive 3-track EP by MCR's fictional alter-ego band, released November 22, 2010. Originally bundled with the limited (5000-copy) Danger Days: The True Lives of the Fabulous Killjoys California 2019 Edition box set; released to streaming services August 2022. First and only MCR release featuring Michael Pedicone on drums.",
+      "status": "verified"
+    }
+  ]
 }

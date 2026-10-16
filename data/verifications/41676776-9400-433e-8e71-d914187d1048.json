@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:19.408857+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Celestial (2022)",
+    "track_number": 1
+  },
+  "entity_id": "e3760a91-681a-45d3-9ea0-110294fd2f4e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "41676776-9400-433e-8e71-d914187d1048",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Celestial (2022)",
+    "title": "Celestial (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Celestial (2022)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:44:11.854176+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wanna Be Startin' Somethin'",
+    "track_number": 1
+  },
+  "entity_id": "a31d85c1-6283-4c00-9f3a-ce09cb7ea8b6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d330f3b-d004-4bc9-a3ec-607e9e737730",
+  "input": {
+    "artist": "Michael Jackson",
+    "release": "Wanna Be Startin' Somethin'",
+    "title": "Wanna Be Startin' Somethin'"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wanna Be Startin' Somethin''.",
+  "status": "verified"
+}

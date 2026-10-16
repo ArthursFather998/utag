@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:26:38.358355+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Hold Me Closer (2022)",
+    "track_number": 1
+  },
+  "entity_id": "6a8235e1-c606-4a43-af3f-dbd2ea4bef2c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "163b75cd-1212-455d-bade-4df2b14863a4",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Hold Me Closer (2022)",
+    "title": "Hold Me Closer (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Hold Me Closer (2022)'.",
+  "status": "verified"
+}

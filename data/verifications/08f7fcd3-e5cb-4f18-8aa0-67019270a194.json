@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:25.582128+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Flower Boy",
+    "track_count": 14,
+    "tracklist": [
+      "Foreword",
+      "Where This Flower Blooms",
+      "Sometimes...",
+      "See You Again",
+      "Who Dat Boy",
+      "Pothole",
+      "Garden Shed",
+      "Boredom",
+      "I Ain't Got Time!",
+      "911 / Mr. Lonely",
+      "Droppin' Seeds",
+      "November",
+      "Glitter",
+      "Enjoy Right Now, Today"
+    ]
+  },
+  "entity_id": "19b5cec7-aa2b-4f69-a498-689a799f8050",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "08f7fcd3-e5cb-4f18-8aa0-67019270a194",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "title": "Flower Boy",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Flower_Boy, https://www.discogs.com/release/10558869-TylerTheCreator-Scum-Fuck-Flower-Boy. 2017 studio album, 14 tracks. Also released as 'Scum Fuck Flower Boy' - same album, same tracklist.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:25:35.959295+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Pretty Girls",
+    "track_number": 1
+  },
+  "entity_id": "e060c4a8-7a41-4f92-a8b9-7e0bb8be9674",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7e35c7d0-e5aa-42dd-90ad-c1ba26a7e2e9",
+  "input": {
+    "artist": "Britney Spears",
+    "release": "Pretty Girls",
+    "title": "Pretty Girls"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Pretty Girls'.",
+  "status": "verified"
+}

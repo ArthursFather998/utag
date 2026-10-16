@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:34:47.484953+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The A Team",
+    "track_number": 1
+  },
+  "entity_id": "f6d4b67d-49e0-4baa-bbdc-2f5093525c0d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d6350027-6f12-4ccf-bbc5-cc347c1de603",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "The A Team",
+    "title": "The A Team"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The A Team'.",
+  "status": "verified"
+}

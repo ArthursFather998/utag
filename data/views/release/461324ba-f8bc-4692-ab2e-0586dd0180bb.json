@@ -459,6 +459,70 @@
     "title": "Olivia Rodrigo & Noah Kahan",
     "updated_at": "2026-10-16T04:17:25.378098+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:39.430159+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "bf930574-eeb7-418d-9226-de8bef80e35e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "461324ba-f8bc-4692-ab2e-0586dd0180bb",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Stick Season",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:08:39.430159+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:08:39.890031+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "37661e04-112b-4a31-9653-9a190b6d5404",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "461324ba-f8bc-4692-ab2e-0586dd0180bb",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Lacy",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:08:39.890031+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:08:40.51064+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Olivia Rodrigo & Noah Kahan",
+        "track_count": 2,
+        "tracklist": [
+          "Stick Season",
+          "Lacy"
+        ]
+      },
+      "entity_id": "461324ba-f8bc-4692-ab2e-0586dd0180bb",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "bd92a289-8450-45ec-9edf-2aadd8a18633",
+      "input": {
+        "artist": "Olivia Rodrigo",
+        "title": "Olivia Rodrigo & Noah Kahan",
+        "track_count": 2
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (2 tracks) per https://www.nme.com/news/music/olivia-rodrigo-and-noah-kahan-announce-joint-record-store-day-2024-release-with-covers-of-each-other-3591532, https://www.roanrecords.co.uk/product/olivia-rodrigo-stick-season-noah-kahan-lacy-rsd-24/. RSD 2024 7-inch colored vinyl (limited to 15,000 copies). Recorded live from the BBC Radio 1 Live Lounge. Side A: Olivia Rodrigo covering Noah Kahan's 'Stick Season'. Side B: Noah Kahan covering Olivia's 'Lacy' (from GUTS). Released April 20, 2024 via Geffen/Mercury/Republic.",
+      "status": "verified"
+    }
+  ]
 }

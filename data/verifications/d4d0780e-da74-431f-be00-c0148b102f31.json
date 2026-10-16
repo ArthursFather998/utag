@@ -1,0 +1,40 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:39.671925+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "To Pimp a Butterfly (10th Anniversary)",
+    "track_count": 16,
+    "tracklist": [
+      "Wesley's Theory",
+      "For Free? (Interlude)",
+      "King Kunta",
+      "Institutionalized",
+      "These Walls",
+      "U",
+      "Alright",
+      "For Sale? (Interlude)",
+      "Momma",
+      "Hood Politics",
+      "How Much a Dollar Cost",
+      "Complexion (A Zulu Love)",
+      "The Blacker the Berry",
+      "You Ain't Gotta Lie (Momma Said)",
+      "I",
+      "Mortal Man"
+    ]
+  },
+  "entity_id": "6bfa544a-4c23-436c-a50f-b9b30ded9095",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d4d0780e-da74-431f-be00-c0148b102f31",
+  "input": {
+    "artist": "Kendrick Lamar",
+    "title": "To Pimp a Butterfly (10th Anniversary)",
+    "track_count": 16
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (16 tracks) per https://shop.brooklynvegan.com/products/kendrick-lamar-to-pimp-a-butterfly-2lp-10th-anniversary-edition-alternate-artwork, https://www.bravado.de/en/collections/oster-music-sale/products/kendrick-lamar-to-pimp-a-butterfly-exclusive-graphite-vinyl-10-year-anniversary-edition-alternate-artwork. 10th Anniversary Edition, released May 30, 2025. Vinyl reissue with alternate artwork. Same 16 tracks as the original - no bonus tracks. Confirmed across multiple vinyl retailers.",
+  "status": "verified"
+}

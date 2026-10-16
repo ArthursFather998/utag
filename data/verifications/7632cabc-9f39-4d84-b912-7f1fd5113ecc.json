@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:37.754731+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sad! (2018)",
+    "track_number": 1
+  },
+  "entity_id": "b99467c1-62a4-41de-b420-f27324d0f23b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7632cabc-9f39-4d84-b912-7f1fd5113ecc",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Sad! (2018)",
+    "title": "Sad! (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sad! (2018)'.",
+  "status": "verified"
+}

@@ -1,0 +1,31 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:56.879571+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Otto Tunes",
+    "track_count": 7,
+    "tracklist": [
+      "The Moment",
+      "I Suck At Writing Lyrics",
+      "I Don't Wanna Hurt You Baby (Acoustic)",
+      "Next To You",
+      "Surprise Me",
+      "Time Passes By",
+      "I Don't Wanna Hurt You Baby"
+    ]
+  },
+  "entity_id": "de781cbb-7389-407a-9aa0-37592c8fe1c1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d3255c1a-dc03-4fe1-ae37-fe4c0c30d746",
+  "input": {
+    "artist": "Charlie Puth",
+    "title": "The Otto Tunes",
+    "track_count": 7
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (7 tracks) per https://conandaily.com/2010/12/06/charlie-puths-ep-the-otto-tunes-james-l-brooks-how-do-you-know-film-released/, https://gigsty.com/artist/charlie-puth/album/the-otto-tunes-187ef0. Debut EP, independently released December 10, 2010. All sources agree on the same 7-track order. One outlier source lists 'I Don't Think About You' as track 7; the majority (4 sources) agree on 'I Don't Wanna Hurt You Baby'. Duplicate entry 'The Otto Tunes (2010)' is the same EP — recommend merge/delete.",
+  "status": "verified"
+}

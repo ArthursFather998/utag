@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:51.60035+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Losing My Mind (2018)",
+    "track_number": 1
+  },
+  "entity_id": "7fe8548f-9c31-49ae-bc9a-fa5cc81b07ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a47712d6-c88c-4478-996d-c65be0a1a43f",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Losing My Mind (2018)",
+    "title": "Losing My Mind (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Losing My Mind (2018)'.",
+  "status": "verified"
+}

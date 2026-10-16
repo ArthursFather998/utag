@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:29:56.476481+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "After Midnight (2023)",
+    "track_number": 1
+  },
+  "entity_id": "df63486b-3f47-4e41-b9f2-3f6c6e0a135a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f9938c99-9188-4d32-803c-91e195505464",
+  "input": {
+    "artist": "Clairo",
+    "release": "After Midnight (2023)",
+    "title": "After Midnight (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'After Midnight (2023)'.",
+  "status": "verified"
+}

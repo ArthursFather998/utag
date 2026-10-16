@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:49:20.280901+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "iTunes Festival: London 2011",
+    "track_count": 5,
+    "tracklist": [
+      "The City (Live)",
+      "Homeless (Live)",
+      "The A Team (Live)",
+      "Little Lady (Live)",
+      "U.N.I. (Live)"
+    ]
+  },
+  "entity_id": "59f2083d-27b6-40b9-b968-82cc0625822f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "fbcc62dd-78f6-4da0-9dd8-9822627d2828",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "iTunes Festival: London 2011",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.last.fm/music/Ed+Sheeran/iTunes+Festival:+London+2011+-+EP, https://critiquebrainz.org/release-group/0acc1e03-4c70-486b-ab4b-5eca36f33cf0?l=fr. 2011 live digital EP (Atlantic/Asylum), recorded at iTunes Festival, Roundhouse, London, July 8 2011. NOT 6 tracks: 5 live tracks confirmed by last.fm, MusicBrainz/CritiqueBrainz, and a third index (telegra.ph) - all in the same order. 'Little Lady' here is a live version of the No.5 Collaborations Project track.",
+  "status": "verified"
+}

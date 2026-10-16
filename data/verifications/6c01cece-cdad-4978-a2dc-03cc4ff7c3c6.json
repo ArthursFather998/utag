@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:04:50.180148+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "That's Hilarious",
+    "track_number": 1
+  },
+  "entity_id": "cbae7a0d-2a06-4668-8ded-7a3eb6ed6414",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6c01cece-cdad-4978-a2dc-03cc4ff7c3c6",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "That's Hilarious",
+    "title": "That's Hilarious"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'That's Hilarious'.",
+  "status": "verified"
+}

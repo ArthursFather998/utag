@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:09:23.289443+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Popular Monster",
+    "track_number": 1
+  },
+  "entity_id": "7900948e-3ae3-4569-a2e1-60e93e5a66f4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "edae39b9-918e-4af0-89bc-af597f6fd845",
+  "input": {
+    "artist": "Falling In Reverse",
+    "release": "Popular Monster",
+    "title": "Popular Monster"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Popular Monster'.",
+  "status": "verified"
+}

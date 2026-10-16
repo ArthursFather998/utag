@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:23:36.099644+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Tell Me How (Coca-Cola Commercial)",
+    "track_number": 1
+  },
+  "entity_id": "d5986924-e57d-4ccc-b799-7f95ba62e72b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e1dc772-fc5b-4bb3-b6e3-1bc5175d2956",
+  "input": {
+    "artist": "Tyler, The Creator",
+    "release": "Tell Me How (Coca-Cola Commercial)",
+    "title": "Tell Me How (Coca-Cola Commercial)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Tell Me How (Coca-Cola Commercial)'.",
+  "status": "verified"
+}

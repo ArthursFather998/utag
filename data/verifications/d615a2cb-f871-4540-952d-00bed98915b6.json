@@ -1,0 +1,39 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:47:47.86778+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "No.6 Collaborations Project",
+    "track_count": 15,
+    "tracklist": [
+      "Beautiful People (feat. Khalid)",
+      "South of the Border (feat. Camila Cabello and Cardi B)",
+      "Cross Me (feat. Chance the Rapper and PnB Rock)",
+      "Take Me Back to London (feat. Stormzy)",
+      "Best Part of Me (feat. Yebba)",
+      "I Don't Care (with Justin Bieber)",
+      "Antisocial (with Travis Scott)",
+      "Remember the Name (feat. Eminem and 50 Cent)",
+      "Feels (feat. Young Thug and J Hus)",
+      "Put It All on Me (feat. Ella Mai)",
+      "Nothing on You (feat. Paulo Londra and Dave)",
+      "I Don't Want Your Money (feat. H.E.R.)",
+      "1000 Nights (feat. Meek Mill and A Boogie wit da Hoodie)",
+      "Way to Break My Heart (feat. Skrillex)",
+      "Blow (with Bruno Mars and Chris Stapleton)"
+    ]
+  },
+  "entity_id": "851d3123-80d7-441e-b0e1-b86f47dae25d",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "d615a2cb-f871-4540-952d-00bed98915b6",
+  "input": {
+    "artist": "Ed Sheeran",
+    "title": "No.6 Collaborations Project",
+    "track_count": 15
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (15 tracks) per https://en.wikipedia.org/wiki/No.6_Collaborations_Project, https://www.nme.com/news/music/ed-sheeran-announces-tracklisting-special-guests-new-album-no-6-collaborators-project-2510718. 15 collaborative tracks, 22 guest appearances. Feature credits vary in wording across sources ('feat.' vs 'with'); titles confirmed consistent.",
+  "status": "verified"
+}

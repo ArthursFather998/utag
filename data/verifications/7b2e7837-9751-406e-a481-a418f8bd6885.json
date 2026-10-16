@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:10:57.690214+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "From Elvis in Memphis (1969)",
+    "track_count": 12,
+    "tracklist": [
+      "Wearin' That Loved On Look",
+      "Only the Strong Survive",
+      "I'll Hold You in My Heart (Till I Can Hold You in My Arms)",
+      "Long Black Limousine",
+      "It Keeps Right On A-Hurtin'",
+      "I'm Movin' On",
+      "Power of My Love",
+      "Gentle on My Mind",
+      "After Loving You",
+      "True Love Travels on a Gravel Road",
+      "Any Day Now",
+      "In the Ghetto"
+    ]
+  },
+  "entity_id": "67c6f260-13a3-46a8-bbc7-5027c3a8486f",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "7b2e7837-9751-406e-a481-a418f8bd6885",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "From Elvis in Memphis (1969)",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per http://en.wikipedia.org/wiki/From_Elvis_in_Memphis, https://www.discogs.com/release/8385851-Elvis-Presley-From-Elvis-In-Memphis. Studio album, released June 17, 1969. Original 12-track release (2000 reissue adds 6 bonus tracks).",
+  "status": "verified"
+}

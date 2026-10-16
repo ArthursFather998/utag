@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:58.014538+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Repeat It (2026)",
+    "track_number": 1
+  },
+  "entity_id": "afab8a11-7fe4-4660-90dc-f6632be9aeb8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5ab54772-110e-40b6-ad66-75d036f821a5",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Repeat It (2026)",
+    "title": "Repeat It (2026)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Repeat It (2026)'.",
+  "status": "verified"
+}

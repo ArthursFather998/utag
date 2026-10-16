@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:07:30.619876+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Jigsaw - Single (2022)",
+    "track_number": 1
+  },
+  "entity_id": "53797dff-9d2a-4141-81f2-47d3ec5b6235",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fdbfec67-4d76-4fef-bad2-dc755574072a",
+  "input": {
+    "artist": "Conan Gray",
+    "release": "Jigsaw - Single (2022)",
+    "title": "Jigsaw - Single (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Jigsaw - Single (2022)'.",
+  "status": "verified"
+}

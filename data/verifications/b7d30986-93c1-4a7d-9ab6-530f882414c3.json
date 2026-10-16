@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:03:12.280789+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "WitDemDicks!",
+    "track_number": 1
+  },
+  "entity_id": "922e15a5-8e2a-409d-99f6-0cb2e5d8d22b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b7d30986-93c1-4a7d-9ab6-530f882414c3",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "WitDemDicks!",
+    "title": "WitDemDicks!"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'WitDemDicks!'.",
+  "status": "verified"
+}

@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:00:06.519968+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Elvis for Everyone!",
+    "track_count": 12,
+    "tracklist": [
+      "Your Cheatin' Heart",
+      "Summer Kisses, Winter Tears",
+      "Finders Keepers, Losers Weepers",
+      "In My Way",
+      "Tomorrow Night",
+      "Memphis, Tennessee",
+      "For The Millionth And The Last Time",
+      "Forget Me Never",
+      "Sound Advice",
+      "Santa Lucia",
+      "I Met Her Today",
+      "When It Rains, It Really Pours"
+    ]
+  },
+  "entity_id": "44e247c6-75da-4a1a-b6c1-74b19fdbff02",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "b2ff6351-b0ca-4073-8fa0-29b40198faec",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Elvis for Everyone!",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com. 1965 RCA Camden budget compilation of previously unreleased material. Verified across 5 Discogs release pages.",
+  "status": "verified"
+}

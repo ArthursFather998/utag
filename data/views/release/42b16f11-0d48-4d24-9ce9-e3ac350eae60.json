@@ -1268,6 +1268,127 @@
     "title": "Heal",
     "updated_at": "2026-10-16T04:06:31.457017+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:00.592171+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e0e2f30a-08e8-4e4e-ad68-3912b2572eeb",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "42b16f11-0d48-4d24-9ce9-e3ac350eae60",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "I'm Ready (feat. Demi Lovato)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T06:32:00.592171+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:01.382572+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "64857d10-8d00-45e7-94de-d533b535421d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "42b16f11-0d48-4d24-9ce9-e3ac350eae60",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "La La La (feat. Naughty Boy)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T06:32:01.382572+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:01.932337+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e0312318-6b72-41b6-b55b-b929414400d2",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "42b16f11-0d48-4d24-9ce9-e3ac350eae60",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Pray (Edit)",
+      "track_number": 3,
+      "updated_at": "2026-10-16T06:32:01.932337+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:02.528523+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "247a779e-d92d-4d1a-88d4-80bdaf595b0a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "42b16f11-0d48-4d24-9ce9-e3ac350eae60",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Like I Can",
+      "track_number": 4,
+      "updated_at": "2026-10-16T06:32:02.528523+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:32:03.156375+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "17152cfa-80bc-46f2-8307-98efde000802",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "42b16f11-0d48-4d24-9ce9-e3ac350eae60",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Midnight Train",
+      "track_number": 5,
+      "updated_at": "2026-10-16T06:32:03.156375+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:32:03.704161+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Heal",
+        "track_count": 5,
+        "tracklist": [
+          "I'm Ready (feat. Demi Lovato)",
+          "La La La (feat. Naughty Boy)",
+          "Pray (Edit)",
+          "Like I Can",
+          "Midnight Train"
+        ]
+      },
+      "entity_id": "42b16f11-0d48-4d24-9ce9-e3ac350eae60",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "16e5659e-f0d6-43ac-81a9-a2e052a561e6",
+      "input": {
+        "artist": "Sam Smith",
+        "title": "Heal",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://www.deezer.com/en/album/164591372, https://intmusic.net/166449/sam-smith-heal-2020. Heal EP, 5 tracks. Released 2020. Thematic compilation EP. Verified against Deezer, intmusic.net, and songslover.",
+      "status": "verified"
+    }
+  ]
 }

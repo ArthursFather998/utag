@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:39.589319+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "American Girls",
+    "track_number": 1
+  },
+  "entity_id": "c9a4a9ce-ce01-4e65-abc6-30fa03d85529",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "cb601f2d-e0ab-45a8-a7ba-6a41cd2fc4c9",
+  "input": {
+    "artist": "Harry Styles",
+    "release": "American Girls",
+    "title": "American Girls"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'American Girls'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:37:06.086298+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Peru",
+    "track_number": 1
+  },
+  "entity_id": "7ab5b975-925a-42ec-a168-c8357104c58a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0faf45b2-35cf-492f-9963-e857c2ec7625",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Peru",
+    "title": "Peru"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Peru'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:16:30.912702+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I Want None of This",
+    "track_number": 1
+  },
+  "entity_id": "48d45586-1479-419a-864d-98d720c779f2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0dafe3a8-e572-4d55-8dd8-56d364e2aa47",
+  "input": {
+    "artist": "Radiohead",
+    "release": "I Want None of This",
+    "title": "I Want None of This"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I Want None of This'.",
+  "status": "verified"
+}

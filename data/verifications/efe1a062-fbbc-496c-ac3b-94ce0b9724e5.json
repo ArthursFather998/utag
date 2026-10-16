@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:00:49.46855+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "He Touched Me",
+    "track_count": 12,
+    "tracklist": [
+      "He Touched Me",
+      "I've Got Confidence",
+      "Amazing Grace",
+      "Seeing Is Believing",
+      "He Is My Everything",
+      "Bosom Of Abraham",
+      "An Evening Prayer",
+      "Lead Me, Guide Me",
+      "There Is No God But God",
+      "A Thing Called Love",
+      "I, John",
+      "Reach Out To Jesus"
+    ]
+  },
+  "entity_id": "f139b8ad-8888-4b07-a64f-8f96cf91877c",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "efe1a062-fbbc-496c-ac3b-94ce0b9724e5",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "He Touched Me",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com, https://www.rareviny.com. 1972 gospel album, 12 tracks. Verified across Discogs release pages.",
+  "status": "verified"
+}

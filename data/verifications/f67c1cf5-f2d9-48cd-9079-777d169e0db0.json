@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:19:48.368207+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Skinny Dipping",
+    "track_number": 1
+  },
+  "entity_id": "b3b85dfd-9bf8-4713-b453-7b36f9cd0621",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f67c1cf5-f2d9-48cd-9079-777d169e0db0",
+  "input": {
+    "artist": "Sabrina Carpenter",
+    "release": "Skinny Dipping",
+    "title": "Skinny Dipping"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Skinny Dipping'.",
+  "status": "verified"
+}

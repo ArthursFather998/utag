@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:45.221509+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lejos de Ti",
+    "track_number": 1
+  },
+  "entity_id": "606ebb2c-0d15-4924-8623-c1779bdff16f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7211cebe-1984-4fa6-9adc-8c1b14bb44cf",
+  "input": {
+    "artist": "The Marías",
+    "release": "Lejos de Ti",
+    "title": "Lejos de Ti"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lejos de Ti'.",
+  "status": "verified"
+}

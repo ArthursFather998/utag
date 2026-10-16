@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T07:09:40.146922+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Kid Galahad (1962)",
+    "track_count": 6,
+    "tracklist": [
+      "King Of The Whole Wide World",
+      "This Is Living",
+      "Riding The Rainbow",
+      "Home Is Where The Heart Is",
+      "I Got Lucky",
+      "A Whistling Tune"
+    ]
+  },
+  "entity_id": "5d8446c0-7b5e-4049-ba33-5528c2bc1001",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0fbc4421-b348-440a-a87e-33c70dfbe9b3",
+  "input": {
+    "artist": "Elvis Presley",
+    "title": "Kid Galahad (1962)",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://www.discogs.com, https://en.wikipedia.org/wiki/Kid_Galahad_(soundtrack). 6-track 1962 EP from the film soundtrack. Cross-chunk year-suffix duplicate possible.",
+  "status": "verified"
+}

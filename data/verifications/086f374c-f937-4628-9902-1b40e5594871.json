@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:13.752795+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Helmet",
+    "track_number": 1
+  },
+  "entity_id": "dceb6fdd-08ed-4c84-986d-2804464db2d7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "086f374c-f937-4628-9902-1b40e5594871",
+  "input": {
+    "artist": "Steve Lacy",
+    "release": "Helmet",
+    "title": "Helmet"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Helmet'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:59.004076+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "can't catch me now",
+    "track_number": 1
+  },
+  "entity_id": "fda89cd2-1dfe-4f22-810e-22e06f1c882b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7601b473-642c-4b02-bcb0-09b2f1f46a4f",
+  "input": {
+    "artist": "Olivia Rodrigo",
+    "release": "can't catch me now",
+    "title": "can't catch me now"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'can't catch me now'.",
+  "status": "verified"
+}

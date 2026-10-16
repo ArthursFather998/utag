@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:33:23.192853+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Raise 'Em Up (2010)",
+    "track_number": 1
+  },
+  "entity_id": "3f46288c-a0d4-4261-a9d7-d1bed74b9aa2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "88fe7d57-987f-49f8-80f1-43f3d58d3a5f",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Raise 'Em Up (2010)",
+    "title": "Raise 'Em Up (2010)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Raise 'Em Up (2010)'.",
+  "status": "verified"
+}

@@ -1,0 +1,41 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:31:52.907195+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "BBC Proms at the Royal Albert Hall",
+    "track_count": 17,
+    "tracklist": [
+      "Good Thing (Live)",
+      "I'm Not The Only One (Live)",
+      "I've Told You Now (Live)",
+      "Like I Can (Live)",
+      "Leave Your Lover (Live)",
+      "Both Sides Now (Live)",
+      "Lay Me Down (Live)",
+      "Writing's On The Wall (Live)",
+      "Stay With Me (Live)",
+      "Latch (Live)",
+      "Dancing With A Stranger (Live)",
+      "Too Good At Goodbyes (Live)",
+      "My Funny Valentine (Live)",
+      "How Do You Sleep? (Live)",
+      "The Lighthouse Keeper (Live)",
+      "Unholy (Live)",
+      "Somewhere Over The Rainbow (Live)"
+    ]
+  },
+  "entity_id": "deb4965f-4ea1-41ac-af4d-e02d06cf62cf",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e8e8ed8f-cea9-48dc-92d2-6ee6838a194e",
+  "input": {
+    "artist": "Sam Smith",
+    "title": "BBC Proms at the Royal Albert Hall",
+    "track_count": 17
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (17 tracks) per https://www.broadwayworld.com/article/Sam-Smith-to-Release-BBC-Proms-Performance-on-Vinyl-for-Record-Store-Day-20250410, https://roxydischouse.com/shop/vinyl-lp/sam-smith-bbc-proms-at-the-royal-albert-hall-rsd-2lp/. Live album, 17 tracks. BBC Proms performance with the BBC Concert Orchestra. Released as Record Store Day 2025 exclusive 2LP vinyl (April 12, 2025). Performance was Sam Smith's only UK appearance of 2024, a retrospective of 'In the Lonely Hour' with orchestral arrangements. Verified against broadwayworld, roxydischouse, rsdrcrds, rarevinyl, and multiple other retailers (all showing identical 17-track sequence).",
+  "status": "verified"
+}

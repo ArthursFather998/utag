@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:22:26.172821+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cariño",
+    "track_number": 1
+  },
+  "entity_id": "2b54d8ba-b475-4ad2-aadf-5bf09ac249c9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f30ea454-dc61-4dd5-8795-fc8dee631612",
+  "input": {
+    "artist": "The Marías",
+    "release": "Cariño",
+    "title": "Cariño"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cariño'.",
+  "status": "verified"
+}

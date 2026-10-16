@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:35:06.3626+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "I See Fire (2013)",
+    "track_number": 1
+  },
+  "entity_id": "3b36ce08-97f5-4097-b8eb-50d8a20d01a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "61812fb9-912b-4046-8c8a-2746054ed7d9",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "I See Fire (2013)",
+    "title": "I See Fire (2013)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'I See Fire (2013)'.",
+  "status": "verified"
+}

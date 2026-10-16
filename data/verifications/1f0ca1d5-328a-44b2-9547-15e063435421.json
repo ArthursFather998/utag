@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:45:33.752653+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Helena",
+    "track_number": 1
+  },
+  "entity_id": "480f3e07-9590-4dba-bf16-7f18b19676bc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1f0ca1d5-328a-44b2-9547-15e063435421",
+  "input": {
+    "artist": "My Chemical Romance",
+    "release": "Helena",
+    "title": "Helena"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Helena'.",
+  "status": "verified"
+}

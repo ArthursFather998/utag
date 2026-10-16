@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:05:44.032791+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Changes (2025)",
+    "track_number": 1
+  },
+  "entity_id": "f58755b6-4e61-4dee-9744-579baf3cdbb0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fbc1fa42-27ed-442e-8ab9-0f6d4084112a",
+  "input": {
+    "artist": "Charlie Puth",
+    "release": "Changes (2025)",
+    "title": "Changes (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Changes (2025)'.",
+  "status": "verified"
+}

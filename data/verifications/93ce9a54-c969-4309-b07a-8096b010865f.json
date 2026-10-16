@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:41:44.797087+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Butterflies",
+    "track_number": 1
+  },
+  "entity_id": "aa4f43e6-2cab-46aa-8e40-3d3526104158",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "93ce9a54-c969-4309-b07a-8096b010865f",
+  "input": {
+    "artist": "JVKE",
+    "release": "Butterflies",
+    "title": "Butterflies"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Butterflies'.",
+  "status": "verified"
+}

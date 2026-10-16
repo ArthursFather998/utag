@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:39:26.191065+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wear My Ring Around Your Neck",
+    "track_number": 1
+  },
+  "entity_id": "9dfb1e9d-b37d-49bb-804f-24b1b73c119f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "103ea03e-3615-4a09-8863-edc9d91ea107",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Wear My Ring Around Your Neck",
+    "title": "Wear My Ring Around Your Neck"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wear My Ring Around Your Neck'.",
+  "status": "verified"
+}

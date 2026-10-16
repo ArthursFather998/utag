@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:36:03.105813+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Happier (2018)",
+    "track_number": 1
+  },
+  "entity_id": "5f8a0fdd-9d27-4384-be35-b0d741eedb81",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "01e34073-3739-4d7f-94e3-6ab444caafe6",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "Happier (2018)",
+    "title": "Happier (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Happier (2018)'.",
+  "status": "verified"
+}

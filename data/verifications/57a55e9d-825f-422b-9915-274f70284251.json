@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:28.946723+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Valentina (2023)",
+    "track_number": 1
+  },
+  "entity_id": "d39b054b-1164-4c7e-9261-8753ec1c630f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57a55e9d-825f-422b-9915-274f70284251",
+  "input": {
+    "artist": "Daniel Caesar",
+    "release": "Valentina (2023)",
+    "title": "Valentina (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Valentina (2023)'.",
+  "status": "verified"
+}

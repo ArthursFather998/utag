@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:40:26.492399+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Rubberneckin'",
+    "track_number": 1
+  },
+  "entity_id": "c00fcfaa-735e-45d2-ada3-ae866dc4162b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8fcab3c3-70df-49d3-97bb-a70ac6906f5d",
+  "input": {
+    "artist": "Elvis Presley",
+    "release": "Rubberneckin'",
+    "title": "Rubberneckin'"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Rubberneckin''.",
+  "status": "verified"
+}

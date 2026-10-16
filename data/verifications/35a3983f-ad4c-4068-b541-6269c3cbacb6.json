@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:32:59.815655+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "One",
+    "track_number": 1
+  },
+  "entity_id": "fad9a02d-7091-4488-9c3e-c19bbf94f2be",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "35a3983f-ad4c-4068-b541-6269c3cbacb6",
+  "input": {
+    "artist": "Ed Sheeran",
+    "release": "One",
+    "title": "One"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'One'.",
+  "status": "verified"
+}

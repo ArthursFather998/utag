@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:25.26794+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Roommates",
+    "track_number": 1
+  },
+  "entity_id": "ebc2a854-aafa-4d22-9294-908df06e51b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5001a62e-3ce7-44a6-a691-8b889e47e9e0",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Roommates",
+    "title": "Roommates"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Roommates'.",
+  "status": "verified"
+}

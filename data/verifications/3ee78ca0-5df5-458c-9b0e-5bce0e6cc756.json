@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:45.945224+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Leave Her (2024)",
+    "track_number": 1
+  },
+  "entity_id": "d7920106-3e30-452e-afc1-d9847750d1e3",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ee78ca0-5df5-458c-9b0e-5bce0e6cc756",
+  "input": {
+    "artist": "d4vd",
+    "release": "Leave Her (2024)",
+    "title": "Leave Her (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Leave Her (2024)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:25.877125+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Right Now (2022)",
+    "track_number": 1
+  },
+  "entity_id": "45a8a239-1db5-4835-9e3a-cfab85a04946",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ccca9782-2315-4a64-87cb-bd855de3ac34",
+  "input": {
+    "artist": "d4vd",
+    "release": "Right Now (2022)",
+    "title": "Right Now (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Right Now (2022)'.",
+  "status": "verified"
+}

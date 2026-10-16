@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:45.962642+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "New Friends",
+    "track_number": 1
+  },
+  "entity_id": "53478ee2-0ced-4d78-a049-a2d829369533",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e024660e-6894-4d65-bb5d-eb411cd8ec60",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "New Friends",
+    "title": "New Friends"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'New Friends'.",
+  "status": "verified"
+}

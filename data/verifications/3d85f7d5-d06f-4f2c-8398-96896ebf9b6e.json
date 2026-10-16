@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:42.335256+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Is This Really Love?",
+    "track_number": 1
+  },
+  "entity_id": "7ff090ee-fd87-47ee-b28d-406eeef7d1a5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3d85f7d5-d06f-4f2c-8398-96896ebf9b6e",
+  "input": {
+    "artist": "d4vd",
+    "release": "Is This Really Love?",
+    "title": "Is This Really Love?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Is This Really Love?'.",
+  "status": "verified"
+}

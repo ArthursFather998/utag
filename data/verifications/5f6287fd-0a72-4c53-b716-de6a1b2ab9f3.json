@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:45.896379+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bitches Broken Hearts (2018)",
+    "track_number": 1
+  },
+  "entity_id": "8b327995-b466-4d7e-b878-436189bf721b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5f6287fd-0a72-4c53-b716-de6a1b2ab9f3",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Bitches Broken Hearts (2018)",
+    "title": "Bitches Broken Hearts (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bitches Broken Hearts (2018)'.",
+  "status": "verified"
+}

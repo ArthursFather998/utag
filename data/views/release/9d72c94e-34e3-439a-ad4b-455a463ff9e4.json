@@ -27,54 +27,6 @@
         "canonical_name": "beabadoobee",
         "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
       },
-      "artwork": [
-        {
-          "id": "19f4ac41-52e1-47c6-a294-7826bb2c8223",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/34/72/61347250-fc5e-41f3-76f8-aeceb76350d9/196922537851_Cover.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:48:02.672184+00:00",
-      "edition": "original",
-      "id": "32630fa9-02d5-474d-8b50-c31a84e4216c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "the way things go - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "beabadoobee",
-        "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
-      },
-      "artwork": [
-        {
-          "id": "b679230e-b093-4203-a513-8d037c902656",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/13/6b/15136b77-3a59-2f4e-d0ae-588f8d64802b/196922094361_Cover.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:35:01.228183+00:00",
-      "edition": "original",
-      "id": "51bcee8e-1992-4583-88fa-5cf1c938f83e",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "Beatopia (The Antidote Edition)"
-    },
-    {
-      "artists": {
-        "canonical_name": "beabadoobee",
-        "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:11:49.743159+00:00",
@@ -443,6 +395,30 @@
       "release_type": "single",
       "release_year": 2025,
       "title": "Sway (triple j Like A Version)"
+    },
+    {
+      "artists": {
+        "canonical_name": "beabadoobee",
+        "id": "694d7de4-37a2-4e76-a766-ed7bc8053226"
+      },
+      "artwork": [
+        {
+          "id": "b679230e-b093-4203-a513-8d037c902656",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/13/6b/15136b77-3a59-2f4e-d0ae-588f8d64802b/196922094361_Cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:01.228183+00:00",
+      "edition": "original",
+      "id": "51bcee8e-1992-4583-88fa-5cf1c938f83e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Beatopia (The Antidote Edition)"
     },
     {
       "artists": {

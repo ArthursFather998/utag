@@ -13,78 +13,6 @@
       },
       "artwork": [
         {
-          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
-          "role": "canonical",
-          "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T21:00:39.442156+00:00",
-      "edition": "original",
-      "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
-      "label": "RCA Records",
-      "release_date": "2022-07-15",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "Gemini Rights"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
-      "artwork": [
-        {
-          "id": "9bebe8bb-ee5e-4db2-a121-8af24a00867d",
-          "role": "canonical",
-          "source_url": "https://cdn-images.dzcdn.net/images/cover/aab27852a05351552e9dcacdbb14ec3a/1000x1000-000000-80-0-0.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:46:06.039583+00:00",
-      "edition": "original",
-      "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
-      "label": null,
-      "release_date": "2020-12-04",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2020,
-      "title": "The Lo-Fis"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
-      "artwork": [
-        {
-          "id": "da8b1c1a-a68e-4b19-9bee-243ff2c84ddb",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:42:27.99351+00:00",
-      "edition": "original",
-      "id": "a6fa57f3-10da-486c-b6d1-c400e69fbf50",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2026,
-      "title": "Oh yeah?"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
-      "artwork": [
-        {
           "id": "b2d2d4a6-42db-4eea-aec0-aa30f4b12e05",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/6a542593-27bc-42b9-a426-d56658c72648/front",
@@ -135,6 +63,30 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Bad Habit"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
+      "artwork": [
+        {
+          "id": "9bebe8bb-ee5e-4db2-a121-8af24a00867d",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/aab27852a05351552e9dcacdbb14ec3a/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:46:06.039583+00:00",
+      "edition": "original",
+      "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
+      "label": null,
+      "release_date": "2020-12-04",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "The Lo-Fis"
     },
     {
       "artists": {
@@ -294,6 +246,30 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
+      "artwork": [
+        {
+          "id": "da8b1c1a-a68e-4b19-9bee-243ff2c84ddb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:27.99351+00:00",
+      "edition": "original",
+      "id": "a6fa57f3-10da-486c-b6d1-c400e69fbf50",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Oh yeah?"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:09:58.738031+00:00",
@@ -396,6 +372,30 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
+      "artwork": [
+        {
+          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
+          "role": "canonical",
+          "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T21:00:39.442156+00:00",
+      "edition": "original",
+      "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "label": "RCA Records",
+      "release_date": "2022-07-15",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Gemini Rights"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:10:41.83938+00:00",
@@ -432,6 +432,146 @@
     "title": "Steve Lacy's Demo",
     "updated_at": "2026-10-16T04:10:02.272495+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:07.184927+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "26883a44-0f16-4d56-8036-085706fe3348",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "821b12b9-eaff-4e95-82ff-dd685a98ecd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Looks",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:55:07.184927+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:07.76596+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "86ad9643-e215-473a-9e4d-fbf645a1ccb5",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "821b12b9-eaff-4e95-82ff-dd685a98ecd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Ryd",
+      "track_number": 2,
+      "updated_at": "2026-10-16T05:55:07.76596+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:08.334158+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "90bde751-830b-4cd6-96f1-580201b8bda4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "821b12b9-eaff-4e95-82ff-dd685a98ecd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Dark Red",
+      "track_number": 3,
+      "updated_at": "2026-10-16T05:55:08.334158+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:08.966707+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "3d5706cf-7c94-4036-9a2b-62cef711ff05",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "821b12b9-eaff-4e95-82ff-dd685a98ecd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Thangs",
+      "track_number": 4,
+      "updated_at": "2026-10-16T05:55:08.966707+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:09.44443+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5a9e3ff7-a0c1-41f0-92fc-00f1037e37e2",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "821b12b9-eaff-4e95-82ff-dd685a98ecd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Haterlovin",
+      "track_number": 5,
+      "updated_at": "2026-10-16T05:55:09.44443+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:10.067069+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cc742d60-4630-42b8-a480-6db6d2e108e0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "821b12b9-eaff-4e95-82ff-dd685a98ecd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Some",
+      "track_number": 6,
+      "updated_at": "2026-10-16T05:55:10.067069+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T05:55:42.263952+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Steve Lacy's Demo",
+        "track_count": 6,
+        "tracklist": [
+          "Looks",
+          "Ryd",
+          "Dark Red",
+          "Thangs",
+          "Haterlovin",
+          "Some"
+        ]
+      },
+      "entity_id": "821b12b9-eaff-4e95-82ff-dd685a98ecd1",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "be98a104-3912-4358-8b6c-2193ad8ffbac",
+      "input": {
+        "artist": "Steve Lacy",
+        "title": "Steve Lacy's Demo",
+        "track_count": 6
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (6 tracks) per https://en.wikipedia.org/wiki/Steve_Lacy%27s_Demo, https://www.discogs.com/release/10214501-Steve-Lacy-Steve-Lacys-Demo.",
+      "status": "verified"
+    }
+  ]
 }

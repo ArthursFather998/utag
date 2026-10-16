@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:27.542297+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "DTN",
+    "track_number": 1
+  },
+  "entity_id": "7051dd1f-9fa3-4a88-a249-91ce23d2063f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "da65ca39-0e83-4d98-8e15-39d5497cba35",
+  "input": {
+    "artist": "d4vd",
+    "release": "DTN",
+    "title": "DTN"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'DTN'.",
+  "status": "verified"
+}

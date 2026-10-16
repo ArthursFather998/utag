@@ -11,48 +11,17 @@
         "canonical_name": "Clairo",
         "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
       },
-      "artwork": [
-        {
-          "id": "40aa78ce-4fcf-4c6f-9f2c-1c7277fec01f",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/8c/19/f78c1951-ced5-fea6-251b-50914d96fd62/00196922948305_Cover.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
+      "artwork": [],
       "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:35:47.197303+00:00",
+      "created_at": "2026-10-16T04:33:48.057191+00:00",
       "edition": "original",
-      "id": "86395d6d-018b-478b-bb91-f214c9b13143",
+      "id": "00350092-08f7-46e8-890b-3de2958f9151",
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "Charm"
-    },
-    {
-      "artists": {
-        "canonical_name": "Clairo",
-        "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
-      },
-      "artwork": [
-        {
-          "id": "448558e8-7f66-47a5-940f-bf73861d1995",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/47/06/f24706bc-a90c-f730-bd8a-586ddde8af3e/829299184631.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:40:06.36104+00:00",
-      "edition": "original",
-      "id": "d4d7f426-76d8-476d-adac-dde0865889f6",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2019,
-      "title": "Immunity"
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "In Love with a Memory (2025)"
     },
     {
       "artists": {
@@ -1113,6 +1082,30 @@
         "canonical_name": "Clairo",
         "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
       },
+      "artwork": [
+        {
+          "id": "40aa78ce-4fcf-4c6f-9f2c-1c7277fec01f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/8c/19/f78c1951-ced5-fea6-251b-50914d96fd62/00196922948305_Cover.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:35:47.197303+00:00",
+      "edition": "original",
+      "id": "86395d6d-018b-478b-bb91-f214c9b13143",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Charm"
+    },
+    {
+      "artists": {
+        "canonical_name": "Clairo",
+        "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:30:15.853479+00:00",
@@ -1572,7 +1565,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2018,
-      "title": "Heaven - Single"
+      "title": "Heaven"
     },
     {
       "artists": {
@@ -1777,6 +1770,30 @@
       "release_type": "album",
       "release_year": 2015,
       "title": "Claire Cottrill (2015)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Clairo",
+        "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
+      },
+      "artwork": [
+        {
+          "id": "448558e8-7f66-47a5-940f-bf73861d1995",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/47/06/f24706bc-a90c-f730-bd8a-586ddde8af3e/829299184631.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:06.36104+00:00",
+      "edition": "original",
+      "id": "d4d7f426-76d8-476d-adac-dde0865889f6",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "Immunity"
     },
     {
       "artists": {
@@ -2108,6 +2125,25 @@
     "title": "Bags",
     "updated_at": "2026-10-16T04:25:21.349546+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3da01955-1d3d-4a19-93ff-542c3696f675",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:38:41.183334+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "dd303c1b-bf98-4243-8d1f-4399fa78f59e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "919475f2-cd33-4784-a59a-ab519bd7e759",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Bags",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:38:41.183334+00:00"
+    }
+  ],
   "verifications": []
 }

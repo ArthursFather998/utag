@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:58.4194+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "One More Dance (2025)",
+    "track_number": 1
+  },
+  "entity_id": "f9f81a58-fb71-414d-b8be-77d140c1f3d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8c303cb2-2381-47d5-ac7f-a2307ec9d7ab",
+  "input": {
+    "artist": "d4vd",
+    "release": "One More Dance (2025)",
+    "title": "One More Dance (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'One More Dance (2025)'.",
+  "status": "verified"
+}

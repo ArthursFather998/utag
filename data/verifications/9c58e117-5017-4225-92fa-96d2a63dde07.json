@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:38.731474+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lost Cause",
+    "track_number": 1
+  },
+  "entity_id": "fab162df-99d3-4d01-a262-793dbe5f20e9",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9c58e117-5017-4225-92fa-96d2a63dde07",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Lost Cause",
+    "title": "Lost Cause"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lost Cause'.",
+  "status": "verified"
+}

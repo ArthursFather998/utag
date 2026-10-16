@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:51.378919+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "There Goes My Baby (2024)",
+    "track_number": 1
+  },
+  "entity_id": "c5e991e7-abb6-41ec-b841-0037b11259fe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e4072e35-2c7b-4099-9fd7-f3845691b7b9",
+  "input": {
+    "artist": "d4vd",
+    "release": "There Goes My Baby (2024)",
+    "title": "There Goes My Baby (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'There Goes My Baby (2024)'.",
+  "status": "verified"
+}

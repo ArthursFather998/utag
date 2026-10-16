@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:57.358277+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Come Out and Play (2018)",
+    "track_number": 1
+  },
+  "entity_id": "392304d5-5494-43a3-8713-cc1ba8623e1b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "89063ee0-0d1a-477d-b264-e4b22862691e",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Come Out and Play (2018)",
+    "title": "Come Out and Play (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Come Out and Play (2018)'.",
+  "status": "verified"
+}

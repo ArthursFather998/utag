@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:20.461576+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Take Me to the Sun (2022)",
+    "track_number": 1
+  },
+  "entity_id": "3def2667-06ff-471d-8ecb-809897fbdd3f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "16152cd1-fc37-4278-b35a-adc74a843fc0",
+  "input": {
+    "artist": "d4vd",
+    "release": "Take Me to the Sun (2022)",
+    "title": "Take Me to the Sun (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Take Me to the Sun (2022)'.",
+  "status": "verified"
+}

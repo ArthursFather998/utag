@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:35.275005+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Birds of a Feather (2024)",
+    "track_number": 1
+  },
+  "entity_id": "22662331-632e-4c47-9a15-463c10803545",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ddebe079-0b7c-4740-8b80-5a56d7b42988",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Birds of a Feather (2024)",
+    "title": "Birds of a Feather (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Birds of a Feather (2024)'.",
+  "status": "verified"
+}

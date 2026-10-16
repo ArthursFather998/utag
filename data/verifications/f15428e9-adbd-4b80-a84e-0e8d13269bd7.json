@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:10.499322+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "It's That Time Again (2022)",
+    "track_number": 1
+  },
+  "entity_id": "ef0d025a-f528-4114-b7d6-23611ef65cec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f15428e9-adbd-4b80-a84e-0e8d13269bd7",
+  "input": {
+    "artist": "d4vd",
+    "release": "It's That Time Again (2022)",
+    "title": "It's That Time Again (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'It's That Time Again (2022)'.",
+  "status": "verified"
+}

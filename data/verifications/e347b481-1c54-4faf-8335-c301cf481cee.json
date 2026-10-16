@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:07.128144+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Decide (2022)",
+    "track_number": 1
+  },
+  "entity_id": "4c2a20c6-107b-483d-ade0-de3105e3ddc7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e347b481-1c54-4faf-8335-c301cf481cee",
+  "input": {
+    "artist": "d4vd",
+    "release": "Decide (2022)",
+    "title": "Decide (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Decide (2022)'.",
+  "status": "verified"
+}

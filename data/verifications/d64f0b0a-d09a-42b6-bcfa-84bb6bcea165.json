@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:23.172178+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sweet Boy (2023)",
+    "track_number": 1
+  },
+  "entity_id": "b29e9b0e-df1c-44f8-bb9b-37479c191578",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d64f0b0a-d09a-42b6-bcfa-84bb6bcea165",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Sweet Boy (2023)",
+    "title": "Sweet Boy (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sweet Boy (2023)'.",
+  "status": "verified"
+}

@@ -27,78 +27,6 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
-      "artwork": [
-        {
-          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:12.483628+00:00",
-      "edition": "original",
-      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
-      "label": null,
-      "release_date": "2016-08-20",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2016,
-      "title": "Blond"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "c63dde28-eed6-420d-bc86-511969919d89",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:46:46.474274+00:00",
-      "edition": "original",
-      "id": "6d545c5b-c656-4980-8d9b-00b08b85fbab",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2012,
-      "title": "channel ORANGE"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:39.288403+00:00",
-      "edition": "original",
-      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
-      "label": null,
-      "release_date": "2017-03-10",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2017,
-      "title": "Chanel"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-14T07:03:38.245701+00:00",
@@ -252,6 +180,30 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [
+        {
+          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:12.483628+00:00",
+      "edition": "original",
+      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
+      "label": null,
+      "release_date": "2016-08-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Blond"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:58:57.558521+00:00",
@@ -280,6 +232,30 @@
       "release_type": "single",
       "release_year": 2019,
       "title": "Cayendo"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [
+        {
+          "id": "c63dde28-eed6-420d-bc86-511969919d89",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:46.474274+00:00",
+      "edition": "original",
+      "id": "6d545c5b-c656-4980-8d9b-00b08b85fbab",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "channel ORANGE"
     },
     {
       "artists": {
@@ -422,6 +398,30 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [
+        {
+          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:39.288403+00:00",
+      "edition": "original",
+      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
+      "label": null,
+      "release_date": "2017-03-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Chanel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:59:10.754843+00:00",
@@ -458,8 +458,356 @@
     "title": "Blonde",
     "updated_at": "2026-10-08T22:52:24.63726+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:29.31273+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c57ff590-fd2f-45ed-9263-7ffee1c7a114",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Nikes",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:57:29.31273+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:30.255826+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "5c84f1fc-3d7b-48da-9c9c-03271e0f99b9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Ivy",
+      "track_number": 2,
+      "updated_at": "2026-10-16T05:57:30.255826+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:30.981863+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "40ae26e9-1e30-464f-a3da-f20e5319c577",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Pink + White",
+      "track_number": 3,
+      "updated_at": "2026-10-16T05:57:30.981863+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:31.635648+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "baa445c2-5334-4042-a4bf-8d8b55ffc01c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Be Yourself",
+      "track_number": 4,
+      "updated_at": "2026-10-16T05:57:31.635648+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:32.199248+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "dbaa2eab-dd03-481a-8faa-45f8cdf25474",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Solo",
+      "track_number": 5,
+      "updated_at": "2026-10-16T05:57:32.199248+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:32.860296+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "324ca89a-eaaa-4b87-9021-1ecdf5ce37e6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Skyline To",
+      "track_number": 6,
+      "updated_at": "2026-10-16T05:57:32.860296+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:33.520433+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "eca31031-923d-428a-a2dc-18fff61ea44a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Self Control",
+      "track_number": 7,
+      "updated_at": "2026-10-16T05:57:33.520433+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:34.273602+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "bc7009df-910f-4ebb-9193-9445ca2cc531",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Good Guy",
+      "track_number": 8,
+      "updated_at": "2026-10-16T05:57:34.273602+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:34.848233+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2c2702a6-9a39-4ace-8af7-123724e1e2d8",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Nights",
+      "track_number": 9,
+      "updated_at": "2026-10-16T05:57:34.848233+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:35.391614+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ea902479-d809-445e-9618-0fa37ec3f820",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Solo (Reprise)",
+      "track_number": 10,
+      "updated_at": "2026-10-16T05:57:35.391614+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:36.218609+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1184cde7-1015-4076-9304-2b9072ff0e90",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Pretty Sweet",
+      "track_number": 11,
+      "updated_at": "2026-10-16T05:57:36.218609+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:36.903223+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cba7c429-8eb9-4ca2-a134-14d277716c5f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Facebook Story",
+      "track_number": 12,
+      "updated_at": "2026-10-16T05:57:36.903223+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:37.468162+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "fc3f25be-5596-43eb-9bc0-2b3d1b978820",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Close to You",
+      "track_number": 13,
+      "updated_at": "2026-10-16T05:57:37.468162+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:38.075637+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4180f022-ef43-454c-b74e-bcfa0479fd5e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "White Ferrari",
+      "track_number": 14,
+      "updated_at": "2026-10-16T05:57:38.075637+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:38.653646+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6194b358-4cf8-4759-907d-8269fc1bdd1e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Siegfried",
+      "track_number": 15,
+      "updated_at": "2026-10-16T05:57:38.653646+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:39.514676+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1801182a-fdee-4aca-b9d4-45592e23c24e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Godspeed",
+      "track_number": 16,
+      "updated_at": "2026-10-16T05:57:39.514676+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:40.14314+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "16380583-0f20-4c41-b352-087150974685",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Futura Free",
+      "track_number": 17,
+      "updated_at": "2026-10-16T05:57:40.14314+00:00"
+    }
+  ],
   "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T05:57:40.706508+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Blonde",
+        "track_count": 17,
+        "tracklist": [
+          "Nikes",
+          "Ivy",
+          "Pink + White",
+          "Be Yourself",
+          "Solo",
+          "Skyline To",
+          "Self Control",
+          "Good Guy",
+          "Nights",
+          "Solo (Reprise)",
+          "Pretty Sweet",
+          "Facebook Story",
+          "Close to You",
+          "White Ferrari",
+          "Siegfried",
+          "Godspeed",
+          "Futura Free"
+        ]
+      },
+      "entity_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "1eaecec6-cf40-4929-8fd3-c980dfd46a00",
+      "input": {
+        "artist": "Frank Ocean",
+        "title": "Blonde",
+        "track_count": 17
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (17 tracks) per https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album), https://lyricsweb.com/album/frank-ocean/blonde. Second studio album, released August 20, 2016. 17 tracks confirmed across Wikipedia, LyricsWeb, Consequence, Variance Magazine, REVOLT, and Soundcity — all agree on order. Physical zine edition has an alternate tracklist, but the standard digital/streaming edition is these 17. Spelling: 'Siegfried' and 'Godspeed' per official listings.",
+      "status": "verified"
+    },
     {
       "candidates": null,
       "created_at": "2026-10-08T22:52:26.133685+00:00",

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:55.453491+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "When the Party's Over (2018)",
+    "track_number": 1
+  },
+  "entity_id": "f5e6ad5f-3af0-4406-b6c6-2b1417ade085",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2a546f7a-1502-40bd-8515-81b5a8df99ba",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "When the Party's Over (2018)",
+    "title": "When the Party's Over (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'When the Party's Over (2018)'.",
+  "status": "verified"
+}

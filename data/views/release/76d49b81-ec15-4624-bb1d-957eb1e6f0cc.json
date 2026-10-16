@@ -29,30 +29,6 @@
       },
       "artwork": [
         {
-          "id": "e78269f3-085c-47e0-bcad-385e137f66c0",
-          "role": "canonical",
-          "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T01:06:06.190727+00:00",
-      "edition": "original",
-      "id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
-      "label": "Jive / Zomba",
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2008,
-      "title": "One-X / Live at the Palace 2008"
-    },
-    {
-      "artists": {
-        "canonical_name": "Three Days Grace",
-        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
-      },
-      "artwork": [
-        {
           "id": "d040afa8-99c4-4942-b93c-f8c727bee320",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/cf/b4/5f/mzi.vgwnjneb.jpg/1200x1200bb.jpg",
@@ -69,6 +45,30 @@
       "release_type": "album",
       "release_year": 2006,
       "title": "One-X (Deluxe Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Three Days Grace",
+        "id": "04f7e8e3-954e-4be7-987c-d098e54ae4ed"
+      },
+      "artwork": [
+        {
+          "id": "e78269f3-085c-47e0-bcad-385e137f66c0",
+          "role": "canonical",
+          "source_url": "https://lastfm.freetls.fastly.net/i/u/300x300/154d258e2094f3702040e80e02d4b11e.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:06:06.190727+00:00",
+      "edition": "original",
+      "id": "bbe70c66-8222-4b3a-9cd8-3b35e935d264",
+      "label": "Jive / Zomba",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2008,
+      "title": "One-X / Live at the Palace 2008"
     }
   ],
   "release": {

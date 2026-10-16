@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:09.829904+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bored (2017)",
+    "track_number": 1
+  },
+  "entity_id": "55b1ee85-c7ee-4302-8f6e-b87699c28d27",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "db1c80af-d82d-4296-a2d1-7d5c278bdbec",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Bored (2017)",
+    "title": "Bored (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bored (2017)'.",
+  "status": "verified"
+}

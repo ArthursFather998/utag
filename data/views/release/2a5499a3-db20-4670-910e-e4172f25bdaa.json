@@ -11,126 +11,6 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [
-        {
-          "id": "283b6bf7-8fe9-4b18-a813-031effe5be35",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/c0/20/d3c02098-76d0-e40f-0217-157620f9a6d8/23UM1IM32723.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:47:11.794815+00:00",
-      "edition": "original",
-      "id": "363b360f-f095-47d1-b6bb-7c475450edda",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "fruitcake - EP"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [
-        {
-          "id": "e8a69c70-c0eb-4986-9a4c-cdf303049d16",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/fe/7a/22fe7a31-534a-58d8-eb80-fd08fdb9274d/22UMGIM63573.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:47:07.85872+00:00",
-      "edition": "original",
-      "id": "480ad5df-eb81-4cd9-95f1-dd63d15a75c2",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "emails i can't send"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [
-        {
-          "id": "ae753d65-9cb2-40a8-b3b7-1d7bce13e9c5",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c6/58/aec6589c-f5cf-0d81-2727-bc8775e34049/25UMGIM76990.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:41:14.944044+00:00",
-      "edition": "original",
-      "id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2025,
-      "title": "Manchild - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [
-        {
-          "id": "03477542-b483-45dd-9e28-175b51e426c0",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:43:26.000004+00:00",
-      "edition": "original",
-      "id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "Short n' Sweet"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [
-        {
-          "id": "1590e749-2a8f-4a11-bb6b-6f26141e8162",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/d24f2e47-b8b6-4e3e-8f7a-e97cc140bc0d/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:45:42.807992+00:00",
-      "edition": "original",
-      "id": "91ff9eda-6a7a-4726-8faf-f64055263431",
-      "label": null,
-      "release_date": "2024-12-20",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "NPR Music Tiny Desk Concert"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:05:09.256563+00:00",
@@ -141,7 +21,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "Nonsense - Single"
+      "title": "Nonsense"
     },
     {
       "artists": {
@@ -158,7 +38,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "Because I Liked a Boy - Single"
+      "title": "Because I Liked a Boy"
     },
     {
       "artists": {
@@ -175,7 +55,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2018,
-      "title": "Alien - Single"
+      "title": "Alien"
     },
     {
       "artists": {
@@ -209,7 +89,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2014,
-      "title": "Can't Blame a Girl for Trying - Single"
+      "title": "Can't Blame a Girl for Trying"
     },
     {
       "artists": {
@@ -226,7 +106,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2016,
-      "title": "On Purpose - Single"
+      "title": "On Purpose"
     },
     {
       "artists": {
@@ -243,7 +123,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2024,
-      "title": "Bed Chem - Single"
+      "title": "Bed Chem"
     },
     {
       "artists": {
@@ -260,7 +140,31 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2021,
-      "title": "Skin - Single"
+      "title": "Skin"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "283b6bf7-8fe9-4b18-a813-031effe5be35",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/c0/20/d3c02098-76d0-e40f-0217-157620f9a6d8/23UM1IM32723.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:11.794815+00:00",
+      "edition": "original",
+      "id": "363b360f-f095-47d1-b6bb-7c475450edda",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "fruitcake - EP"
     },
     {
       "artists": {
@@ -294,7 +198,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "A Nonsense Christmas - Single"
+      "title": "A Nonsense Christmas"
     },
     {
       "artists": {
@@ -311,7 +215,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2024,
-      "title": "Please Please Please - Single"
+      "title": "Please Please Please"
     },
     {
       "artists": {
@@ -362,7 +266,31 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2016,
-      "title": "Smoke and Fire - Single"
+      "title": "Smoke and Fire"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "e8a69c70-c0eb-4986-9a4c-cdf303049d16",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/fe/7a/22fe7a31-534a-58d8-eb80-fd08fdb9274d/22UMGIM63573.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:07.85872+00:00",
+      "edition": "original",
+      "id": "480ad5df-eb81-4cd9-95f1-dd63d15a75c2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "emails i can't send"
     },
     {
       "artists": {
@@ -396,7 +324,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2018,
-      "title": "Almost Love - Single"
+      "title": "Almost Love"
     },
     {
       "artists": {
@@ -413,7 +341,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2017,
-      "title": "Why - Single"
+      "title": "Why"
     },
     {
       "artists": {
@@ -430,7 +358,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2019,
-      "title": "Exhale - Single"
+      "title": "Exhale"
     },
     {
       "artists": {
@@ -447,7 +375,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2024,
-      "title": "Taste - Single"
+      "title": "Taste"
     },
     {
       "artists": {
@@ -464,7 +392,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "Fast Times - Single"
+      "title": "Fast Times"
     },
     {
       "artists": {
@@ -481,7 +409,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2026,
-      "title": "When Did You Get Hot? - Single"
+      "title": "When Did You Get Hot?"
     },
     {
       "artists": {
@@ -498,7 +426,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2026,
-      "title": "House Tour - Single"
+      "title": "House Tour"
     },
     {
       "artists": {
@@ -533,6 +461,54 @@
       "release_type": "album",
       "release_year": 2016,
       "title": "EVOLution"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "ae753d65-9cb2-40a8-b3b7-1d7bce13e9c5",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c6/58/aec6589c-f5cf-0d81-2727-bc8775e34049/25UMGIM76990.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:14.944044+00:00",
+      "edition": "original",
+      "id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "Manchild"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "1590e749-2a8f-4a11-bb6b-6f26141e8162",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/d24f2e47-b8b6-4e3e-8f7a-e97cc140bc0d/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:42.807992+00:00",
+      "edition": "original",
+      "id": "91ff9eda-6a7a-4726-8faf-f64055263431",
+      "label": null,
+      "release_date": "2024-12-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "NPR Music Tiny Desk Concert"
     },
     {
       "artists": {
@@ -583,7 +559,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2019,
-      "title": "In My Bed - Single"
+      "title": "In My Bed"
     },
     {
       "artists": {
@@ -617,7 +593,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2015,
-      "title": "We'll Be the Stars - Single"
+      "title": "We'll Be the Stars"
     },
     {
       "artists": {
@@ -634,7 +610,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2019,
-      "title": "Pushing 20 - Single"
+      "title": "Pushing 20"
     },
     {
       "artists": {
@@ -651,7 +627,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2023,
-      "title": "Feather - Single"
+      "title": "Feather"
     },
     {
       "artists": {
@@ -702,7 +678,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "Vicious - Single"
+      "title": "Vicious"
     },
     {
       "artists": {
@@ -719,7 +695,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2025,
-      "title": "Tears - Single"
+      "title": "Tears"
     },
     {
       "artists": {
@@ -753,24 +729,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2024,
-      "title": "Espresso - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-16T04:04:17.283742+00:00",
-      "edition": "original",
-      "id": "ef8e6705-e5ef-4bfc-8dbd-84cad7d47f97",
-      "label": "Hollywood",
-      "release_date": null,
-      "release_status": null,
-      "release_type": "single",
-      "release_year": 2015,
-      "title": "Eyes Wide Open - Single"
+      "title": "Espresso"
     },
     {
       "artists": {
@@ -787,7 +746,31 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2025,
-      "title": "Busy Woman - Single"
+      "title": "Busy Woman"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "03477542-b483-45dd-9e28-175b51e426c0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:26.000004+00:00",
+      "edition": "original",
+      "id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Short n' Sweet"
     },
     {
       "artists": {
@@ -804,7 +787,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2017,
-      "title": "Thumbs - Single"
+      "title": "Thumbs"
     },
     {
       "artists": {
@@ -821,7 +804,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2018,
-      "title": "Sue Me - Single"
+      "title": "Sue Me"
     }
   ],
   "release": {
@@ -844,9 +827,28 @@
     "release_year": 2021,
     "spotify_id": null,
     "status": "high_confidence",
-    "title": "Skinny Dipping - Single",
-    "updated_at": "2026-10-16T04:04:56.018611+00:00"
+    "title": "Skinny Dipping",
+    "updated_at": "2026-10-16T05:11:06.455605+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:28:55.548178+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b3b85dfd-9bf8-4713-b453-7b36f9cd0621",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "2a5499a3-db20-4670-910e-e4172f25bdaa",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Skinny Dipping",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:28:55.548178+00:00"
+    }
+  ],
   "verifications": []
 }

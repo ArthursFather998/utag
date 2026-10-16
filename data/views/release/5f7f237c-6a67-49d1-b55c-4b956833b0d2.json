@@ -11,71 +11,6 @@
         "canonical_name": "Michael Jackson",
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
-      "artwork": [
-        {
-          "id": "cfedcd20-7dcd-452d-aaf4-a839444dcbdb",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/0b/fb/b5/0bfbb592-e2ce-065a-a098-09f55cee22db/dj.iziroksp.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:34:41.20701+00:00",
-      "edition": "original",
-      "id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1987,
-      "title": "Bad 25th Anniversary"
-    },
-    {
-      "artists": {
-        "canonical_name": "Michael Jackson",
-        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
-      },
-      "artwork": [
-        {
-          "id": "e9f25828-8258-4b08-ad2a-81222d37ff62",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/fe/a3/0cfea324-57c1-d530-5248-9bb591bbd7bf/074643574525.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:42:24.107218+00:00",
-      "edition": "original",
-      "id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1979,
-      "title": "Off the Wall"
-    },
-    {
-      "artists": {
-        "canonical_name": "Michael Jackson",
-        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T07:03:25.601026+00:00",
-      "edition": "original",
-      "id": "f615fbc8-3661-4af1-ab87-e899cad7d10c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2004,
-      "title": "Hott2death Sega 21"
-    },
-    {
-      "artists": {
-        "canonical_name": "Michael Jackson",
-        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:10:25.186473+00:00",
@@ -580,6 +515,30 @@
       "release_type": "single",
       "release_year": 1988,
       "title": "Another Part of Me"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [
+        {
+          "id": "cfedcd20-7dcd-452d-aaf4-a839444dcbdb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/0b/fb/b5/0bfbb592-e2ce-065a-a098-09f55cee22db/dj.iziroksp.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:41.20701+00:00",
+      "edition": "original",
+      "id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1987,
+      "title": "Bad 25th Anniversary"
     },
     {
       "artists": {
@@ -1368,6 +1327,30 @@
         "canonical_name": "Michael Jackson",
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
+      "artwork": [
+        {
+          "id": "e9f25828-8258-4b08-ad2a-81222d37ff62",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/fe/a3/0cfea324-57c1-d530-5248-9bb591bbd7bf/074643574525.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:24.107218+00:00",
+      "edition": "original",
+      "id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1979,
+      "title": "Off the Wall"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:11:41.662395+00:00",
@@ -1539,6 +1522,23 @@
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
       "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:03:25.601026+00:00",
+      "edition": "original",
+      "id": "f615fbc8-3661-4af1-ab87-e899cad7d10c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2004,
+      "title": "Hott2death Sega 21"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:13:28.149094+00:00",
       "edition": "original",
@@ -1591,6 +1591,25 @@
     "title": "Mind Is the Magic",
     "updated_at": "2026-10-16T04:14:04.03005+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "9f9fdce3-6d00-4639-a7c8-1904948816fd",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:51:05.963247+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "bab29710-68af-465e-87a0-cf46471a38b8",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "5f7f237c-6a67-49d1-b55c-4b956833b0d2",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Mind Is the Magic",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:51:05.963247+00:00"
+    }
+  ],
   "verifications": []
 }

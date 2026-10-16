@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:21.376186+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Birds of a Feather",
+    "track_number": 1
+  },
+  "entity_id": "e5004c46-fa03-4905-b965-d237521987cd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0e665952-7b40-4a52-83ba-589424ffa473",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Birds of a Feather",
+    "title": "Birds of a Feather"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Birds of a Feather'.",
+  "status": "verified"
+}

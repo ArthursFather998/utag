@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:19.329155+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "What Was I Made For? (2023)",
+    "track_number": 1
+  },
+  "entity_id": "b3ebbe48-9b4b-41fb-bfaa-652739d1ea10",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60b74036-409e-424a-a8a1-103c9726e094",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "What Was I Made For? (2023)",
+    "title": "What Was I Made For? (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'What Was I Made For? (2023)'.",
+  "status": "verified"
+}

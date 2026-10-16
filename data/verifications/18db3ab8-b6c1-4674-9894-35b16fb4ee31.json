@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:47.857136+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "New Friends (2024)",
+    "track_number": 1
+  },
+  "entity_id": "4d5171fa-9d97-4fe4-ab36-2597e05f2ba4",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "18db3ab8-b6c1-4674-9894-35b16fb4ee31",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "New Friends (2024)",
+    "title": "New Friends (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'New Friends (2024)'.",
+  "status": "verified"
+}

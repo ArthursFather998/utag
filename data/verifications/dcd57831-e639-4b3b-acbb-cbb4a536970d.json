@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:43.012964+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad!",
+    "track_number": 1
+  },
+  "entity_id": "83ab2a82-d31d-4c3f-8dfb-9673c2579a98",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "dcd57831-e639-4b3b-acbb-cbb4a536970d",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Bad!",
+    "title": "Bad!"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad!'.",
+  "status": "verified"
+}

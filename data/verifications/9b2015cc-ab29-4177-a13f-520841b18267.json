@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:00.225579+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Don't Forget About Me",
+    "track_number": 1
+  },
+  "entity_id": "46d27f64-ac1b-4077-90c4-98df05b015f6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9b2015cc-ab29-4177-a13f-520841b18267",
+  "input": {
+    "artist": "d4vd",
+    "release": "Don't Forget About Me",
+    "title": "Don't Forget About Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Don't Forget About Me'.",
+  "status": "verified"
+}

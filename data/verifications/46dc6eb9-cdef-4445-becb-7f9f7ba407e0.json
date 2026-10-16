@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:13.464057+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Remember Me (2024)",
+    "track_number": 1
+  },
+  "entity_id": "faa8f939-805a-4668-8f5a-9826200abe8a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "46dc6eb9-cdef-4445-becb-7f9f7ba407e0",
+  "input": {
+    "artist": "d4vd",
+    "release": "Remember Me (2024)",
+    "title": "Remember Me (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Remember Me (2024)'.",
+  "status": "verified"
+}

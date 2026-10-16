@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:17.389512+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Art House",
+    "track_number": 1
+  },
+  "entity_id": "ccb45aee-6a58-4b95-ae01-49c5536cef12",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "be63e769-af83-4d9e-af44-5ad47b1dc28e",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Art House",
+    "title": "Art House"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Art House'.",
+  "status": "verified"
+}

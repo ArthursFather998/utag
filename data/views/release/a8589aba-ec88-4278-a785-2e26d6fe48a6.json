@@ -13,78 +13,6 @@
       },
       "artwork": [
         {
-          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
-          "role": "canonical",
-          "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T21:00:39.442156+00:00",
-      "edition": "original",
-      "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
-      "label": "RCA Records",
-      "release_date": "2022-07-15",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "Gemini Rights"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
-      "artwork": [
-        {
-          "id": "9bebe8bb-ee5e-4db2-a121-8af24a00867d",
-          "role": "canonical",
-          "source_url": "https://cdn-images.dzcdn.net/images/cover/aab27852a05351552e9dcacdbb14ec3a/1000x1000-000000-80-0-0.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:46:06.039583+00:00",
-      "edition": "original",
-      "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
-      "label": null,
-      "release_date": "2020-12-04",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2020,
-      "title": "The Lo-Fis"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
-      "artwork": [
-        {
-          "id": "da8b1c1a-a68e-4b19-9bee-243ff2c84ddb",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:42:27.99351+00:00",
-      "edition": "original",
-      "id": "a6fa57f3-10da-486c-b6d1-c400e69fbf50",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2026,
-      "title": "Oh yeah?"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
-      "artwork": [
-        {
           "id": "b2d2d4a6-42db-4eea-aec0-aa30f4b12e05",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/6a542593-27bc-42b9-a426-d56658c72648/front",
@@ -135,6 +63,30 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Bad Habit"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
+      "artwork": [
+        {
+          "id": "9bebe8bb-ee5e-4db2-a121-8af24a00867d",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/aab27852a05351552e9dcacdbb14ec3a/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:46:06.039583+00:00",
+      "edition": "original",
+      "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
+      "label": null,
+      "release_date": "2020-12-04",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "The Lo-Fis"
     },
     {
       "artists": {
@@ -311,6 +263,30 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
+      "artwork": [
+        {
+          "id": "da8b1c1a-a68e-4b19-9bee-243ff2c84ddb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:27.99351+00:00",
+      "edition": "original",
+      "id": "a6fa57f3-10da-486c-b6d1-c400e69fbf50",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Oh yeah?"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:10:35.209062+00:00",
@@ -396,6 +372,30 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
+      "artwork": [
+        {
+          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
+          "role": "canonical",
+          "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T21:00:39.442156+00:00",
+      "edition": "original",
+      "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "label": "RCA Records",
+      "release_date": "2022-07-15",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Gemini Rights"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:10:41.83938+00:00",
@@ -432,6 +432,260 @@
     "title": "Apollo XXI",
     "updated_at": "2026-10-16T04:09:58.738031+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:54:56.593552+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9ed2e998-24cb-4b2d-b6de-b1865e47d4ad",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Only If",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:54:56.593552+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:54:57.326962+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "21519722-f50e-4f86-83e1-cf80b6ad0709",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Like Me",
+      "track_number": 2,
+      "updated_at": "2026-10-16T05:54:57.326962+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:54:57.999881+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2718aea1-de3d-4ee4-abe7-ec34ca52ee4c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Playground",
+      "track_number": 3,
+      "updated_at": "2026-10-16T05:54:57.999881+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:54:58.604376+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "31d9340d-acf6-4e0a-af3f-ac3c0e1ef04a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Basement Jack",
+      "track_number": 4,
+      "updated_at": "2026-10-16T05:54:58.604376+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:54:59.30959+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d98dbe33-5196-466f-9f1c-c8bf60ee9ff2",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Guide",
+      "track_number": 5,
+      "updated_at": "2026-10-16T05:54:59.30959+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:00.192192+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "37832471-3a04-4255-b528-7692aacbe6e3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Lay Me Down",
+      "track_number": 6,
+      "updated_at": "2026-10-16T05:55:00.192192+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:00.720684+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2604aa1d-3a86-4d5a-9915-eb7588dcf83e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Hate CD",
+      "track_number": 7,
+      "updated_at": "2026-10-16T05:55:00.720684+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:01.597037+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "08aa0161-3faf-4f7c-b382-cc5639ddb812",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "In Lust We Trust",
+      "track_number": 8,
+      "updated_at": "2026-10-16T05:55:01.597037+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:02.337846+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "47610f5a-609b-4b7c-aee3-4048dc01ccda",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Love 2 Fast",
+      "track_number": 9,
+      "updated_at": "2026-10-16T05:55:02.337846+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:02.987528+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9bf5e646-e5b1-4a16-b058-cbba8454d432",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Amandla's Interlude",
+      "track_number": 10,
+      "updated_at": "2026-10-16T05:55:02.987528+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:03.698747+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "52287fdc-0e36-4486-91e2-4b4dc821505e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "N Side",
+      "track_number": 11,
+      "updated_at": "2026-10-16T05:55:03.698747+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:55:04.440525+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ef9b53b9-fd0e-4126-a3e6-c60214612757",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Outro Freestyle/4ever",
+      "track_number": 12,
+      "updated_at": "2026-10-16T05:55:04.440525+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T05:55:40.862049+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Apollo XXI",
+        "track_count": 12,
+        "tracklist": [
+          "Only If",
+          "Like Me",
+          "Playground",
+          "Basement Jack",
+          "Guide",
+          "Lay Me Down",
+          "Hate CD",
+          "In Lust We Trust",
+          "Love 2 Fast",
+          "Amandla's Interlude",
+          "N Side",
+          "Outro Freestyle/4ever"
+        ]
+      },
+      "entity_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "e8f5ca23-ad79-4400-86b3-9ec637e0b1d5",
+      "input": {
+        "artist": "Steve Lacy",
+        "title": "Apollo XXI",
+        "track_count": 12
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com/master/1635498-Steve-Lacy-Apollo-XXI, https://consequence.net/2019/05/steve-lacy-apollo-xxi-album-new-stream/.",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:53.512823+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cheer Me On",
+    "track_number": 1
+  },
+  "entity_id": "d4f5fd87-e4f4-47b2-841c-84fdd8753926",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "57ae3515-ab67-4ae0-b1d4-9c8c81d29767",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Cheer Me On",
+    "title": "Cheer Me On"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cheer Me On'.",
+  "status": "verified"
+}

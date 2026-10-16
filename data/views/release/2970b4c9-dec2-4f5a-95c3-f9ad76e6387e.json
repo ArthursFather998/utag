@@ -27,54 +27,6 @@
         "canonical_name": "My Chemical Romance",
         "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
       },
-      "artwork": [
-        {
-          "id": "85729509-983f-47d0-bc91-c1f8fadc6bde",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:41:20.956352+00:00",
-      "edition": "original",
-      "id": "819376b9-a1c9-41f3-8573-f8ee41c7192e",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2006,
-      "title": "The Black Parade"
-    },
-    {
-      "artists": {
-        "canonical_name": "My Chemical Romance",
-        "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
-      },
-      "artwork": [
-        {
-          "id": "c986c83c-3e82-470b-b200-9dd2ea0ff157",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/227df6c3-08ba-4104-8655-bb33adabcd3c/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:47:23.235296+00:00",
-      "edition": "original",
-      "id": "e340b22d-47aa-46d8-a5e7-a1fb0fcf6936",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2005,
-      "title": "Warped Tour ’05: Bootleg Series (live at Warped Tour 2005)"
-    },
-    {
-      "artists": {
-        "canonical_name": "My Chemical Romance",
-        "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:14:55.510695+00:00",
@@ -432,6 +384,30 @@
         "canonical_name": "My Chemical Romance",
         "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
       },
+      "artwork": [
+        {
+          "id": "85729509-983f-47d0-bc91-c1f8fadc6bde",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/ac/69/7eac6998-7fa4-f1ab-9601-e8b791c736fa/mzi.fbpszunc.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:20.956352+00:00",
+      "edition": "original",
+      "id": "819376b9-a1c9-41f3-8573-f8ee41c7192e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "The Black Parade"
+    },
+    {
+      "artists": {
+        "canonical_name": "My Chemical Romance",
+        "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:15:59.333796+00:00",
@@ -647,6 +623,30 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "The Foundations of Decay"
+    },
+    {
+      "artists": {
+        "canonical_name": "My Chemical Romance",
+        "id": "f7d2b113-9401-4bd0-a393-1f0edaa05f27"
+      },
+      "artwork": [
+        {
+          "id": "c986c83c-3e82-470b-b200-9dd2ea0ff157",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/227df6c3-08ba-4104-8655-bb33adabcd3c/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:47:23.235296+00:00",
+      "edition": "original",
+      "id": "e340b22d-47aa-46d8-a5e7-a1fb0fcf6936",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2005,
+      "title": "Warped Tour ’05: Bootleg Series (live at Warped Tour 2005)"
     },
     {
       "artists": {

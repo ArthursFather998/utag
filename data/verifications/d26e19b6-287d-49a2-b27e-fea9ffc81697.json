@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:03.626413+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wish You Were Gay (2019)",
+    "track_number": 1
+  },
+  "entity_id": "4464d228-d4fc-43ef-b699-ad62a68fb2fd",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d26e19b6-287d-49a2-b27e-fea9ffc81697",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Wish You Were Gay (2019)",
+    "title": "Wish You Were Gay (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wish You Were Gay (2019)'.",
+  "status": "verified"
+}

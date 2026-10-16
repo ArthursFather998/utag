@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:29.26859+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sweet Boy, Pt. 1",
+    "track_count": 5,
+    "tracklist": [
+      "On My Shoulder",
+      "Thailand",
+      "Ladygirl",
+      "4Me 4Me",
+      "Rodrick Rules"
+    ]
+  },
+  "entity_id": "bf9d5d69-9f79-47b0-8c71-9fa194234faa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0a926c96-99d9-40a1-893f-c287c34c8630",
+  "input": {
+    "artist": "Malcolm Todd",
+    "title": "Sweet Boy, Pt. 1",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.qobuz.com/dk-en/album/sweet-boy-pt-1-malcolm-todd/ubwz41mp9z4mb, http://imprintent.org/alternative-rb-artist-malcolm-todd-shares-part-1-of-mixtape-sweet-boy/. Same EP as 'Sweet Boy, Pt. 1 (2024)' — the '(2024)' suffix is a year-disambiguation artifact, not a separate release. Identical tracklist applies.",
+  "status": "verified"
+}

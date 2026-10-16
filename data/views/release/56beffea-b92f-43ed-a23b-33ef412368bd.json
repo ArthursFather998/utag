@@ -11,78 +11,6 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
-      "artwork": [
-        {
-          "id": "d4be92ab-2d74-4ad7-83cd-62e5fd195df3",
-          "role": "canonical",
-          "source_url": "https://tse1.mm.bing.net/th/id/OIP.Zt-mtYE82VNEnJaIhTPCgAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T01:39:36.615039+00:00",
-      "edition": "original",
-      "id": "87340af2-8f7b-4b4d-8813-6c276b66fc04",
-      "label": "Columbia",
-      "release_date": "2019-05-17",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2019,
-      "title": "IGOR"
-    },
-    {
-      "artists": {
-        "canonical_name": "Tyler, The Creator",
-        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
-      },
-      "artwork": [
-        {
-          "id": "97f4eaa5-5a7a-496a-a68c-13a756805e45",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/2b/93/9e2b93b7-43a9-e814-e0ae-c55a1b7e17d6/196873463513.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:36:17.160569+00:00",
-      "edition": "original",
-      "id": "353c0d91-65a0-457e-a59e-193981314238",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2025,
-      "title": "DON'T TAP THE GLASS"
-    },
-    {
-      "artists": {
-        "canonical_name": "Tyler, The Creator",
-        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
-      },
-      "artwork": [
-        {
-          "id": "cb1bc885-66bb-4616-a11a-cd5f61f24aae",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/8fec8853-7f22-4d55-8705-97dae226f37c/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:40:02.173819+00:00",
-      "edition": "original",
-      "id": "6b8d6c5b-94ac-42e4-a6dc-9ff4a55d15b9",
-      "label": null,
-      "release_date": "2019-08-13",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2019,
-      "title": "Apple Music Presents: Tyler, The Creator"
-    },
-    {
-      "artists": {
-        "canonical_name": "Tyler, The Creator",
-        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:13:39.1277+00:00",
@@ -236,6 +164,30 @@
         "canonical_name": "Tyler, The Creator",
         "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
       },
+      "artwork": [
+        {
+          "id": "97f4eaa5-5a7a-496a-a68c-13a756805e45",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/2b/93/9e2b93b7-43a9-e814-e0ae-c55a1b7e17d6/196873463513.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:36:17.160569+00:00",
+      "edition": "original",
+      "id": "353c0d91-65a0-457e-a59e-193981314238",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "DON'T TAP THE GLASS"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:13:06.761846+00:00",
@@ -264,6 +216,30 @@
       "release_type": "album",
       "release_year": 2013,
       "title": "Live at Splash!"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
+      "artwork": [
+        {
+          "id": "cb1bc885-66bb-4616-a11a-cd5f61f24aae",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/8fec8853-7f22-4d55-8705-97dae226f37c/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:02.173819+00:00",
+      "edition": "original",
+      "id": "6b8d6c5b-94ac-42e4-a6dc-9ff4a55d15b9",
+      "label": null,
+      "release_date": "2019-08-13",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "Apple Music Presents: Tyler, The Creator"
     },
     {
       "artists": {
@@ -315,6 +291,30 @@
       "release_type": "single",
       "release_year": 2015,
       "title": "Fucking Young / Perfect"
+    },
+    {
+      "artists": {
+        "canonical_name": "Tyler, The Creator",
+        "id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267"
+      },
+      "artwork": [
+        {
+          "id": "d4be92ab-2d74-4ad7-83cd-62e5fd195df3",
+          "role": "canonical",
+          "source_url": "https://tse1.mm.bing.net/th/id/OIP.Zt-mtYE82VNEnJaIhTPCgAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:39:36.615039+00:00",
+      "edition": "original",
+      "id": "87340af2-8f7b-4b4d-8813-6c276b66fc04",
+      "label": "Columbia",
+      "release_date": "2019-05-17",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "IGOR"
     },
     {
       "artists": {
@@ -806,6 +806,25 @@
     "title": "See You Again",
     "updated_at": "2026-10-16T04:13:50.133098+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "d9e5750f-77a2-415e-8bf4-a17fa1adc267",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:31:58.833947+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "45a8b0bb-32a7-46d0-9af4-c18f08518a91",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "56beffea-b92f-43ed-a23b-33ef412368bd",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "See You Again",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:31:58.833947+00:00"
+    }
+  ],
   "verifications": []
 }

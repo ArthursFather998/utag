@@ -11,54 +11,6 @@
         "canonical_name": "Daniel Caesar",
         "id": "d25772f8-61ce-414a-86ce-2068f839528f"
       },
-      "artwork": [
-        {
-          "id": "9710c427-96bb-4d67-a84a-e8b33905dcb2",
-          "role": "canonical",
-          "source_url": "https://tse1.mm.bing.net/th/id/OIP.zmzIjt_dxMHvd0_W_2yy4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T01:01:42.49727+00:00",
-      "edition": "deluxe",
-      "id": "d0eeb8cd-7d6a-4761-948c-fe43ad54c500",
-      "label": "Republic Records",
-      "release_date": "2023-04-10",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "NEVER ENOUGH (Bonus Version)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Daniel Caesar",
-        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
-      },
-      "artwork": [
-        {
-          "id": "06d2f857-318b-4bb8-8f82-08a3be12c52e",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/4f/ec/244fec58-ea20-e0b0-eea6-e06c6aff948b/23UMGIM14483.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:41:40.944591+00:00",
-      "edition": "original",
-      "id": "a64093ee-07fd-4a89-b638-b4b00c838536",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "NEVER ENOUGH"
-    },
-    {
-      "artists": {
-        "canonical_name": "Daniel Caesar",
-        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:10:31.506238+00:00",
@@ -790,6 +742,30 @@
         "canonical_name": "Daniel Caesar",
         "id": "d25772f8-61ce-414a-86ce-2068f839528f"
       },
+      "artwork": [
+        {
+          "id": "06d2f857-318b-4bb8-8f82-08a3be12c52e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/4f/ec/244fec58-ea20-e0b0-eea6-e06c6aff948b/23UMGIM14483.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:40.944591+00:00",
+      "edition": "original",
+      "id": "a64093ee-07fd-4a89-b638-b4b00c838536",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "NEVER ENOUGH"
+    },
+    {
+      "artists": {
+        "canonical_name": "Daniel Caesar",
+        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
+      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:08:30.405034+00:00",
@@ -988,6 +964,30 @@
       "release_type": "single",
       "release_year": 2023,
       "title": "Valentina"
+    },
+    {
+      "artists": {
+        "canonical_name": "Daniel Caesar",
+        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
+      },
+      "artwork": [
+        {
+          "id": "9710c427-96bb-4d67-a84a-e8b33905dcb2",
+          "role": "canonical",
+          "source_url": "https://tse1.mm.bing.net/th/id/OIP.zmzIjt_dxMHvd0_W_2yy4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:01:42.49727+00:00",
+      "edition": "deluxe",
+      "id": "d0eeb8cd-7d6a-4761-948c-fe43ad54c500",
+      "label": "Republic Records",
+      "release_date": "2023-04-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "NEVER ENOUGH (Bonus Version)"
     },
     {
       "artists": {
@@ -1207,6 +1207,25 @@
     "title": "We Find Love (2017)",
     "updated_at": "2026-10-16T04:08:49.694242+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "d25772f8-61ce-414a-86ce-2068f839528f",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:39:27.977704+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d814f992-9309-4937-81be-be8e029b0458",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "318ac082-d204-421c-87b0-6b3d019d35b6",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "We Find Love (2017)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:39:27.977704+00:00"
+    }
+  ],
   "verifications": []
 }

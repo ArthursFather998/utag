@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:34.02348+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Feel It (2024)",
+    "track_number": 1
+  },
+  "entity_id": "655bebaa-73ec-4a31-8338-eb3e3c40f7ae",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9ffb4c6b-9083-47eb-bb95-904500fb16e1",
+  "input": {
+    "artist": "d4vd",
+    "release": "Feel It (2024)",
+    "title": "Feel It (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Feel It (2024)'.",
+  "status": "verified"
+}

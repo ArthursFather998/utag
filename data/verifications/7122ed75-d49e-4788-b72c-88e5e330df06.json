@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:29.287881+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "All the Good Girls Go to Hell",
+    "track_number": 1
+  },
+  "entity_id": "824e6ef4-1bcd-4bf1-8809-a79b7b302743",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7122ed75-d49e-4788-b72c-88e5e330df06",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "All the Good Girls Go to Hell",
+    "title": "All the Good Girls Go to Hell"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'All the Good Girls Go to Hell'.",
+  "status": "verified"
+}

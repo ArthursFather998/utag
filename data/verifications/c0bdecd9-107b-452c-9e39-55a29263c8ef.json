@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:29.190826+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "DTN (2022)",
+    "track_number": 1
+  },
+  "entity_id": "235445f7-a183-410d-8e18-24bbb75c645d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c0bdecd9-107b-452c-9e39-55a29263c8ef",
+  "input": {
+    "artist": "d4vd",
+    "release": "DTN (2022)",
+    "title": "DTN (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'DTN (2022)'.",
+  "status": "verified"
+}

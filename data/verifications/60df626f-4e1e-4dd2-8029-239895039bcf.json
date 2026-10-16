@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:12.524625+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Decide",
+    "track_number": 1
+  },
+  "entity_id": "7803676b-5b8e-4fdd-902f-cfd58c33406c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60df626f-4e1e-4dd2-8029-239895039bcf",
+  "input": {
+    "artist": "d4vd",
+    "release": "Decide",
+    "title": "Decide"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Decide'.",
+  "status": "verified"
+}

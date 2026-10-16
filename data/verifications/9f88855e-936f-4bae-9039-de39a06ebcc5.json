@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:24.261172+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wasting Your Time (2022)",
+    "track_number": 1
+  },
+  "entity_id": "bc5ea8e9-96e1-4cf2-9355-dafa4c4366b0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9f88855e-936f-4bae-9039-de39a06ebcc5",
+  "input": {
+    "artist": "d4vd",
+    "release": "Wasting Your Time (2022)",
+    "title": "Wasting Your Time (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wasting Your Time (2022)'.",
+  "status": "verified"
+}

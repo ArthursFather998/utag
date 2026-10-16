@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:51.581765+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sleep Well",
+    "track_number": 1
+  },
+  "entity_id": "afa3c209-b031-42be-91b8-7991cd8b7a80",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "aed95e44-ce3f-4069-8e1d-a09376af0efb",
+  "input": {
+    "artist": "d4vd",
+    "release": "Sleep Well",
+    "title": "Sleep Well"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sleep Well'.",
+  "status": "verified"
+}

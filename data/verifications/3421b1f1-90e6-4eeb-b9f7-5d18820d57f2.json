@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:30.869096+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Owe Me (2024)",
+    "track_number": 1
+  },
+  "entity_id": "234358ea-a1ae-420e-88d3-eccf7cde43c0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3421b1f1-90e6-4eeb-b9f7-5d18820d57f2",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "You Owe Me (2024)",
+    "title": "You Owe Me (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You Owe Me (2024)'.",
+  "status": "verified"
+}

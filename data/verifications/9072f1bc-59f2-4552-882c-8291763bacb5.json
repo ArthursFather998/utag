@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:22.367057+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wasting Your Time",
+    "track_number": 1
+  },
+  "entity_id": "3d3d4e87-cb72-468d-a02a-b16fee147502",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "9072f1bc-59f2-4552-882c-8291763bacb5",
+  "input": {
+    "artist": "d4vd",
+    "release": "Wasting Your Time",
+    "title": "Wasting Your Time"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wasting Your Time'.",
+  "status": "verified"
+}

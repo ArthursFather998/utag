@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:27.09722+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Roommates (2023)",
+    "track_number": 1
+  },
+  "entity_id": "67a3026d-2cb3-4d5f-b094-45db229a572e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f6fc029b-9117-4817-a5e8-48d0980ea4b3",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Roommates (2023)",
+    "title": "Roommates (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Roommates (2023)'.",
+  "status": "verified"
+}

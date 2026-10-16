@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:41.257777+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wildflower (2025)",
+    "track_number": 1
+  },
+  "entity_id": "6b8fd31a-64d3-4c9a-a5e3-bb8735531a65",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d07600c7-c452-4d1f-b23c-f17bccc7a86b",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Wildflower (2025)",
+    "title": "Wildflower (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wildflower (2025)'.",
+  "status": "verified"
+}

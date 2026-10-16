@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:51.75677+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Earrings (2024)",
+    "track_number": 1
+  },
+  "entity_id": "9cc1baa9-a03f-49c7-898c-cb245d280775",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0d24667e-e52f-433a-b74e-02523516cc67",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Earrings (2024)",
+    "title": "Earrings (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Earrings (2024)'.",
+  "status": "verified"
+}

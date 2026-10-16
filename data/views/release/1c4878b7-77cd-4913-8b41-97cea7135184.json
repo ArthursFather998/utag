@@ -11,95 +11,6 @@
         "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
-      "artwork": [
-        {
-          "id": "d677f7c9-2e84-4395-8e95-3f5394e84f29",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/59/f1/a259f14d-687a-b34a-c1c9-3cd6a37368aa/artwork.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:46:38.772243+00:00",
-      "edition": "original",
-      "id": "af22df3f-8d5a-4fb7-bf7c-c8fffeb886de",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2019,
-      "title": "...Baby One More Time - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [
-        {
-          "id": "8ca1dcd9-e1f3-46c1-a75e-e050ff844616",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:48.979572+00:00",
-      "edition": "original",
-      "id": "bf0654f2-142f-4389-9e39-50538e1c0e88",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "Submarine"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [
-        {
-          "id": "e7120a6d-201e-4300-a185-7b72d1e35035",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:44.148687+00:00",
-      "edition": "original",
-      "id": "fc3b3128-be81-40bc-b1a4-980724fff40c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2021,
-      "title": "No One Noticed (Extended) - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:59.11777+00:00",
-      "edition": "original",
-      "id": "91eba2c6-2d2a-4c22-a757-a4f4774f4aa8",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "ep",
-      "release_year": 2018,
-      "title": "Superclean Vol. II"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:11:51.523104+00:00",
@@ -391,6 +302,23 @@
       },
       "artwork": [],
       "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:59.11777+00:00",
+      "edition": "original",
+      "id": "91eba2c6-2d2a-4c22-a757-a4f4774f4aa8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "ep",
+      "release_year": 2018,
+      "title": "Superclean Vol. II"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
       "created_at": "2026-10-16T04:12:11.312368+00:00",
       "edition": "original",
       "id": "9a0035db-12e4-4d52-a70b-44bbdf647dcf",
@@ -417,6 +345,30 @@
       "release_type": "single",
       "release_year": 2024,
       "title": "If Only + No One Noticed"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "d677f7c9-2e84-4395-8e95-3f5394e84f29",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/59/f1/a259f14d-687a-b34a-c1c9-3cd6a37368aa/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:38.772243+00:00",
+      "edition": "original",
+      "id": "af22df3f-8d5a-4fb7-bf7c-c8fffeb886de",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2019,
+      "title": "...Baby One More Time"
     },
     {
       "artists": {
@@ -451,6 +403,30 @@
       "release_type": "single",
       "release_year": 2024,
       "title": "No One Noticed"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "8ca1dcd9-e1f3-46c1-a75e-e050ff844616",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:48.979572+00:00",
+      "edition": "original",
+      "id": "bf0654f2-142f-4389-9e39-50538e1c0e88",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Submarine"
     },
     {
       "artists": {
@@ -536,6 +512,30 @@
       "release_type": "single",
       "release_year": 2021,
       "title": "Little by Little"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "e7120a6d-201e-4300-a185-7b72d1e35035",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:44.148687+00:00",
+      "edition": "original",
+      "id": "fc3b3128-be81-40bc-b1a4-980724fff40c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "No One Noticed (Extended)"
     }
   ],
   "release": {
@@ -561,6 +561,279 @@
     "title": "Cinema",
     "updated_at": "2026-10-16T04:11:07.972041+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:40.201132+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a525fdca-66f8-42d0-bda8-e06b74523240",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Just a Feeling",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:59:40.201132+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:40.950231+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c52fe53f-e068-4efa-802d-393b625fcacc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Calling U Back",
+      "track_number": 2,
+      "updated_at": "2026-10-16T05:59:40.950231+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:41.516365+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c19c6f21-a74b-49b3-a8de-7bcdeccfd43c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Hush",
+      "track_number": 3,
+      "updated_at": "2026-10-16T05:59:41.516365+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:42.065203+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "28511d30-02e8-44c6-a29e-34f3457bdd20",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "All I Really Want Is You",
+      "track_number": 4,
+      "updated_at": "2026-10-16T05:59:42.065203+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:42.672302+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9a11033a-8264-4715-8155-234cfc1d5a94",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Hable con Ella",
+      "track_number": 5,
+      "updated_at": "2026-10-16T05:59:42.672302+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:43.185983+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "19e4128f-e1b6-4c85-bcbc-1418169b0108",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Little by Little",
+      "track_number": 6,
+      "updated_at": "2026-10-16T05:59:43.185983+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:43.977438+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ff1e3644-48e6-4b60-afab-8d3ce4437b97",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Heavy",
+      "track_number": 7,
+      "updated_at": "2026-10-16T05:59:43.977438+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:44.698287+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6d9e34c6-4cc8-4e82-83d0-e0e01a99ebce",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Un Millón",
+      "track_number": 8,
+      "updated_at": "2026-10-16T05:59:44.698287+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:45.409872+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "eba8c53f-382b-4639-bd92-a37edb186475",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Spin Me Around",
+      "track_number": 9,
+      "updated_at": "2026-10-16T05:59:45.409872+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:45.971803+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "86bfb8e9-8aa6-4ad7-9d86-2dfe19daa281",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "The Mice Inside This Room",
+      "track_number": 10,
+      "updated_at": "2026-10-16T05:59:45.971803+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:46.560619+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "36c0e772-b436-4672-965b-1a37061cda52",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "To Say Hello",
+      "track_number": 11,
+      "updated_at": "2026-10-16T05:59:46.560619+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:47.119122+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d7a78027-0c77-463b-96f6-f52345c711b0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Fog as a Bullet",
+      "track_number": 12,
+      "updated_at": "2026-10-16T05:59:47.119122+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:47.891172+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d04366e5-831d-472b-a876-0f5ee16d976e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Talk to Her",
+      "track_number": 13,
+      "updated_at": "2026-10-16T05:59:47.891172+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T05:59:48.44403+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Cinema",
+        "track_count": 13,
+        "tracklist": [
+          "Just a Feeling",
+          "Calling U Back",
+          "Hush",
+          "All I Really Want Is You",
+          "Hable con Ella",
+          "Little by Little",
+          "Heavy",
+          "Un Millón",
+          "Spin Me Around",
+          "The Mice Inside This Room",
+          "To Say Hello",
+          "Fog as a Bullet",
+          "Talk to Her"
+        ]
+      },
+      "entity_id": "1c4878b7-77cd-4913-8b41-97cea7135184",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "48e71258-ea9c-4214-9dae-0f3ed5d45ee0",
+      "input": {
+        "artist": "The Marías",
+        "title": "Cinema",
+        "track_count": 13
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (13 tracks) per https://www.discogs.com/master/2188789-The-Mar%C3%ADas-Cinema, https://marias.fandom.com/wiki/CINEMA. Debut studio album, released June 25, 2021 via Nice Life/Atlantic. 13 tracks confirmed across Discogs, Fandom Wiki, Josey Records, AlbumBlitz, and multiple vinyl retailers. Track 2 appears as 'Calling U Back' in 5+ sources vs 'Call U Back' in Discogs/vinyl listings; using majority form. Track 10 is 'The Mice Inside This Room' per 7 sources vs 'the Room' in 3.",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:05.347122+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bleed Out (2022)",
+    "track_number": 1
+  },
+  "entity_id": "97d64eda-047e-45d1-b53f-68d95effe5d0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7be65ac0-6d3a-422b-831c-edd35fdc5dfb",
+  "input": {
+    "artist": "d4vd",
+    "release": "Bleed Out (2022)",
+    "title": "Bleed Out (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bleed Out (2022)'.",
+  "status": "verified"
+}

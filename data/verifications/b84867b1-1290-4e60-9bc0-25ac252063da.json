@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:27.47619+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Wildflower",
+    "track_number": 1
+  },
+  "entity_id": "24cc84d2-4256-4961-87e6-d2c8de07a119",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b84867b1-1290-4e60-9bc0-25ac252063da",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Wildflower",
+    "title": "Wildflower"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Wildflower'.",
+  "status": "verified"
+}

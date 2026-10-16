@@ -182,6 +182,23 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:03:38.245701+00:00",
+      "edition": "original",
+      "id": "07a8b2ae-7885-4173-aec3-04ad3a1b9ccf",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Insecure Music (Complete Season 01)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [
         {
           "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
@@ -200,6 +217,23 @@
       "release_type": "album",
       "release_year": 2016,
       "title": "Blonde"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T03:58:51.289926+00:00",
+      "edition": "original",
+      "id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "label": "Def Jam",
+      "release_date": "2016-08-19",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Endless"
     },
     {
       "artists": {
@@ -231,40 +265,6 @@
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
       "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T07:03:38.245701+00:00",
-      "edition": "original",
-      "id": "07a8b2ae-7885-4173-aec3-04ad3a1b9ccf",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2016,
-      "title": "Insecure Music (Complete Season 01)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T03:58:51.289926+00:00",
-      "edition": "original",
-      "id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
-      "label": "Def Jam",
-      "release_date": "2016-08-19",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2016,
-      "title": "Endless"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:59:17.16868+00:00",
       "edition": "original",
@@ -275,30 +275,6 @@
       "release_type": "single",
       "release_year": 2016,
       "title": "Nikes"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:39.288403+00:00",
-      "edition": "original",
-      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
-      "label": null,
-      "release_date": "2017-03-10",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2017,
-      "title": "Chanel"
     },
     {
       "artists": {
@@ -367,6 +343,30 @@
       "release_type": "single",
       "release_year": 2017,
       "title": "Biking"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [
+        {
+          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:39.288403+00:00",
+      "edition": "original",
+      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
+      "label": null,
+      "release_date": "2017-03-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Chanel"
     },
     {
       "artists": {

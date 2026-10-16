@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:36.639154+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lo Vas a Olvidar (with Rosalía)",
+    "track_number": 1
+  },
+  "entity_id": "552102ff-0ee2-4c69-9ed0-c219ae154ead",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "72717446-b5ff-47c9-bdd8-0b21b10cced7",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Lo Vas a Olvidar (with Rosalía)",
+    "title": "Lo Vas a Olvidar (with Rosalía)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lo Vas a Olvidar (with Rosalía)'.",
+  "status": "verified"
+}

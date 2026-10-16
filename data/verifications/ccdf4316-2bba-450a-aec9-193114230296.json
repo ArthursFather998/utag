@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:46.901575+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Worthless",
+    "track_number": 1
+  },
+  "entity_id": "409a586a-89c5-41d3-963a-8650aafea63c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "ccdf4316-2bba-450a-aec9-193114230296",
+  "input": {
+    "artist": "d4vd",
+    "release": "Worthless",
+    "title": "Worthless"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Worthless'.",
+  "status": "verified"
+}

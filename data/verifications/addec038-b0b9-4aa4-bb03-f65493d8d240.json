@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:39.003569+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Here with Me (2022)",
+    "track_number": 1
+  },
+  "entity_id": "c9621b6e-e9cf-45b1-bb30-957edd936907",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "addec038-b0b9-4aa4-bb03-f65493d8d240",
+  "input": {
+    "artist": "d4vd",
+    "release": "Here with Me (2022)",
+    "title": "Here with Me (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Here with Me (2022)'.",
+  "status": "verified"
+}

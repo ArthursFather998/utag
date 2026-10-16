@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:14.903053+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Notes from a Wrist",
+    "track_number": 1
+  },
+  "entity_id": "b6cb383e-f2ad-4017-9d3d-aa677220d413",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "699eed69-0b55-4381-be55-1ed7925ab623",
+  "input": {
+    "artist": "d4vd",
+    "release": "Notes from a Wrist",
+    "title": "Notes from a Wrist"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Notes from a Wrist'.",
+  "status": "verified"
+}

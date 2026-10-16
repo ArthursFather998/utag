@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:38.503135+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bleed (2025)",
+    "track_number": 1
+  },
+  "entity_id": "8735ad03-a907-404c-b87b-596f34773a2f",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3ca003ba-730c-49cf-97d9-11fb2e7c13f3",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Bleed (2025)",
+    "title": "Bleed (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bleed (2025)'.",
+  "status": "verified"
+}

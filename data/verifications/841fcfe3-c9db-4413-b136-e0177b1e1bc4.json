@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:31.950879+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Feel It",
+    "track_number": 1
+  },
+  "entity_id": "b3007354-0e11-47ab-8bef-122d4b5b919e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "841fcfe3-c9db-4413-b136-e0177b1e1bc4",
+  "input": {
+    "artist": "d4vd",
+    "release": "Feel It",
+    "title": "Feel It"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Feel It'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:46.227347+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lost Cause (2021)",
+    "track_number": 1
+  },
+  "entity_id": "1bb536b2-fc87-4eb5-a531-061c846aa66e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "d34a6925-9105-4644-9bbf-abb32eed4638",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Lost Cause (2021)",
+    "title": "Lost Cause (2021)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lost Cause (2021)'.",
+  "status": "verified"
+}

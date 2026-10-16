@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:51.706126+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Should See Me in a Crown",
+    "track_number": 1
+  },
+  "entity_id": "cd25df1c-a3f4-4dc6-8ea1-6339b672a683",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8ca00729-c35f-4404-b9ae-b5160077e87c",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "You Should See Me in a Crown",
+    "title": "You Should See Me in a Crown"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You Should See Me in a Crown'.",
+  "status": "verified"
+}

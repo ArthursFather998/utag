@@ -1,0 +1,29 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:14.133134+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "School Nights",
+    "track_count": 5,
+    "tracklist": [
+      "Die Young",
+      "Good Hurt",
+      "Meantime",
+      "Sugar High",
+      "Bad for You"
+    ]
+  },
+  "entity_id": "0f70620d-6292-4933-8a76-a692ab173146",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "f1c7c70e-18b2-46a0-8a20-55149671b0e2",
+  "input": {
+    "artist": "Chappell Roan",
+    "title": "School Nights",
+    "track_count": 5
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/31068617-Chappell-Roan-School-Nights, https://en.wikipedia.org/wiki/Chappell_Roan_discography. Debut EP, released September 22, 2017 on Atlantic Records. All three sources agree on identical 5-track order.",
+  "status": "verified"
+}

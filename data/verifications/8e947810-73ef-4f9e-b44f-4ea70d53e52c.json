@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:20.270215+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My Future (2020)",
+    "track_number": 1
+  },
+  "entity_id": "9f11aef5-dd51-475a-a016-5a5bea389106",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "8e947810-73ef-4f9e-b44f-4ea70d53e52c",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "My Future (2020)",
+    "title": "My Future (2020)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My Future (2020)'.",
+  "status": "verified"
+}

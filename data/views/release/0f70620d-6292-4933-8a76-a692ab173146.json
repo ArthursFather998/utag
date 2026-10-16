@@ -11,78 +11,6 @@
         "canonical_name": "Chappell Roan",
         "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
       },
-      "artwork": [
-        {
-          "id": "0fce6fc1-1dd1-4142-b313-8dff65d12f3d",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:37:54.330434+00:00",
-      "edition": "original",
-      "id": "16cfd9ce-a99d-4939-9d3e-c407f01e16bf",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "Good Luck, Babe! - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "Chappell Roan",
-        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
-      },
-      "artwork": [
-        {
-          "id": "b13a8c5e-e143-4c50-8183-ddbbc17bea32",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/c425306a-974c-4ce0-ac82-742c4fa01d1a/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:44:38.284205+00:00",
-      "edition": "original",
-      "id": "2c54318d-754c-401e-9979-e2ba7e2eda4d",
-      "label": null,
-      "release_date": "2023-09-22",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "The Rise and Fall of a Midwest Princess"
-    },
-    {
-      "artists": {
-        "canonical_name": "Chappell Roan",
-        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
-      },
-      "artwork": [
-        {
-          "id": "efa6f3bf-348f-4454-aeef-f60021403105",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/43e06d80-3b88-426a-be7b-343870570828/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:46:55.035952+00:00",
-      "edition": "original",
-      "id": "37f7b93f-ecd9-4056-b4a8-c4524bf955b0",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "2024 MegaMix"
-    },
-    {
-      "artists": {
-        "canonical_name": "Chappell Roan",
-        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:11:34.927817+00:00",
@@ -128,6 +56,30 @@
       "release_type": "single",
       "release_year": 2023,
       "title": "Kaleidoscope (2023)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
+      "artwork": [
+        {
+          "id": "0fce6fc1-1dd1-4142-b313-8dff65d12f3d",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:54.330434+00:00",
+      "edition": "original",
+      "id": "16cfd9ce-a99d-4939-9d3e-c407f01e16bf",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Good Luck, Babe!"
     },
     {
       "artists": {
@@ -236,6 +188,54 @@
         "canonical_name": "Chappell Roan",
         "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
       },
+      "artwork": [
+        {
+          "id": "b13a8c5e-e143-4c50-8183-ddbbc17bea32",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c425306a-974c-4ce0-ac82-742c4fa01d1a/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:38.284205+00:00",
+      "edition": "original",
+      "id": "2c54318d-754c-401e-9979-e2ba7e2eda4d",
+      "label": null,
+      "release_date": "2023-09-22",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "The Rise and Fall of a Midwest Princess"
+    },
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
+      "artwork": [
+        {
+          "id": "efa6f3bf-348f-4454-aeef-f60021403105",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/43e06d80-3b88-426a-be7b-343870570828/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:55.035952+00:00",
+      "edition": "original",
+      "id": "37f7b93f-ecd9-4056-b4a8-c4524bf955b0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "2024 MegaMix"
+    },
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:11:38.88495+00:00",
@@ -281,23 +281,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Femininomenon"
-    },
-    {
-      "artists": {
-        "canonical_name": "Chappell Roan",
-        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:10:54.145971+00:00",
-      "edition": "original",
-      "id": "4cfe24d8-511e-4382-af3e-6d7a5c781ab6",
-      "label": "Atlantic",
-      "release_date": "2017-09-22",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2017,
-      "title": "School Nights (2017)"
     },
     {
       "artists": {
@@ -629,6 +612,127 @@
     "title": "School Nights",
     "updated_at": "2026-10-16T04:10:50.969024+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "c58c5255-8800-4097-bb85-09c2cfd685e8",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:56:10.79587+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cda6c70d-2c50-406d-b61e-d877f172d3b4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0f70620d-6292-4933-8a76-a692ab173146",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Die Young",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:56:10.79587+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "c58c5255-8800-4097-bb85-09c2cfd685e8",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:56:11.516312+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4e3c9f22-844d-4284-92f3-c4d1080ff7f3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0f70620d-6292-4933-8a76-a692ab173146",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Good Hurt",
+      "track_number": 2,
+      "updated_at": "2026-10-16T05:56:11.516312+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "c58c5255-8800-4097-bb85-09c2cfd685e8",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:56:12.126349+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "efcdebb6-8109-4954-82fc-671db8e81825",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0f70620d-6292-4933-8a76-a692ab173146",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Meantime",
+      "track_number": 3,
+      "updated_at": "2026-10-16T05:56:12.126349+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "c58c5255-8800-4097-bb85-09c2cfd685e8",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:56:12.698978+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "07676652-3a8f-4db5-b0b5-e9d6a1a4a855",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0f70620d-6292-4933-8a76-a692ab173146",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Sugar High",
+      "track_number": 4,
+      "updated_at": "2026-10-16T05:56:12.698978+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "c58c5255-8800-4097-bb85-09c2cfd685e8",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:56:13.372727+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "87636217-ae10-4e5d-9d85-03b537ccadee",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0f70620d-6292-4933-8a76-a692ab173146",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Bad for You",
+      "track_number": 5,
+      "updated_at": "2026-10-16T05:56:13.372727+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T05:56:14.133134+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "School Nights",
+        "track_count": 5,
+        "tracklist": [
+          "Die Young",
+          "Good Hurt",
+          "Meantime",
+          "Sugar High",
+          "Bad for You"
+        ]
+      },
+      "entity_id": "0f70620d-6292-4933-8a76-a692ab173146",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "f1c7c70e-18b2-46a0-8a20-55149671b0e2",
+      "input": {
+        "artist": "Chappell Roan",
+        "title": "School Nights",
+        "track_count": 5
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (5 tracks) per https://www.discogs.com/release/31068617-Chappell-Roan-School-Nights, https://en.wikipedia.org/wiki/Chappell_Roan_discography. Debut EP, released September 22, 2017 on Atlantic Records. All three sources agree on identical 5-track order.",
+      "status": "verified"
+    }
+  ]
 }

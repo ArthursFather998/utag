@@ -11,95 +11,6 @@
         "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
-      "artwork": [
-        {
-          "id": "d677f7c9-2e84-4395-8e95-3f5394e84f29",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/59/f1/a259f14d-687a-b34a-c1c9-3cd6a37368aa/artwork.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:46:38.772243+00:00",
-      "edition": "original",
-      "id": "af22df3f-8d5a-4fb7-bf7c-c8fffeb886de",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2019,
-      "title": "...Baby One More Time - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [
-        {
-          "id": "8ca1dcd9-e1f3-46c1-a75e-e050ff844616",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:48.979572+00:00",
-      "edition": "original",
-      "id": "bf0654f2-142f-4389-9e39-50538e1c0e88",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "Submarine"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [
-        {
-          "id": "e7120a6d-201e-4300-a185-7b72d1e35035",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:44.148687+00:00",
-      "edition": "original",
-      "id": "fc3b3128-be81-40bc-b1a4-980724fff40c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2021,
-      "title": "No One Noticed (Extended) - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:59.11777+00:00",
-      "edition": "original",
-      "id": "91eba2c6-2d2a-4c22-a757-a4f4774f4aa8",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "ep",
-      "release_year": 2018,
-      "title": "Superclean Vol. II"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:11:51.523104+00:00",
@@ -391,6 +302,23 @@
       },
       "artwork": [],
       "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:59.11777+00:00",
+      "edition": "original",
+      "id": "91eba2c6-2d2a-4c22-a757-a4f4774f4aa8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "ep",
+      "release_year": 2018,
+      "title": "Superclean Vol. II"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
       "created_at": "2026-10-16T04:12:11.312368+00:00",
       "edition": "original",
       "id": "9a0035db-12e4-4d52-a70b-44bbdf647dcf",
@@ -417,6 +345,30 @@
       "release_type": "single",
       "release_year": 2024,
       "title": "If Only + No One Noticed"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "d677f7c9-2e84-4395-8e95-3f5394e84f29",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/59/f1/a259f14d-687a-b34a-c1c9-3cd6a37368aa/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:38.772243+00:00",
+      "edition": "original",
+      "id": "af22df3f-8d5a-4fb7-bf7c-c8fffeb886de",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2019,
+      "title": "...Baby One More Time"
     },
     {
       "artists": {
@@ -451,6 +403,30 @@
       "release_type": "single",
       "release_year": 2024,
       "title": "No One Noticed"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "8ca1dcd9-e1f3-46c1-a75e-e050ff844616",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:48.979572+00:00",
+      "edition": "original",
+      "id": "bf0654f2-142f-4389-9e39-50538e1c0e88",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Submarine"
     },
     {
       "artists": {
@@ -536,6 +512,30 @@
       "release_type": "single",
       "release_year": 2021,
       "title": "Little by Little"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "e7120a6d-201e-4300-a185-7b72d1e35035",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:44.148687+00:00",
+      "edition": "original",
+      "id": "fc3b3128-be81-40bc-b1a4-980724fff40c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "No One Noticed (Extended)"
     }
   ],
   "release": {
@@ -561,6 +561,260 @@
     "title": "Superclean Vol. I & Superclean Vol. II",
     "updated_at": "2026-10-16T04:11:11.123943+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:56.425222+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "bc454efb-7646-487e-9120-3454f68e9904",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "I Don't Know You",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:59:56.425222+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:57.192537+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "bd54c74c-9aea-49a7-a5d0-b2b2f40d6f0a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Basta Ya",
+      "track_number": 2,
+      "updated_at": "2026-10-16T05:59:57.192537+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:57.913789+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4863f62e-fa89-4ff4-97ad-dd4789210c3d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "I Like It",
+      "track_number": 3,
+      "updated_at": "2026-10-16T05:59:57.913789+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:58.635753+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6d3f4321-c37a-440d-9c66-08ef0c0426f5",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Only in My Dreams",
+      "track_number": 4,
+      "updated_at": "2026-10-16T05:59:58.635753+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:59.271026+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4d32423a-414e-4383-b66d-6265f746d5d0",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Superclean",
+      "track_number": 5,
+      "updated_at": "2026-10-16T05:59:59.271026+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:59:59.884971+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4276a88e-c7d7-4855-81ef-46657db768bb",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Déjate Llevar",
+      "track_number": 6,
+      "updated_at": "2026-10-16T05:59:59.884971+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:00:00.636494+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "708a79e6-2488-4a7f-a6cb-d21eab8b0cb9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Ruthless",
+      "track_number": 7,
+      "updated_at": "2026-10-16T06:00:00.636494+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:00:01.339313+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "b0f58275-30db-4826-ad01-24673ab8422f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Cariño",
+      "track_number": 8,
+      "updated_at": "2026-10-16T06:00:01.339313+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:00:02.064776+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "2aa46bc7-86e4-4e14-a214-048a433e132b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "ABQ",
+      "track_number": 9,
+      "updated_at": "2026-10-16T06:00:02.064776+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:00:02.744672+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9c039324-b600-4f61-9283-31e5c6bc99a6",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Loverboy",
+      "track_number": 10,
+      "updated_at": "2026-10-16T06:00:02.744672+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:00:03.333196+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "02a3d2c8-1233-4f12-bb29-d8bfdfcc7e51",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Over the Moon",
+      "track_number": 11,
+      "updated_at": "2026-10-16T06:00:03.333196+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T06:00:04.330011+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c9d1dd52-0383-4901-b589-d924e7fa50b5",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Clueless",
+      "track_number": 12,
+      "updated_at": "2026-10-16T06:00:04.330011+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T06:00:04.918979+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Superclean Vol. I & Superclean Vol. II",
+        "track_count": 12,
+        "tracklist": [
+          "I Don't Know You",
+          "Basta Ya",
+          "I Like It",
+          "Only in My Dreams",
+          "Superclean",
+          "Déjate Llevar",
+          "Ruthless",
+          "Cariño",
+          "ABQ",
+          "Loverboy",
+          "Over the Moon",
+          "Clueless"
+        ]
+      },
+      "entity_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "a277ef92-2a49-49a0-9063-b02f7b435ebd",
+      "input": {
+        "artist": "The Marías",
+        "title": "Superclean Vol. I & Superclean Vol. II",
+        "track_count": 12
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com/release/19286491-The-Mar%C3%ADas-Superclean-Vol-I-Superclean-Vol-II, https://themarias.bandcamp.com/album/superclean-vol-ii-2?action=buy. Compilation combining both EPs (Vol. I 2017 + Vol. II 2018). 12-track order confirmed by Discogs compilation entry, the band's official Bandcamp, and official YouTube listening parties for each volume. Side A = Vol. I tracks 1-6, Side B = Vol. II tracks 7-12. Some retailer summary sections list a different/incomplete order, but the detailed side listings and Discogs/Bandcamp agree on the canonical order used here.",
+      "status": "verified"
+    }
+  ]
 }

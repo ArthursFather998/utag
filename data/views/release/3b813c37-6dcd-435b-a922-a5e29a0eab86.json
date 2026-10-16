@@ -11,102 +11,6 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
-      "artwork": [
-        {
-          "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
-          "role": "canonical",
-          "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-08T22:52:24.63726+00:00",
-      "edition": "original",
-      "id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
-      "label": "Boys Don't Cry",
-      "release_date": "2016-08-20",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2016,
-      "title": "Blonde"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:12.483628+00:00",
-      "edition": "original",
-      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
-      "label": null,
-      "release_date": "2016-08-20",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2016,
-      "title": "Blond"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "c63dde28-eed6-420d-bc86-511969919d89",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:46:46.474274+00:00",
-      "edition": "original",
-      "id": "6d545c5b-c656-4980-8d9b-00b08b85fbab",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2012,
-      "title": "channel ORANGE"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:39.288403+00:00",
-      "edition": "original",
-      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
-      "label": null,
-      "release_date": "2017-03-10",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2017,
-      "title": "Chanel"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-14T07:03:38.245701+00:00",
@@ -209,6 +113,30 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [
+        {
+          "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
+          "role": "canonical",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-08T22:52:24.63726+00:00",
+      "edition": "original",
+      "id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "label": "Boys Don't Cry",
+      "release_date": "2016-08-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Blonde"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:59:26.739086+00:00",
@@ -243,6 +171,30 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [
+        {
+          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:12.483628+00:00",
+      "edition": "original",
+      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
+      "label": null,
+      "release_date": "2016-08-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Blond"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:58:57.558521+00:00",
@@ -271,6 +223,30 @@
       "release_type": "single",
       "release_year": 2019,
       "title": "Cayendo"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [
+        {
+          "id": "c63dde28-eed6-420d-bc86-511969919d89",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:46.474274+00:00",
+      "edition": "original",
+      "id": "6d545c5b-c656-4980-8d9b-00b08b85fbab",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "channel ORANGE"
     },
     {
       "artists": {
@@ -413,6 +389,30 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [
+        {
+          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:39.288403+00:00",
+      "edition": "original",
+      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
+      "label": null,
+      "release_date": "2017-03-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Chanel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:59:10.754843+00:00",
@@ -449,6 +449,374 @@
     "title": "Endless",
     "updated_at": "2026-10-16T03:58:51.289926+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:53.414681+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "09b24dbe-fbea-4601-b9e4-098f38433897",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Device Control",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:57:53.414681+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:54.007531+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "8a950c8d-28a0-4510-9550-ca4f33a3dfa3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "At Your Best (You Are Love)",
+      "track_number": 2,
+      "updated_at": "2026-10-16T05:57:54.007531+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:54.707249+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1b661d6c-b704-4572-87a8-859f4421faa9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Alabama",
+      "track_number": 3,
+      "updated_at": "2026-10-16T05:57:54.707249+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:55.293543+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "8f4ef8fe-8b28-46ff-923d-46c32f6dc3cc",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Mine",
+      "track_number": 4,
+      "updated_at": "2026-10-16T05:57:55.293543+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:55.931745+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "3b990b51-fd37-490f-b059-049e2c7183b7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "U-N-I-T-Y",
+      "track_number": 5,
+      "updated_at": "2026-10-16T05:57:55.931745+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:56.523653+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "3d4f543c-9d4f-47c9-8754-76eaa35ce70a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Ambience 001: In a Certain Way",
+      "track_number": 6,
+      "updated_at": "2026-10-16T05:57:56.523653+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:57.114719+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "13492899-33d7-440c-b37b-c09c73442a0d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Commes Des Garcons",
+      "track_number": 7,
+      "updated_at": "2026-10-16T05:57:57.114719+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:57.769702+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "3e3cac1e-0a5f-43b8-8f2f-cf5db03a9c83",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Ambience 002: Honeybaby",
+      "track_number": 8,
+      "updated_at": "2026-10-16T05:57:57.769702+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:58.35329+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ca8714d0-57c9-4532-9049-81dfcb11746b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Wither",
+      "track_number": 9,
+      "updated_at": "2026-10-16T05:57:58.35329+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:59.010706+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "cdcc6d9b-5669-4fb9-810c-3cfacffed99a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Hublots",
+      "track_number": 10,
+      "updated_at": "2026-10-16T05:57:59.010706+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:59.621816+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "c8929bfe-59e6-43ac-9841-bd103e3abc8e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "In Here Somewhere",
+      "track_number": 11,
+      "updated_at": "2026-10-16T05:57:59.621816+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:58:00.28294+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "10984070-08aa-4010-a855-60b35a0e689b",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Slide on Me",
+      "track_number": 12,
+      "updated_at": "2026-10-16T05:58:00.28294+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:58:00.833424+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "181b3573-3eef-44c9-ac56-f61f40d72590",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Sideways",
+      "track_number": 13,
+      "updated_at": "2026-10-16T05:58:00.833424+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:58:01.448162+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e09d1622-867d-4d23-a2d4-c7e6a686d37a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Florida",
+      "track_number": 14,
+      "updated_at": "2026-10-16T05:58:01.448162+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:58:01.985496+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "89e2bb5e-f331-437c-a60a-d65caf6e8449",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Deathwish (ASR)",
+      "track_number": 15,
+      "updated_at": "2026-10-16T05:58:01.985496+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:58:02.53183+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4dd0da8a-144d-419c-9db7-844d2cb2a67a",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Rushes",
+      "track_number": 16,
+      "updated_at": "2026-10-16T05:58:02.53183+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:58:03.191368+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "46b3472e-48de-4975-8859-cddf6f027575",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Rushes To",
+      "track_number": 17,
+      "updated_at": "2026-10-16T05:58:03.191368+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:58:03.758991+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "8ea72798-f5b6-4d43-a4bf-ad22c6f94cf9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Higgs",
+      "track_number": 18,
+      "updated_at": "2026-10-16T05:58:03.758991+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T05:58:04.39213+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Endless",
+        "track_count": 18,
+        "tracklist": [
+          "Device Control",
+          "At Your Best (You Are Love)",
+          "Alabama",
+          "Mine",
+          "U-N-I-T-Y",
+          "Ambience 001: In a Certain Way",
+          "Commes Des Garcons",
+          "Ambience 002: Honeybaby",
+          "Wither",
+          "Hublots",
+          "In Here Somewhere",
+          "Slide on Me",
+          "Sideways",
+          "Florida",
+          "Deathwish (ASR)",
+          "Rushes",
+          "Rushes To",
+          "Higgs"
+        ]
+      },
+      "entity_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "ae6bc148-a588-46fe-88ea-fbd411b55f55",
+      "input": {
+        "artist": "Frank Ocean",
+        "title": "Endless",
+        "track_count": 18
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (18 tracks) per https://www.nme.com/news/music/frank-ocean-29-1192834, https://www.xxlmag.com/frank-ocean-remastered-endless-album/. Visual album, released August 19, 2016 via Apple Music. 18 tracks in the standard edition confirmed across NME, XXL, Hypebeast, Music Feeds, and ET Online. 'At Your Best (You Are Love)' is an Isley Brothers cover. The 2017 physical reissue adds 'Mitsubishi Sony' and 'Device Control (Reprise)' as bonus tracks 19-20, but the standard edition is these 18.",
+      "status": "verified"
+    }
+  ]
 }

@@ -11,105 +11,6 @@
         "canonical_name": "Radiohead",
         "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
       },
-      "artwork": [
-        {
-          "id": "5437f3e3-878a-4183-a340-d776e6b767d5",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/e9b0f69e-ee3d-36ed-8c12-f8ee65f87e45/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T00:36:13.93458+00:00",
-      "edition": "original",
-      "id": "a2f6a7ea-ec72-4c6a-9d1b-6b038cc2a153",
-      "label": "XL Recordings",
-      "release_date": "2007-12-31",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2007,
-      "title": "In Rainbows"
-    },
-    {
-      "artists": {
-        "canonical_name": "Radiohead",
-        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
-      },
-      "artwork": [
-        {
-          "id": "dba90924-ea53-4eef-8772-242696c119f4",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:42:15.360867+00:00",
-      "edition": "original",
-      "id": "577e78ed-2288-4418-ad13-60d9004e35f1",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1997,
-      "title": "OK Computer"
-    },
-    {
-      "artists": {
-        "canonical_name": "Radiohead",
-        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:45:50.213014+00:00",
-      "edition": "original",
-      "id": "47268b43-3622-485d-9c8f-a5bd61488a5a",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1995,
-      "title": "Certain Damage! Volume 64"
-    },
-    {
-      "artists": {
-        "canonical_name": "Radiohead",
-        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:50:43.648908+00:00",
-      "edition": "original",
-      "id": "4831f58e-e3cf-4550-8d89-87d4fe74e507",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1997,
-      "title": "1998‐12‐10: Amnesty International Concert, Palais Omisport de Paris Bercy, Paris, France"
-    },
-    {
-      "artists": {
-        "canonical_name": "Radiohead",
-        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:53:32.513384+00:00",
-      "edition": "original",
-      "id": "ee89690b-42d2-4263-985e-0be7268e8cfd",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1997,
-      "title": "Live From the 10 Spot"
-    },
-    {
-      "artists": {
-        "canonical_name": "Radiohead",
-        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:00:30.872879+00:00",
@@ -486,6 +387,40 @@
       },
       "artwork": [],
       "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:50.213014+00:00",
+      "edition": "original",
+      "id": "47268b43-3622-485d-9c8f-a5bd61488a5a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1995,
+      "title": "Certain Damage! Volume 64"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:43.648908+00:00",
+      "edition": "original",
+      "id": "4831f58e-e3cf-4550-8d89-87d4fe74e507",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1997,
+      "title": "1998‐12‐10: Amnesty International Concert, Palais Omisport de Paris Bercy, Paris, France"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
       "created_at": "2026-10-16T04:03:21.072184+00:00",
       "edition": "original",
       "id": "497cbde5-a560-4743-82c8-ed983fbbf14f",
@@ -546,6 +481,30 @@
       "release_type": "single",
       "release_year": 1995,
       "title": "Fake Plastic Trees"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
+      "artwork": [
+        {
+          "id": "dba90924-ea53-4eef-8772-242696c119f4",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:15.360867+00:00",
+      "edition": "original",
+      "id": "577e78ed-2288-4418-ad13-60d9004e35f1",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1997,
+      "title": "OK Computer"
     },
     {
       "artists": {
@@ -909,6 +868,30 @@
         "canonical_name": "Radiohead",
         "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
       },
+      "artwork": [
+        {
+          "id": "5437f3e3-878a-4183-a340-d776e6b767d5",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/e9b0f69e-ee3d-36ed-8c12-f8ee65f87e45/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:36:13.93458+00:00",
+      "edition": "original",
+      "id": "a2f6a7ea-ec72-4c6a-9d1b-6b038cc2a153",
+      "label": "XL Recordings",
+      "release_date": "2007-12-31",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "In Rainbows"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:02:21.555515+00:00",
@@ -1182,6 +1165,23 @@
         "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
       },
       "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:53:32.513384+00:00",
+      "edition": "original",
+      "id": "ee89690b-42d2-4263-985e-0be7268e8cfd",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1997,
+      "title": "Live From the 10 Spot"
+    },
+    {
+      "artists": {
+        "canonical_name": "Radiohead",
+        "id": "54824da9-f7ed-422e-b1d4-1068a9c5c464"
+      },
+      "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:02:15.469767+00:00",
       "edition": "original",
@@ -1285,6 +1285,25 @@
     "title": "The Daily Mail / Staircase",
     "updated_at": "2026-10-16T04:02:12.497775+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "54824da9-f7ed-422e-b1d4-1068a9c5c464",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:27:58.948267+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "263be90a-ad05-40fc-8ef4-559a3a220653",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "4a3a82f3-4a22-4133-a544-5a290aa5a2c9",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "The Daily Mail / Staircase",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:27:58.948267+00:00"
+    }
+  ],
   "verifications": []
 }

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:32.813897+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Cute Shirt (Interlude)",
+    "track_number": 1
+  },
+  "entity_id": "c7da7cee-2508-4ef9-9852-4dc719a25fd6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "0500749e-7377-489c-ba94-8e79f6ae6c5f",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Cute Shirt (Interlude)",
+    "title": "Cute Shirt (Interlude)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Cute Shirt (Interlude)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:19.444038+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Call Me Revenge",
+    "track_number": 1
+  },
+  "entity_id": "05330aa9-df7f-4077-a2fb-30e2c1f75b00",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a835af32-e0be-44c0-8c5d-45394ee9e3ce",
+  "input": {
+    "artist": "d4vd",
+    "release": "Call Me Revenge",
+    "title": "Call Me Revenge"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Call Me Revenge'.",
+  "status": "verified"
+}

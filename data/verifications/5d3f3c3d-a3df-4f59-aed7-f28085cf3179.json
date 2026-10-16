@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:48.915122+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Worthless (2023)",
+    "track_number": 1
+  },
+  "entity_id": "21ce758e-8098-4e81-8b3f-302006372284",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5d3f3c3d-a3df-4f59-aed7-f28085cf3179",
+  "input": {
+    "artist": "d4vd",
+    "release": "Worthless (2023)",
+    "title": "Worthless (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Worthless (2023)'.",
+  "status": "verified"
+}

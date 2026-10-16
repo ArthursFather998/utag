@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:51.587902+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Royalty (feat. Ky-Mani Marley, Stefflon Don & Vybz Kartel)",
+    "track_number": 1
+  },
+  "entity_id": "b20b6e21-56e6-426e-8733-f776e93e092c",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "fe53c250-3f1e-44c8-8afb-d83323e11945",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Royalty (feat. Ky-Mani Marley, Stefflon Don & Vybz Kartel)",
+    "title": "Royalty (feat. Ky-Mani Marley, Stefflon Don & Vybz Kartel)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Royalty (feat. Ky-Mani Marley, Stefflon Don & Vybz Kartel)'.",
+  "status": "verified"
+}

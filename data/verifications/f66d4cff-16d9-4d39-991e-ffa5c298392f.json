@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:28.128402+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Idontwannabeyouanymore",
+    "track_number": 1
+  },
+  "entity_id": "fa9e7acb-c5cf-4bb7-a018-179ea6759e2e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f66d4cff-16d9-4d39-991e-ffa5c298392f",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Idontwannabeyouanymore",
+    "title": "Idontwannabeyouanymore"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Idontwannabeyouanymore'.",
+  "status": "verified"
+}

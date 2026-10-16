@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:12.623154+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Guitar Songs",
+    "track_count": 2,
+    "tracklist": [
+      "TV",
+      "The 30th"
+    ]
+  },
+  "entity_id": "61e7cb36-0d50-439e-9d59-389ae5c7a15b",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "59fca9be-6f4e-4dea-bf08-ea617911d66c",
+  "input": {
+    "artist": "Billie Eilish",
+    "title": "Guitar Songs",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://billieeilish.fandom.com/wiki/Guitar_Songs, https://www.discogs.com/release/23956340-Billie-Eilish-Guitar-Songs. Two-track surprise EP, released July 21, 2022 via Darkroom/Interscope. Both tracks acoustic, written with Finneas.",
+  "status": "verified"
+}

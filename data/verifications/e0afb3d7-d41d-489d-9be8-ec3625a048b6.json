@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:21.262249+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Sweet Boy",
+    "track_number": 1
+  },
+  "entity_id": "c435b102-0bfd-4340-b1bf-308157dd9f2a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e0afb3d7-d41d-489d-9be8-ec3625a048b6",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Sweet Boy",
+    "title": "Sweet Boy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Sweet Boy'.",
+  "status": "verified"
+}

@@ -27,30 +27,6 @@
         "canonical_name": "Daniel Caesar",
         "id": "d25772f8-61ce-414a-86ce-2068f839528f"
       },
-      "artwork": [
-        {
-          "id": "9710c427-96bb-4d67-a84a-e8b33905dcb2",
-          "role": "canonical",
-          "source_url": "https://tse1.mm.bing.net/th/id/OIP.zmzIjt_dxMHvd0_W_2yy4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T01:01:42.49727+00:00",
-      "edition": "deluxe",
-      "id": "d0eeb8cd-7d6a-4761-948c-fe43ad54c500",
-      "label": "Republic Records",
-      "release_date": "2023-04-10",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "NEVER ENOUGH (Bonus Version)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Daniel Caesar",
-        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:10:31.506238+00:00",
@@ -997,6 +973,30 @@
       "release_type": "single",
       "release_year": 2023,
       "title": "Valentina"
+    },
+    {
+      "artists": {
+        "canonical_name": "Daniel Caesar",
+        "id": "d25772f8-61ce-414a-86ce-2068f839528f"
+      },
+      "artwork": [
+        {
+          "id": "9710c427-96bb-4d67-a84a-e8b33905dcb2",
+          "role": "canonical",
+          "source_url": "https://tse1.mm.bing.net/th/id/OIP.zmzIjt_dxMHvd0_W_2yy4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T01:01:42.49727+00:00",
+      "edition": "deluxe",
+      "id": "d0eeb8cd-7d6a-4761-948c-fe43ad54c500",
+      "label": "Republic Records",
+      "release_date": "2023-04-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "NEVER ENOUGH (Bonus Version)"
     },
     {
       "artists": {

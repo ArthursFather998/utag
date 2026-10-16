@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:14.497727+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Dirty Secrets",
+    "track_number": 1
+  },
+  "entity_id": "5d1486fd-930c-4e31-9688-556e2e23e164",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b6f7bb6e-5039-4f38-a633-7cccfcc730d4",
+  "input": {
+    "artist": "d4vd",
+    "release": "Dirty Secrets",
+    "title": "Dirty Secrets"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Dirty Secrets'.",
+  "status": "verified"
+}

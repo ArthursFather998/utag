@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:55:55.52038+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You and I",
+    "track_number": 1
+  },
+  "entity_id": "57c5d2da-5b3d-419b-a5b5-6daa03c7809e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e7f8fcd8-bae6-4dec-b529-da982544bc15",
+  "input": {
+    "artist": "d4vd",
+    "release": "You and I",
+    "title": "You and I"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You and I'.",
+  "status": "verified"
+}

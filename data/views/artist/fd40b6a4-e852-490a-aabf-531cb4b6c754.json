@@ -50,54 +50,6 @@
         "canonical_name": "Britney Spears",
         "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
       },
-      "artwork": [
-        {
-          "id": "36b15833-c19f-4bf0-930e-2cda30dd6583",
-          "role": "canonical",
-          "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/..._Baby_One_More_Time_%28album%29.png",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T16:53:05.977053+00:00",
-      "edition": "deluxe",
-      "id": "d708a4f3-40ba-4ffd-9e67-72acb9ffda72",
-      "label": "Jive",
-      "release_date": "1999-01-12",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1999,
-      "title": "...Baby One More Time"
-    },
-    {
-      "artists": {
-        "canonical_name": "Britney Spears",
-        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
-      },
-      "artwork": [
-        {
-          "id": "017f9a2c-a69d-431a-9766-af1f8abb4023",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:34:37.060089+00:00",
-      "edition": "original",
-      "id": "c09b26a7-3858-4767-831d-204748589678",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1999,
-      "title": "...Baby One More Time (Deluxe Version)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Britney Spears",
-        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:15:18.114127+00:00",
@@ -228,6 +180,54 @@
       "release_type": "single",
       "release_year": 1999,
       "title": "Sometimes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Britney Spears",
+        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
+      },
+      "artwork": [
+        {
+          "id": "017f9a2c-a69d-431a-9766-af1f8abb4023",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:37.060089+00:00",
+      "edition": "original",
+      "id": "c09b26a7-3858-4767-831d-204748589678",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1999,
+      "title": "...Baby One More Time (Deluxe Version)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Britney Spears",
+        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
+      },
+      "artwork": [
+        {
+          "id": "36b15833-c19f-4bf0-930e-2cda30dd6583",
+          "role": "canonical",
+          "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/..._Baby_One_More_Time_%28album%29.png",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:53:05.977053+00:00",
+      "edition": "deluxe",
+      "id": "d708a4f3-40ba-4ffd-9e67-72acb9ffda72",
+      "label": "Jive",
+      "release_date": "1999-01-12",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1999,
+      "title": "...Baby One More Time"
     },
     {
       "artists": {

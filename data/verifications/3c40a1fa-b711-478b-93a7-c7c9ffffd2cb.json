@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:37.253325+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "L'Amour de Ma Vie (Over Now extended edit)",
+    "track_number": 1
+  },
+  "entity_id": "b7a0a2cc-0c36-4aa0-a501-e438603b3361",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "3c40a1fa-b711-478b-93a7-c7c9ffffd2cb",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "L'Amour de Ma Vie (Over Now extended edit)",
+    "title": "L'Amour de Ma Vie (Over Now extended edit)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'L'Amour de Ma Vie (Over Now extended edit)'.",
+  "status": "verified"
+}

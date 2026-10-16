@@ -11,102 +11,6 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
-      "artwork": [
-        {
-          "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
-          "role": "canonical",
-          "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-08T22:52:24.63726+00:00",
-      "edition": "original",
-      "id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
-      "label": "Boys Don't Cry",
-      "release_date": "2016-08-20",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2016,
-      "title": "Blonde"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:12.483628+00:00",
-      "edition": "original",
-      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
-      "label": null,
-      "release_date": "2016-08-20",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2016,
-      "title": "Blond"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "c63dde28-eed6-420d-bc86-511969919d89",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:46:46.474274+00:00",
-      "edition": "original",
-      "id": "6d545c5b-c656-4980-8d9b-00b08b85fbab",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2012,
-      "title": "channel ORANGE"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:39.288403+00:00",
-      "edition": "original",
-      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
-      "label": null,
-      "release_date": "2017-03-10",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2017,
-      "title": "Chanel"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-14T07:03:38.245701+00:00",
@@ -209,6 +113,30 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [
+        {
+          "id": "fae1ef90-0e1f-4cf4-9816-0778ab19856d",
+          "role": "canonical",
+          "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/250px-Blonde_-_Frank_Ocean.jpeg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-08T22:52:24.63726+00:00",
+      "edition": "original",
+      "id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+      "label": "Boys Don't Cry",
+      "release_date": "2016-08-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Blonde"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:58:51.289926+00:00",
@@ -260,6 +188,30 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [
+        {
+          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:12.483628+00:00",
+      "edition": "original",
+      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
+      "label": null,
+      "release_date": "2016-08-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Blond"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:58:57.558521+00:00",
@@ -288,6 +240,30 @@
       "release_type": "single",
       "release_year": 2019,
       "title": "Cayendo"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [
+        {
+          "id": "c63dde28-eed6-420d-bc86-511969919d89",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:46.474274+00:00",
+      "edition": "original",
+      "id": "6d545c5b-c656-4980-8d9b-00b08b85fbab",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "channel ORANGE"
     },
     {
       "artists": {
@@ -413,6 +389,30 @@
         "canonical_name": "Frank Ocean",
         "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
       },
+      "artwork": [
+        {
+          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:39.288403+00:00",
+      "edition": "original",
+      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
+      "label": null,
+      "release_date": "2017-03-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Chanel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T03:59:10.754843+00:00",
@@ -449,6 +449,298 @@
     "title": "Nostalgia, Ultra",
     "updated_at": "2026-10-16T03:58:47.900654+00:00"
   },
-  "tracks": [],
-  "verifications": []
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:42.643611+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "7e1056ed-495f-4dc0-ae92-4abdd741dd70",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Street Fighter",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:57:42.643611+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:43.204638+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "0c35cbf1-2150-44eb-930f-6de15dd5a29f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Strawberry Swing",
+      "track_number": 2,
+      "updated_at": "2026-10-16T05:57:43.204638+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:43.898123+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4bdf67df-f87b-4a93-b87d-adb0ac3f2a66",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Novacane",
+      "track_number": 3,
+      "updated_at": "2026-10-16T05:57:43.898123+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:44.520853+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9d9f993f-9e8e-4dfb-a74f-7c20720081e7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "We All Try",
+      "track_number": 4,
+      "updated_at": "2026-10-16T05:57:44.520853+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:45.223566+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1cec3c47-5933-4787-bb5b-ac44bd346cb3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Bitches Talkin' (Metal Gear Solid)",
+      "track_number": 5,
+      "updated_at": "2026-10-16T05:57:45.223566+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:45.82998+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "10f82ce3-7b1b-437d-92b0-0fd551bf3a68",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Songs for Women",
+      "track_number": 6,
+      "updated_at": "2026-10-16T05:57:45.82998+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:46.478836+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "bcc5a982-15f5-440e-aab0-09e0238cadc3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Lovecrimes",
+      "track_number": 7,
+      "updated_at": "2026-10-16T05:57:46.478836+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:47.065212+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f4de7b48-f763-485a-a20b-23e73ec03ff7",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Goldeneye",
+      "track_number": 8,
+      "updated_at": "2026-10-16T05:57:47.065212+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:47.744602+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "179f44d7-e935-4d84-a5c9-3564c93c251d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "There Will Be Tears",
+      "track_number": 9,
+      "updated_at": "2026-10-16T05:57:47.744602+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:48.410554+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "1582574c-af8a-4235-b6e1-2c0c59ea4530",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Swim Good",
+      "track_number": 10,
+      "updated_at": "2026-10-16T05:57:48.410554+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:48.957955+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "adf6c92b-b6c7-45c7-8e82-3af5650cb2f8",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Dust",
+      "track_number": 11,
+      "updated_at": "2026-10-16T05:57:48.957955+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:49.523022+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "50e515d8-425f-4b99-9b1a-91dd5404bbad",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "American Wedding",
+      "track_number": 12,
+      "updated_at": "2026-10-16T05:57:49.523022+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:50.203042+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "f48e31b1-e979-4542-8bb6-6f596cb77d93",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Soul Calibur",
+      "track_number": 13,
+      "updated_at": "2026-10-16T05:57:50.203042+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "9ae63c0a-588c-4585-b85d-ed883727ddf1",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:57:50.959398+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a9ef232a-1570-4e36-9452-fe3908317418",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Nature Feels",
+      "track_number": 14,
+      "updated_at": "2026-10-16T05:57:50.959398+00:00"
+    }
+  ],
+  "verifications": [
+    {
+      "candidates": null,
+      "created_at": "2026-10-16T05:57:51.556607+00:00",
+      "created_by": "utag-discography-populator",
+      "decision": {
+        "title": "Nostalgia, Ultra",
+        "track_count": 14,
+        "tracklist": [
+          "Street Fighter",
+          "Strawberry Swing",
+          "Novacane",
+          "We All Try",
+          "Bitches Talkin' (Metal Gear Solid)",
+          "Songs for Women",
+          "Lovecrimes",
+          "Goldeneye",
+          "There Will Be Tears",
+          "Swim Good",
+          "Dust",
+          "American Wedding",
+          "Soul Calibur",
+          "Nature Feels"
+        ]
+      },
+      "entity_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+      "entity_type": "release",
+      "field_confidence": null,
+      "id": "decdd288-4630-4c94-a387-023d93cdc5e2",
+      "input": {
+        "artist": "Frank Ocean",
+        "title": "Nostalgia, Ultra",
+        "track_count": 14
+      },
+      "model": null,
+      "overall_confidence": "high_confidence",
+      "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Nostalgia,_Ultra, https://blonded.blog/news/frank-releases-nostalgia-ultra. Debut mixtape, self-released February 16, 2011. 14 tracks confirmed across Wikipedia, Blonded.blog, Discogs, and Excellent Music Wiki — all agree on order. 'American Wedding' features James Fauntleroy (later removed from some versions due to Eagles sample controversy). Titles stylized lowercase on original release; canonical title casing used here.",
+      "status": "verified"
+    }
+  ]
 }

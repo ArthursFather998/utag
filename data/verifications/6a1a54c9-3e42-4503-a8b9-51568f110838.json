@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:32.876233+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Fly Away (2022)",
+    "track_number": 1
+  },
+  "entity_id": "1baeb401-4859-4d07-b41f-8b92e72fa3cb",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6a1a54c9-3e42-4503-a8b9-51568f110838",
+  "input": {
+    "artist": "d4vd",
+    "release": "Fly Away (2022)",
+    "title": "Fly Away (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Fly Away (2022)'.",
+  "status": "verified"
+}

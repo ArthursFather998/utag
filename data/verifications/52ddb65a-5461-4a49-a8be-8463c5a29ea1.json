@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:55:51.548698+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Always Love (2025)",
+    "track_number": 1
+  },
+  "entity_id": "3dd91e75-7c92-4832-8495-c29e50614ced",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "52ddb65a-5461-4a49-a8be-8463c5a29ea1",
+  "input": {
+    "artist": "d4vd",
+    "release": "Always Love (2025)",
+    "title": "Always Love (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Always Love (2025)'.",
+  "status": "verified"
+}

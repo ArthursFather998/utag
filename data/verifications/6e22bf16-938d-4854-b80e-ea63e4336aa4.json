@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:42.592024+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Your Power (2021)",
+    "track_number": 1
+  },
+  "entity_id": "ad5c03bc-e034-43e0-8037-7e50579f9565",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6e22bf16-938d-4854-b80e-ea63e4336aa4",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Your Power (2021)",
+    "title": "Your Power (2021)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Your Power (2021)'.",
+  "status": "verified"
+}

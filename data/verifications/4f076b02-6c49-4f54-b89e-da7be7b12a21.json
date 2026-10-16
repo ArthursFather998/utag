@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:55:59.399224+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Life's a Dream",
+    "track_number": 1
+  },
+  "entity_id": "fa64ec7f-bb46-437c-92bb-8a223f1b678a",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "4f076b02-6c49-4f54-b89e-da7be7b12a21",
+  "input": {
+    "artist": "d4vd",
+    "release": "Life's a Dream",
+    "title": "Life's a Dream"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Life's a Dream'.",
+  "status": "verified"
+}

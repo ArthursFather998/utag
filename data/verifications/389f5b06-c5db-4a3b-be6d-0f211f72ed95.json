@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:25.629401+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Chihiro (2025)",
+    "track_number": 1
+  },
+  "entity_id": "c00c354c-4e38-40d0-a1cd-119d2bc86c63",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "389f5b06-c5db-4a3b-be6d-0f211f72ed95",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Chihiro (2025)",
+    "title": "Chihiro (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Chihiro (2025)'.",
+  "status": "verified"
+}

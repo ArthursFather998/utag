@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:08.078443+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bellyache (2017)",
+    "track_number": 1
+  },
+  "entity_id": "bfcd2bcb-eda3-4ebe-97e8-49a4631add61",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a210df07-ed41-49ff-a751-c6084aee9d90",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Bellyache (2017)",
+    "title": "Bellyache (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bellyache (2017)'.",
+  "status": "verified"
+}

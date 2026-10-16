@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:55:57.204506+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You and I (2022)",
+    "track_number": 1
+  },
+  "entity_id": "cf31dad4-c21b-4e30-8fb3-45def0ab09d6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "26f9fb98-29cb-4aea-ae5e-b487fbcf9d33",
+  "input": {
+    "artist": "d4vd",
+    "release": "You and I (2022)",
+    "title": "You and I (2022)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You and I (2022)'.",
+  "status": "verified"
+}

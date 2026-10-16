@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:05.596338+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad Guy",
+    "track_number": 1
+  },
+  "entity_id": "dc04e45b-7175-4b5d-83ed-b6ee7f047cfa",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "a9007bdf-64f1-4e7f-bd4d-0b3a42611ae0",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Bad Guy",
+    "title": "Bad Guy"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad Guy'.",
+  "status": "verified"
+}

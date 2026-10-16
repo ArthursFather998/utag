@@ -9,6 +9,2964 @@
   "releases": [
     {
       "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T05:04:55.155583+00:00",
+      "edition": "deluxe",
+      "id": "d59f82a5-a0af-4b79-bcfd-eb1ead382262",
+      "label": "Asylum / Atlantic",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "+ (Deluxe)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:33.388751+00:00",
+      "edition": "original",
+      "id": "498eb1b7-4eb4-4f8b-8269-ac404a92ca87",
+      "label": "RCA Victor",
+      "release_date": "1967-03-01",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1967,
+      "title": "Easy Come, Easy Go (1967)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:30.445731+00:00",
+      "edition": "original",
+      "id": "99dc9ce4-6b21-460e-b0c7-abb83a294eb5",
+      "label": "RCA Victor",
+      "release_date": "1967-03-01",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1967,
+      "title": "Easy Come, Easy Go"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:26.946542+00:00",
+      "edition": "original",
+      "id": "fdd7a53a-76c5-4598-9d44-c2ba2d0af393",
+      "label": "RCA Victor",
+      "release_date": "1965-06-15",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1965,
+      "title": "Tickle Me (1965)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:23.790203+00:00",
+      "edition": "original",
+      "id": "2a26eb39-09f7-4285-8fe1-9f99f935484d",
+      "label": "RCA Victor",
+      "release_date": "1965-06-15",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1965,
+      "title": "Tickle Me"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:20.660526+00:00",
+      "edition": "original",
+      "id": "924b6fd8-5a86-440d-aa3f-66f4fc086ffe",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1964,
+      "title": "Viva Las Vegas (1964)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:17.637034+00:00",
+      "edition": "original",
+      "id": "af7aa225-179f-48e5-b421-00b12bd63ecb",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1964,
+      "title": "Viva Las Vegas"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:14.479682+00:00",
+      "edition": "original",
+      "id": "5d8446c0-7b5e-4049-ba33-5528c2bc1001",
+      "label": "RCA Victor",
+      "release_date": "1962-08-28",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1962,
+      "title": "Kid Galahad (1962)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:11.280935+00:00",
+      "edition": "original",
+      "id": "a9e12620-7775-4bd1-a225-ccccf2e3eb35",
+      "label": "RCA Victor",
+      "release_date": "1962-08-28",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1962,
+      "title": "Kid Galahad"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:08.216193+00:00",
+      "edition": "original",
+      "id": "273357ec-9dd3-4ec0-a025-edda72e78259",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1962,
+      "title": "Follow That Dream (1962)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:04.968929+00:00",
+      "edition": "original",
+      "id": "3d865740-8d36-4f27-aa90-283977e107df",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1962,
+      "title": "Follow That Dream"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:57:01.70066+00:00",
+      "edition": "original",
+      "id": "b3eba9d4-de25-4391-9282-caf731cf9157",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1958,
+      "title": "Elvis Sails (1958)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:58.473298+00:00",
+      "edition": "original",
+      "id": "dca54d00-337f-44de-9d46-c7e99d77f6ef",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1958,
+      "title": "Elvis Sails"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:55.431699+00:00",
+      "edition": "original",
+      "id": "538b71ad-ad3c-4b1f-81c8-c1b797bbf49e",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1958,
+      "title": "King Creole Vol. 1 (1958)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:52.329889+00:00",
+      "edition": "original",
+      "id": "5fbbd351-eb7e-401c-927d-c97443ac0c6c",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1958,
+      "title": "King Creole Vol. 1"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:49.29711+00:00",
+      "edition": "original",
+      "id": "6e6e547a-61e7-4bb0-a152-cbcdc3b78cf4",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Elvis Sings Christmas Songs (1957)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:46.051852+00:00",
+      "edition": "original",
+      "id": "03b7d04b-32f0-43fd-9a16-e7304881d468",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Elvis Sings Christmas Songs"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:43.029552+00:00",
+      "edition": "original",
+      "id": "9c9c764a-bdcc-4c3c-a494-da5116aafbf7",
+      "label": "RCA Victor",
+      "release_date": "1957-10-30",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Jailhouse Rock (1957)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:39.676794+00:00",
+      "edition": "original",
+      "id": "9d38868d-37e1-46a1-8762-2cbdc4d408ff",
+      "label": "RCA Victor",
+      "release_date": "1957-10-30",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Jailhouse Rock"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:36.639708+00:00",
+      "edition": "original",
+      "id": "86b84388-4e59-4236-a168-6a98aa3e3ff6",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Loving You, Vol. I (1957)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:33.361444+00:00",
+      "edition": "original",
+      "id": "65f46b6d-b0bc-4f7b-8248-3493aeb3428c",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Loving You, Vol. I"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:30.213425+00:00",
+      "edition": "original",
+      "id": "2f2db945-d2b9-4e2e-9a58-05c2e83193c9",
+      "label": "RCA Victor",
+      "release_date": "1957-08-21",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Just for You (1957)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:27.14536+00:00",
+      "edition": "original",
+      "id": "cbbb7fbb-0d49-4285-9877-9262c135579d",
+      "label": "RCA Victor",
+      "release_date": "1957-08-21",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Just for You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:23.689704+00:00",
+      "edition": "original",
+      "id": "72694349-0f39-416d-b401-ceedaa506e55",
+      "label": "RCA Victor",
+      "release_date": "1957-04-11",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Peace in the Valley (1957)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:20.491995+00:00",
+      "edition": "original",
+      "id": "1935d608-6873-4f8a-86f7-890b22b08729",
+      "label": "RCA Victor",
+      "release_date": "1957-04-11",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1957,
+      "title": "Peace in the Valley"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:17.195394+00:00",
+      "edition": "original",
+      "id": "917924cd-10e6-4e23-9e01-b583348ff529",
+      "label": "RCA Victor",
+      "release_date": "1956-11-01",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1956,
+      "title": "Love Me Tender (1956)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:14.164781+00:00",
+      "edition": "original",
+      "id": "4da74e57-0d0d-43b0-8e4f-c29fe11345af",
+      "label": "RCA Victor",
+      "release_date": "1956-11-01",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1956,
+      "title": "Love Me Tender"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:11.140241+00:00",
+      "edition": "original",
+      "id": "c2d41da6-d25d-45fc-8ae4-e8cc33fea539",
+      "label": "RCA Victor",
+      "release_date": "1956-10-19",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1956,
+      "title": "Elvis Vol. 1 (1956)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:08.02502+00:00",
+      "edition": "original",
+      "id": "1a286dd6-342f-46c4-9576-c7c60f4a9b2c",
+      "label": "RCA Victor",
+      "release_date": "1956-10-19",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1956,
+      "title": "Elvis Vol. 1"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:04.874714+00:00",
+      "edition": "original",
+      "id": "2f189c43-2e07-41d7-89aa-0c4c4a91d9a5",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1956,
+      "title": "The Real Elvis (1956)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:56:01.691867+00:00",
+      "edition": "original",
+      "id": "c07b6402-9277-4b8b-82c2-5d5d43067798",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1956,
+      "title": "The Real Elvis"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:58.692261+00:00",
+      "edition": "original",
+      "id": "313b3436-d46e-45f7-a383-9d2bfb6095c7",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1956,
+      "title": "Heartbreak Hotel (1956)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:55.640401+00:00",
+      "edition": "original",
+      "id": "b6cf8ed7-68ad-4e0a-8349-e90d761172e4",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1956,
+      "title": "Heartbreak Hotel"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:32.340375+00:00",
+      "edition": "original",
+      "id": "65397aef-a5f1-497f-a466-99a32f9b57b0",
+      "label": "RCA, BMG",
+      "release_date": "1995-10-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1995,
+      "title": "Walk a Mile in My Shoes: The Essential '70s Masters (1995)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:29.306567+00:00",
+      "edition": "original",
+      "id": "2d270e92-674f-4166-8907-e2e3e761ed3d",
+      "label": "RCA, BMG",
+      "release_date": "1995-10-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1995,
+      "title": "Walk a Mile in My Shoes: The Essential '70s Masters"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:26.135397+00:00",
+      "edition": "original",
+      "id": "81cf6eb6-54e3-4556-817a-c7a7743d3b09",
+      "label": "RCA, BMG",
+      "release_date": "1993-09-28",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1993,
+      "title": "From Nashville to Memphis: The Essential '60s Masters (1993)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:23.101043+00:00",
+      "edition": "original",
+      "id": "0c3d4f8f-e430-4738-9747-1f090440e549",
+      "label": "RCA, BMG",
+      "release_date": "1993-09-28",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1993,
+      "title": "From Nashville to Memphis: The Essential '60s Masters"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:19.881229+00:00",
+      "edition": "original",
+      "id": "aeee574d-cb17-42b5-8683-cb53937f8257",
+      "label": "RCA, BMG",
+      "release_date": "1992-06-23",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1992,
+      "title": "The King of Rock 'n' Roll: The Complete 50's Masters (1992)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:16.878953+00:00",
+      "edition": "original",
+      "id": "00de4b35-3586-4736-b0c6-2e2d8968ffd7",
+      "label": "RCA, BMG",
+      "release_date": "1992-06-23",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1992,
+      "title": "The King of Rock 'n' Roll: The Complete 50's Masters"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:07.643919+00:00",
+      "edition": "original",
+      "id": "5be0dc96-c39e-4701-b7ba-1e2b9d5cd639",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1980,
+      "title": "Elvis Aron Presley (1980)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:04.345162+00:00",
+      "edition": "original",
+      "id": "2cbd86a8-42fd-454c-a6c0-ed2fce1ce5f6",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1980,
+      "title": "Elvis Aron Presley"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:55:01.112814+00:00",
+      "edition": "original",
+      "id": "4ae7192d-3c73-4ce3-9a85-5f7763b88574",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1977,
+      "title": "Welcome to My World (1977)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:57.987166+00:00",
+      "edition": "original",
+      "id": "660ff1c7-4e7b-4e52-8bab-098e3456e817",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1977,
+      "title": "Welcome to My World"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:54.848738+00:00",
+      "edition": "original",
+      "id": "664bd62f-fa7e-49be-bbe8-95bc03410ff3",
+      "label": "RCA Victor",
+      "release_date": "1976-03-22",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1976,
+      "title": "The Sun Sessions (1976)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:51.727064+00:00",
+      "edition": "original",
+      "id": "023a5409-2423-4c17-a179-bfc91578b7d5",
+      "label": "RCA Victor",
+      "release_date": "1976-03-22",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1976,
+      "title": "The Sun Sessions"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:48.515715+00:00",
+      "edition": "original",
+      "id": "0c106c09-8184-4633-bf6b-58966e53b08e",
+      "label": "RCA",
+      "release_date": "1976-01-08",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1976,
+      "title": "Elvis: A Legendary Performer Volume 2 (1976)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:45.382524+00:00",
+      "edition": "original",
+      "id": "53548b82-2a7a-4fd3-970b-270297207d47",
+      "label": "RCA",
+      "release_date": "1976-01-08",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1976,
+      "title": "Elvis: A Legendary Performer Volume 2"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:42.306824+00:00",
+      "edition": "original",
+      "id": "2ddcbd9b-1e49-435e-a696-8aa9c3fd084b",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1975,
+      "title": "Pure Gold (1975)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:39.185182+00:00",
+      "edition": "original",
+      "id": "9223373f-b829-41b3-a2a9-d4241400c24e",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1975,
+      "title": "Pure Gold"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:36.18846+00:00",
+      "edition": "original",
+      "id": "abfb3575-4327-4346-b24b-b145824cdd64",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1973,
+      "title": "Elvis: A Legendary Performer Volume 1 (1973)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:33.023834+00:00",
+      "edition": "original",
+      "id": "69bf226e-1a96-4fe5-b71a-7a10ca525aff",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1973,
+      "title": "Elvis: A Legendary Performer Volume 1"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:29.760377+00:00",
+      "edition": "original",
+      "id": "c8f01c4b-2931-495b-b9f0-061e29b28357",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1971,
+      "title": "The Other Sides – Elvis Worldwide Gold Award Hits Vol. 2 (1971)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:26.590307+00:00",
+      "edition": "original",
+      "id": "afa910a7-a42c-42c8-a1fc-c82326ad1cd5",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1971,
+      "title": "The Other Sides – Elvis Worldwide Gold Award Hits Vol. 2"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:23.458171+00:00",
+      "edition": "original",
+      "id": "09d4e768-30e5-4c84-bbd6-a5daeaa70d78",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1970,
+      "title": "Worldwide 50 Gold Award Hits Vol. 1 (1970)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:54:20.286849+00:00",
+      "edition": "original",
+      "id": "fff826e4-4f15-4827-910f-92ad5737e713",
+      "label": "RCA",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1970,
+      "title": "Worldwide 50 Gold Award Hits Vol. 1"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:53:38.741713+00:00",
+      "edition": "original",
+      "id": "9d65d9c6-3078-4325-8b42-8a346012b210",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1974,
+      "title": "Having Fun with Elvis on Stage (1974)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:53:35.646115+00:00",
+      "edition": "original",
+      "id": "b845c792-2cec-447d-81ee-9e60f942dc25",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1974,
+      "title": "Having Fun with Elvis on Stage"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:53:00.564924+00:00",
+      "edition": "original",
+      "id": "dce83d64-d8f5-4fa9-9306-11d9668b5399",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1970,
+      "title": "Elvis in Person at the International Hotel, Las Vegas, Nevada (1970)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:52:57.486452+00:00",
+      "edition": "original",
+      "id": "ad208981-7d03-4c73-a825-9c942a78e7c2",
+      "label": "RCA Victor",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1970,
+      "title": "Elvis in Person at the International Hotel, Las Vegas, Nevada"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:48:11.415652+00:00",
+      "edition": "original",
+      "id": "95cc4468-3bd5-4913-a393-0ccccd5e8027",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Call on Me (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:48:08.200697+00:00",
+      "edition": "original",
+      "id": "930b861c-5415-4b7c-98b5-acbb41eaaa1a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Call on Me"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:48:04.803601+00:00",
+      "edition": "original",
+      "id": "1a08bb78-7e3f-40c8-b79b-acbab0686240",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Lonely Lovers (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:48:01.381393+00:00",
+      "edition": "original",
+      "id": "d0fd196e-bc7e-4257-a171-f15b286df3aa",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Lonely Lovers"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:58.04241+00:00",
+      "edition": "original",
+      "id": "2e66a6c4-8466-46c0-8bd5-e4eb454bac14",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "For My Hand (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:54.639017+00:00",
+      "edition": "original",
+      "id": "2ea0dc1f-5f29-4fe2-b101-2a5bbece0dd3",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "For My Hand"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:51.095332+00:00",
+      "edition": "original",
+      "id": "98a4fd2d-1262-4adf-b343-fe10d6d22790",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Brace It (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:47.770777+00:00",
+      "edition": "original",
+      "id": "cb65ae22-02f8-421e-af5d-8fd11be78c6d",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Brace It"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:44.554606+00:00",
+      "edition": "original",
+      "id": "94c62915-2af1-45ba-8a65-36e899aa36ba",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Bam Bam (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:41.395935+00:00",
+      "edition": "original",
+      "id": "21d7cb68-fe3c-448d-9be7-93397701ad95",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Bam Bam"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:10.048056+00:00",
+      "edition": "original",
+      "id": "b7c308d6-1c42-41db-b3aa-1d8c4f7190c9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2017,
+      "title": "Boa Me (2017)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:06.772707+00:00",
+      "edition": "original",
+      "id": "940abf7b-da40-442c-8572-65c6c7fb22c2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2017,
+      "title": "Boa Me"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:47:03.388733+00:00",
+      "edition": "original",
+      "id": "9e18abfe-da77-465a-9614-90e49eea101e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2015,
+      "title": "Reuf (2015)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:59.954792+00:00",
+      "edition": "original",
+      "id": "b89c5a6e-7e9f-448f-b4c9-342ca25ae3b4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2015,
+      "title": "Reuf"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:49.831474+00:00",
+      "edition": "original",
+      "id": "393e891e-55a6-4b84-8cf9-e4b8ab576e84",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "All About It (2014)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:46.796027+00:00",
+      "edition": "original",
+      "id": "3796f269-00c7-4580-80a6-923abb56019b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "All About It"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:29.898913+00:00",
+      "edition": "original",
+      "id": "899cb12d-af4a-4e33-a554-627832f381c4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2013,
+      "title": "All Falls Down (2013)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:26.647956+00:00",
+      "edition": "original",
+      "id": "bd74600c-c62f-4ca6-8ca9-800b01f2f671",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2013,
+      "title": "All Falls Down"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:23.220762+00:00",
+      "edition": "original",
+      "id": "e3124668-d752-4a02-9562-e5eeea2bc4b5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Wish You Were Here (2012)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:20.166018+00:00",
+      "edition": "original",
+      "id": "b0310137-52b7-442f-b209-543fbd080c69",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Wish You Were Here"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:17.084967+00:00",
+      "edition": "original",
+      "id": "db88d2bd-721a-44fe-a5cc-4f981e7d9948",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Watchtower (2012)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:14.014603+00:00",
+      "edition": "original",
+      "id": "5469e373-e1e8-46e8-84fb-c9b19d595132",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Watchtower"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:10.957697+00:00",
+      "edition": "original",
+      "id": "06e74c15-74bc-4be4-89e0-45f11525b02e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Dreamers (2012)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:07.849042+00:00",
+      "edition": "original",
+      "id": "9728ff45-1178-4e64-a3a7-da34995f426a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Dreamers"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:04.707366+00:00",
+      "edition": "original",
+      "id": "cc60fac9-adb6-4bb9-911e-b6b49a9a7525",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Hush Little Baby (2012)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:46:01.235296+00:00",
+      "edition": "original",
+      "id": "f917b337-54fa-4c9a-8e45-878be54b4482",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2012,
+      "title": "Hush Little Baby"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:58.125382+00:00",
+      "edition": "original",
+      "id": "131abf9a-75df-48bc-b1e5-cc0ec9c0c689",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2011,
+      "title": "Teardrop (2011)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:54.876625+00:00",
+      "edition": "original",
+      "id": "093c78eb-6123-40f6-90ea-c0a7d43a60e0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2011,
+      "title": "Teardrop"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:51.751774+00:00",
+      "edition": "original",
+      "id": "cf704ba8-9ec8-44fc-b3b2-5f1980c931e0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2011,
+      "title": "Young Guns (2011)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:48.527386+00:00",
+      "edition": "original",
+      "id": "48f90db6-10cd-41a9-8123-a190ce9a9ed2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2011,
+      "title": "Young Guns"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:45.23038+00:00",
+      "edition": "original",
+      "id": "85b75fab-fbc5-4215-a0a0-efb8398135a2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2011,
+      "title": "If I Could (2011)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:41.550013+00:00",
+      "edition": "original",
+      "id": "85781519-ebf1-4ad9-ac15-b7df84270985",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2011,
+      "title": "If I Could"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:38.111644+00:00",
+      "edition": "original",
+      "id": "19c41a50-cfd1-4ab0-bc13-8ee7ec9b5822",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2010,
+      "title": "Raise 'Em Up (2010)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:34.957233+00:00",
+      "edition": "original",
+      "id": "59131490-a531-4e0f-8230-241a8b308182",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2010,
+      "title": "Raise 'Em Up"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:31.690375+00:00",
+      "edition": "original",
+      "id": "9b26b416-c583-4561-8587-c09dfec27126",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "Visiting Hours (2021)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:28.466904+00:00",
+      "edition": "original",
+      "id": "dd7f3b2e-c712-4d21-a918-6107c41b0fef",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "Visiting Hours"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:25.31247+00:00",
+      "edition": "original",
+      "id": "e68f7ea6-53d1-4c0e-a4d5-a6cfd664ac31",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "Supermarket Flowers (2018)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:22.146148+00:00",
+      "edition": "original",
+      "id": "039e2b70-76e3-4b2c-9e15-03555861bda0",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2018,
+      "title": "Supermarket Flowers"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:18.848809+00:00",
+      "edition": "original",
+      "id": "ffd3b06b-17b8-45b9-a47a-28d886583316",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2017,
+      "title": "How Would You Feel (Paean) (2017)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:15.727271+00:00",
+      "edition": "original",
+      "id": "3029af38-fea0-47fd-b59d-b8ecf212877a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2017,
+      "title": "How Would You Feel (Paean)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:12.432711+00:00",
+      "edition": "original",
+      "id": "232d2c32-b374-4eb7-9b5c-2c00977eb309",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "The Man (2014)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:09.339055+00:00",
+      "edition": "original",
+      "id": "b5d06495-c4a9-4575-83e3-648d280913ca",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "The Man"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:06.149854+00:00",
+      "edition": "original",
+      "id": "6d41fe5f-a7bd-40d7-9726-5f41ed1d30ef",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "Afire Love (2014)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:45:02.947287+00:00",
+      "edition": "original",
+      "id": "98483683-3e8f-49ef-b552-24c5089baff5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "Afire Love"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:59.882279+00:00",
+      "edition": "original",
+      "id": "a04ae882-541b-483e-ae94-1a8b188a7334",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "One (2014)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:56.758763+00:00",
+      "edition": "original",
+      "id": "468c5b6f-758c-4128-889e-2fb279976760",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "One"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:53.660789+00:00",
+      "edition": "original",
+      "id": "a7f01243-2b04-4303-80bc-27f50f313268",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "All of the Stars (2014)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:49.237823+00:00",
+      "edition": "original",
+      "id": "2ec10f90-b304-4353-9b26-60529bae8ca7",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "All of the Stars"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:45.835174+00:00",
+      "edition": "original",
+      "id": "66280753-9fd6-4a20-8a0c-110b3bc53614",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Repeat It (2026)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:42.72308+00:00",
+      "edition": "original",
+      "id": "af184665-1b69-4d96-a55e-c76e0eb27871",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "Repeat It"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:38.923085+00:00",
+      "edition": "original",
+      "id": "85185df9-4b90-442e-bf82-f2f4e8f9b503",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Under the Tree (2024)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:35.689427+00:00",
+      "edition": "original",
+      "id": "40c2ae3e-30d5-4554-ae68-4be0b3a116cf",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Under the Tree"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:31.899187+00:00",
+      "edition": "original",
+      "id": "94b888e0-40f5-42db-b731-1df4fd297c95",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "The Great British Bar Off (2023)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:28.322572+00:00",
+      "edition": "original",
+      "id": "2cf661cf-0a23-4c43-adf1-d8844f11d447",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "The Great British Bar Off"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:25.116414+00:00",
+      "edition": "original",
+      "id": "96644a62-5f27-4d34-a659-b5a2c1965276",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "American Town (2023)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:21.749031+00:00",
+      "edition": "original",
+      "id": "2645f698-3fc6-45ac-8681-e2e139117346",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "American Town"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:18.380029+00:00",
+      "edition": "original",
+      "id": "5605ada4-c772-4450-a9fd-3115d90e606f",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "A Beautiful Game (2023)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:15.160693+00:00",
+      "edition": "original",
+      "id": "da7a8130-ce6d-4cd1-83d2-0b9a64b9cc54",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "A Beautiful Game"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:12.124612+00:00",
+      "edition": "original",
+      "id": "18bf7d72-ce3b-4fa0-9a6d-3b5e0c597919",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "F64 (2023)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:08.79288+00:00",
+      "edition": "original",
+      "id": "820de609-8f2f-4ee3-980a-22d0ae9793f5",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2023,
+      "title": "F64"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:05.643783+00:00",
+      "edition": "original",
+      "id": "cb8e23bf-a0de-421a-9bf4-32d80023ed97",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Groundwork (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:44:02.451151+00:00",
+      "edition": "original",
+      "id": "4b467d80-58a1-49f3-b290-14018dbffe8e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Groundwork"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:59.308086+00:00",
+      "edition": "original",
+      "id": "421206ed-0fc4-450d-bb50-badd79cf88fb",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "My G (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:55.947057+00:00",
+      "edition": "original",
+      "id": "a84b30b5-f7fd-4d7a-ae18-61c52a44d563",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "My G"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:52.778067+00:00",
+      "edition": "original",
+      "id": "5bf44235-18f8-4cb8-9ff0-6eee55e12a7b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Noche de Novela (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:49.446485+00:00",
+      "edition": "original",
+      "id": "60a3a573-354e-4c4f-931b-5b96bfcc438f",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Noche de Novela"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:46.228786+00:00",
+      "edition": "original",
+      "id": "a4054fb9-4d9c-48ae-9663-af3e69d33506",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Are You Entertained (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:43.016561+00:00",
+      "edition": "original",
+      "id": "e28f577c-973f-43c7-adb1-c21fd6d5ef7a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Are You Entertained"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:39.632428+00:00",
+      "edition": "original",
+      "id": "3f4f82c5-2e43-4481-8a13-f033a982c6ad",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Forever My Love (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:36.434036+00:00",
+      "edition": "original",
+      "id": "ba8dda22-95fd-40a7-be94-6172ca59abd4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Forever My Love"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:33.412839+00:00",
+      "edition": "original",
+      "id": "7f5c37d8-cd83-4127-8318-f3a09c4bb34b",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Sigue (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:30.344828+00:00",
+      "edition": "original",
+      "id": "a7641d91-208b-4ba3-a351-b71c88a89102",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Sigue"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:16.396716+00:00",
+      "edition": "original",
+      "id": "19177521-f3af-421f-b356-b4041456ebfe",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "Life's Good (2021)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:43:13.077703+00:00",
+      "edition": "original",
+      "id": "a85a33ab-9b15-40e4-abe6-42a2eec32fbc",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "Life's Good"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:42:44.970185+00:00",
+      "edition": "original",
+      "id": "3bb04faa-56eb-49b6-8bcb-ae874b8a2b66",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "L.U.V. (2014)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:42:41.937839+00:00",
+      "edition": "original",
+      "id": "6cf7a45e-8905-47a8-8f91-e6d973920ff9",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2014,
+      "title": "L.U.V."
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:42:38.822098+00:00",
+      "edition": "original",
+      "id": "c3762ae7-71a1-4378-8d01-09daa08dc12c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2011,
+      "title": "Break Again (with Emily Luther) (2011)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:42:35.668254+00:00",
+      "edition": "original",
+      "id": "ef88e8ad-bfcb-4a7e-99cf-d381f8d160df",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2011,
+      "title": "Break Again (with Emily Luther)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:41:41.721581+00:00",
+      "edition": "original",
+      "id": "9c54cac7-7a22-4c3e-85c9-ec89e4fca1c5",
+      "label": "Atlantic",
+      "release_date": "2022-10-07",
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Loser (2022)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:41:38.279055+00:00",
+      "edition": "original",
+      "id": "bba9fe17-ed6d-453f-9d6a-e7d608c178c1",
+      "label": "Atlantic",
+      "release_date": "2022-10-07",
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Loser"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:37:12.714801+00:00",
+      "edition": "original",
+      "id": "f2eddf93-5c12-4fb3-80a6-650714ed11cc",
+      "label": "Independent",
+      "release_date": "2010-12-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2010,
+      "title": "The Otto Tunes (2010)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:37:11.40973+00:00",
+      "edition": "original",
+      "id": "5928b7ed-3e84-4df7-9049-6703fad592a3",
+      "label": "Atlantic",
+      "release_date": "2017-06-07",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Spotify Singles (2017)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Charlie Puth",
+        "id": "4f42c33d-c27f-4bb8-b633-9737e7783e11"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:37:09.474972+00:00",
+      "edition": "original",
+      "id": "de781cbb-7389-407a-9aa0-37592c8fe1c1",
+      "label": "Independent",
+      "release_date": "2010-12-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2010,
+      "title": "The Otto Tunes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:37:08.195186+00:00",
+      "edition": "original",
+      "id": "ca9e6579-3dc0-4e3e-9a8f-0266a3798407",
+      "label": "Atlantic",
+      "release_date": "2017-06-07",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Spotify Singles"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:37:05.151998+00:00",
+      "edition": "original",
+      "id": "5be0a8b1-cbdd-4583-bc22-8fdf0de4a029",
+      "label": "Atlantic",
+      "release_date": "2014-08-18",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2014,
+      "title": "Deezer Session (2014)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:37:01.819987+00:00",
+      "edition": "original",
+      "id": "2d5c3e77-437f-4828-bd35-607b1a344132",
+      "label": "Atlantic",
+      "release_date": "2014-08-18",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2014,
+      "title": "Deezer Session"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:58.722625+00:00",
+      "edition": "original",
+      "id": "f4ba9bf2-7b0e-4174-a30c-5f3c5942c6ad",
+      "label": "Atlantic",
+      "release_date": "2014-08-11",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2014,
+      "title": "Live and in Session (2014)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:55.650405+00:00",
+      "edition": "original",
+      "id": "0fd601e2-c3ba-4ead-83cf-182321c78f76",
+      "label": "Atlantic",
+      "release_date": "2014-08-11",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2014,
+      "title": "Live and in Session"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:52.580915+00:00",
+      "edition": "original",
+      "id": "fe5a7956-5e09-45d9-b002-8ede39f95c0b",
+      "label": "Atlantic",
+      "release_date": "2012-09-15",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "iTunes Festival: London 2012 (2012)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:49.569656+00:00",
+      "edition": "original",
+      "id": "61be0993-4479-4519-b0e6-ef3916c6f4e7",
+      "label": "Atlantic",
+      "release_date": "2012-09-15",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2012,
+      "title": "iTunes Festival: London 2012"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:40.427909+00:00",
+      "edition": "original",
+      "id": "5b8b9552-8358-49cf-a4a0-95ef4c7452f8",
+      "label": "Atlantic",
+      "release_date": "2011-09-18",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "Thank You (2011)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:37.252006+00:00",
+      "edition": "original",
+      "id": "4e3f9118-e099-438f-959d-3805c867275a",
+      "label": "Atlantic",
+      "release_date": "2011-09-18",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "Thank You"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:34.144876+00:00",
+      "edition": "original",
+      "id": "d41f54d2-3db6-4b08-809f-c642f0aa383d",
+      "label": "Atlantic",
+      "release_date": "2011-07-11",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "iTunes Festival: London 2011 (2011)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:30.989626+00:00",
+      "edition": "original",
+      "id": "59f2083d-27b6-40b9-b968-82cc0625822f",
+      "label": "Atlantic",
+      "release_date": "2011-07-11",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "iTunes Festival: London 2011"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:27.736677+00:00",
+      "edition": "original",
+      "id": "52b306e7-8b26-450e-a848-8bf2353185ec",
+      "label": "Atlantic",
+      "release_date": "2011-04-07",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "One Take (2011)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:24.331189+00:00",
+      "edition": "original",
+      "id": "b7e70041-7422-4db2-ac31-a98eab8ce510",
+      "label": "Atlantic",
+      "release_date": "2011-04-07",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "One Take"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:15.089548+00:00",
+      "edition": "original",
+      "id": "af6e7d88-8fda-4f76-87e0-d8bd408401b8",
+      "label": "Elektra",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "Spotify Session (2011)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:12.049616+00:00",
+      "edition": "original",
+      "id": "a7c8e07b-2ca3-4890-8518-bd8088d6e188",
+      "label": "Elektra",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2011,
+      "title": "Spotify Session"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:08.590735+00:00",
+      "edition": "original",
+      "id": "c2d554cb-f7eb-4ccc-a340-b162fec2146d",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2010,
+      "title": "Live at the Bedford (2010)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:05.374983+00:00",
+      "edition": "original",
+      "id": "6aeb9da2-a7f4-4c9d-b3e1-b11d3c9a6547",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2010,
+      "title": "Live at the Bedford"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:36:02.266055+00:00",
+      "edition": "original",
+      "id": "5e10268a-e079-4767-9aec-eb1452fc1705",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2010,
+      "title": "Songs I Wrote with Amy (2010)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:58.988879+00:00",
+      "edition": "original",
+      "id": "1d30a558-b028-4cfd-b7ae-2ba54540dad4",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2010,
+      "title": "Songs I Wrote with Amy"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:42.877967+00:00",
+      "edition": "original",
+      "id": "4a0e6b32-2e3f-41ef-be4b-7394834647ed",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": "2007-06-29",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "Want Some? (2007)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:39.671163+00:00",
+      "edition": "original",
+      "id": "bbf75455-fe5c-463f-b61f-c119a97befb5",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": "2007-06-29",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2007,
+      "title": "Want Some?"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:37.656439+00:00",
+      "edition": "original",
+      "id": "0a6227a3-2131-4054-a847-0b9bd6e42232",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Remember Me (2024)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:36.554009+00:00",
+      "edition": "original",
+      "id": "f1b2ac11-d4ff-4fc6-9ba6-981b1e848f27",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": "2006-03-22",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "Ed Sheeran (2006)"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:34.479804+00:00",
+      "edition": "original",
+      "id": "3479c2be-e14f-4602-a6ed-e051f4c4b6bb",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Remember Me"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:33.204237+00:00",
+      "edition": "original",
+      "id": "6de5a0ff-bc31-4cf3-8816-7eb2c5a62971",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": "2006-03-22",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2006,
+      "title": "Ed Sheeran"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:30.0581+00:00",
+      "edition": "original",
+      "id": "834e41a7-1a97-49c4-bd90-eae28a5e2108",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": "2005-01-01",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2005,
+      "title": "The Orange Room (2005)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:26.732595+00:00",
+      "edition": "original",
+      "id": "5b947ec7-8913-4fae-9d51-3b8a0cc558f2",
+      "label": "Sheeran Lock (self-released)",
+      "release_date": "2005-01-01",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2005,
+      "title": "The Orange Room"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:23.583525+00:00",
+      "edition": "deluxe",
+      "id": "e0a2382a-8d57-487e-ac78-03fb4f112158",
+      "label": "Asylum / Atlantic",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "= (Tour Edition) (2021)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:20.400883+00:00",
+      "edition": "deluxe",
+      "id": "81b32212-5aca-4784-a0bf-f9efbea12039",
+      "label": "Asylum / Atlantic",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2021,
+      "title": "= (Tour Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:17.237926+00:00",
+      "edition": "reissue",
+      "id": "f3fb0b67-1946-4d35-8263-af0179b2f74a",
+      "label": "Asylum / Atlantic",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "× (Wembley Edition) (2015)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:13.970167+00:00",
+      "edition": "reissue",
+      "id": "9b48640a-f038-46f7-a8fe-35c72b334667",
+      "label": "Asylum / Atlantic",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "× (Wembley Edition)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Ed Sheeran",
+        "id": "3041e74e-4543-430c-add6-fb8d4e4dd085"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:35:06.40292+00:00",
+      "edition": "deluxe",
+      "id": "7b5d5acd-e46a-4164-ba13-e5aaaf387bd0",
+      "label": "Gingerbread Man / Atlantic",
+      "release_date": "2025-09-12",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Play (Deluxe)"
+    },
+    {
+      "artists": {
         "canonical_name": "Clairo",
         "id": "3da01955-1d3d-4a19-93ff-542c3696f675"
       },
@@ -4187,7 +7145,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2023,
-      "title": "Feather - Single"
+      "title": "Feather"
     },
     {
       "artists": {
@@ -4221,7 +7179,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "Nonsense - Single"
+      "title": "Nonsense"
     },
     {
       "artists": {
@@ -4238,7 +7196,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "Because I Liked a Boy - Single"
+      "title": "Because I Liked a Boy"
     },
     {
       "artists": {
@@ -4255,7 +7213,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "Vicious - Single"
+      "title": "Vicious"
     },
     {
       "artists": {
@@ -4289,7 +7247,7 @@
       "release_status": null,
       "release_type": "single",
       "release_year": 2022,
-      "title": "Fast Times - Single"
+      "title": "Fast Times"
     },
     {
       "artists": {
@@ -4375,23 +7333,6 @@
       "release_type": "album",
       "release_year": 2022,
       "title": "This Is What Falling in Love Feels Like (554 Hz)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-16T04:04:17.283742+00:00",
-      "edition": "original",
-      "id": "ef8e6705-e5ef-4bfc-8dbd-84cad7d47f97",
-      "label": "Hollywood",
-      "release_date": null,
-      "release_status": null,
-      "release_type": "single",
-      "release_year": 2015,
-      "title": "Eyes Wide Open - Single"
     },
     {
       "artists": {

@@ -1,0 +1,42 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:04.39213+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Endless",
+    "track_count": 18,
+    "tracklist": [
+      "Device Control",
+      "At Your Best (You Are Love)",
+      "Alabama",
+      "Mine",
+      "U-N-I-T-Y",
+      "Ambience 001: In a Certain Way",
+      "Commes Des Garcons",
+      "Ambience 002: Honeybaby",
+      "Wither",
+      "Hublots",
+      "In Here Somewhere",
+      "Slide on Me",
+      "Sideways",
+      "Florida",
+      "Deathwish (ASR)",
+      "Rushes",
+      "Rushes To",
+      "Higgs"
+    ]
+  },
+  "entity_id": "3b813c37-6dcd-435b-a922-a5e29a0eab86",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "ae6bc148-a588-46fe-88ea-fbd411b55f55",
+  "input": {
+    "artist": "Frank Ocean",
+    "title": "Endless",
+    "track_count": 18
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (18 tracks) per https://www.nme.com/news/music/frank-ocean-29-1192834, https://www.xxlmag.com/frank-ocean-remastered-endless-album/. Visual album, released August 19, 2016 via Apple Music. 18 tracks in the standard edition confirmed across NME, XXL, Hypebeast, Music Feeds, and ET Online. 'At Your Best (You Are Love)' is an Isley Brothers cover. The 2017 physical reissue adds 'Mitsubishi Sony' and 'Device Control (Reprise)' as bonus tracks 19-20, but the standard edition is these 18.",
+  "status": "verified"
+}

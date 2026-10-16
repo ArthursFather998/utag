@@ -1,0 +1,34 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:23.434939+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live at Third Man Records",
+    "track_count": 10,
+    "tracklist": [
+      "All the Good Girls Go to Hell",
+      "Ocean Eyes",
+      "Bad Guy",
+      "Idontwannabeyouanymore",
+      "Bury a Friend",
+      "Come Out and Play",
+      "Copycat",
+      "I Love You",
+      "Bellyache",
+      "When the Party's Over"
+    ]
+  },
+  "entity_id": "349a2987-2383-4142-b623-290e294f550e",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "0ed46e06-9072-4fc7-95c1-d2daeb839753",
+  "input": {
+    "artist": "Billie Eilish",
+    "title": "Live at Third Man Records",
+    "track_count": 10
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (10 tracks) per https://en.wikipedia.org/wiki/Live_at_Third_Man_Records_(Billie_Eilish_album), https://www.discogs.com/release/14493214-Billie-Eilish-Live-At-Third-Man-Records. Acoustic live set recorded direct-to-acetate at Third Man Records' Blue Room, Nashville, November 6, 2019. Released Dec 6, 2019; wider RSD 2020 repress. 'Copycat' stylized as 'COPYCAT' on vinyl pressings.",
+  "status": "verified"
+}

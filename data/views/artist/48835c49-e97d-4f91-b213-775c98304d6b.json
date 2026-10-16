@@ -56,6 +56,23 @@
         "canonical_name": "Sam Smith",
         "id": "48835c49-e97d-4f91-b213-775c98304d6b"
       },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-16T04:07:10.301964+00:00",
+      "edition": "original",
+      "id": "60f6685c-10c2-4fe1-ac5a-d5eee8ac0f6e",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2013,
+      "title": "Lay Me Down"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
       "artwork": [
         {
           "id": "b7d99dac-71d4-4cb2-bba1-f2987470344e",
@@ -74,23 +91,6 @@
       "release_type": "album",
       "release_year": 2013,
       "title": "Nirvana - EP"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sam Smith",
-        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-16T04:07:10.301964+00:00",
-      "edition": "original",
-      "id": "60f6685c-10c2-4fe1-ac5a-d5eee8ac0f6e",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "single",
-      "release_year": 2013,
-      "title": "Lay Me Down"
     },
     {
       "artists": {
@@ -216,6 +216,23 @@
         "canonical_name": "Sam Smith",
         "id": "48835c49-e97d-4f91-b213-775c98304d6b"
       },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T04:05:57.455235+00:00",
+      "edition": "deluxe",
+      "id": "4a6bf6ce-fcc4-4062-9a42-849466f74055",
+      "label": "Capitol",
+      "release_date": "2015-11-06",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "In the Lonely Hour: Drowning Shadows Edition"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
       "artwork": [
         {
           "id": "5ded328b-be8f-4752-a1d4-b87a4dbef7ad",
@@ -251,23 +268,6 @@
       "release_type": "album",
       "release_year": 2015,
       "title": "Hit Mania Spring 2015"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sam Smith",
-        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:05:57.455235+00:00",
-      "edition": "deluxe",
-      "id": "4a6bf6ce-fcc4-4062-9a42-849466f74055",
-      "label": "Capitol",
-      "release_date": "2015-11-06",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2015,
-      "title": "In the Lonely Hour: Drowning Shadows Edition"
     },
     {
       "artists": {
@@ -1194,23 +1194,6 @@
       },
       "artwork": [],
       "confidence": "needs_review",
-      "created_at": "2026-10-14T06:53:43.021746+00:00",
-      "edition": "original",
-      "id": "6735ac63-0082-4c31-883c-6ebf09dc23db",
-      "label": null,
-      "release_date": "2026-08-21",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2026,
-      "title": "Hazel Eyes"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sam Smith",
-        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
       "created_at": "2026-10-16T04:09:21.704614+00:00",
       "edition": "original",
       "id": "3996182a-4cc4-4516-8848-eea2d88e39c1",
@@ -1237,6 +1220,23 @@
       "release_type": "single",
       "release_year": 2026,
       "title": "Oh Mother"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:53:43.021746+00:00",
+      "edition": "original",
+      "id": "6735ac63-0082-4c31-883c-6ebf09dc23db",
+      "label": null,
+      "release_date": "2026-08-21",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Hazel Eyes"
     },
     {
       "artists": {

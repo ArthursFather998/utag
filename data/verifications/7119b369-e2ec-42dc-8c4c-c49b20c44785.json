@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:49.745897+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My House Is Not a Home (2024)",
+    "track_number": 1
+  },
+  "entity_id": "3ffaab87-d917-498f-9d27-60101bea8174",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7119b369-e2ec-42dc-8c4c-c49b20c44785",
+  "input": {
+    "artist": "d4vd",
+    "release": "My House Is Not a Home (2024)",
+    "title": "My House Is Not a Home (2024)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My House Is Not a Home (2024)'.",
+  "status": "verified"
+}

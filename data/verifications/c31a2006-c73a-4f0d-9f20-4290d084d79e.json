@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:54.166404+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Superclean Vol. I",
+    "track_count": 6,
+    "tracklist": [
+      "I Don't Know You",
+      "Basta Ya",
+      "I Like It",
+      "Only in My Dreams",
+      "Superclean",
+      "Déjate Llevar"
+    ]
+  },
+  "entity_id": "ef01268c-2360-45a7-8a41-342b53410fba",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "c31a2006-c73a-4f0d-9f20-4290d084d79e",
+  "input": {
+    "artist": "The Marías",
+    "title": "Superclean Vol. I",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://www.youtube.com/watch?v=yLVqaDlJPg8, https://www.discogs.com/master/1479200-The-Mar%C3%ADas-Superclean-Vol-I. Debut EP, released 2017. 6-track order confirmed by the band's official YouTube listening party, Discogs, and multiple retailers. All sources agree on identical order.",
+  "status": "verified"
+}

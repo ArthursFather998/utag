@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:50.948395+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "NDA (2021)",
+    "track_number": 1
+  },
+  "entity_id": "0915050f-8080-4352-a190-2ad847924ca7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "bbd60f9a-e6d6-4b89-a8b3-daaa045d2d42",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "NDA (2021)",
+    "title": "NDA (2021)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'NDA (2021)'.",
+  "status": "verified"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:14.242836+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ilomilo",
+    "track_number": 1
+  },
+  "entity_id": "0ba55c9a-9f3d-4504-9dca-db6e92f57cfe",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "c09f456d-41c0-4826-b45e-b15ba3f20791",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Ilomilo",
+    "title": "Ilomilo"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ilomilo'.",
+  "status": "verified"
+}

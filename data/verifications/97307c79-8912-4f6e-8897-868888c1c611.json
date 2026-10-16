@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:11.529809+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Is This Really Love? - A COLORS SHOW (2025)",
+    "track_number": 1
+  },
+  "entity_id": "838288ed-82cc-47d8-b433-ab7884c251d2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "97307c79-8912-4f6e-8897-868888c1c611",
+  "input": {
+    "artist": "d4vd",
+    "release": "Is This Really Love? - A COLORS SHOW (2025)",
+    "title": "Is This Really Love? - A COLORS SHOW (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Is This Really Love? - A COLORS SHOW (2025)'.",
+  "status": "verified"
+}

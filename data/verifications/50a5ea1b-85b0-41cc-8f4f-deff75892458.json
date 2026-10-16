@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:15.556887+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Remember Me",
+    "track_number": 1
+  },
+  "entity_id": "f724882e-2aee-44b8-8833-68a2df7982e0",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "50a5ea1b-85b0-41cc-8f4f-deff75892458",
+  "input": {
+    "artist": "d4vd",
+    "release": "Remember Me",
+    "title": "Remember Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Remember Me'.",
+  "status": "verified"
+}

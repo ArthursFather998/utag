@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:38.832429+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "&Burn (with Vince Staples)",
+    "track_number": 1
+  },
+  "entity_id": "33c92908-3f0a-43ea-9453-be23178260f5",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "44f3ce4e-cfc6-497a-835c-87c72d05ee61",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "&Burn (with Vince Staples)",
+    "title": "&Burn (with Vince Staples)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '&Burn (with Vince Staples)'.",
+  "status": "verified"
+}

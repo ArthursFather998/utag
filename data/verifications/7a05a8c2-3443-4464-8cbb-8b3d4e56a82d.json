@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:24.328157+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Party Favor (2018)",
+    "track_number": 1
+  },
+  "entity_id": "a970622b-3860-4775-94cf-f555432583a1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a05a8c2-3443-4464-8cbb-8b3d4e56a82d",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Party Favor (2018)",
+    "title": "Party Favor (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Party Favor (2018)'.",
+  "status": "verified"
+}

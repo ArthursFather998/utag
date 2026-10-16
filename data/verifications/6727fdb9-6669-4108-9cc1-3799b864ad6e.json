@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:23.46141+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Chihiro",
+    "track_number": 1
+  },
+  "entity_id": "50954bc9-b7b8-410d-b0db-88fd1f833e53",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6727fdb9-6669-4108-9cc1-3799b864ad6e",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Chihiro",
+    "title": "Chihiro"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Chihiro'.",
+  "status": "verified"
+}

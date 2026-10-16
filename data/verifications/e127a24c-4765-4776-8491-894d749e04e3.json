@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:42.378396+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "My Boy (2017)",
+    "track_number": 1
+  },
+  "entity_id": "5404707c-6530-423c-b597-bd1aac547bdc",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "e127a24c-4765-4776-8491-894d749e04e3",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "My Boy (2017)",
+    "title": "My Boy (2017)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'My Boy (2017)'.",
+  "status": "verified"
+}

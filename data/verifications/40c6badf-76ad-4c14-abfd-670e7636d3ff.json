@@ -1,0 +1,26 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:56:26.242682+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spotify Singles",
+    "track_count": 2,
+    "tracklist": [
+      "Two Ghosts",
+      "Girl Crush"
+    ]
+  },
+  "entity_id": "839924bd-e092-4f02-bc3e-e1efdf83b374",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "40c6badf-76ad-4c14-abfd-670e7636d3ff",
+  "input": {
+    "artist": "Harry Styles",
+    "title": "Spotify Singles",
+    "track_count": 2
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (2 tracks) per https://en.wikipedia.org/wiki/Harry_Styles_discography, https://www.albumoftheyear.org/album/218021-harry-styles-spotify-singles.php. Two-track EP recorded exclusively for Spotify at Metropolis Studios, London, released 27 September 2017. Consists of a live performance of 'Two Ghosts' and a cover of Little Big Town's 'Girl Crush'.",
+  "status": "verified"
+}

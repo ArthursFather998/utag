@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:55:40.862049+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Apollo XXI",
+    "track_count": 12,
+    "tracklist": [
+      "Only If",
+      "Like Me",
+      "Playground",
+      "Basement Jack",
+      "Guide",
+      "Lay Me Down",
+      "Hate CD",
+      "In Lust We Trust",
+      "Love 2 Fast",
+      "Amandla's Interlude",
+      "N Side",
+      "Outro Freestyle/4ever"
+    ]
+  },
+  "entity_id": "a8589aba-ec88-4278-a785-2e26d6fe48a6",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "e8f5ca23-ad79-4400-86b3-9ec637e0b1d5",
+  "input": {
+    "artist": "Steve Lacy",
+    "title": "Apollo XXI",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com/master/1635498-Steve-Lacy-Apollo-XXI, https://consequence.net/2019/05/steve-lacy-apollo-xxi-album-new-stream/.",
+  "status": "verified"
+}

@@ -27,54 +27,6 @@
         "canonical_name": "Chappell Roan",
         "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
       },
-      "artwork": [
-        {
-          "id": "0fce6fc1-1dd1-4142-b313-8dff65d12f3d",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:37:54.330434+00:00",
-      "edition": "original",
-      "id": "16cfd9ce-a99d-4939-9d3e-c407f01e16bf",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "Good Luck, Babe! - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "Chappell Roan",
-        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
-      },
-      "artwork": [
-        {
-          "id": "b13a8c5e-e143-4c50-8183-ddbbc17bea32",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/c425306a-974c-4ce0-ac82-742c4fa01d1a/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:44:38.284205+00:00",
-      "edition": "original",
-      "id": "2c54318d-754c-401e-9979-e2ba7e2eda4d",
-      "label": null,
-      "release_date": "2023-09-22",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "The Rise and Fall of a Midwest Princess"
-    },
-    {
-      "artists": {
-        "canonical_name": "Chappell Roan",
-        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:11:34.927817+00:00",
@@ -137,6 +89,30 @@
       "release_type": "single",
       "release_year": 2023,
       "title": "Kaleidoscope (2023)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
+      "artwork": [
+        {
+          "id": "0fce6fc1-1dd1-4142-b313-8dff65d12f3d",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:54.330434+00:00",
+      "edition": "original",
+      "id": "16cfd9ce-a99d-4939-9d3e-c407f01e16bf",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2024,
+      "title": "Good Luck, Babe!"
     },
     {
       "artists": {
@@ -245,6 +221,30 @@
         "canonical_name": "Chappell Roan",
         "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
       },
+      "artwork": [
+        {
+          "id": "b13a8c5e-e143-4c50-8183-ddbbc17bea32",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c425306a-974c-4ce0-ac82-742c4fa01d1a/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:44:38.284205+00:00",
+      "edition": "original",
+      "id": "2c54318d-754c-401e-9979-e2ba7e2eda4d",
+      "label": null,
+      "release_date": "2023-09-22",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "The Rise and Fall of a Midwest Princess"
+    },
+    {
+      "artists": {
+        "canonical_name": "Chappell Roan",
+        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:11:38.88495+00:00",
@@ -290,23 +290,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Femininomenon"
-    },
-    {
-      "artists": {
-        "canonical_name": "Chappell Roan",
-        "id": "c58c5255-8800-4097-bb85-09c2cfd685e8"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:10:54.145971+00:00",
-      "edition": "original",
-      "id": "4cfe24d8-511e-4382-af3e-6d7a5c781ab6",
-      "label": "Atlantic",
-      "release_date": "2017-09-22",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2017,
-      "title": "School Nights (2017)"
     },
     {
       "artists": {

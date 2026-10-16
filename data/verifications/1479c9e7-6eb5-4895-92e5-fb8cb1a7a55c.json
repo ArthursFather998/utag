@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:04.594081+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Ocean Eyes",
+    "track_number": 1
+  },
+  "entity_id": "ed2a9b6c-aef1-4ee4-8ba5-5a656eb5aacf",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "1479c9e7-6eb5-4895-92e5-fb8cb1a7a55c",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Ocean Eyes",
+    "title": "Ocean Eyes"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Ocean Eyes'.",
+  "status": "verified"
+}

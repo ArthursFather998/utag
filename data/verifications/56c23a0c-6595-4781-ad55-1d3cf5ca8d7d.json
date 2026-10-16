@@ -1,0 +1,51 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:50.381523+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Live",
+    "track_count": 27,
+    "tracklist": [
+      "Intro",
+      "Chihiro",
+      "Lunch",
+      "NDA / Therefore I Am",
+      "Wildflower",
+      "When the Party's Over",
+      "The Diner",
+      "Ilomilo",
+      "Bad Guy",
+      "The Greatest",
+      "Your Power",
+      "Skinny",
+      "TV",
+      "Bittersuite",
+      "Bury a Friend",
+      "Oxytocin",
+      "Guess",
+      "Everything I Wanted",
+      "Blue",
+      "Lovely",
+      "Idontwannabeyouanymore",
+      "Ocean Eyes",
+      "L'Amour de Ma Vie / Over Now (Extended)",
+      "What Was I Made For?",
+      "Happier Than Ever",
+      "Birds of a Feather",
+      "Blue Outro"
+    ]
+  },
+  "entity_id": "b2488a59-2f32-42e2-88d8-c806bffa6f53",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "56c23a0c-6595-4781-ad55-1d3cf5ca8d7d",
+  "input": {
+    "artist": "Billie Eilish",
+    "title": "Live",
+    "track_count": 27
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (27 tracks) per https://en.wikipedia.org/wiki/Hit_Me_Hard_and_Soft:_The_Tour_(Live), https://www.discogs.com/release/37108080-Billie-Eilish-Hit-Me-Hard-And-Soft-The-Tour-Live. Official title is 'Hit Me Hard and Soft: The Tour (Live)' (stylized all caps). Second live album, released May 1, 2026 via Darkroom/Interscope. Recorded July 19-23, 2025 at Co-op Live, Manchester. 3LP one-time recycled-vinyl pressing. Medley tracks: 'NDA / Therefore I Am' and 'L'Amour de Ma Vie / Over Now (Extended)'. The DB title 'Live' should be renamed to the official title.",
+  "status": "verified"
+}

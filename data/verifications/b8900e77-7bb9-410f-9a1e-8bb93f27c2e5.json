@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:29.054456+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Mr. Incorrect (2023)",
+    "track_number": 1
+  },
+  "entity_id": "2ea6b5b7-0303-4df4-94d5-6f7b4069f18e",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b8900e77-7bb9-410f-9a1e-8bb93f27c2e5",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "Mr. Incorrect (2023)",
+    "title": "Mr. Incorrect (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Mr. Incorrect (2023)'.",
+  "status": "verified"
+}

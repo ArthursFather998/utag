@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:16.98682+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Watch",
+    "track_number": 1
+  },
+  "entity_id": "44636e3d-e0a5-4af7-9dcb-122c7311ed74",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "f7447ab4-7007-4ba7-8718-d5f5cdf6dd84",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Watch",
+    "title": "Watch"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Watch'.",
+  "status": "verified"
+}

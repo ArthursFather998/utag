@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:22.208048+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Call Me Revenge (2023)",
+    "track_number": 1
+  },
+  "entity_id": "2b23eb98-1d65-4241-b3e2-c474a2000cf2",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "761eb4ba-c55a-45ed-b9e0-093d7be4e912",
+  "input": {
+    "artist": "d4vd",
+    "release": "Call Me Revenge (2023)",
+    "title": "Call Me Revenge (2023)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Call Me Revenge (2023)'.",
+  "status": "verified"
+}

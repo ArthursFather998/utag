@@ -11,78 +11,6 @@
         "canonical_name": "Britney Spears",
         "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
       },
-      "artwork": [
-        {
-          "id": "36b15833-c19f-4bf0-930e-2cda30dd6583",
-          "role": "canonical",
-          "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/..._Baby_One_More_Time_%28album%29.png",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T16:53:05.977053+00:00",
-      "edition": "deluxe",
-      "id": "d708a4f3-40ba-4ffd-9e67-72acb9ffda72",
-      "label": "Jive",
-      "release_date": "1999-01-12",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1999,
-      "title": "...Baby One More Time"
-    },
-    {
-      "artists": {
-        "canonical_name": "Britney Spears",
-        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
-      },
-      "artwork": [
-        {
-          "id": "017f9a2c-a69d-431a-9766-af1f8abb4023",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:34:37.060089+00:00",
-      "edition": "original",
-      "id": "c09b26a7-3858-4767-831d-204748589678",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1999,
-      "title": "...Baby One More Time (Deluxe Version)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Britney Spears",
-        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
-      },
-      "artwork": [
-        {
-          "id": "8704b83e-d78a-4a84-ba05-03e7d22416db",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/e4712e6a-72ed-4efd-8e2f-18156760dabb/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T07:03:19.791685+00:00",
-      "edition": "original",
-      "id": "142dc090-7e4b-468c-af1f-57f0405955d5",
-      "label": null,
-      "release_date": null,
-      "release_status": "released",
-      "release_type": "album",
-      "release_year": null,
-      "title": "Oops!... I Did It Again (25th Anniversary Edition)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Britney Spears",
-        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:13:35.404627+00:00",
@@ -315,6 +243,30 @@
       "release_type": "single",
       "release_year": 2002,
       "title": "Boys (2002)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Britney Spears",
+        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
+      },
+      "artwork": [
+        {
+          "id": "8704b83e-d78a-4a84-ba05-03e7d22416db",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/e4712e6a-72ed-4efd-8e2f-18156760dabb/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:03:19.791685+00:00",
+      "edition": "original",
+      "id": "142dc090-7e4b-468c-af1f-57f0405955d5",
+      "label": null,
+      "release_date": null,
+      "release_status": "released",
+      "release_type": "album",
+      "release_year": null,
+      "title": "Oops!... I Did It Again (25th Anniversary Edition)"
     },
     {
       "artists": {
@@ -2038,6 +1990,30 @@
         "canonical_name": "Britney Spears",
         "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
       },
+      "artwork": [
+        {
+          "id": "017f9a2c-a69d-431a-9766-af1f8abb4023",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/73/28/5173280b-9b5e-c5e4-d3f8-a2612d044543/888880423368.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:37.060089+00:00",
+      "edition": "original",
+      "id": "c09b26a7-3858-4767-831d-204748589678",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1999,
+      "title": "...Baby One More Time (Deluxe Version)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Britney Spears",
+        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:17:12.378103+00:00",
@@ -2270,6 +2246,30 @@
       "release_type": "single",
       "release_year": 2011,
       "title": "Criminal"
+    },
+    {
+      "artists": {
+        "canonical_name": "Britney Spears",
+        "id": "fd40b6a4-e852-490a-aabf-531cb4b6c754"
+      },
+      "artwork": [
+        {
+          "id": "36b15833-c19f-4bf0-930e-2cda30dd6583",
+          "role": "canonical",
+          "source_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/..._Baby_One_More_Time_%28album%29.png",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T16:53:05.977053+00:00",
+      "edition": "deluxe",
+      "id": "d708a4f3-40ba-4ffd-9e67-72acb9ffda72",
+      "label": "Jive",
+      "release_date": "1999-01-12",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1999,
+      "title": "...Baby One More Time"
     },
     {
       "artists": {
@@ -2805,6 +2805,25 @@
     "title": "I've Just Begun (Having My Fun)",
     "updated_at": "2026-10-16T04:21:07.313954+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "fd40b6a4-e852-490a-aabf-531cb4b6c754",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:35:22.756873+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "48fb0562-f0bf-42a2-92d8-29de617d8b62",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f86475db-4e2c-4565-9d04-9694f6073836",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "I've Just Begun (Having My Fun)",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:35:22.756873+00:00"
+    }
+  ],
   "verifications": []
 }

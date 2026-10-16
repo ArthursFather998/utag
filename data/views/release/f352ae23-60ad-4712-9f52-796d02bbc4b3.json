@@ -11,88 +11,6 @@
         "canonical_name": "Sam Smith",
         "id": "48835c49-e97d-4f91-b213-775c98304d6b"
       },
-      "artwork": [
-        {
-          "id": "b7d99dac-71d4-4cb2-bba1-f2987470344e",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b1/4a/ca/b14aca06-d304-09dd-14fb-dfd10442c1bb/13UAAIM66829.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:40:11.288606+00:00",
-      "edition": "original",
-      "id": "b9c8fc0a-44c1-4314-8473-086943862bc3",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2013,
-      "title": "Nirvana - EP"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sam Smith",
-        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:53:43.021746+00:00",
-      "edition": "original",
-      "id": "6735ac63-0082-4c31-883c-6ebf09dc23db",
-      "label": null,
-      "release_date": "2026-08-21",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2026,
-      "title": "Hazel Eyes"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sam Smith",
-        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
-      },
-      "artwork": [
-        {
-          "id": "5ded328b-be8f-4752-a1d4-b87a4dbef7ad",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/c9237ea8-0ae9-4a09-9048-3da6241414a0/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:50:56.698845+00:00",
-      "edition": "original",
-      "id": "72cf4347-b04c-4eec-9f93-abca4a808aae",
-      "label": null,
-      "release_date": "2015-06-23",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2015,
-      "title": "KlangCafé II"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sam Smith",
-        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:51:05.560131+00:00",
-      "edition": "original",
-      "id": "77ea53be-2ab0-4a05-9696-812376584bc7",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2015,
-      "title": "Hit Mania Spring 2015"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sam Smith",
-        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:06:28.307391+00:00",
@@ -554,6 +472,23 @@
       },
       "artwork": [],
       "confidence": "needs_review",
+      "created_at": "2026-10-14T06:53:43.021746+00:00",
+      "edition": "original",
+      "id": "6735ac63-0082-4c31-883c-6ebf09dc23db",
+      "label": null,
+      "release_date": "2026-08-21",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Hazel Eyes"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
       "created_at": "2026-10-16T04:06:58.085795+00:00",
       "edition": "original",
       "id": "6cad8999-e9eb-4f5b-a9a7-233eda994c24",
@@ -563,6 +498,47 @@
       "release_type": "album",
       "release_year": 2021,
       "title": "Live"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
+      "artwork": [
+        {
+          "id": "5ded328b-be8f-4752-a1d4-b87a4dbef7ad",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/c9237ea8-0ae9-4a09-9048-3da6241414a0/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:50:56.698845+00:00",
+      "edition": "original",
+      "id": "72cf4347-b04c-4eec-9f93-abca4a808aae",
+      "label": null,
+      "release_date": "2015-06-23",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "KlangCafé II"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:51:05.560131+00:00",
+      "edition": "original",
+      "id": "77ea53be-2ab0-4a05-9696-812376584bc7",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "Hit Mania Spring 2015"
     },
     {
       "artists": {
@@ -943,6 +919,30 @@
         "canonical_name": "Sam Smith",
         "id": "48835c49-e97d-4f91-b213-775c98304d6b"
       },
+      "artwork": [
+        {
+          "id": "b7d99dac-71d4-4cb2-bba1-f2987470344e",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b1/4a/ca/b14aca06-d304-09dd-14fb-dfd10442c1bb/13UAAIM66829.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:40:11.288606+00:00",
+      "edition": "original",
+      "id": "b9c8fc0a-44c1-4314-8473-086943862bc3",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2013,
+      "title": "Nirvana - EP"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sam Smith",
+        "id": "48835c49-e97d-4f91-b213-775c98304d6b"
+      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:08:11.762971+00:00",
@@ -1268,6 +1268,25 @@
     "title": "You Will Be Found",
     "updated_at": "2026-10-16T04:08:41.286194+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "48835c49-e97d-4f91-b213-775c98304d6b",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:29:37.178724+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "ec652fc7-8f49-4e89-afda-3fad6c5b2783",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "f352ae23-60ad-4712-9f52-796d02bbc4b3",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "You Will Be Found",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:29:37.178724+00:00"
+    }
+  ],
   "verifications": []
 }

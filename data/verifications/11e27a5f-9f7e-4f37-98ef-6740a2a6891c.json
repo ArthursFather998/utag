@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:42.319346+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "4Me 4Me",
+    "track_number": 1
+  },
+  "entity_id": "5acb2b84-b48e-450b-8949-8ab730f8529b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "11e27a5f-9f7e-4f37-98ef-6740a2a6891c",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "4Me 4Me",
+    "title": "4Me 4Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single '4Me 4Me'.",
+  "status": "verified"
+}

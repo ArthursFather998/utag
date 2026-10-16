@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:53.027354+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Where'd It Go Wrong?",
+    "track_number": 1
+  },
+  "entity_id": "15de20a8-c945-46d1-908f-dcc8bf9e4eb1",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "2f25165b-571b-44bb-ab2d-d620bd4c3c31",
+  "input": {
+    "artist": "d4vd",
+    "release": "Where'd It Go Wrong?",
+    "title": "Where'd It Go Wrong?"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Where'd It Go Wrong?'.",
+  "status": "verified"
+}

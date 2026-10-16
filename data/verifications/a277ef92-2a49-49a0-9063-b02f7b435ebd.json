@@ -1,0 +1,36 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:04.918979+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Superclean Vol. I & Superclean Vol. II",
+    "track_count": 12,
+    "tracklist": [
+      "I Don't Know You",
+      "Basta Ya",
+      "I Like It",
+      "Only in My Dreams",
+      "Superclean",
+      "Déjate Llevar",
+      "Ruthless",
+      "Cariño",
+      "ABQ",
+      "Loverboy",
+      "Over the Moon",
+      "Clueless"
+    ]
+  },
+  "entity_id": "32cc9e1d-2ff3-4c93-9387-ed10a6bdbfd1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "a277ef92-2a49-49a0-9063-b02f7b435ebd",
+  "input": {
+    "artist": "The Marías",
+    "title": "Superclean Vol. I & Superclean Vol. II",
+    "track_count": 12
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (12 tracks) per https://www.discogs.com/release/19286491-The-Mar%C3%ADas-Superclean-Vol-I-Superclean-Vol-II, https://themarias.bandcamp.com/album/superclean-vol-ii-2?action=buy. Compilation combining both EPs (Vol. I 2017 + Vol. II 2018). 12-track order confirmed by Discogs compilation entry, the band's official Bandcamp, and official YouTube listening parties for each volume. Side A = Vol. I tracks 1-6, Side B = Vol. II tracks 7-12. Some retailer summary sections list a different/incomplete order, but the detailed side listings and Discogs/Bandcamp agree on the canonical order used here.",
+  "status": "verified"
+}

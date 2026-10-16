@@ -1,0 +1,41 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:40.706508+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Blonde",
+    "track_count": 17,
+    "tracklist": [
+      "Nikes",
+      "Ivy",
+      "Pink + White",
+      "Be Yourself",
+      "Solo",
+      "Skyline To",
+      "Self Control",
+      "Good Guy",
+      "Nights",
+      "Solo (Reprise)",
+      "Pretty Sweet",
+      "Facebook Story",
+      "Close to You",
+      "White Ferrari",
+      "Siegfried",
+      "Godspeed",
+      "Futura Free"
+    ]
+  },
+  "entity_id": "2eb15575-5f3a-4a0d-bf76-b18e562d7daa",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "1eaecec6-cf40-4929-8fd3-c980dfd46a00",
+  "input": {
+    "artist": "Frank Ocean",
+    "title": "Blonde",
+    "track_count": 17
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (17 tracks) per https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album), https://lyricsweb.com/album/frank-ocean/blonde. Second studio album, released August 20, 2016. 17 tracks confirmed across Wikipedia, LyricsWeb, Consequence, Variance Magazine, REVOLT, and Soundcity — all agree on order. Physical zine edition has an alternate tracklist, but the standard digital/streaming edition is these 17. Spelling: 'Siegfried' and 'Godspeed' per official listings.",
+  "status": "verified"
+}

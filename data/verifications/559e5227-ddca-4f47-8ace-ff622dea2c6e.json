@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:05.549696+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "The Bridge",
+    "track_number": 1
+  },
+  "entity_id": "ac01e240-a215-4ce5-ab04-bdd6f5929753",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "559e5227-ddca-4f47-8ace-ff622dea2c6e",
+  "input": {
+    "artist": "d4vd",
+    "release": "The Bridge",
+    "title": "The Bridge"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'The Bridge'.",
+  "status": "verified"
+}

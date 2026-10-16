@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:55:53.529725+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "L.O.V.E.U (2025)",
+    "track_number": 1
+  },
+  "entity_id": "56ec5501-7023-4011-9574-cb568708160b",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "da20c587-ee94-402d-8dd8-7074c181ad83",
+  "input": {
+    "artist": "d4vd",
+    "release": "L.O.V.E.U (2025)",
+    "title": "L.O.V.E.U (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'L.O.V.E.U (2025)'.",
+  "status": "verified"
+}

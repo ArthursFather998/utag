@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:05.801372+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spotify Live Room",
+    "track_number": 1
+  },
+  "entity_id": "1d27f1b0-1042-4e0a-a29d-3e1604ab6c8d",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "66983cd5-5416-4823-80f6-1ee577f23d07",
+  "input": {
+    "artist": "d4vd",
+    "release": "Spotify Live Room",
+    "title": "Spotify Live Room"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Spotify Live Room'.",
+  "status": "verified"
+}

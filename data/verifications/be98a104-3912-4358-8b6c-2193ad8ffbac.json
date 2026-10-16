@@ -1,0 +1,30 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:55:42.263952+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Steve Lacy's Demo",
+    "track_count": 6,
+    "tracklist": [
+      "Looks",
+      "Ryd",
+      "Dark Red",
+      "Thangs",
+      "Haterlovin",
+      "Some"
+    ]
+  },
+  "entity_id": "821b12b9-eaff-4e95-82ff-dd685a98ecd1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "be98a104-3912-4358-8b6c-2193ad8ffbac",
+  "input": {
+    "artist": "Steve Lacy",
+    "title": "Steve Lacy's Demo",
+    "track_count": 6
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (6 tracks) per https://en.wikipedia.org/wiki/Steve_Lacy%27s_Demo, https://www.discogs.com/release/10214501-Steve-Lacy-Steve-Lacys-Demo.",
+  "status": "verified"
+}

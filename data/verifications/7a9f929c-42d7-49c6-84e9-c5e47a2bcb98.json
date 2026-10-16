@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:07.679785+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Spotify Live Room (2025)",
+    "track_number": 1
+  },
+  "entity_id": "19050e62-c382-4dbd-a2e4-12d0d5e0deec",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "7a9f929c-42d7-49c6-84e9-c5e47a2bcb98",
+  "input": {
+    "artist": "d4vd",
+    "release": "Spotify Live Room (2025)",
+    "title": "Spotify Live Room (2025)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Spotify Live Room (2025)'.",
+  "status": "verified"
+}

@@ -11,78 +11,6 @@
         "canonical_name": "Kendrick Lamar",
         "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
       },
-      "artwork": [
-        {
-          "id": "94f58c40-a472-4efe-8d2b-0a0754cdb07f",
-          "role": "canonical",
-          "source_url": "https://archive.org/download/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc-37147953292.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T00:45:18.035903+00:00",
-      "edition": "other",
-      "id": "faf29dfc-a819-4ac2-a7e7-8d4181f7a34e",
-      "label": "ChopNotSlop Ent.",
-      "release_date": "2015-06-07",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2015,
-      "title": "To Chop a Butterfly (Chopped Not Slopped)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Kendrick Lamar",
-        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
-      },
-      "artwork": [
-        {
-          "id": "d7d2a455-ff7e-400e-a6d5-ceeecace2d19",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:46:30.890999+00:00",
-      "edition": "original",
-      "id": "6d1dd4c0-15e8-4c01-84a2-762e4ed37544",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2015,
-      "title": "To Pimp a Butterfly"
-    },
-    {
-      "artists": {
-        "canonical_name": "Kendrick Lamar",
-        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
-      },
-      "artwork": [
-        {
-          "id": "5eb67ece-7606-400b-8165-2de3d263c25b",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/eb/44/c9/eb44c9e1-401e-b118-6254-7b9a10888c39/22UMGIM52376.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:41:31.335205+00:00",
-      "edition": "original",
-      "id": "f0cb2128-3b02-4724-9c35-ee79788b3f53",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "Mr. Morale & The Big Steppers"
-    },
-    {
-      "artists": {
-        "canonical_name": "Kendrick Lamar",
-        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:08:30.534926+00:00",
@@ -315,6 +243,30 @@
       "release_type": "album",
       "release_year": 2025,
       "title": "To Pimp a Butterfly (10th Anniversary)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Kendrick Lamar",
+        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
+      },
+      "artwork": [
+        {
+          "id": "d7d2a455-ff7e-400e-a6d5-ceeecace2d19",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:30.890999+00:00",
+      "edition": "original",
+      "id": "6d1dd4c0-15e8-4c01-84a2-762e4ed37544",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "To Pimp a Butterfly"
     },
     {
       "artists": {
@@ -831,6 +783,30 @@
         "canonical_name": "Kendrick Lamar",
         "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
       },
+      "artwork": [
+        {
+          "id": "5eb67ece-7606-400b-8165-2de3d263c25b",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/eb/44/c9/eb44c9e1-401e-b118-6254-7b9a10888c39/22UMGIM52376.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:31.335205+00:00",
+      "edition": "original",
+      "id": "f0cb2128-3b02-4724-9c35-ee79788b3f53",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Mr. Morale & The Big Steppers"
+    },
+    {
+      "artists": {
+        "canonical_name": "Kendrick Lamar",
+        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:09:07.515732+00:00",
@@ -842,6 +818,30 @@
       "release_type": "single",
       "release_year": 2025,
       "title": "Super Bowl LIX Halftime Show"
+    },
+    {
+      "artists": {
+        "canonical_name": "Kendrick Lamar",
+        "id": "15bea733-1991-4a17-8c20-fad1bc73fd6e"
+      },
+      "artwork": [
+        {
+          "id": "94f58c40-a472-4efe-8d2b-0a0754cdb07f",
+          "role": "canonical",
+          "source_url": "https://archive.org/download/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc/mbid-50f5fcd1-dd32-43b7-b6bf-9722e08ef8fc-37147953292.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T00:45:18.035903+00:00",
+      "edition": "other",
+      "id": "faf29dfc-a819-4ac2-a7e7-8d4181f7a34e",
+      "label": "ChopNotSlop Ent.",
+      "release_date": "2015-06-07",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2015,
+      "title": "To Chop a Butterfly (Chopped Not Slopped)"
     }
   ],
   "release": {
@@ -867,6 +867,25 @@
     "title": "Love",
     "updated_at": "2026-10-16T04:07:54.636619+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "15bea733-1991-4a17-8c20-fad1bc73fd6e",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:49:13.793797+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a7c59a0b-1932-4125-a7db-9f365693d852",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9f0e3943-9a6c-47e8-add7-f07310b6d09e",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Love",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:49:13.793797+00:00"
+    }
+  ],
   "verifications": []
 }

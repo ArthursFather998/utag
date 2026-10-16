@@ -11,95 +11,6 @@
         "canonical_name": "The Marías",
         "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
       },
-      "artwork": [
-        {
-          "id": "d677f7c9-2e84-4395-8e95-3f5394e84f29",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/59/f1/a259f14d-687a-b34a-c1c9-3cd6a37368aa/artwork.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:46:38.772243+00:00",
-      "edition": "original",
-      "id": "af22df3f-8d5a-4fb7-bf7c-c8fffeb886de",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2019,
-      "title": "...Baby One More Time - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [
-        {
-          "id": "8ca1dcd9-e1f3-46c1-a75e-e050ff844616",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:48.979572+00:00",
-      "edition": "original",
-      "id": "bf0654f2-142f-4389-9e39-50538e1c0e88",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "Submarine"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [
-        {
-          "id": "e7120a6d-201e-4300-a185-7b72d1e35035",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:44.148687+00:00",
-      "edition": "original",
-      "id": "fc3b3128-be81-40bc-b1a4-980724fff40c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2021,
-      "title": "No One Noticed (Extended) - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:44:59.11777+00:00",
-      "edition": "original",
-      "id": "91eba2c6-2d2a-4c22-a757-a4f4774f4aa8",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "ep",
-      "release_year": 2018,
-      "title": "Superclean Vol. II"
-    },
-    {
-      "artists": {
-        "canonical_name": "The Marías",
-        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
-      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:11:51.523104+00:00",
@@ -391,6 +302,23 @@
       },
       "artwork": [],
       "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:59.11777+00:00",
+      "edition": "original",
+      "id": "91eba2c6-2d2a-4c22-a757-a4f4774f4aa8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "ep",
+      "release_year": 2018,
+      "title": "Superclean Vol. II"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
       "created_at": "2026-10-16T04:12:11.312368+00:00",
       "edition": "original",
       "id": "9a0035db-12e4-4d52-a70b-44bbdf647dcf",
@@ -417,6 +345,30 @@
       "release_type": "single",
       "release_year": 2024,
       "title": "If Only + No One Noticed"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "d677f7c9-2e84-4395-8e95-3f5394e84f29",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a2/59/f1/a259f14d-687a-b34a-c1c9-3cd6a37368aa/artwork.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:46:38.772243+00:00",
+      "edition": "original",
+      "id": "af22df3f-8d5a-4fb7-bf7c-c8fffeb886de",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2019,
+      "title": "...Baby One More Time"
     },
     {
       "artists": {
@@ -451,6 +403,30 @@
       "release_type": "single",
       "release_year": 2024,
       "title": "No One Noticed"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "8ca1dcd9-e1f3-46c1-a75e-e050ff844616",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:48.979572+00:00",
+      "edition": "original",
+      "id": "bf0654f2-142f-4389-9e39-50538e1c0e88",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Submarine"
     },
     {
       "artists": {
@@ -536,6 +512,30 @@
       "release_type": "single",
       "release_year": 2021,
       "title": "Little by Little"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Marías",
+        "id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4"
+      },
+      "artwork": [
+        {
+          "id": "e7120a6d-201e-4300-a185-7b72d1e35035",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/63/51/726351e7-2016-48f3-07f8-0891c9eb5e53/075679624161.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:44:44.148687+00:00",
+      "edition": "original",
+      "id": "fc3b3128-be81-40bc-b1a4-980724fff40c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "No One Noticed (Extended)"
     }
   ],
   "release": {
@@ -561,6 +561,25 @@
     "title": "Clueless",
     "updated_at": "2026-10-16T04:11:31.049855+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "4d5d69bc-fdf2-4e88-b6a7-51eacb78e3e4",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:31:11.164225+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4828f570-1839-4e4a-a75d-1b10b1e2105c",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "76444869-265a-4796-9d3c-d19ba2378e2b",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "Clueless",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:31:11.164225+00:00"
+    }
+  ],
   "verifications": []
 }

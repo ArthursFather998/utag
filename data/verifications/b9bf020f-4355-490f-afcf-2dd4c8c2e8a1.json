@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:01:44.762721+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bad! (2018)",
+    "track_number": 1
+  },
+  "entity_id": "9ed80ae5-9364-491f-89db-7ec541b76486",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "b9bf020f-4355-490f-afcf-2dd4c8c2e8a1",
+  "input": {
+    "artist": "XXXTENTACION",
+    "release": "Bad! (2018)",
+    "title": "Bad! (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bad! (2018)'.",
+  "status": "verified"
+}

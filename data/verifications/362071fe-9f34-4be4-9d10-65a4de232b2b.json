@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:00.300931+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Crashing",
+    "track_number": 1
+  },
+  "entity_id": "d4b3d79a-b614-4bad-8ffe-7da025c63590",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "362071fe-9f34-4be4-9d10-65a4de232b2b",
+  "input": {
+    "artist": "d4vd",
+    "release": "Crashing",
+    "title": "Crashing"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Crashing'.",
+  "status": "verified"
+}

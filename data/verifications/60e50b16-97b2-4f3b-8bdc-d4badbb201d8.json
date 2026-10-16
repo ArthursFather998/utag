@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:58:49.973369+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "You Owe Me",
+    "track_number": 1
+  },
+  "entity_id": "e92e639c-8448-47b2-ab35-8e2ef9867a64",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "60e50b16-97b2-4f3b-8bdc-d4badbb201d8",
+  "input": {
+    "artist": "Malcolm Todd",
+    "release": "You Owe Me",
+    "title": "You Owe Me"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'You Owe Me'.",
+  "status": "verified"
+}

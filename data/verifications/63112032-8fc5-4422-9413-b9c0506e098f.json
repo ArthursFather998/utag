@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:36.100922+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "There Goes My Baby",
+    "track_number": 1
+  },
+  "entity_id": "1d032cfe-d38f-47bd-a6a9-6a8023fd02d8",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "63112032-8fc5-4422-9413-b9c0506e098f",
+  "input": {
+    "artist": "d4vd",
+    "release": "There Goes My Baby",
+    "title": "There Goes My Baby"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'There Goes My Baby'.",
+  "status": "verified"
+}

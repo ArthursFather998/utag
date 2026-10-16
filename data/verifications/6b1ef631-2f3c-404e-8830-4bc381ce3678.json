@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T06:00:25.874378+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Bury a Friend (2019)",
+    "track_number": 1
+  },
+  "entity_id": "b1d0072f-fd5d-445e-bb91-43fa72d846c7",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "6b1ef631-2f3c-404e-8830-4bc381ce3678",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Bury a Friend (2019)",
+    "title": "Bury a Friend (2019)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Bury a Friend (2019)'.",
+  "status": "verified"
+}

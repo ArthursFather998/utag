@@ -1,0 +1,38 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:57:51.556607+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Nostalgia, Ultra",
+    "track_count": 14,
+    "tracklist": [
+      "Street Fighter",
+      "Strawberry Swing",
+      "Novacane",
+      "We All Try",
+      "Bitches Talkin' (Metal Gear Solid)",
+      "Songs for Women",
+      "Lovecrimes",
+      "Goldeneye",
+      "There Will Be Tears",
+      "Swim Good",
+      "Dust",
+      "American Wedding",
+      "Soul Calibur",
+      "Nature Feels"
+    ]
+  },
+  "entity_id": "78497377-84fd-497a-9f25-90982dc7c8e1",
+  "entity_type": "release",
+  "field_confidence": null,
+  "id": "decdd288-4630-4c94-a387-023d93cdc5e2",
+  "input": {
+    "artist": "Frank Ocean",
+    "title": "Nostalgia, Ultra",
+    "track_count": 14
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: full tracklist (14 tracks) per https://en.wikipedia.org/wiki/Nostalgia,_Ultra, https://blonded.blog/news/frank-releases-nostalgia-ultra. Debut mixtape, self-released February 16, 2011. 14 tracks confirmed across Wikipedia, Blonded.blog, Discogs, and Excellent Music Wiki — all agree on order. 'American Wedding' features James Fauntleroy (later removed from some versions due to Eagles sample controversy). Titles stylized lowercase on original release; canonical title casing used here.",
+  "status": "verified"
+}

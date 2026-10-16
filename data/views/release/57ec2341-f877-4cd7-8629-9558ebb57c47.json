@@ -11,6 +11,40 @@
         "canonical_name": "Olivia Rodrigo",
         "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
       },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T04:17:42.2536+00:00",
+      "edition": "original",
+      "id": "0fef7160-eadc-4340-b1fb-92b937b1bd12",
+      "label": "Geffen",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2021,
+      "title": "traitor"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T04:18:08.506501+00:00",
+      "edition": "original",
+      "id": "104ab0ad-eb7b-4367-9174-0e5b7e6747b8",
+      "label": "Geffen",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "the cure"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
       "artwork": [
         {
           "id": "d67ba79e-863e-40cb-b366-6b090f1dd46b",
@@ -53,64 +87,6 @@
       "release_type": "album",
       "release_year": 2023,
       "title": "GUTS (spilled)"
-    },
-    {
-      "artists": {
-        "canonical_name": "Olivia Rodrigo",
-        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
-      },
-      "artwork": [
-        {
-          "id": "f313e170-7baf-4880-8e7c-1a96329d9ce9",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/edbf0781-ef14-41d8-9776-8aa04e56b1da/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:45:20.750333+00:00",
-      "edition": "original",
-      "id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
-      "label": null,
-      "release_date": "2025-01-30",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2025,
-      "title": "2025‐01‐30: FireAid"
-    },
-    {
-      "artists": {
-        "canonical_name": "Olivia Rodrigo",
-        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:17:42.2536+00:00",
-      "edition": "original",
-      "id": "0fef7160-eadc-4340-b1fb-92b937b1bd12",
-      "label": "Geffen",
-      "release_date": null,
-      "release_status": null,
-      "release_type": "single",
-      "release_year": 2021,
-      "title": "traitor"
-    },
-    {
-      "artists": {
-        "canonical_name": "Olivia Rodrigo",
-        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:18:08.506501+00:00",
-      "edition": "original",
-      "id": "104ab0ad-eb7b-4367-9174-0e5b7e6747b8",
-      "label": "Geffen",
-      "release_date": null,
-      "release_status": null,
-      "release_type": "single",
-      "release_year": 2026,
-      "title": "the cure"
     },
     {
       "artists": {
@@ -423,6 +399,30 @@
         "canonical_name": "Olivia Rodrigo",
         "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
       },
+      "artwork": [
+        {
+          "id": "f313e170-7baf-4880-8e7c-1a96329d9ce9",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/edbf0781-ef14-41d8-9776-8aa04e56b1da/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:20.750333+00:00",
+      "edition": "original",
+      "id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
+      "label": null,
+      "release_date": "2025-01-30",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "2025‐01‐30: FireAid"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:17:58.47856+00:00",
@@ -459,6 +459,25 @@
     "title": "bad idea right?",
     "updated_at": "2026-10-16T04:17:52.084631+00:00"
   },
-  "tracks": [],
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "5934eac3-9d48-4408-b2d8-8adc360c6236",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T05:52:45.725901+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "730f2428-f0bf-465f-96d5-831ec05f338f",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "57ec2341-f877-4cd7-8629-9558ebb57c47",
+      "spotify_id": null,
+      "status": "verified",
+      "title": "bad idea right?",
+      "track_number": 1,
+      "updated_at": "2026-10-16T05:52:45.725901+00:00"
+    }
+  ],
   "verifications": []
 }

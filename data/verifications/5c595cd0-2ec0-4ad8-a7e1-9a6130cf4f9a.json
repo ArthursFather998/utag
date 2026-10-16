@@ -1,0 +1,22 @@
+{
+  "candidates": null,
+  "created_at": "2026-10-16T05:59:50.003719+00:00",
+  "created_by": "utag-discography-populator",
+  "decision": {
+    "title": "Lovely (with Khalid) (2018)",
+    "track_number": 1
+  },
+  "entity_id": "2be64794-3d39-4636-897c-86673d28b1a6",
+  "entity_type": "track",
+  "field_confidence": null,
+  "id": "5c595cd0-2ec0-4ad8-a7e1-9a6130cf4f9a",
+  "input": {
+    "artist": "Billie Eilish",
+    "release": "Lovely (with Khalid) (2018)",
+    "title": "Lovely (with Khalid) (2018)"
+  },
+  "model": null,
+  "overall_confidence": "high_confidence",
+  "rationale": "Discography populator: title track for single 'Lovely (with Khalid) (2018)'.",
+  "status": "verified"
+}

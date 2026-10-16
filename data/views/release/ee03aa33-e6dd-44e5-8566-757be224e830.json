@@ -20,7 +20,19 @@
       "width": null
     }
   ],
-  "corrections": [],
+  "corrections": [
+    {
+      "created_at": "2026-10-16T03:41:52.831484+00:00",
+      "entity_id": "ee03aa33-e6dd-44e5-8566-757be224e830",
+      "entity_type": "release",
+      "field": "title",
+      "id": "a93f0e88-3d97-48b2-8132-555ccab2f70e",
+      "new_value": "Superache",
+      "note": null,
+      "old_value": "Hopeless Romantic",
+      "source": "manual"
+    }
+  ],
   "more_from_artist": [
     {
       "artists": {
@@ -163,8 +175,8 @@
     "release_year": null,
     "spotify_id": null,
     "status": "needs_review",
-    "title": "Hopeless Romantic",
-    "updated_at": "2026-10-14T07:03:35.410925+00:00"
+    "title": "Superache",
+    "updated_at": "2026-10-16T03:41:52.73947+00:00"
   },
   "tracks": [
     {

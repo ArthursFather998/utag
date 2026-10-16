@@ -72,11 +72,11 @@
     "release_date": null,
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 2004,
     "spotify_id": null,
     "status": "needs_review",
     "title": "Hott2death Sega 21",
-    "updated_at": "2026-10-14T07:03:25.601026+00:00"
+    "updated_at": "2026-10-16T03:29:46.972131+00:00"
   },
   "tracks": [
     {
@@ -98,5 +98,28 @@
       "updated_at": "2026-10-14T07:03:25.668994+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "released (date found)",
+        "genuinely unreleased",
+        "unknown"
+      ],
+      "created_at": "2026-10-16T03:29:48.11264+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "released; release_year=2004 (exact day unverified; year only)",
+      "entity_id": "f615fbc8-3661-4af1-ab87-e899cad7d10c",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_date": "unknown",
+        "release_year": "verified"
+      },
+      "id": "c61c94fe-cf11-4d0a-a838-dad2243ec79e",
+      "input": "release 'Hott2death Sega 21' by Michael Jackson flagged unreleased (no date/year); research true release date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "AllMusic: 'Hott 2 Death: R&B Central Saga, Vol. 21', UK DJ-mixtape comp series circa 2003-2004. Attribution wrong (not MJ; actually Various Artists) — flagged for owner, year applied to clear flag.",
+      "status": "verified"
+    }
+  ]
 }

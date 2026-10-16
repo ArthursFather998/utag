@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:28:52.801903+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2007, release_date=2007-06-01",
+  "entity_id": "3b50a0d1-2471-4cc5-bfc6-4587cc27645c",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "verified",
+    "release_year": "verified"
+  },
+  "id": "b53a459a-17c9-4dde-9edc-44469c35ecd6",
+  "input": "release 'Indie/Rock Playlist: June 2007' flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "MusicBrainz label page + Last.fm agree 2007-06-01. Filed under Paramore; monthly Various digital comp.",
+  "status": "verified"
+}

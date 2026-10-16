@@ -40,10 +40,10 @@
       "edition": "original",
       "id": "2f6607f1-ba48-43f8-87ef-de9230b0f929",
       "label": null,
-      "release_date": null,
+      "release_date": "2024-06-14",
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
+      "release_year": 2024,
       "title": "Star Shopping (Live)"
     }
   ],
@@ -61,14 +61,14 @@
     "id": "e5f5fc49-381a-46e8-81a4-535b7b460e1e",
     "label": null,
     "mbid": null,
-    "release_date": null,
+    "release_date": "2025-03-28",
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 2025,
     "spotify_id": null,
     "status": "needs_review",
     "title": "JUST IN CASE",
-    "updated_at": "2026-10-14T06:50:42.740604+00:00"
+    "updated_at": "2026-10-16T03:27:56.743335+00:00"
   },
   "tracks": [
     {
@@ -90,5 +90,27 @@
       "updated_at": "2026-10-14T06:50:42.804905+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "released (date found)",
+        "genuinely unreleased"
+      ],
+      "created_at": "2026-10-16T03:27:58.136419+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "released; release_year=2025, release_date=2025-03-28",
+      "entity_id": "e5f5fc49-381a-46e8-81a4-535b7b460e1e",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_date": "verified",
+        "release_year": "verified"
+      },
+      "id": "04877575-3250-4d87-9eb6-18bae66aa178",
+      "input": "release 'JUST IN CASE' by Lil Peep flagged unreleased (no date/year); research true release date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "AllMusic, Deezer, elyrics agree on 2025-03-28.",
+      "status": "verified"
+    }
+  ]
 }

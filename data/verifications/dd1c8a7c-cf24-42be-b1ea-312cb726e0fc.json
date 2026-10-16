@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:28:48.59724+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2015 (exact day unverified; year only)",
+  "entity_id": "77ea53be-2ab0-4a05-9696-812376584bc7",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "unknown",
+    "release_year": "verified"
+  },
+  "id": "dd1c8a7c-cf24-42be-b1ea-312cb726e0fc",
+  "input": "release 'Hit Mania Spring 2015' flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "Italian Various comp (rodny.cz/Discogs 2015 2xCD); stats.fm gives 2015-05-25 single-source so only year applied. Filed under Sam Smith; actually Various.",
+  "status": "verified"
+}

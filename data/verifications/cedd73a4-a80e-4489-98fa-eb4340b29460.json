@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:30:19.575753+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2014, release_date=2014-11-17",
+  "entity_id": "26963212-01d6-4a0a-b90a-848cde9a39e4",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "verified",
+    "release_year": "verified"
+  },
+  "id": "cedd73a4-a80e-4489-98fa-eb4340b29460",
+  "input": "release 'Four' by One Direction flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "Wikipedia + Spin agree 2014-11-17 (4th studio album).",
+  "status": "verified"
+}

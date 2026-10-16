@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:29:46.416761+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2025, release_date=2025-05-02",
+  "entity_id": "f74b6636-8d9e-407a-9e26-21f0cdea7c50",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "verified",
+    "release_year": "verified"
+  },
+  "id": "172c746f-5c78-486f-bd0c-24847d130caf",
+  "input": "release 'b sides and demos' by crayon flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "Qobuz (9th St./Hallwood, 13 tracks) + YouTube topic video agree 2025-05-02. Indie Crayon, not the Nigerian afrobeats artist — attribution to verify.",
+  "status": "verified"
+}

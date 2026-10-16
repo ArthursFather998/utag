@@ -65,7 +65,7 @@
       "id": "0afa0de7-b25b-43da-baaa-01fdf8966132",
       "label": null,
       "release_date": null,
-      "release_status": null,
+      "release_status": "unreleased",
       "release_type": "single",
       "release_year": null,
       "title": "Dancing Through The End Of The World"
@@ -137,7 +137,7 @@
       "id": "2f31b4b2-03d6-4fbc-81d8-696e8960adc5",
       "label": null,
       "release_date": null,
-      "release_status": null,
+      "release_status": "unreleased",
       "release_type": "single",
       "release_year": null,
       "title": "listen before i go (Cover)"
@@ -274,7 +274,7 @@
       "id": "65b084b4-a646-457d-9c28-c9d220b83dfa",
       "label": null,
       "release_date": null,
-      "release_status": null,
+      "release_status": "unreleased",
       "release_type": "single",
       "release_year": null,
       "title": "Forever"
@@ -298,7 +298,7 @@
       "id": "6eab752c-7733-4404-9308-451345bbda55",
       "label": null,
       "release_date": null,
-      "release_status": null,
+      "release_status": "unreleased",
       "release_type": "single",
       "release_year": null,
       "title": "Im In Love"
@@ -442,7 +442,7 @@
       "id": "b21b1a4d-8a95-4b55-9352-8874a50ee283",
       "label": null,
       "release_date": null,
-      "release_status": null,
+      "release_status": "unreleased",
       "release_type": "single",
       "release_year": null,
       "title": "Cold In The Summer"
@@ -703,13 +703,13 @@
     "label": null,
     "mbid": null,
     "release_date": null,
-    "release_status": null,
+    "release_status": "unreleased",
     "release_type": "single",
     "release_year": null,
     "spotify_id": null,
     "status": "needs_review",
     "title": "Celeste",
-    "updated_at": "2026-10-10T16:44:42.330985+00:00"
+    "updated_at": "2026-10-16T03:26:31.345035+00:00"
   },
   "tracks": [
     {
@@ -731,5 +731,26 @@
       "updated_at": "2026-10-09T05:43:41.195684+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "officially released (date to be found)",
+        "genuinely unreleased leak"
+      ],
+      "created_at": "2026-10-16T03:27:10.206569+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "genuinely unreleased; release_status set to manual 'unreleased'",
+      "entity_id": "9afc6f2d-7798-436e-8cf7-a70177ae322b",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_status": "verified"
+      },
+      "id": "dddeca42-ec0a-4471-b073-7d1d32bfb7fa",
+      "input": "release 'Celeste' by d4vd flagged unreleased (no date/year); verify whether genuinely unreleased or missing date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "Unreleased d4vd demo ('Celeste_Demo unfin'), surfaced Dec 2023 via leak; never officially released. Sources: hotnewhiphop.com, primetimer.com.",
+      "status": "verified"
+    }
+  ]
 }

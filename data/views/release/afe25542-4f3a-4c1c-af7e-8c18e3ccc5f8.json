@@ -96,10 +96,10 @@
       "edition": "original",
       "id": "3e7c6ba6-67ee-4c38-a290-bf11641cd891",
       "label": null,
-      "release_date": null,
+      "release_date": "2022-06-10",
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
+      "release_year": 2022,
       "title": "LOOK AT ME: THE ALBUM"
     },
     {
@@ -144,10 +144,10 @@
       "edition": "original",
       "id": "9d02ec47-15f1-473a-b2a5-7246a3deb91f",
       "label": null,
-      "release_date": null,
+      "release_date": "2023-05-26",
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
+      "release_year": 2023,
       "title": "2010s RAP HITS : 2014-2020 Era"
     },
     {
@@ -168,10 +168,10 @@
       "edition": "original",
       "id": "dccfa943-c08d-47c1-81f6-c38770d10a23",
       "label": null,
-      "release_date": null,
+      "release_date": "2018-03-16",
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
+      "release_year": 2018,
       "title": "?"
     },
     {
@@ -213,14 +213,14 @@
     "id": "afe25542-4f3a-4c1c-af7e-8c18e3ccc5f8",
     "label": null,
     "mbid": null,
-    "release_date": null,
+    "release_date": "2017-08-25",
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 2017,
     "spotify_id": null,
     "status": "needs_review",
     "title": "17",
-    "updated_at": "2026-10-14T00:33:39.159675+00:00"
+    "updated_at": "2026-10-16T03:30:23.719189+00:00"
   },
   "tracks": [
     {
@@ -332,5 +332,28 @@
       "updated_at": "2026-10-14T00:33:39.311126+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "released (date found)",
+        "genuinely unreleased",
+        "unknown"
+      ],
+      "created_at": "2026-10-16T03:30:24.946549+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "released; release_year=2017, release_date=2017-08-25",
+      "entity_id": "afe25542-4f3a-4c1c-af7e-8c18e3ccc5f8",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_date": "verified",
+        "release_year": "verified"
+      },
+      "id": "e9bebee5-8d67-4a65-9dd8-1629d9ad2a0b",
+      "input": "release '17' by XXXTENTACION flagged unreleased (no date/year); research true release date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "Wikipedia + Hypebeast + music-tracker agree 2017-08-25 (debut studio album).",
+      "status": "verified"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:30:26.773958+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2022, release_date=2022-06-10",
+  "entity_id": "3e7c6ba6-67ee-4c38-a290-bf11641cd891",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "verified",
+    "release_year": "verified"
+  },
+  "id": "d263479a-986f-451c-bef8-ea5c1a012868",
+  "input": "release 'LOOK AT ME: THE ALBUM' by XXXTENTACION flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "Wikipedia + Discogs + music-tracker agree 2022-06-10 (posthumous comp; kept type album per check constraint).",
+  "status": "verified"
+}

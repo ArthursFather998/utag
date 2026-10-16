@@ -157,14 +157,14 @@
     "id": "78c846e2-ea79-4ee2-98eb-fc89493ec43b",
     "label": null,
     "mbid": null,
-    "release_date": null,
+    "release_date": "2020-03-20",
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 2020,
     "spotify_id": null,
     "status": "needs_review",
     "title": "Kid Krow",
-    "updated_at": "2026-10-14T06:46:28.662539+00:00"
+    "updated_at": "2026-10-16T03:30:28.761632+00:00"
   },
   "tracks": [
     {
@@ -186,5 +186,28 @@
       "updated_at": "2026-10-14T06:46:28.746385+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "released (date found)",
+        "genuinely unreleased",
+        "unknown"
+      ],
+      "created_at": "2026-10-16T03:30:29.88016+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "released; release_year=2020, release_date=2020-03-20",
+      "entity_id": "78c846e2-ea79-4ee2-98eb-fc89493ec43b",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_date": "verified",
+        "release_year": "verified"
+      },
+      "id": "b07c8f5b-0b78-4b3d-ac79-72647360324f",
+      "input": "release 'Kid Krow' by Conan Gray flagged unreleased (no date/year); research true release date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "Wikipedia + Discogs agree 2020-03-20 (debut studio album).",
+      "status": "verified"
+    }
+  ]
 }

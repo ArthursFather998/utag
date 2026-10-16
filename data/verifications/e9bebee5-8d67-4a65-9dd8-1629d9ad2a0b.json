@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:30:24.946549+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2017, release_date=2017-08-25",
+  "entity_id": "afe25542-4f3a-4c1c-af7e-8c18e3ccc5f8",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "verified",
+    "release_year": "verified"
+  },
+  "id": "e9bebee5-8d67-4a65-9dd8-1629d9ad2a0b",
+  "input": "release '17' by XXXTENTACION flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "Wikipedia + Hypebeast + music-tracker agree 2017-08-25 (debut studio album).",
+  "status": "verified"
+}

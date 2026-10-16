@@ -1,0 +1,21 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased"
+  ],
+  "created_at": "2026-10-16T03:28:02.071062+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2019, release_date=2019-08-13",
+  "entity_id": "6b8d6c5b-94ac-42e4-a6dc-9ff4a55d15b9",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "verified",
+    "release_year": "verified"
+  },
+  "id": "57a7ed98-5f3a-4900-9225-7f08cad7b922",
+  "input": "release 'Apple Music Presents: Tyler, The Creator' by Tyler, The Creator flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "Discogs (ISRC data) 2019-08-13; fan wiki 2019-08-14 (timezone) — took US Apple Music date.",
+  "status": "verified"
+}

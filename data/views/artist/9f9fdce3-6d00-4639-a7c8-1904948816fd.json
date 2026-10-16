@@ -22,23 +22,6 @@
         "canonical_name": "Michael Jackson",
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T07:03:25.601026+00:00",
-      "edition": "original",
-      "id": "f615fbc8-3661-4af1-ab87-e899cad7d10c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Hott2death Sega 21"
-    },
-    {
-      "artists": {
-        "canonical_name": "Michael Jackson",
-        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
-      },
       "artwork": [
         {
           "id": "e9f25828-8258-4b08-ad2a-81222d37ff62",
@@ -81,6 +64,23 @@
       "release_type": "album",
       "release_year": 1987,
       "title": "Bad 25th Anniversary"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:03:25.601026+00:00",
+      "edition": "original",
+      "id": "f615fbc8-3661-4af1-ab87-e899cad7d10c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2004,
+      "title": "Hott2death Sega 21"
     }
   ],
   "verifications": []

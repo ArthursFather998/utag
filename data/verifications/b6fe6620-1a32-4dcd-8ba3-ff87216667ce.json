@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:28:56.824501+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2017 (exact day unverified; year only)",
+  "entity_id": "014892d7-698a-4b53-9074-75535ba3fc11",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "unknown",
+    "release_year": "verified"
+  },
+  "id": "b6fe6620-1a32-4dcd-8ba3-ff87216667ce",
+  "input": "release 'Promo Only: Modern Rock Radio, November 2017' flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "DJ-promo monthly comp; Spinitron/WFNP + Chordify corroborate Nov 2017 edition. Month precision only; year applied. Filed under Steve Lacy; actually Various.",
+  "status": "verified"
+}

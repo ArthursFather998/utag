@@ -67,7 +67,7 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
+      "release_year": 2005,
       "title": "Warped Tour ’05: Bootleg Series (live at Warped Tour 2005)"
     }
   ],
@@ -85,14 +85,14 @@
     "id": "2970b4c9-dec2-4f5a-95c3-f9ad76e6387e",
     "label": null,
     "mbid": null,
-    "release_date": null,
+    "release_date": "2006-03-21",
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 2006,
     "spotify_id": null,
     "status": "needs_review",
     "title": "Life on the Murder Scene",
-    "updated_at": "2026-10-14T06:46:29.417096+00:00"
+    "updated_at": "2026-10-16T03:31:10.984104+00:00"
   },
   "tracks": [
     {
@@ -114,5 +114,28 @@
       "updated_at": "2026-10-14T06:46:29.473896+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "released (date found)",
+        "genuinely unreleased",
+        "unknown"
+      ],
+      "created_at": "2026-10-16T03:31:12.321232+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "released; release_year=2006, release_date=2006-03-21",
+      "entity_id": "2970b4c9-dec2-4f5a-95c3-f9ad76e6387e",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_date": "verified",
+        "release_year": "verified"
+      },
+      "id": "3042fda7-8f69-4c00-8b24-e07fdca93830",
+      "input": "release 'Life on the Murder Scene' by My Chemical Romance flagged unreleased (no date/year); research true release date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "Wikipedia + Revolver agree 2006-03-21 (original 2DVD+CD; 2021 LP reissue exists).",
+      "status": "verified"
+    }
+  ]
 }

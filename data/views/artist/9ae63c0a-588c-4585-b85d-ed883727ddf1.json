@@ -24,54 +24,6 @@
       },
       "artwork": [
         {
-          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:12.483628+00:00",
-      "edition": "original",
-      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Blond"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
-          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:35:39.288403+00:00",
-      "edition": "original",
-      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Chanel"
-    },
-    {
-      "artists": {
-        "canonical_name": "Frank Ocean",
-        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
-      },
-      "artwork": [
-        {
           "id": "c63dde28-eed6-420d-bc86-511969919d89",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/1200x1200bb.jpg",
@@ -129,6 +81,54 @@
       "release_type": "album",
       "release_year": 2016,
       "title": "Blonde"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [
+        {
+          "id": "27990318-2dc2-4241-aead-865fc630f3eb",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/b6981b3a-00a1-414b-a149-f3e17c7df060/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:12.483628+00:00",
+      "edition": "original",
+      "id": "4d0e81d2-51d4-4f4f-94f6-6160fdf69e4c",
+      "label": null,
+      "release_date": "2016-08-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2016,
+      "title": "Blond"
+    },
+    {
+      "artists": {
+        "canonical_name": "Frank Ocean",
+        "id": "9ae63c0a-588c-4585-b85d-ed883727ddf1"
+      },
+      "artwork": [
+        {
+          "id": "7963b8ca-ac41-423d-aa8e-75ccd91b7639",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/0dfea1b2-f914-430a-aee6-c440d995f9c5/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:35:39.288403+00:00",
+      "edition": "original",
+      "id": "c551def0-d56d-445b-bbb3-e499453e4722",
+      "label": null,
+      "release_date": "2017-03-10",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2017,
+      "title": "Chanel"
     }
   ],
   "verifications": []

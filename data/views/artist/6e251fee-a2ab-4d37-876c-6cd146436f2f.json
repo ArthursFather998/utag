@@ -26,30 +26,6 @@
       },
       "artwork": [
         {
-          "id": "708457f5-5989-4757-a605-321411d86905",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/031f9b89-8b78-406b-a9b7-a5a014e6bdab/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:46:28.662539+00:00",
-      "edition": "original",
-      "id": "78c846e2-ea79-4ee2-98eb-fc89493ec43b",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Kid Krow"
-    },
-    {
-      "artists": {
-        "canonical_name": "Conan Gray",
-        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
-      },
-      "artwork": [
-        {
           "id": "47495799-c096-4654-876c-9ad9bd169752",
           "role": "canonical",
           "source_url": "https://coverartarchive.org/release/bb6c9102-115a-4c2d-b1d6-c765c9412387/front",
@@ -66,6 +42,30 @@
       "release_type": "album",
       "release_year": null,
       "title": "Hopeless Romantic"
+    },
+    {
+      "artists": {
+        "canonical_name": "Conan Gray",
+        "id": "6e251fee-a2ab-4d37-876c-6cd146436f2f"
+      },
+      "artwork": [
+        {
+          "id": "708457f5-5989-4757-a605-321411d86905",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/031f9b89-8b78-406b-a9b7-a5a014e6bdab/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:46:28.662539+00:00",
+      "edition": "original",
+      "id": "78c846e2-ea79-4ee2-98eb-fc89493ec43b",
+      "label": null,
+      "release_date": "2020-03-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "Kid Krow"
     },
     {
       "artists": {

@@ -36,14 +36,14 @@
     "id": "26a8570b-1be1-4023-9068-8b3cdd1118a9",
     "label": null,
     "mbid": null,
-    "release_date": null,
+    "release_date": "2001-04-25",
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 2001,
     "spotify_id": null,
     "status": "needs_review",
     "title": "Survivor",
-    "updated_at": "2026-10-14T06:45:09.481225+00:00"
+    "updated_at": "2026-10-16T03:30:54.076951+00:00"
   },
   "tracks": [
     {
@@ -65,5 +65,28 @@
       "updated_at": "2026-10-14T06:45:09.540703+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "released (date found)",
+        "genuinely unreleased",
+        "unknown"
+      ],
+      "created_at": "2026-10-16T03:30:55.314813+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "released; release_year=2001, release_date=2001-04-25",
+      "entity_id": "26a8570b-1be1-4023-9068-8b3cdd1118a9",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_date": "verified",
+        "release_year": "verified"
+      },
+      "id": "1fad75c3-31e1-4be3-86a2-876ad311cd4f",
+      "input": "release 'Survivor' by Destiny's Child flagged unreleased (no date/year); research true release date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "Wikipedia (intl date 2001-04-25; US 2001-05-01) + Hot97 agree; original used.",
+      "status": "verified"
+    }
+  ]
 }

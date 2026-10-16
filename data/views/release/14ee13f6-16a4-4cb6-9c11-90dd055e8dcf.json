@@ -43,7 +43,7 @@
       "release_date": null,
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
+      "release_year": 2017,
       "title": "Promo Only: Modern Rock Radio, November 2017"
     },
     {
@@ -109,14 +109,14 @@
     "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
     "label": null,
     "mbid": null,
-    "release_date": null,
+    "release_date": "2020-12-04",
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 2020,
     "spotify_id": null,
     "status": "needs_review",
     "title": "The Lo-Fis",
-    "updated_at": "2026-10-14T00:46:06.039583+00:00"
+    "updated_at": "2026-10-16T03:27:52.48113+00:00"
   },
   "tracks": [
     {
@@ -138,5 +138,27 @@
       "updated_at": "2026-10-14T00:46:06.193899+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "released (date found)",
+        "genuinely unreleased"
+      ],
+      "created_at": "2026-10-16T03:27:54.021945+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "released; release_year=2020, release_date=2020-12-04",
+      "entity_id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_date": "verified",
+        "release_year": "verified"
+      },
+      "id": "ef88dcda-6499-4857-aab8-50e3789e2a6f",
+      "input": "release 'The Lo-Fis' by Steve Lacy flagged unreleased (no date/year); research true release date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "AllMusic, NME (official release news), Discogs agree on 2020-12-04.",
+      "status": "verified"
+    }
+  ]
 }

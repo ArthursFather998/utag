@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:29:06.198745+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2005 (exact day unverified; year only)",
+  "entity_id": "e340b22d-47aa-46d8-a5e7-a1fb0fcf6936",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "unknown",
+    "release_year": "verified"
+  },
+  "id": "6ce75119-7db9-4644-a2eb-8d10b9ccb96c",
+  "input": "release 'Warped Tour '05: Bootleg Series (live at Warped Tour 2005)' flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "MCR live recordings Warped Tour 2005; JioSaavn + breakmefast + musicfactsdb agree 2005 (musicfactsdb's exact 07-19 single-source, Gaana's 2009 is a re-ingest artifact) so only year applied.",
+  "status": "verified"
+}

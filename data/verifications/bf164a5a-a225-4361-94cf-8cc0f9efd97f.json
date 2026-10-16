@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    "released (date found)",
+    "genuinely unreleased",
+    "unknown"
+  ],
+  "created_at": "2026-10-16T03:29:02.69623+00:00",
+  "created_by": "utag-adjudicator",
+  "decision": "released; release_year=2000 (exact day unverified; year only)",
+  "entity_id": "b70df264-bef7-4bfd-b5a8-fc86a2577925",
+  "entity_type": "release",
+  "field_confidence": {
+    "release_date": "unknown",
+    "release_year": "verified"
+  },
+  "id": "bf164a5a-a225-4361-94cf-8cc0f9efd97f",
+  "input": "release 'The Radio Essential Series' flagged unreleased (no date/year); research true release date",
+  "model": "Muse Spark",
+  "overall_confidence": "verified",
+  "rationale": "Huge Various digital comp; Last.fm + Discogs agree 2000. Filed under Mariah Carey; actually Various.",
+  "status": "verified"
+}

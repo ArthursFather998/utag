@@ -22,6 +22,23 @@
         "canonical_name": "Fall Out Boy",
         "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
       },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:37.896401+00:00",
+      "edition": "original",
+      "id": "86d1e28f-e3b2-4dcc-bfab-6996cbaff5f2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2005,
+      "title": "From Under the Cork Tree"
+    },
+    {
+      "artists": {
+        "canonical_name": "Fall Out Boy",
+        "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
+      },
       "artwork": [
         {
           "id": "1294d87d-c336-4813-9717-9ad499168697",
@@ -35,28 +52,11 @@
       "edition": "original",
       "id": "5dfe8267-8abd-48fd-a838-9fc8e2542c41",
       "label": null,
-      "release_date": null,
+      "release_date": "2019-11-15",
       "release_status": null,
       "release_type": "album",
-      "release_year": null,
+      "release_year": 2019,
       "title": "Greatest Hits: Believers Never Die"
-    },
-    {
-      "artists": {
-        "canonical_name": "Fall Out Boy",
-        "id": "8ca9f5d0-c528-446b-940c-7b0450424315"
-      },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:37:37.896401+00:00",
-      "edition": "original",
-      "id": "86d1e28f-e3b2-4dcc-bfab-6996cbaff5f2",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2005,
-      "title": "From Under the Cork Tree"
     }
   ],
   "verifications": []

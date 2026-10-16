@@ -39,11 +39,11 @@
     "release_date": null,
     "release_status": null,
     "release_type": "album",
-    "release_year": null,
+    "release_year": 1964,
     "spotify_id": null,
     "status": "needs_review",
     "title": "Mr. Lonely",
-    "updated_at": "2026-10-14T07:02:49.041988+00:00"
+    "updated_at": "2026-10-16T03:31:06.798237+00:00"
   },
   "tracks": [
     {
@@ -65,5 +65,28 @@
       "updated_at": "2026-10-14T07:02:49.117128+00:00"
     }
   ],
-  "verifications": []
+  "verifications": [
+    {
+      "candidates": [
+        "released (date found)",
+        "genuinely unreleased",
+        "unknown"
+      ],
+      "created_at": "2026-10-16T03:31:08.102858+00:00",
+      "created_by": "utag-adjudicator",
+      "decision": "released; release_year=1964 (exact day unverified; year only)",
+      "entity_id": "77d0f033-1bc9-4af7-9645-e6933da786bc",
+      "entity_type": "release",
+      "field_confidence": {
+        "release_date": "unknown",
+        "release_year": "verified"
+      },
+      "id": "ef3d1843-ee52-49d7-9439-646e3be2b636",
+      "input": "release 'Mr. Lonely' by Bobby Vinton flagged unreleased (no date/year); research true release date",
+      "model": "Muse Spark",
+      "overall_confidence": "verified",
+      "rationale": "Bobby Vinton's 10th studio album, Epic, December 1964 (Wikipedia album + song articles). Month precision; year only. Title single was Oct 1964.",
+      "status": "verified"
+    }
+  ]
 }

@@ -277,6 +277,30 @@
         "canonical_name": "Michael Jackson",
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
+      "artwork": [
+        {
+          "id": "e9f25828-8258-4b08-ad2a-81222d37ff62",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/fe/a3/0cfea324-57c1-d530-5248-9bb591bbd7bf/074643574525.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:24.107218+00:00",
+      "edition": "original",
+      "id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1979,
+      "title": "Off the Wall"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:11:16.592018+00:00",
@@ -322,30 +346,6 @@
       "release_type": "single",
       "release_year": 1979,
       "title": "Rock with You"
-    },
-    {
-      "artists": {
-        "canonical_name": "Michael Jackson",
-        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
-      },
-      "artwork": [
-        {
-          "id": "e9f25828-8258-4b08-ad2a-81222d37ff62",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/fe/a3/0cfea324-57c1-d530-5248-9bb591bbd7bf/074643574525.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:42:24.107218+00:00",
-      "edition": "original",
-      "id": "cf7e6a20-f9b8-4040-a5bb-84f36b7b5f8c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1979,
-      "title": "Off the Wall"
     },
     {
       "artists": {
@@ -1193,23 +1193,6 @@
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
       "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:09:59.788823+00:00",
-      "edition": "original",
-      "id": "80f243ff-9a2d-4ca2-8d1c-5b2a9eda5fdc",
-      "label": "Epic",
-      "release_date": "2004-11-17",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2004,
-      "title": "The Ultimate Collection"
-    },
-    {
-      "artists": {
-        "canonical_name": "Michael Jackson",
-        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
-      },
-      "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-14T07:03:25.601026+00:00",
       "edition": "original",
@@ -1220,6 +1203,23 @@
       "release_type": "album",
       "release_year": 2004,
       "title": "Hott2death Sega 21"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T04:09:59.788823+00:00",
+      "edition": "original",
+      "id": "80f243ff-9a2d-4ca2-8d1c-5b2a9eda5fdc",
+      "label": "Epic",
+      "release_date": "2004-11-17",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2004,
+      "title": "The Ultimate Collection"
     },
     {
       "artists": {

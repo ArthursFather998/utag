@@ -11,17 +11,168 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:28:54.749805+00:00",
+      "artwork": [
+        {
+          "id": "bfd67194-9fe0-40c0-b669-4bd5cfb447fa",
+          "role": "canonical",
+          "source_url": "https://i1.sndcdn.com/artworks-MPL9YBXYnuageP0f-U4WSig-t1080x1080.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:39.155902+00:00",
       "edition": "original",
-      "id": "0135b16e-d5ff-41ec-ba78-3b9fd4e330ae",
+      "id": "0afa0de7-b25b-43da-baaa-01fdf8966132",
       "label": null,
       "release_date": null,
-      "release_status": null,
+      "release_status": "unreleased",
+      "release_type": "single",
+      "release_year": null,
+      "title": "Dancing Through The End Of The World"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "01ecab3d-aed2-467e-afc1-5dfc38d71e19",
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/listen-before-i-go.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:58.529848+00:00",
+      "edition": "original",
+      "id": "2f31b4b2-03d6-4fbc-81d8-696e8960adc5",
+      "label": null,
+      "release_date": null,
+      "release_status": "unreleased",
+      "release_type": "single",
+      "release_year": null,
+      "title": "listen before i go (Cover)"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "5b6a61cc-3b0e-4515-9e84-e21c5d0e9003",
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/forever-unreleased.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:51.072183+00:00",
+      "edition": "original",
+      "id": "65b084b4-a646-457d-9c28-c9d220b83dfa",
+      "label": null,
+      "release_date": null,
+      "release_status": "unreleased",
+      "release_type": "single",
+      "release_year": null,
+      "title": "Forever"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "1d5dede2-4cc8-4577-bccb-8269b6a58dde",
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/im-in-love.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:45.020218+00:00",
+      "edition": "original",
+      "id": "6eab752c-7733-4404-9308-451345bbda55",
+      "label": null,
+      "release_date": null,
+      "release_status": "unreleased",
+      "release_type": "single",
+      "release_year": null,
+      "title": "Im In Love"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "10723ba1-1014-4a12-a80d-ccd5583d1712",
+          "role": "canonical",
+          "source_url": null,
+          "stored_path": "import/celeste-unreleased.jpg"
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:26.990934+00:00",
+      "edition": "original",
+      "id": "9afc6f2d-7798-436e-8cf7-a70177ae322b",
+      "label": null,
+      "release_date": null,
+      "release_status": "unreleased",
+      "release_type": "single",
+      "release_year": null,
+      "title": "Celeste"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "514fbe00-62c0-4421-b8bb-004c4715b307",
+          "role": "canonical",
+          "source_url": "https://i1.sndcdn.com/artworks-lyhEUhnDrMEu19sk-Lz5CJg-t500x500.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-09T03:27:33.001157+00:00",
+      "edition": "original",
+      "id": "b21b1a4d-8a95-4b55-9352-8874a50ee283",
+      "label": null,
+      "release_date": null,
+      "release_status": "unreleased",
+      "release_type": "single",
+      "release_year": null,
+      "title": "Cold In The Summer"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "a5bc2e01-aa1d-413e-b292-abf4c5151ca6",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/0c/82/4e0c82e8-7970-25f5-bfd6-6f0faec83dcb/22UMGIM94151.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-13T23:24:45.823571+00:00",
+      "edition": "original",
+      "id": "3ea07952-2c0f-4fb9-a105-98275fe89c27",
+      "label": null,
+      "release_date": null,
+      "release_status": "released",
       "release_type": "single",
       "release_year": 2022,
-      "title": "Bleed Out (2022)"
+      "title": "Romantic Homicide"
     },
     {
       "artists": {
@@ -52,24 +203,130 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:40:18.443717+00:00",
+      "edition": "original",
+      "id": "4fc02009-7f16-47eb-ba48-22f3fd789000",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
       "artwork": [
         {
-          "id": "bfd67194-9fe0-40c0-b669-4bd5cfb447fa",
+          "id": "4b3e538f-40be-43f9-80f3-f4d2a2a41f80",
           "role": "canonical",
-          "source_url": "https://i1.sndcdn.com/artworks-MPL9YBXYnuageP0f-U4WSig-t1080x1080.jpg",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/fe/e8/82fee869-1ff3-028b-45ea-39bd00eeae61/25UMGIM01021.rgb.jpg/1200x1200bb.jpg",
           "stored_path": null
         }
       ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-09T03:27:39.155902+00:00",
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:31.902487+00:00",
       "edition": "original",
-      "id": "0afa0de7-b25b-43da-baaa-01fdf8966132",
+      "id": "a43f12b6-1450-45b0-a38c-e479705e3e6a",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "WITHERED"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "a8133d96-69a3-4887-a003-fc1ded2d8ac8",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/83/1a/d6831a94-4e8f-5b23-df44-a313eb358257/23UMGIM33457.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:40.53214+00:00",
+      "edition": "original",
+      "id": "da9e7a3b-a0d7-48fe-82ba-b4e3f77642a6",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "Petals to Thorns"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "9f62df87-47b8-4962-8c31-488e3a00b66a",
+          "role": "canonical",
+          "source_url": "https://i.ytimg.com/vi/av3VGuUgJAo/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIFgoZTAP&rs=AOn4CLCu0y7s7U4V3Ael0QEW5wHaHmx_kA",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-14T01:02:37.020216+00:00",
+      "edition": "original",
+      "id": "8b19ac11-eb09-4aff-aa3b-349e9b6ca0c4",
       "label": null,
       "release_date": null,
       "release_status": "unreleased",
       "release_type": "single",
       "release_year": null,
-      "title": "Dancing Through The End Of The World"
+      "title": "Past Love (w SSGKobe)"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "08de02f0-0b68-4acb-b811-90d252e15046",
+          "role": "canonical",
+          "source_url": "https://myipop.net/wp-content/uploads/2024/03/HouseIsNotAHome-FINAL-scaled.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-14T01:02:46.35192+00:00",
+      "edition": "original",
+      "id": "d4046365-0b32-47b8-a254-0c27409a2e81",
+      "label": null,
+      "release_date": null,
+      "release_status": "unreleased",
+      "release_type": "single",
+      "release_year": null,
+      "title": "home"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T04:28:54.749805+00:00",
+      "edition": "original",
+      "id": "0135b16e-d5ff-41ec-ba78-3b9fd4e330ae",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2022,
+      "title": "Bleed Out (2022)"
     },
     {
       "artists": {
@@ -146,30 +403,6 @@
       },
       "artwork": [
         {
-          "id": "01ecab3d-aed2-467e-afc1-5dfc38d71e19",
-          "role": "canonical",
-          "source_url": null,
-          "stored_path": "import/listen-before-i-go.jpg"
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-09T03:27:58.529848+00:00",
-      "edition": "original",
-      "id": "2f31b4b2-03d6-4fbc-81d8-696e8960adc5",
-      "label": null,
-      "release_date": null,
-      "release_status": "unreleased",
-      "release_type": "single",
-      "release_year": null,
-      "title": "listen before i go (Cover)"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
           "id": "c89f091c-69c3-4317-8876-92ad1b269475",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/69/d0/1d69d050-7f60-69c3-5407-28ee6618942b/22UM1IM08611.rgb.jpg/1200x1200bb.jpg",
@@ -183,33 +416,9 @@
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "More Than Just Friends - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "a5bc2e01-aa1d-413e-b292-abf4c5151ca6",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/0c/82/4e0c82e8-7970-25f5-bfd6-6f0faec83dcb/22UMGIM94151.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-13T23:24:45.823571+00:00",
-      "edition": "original",
-      "id": "3ea07952-2c0f-4fb9-a105-98275fe89c27",
-      "label": null,
-      "release_date": null,
-      "release_status": "released",
       "release_type": "single",
       "release_year": 2022,
-      "title": "Romantic Homicide"
+      "title": "More Than Just Friends"
     },
     {
       "artists": {
@@ -234,23 +443,6 @@
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:40:18.443717+00:00",
-      "edition": "original",
-      "id": "4fc02009-7f16-47eb-ba48-22f3fd789000",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": null,
-      "title": "Unknown Album"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:28:48.352785+00:00",
       "edition": "original",
@@ -261,30 +453,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Life's a Dream (2022)"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "e4df82ce-07a6-44cd-b700-eecbea24cda3",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/00/f2/c600f233-9d36-17f4-b307-6bb9f72f4551/197187248193.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:39:18.598184+00:00",
-      "edition": "original",
-      "id": "5abeecf9-6b7d-4d24-84dd-533b7bc309d3",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "See You In The Dark - EP"
     },
     {
       "artists": {
@@ -302,54 +470,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "It's That Time Again"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "5b6a61cc-3b0e-4515-9e84-e21c5d0e9003",
-          "role": "canonical",
-          "source_url": null,
-          "stored_path": "import/forever-unreleased.jpg"
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-09T03:27:51.072183+00:00",
-      "edition": "original",
-      "id": "65b084b4-a646-457d-9c28-c9d220b83dfa",
-      "label": null,
-      "release_date": null,
-      "release_status": "unreleased",
-      "release_type": "single",
-      "release_year": null,
-      "title": "Forever"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "1d5dede2-4cc8-4577-bccb-8269b6a58dde",
-          "role": "canonical",
-          "source_url": null,
-          "stored_path": "import/im-in-love.jpg"
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-09T03:27:45.020218+00:00",
-      "edition": "original",
-      "id": "6eab752c-7733-4404-9308-451345bbda55",
-      "label": null,
-      "release_date": null,
-      "release_status": "unreleased",
-      "release_type": "single",
-      "release_year": null,
-      "title": "Im In Love"
     },
     {
       "artists": {
@@ -431,30 +551,6 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
-      "artwork": [
-        {
-          "id": "9f62df87-47b8-4962-8c31-488e3a00b66a",
-          "role": "canonical",
-          "source_url": "https://i.ytimg.com/vi/av3VGuUgJAo/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIFgoZTAP&rs=AOn4CLCu0y7s7U4V3Ael0QEW5wHaHmx_kA",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-14T01:02:37.020216+00:00",
-      "edition": "original",
-      "id": "8b19ac11-eb09-4aff-aa3b-349e9b6ca0c4",
-      "label": null,
-      "release_date": null,
-      "release_status": "unreleased",
-      "release_type": "single",
-      "release_year": null,
-      "title": "Past Love (w SSGKobe)"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:30:34.755886+00:00",
@@ -500,30 +596,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Life's a Dream"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "10723ba1-1014-4a12-a80d-ccd5583d1712",
-          "role": "canonical",
-          "source_url": null,
-          "stored_path": "import/celeste-unreleased.jpg"
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-09T03:27:26.990934+00:00",
-      "edition": "original",
-      "id": "9afc6f2d-7798-436e-8cf7-a70177ae322b",
-      "label": null,
-      "release_date": null,
-      "release_status": "unreleased",
-      "release_type": "single",
-      "release_year": null,
-      "title": "Celeste"
     },
     {
       "artists": {
@@ -592,30 +664,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "You and I (2022)"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "4b3e538f-40be-43f9-80f3-f4d2a2a41f80",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/fe/e8/82fee869-1ff3-028b-45ea-39bd00eeae61/25UMGIM01021.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T01:01:31.902487+00:00",
-      "edition": "original",
-      "id": "a43f12b6-1450-45b0-a38c-e479705e3e6a",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2025,
-      "title": "WITHERED"
     },
     {
       "artists": {
@@ -733,30 +781,6 @@
       },
       "artwork": [
         {
-          "id": "514fbe00-62c0-4421-b8bb-004c4715b307",
-          "role": "canonical",
-          "source_url": "https://i1.sndcdn.com/artworks-lyhEUhnDrMEu19sk-Lz5CJg-t500x500.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-09T03:27:33.001157+00:00",
-      "edition": "original",
-      "id": "b21b1a4d-8a95-4b55-9352-8874a50ee283",
-      "label": null,
-      "release_date": null,
-      "release_status": "unreleased",
-      "release_type": "single",
-      "release_year": null,
-      "title": "Cold In The Summer"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
           "id": "3a67dee9-1dc8-4a18-a0c5-e9bd5fe29a38",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/7f/13/767f134e-da40-47b8-a5a3-3d3866d954fa/23UM1IM61681.rgb.jpg/1200x1200bb.jpg",
@@ -794,9 +818,9 @@
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
+      "release_type": "ep",
       "release_year": 2024,
-      "title": "Withering - Single"
+      "title": "Withering"
     },
     {
       "artists": {
@@ -814,54 +838,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Dirty Secrets (2022)"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "08de02f0-0b68-4acb-b811-90d252e15046",
-          "role": "canonical",
-          "source_url": "https://myipop.net/wp-content/uploads/2024/03/HouseIsNotAHome-FINAL-scaled.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-14T01:02:46.35192+00:00",
-      "edition": "original",
-      "id": "d4046365-0b32-47b8-a254-0c27409a2e81",
-      "label": null,
-      "release_date": null,
-      "release_status": "unreleased",
-      "release_type": "single",
-      "release_year": null,
-      "title": "home"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
-          "id": "a8133d96-69a3-4887-a003-fc1ded2d8ac8",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/83/1a/d6831a94-4e8f-5b23-df44-a313eb358257/23UMGIM33457.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T01:01:40.53214+00:00",
-      "edition": "original",
-      "id": "da9e7a3b-a0d7-48fe-82ba-b4e3f77642a6",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "Petals to Thorns"
     },
     {
       "artists": {
@@ -928,30 +904,6 @@
       },
       "artwork": [
         {
-          "id": "ab09d94f-fdfc-4e61-99c0-fb019ab7b6b0",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/fa/0c/40fa0c25-70b9-2dc4-d0d5-e4f2eb192db6/7316481842033.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:39:23.3699+00:00",
-      "edition": "original",
-      "id": "f080abfb-ad8e-4e5d-ae97-dff2aa819ceb",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "FEEL (Stripped Down) - EP"
-    },
-    {
-      "artists": {
-        "canonical_name": "d4vd",
-        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
-      },
-      "artwork": [
-        {
           "id": "68931c53-aae7-47dd-9228-ea8ea25a9caf",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c2/9c/7e/c29c7e8d-d801-296c-7fc5-8b5db844e6c4/22UM1IM08609.rgb.jpg/1200x1200bb.jpg",
@@ -965,9 +917,9 @@
       "label": null,
       "release_date": null,
       "release_status": null,
-      "release_type": "album",
+      "release_type": "single",
       "release_year": 2022,
-      "title": "NEVER AGAIN - Single"
+      "title": "NEVER AGAIN"
     },
     {
       "artists": {
@@ -1019,6 +971,30 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Decide"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "ab09d94f-fdfc-4e61-99c0-fb019ab7b6b0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/fa/0c/40fa0c25-70b9-2dc4-d0d5-e4f2eb192db6/7316481842033.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:39:23.3699+00:00",
+      "edition": "original",
+      "id": "f080abfb-ad8e-4e5d-ae97-dff2aa819ceb",
+      "label": null,
+      "release_date": null,
+      "release_status": "unreleased",
+      "release_type": "ep",
+      "release_year": 2024,
+      "title": "FEEL (Stripped Down) - EP"
     }
   ],
   "release": {

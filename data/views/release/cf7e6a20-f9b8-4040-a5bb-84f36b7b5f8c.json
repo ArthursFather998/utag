@@ -27,6 +27,47 @@
         "canonical_name": "Michael Jackson",
         "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
       },
+      "artwork": [
+        {
+          "id": "cfedcd20-7dcd-452d-aaf4-a839444dcbdb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/0b/fb/b5/0bfbb592-e2ce-065a-a098-09f55cee22db/dj.iziroksp.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:34:41.20701+00:00",
+      "edition": "original",
+      "id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1987,
+      "title": "Bad 25th Anniversary"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T07:03:25.601026+00:00",
+      "edition": "original",
+      "id": "f615fbc8-3661-4af1-ab87-e899cad7d10c",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2004,
+      "title": "Hott2death Sega 21"
+    },
+    {
+      "artists": {
+        "canonical_name": "Michael Jackson",
+        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:10:25.186473+00:00",
@@ -531,30 +572,6 @@
       "release_type": "single",
       "release_year": 1988,
       "title": "Another Part of Me"
-    },
-    {
-      "artists": {
-        "canonical_name": "Michael Jackson",
-        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
-      },
-      "artwork": [
-        {
-          "id": "cfedcd20-7dcd-452d-aaf4-a839444dcbdb",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/0b/fb/b5/0bfbb592-e2ce-065a-a098-09f55cee22db/dj.iziroksp.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:34:41.20701+00:00",
-      "edition": "original",
-      "id": "57cd6546-e0a5-4086-99a5-4192d2c03dfd",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1987,
-      "title": "Bad 25th Anniversary"
     },
     {
       "artists": {
@@ -1524,23 +1541,6 @@
       "release_type": "single",
       "release_year": 1989,
       "title": "Leave Me Alone"
-    },
-    {
-      "artists": {
-        "canonical_name": "Michael Jackson",
-        "id": "9f9fdce3-6d00-4639-a7c8-1904948816fd"
-      },
-      "artwork": [],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T07:03:25.601026+00:00",
-      "edition": "original",
-      "id": "f615fbc8-3661-4af1-ab87-e899cad7d10c",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2004,
-      "title": "Hott2death Sega 21"
     },
     {
       "artists": {

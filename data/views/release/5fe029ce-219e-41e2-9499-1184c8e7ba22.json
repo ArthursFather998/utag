@@ -29,30 +29,6 @@
       },
       "artwork": [
         {
-          "id": "99c2da30-7f01-4b3c-a192-c5f517ba821f",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/63/93/3e6393fb-5fe2-1ef4-1c0d-6452919a351c/828768904824.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T06:44:21.981005+00:00",
-      "edition": "original",
-      "id": "b4e701c1-a81b-41ce-9f18-9c6ac4a77bc4",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 1972,
-      "title": "The Essential Elvis Presley"
-    },
-    {
-      "artists": {
-        "canonical_name": "Elvis Presley",
-        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
-      },
-      "artwork": [
-        {
           "id": "199db2e4-63ef-44ef-b96e-9ccabee7b0cd",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/63/93/3e6393fb-5fe2-1ef4-1c0d-6452919a351c/828768904824.jpg/1200x1200bb.jpg",
@@ -68,6 +44,30 @@
       "release_status": null,
       "release_type": "album",
       "release_year": 1963,
+      "title": "The Essential Elvis Presley"
+    },
+    {
+      "artists": {
+        "canonical_name": "Elvis Presley",
+        "id": "83b6f469-fee4-4a95-bac4-2b70d6837bfe"
+      },
+      "artwork": [
+        {
+          "id": "99c2da30-7f01-4b3c-a192-c5f517ba821f",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/63/93/3e6393fb-5fe2-1ef4-1c0d-6452919a351c/828768904824.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T06:44:21.981005+00:00",
+      "edition": "original",
+      "id": "b4e701c1-a81b-41ce-9f18-9c6ac4a77bc4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 1972,
       "title": "The Essential Elvis Presley"
     }
   ],

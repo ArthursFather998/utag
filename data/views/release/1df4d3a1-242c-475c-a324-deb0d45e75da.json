@@ -27,6 +27,54 @@
         "canonical_name": "Olivia Rodrigo",
         "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
       },
+      "artwork": [
+        {
+          "id": "a1c2f58d-d7f7-4635-be4b-29361192d204",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:41.648529+00:00",
+      "edition": "original",
+      "id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2023,
+      "title": "GUTS (spilled)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [
+        {
+          "id": "f313e170-7baf-4880-8e7c-1a96329d9ce9",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/edbf0781-ef14-41d8-9776-8aa04e56b1da/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:20.750333+00:00",
+      "edition": "original",
+      "id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
+      "label": null,
+      "release_date": "2025-01-30",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "2025‐01‐30: FireAid"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:17:42.2536+00:00",
@@ -55,30 +103,6 @@
       "release_type": "single",
       "release_year": 2026,
       "title": "the cure"
-    },
-    {
-      "artists": {
-        "canonical_name": "Olivia Rodrigo",
-        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
-      },
-      "artwork": [
-        {
-          "id": "a1c2f58d-d7f7-4635-be4b-29361192d204",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:37:41.648529+00:00",
-      "edition": "original",
-      "id": "1ea066dd-6a43-4245-b7f1-4bb569cef0be",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2023,
-      "title": "GUTS (spilled)"
     },
     {
       "artists": {
@@ -402,30 +426,6 @@
       "release_type": "album",
       "release_year": 2022,
       "title": "Singles 4 You"
-    },
-    {
-      "artists": {
-        "canonical_name": "Olivia Rodrigo",
-        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
-      },
-      "artwork": [
-        {
-          "id": "f313e170-7baf-4880-8e7c-1a96329d9ce9",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/edbf0781-ef14-41d8-9776-8aa04e56b1da/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:45:20.750333+00:00",
-      "edition": "original",
-      "id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
-      "label": null,
-      "release_date": "2025-01-30",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2025,
-      "title": "2025‐01‐30: FireAid"
     },
     {
       "artists": {

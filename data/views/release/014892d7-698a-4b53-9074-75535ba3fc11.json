@@ -27,6 +27,78 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
+      "artwork": [
+        {
+          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
+          "role": "canonical",
+          "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T21:00:39.442156+00:00",
+      "edition": "original",
+      "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
+      "label": "RCA Records",
+      "release_date": "2022-07-15",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Gemini Rights"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
+      "artwork": [
+        {
+          "id": "9bebe8bb-ee5e-4db2-a121-8af24a00867d",
+          "role": "canonical",
+          "source_url": "https://cdn-images.dzcdn.net/images/cover/aab27852a05351552e9dcacdbb14ec3a/1000x1000-000000-80-0-0.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T00:46:06.039583+00:00",
+      "edition": "original",
+      "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
+      "label": null,
+      "release_date": "2020-12-04",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2020,
+      "title": "The Lo-Fis"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
+      "artwork": [
+        {
+          "id": "da8b1c1a-a68e-4b19-9bee-243ff2c84ddb",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:42:27.99351+00:00",
+      "edition": "original",
+      "id": "a6fa57f3-10da-486c-b6d1-c400e69fbf50",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2026,
+      "title": "Oh yeah?"
+    },
+    {
+      "artists": {
+        "canonical_name": "Steve Lacy",
+        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
+      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:10:17.748378+00:00",
@@ -55,30 +127,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Bad Habit"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
-      "artwork": [
-        {
-          "id": "9bebe8bb-ee5e-4db2-a121-8af24a00867d",
-          "role": "canonical",
-          "source_url": "https://cdn-images.dzcdn.net/images/cover/aab27852a05351552e9dcacdbb14ec3a/1000x1000-000000-80-0-0.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T00:46:06.039583+00:00",
-      "edition": "original",
-      "id": "14ee13f6-16a4-4cb6-9c11-90dd055e8dcf",
-      "label": null,
-      "release_date": "2020-12-04",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2020,
-      "title": "The Lo-Fis"
     },
     {
       "artists": {
@@ -255,30 +303,6 @@
         "canonical_name": "Steve Lacy",
         "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
       },
-      "artwork": [
-        {
-          "id": "da8b1c1a-a68e-4b19-9bee-243ff2c84ddb",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:42:27.99351+00:00",
-      "edition": "original",
-      "id": "a6fa57f3-10da-486c-b6d1-c400e69fbf50",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2026,
-      "title": "Oh yeah?"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:09:58.738031+00:00",
@@ -375,30 +399,6 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Sunshine"
-    },
-    {
-      "artists": {
-        "canonical_name": "Steve Lacy",
-        "id": "137d0db2-4e73-45e2-ac37-0c1e61b4d262"
-      },
-      "artwork": [
-        {
-          "id": "20287b89-6ca8-4f8c-971e-9e692c0fefe5",
-          "role": "canonical",
-          "source_url": "https://img.apmcdn.org/5884e8dd46fd5a39f27c9400cf11726e1eba09f7/square/fe6b47-20221202-gemini-rights-steve-lacy-600.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T21:00:39.442156+00:00",
-      "edition": "original",
-      "id": "f837ac3e-a255-4736-830b-60e9c554fa42",
-      "label": "RCA Records",
-      "release_date": "2022-07-15",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "Gemini Rights"
     },
     {
       "artists": {

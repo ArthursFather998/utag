@@ -11,23 +11,6 @@
         "canonical_name": "Olivia Rodrigo",
         "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
       },
-      "artwork": [],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-16T04:18:08.506501+00:00",
-      "edition": "original",
-      "id": "104ab0ad-eb7b-4367-9174-0e5b7e6747b8",
-      "label": "Geffen",
-      "release_date": null,
-      "release_status": null,
-      "release_type": "single",
-      "release_year": 2026,
-      "title": "the cure"
-    },
-    {
-      "artists": {
-        "canonical_name": "Olivia Rodrigo",
-        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
-      },
       "artwork": [
         {
           "id": "d67ba79e-863e-40cb-b366-6b090f1dd46b",
@@ -70,6 +53,47 @@
       "release_type": "album",
       "release_year": 2023,
       "title": "GUTS (spilled)"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [
+        {
+          "id": "f313e170-7baf-4880-8e7c-1a96329d9ce9",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/edbf0781-ef14-41d8-9776-8aa04e56b1da/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:20.750333+00:00",
+      "edition": "original",
+      "id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
+      "label": null,
+      "release_date": "2025-01-30",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "2025‐01‐30: FireAid"
+    },
+    {
+      "artists": {
+        "canonical_name": "Olivia Rodrigo",
+        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
+      },
+      "artwork": [],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-16T04:18:08.506501+00:00",
+      "edition": "original",
+      "id": "104ab0ad-eb7b-4367-9174-0e5b7e6747b8",
+      "label": "Geffen",
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2026,
+      "title": "the cure"
     },
     {
       "artists": {
@@ -393,30 +417,6 @@
       "release_type": "album",
       "release_year": 2022,
       "title": "Singles 4 You"
-    },
-    {
-      "artists": {
-        "canonical_name": "Olivia Rodrigo",
-        "id": "5934eac3-9d48-4408-b2d8-8adc360c6236"
-      },
-      "artwork": [
-        {
-          "id": "f313e170-7baf-4880-8e7c-1a96329d9ce9",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/edbf0781-ef14-41d8-9776-8aa04e56b1da/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:45:20.750333+00:00",
-      "edition": "original",
-      "id": "f14d5335-f8de-4e58-9b8a-ca9b0ee36a1e",
-      "label": null,
-      "release_date": "2025-01-30",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2025,
-      "title": "2025‐01‐30: FireAid"
     },
     {
       "artists": {

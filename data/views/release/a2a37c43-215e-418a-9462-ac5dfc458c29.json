@@ -57,6 +57,54 @@
         "canonical_name": "Harry Styles",
         "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
       },
+      "artwork": [
+        {
+          "id": "765bc821-684c-4368-971c-5350b5aee4f0",
+          "role": "canonical",
+          "source_url": "https://tse3.mm.bing.net/th/id/OIP.goSH0qzNiLrYvrfC2gj4cgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "stored_path": null
+        }
+      ],
+      "confidence": "verified",
+      "created_at": "2026-10-10T14:54:25.321436+00:00",
+      "edition": "original",
+      "id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
+      "label": "Columbia / Erskine Records",
+      "release_date": "2022-05-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "Harry's House"
+    },
+    {
+      "artists": {
+        "canonical_name": "Harry Styles",
+        "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
+      },
+      "artwork": [
+        {
+          "id": "1198e0a5-9e8b-483e-b790-8158c16b108c",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:37:20.884313+00:00",
+      "edition": "original",
+      "id": "d5a7c407-1c8d-4f8c-8100-cf8639b001f4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2019,
+      "title": "Fine Line"
+    },
+    {
+      "artists": {
+        "canonical_name": "Harry Styles",
+        "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
+      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:04:11.178908+00:00",
@@ -227,30 +275,6 @@
         "canonical_name": "Harry Styles",
         "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
       },
-      "artwork": [
-        {
-          "id": "765bc821-684c-4368-971c-5350b5aee4f0",
-          "role": "canonical",
-          "source_url": "https://tse3.mm.bing.net/th/id/OIP.goSH0qzNiLrYvrfC2gj4cgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-          "stored_path": null
-        }
-      ],
-      "confidence": "verified",
-      "created_at": "2026-10-10T14:54:25.321436+00:00",
-      "edition": "original",
-      "id": "719dcd14-90c6-4a96-af74-1be4fcef175c",
-      "label": "Columbia / Erskine Records",
-      "release_date": "2022-05-20",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "Harry's House"
-    },
-    {
-      "artists": {
-        "canonical_name": "Harry Styles",
-        "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:03:24.659523+00:00",
@@ -381,30 +405,6 @@
       "release_type": "single",
       "release_year": 2026,
       "title": "Aperture"
-    },
-    {
-      "artists": {
-        "canonical_name": "Harry Styles",
-        "id": "cf1a8522-0afb-4fb7-8b86-78a95aef2561"
-      },
-      "artwork": [
-        {
-          "id": "1198e0a5-9e8b-483e-b790-8158c16b108c",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:37:20.884313+00:00",
-      "edition": "original",
-      "id": "d5a7c407-1c8d-4f8c-8100-cf8639b001f4",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2019,
-      "title": "Fine Line"
     },
     {
       "artists": {

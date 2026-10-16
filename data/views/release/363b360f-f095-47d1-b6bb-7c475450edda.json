@@ -27,6 +27,102 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
+      "artwork": [
+        {
+          "id": "e8a69c70-c0eb-4986-9a4c-cdf303049d16",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/fe/7a/22fe7a31-534a-58d8-eb80-fd08fdb9274d/22UMGIM63573.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:47:07.85872+00:00",
+      "edition": "original",
+      "id": "480ad5df-eb81-4cd9-95f1-dd63d15a75c2",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2022,
+      "title": "emails i can't send"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "ae753d65-9cb2-40a8-b3b7-1d7bce13e9c5",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c6/58/aec6589c-f5cf-0d81-2727-bc8775e34049/25UMGIM76990.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:41:14.944044+00:00",
+      "edition": "original",
+      "id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2025,
+      "title": "Manchild - Single"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "03477542-b483-45dd-9e28-175b51e426c0",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/1200x1200bb.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T00:43:26.000004+00:00",
+      "edition": "original",
+      "id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "Short n' Sweet"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
+      "artwork": [
+        {
+          "id": "1590e749-2a8f-4a11-bb6b-6f26141e8162",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/d24f2e47-b8b6-4e3e-8f7a-e97cc140bc0d/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-14T06:45:42.807992+00:00",
+      "edition": "original",
+      "id": "91ff9eda-6a7a-4726-8faf-f64055263431",
+      "label": null,
+      "release_date": "2024-12-20",
+      "release_status": null,
+      "release_type": "album",
+      "release_year": 2024,
+      "title": "NPR Music Tiny Desk Concert"
+    },
+    {
+      "artists": {
+        "canonical_name": "Sabrina Carpenter",
+        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
+      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:05:09.256563+00:00",
@@ -282,30 +378,6 @@
         "canonical_name": "Sabrina Carpenter",
         "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
       },
-      "artwork": [
-        {
-          "id": "e8a69c70-c0eb-4986-9a4c-cdf303049d16",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/fe/7a/22fe7a31-534a-58d8-eb80-fd08fdb9274d/22UMGIM63573.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:47:07.85872+00:00",
-      "edition": "original",
-      "id": "480ad5df-eb81-4cd9-95f1-dd63d15a75c2",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2022,
-      "title": "emails i can't send"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
       "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:03:51.420173+00:00",
@@ -470,54 +542,6 @@
       "release_type": "album",
       "release_year": 2016,
       "title": "EVOLution"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [
-        {
-          "id": "ae753d65-9cb2-40a8-b3b7-1d7bce13e9c5",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/c6/58/aec6589c-f5cf-0d81-2727-bc8775e34049/25UMGIM76990.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:41:14.944044+00:00",
-      "edition": "original",
-      "id": "8e2c61b4-440c-4be8-b9bc-60d5bea67fde",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2025,
-      "title": "Manchild - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [
-        {
-          "id": "1590e749-2a8f-4a11-bb6b-6f26141e8162",
-          "role": "canonical",
-          "source_url": "https://coverartarchive.org/release/d24f2e47-b8b6-4e3e-8f7a-e97cc140bc0d/front",
-          "stored_path": null
-        }
-      ],
-      "confidence": "needs_review",
-      "created_at": "2026-10-14T06:45:42.807992+00:00",
-      "edition": "original",
-      "id": "91ff9eda-6a7a-4726-8faf-f64055263431",
-      "label": null,
-      "release_date": "2024-12-20",
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "NPR Music Tiny Desk Concert"
     },
     {
       "artists": {
@@ -773,30 +797,6 @@
       "release_type": "single",
       "release_year": 2025,
       "title": "Busy Woman - Single"
-    },
-    {
-      "artists": {
-        "canonical_name": "Sabrina Carpenter",
-        "id": "2bc6769b-79d1-4468-9b06-4e7be0bc53cf"
-      },
-      "artwork": [
-        {
-          "id": "03477542-b483-45dd-9e28-175b51e426c0",
-          "role": "canonical",
-          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/1200x1200bb.jpg",
-          "stored_path": null
-        }
-      ],
-      "confidence": "high_confidence",
-      "created_at": "2026-10-14T00:43:26.000004+00:00",
-      "edition": "original",
-      "id": "fdc80743-b4f4-4d72-bc0f-f1be877c8030",
-      "label": null,
-      "release_date": null,
-      "release_status": null,
-      "release_type": "album",
-      "release_year": 2024,
-      "title": "Short n' Sweet"
     },
     {
       "artists": {

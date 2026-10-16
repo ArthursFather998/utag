@@ -207,6 +207,55 @@ h3 {
 .unreleased-div::before { width: 28px; }
 .unreleased-div::after { flex: 1; }
 
+/* Tabbed discography on artist pages: Albums | Singles and EP's | Unreleased. */
+.disc-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 22px;
+}
+.disc-tab {
+  font-family: var(--sans);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 9px 20px;
+  border-radius: 999px;
+  border: 0;
+  cursor: pointer;
+  background: var(--raise);
+  color: var(--text);
+}
+.disc-tab:hover { background: #20242c; }
+.disc-tab.on { background: #f2efe6; color: #141414; }
+.disc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(148px, 1fr));
+  gap: 24px 16px;
+}
+.disc-card { display: block; min-width: 0; }
+.disc-card:hover { text-decoration: none; }
+.dc-art {
+  display: block;
+  aspect-ratio: 1 / 1;
+  background: var(--raise);
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+.dc-art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.dc-art-empty { display: block; width: 100%; height: 100%; }
+.dc-title {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.35;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.disc-card:hover .dc-title { text-decoration: underline; }
+.dc-meta { display: block; margin-top: 3px; font-size: 13px; color: var(--dim); }
+
 .loading-note, .empty-note { color: var(--dim); font-size: 14px; }
 .muted-note { color: var(--faint); font-size: 12.5px; }
 

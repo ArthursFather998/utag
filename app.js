@@ -51,6 +51,34 @@ function unreleasedTag(r) {
   return releaseStatus(r) === "unreleased" ? `<span class="st st-unreleased"><i></i>Unreleased</span>` : "";
 }
 
+/* EPs are filed as release_type='album' (the DB check only allows
+   album/single/soundtrack). data/ep_releases.json lists the known EPs as
+   "artist_id|normalized_title" keys so the discography tabs can split them
+   out into "Singles and EP's". */
+let EP_KEYS = null;
+async function epKeys() {
+  if (!EP_KEYS) {
+    try { EP_KEYS = new Set(await (await fetch(libURL("data/ep_releases.json")) .json())); }
+    catch { EP_KEYS = new Set(); }
+  }
+  return EP_KEYS;
+}
+const normTitle = t => (t || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+const isEPRelease = (r, eks, artistId) =>
+  r.release_type === "album" && eks.has(`${artistId}|${normTitle(r.title)}`);
+
+/* Discography card for the tabbed artist discography (cover, title, year). */
+function discCard(r, typeLabel) {
+  const a = (r.artwork || [])[0];
+  const u = artUrl(a);
+  const meta = [r.release_year, typeLabel].filter(Boolean).join(" • ");
+  return `<a class="disc-card" href="#/release/${esc(r.id)}">
+    <span class="dc-art">${u ? im(u, "", r.title) : `<span class="dc-art-empty" aria-hidden="true"></span>`}</span>
+    <span class="dc-title">${esc(r.title)}</span>
+    ${meta ? `<span class="dc-meta">${esc(meta)}</span>` : ""}
+  </a>`;
+}
+
 /* Images fade in over a skeleton shimmer. The skeleton background shows
    while the image loads; a broken image collapses silently to it. */
 function im(u, cls, alt) {
@@ -1347,18 +1375,27 @@ async function vArtist(id) {
     ["Spotify", a.spotify_id], ["Apple", a.apple_id], ["Deezer", a.deezer_id],
     ["Discogs", a.discogs_id], ["MusicBrainz", a.mbid]
   ].filter(([, v]) => v);
-  const groups = [["album", "Albums"], ["ep", "EPs"], ["single", "Singles"], ["compilation", "Compilations"], ["soundtrack", "Soundtracks"], ["other", "Other releases"]];
-  const sectionFor = (label, list) => {
-    if (!list.length) return "";
-    return `<h2>${label}</h2><div class="rows">${list.map(r => releaseRow(r)).join("")}</div>`;
-  };
-  const releasedSections = groups.map(([type, label]) =>
-    sectionFor(label, (releases || []).filter(r => r.release_type === type && releaseStatus(r) === "released"))).join("");
-  const unreleasedSections = groups.map(([type, label]) =>
-    sectionFor(label, (releases || []).filter(r => r.release_type === type && releaseStatus(r) === "unreleased"))).join("");
-  const sections = releasedSections +
-    (releasedSections && unreleasedSections ? `<div class="unreleased-div" aria-label="Unreleased"><span>Unreleased</span></div>` : "") +
-    unreleasedSections;
+  const eks = await epKeys();
+  const isEP = r => isEPRelease(r, eks, id);
+  const released = r => releaseStatus(r) === "released";
+  const byNew = (a, b) => (b.release_year || 0) - (a.release_year || 0) || String(a.title).localeCompare(String(b.title));
+  const albums = (releases || []).filter(r => (r.release_type === "album" || r.release_type === "soundtrack") && !isEP(r) && released(r)).sort(byNew);
+  const singlesEPs = (releases || []).filter(r => (r.release_type === "single" || isEP(r)) && released(r)).sort(byNew);
+  const unrel = (releases || []).filter(r => releaseStatus(r) === "unreleased").sort(byNew);
+  const typeLabel = r => isEP(r) ? "EP" : r.release_type === "single" ? "Single" : r.release_type === "soundtrack" ? "Soundtrack" : "Album";
+  const panelFor = list => list.length
+    ? `<div class="disc-grid">${list.map(r => discCard(r, typeLabel(r))).join("")}</div>`
+    : `<p class="empty-note">Nothing here yet.</p>`;
+  const discography = `
+    <h2>Discography</h2>
+    <div class="disc-tabs" role="tablist" aria-label="Discography">
+      <button class="disc-tab on" type="button" role="tab" data-dtab="albums">Albums</button>
+      <button class="disc-tab" type="button" role="tab" data-dtab="singles">Singles and EP's</button>
+      <button class="disc-tab" type="button" role="tab" data-dtab="unreleased">Unreleased</button>
+    </div>
+    <div data-dpanel="albums" role="tabpanel">${panelFor(albums)}</div>
+    <div data-dpanel="singles" role="tabpanel" hidden>${panelFor(singlesEPs)}</div>
+    <div data-dpanel="unreleased" role="tabpanel" hidden>${panelFor(unrel)}</div>`;
   const idish = k => /id|mbid|barcode|isrc/i.test(k);
   view.innerHTML = `
     ${crumbs([["UTAG", "#/"], ["Artists", "#/artists"], [a.canonical_name, null]])}
@@ -1386,7 +1423,7 @@ async function vArtist(id) {
             ${efSave(`<button class="mini-btn danger" type="button" data-remove-artist="${esc(a.id)}" data-artist-name="${esc(a.canonical_name)}">Remove artist</button>`)}
           </div>
         </div>
-        ${sections || `<p class="empty-note">No releases on record yet.</p>`}
+        ${discography || `<p class="empty-note">No releases on record yet.</p>`}
         <h2>Verification history</h2>
         ${refList(verifs)}
         ${corrections && corrections.length ? `<h2>Human rulings</h2>${refList(corrections)}` : ""}
@@ -1402,6 +1439,13 @@ async function vArtist(id) {
 
   wireToggles();
   wireEditor(document.getElementById("artist-editor"), "artist", a.id, () => vArtist(id));
+
+  /* Discography tabs: Albums | Singles and EP's | Unreleased. */
+  const dtabBtns = [...document.querySelectorAll("[data-dtab]")];
+  dtabBtns.forEach(b => b.addEventListener("click", () => {
+    dtabBtns.forEach(x => { x.classList.toggle("on", x === b); x.setAttribute("aria-selected", x === b ? "true" : "false"); });
+    document.querySelectorAll("[data-dpanel]").forEach(p => { p.hidden = p.dataset.dpanel !== b.dataset.dtab; });
+  }));
 
   document.querySelectorAll("[data-remove-artist]").forEach(b => b.addEventListener("click", async () => {
     const aid = b.dataset.removeArtist, name = b.dataset.artistName || "this artist";

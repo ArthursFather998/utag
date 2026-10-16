@@ -1,15 +1,15 @@
 {
-  "confidence": "needs_review",
-  "created_at": "2026-10-14T07:03:35.548848+00:00",
-  "edition_label": null,
-  "height": null,
   "id": "47495799-c096-4654-876c-9ad9bd169752",
-  "phash": null,
   "release_id": "ee03aa33-e6dd-44e5-8566-757be224e830",
-  "role": "canonical",
-  "source": "Cover Art Archive",
   "source_url": "https://coverartarchive.org/release/bb6c9102-115a-4c2d-b1d6-c765c9412387/front",
-  "status": "needs_review",
   "stored_path": null,
-  "width": null
+  "phash": null,
+  "width": null,
+  "height": null,
+  "source": "Cover Art Archive",
+  "role": "alternate",
+  "edition_label": null,
+  "confidence": "needs_review",
+  "status": "needs_review",
+  "created_at": "2026-10-14T07:03:35.548848+00:00"
 }

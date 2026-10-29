@@ -165,3 +165,18 @@ is not.
 - `downloads_manifest.jsonl` - every successful rip, with local path,
   storage path, UTAG track id, size, and sha256
 - `failed_downloads.md` - human-readable report of the latest run only
+
+Mega holding tank (temporary, 2026-10-29):
+- Set DATUM_STORAGE=mega to upload via rclone instead of the
+  Supabase bucket. The runner installs rclone and creates the
+  remote from MEGA_EMAIL / MEGA_PASSWORD secrets; DATUM only
+  runs rclone copyto and rclone link, and stores the public link
+  in track_audio.mega_url at upload time.
+- utag-control audio_url returns the Mega link for Mega rows
+  (admin-gated only, the link does not expire) and a signed URL
+  for Supabase rows. Splotify audioBlob downloads Mega rows with
+  megajs in the browser, decrypts them, and imports the bytes to
+  SDB, so playback after import is local.
+- Next month, copy the Mega folder to the physical server with
+  rclone and flip the audio base there; no re-ripping is needed,
+  because track IDs and file names are unchanged.

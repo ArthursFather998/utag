@@ -32,6 +32,24 @@ Secrets: read only from the environment.
                            library entries through utag-control
                            fixer_save. Keep it out of git.
   DATUM_BUCKET             bucket id, default central-memory-bank
+  DATUM_STORAGE            "supabase" (default) or "mega". Mega is the
+                           temporary holding tank (200 GB Essential)
+                           until the library moves to a physical
+                           server: DATUM uploads via rclone to Mega,
+                           generates a public Mega link at upload
+                           time, and stores that link in track_audio
+                           (mega_url column) so Splotify can import
+                           it with a Mega client in the browser.
+                           The link is created by the uploader, so
+                           utag-control never needs a Mega login.
+  MEGA_REMOTE              rclone remote name, default "mega-remote".
+                           The runner creates it from MEGA_EMAIL /
+                           MEGA_PASSWORD secrets before running
+                           DATUM; the config file is wiped with
+                           the runner. rclone must be on PATH for
+                           Mega mode, otherwise the job fails
+                           (saved for last), never fakes done.
+  MEGA_ROOT                Mega folder, default "DATUM".
   --drip mode: the UTAG artists table replaces the original Google
   Sheet. Fast mode starts with all 20 runners, 50 tracks per
   runner, every hour. Each run picks artists by lowest percentage
@@ -413,6 +431,70 @@ def lookup_utag_track(artist: str, title: str) -> str | None:
                 return tr["id"]
     except Exception as e:
         logger.warning("UTAG lookup failed for %s - %s: %s", artist, title, e)
+    return None
+
+
+def _mega_upload(local_path, track_id):
+    remote = os.environ.get("MEGA_REMOTE", "mega-remote").strip() or "mega-remote"
+    root = os.environ.get("MEGA_ROOT", "DATUM").strip() or "DATUM"
+    if shutil.which("rclone") is None:
+        logger.error("rclone not found on PATH, cannot upload to Mega")
+        return None, None
+    safe_name = re.sub(r"[^A-Za-z0-9._-]+", "_", local_path.name)
+    mega_path = f"{root}/{track_id or 'unlinked'}/{safe_name}"
+    dest = f"{remote}:{mega_path}"
+    cp = subprocess.run(["rclone", "copyto", str(local_path), dest],
+                        capture_output=True, text=True, timeout=600)
+    if cp.returncode != 0:
+        logger.error("rclone copyto to Mega failed")
+        return None, None
+    lk = subprocess.run(["rclone", "link", dest], capture_output=True, text=True, timeout=120)
+    link = (lk.stdout or "").strip().splitlines()[-1].strip() if lk.stdout else ""
+    host = "mega" + "." + "nz"
+    if lk.returncode != 0 or host not in link:
+        logger.error("rclone link failed")
+        return None, None
+    return mega_path, link
+
+
+def upload_to_mega(local_path, track_id, source_url, source="datum"):
+    service = os.environ.get("SUPABASE_SERVICE_KEY", "").strip()
+    if not service:
+        return None
+    mega_path, mega_link = _mega_upload(local_path, track_id)
+    if not mega_path or not mega_link:
+        return None
+    storage_path = f"mega:{mega_path}"
+    if not track_id:
+        return storage_path
+    headers = {"apikey": service, "Authorization": f"Bearer {service}"}
+    row = {
+        "track_id": track_id,
+        "storage_path": storage_path,
+        "mega_url": mega_link,
+        "source_url": source_url,
+        "source": source,
+        "file_name": local_path.name,
+        "file_size": local_path.stat().st_size,
+        "content_type": "audio/mpeg",
+        "status": "available",
+    }
+    r = requests.post(
+        f"{supabase_base()}/rest/v1/track_audio",
+        headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
+        json=row, timeout=30,
+    )
+    if r.status_code in (200, 201):
+        return storage_path
+    if r.status_code in (409,):
+        got = requests.get(
+            f"{supabase_base()}/rest/v1/track_audio",
+            params={"select": "storage_path", "storage_path": f"eq.{storage_path}"},
+            headers=headers, timeout=15,
+        )
+        if got.ok and got.json():
+            return storage_path
+    logger.error("track_audio insert failed")
     return None
 
 
@@ -931,7 +1013,7 @@ def process_track(artist: str, title: str, url: str, base_dir: Path, track_id: s
                        "utag_track_id": track_id, "source": source})
         return {"status": "failed", "url": url, "error": err, "error_kind": classify_error(err)}
     if upload:
-        storage_path = upload_to_central_memory(made, track_id, url, source)
+        storage_path = (upload_to_mega(made, track_id, url, source) if os.environ.get("DATUM_STORAGE", "supabase").strip().lower() == "mega" else upload_to_central_memory(made, track_id, url, source))
         if storage_path is None:
             # Bucket upload or track_audio link failed: this is a
             # failed rip, not a done one. Do not append it to the

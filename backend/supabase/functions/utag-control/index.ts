@@ -984,9 +984,16 @@ Deno.serve(async (req) => {
       const audioId = String(body.audio_id || "");
       if (!audioId) return json({ ok: false, error: "Missing audio_id" }, 400);
       const { data: row, error: readErr } = await supabase
-        .from("track_audio").select("id, storage_path, status").eq("id", audioId).single();
+        .from("track_audio").select("id, storage_path, mega_url, status").eq("id", audioId).single();
       if (readErr || !row) return json({ ok: false, error: "Audio not found" }, 404);
       if (row.status !== "available") return json({ ok: false, error: "Audio is not available" }, 409);
+      // Mega rows: the public link was created at upload time and
+      // stored in mega_url. No Supabase signing, and no Mega login
+      // here. The link does not expire, so it is only returned
+      // through this admin-gated action, never listed publicly.
+      if (row.mega_url) {
+        return json({ ok: true, action, audio_id: row.id, source: "mega", mega_url: row.mega_url, signed_url: row.mega_url });
+      }
       const { data: signed, error: signErr } = await supabase.storage
         .from("central-memory-bank").createSignedUrl(row.storage_path, 3600);
       if (signErr || !signed?.signedUrl) throw signErr || new Error("Could not sign URL");

@@ -472,7 +472,7 @@ def _mega_clean_part(s):
 
 
 def mega_path_for(artist, album, title):
-    root = os.environ.get("MEGA_ROOT", "SSDB").strip() or "SSDB"
+    root = os.environ.get("MEGA_ROOT", "DATUM/SSDB").strip() or "SSDB"
     parts = [root, _mega_clean_part(artist)]
     if (album or "").strip():
         parts.append(_mega_clean_part(album))
@@ -491,7 +491,7 @@ def find_mega_file(artist, album, title):
     if shutil.which("rclone") is None:
         return None
     remote = os.environ.get("MEGA_REMOTE", "mega-remote").strip() or "mega-remote"
-    root = os.environ.get("MEGA_ROOT", "SSDB").strip() or "SSDB"
+    root = os.environ.get("MEGA_ROOT", "DATUM/SSDB").strip() or "SSDB"
     exact = mega_path_for(artist, album, title)
     for cand in [exact] + ([f"{root}/{_mega_clean_part(album)}/{_mega_clean_part(title)}.mp3"] if album else []):
         cp = subprocess.run(["rclone", "ls", f"{remote}:{cand}"], capture_output=True, text=True, timeout=60)
@@ -551,7 +551,7 @@ def link_mega_existing(mega_path, track_id, source_url, source="backup"):
 
 def _mega_upload(local_path, track_id, artist="", album="", title=""):
     remote = os.environ.get("MEGA_REMOTE", "mega-remote").strip() or "mega-remote"
-    root = os.environ.get("MEGA_ROOT", "SSDB").strip() or "SSDB"
+    root = os.environ.get("MEGA_ROOT", "DATUM/SSDB").strip() or "SSDB"
     if shutil.which("rclone") is None:
         logger.error("rclone not found on PATH, cannot upload to Mega")
         return None, None

@@ -46,7 +46,7 @@ import requests
 
 SUPABASE_URL = (os.environ.get("UTAG_SUPABASE_URL") or "https://akusfgoeplfqwrrrywfl.supabase.co").rstrip("/")
 MEGA_REMOTE = os.environ.get("MEGA_REMOTE", "mega-remote").strip() or "mega-remote"
-MEGA_ROOT = os.environ.get("MEGA_ROOT", "SSDB").strip() or "SSDB"
+MEGA_ROOT = os.environ.get("MEGA_ROOT", "DATUM/SSDB").strip() or "SSDB"
 MEGA_HOST = "mega" + "." + "nz"
 
 

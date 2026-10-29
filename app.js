@@ -1074,6 +1074,10 @@ async function fixerZipApply(approved) {
         verified: !!audit.verified,
         art_url: (audit.art && audit.art.url) || "",
         art_source: (audit.art && audit.art.source) || "",
+        lyrics_plain: (audit.lyrics && audit.lyrics.plain) || "",
+        lyrics_synced: (audit.lyrics && audit.lyrics.synced) || "",
+        lyrics_source: (audit.lyrics && audit.lyrics.source) || "",
+        lyrics_status: (audit.lyrics && audit.lyrics.status) || "",
       });
       if (res.existed && res.existed.track) {
         skippedDupes++;
@@ -1318,6 +1322,10 @@ async function fixerApply(approved) {
       verified: !!audit.verified,
       art_url: (audit.art && audit.art.url) || "",
       art_source: (audit.art && audit.art.source) || "",
+      lyrics_plain: (audit.lyrics && audit.lyrics.plain) || "",
+      lyrics_synced: (audit.lyrics && audit.lyrics.synced) || "",
+      lyrics_source: (audit.lyrics && audit.lyrics.source) || "",
+      lyrics_status: (audit.lyrics && audit.lyrics.status) || "",
     });
     const parts = [];
     if (!saved.existed.artist) parts.push("artist");
@@ -1504,6 +1512,11 @@ async function vRelease(id) {
         ${efConf(t.confidence)}
         ${pwFieldHTML()}
       </div>
+      <div class="ef-grid" data-lyrics-panel="${esc(t.id)}">
+        <label class="ef-field ef-wide"><span>Lyrics (plain)</span><textarea data-lyrics-plain rows="6">${esc(typeof t.lyrics === "string" ? t.lyrics : (t.lyrics && t.lyrics.plain_text) || "")}</textarea></label>
+        <label class="ef-field ef-wide"><span>Lyrics (synced LRC)</span><textarea data-lyrics-synced rows="6">${esc((t.lyrics && t.lyrics.synced_text) || "")}</textarea></label>
+      </div>
+      <div class="ef-actions"><button class="mini-btn" type="button" data-save-lyrics="${esc(t.id)}">Save lyrics</button><p class="empty-note" data-lyrics-status></p></div>
       ${efSave(`<button class="mini-btn danger" type="button" data-remove-track="${esc(t.id)}" data-track-title="${esc(t.title)}">Remove track</button>`)}
     </td></tr>`).join("");
   const gallery = (others || []).map(x => {
@@ -1620,6 +1633,25 @@ async function vRelease(id) {
       setTimeout(() => vRelease(id), 400);
     } catch (e) {
       if (status) status.textContent = `Remove failed: ${e.message}`;
+      b.disabled = false;
+    }
+  }));
+
+  document.querySelectorAll("[data-save-lyrics]").forEach(b => b.addEventListener("click", async () => {
+    const tid = b.dataset.saveLyrics;
+    const td = b.closest("td");
+    const panel = td ? td.querySelector(`[data-lyrics-panel="${tid}"]`) : null;
+    const status = b.closest(".ef-actions").querySelector("[data-lyrics-status]");
+    if (!panel) return;
+    const plainEl = panel.querySelector("[data-lyrics-plain]");
+    const syncedEl = panel.querySelector("[data-lyrics-synced]");
+    b.disabled = true;
+    if (status) status.textContent = "Saving lyrics…";
+    try {
+      await fnCall({ action: "lyrics_save", track_id: tid, plain_text: plainEl ? plainEl.value : "", synced_text: syncedEl ? syncedEl.value : "" });
+      if (status) status.textContent = "Lyrics saved.";
+    } catch (e) {
+      if (status) status.textContent = `Save failed: ${e.message}`;
       b.disabled = false;
     }
   }));

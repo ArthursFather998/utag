@@ -640,6 +640,20 @@ a.mini-btn { display: inline-block; color: var(--dim); }
   transition: border-color var(--t-fast) var(--ease), box-shadow var(--t-fast) var(--ease);
 }
 .ef-field input:focus, .ef-field select:focus { outline: none; border-color: var(--link); box-shadow: 0 0 0 3px rgba(122, 162, 236, 0.1); }
+.ef-field textarea {
+  background: var(--bg);
+  border: 1px solid var(--hair);
+  border-radius: 12px;
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 9px 14px;
+  width: 100%;
+  min-height: 120px;
+  resize: vertical;
+}
+.ef-field textarea:focus { outline: none; border-color: var(--link); box-shadow: 0 0 0 3px rgba(122, 162, 236, 0.1); }
 .ef-actions { display: flex; align-items: center; gap: 14px; margin-top: 16px; flex-wrap: wrap; }
 .ef-actions .empty-note { margin: 0; }
 

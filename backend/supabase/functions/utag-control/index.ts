@@ -527,12 +527,75 @@ Deno.serve(async (req) => {
       if (!releaseExisted) { await syncRowToRepo("releases", releaseId); synced.push("releases"); }
       if (!trackExisted) { await syncRowToRepo("tracks", trackId); synced.push("tracks"); }
       if (artworkId) { await syncRowToRepo("artwork", artworkId); synced.push("artwork"); }
+
+      /* Lyrics: upsert only, wrapped so a missing track_lyrics table
+         (migration not yet run) never fails the main fixer_save. */
+      let lyricsSaved = false;
+      let lyricsId: string | null = null;
+      const hasLyricsPayload = body.lyrics_plain || body.lyrics_synced || body.lyrics_status;
+      if (hasLyricsPayload) {
+        try {
+          const newStatus = String(body.lyrics_status || "").trim();
+          const { data: existing } = await supabase.from("track_lyrics")
+            .select("id,status").eq("track_id", trackId).maybeSingle();
+          const existingStatus = existing ? String((existing as { status?: string }).status || "") : "";
+          const canOverwrite = !existing ||
+            ["found", "instrumental", "manual"].includes(newStatus) ||
+            ["missing", ""].includes(existingStatus);
+          if (canOverwrite) {
+            const status = newStatus || ((body.lyrics_plain || body.lyrics_synced) ? "found" : "missing");
+            const { data: saved, error: lyricErr } = await supabase.from("track_lyrics").upsert({
+              track_id: trackId,
+              plain_text: body.lyrics_plain ? String(body.lyrics_plain) : null,
+              synced_text: body.lyrics_synced ? String(body.lyrics_synced) : null,
+              source: body.lyrics_source ? String(body.lyrics_source) : null,
+              status,
+            }, { onConflict: "track_id" }).select("id").single();
+            if (lyricErr) throw lyricErr;
+            if (saved) {
+              lyricsSaved = true;
+              lyricsId = (saved as { id: string }).id;
+              if ((await syncRowToRepo("track_lyrics", lyricsId)) === "ok") synced.push("track_lyrics");
+            }
+          }
+        } catch { /* table not migrated yet, or lyrics write failed: main save stands */ }
+      }
       return json({
         ok: true, action, artist_id: artistId, release_id: releaseId,
-        track_id: trackId, artwork_id: artworkId,
+        track_id: trackId, artwork_id: artworkId, lyrics_id: lyricsId,
+        lyrics_saved: lyricsSaved,
         existed: { artist: artistExisted, release: releaseExisted, track: trackExisted },
         repo_sync: synced.length ? "ok" : "skipped",
       });
+    }
+
+    if (action === "lyrics_save") {
+      /* Manual lyrics from the UTAG site track edit row. Admin-gated by the
+         global checkAdmin above. Source is always manual. */
+      const trackId = String(body.track_id || "");
+      if (!trackId) return json({ ok: false, error: "Missing track_id" }, 400);
+      const plain = String(body.plain_text || "");
+      const synced = String(body.synced_text || "");
+      const { data: trackRow, error: tErr } = await supabase
+        .from("tracks").select("id").eq("id", trackId).single();
+      if (tErr || !trackRow) return json({ ok: false, error: "Track not found" }, 404);
+      const status = (plain.trim() || synced.trim()) ? "found" : "missing";
+      const { data, error } = await supabase.from("track_lyrics").upsert({
+        track_id: trackId,
+        plain_text: plain || null,
+        synced_text: synced || null,
+        source: "manual",
+        status,
+      }, { onConflict: "track_id" }).select("id").single();
+      if (error) {
+        const msg = errText(error);
+        if ((error as { code?: string }).code === "42P01" || /track_lyrics/i.test(msg)) {
+          return json({ ok: false, error: "track_lyrics table not found. Run the 20261029_track_lyrics.sql migration in the Supabase dashboard SQL editor first." }, 400);
+        }
+        throw error;
+      }
+      const repoSync = data ? await syncRowToRepo("track_lyrics", (data as { id: string }).id) : "skipped";
+      return json({ ok: true, action, track_id: trackId, lyrics_id: data ? (data as { id: string }).id : null, repo_sync: repoSync });
     }
 
     if (action === "fixer_log") {

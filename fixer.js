@@ -1,7 +1,8 @@
 /* UTAG Fixer engine — ported from the Splotify v7/v8 catalog fixer.
    No AI. Sources, in order: library roster → Apple Music → Deezer →
    MusicBrainz → AcoustID fingerprint. Artwork: Apple → Deezer →
-   Cover Art Archive → fanart.tv.
+   Cover Art Archive → fanart.tv. Lyrics: embedded tags first, then
+   LRCLIB. No lyrics-site scraping.
    Reads tags in-browser (vendored music-metadata). Returns scored
    proposals; the caller reviews and applies. Nothing is written
    anywhere until the user approves. */
@@ -115,6 +116,125 @@ window.UtagFixer = (() => {
     return out;
   }
 
+  /* ---------------- lyrics ---------------- */
+  function parseLrc(lrc) {
+    const out = [];
+    for (const raw of String(lrc || "").split(/\r?\n/)) {
+      let line = raw;
+      const times = [];
+      let m;
+      while ((m = line.match(/^\s*\[(\d+):(\d+(?:\.\d+)?)\]/))) {
+        times.push(parseInt(m[1], 10) * 60 + parseFloat(m[2]));
+        line = line.slice(m[0].length);
+      }
+      if (!times.length) continue;
+      const text = line.trim();
+      if (!text) continue;
+      for (const t of times) out.push({ t, text });
+    }
+    out.sort((a, b) => a.t - b.t);
+    return out;
+  }
+  function stripLrc(lrc) {
+    const lines = [];
+    for (const raw of String(lrc || "").split(/\r?\n/)) {
+      if (/^\s*\[[a-z][a-z0-9_-]*:/i.test(raw) && !/^\s*\[\d+:/.test(raw)) continue;
+      const line = raw.replace(/^\s*(?:\[\d+:\d+(?:\.\d+)?\])+/g, "").replace(/<\d+:\d+(?:\.\d+)?>/g, "").trim();
+      if (line) lines.push(line);
+    }
+    return lines.join("\n");
+  }
+  function lrcTime(sec) {
+    const s = Math.max(0, Number(sec) || 0);
+    const mm = String(Math.floor(s / 60)).padStart(2, "0");
+    const ss = (s % 60).toFixed(2).padStart(5, "0");
+    return "[" + mm + ":" + ss + "]";
+  }
+  function lyricsValueToText(v, depth) {
+    if (!v || depth > 3) return null;
+    if (typeof v === "string") return v;
+    if (Array.isArray(v)) {
+      if (v.length && v.every(x => x && typeof x === "object" &&
+          typeof (x.text || x.lyric) === "string" &&
+          (x.timestamp !== undefined || x.time !== undefined || x.t !== undefined))) {
+        const lines = v.map(x => ({ t: Number(x.timestamp !== undefined ? x.timestamp : (x.time !== undefined ? x.time : x.t)), text: String(x.text || x.lyric) }))
+          .filter(x => isFinite(x.t) && x.text);
+        lines.sort((a, b) => a.t - b.t);
+        return lines.map(x => lrcTime(x.t) + x.text).join("\n");
+      }
+      return v.map(x => lyricsValueToText(x, depth + 1)).filter(Boolean).join("\n") || null;
+    }
+    if (typeof v === "object") {
+      const ts = v.timestamp !== undefined ? v.timestamp : (v.time !== undefined ? v.time : v.t);
+      if (ts !== undefined && typeof (v.text || v.lyric) === "string") return lrcTime(ts) + String(v.text || v.lyric);
+      if (typeof v.text === "string") return v.text;
+      if (typeof v.lyrics === "string") return v.lyrics;
+      if (typeof v.lyric === "string") return v.lyric;
+    }
+    return null;
+  }
+  function extractEmbeddedLyrics(common) {
+    if (!common || typeof common !== "object") return null;
+    const texts = [];
+    for (const k of Object.keys(common)) {
+      if (!/lyric/i.test(k)) continue;
+      const txt = lyricsValueToText(common[k], 0);
+      if (txt && txt.trim()) texts.push(txt);
+    }
+    if (!texts.length) return null;
+    let synced = null, plain = null;
+    for (const txt of texts) {
+      if (!synced && /\[\d+:\d+(?:\.\d+)?\]/.test(txt)) synced = txt;
+      if (!plain && !/\[\d+:\d+(?:\.\d+)?\]/.test(txt)) plain = txt;
+    }
+    if (synced && !plain) plain = stripLrc(synced);
+    if (!synced && !plain) return null;
+    return { plain: plain || null, synced: synced || null, source: "embedded", status: "found" };
+  }
+  function lrclibValidate(d, t) {
+    if (!d || typeof d !== "object") return false;
+    if (strSim(d.trackName || "", t.title || "") < 0.8) return false;
+    const artist = (t.artist || "").trim();
+    if (artist && artist !== "Unknown Artist" && d.artistName && strSim(d.artistName, artist) < 0.7) return false;
+    const dd = Number(d.duration), td = Number(t.duration);
+    if (dd > 0 && td > 0 && Math.abs(dd - td) > Math.max(10, 0.15 * td)) return false;
+    return true;
+  }
+  function normalizeLrclib(d) {
+    if (!d) return null;
+    if (d.instrumental) return { plain: null, synced: null, source: "LRCLIB", status: "instrumental" };
+    const synced = d.syncedLyrics ? String(d.syncedLyrics) : null;
+    let plain = d.plainLyrics ? String(d.plainLyrics) : null;
+    if (!plain && synced) plain = stripLrc(synced);
+    if (!plain && !synced) return null;
+    return { plain: plain || null, synced: synced || null, source: "LRCLIB", status: "found" };
+  }
+  async function lrclibLyrics(t) {
+    try { if (looksLikeHis(t)) return null; } catch (e) { return null; }
+    if (!t || !t.title || t.title === "Unknown Title") return null;
+    const artist = (t.artist && t.artist !== "Unknown Artist") ? t.artist : "";
+    const album = (t.album && t.album !== "Unknown Album") ? t.album : "";
+    const dur = t.duration ? Math.round(Number(t.duration)) : null;
+    const base = "https://lrclib.net/api";
+    const qGet = "artist_name=" + encodeURIComponent(artist) + "&track_name=" + encodeURIComponent(t.title) +
+      (album ? "&album_name=" + encodeURIComponent(album) : "") + (dur ? "&duration=" + dur : "");
+    const qSearch = "artist_name=" + encodeURIComponent(artist) + "&track_name=" + encodeURIComponent(t.title) +
+      (album ? "&album_name=" + encodeURIComponent(album) : "");
+    try {
+      const d = await fetchJSON(base + "/get?" + qGet, 12000);
+      if (d && lrclibValidate(d, t)) { const n = normalizeLrclib(d); if (n) return n; }
+    } catch (e) {}
+    try {
+      const list = await fetchJSON(base + "/search?" + qSearch, 12000);
+      if (Array.isArray(list)) {
+        for (const d of list) {
+          if (lrclibValidate(d, t)) { const n = normalizeLrclib(d); if (n) return n; }
+        }
+      }
+    } catch (e) {}
+    return null;
+  }
+
   /* ---------------- tag reading ---------------- */
   async function parseFile(file) {
     let common = {}, format = {};
@@ -135,9 +255,11 @@ window.UtagFixer = (() => {
     }
     const artist = (common.artist || common.albumartist || fb.artist || "Unknown Artist").toString();
     const title = (common.title || fb.title || "Unknown Title").toString();
+    let lyrics = null;
+    try { lyrics = extractEmbeddedLyrics(common); } catch (e) { lyrics = null; }
     return {
       file, fileName: file.name, fileSize: file.size,
-      title, artist,
+      title, artist, lyrics,
       album: (common.album || "Unknown Album").toString(),
       genre: (common.genre && common.genre[0]) || "",
       year: (common.year || (common.date || "").toString().slice(0, 4) || "").toString(),
@@ -544,11 +666,18 @@ window.UtagFixer = (() => {
     let art = null;
     try { art = await artChain(t, mbReleaseId, mbArtistId, appleArt, deezerArt, rgId); } catch (e) {}
 
+    prog("Lyrics…");
+    let lyrics = null;
+    try {
+      if (t.lyrics && t.lyrics.status === "found" && (t.lyrics.plain || t.lyrics.synced)) lyrics = t.lyrics;
+      else lyrics = await lrclibLyrics(t);
+    } catch (e) { lyrics = null; }
+
     prog("Done.");
-    return { proposals: [...byField.values()], verified, art, artSource: art ? art.source : null };
+    return { proposals: [...byField.values()], verified, art, artSource: art ? art.source : null, lyrics: lyrics || null };
   }
 
-  return { parseFile, auditFile, getKey, setKey, fmtDur: s => {
+  return { parseFile, auditFile, parseLrc, stripLrc, lrclibLyrics, getKey, setKey, fmtDur: s => {
     if (!s || !isFinite(s)) return "";
     s = Math.round(s);
     return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");

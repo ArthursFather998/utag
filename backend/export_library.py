@@ -31,6 +31,7 @@ TABLES = [
     "artists",
     "releases",
     "tracks",
+    "track_lyrics",
     "artwork",
     "source_results",
     "verifications",
@@ -218,11 +219,31 @@ def build_views(rows, data_dir):
     print(f"  views/artist/: {len(artists)} files")
 
     # ---- per-release pages ----
+    # Lyrics live in track_lyrics, not on tracks, and are attached to each
+    # track here only (never to catalog.json, which has no tracks). An
+    # export before the lyrics migration runs still works: rows.get
+    # defaults to an empty list.
+    lyrics_by_track = {}
+    for ly in rows.get("track_lyrics", []):
+        if ly.get("track_id"):
+            lyrics_by_track[ly["track_id"]] = {
+                "plain_text": ly.get("plain_text"),
+                "synced_text": ly.get("synced_text"),
+                "source": ly.get("source"),
+                "status": ly.get("status"),
+            }
     rdir = os.path.join(vdir, "release")
     os.makedirs(rdir, exist_ok=True)
     for r in releases:
         rid = r["id"]
-        rtracks = [t for t in tracks if t.get("release_id") == rid]
+        rtracks = []
+        for t in tracks:
+            if t.get("release_id") != rid:
+                continue
+            t = dict(t)
+            if t.get("id") in lyrics_by_track:
+                t["lyrics"] = lyrics_by_track[t["id"]]
+            rtracks.append(t)
         rtracks.sort(key=lambda t: (t.get("disc_number") or 1,
                                     t.get("track_number")
                                     if t.get("track_number") is not None else 10**9))
@@ -250,8 +271,19 @@ def main():
     print(f"Exporting UTAG library -> {DATA_DIR}")
     rows = {}
     counts = {}
+    missing_tables = set()
     for table in TABLES:
-        rows[table] = fetch_all(table)
+        try:
+            rows[table] = fetch_all(table)
+        except Exception:
+            # track_lyrics is optional until its migration has run.
+            if table != "track_lyrics":
+                raise
+            rows[table] = []
+            counts[table] = 0
+            missing_tables.add(table)
+            print(f"  {table}: not present yet (migration not run), skipping")
+            continue
         tdir = os.path.join(DATA_DIR, table)
         os.makedirs(tdir, exist_ok=True)
         for row in rows[table]:
@@ -277,6 +309,9 @@ def main():
     # Verification: server-side counts vs files written.
     ok = True
     for table in TABLES:
+        if table in missing_tables:
+            print(f"  [SKIP] {table}: table not present yet")
+            continue
         server = table_count(table)
         local = counts[table]
         mark = "OK " if server == local else "MISMATCH"

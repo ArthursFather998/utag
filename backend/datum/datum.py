@@ -33,18 +33,21 @@ Secrets: read only from the environment.
                            fixer_save. Keep it out of git.
   DATUM_BUCKET             bucket id, default central-memory-bank
   --drip mode: the UTAG artists table replaces the original Google
-  Sheet. Each run picks artists by lowest percentage filled first,
-  then a random unfilled track per artist, one per artist per cycle,
-  until the batch is full. Runners are sharded by artist index, so
-  parallel runners never pick the same artist in the same run.
-  Mindful controls: a circuit breaker stops a runner after 3
-  consecutive failures (bot check, rate limit, or otherwise) instead
-  of hammering YouTube, and tracks with a datum_job in the last
-  7 days are not re-picked, so a failed track gets a cooldown
-  instead of a retry storm. If cookies.txt exists in the working
-  directory (the GitHub workflow writes it from the
-  YOUTUBE_COOKIES secret when present), yt-dlp uses it; without
-  it, downloads run unauthenticated and may be bot-checked.
+  Sheet. Fast mode starts with all 20 runners, 50 tracks per
+  runner, every hour. Each run picks artists by lowest percentage
+  filled first, then a random unfilled track per artist, one per
+  artist per cycle, until the batch is full. Runners are sharded
+  by artist index, so parallel runners never pick the same artist
+  in the same run. Failed tracks are saved for last: fast mode
+  never re-picks a track that already has a datum_job. Slow mode
+  (--slow) is the retry pass, failed tracks only, with a much
+  longer delay between tracks. A circuit breaker stops a runner
+  after 3 consecutive failures instead of hammering YouTube.
+  If cookies.txt exists in the working directory (the GitHub
+  workflow writes it from the YOUTUBE_COOKIES secret when
+  present), yt-dlp uses it; without it, downloads run
+  unauthenticated and may be bot-checked. An upload or
+  track_audio failure marks the job failed, never done.
 
 Run: python datum.py --help
 """
@@ -471,8 +474,11 @@ def upload_to_central_memory(
         if got.ok and got.json():
             logger.info("Audio already linked for this song, keeping the existing record")
             return storage_path
+    # Any other insert failure is a real failure, not a link: return
+    # None so the caller marks the job failed (saved for last),
+    # instead of marking it done with no audio row behind it.
     logger.error("track_audio insert failed (%s): %s", r.status_code, r.text[:300])
-    return storage_path
+    return None
 
 
 # ------------------------------------------------------------------ queue --
@@ -646,10 +652,12 @@ def _create_datum_job(artist: str, title: str, track_id: str) -> dict[str, Any] 
     return rows[0] if rows else None
 
 
-def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool) -> int:
+def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, slow: bool = False) -> int:
     """Cycling drip: fill UTAG artists with audio, lowest-filled first.
 
-    Selection, in order, so parallel runners stay disjoint:
+    Fast mode (the pipeline's default, 20 runners, 50 tracks each,
+    every hour): selection, in order, so parallel runners stay
+    disjoint:
       1. Every artist, with total tracks and already-linked audio count.
       2. Sort by filled ratio ascending, then audio count, then name.
          Lowest-filled artists go first, so small artists finish early
@@ -661,14 +669,22 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool) 
          artist per cycle, until the batch is full. The random pick
          is seeded per artist per hour, so runners agree on the pick
          for an artist and the pick changes on the next run.
-    Excluded from picking: tracks already linked in track_audio, and
-    tracks with any datum_job in the last 7 days (cooldown, so a
-    bot-blocked track is not retried every run). Each picked track
-    is created as a datum_job, processed immediately, and marked
-    done or failed, so the DATUM tab shows the whole drip.
+    Failed tracks are saved for last, not retried on a cooldown:
+    fast mode excludes every track that already has any datum_job
+    (pending, running, done, or failed) and every track already in
+    track_audio. A track that fails in fast mode therefore stays
+    failed, out of the fast pool, until the slow retry pass.
+    Slow mode (--slow): the retry pass. It processes only tracks
+    with a failed datum_job and no audio, oldest failed first, with
+    a much longer delay between tracks. If fast mode fails at
+    scale, slow mode is how it retries, slower, not by re-running
+    fast mode over the same tracks.
     Circuit breaker: 3 consecutive failures stop this runner's
     batch (exit 0, partial progress kept). Remaining tracks are
     simply not picked this run; nothing is retried in a loop.
+    Stale running jobs (running for over 2 hours, i.e. a killed
+    runner) are reset to failed at the start of a drip run, so a
+    killed runner cannot strand a track in running forever.
     """
     if batch <= 0:
         logger.error("--drip needs a positive batch size")
@@ -686,18 +702,36 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool) 
         artists = _paginated_get("artists", {"select": "id,canonical_name"}, read_headers)
         tracks = _paginated_get("tracks", {"select": "id,artist_id,title"}, read_headers)
         audio_rows = _paginated_get("track_audio", {"select": "track_id"}, read_headers)
-        cutoff = (datetime.now(timezone.utc).timestamp() - 7 * 86400)
-        recent_jobs = _paginated_get(
+        all_jobs = _paginated_get(
             "datum_jobs",
-            {"select": "utag_track_id,created_at",
-             "created_at": f"gte.{datetime.fromtimestamp(cutoff, tz=timezone.utc).isoformat()}"},
+            {"select": "id,utag_track_id,status,updated_at"},
             headers,
         )
     except Exception as e:
         logger.error("Could not fetch UTAG library for --drip: %s", e)
         return 1
+    # Stale running jobs: a runner killed mid-track leaves its job
+    # in running, and the tab can only retry failed jobs. Reset
+    # anything running for over 2 hours to failed (saved for last).
+    now_ts = datetime.now(timezone.utc).timestamp()
+    for j in all_jobs:
+        if str(j.get("status")) != "running":
+            continue
+        try:
+            updated = datetime.fromisoformat(str(j.get("updated_at")).replace("Z", "+00:00")).timestamp()
+        except Exception:
+            continue
+        if now_ts - updated > 2 * 3600:
+            try:
+                update_job(str(j["id"]), {"status": "failed", "error": "Runner stopped mid-track, saved for last",
+                                          "error_kind": "other"})
+                logger.info("Reset stale running job %s to failed", j["id"])
+            except Exception as e:
+                logger.warning("Could not reset stale job %s: %s", j.get("id"), e)
     audio_ids = {str(r.get("track_id")) for r in audio_rows if r.get("track_id")}
-    recent_ids = {str(r.get("utag_track_id")) for r in recent_jobs if r.get("utag_track_id")}
+    any_job_ids = {str(r.get("utag_track_id")) for r in all_jobs if r.get("utag_track_id")}
+    failed_ids = {str(r.get("utag_track_id")) for r in all_jobs
+                  if r.get("utag_track_id") and str(r.get("status")) == "failed"}
     by_artist: dict[str, list[dict[str, Any]]] = {}
     for tr in tracks:
         if tr.get("title"):
@@ -709,21 +743,30 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool) 
         if not mine:
             continue
         audio_count = sum(1 for tr in mine if str(tr["id"]) in audio_ids)
-        unfilled = [tr for tr in mine
-                    if str(tr["id"]) not in audio_ids and str(tr["id"]) not in recent_ids]
-        if not unfilled:
+        if slow:
+            # Slow retry pool only: failed tracks, no audio, oldest
+            # failed first is handled by artist order; within an
+            # artist the pick is still random per hour.
+            pool = [tr for tr in mine
+                    if str(tr["id"]) not in audio_ids and str(tr["id"]) in failed_ids]
+        else:
+            # Fast pool: no audio and no datum_job at all. A failed
+            # track is saved for last, not re-picked by fast mode.
+            pool = [tr for tr in mine
+                    if str(tr["id"]) not in audio_ids and str(tr["id"]) not in any_job_ids]
+        if not pool:
             continue
         artist_stats.append({
             "id": aid, "name": str(a.get("canonical_name") or ""),
             "total": len(mine), "audio": audio_count,
-            "ratio": audio_count / len(mine), "unfilled": unfilled,
+            "ratio": audio_count / len(mine), "unfilled": pool,
         })
     artist_stats.sort(key=lambda s: (s["ratio"], s["audio"], s["name"].lower()))
     shard_artists = [s for i, s in enumerate(artist_stats) if i % shards == shard]
-    logger.info("DRIP shard %s/%s: %s artists with unfilled tracks, batch %s",
-                shard, shards, len(shard_artists), batch)
+    logger.info("DRIP%s shard %s/%s: %s artists with tracks to work, batch %s",
+                " (slow retry)" if slow else "", shard, shards, len(shard_artists), batch)
     if not shard_artists:
-        logger.info("No unfilled tracks for this shard.")
+        logger.info("No tracks for this shard in this mode.")
         return 0
     hour = int(time.time() // 3600)
     done = failed = consecutive = 0
@@ -784,7 +827,8 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool) 
                                "after %s done / %s failed (mindful stop, not an error)", done, failed)
                 logger.info("DRIP shard %s done: %s done, %s failed", shard, done, failed)
                 return 0
-            time.sleep(random.uniform(0, 2))
+            # Slow retry is deliberately much slower between tracks.
+            time.sleep(random.uniform(10, 30) if slow else random.uniform(0, 2))
         if not progress_this_cycle:
             break
     logger.info("DRIP shard %s done: %s done, %s failed", shard, done, failed)
@@ -886,7 +930,19 @@ def process_track(artist: str, title: str, url: str, base_dir: Path, track_id: s
         record_failed({"artist": artist, "title": title, "url": url, "error": err,
                        "utag_track_id": track_id, "source": source})
         return {"status": "failed", "url": url, "error": err, "error_kind": classify_error(err)}
-    storage_path = upload_to_central_memory(made, track_id, url, source) if upload else None
+    if upload:
+        storage_path = upload_to_central_memory(made, track_id, url, source)
+        if storage_path is None:
+            # Bucket upload or track_audio link failed: this is a
+            # failed rip, not a done one. Do not append it to the
+            # manifest, or a retry would skip it as already done.
+            record_failed({"artist": artist, "title": title, "url": url,
+                           "error": "Bucket upload or track_audio link failed, no audio row created",
+                           "utag_track_id": track_id, "source": source})
+            return {"status": "failed", "url": url, "error": "Bucket upload or track_audio link failed",
+                    "error_kind": "upload"}
+    else:
+        storage_path = None
     append_manifest({"artist": artist, "title": title, "url": url, "local_path": str(made),
                      "storage_path": storage_path, "utag_track_id": track_id, "source": source,
                      "file_size": made.stat().st_size, "sha256": sha256_file(made)})
@@ -946,6 +1002,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--utag-list", help="JSON file: [{artist, title, utag_track_id?}] to rip in order")
     p.add_argument("--queue", action="store_true", help="Work pending datum_jobs from Supabase, oldest first (the GitHub Actions cloud worker mode)")
     p.add_argument("--drip", type=int, default=None, help="Cycling drip mode: pick and rip N unfilled UTAG tracks, lowest-filled artists first (see docstring)")
+    p.add_argument("--slow", action="store_true", help="Slow retry mode for --drip: failed tracks only, much longer delays between tracks")
     p.add_argument("--shard", type=int, default=0, help="This runner's shard index for --drip (default 0)")
     p.add_argument("--shards", type=int, default=1, help="Total runner shards for --drip (default 1, single runner)")
     p.add_argument("--base-dir", default=BASE_DOWNLOAD_DIR)
@@ -963,7 +1020,7 @@ def main(argv: list[str] | None = None) -> int:
     base_dir = Path(args.base_dir)
     upload = not args.no_upload
     if args.drip is not None:
-        return run_drip(args.drip, args.shard, args.shards, base_dir, upload)
+        return run_drip(args.drip, args.shard, args.shards, base_dir, upload, slow=args.slow)
     if args.queue:
         return run_queue(base_dir, upload, force=args.force)
     if args.discover:

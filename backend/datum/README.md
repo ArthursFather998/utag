@@ -113,31 +113,41 @@ Selection: artists are sorted by lowest percentage filled first
 artist positions shard, shard+shards, shard+2*shards, so parallel
 runners never pick the same artist in the same run. Each runner
 cycles its artists, one random unfilled track per artist per
-cycle, until its batch is full. Excluded: tracks already in
-`track_audio`, and tracks with any `datum_job` in the last 7 days
-(cooldown, not a retry storm).
+cycle, until its batch is full.
 
-Mindful controls, built into the runner, not into a person
-watching it:
-- Max 3 concurrent runners in the GitHub matrix, staggered by
-  90 seconds per shard, so YouTube does not get 3 search bursts
-  at the same instant.
-- A small random delay between tracks in a runner.
+Fast and slow, by design:
+- Fast mode: 20 runners, 50 tracks per runner, every hour.
+  Fast mode only picks tracks with no audio and no datum_job at
+  all. A track that fails is saved for last, not retried next
+  hour, and not on a cooldown timer.
+- Slow mode (`--slow`): the retry pass, failed tracks only,
+  with a much longer delay between tracks. If fast mode fails
+  at scale, slow mode is how it retries, slower.
 - Circuit breaker: 3 consecutive failures stop that runner's
   batch, with partial progress kept. It exits clean, it does not
   keep hammering YouTube or burn through cookies.
+- Stale running jobs (running over 2 hours, i.e. a killed
+  runner) are reset to failed at the start of a drip run, so
+  they go to the slow pool instead of stranding.
+- An upload or track_audio failure marks the job failed, never
+  done, so a full bucket cannot fake progress. Proven in the
+  sandbox test 2026-10-29: a track whose converted mp3 exceeded
+  the bucket's 100 MB limit was correctly marked failed, and
+  slow mode correctly picked it up as a failed-only track.
 - Cookies: if `cookies.txt` exists in the working directory,
   yt-dlp uses it for search and download. The GitHub workflow
   writes it from the `YOUTUBE_COOKIES` secret when present and
   the runner is wiped after the run. Without cookies, GitHub
   runners get bot-checked (proven 2026-10-29); the sandbox does
-  not, which is why the first drip test ran there.
+  not, which is why the first drip tests ran there.
 
-The schedule is deliberately NOT turned on yet. The workflow
-has the drip job on `workflow_dispatch` only, so it can be tested
-manually with cookies first. Only after a manual drip run lands
-jobs done from GitHub should a schedule be added, otherwise the
-pipeline would just fail on a timer.
+The workflow has the fast drip job on an hourly schedule and
+on `workflow_dispatch`, and a slow retry job on
+`workflow_dispatch` only. The schedule only does useful work
+once `YOUTUBE_COOKIES` is set and the audio bucket is replaced
+with a cloud storage provider with room for the full library;
+until then, hourly runs will fail tracks into the slow pool
+instead of linking them.
 
 Storage note: at about 6 MB per track, the full library
 (28,560 tracks) is roughly 170 GB. The current Supabase Free

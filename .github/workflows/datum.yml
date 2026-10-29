@@ -81,6 +81,17 @@ jobs:
           MEGA_EMAIL: ${{ secrets.MEGA_EMAIL }}
           MEGA_PASSWORD: ${{ secrets.MEGA_PASSWORD }}
 
+      - name: Diagnose YouTube formats (temporary)
+        run: |
+          python3 -c "import yt_dlp; print('yt-dlp version:', yt_dlp.version.__version__)"
+          echo "--- list-formats with cookies, default clients ---"
+          yt-dlp --list-formats --cookies cookies.txt "https://www.youtube.com/watch?v=MrmPDUvKyLs" 2>&1 | head -40 || true
+          echo "--- list-formats with cookies, web client only ---"
+          yt-dlp --list-formats --cookies cookies.txt --extractor-args "youtube:player_client=web" "https://www.youtube.com/watch?v=MrmPDUvKyLs" 2>&1 | head -40 || true
+          echo "--- list-formats without cookies, android+web clients ---"
+          yt-dlp --list-formats --extractor-args "youtube:player_client=android,web" "https://www.youtube.com/watch?v=MrmPDUvKyLs" 2>&1 | head -40 || true
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
       - name: Work the DATUM queue
         run: python3 backend/datum/datum.py --queue --base-dir datum-downloads
         env:

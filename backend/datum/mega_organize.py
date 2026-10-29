@@ -77,8 +77,15 @@ def list_mega_files():
     return [e for e in json.loads(cp.stdout or "[]") if not e.get("IsDir") and str(e.get("Path", "")).lower().endswith(".mp3")]
 
 
-def utag_lookup(title, album):
-    """Return (track_id, artist, album_title, title) or None, or 'ambiguous'."""
+_TRACKS_CACHE = None
+_ARTIST_CACHE = {}
+_RELEASE_CACHE = {}
+
+
+def _load_tracks():
+    global _TRACKS_CACHE
+    if _TRACKS_CACHE is not None:
+        return _TRACKS_CACHE
     anon = os.environ.get("UTAG_SUPABASE_ANON_KEY", "").strip()
     if not anon:
         raise RuntimeError("UTAG_SUPABASE_ANON_KEY not set, cannot look up UTAG tracks")
@@ -99,6 +106,64 @@ def utag_lookup(title, album):
         if len(page) < 1000:
             break
         offset += 1000
+    _TRACKS_CACHE = tracks
+    return tracks
+
+
+def _artist_name(artist_id, headers):
+    if artist_id in _ARTIST_CACHE:
+        return _ARTIST_CACHE[artist_id]
+    name = ""
+    ar = requests.get(
+        f"{SUPABASE_URL}/rest/v1/artists",
+        params={"select": "canonical_name", "id": f"eq.{artist_id}"},
+        headers=headers, timeout=30,
+    )
+    if ar.ok and ar.json():
+        name = ar.json()[0].get("canonical_name", "")
+    _ARTIST_CACHE[artist_id] = name
+    return name
+
+
+def _release_title(release_id, headers):
+    if release_id in _RELEASE_CACHE:
+        return _RELEASE_CACHE[release_id]
+    title = ""
+    rr = requests.get(
+        f"{SUPABASE_URL}/rest/v1/releases",
+        params={"select": "title", "id": f"eq.{release_id}"},
+        headers=headers, timeout=30,
+    )
+    if rr.ok and rr.json():
+        title = rr.json()[0].get("title", "")
+    _RELEASE_CACHE[release_id] = title
+    return title
+
+
+def _headers():
+    anon = os.environ.get("UTAG_SUPABASE_ANON_KEY", "").strip()
+    if not anon:
+        raise RuntimeError("UTAG_SUPABASE_ANON_KEY not set, cannot look up UTAG tracks")
+    return {"apikey": anon, "Authorization": f"Bearer {anon}"}
+
+
+def has_audio(track_id):
+    """True if UTAG already has any track_audio row for this track (anon read)."""
+    try:
+        r = requests.get(
+            f"{SUPABASE_URL}/rest/v1/track_audio",
+            params={"select": "id", "track_id": f"eq.{track_id}", "limit": 1},
+            headers=_headers(), timeout=30,
+        )
+        return r.ok and bool(r.json())
+    except Exception:
+        return False
+
+
+def utag_lookup(title, album):
+    """Return (track_id, artist, album_title, title) or None, or 'ambiguous'."""
+    headers = _headers()
+    tracks = _load_tracks()
     want = norm(title)
     matches = [t for t in tracks if norm(t.get("title", "")) == want]
     if not matches:
@@ -107,41 +172,17 @@ def utag_lookup(title, album):
         track = matches[0]
     else:
         if album:
-            rel_ids = {t.get("release_id") for t in matches if t.get("release_id")}
-            releases = {}
-            for rid in rel_ids:
-                rr = requests.get(
-                    f"{SUPABASE_URL}/rest/v1/releases",
-                    params={"select": "id,title", "id": f"eq.{rid}"},
-                    headers=headers, timeout=30,
-                )
-                if rr.ok and rr.json():
-                    releases[rid] = rr.json()[0].get("title", "")
-            by_album = [t for t in matches if norm(releases.get(t.get("release_id"), "")) == norm(album)]
+            by_album = [t for t in matches if t.get("release_id") and norm(_release_title(t["release_id"], headers)) == norm(album)]
             if len(by_album) == 1:
                 track = by_album[0]
             else:
                 return "ambiguous"
         else:
             return "ambiguous"
-    artist = ""
-    album_title = album or ""
-    if track.get("artist_id"):
-        ar = requests.get(
-            f"{SUPABASE_URL}/rest/v1/artists",
-            params={"select": "canonical_name", "id": f"eq.{track['artist_id']}"},
-            headers=headers, timeout=30,
-        )
-        if ar.ok and ar.json():
-            artist = ar.json()[0].get("canonical_name", "")
-    if track.get("release_id"):
-        rr = requests.get(
-            f"{SUPABASE_URL}/rest/v1/releases",
-            params={"select": "title", "id": f"eq.{track['release_id']}"},
-            headers=headers, timeout=30,
-        )
-        if rr.ok and rr.json():
-            album_title = rr.json()[0].get("title", "") or album_title
+    artist = _artist_name(track.get("artist_id"), headers) if track.get("artist_id") else ""
+    album_title = _release_title(track["release_id"], headers) if track.get("release_id") else ""
+    if not album_title:
+        album_title = album or ""
     if not artist:
         return None
     return (str(track["id"]), artist, album_title, str(track.get("title", "") or title))
@@ -230,6 +271,9 @@ def main():
                     failed += 1
                     continue
                 moved += 1
+        if has_audio(track_id):
+            print(f"{action} | already linked in UTAG, no new row -> {artist} - {title} [{track_id}]")
+            continue
         result = link_and_insert(dst, track_id, entry.get("Size"), dry_run)
         if result:
             linked += 1

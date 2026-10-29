@@ -1,31 +1,39 @@
 # DATUM cloud worker.
 #
-# Two jobs, kept separate on purpose:
+# Three jobs, kept separate on purpose:
 # - run: the UTAG site DATUM tab calls utag-control datum_run, which
 #   sends a repository_dispatch with event_type datum-run, or a run
 #   can be started by hand. It works the pending datum_jobs queue,
 #   oldest first, then the runner is thrown away.
-# - drip: the cycling pipeline. Started by hand from the GitHub
-#   Actions tab (workflow_dispatch) only. It runs 3 runners in
-#   parallel, each on a different artist shard, each ripping a
-#   batch of unfilled UTAG tracks, lowest-filled artists first.
-#   There is deliberately NO schedule yet: test drip manually with
-#   YOUTUBE_COOKIES first, then add a schedule. A schedule that
-#   runs without working cookies would just fail on a timer.
+# - drip: the fast cycling pipeline. 20 runners, 50 tracks per
+#   runner, every hour, plus manual runs from the GitHub Actions
+#   tab. Each runner works a different artist shard, lowest-filled
+#   artists first. Fast mode only picks tracks with no audio and
+#   no datum_job at all; a track that fails is saved for last,
+#   not retried next hour.
+# - drip-slow: the slow retry pass, manual runs only. One runner,
+#   failed tracks only, with a much longer delay between tracks.
+#   If fast mode fails at scale, slow mode is how it retries.
 #
 # Audio is uploaded to the private Supabase bucket and linked in
 # UTAG; nothing audio is kept on the runner or pushed to the repo.
+# The schedule only does useful work once YOUTUBE_COOKIES is set
+# and the audio bucket has room for the full library; until then,
+# hourly runs will fail tracks into the slow pool instead of
+# linking them.
 #
 # Secrets (repo Settings > Secrets and variables > Actions, never
 # in code): UTAG_SUPABASE_URL, UTAG_SUPABASE_ANON_KEY,
 # SUPABASE_SERVICE_KEY, UTAG_SITE_PASSWORD, YOUTUBE_COOKIES
-# (cookies.txt content, for the drip job only).
+# (cookies.txt content, for the drip jobs only).
 
 name: DATUM
 
 on:
   repository_dispatch:
     types: [datum-run]
+  schedule:
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       drip_batch:
@@ -63,9 +71,9 @@ jobs:
   drip:
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 3
+      max-parallel: 20
       matrix:
-        shard: [0, 1, 2]
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
     steps:
       - uses: actions/checkout@v4
 
@@ -91,10 +99,44 @@ jobs:
           YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
 
       - name: Stagger runners
-        run: sleep $(( ${{ matrix.shard }} * 90 ))
+        run: sleep $(( ${{ matrix.shard }} * 10 ))
 
       - name: Run DATUM drip shard
-        run: python3 backend/datum/datum.py --drip ${{ inputs.drip_batch || '50' }} --shard ${{ matrix.shard }} --shards 3 --base-dir datum-downloads
+        run: python3 backend/datum/datum.py --drip ${{ inputs.drip_batch || '50' }} --shard ${{ matrix.shard }} --shards 20 --base-dir datum-downloads
+        env:
+          UTAG_SUPABASE_URL: ${{ secrets.UTAG_SUPABASE_URL }}
+          UTAG_SUPABASE_ANON_KEY: ${{ secrets.UTAG_SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+
+  drip-slow:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and yt-dlp
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install yt-dlp requests
+
+      - name: Write YouTube cookies if secret is present
+        run: |
+          if [ -n "$YOUTUBE_COOKIES" ]; then
+            printf '%s\n' "$YOUTUBE_COOKIES" > cookies.txt
+            echo "cookies written"
+          else
+            echo "no YOUTUBE_COOKIES secret, running without cookies"
+          fi
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+
+      - name: Run DATUM slow retry
+        run: python3 backend/datum/datum.py --drip ${{ inputs.drip_batch || '50' }} --slow --shard 0 --shards 1 --base-dir datum-downloads
         env:
           UTAG_SUPABASE_URL: ${{ secrets.UTAG_SUPABASE_URL }}
           UTAG_SUPABASE_ANON_KEY: ${{ secrets.UTAG_SUPABASE_ANON_KEY }}

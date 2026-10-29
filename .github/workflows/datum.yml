@@ -42,6 +42,7 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
+    if: github.event_name == 'repository_dispatch'
     concurrency:
       group: datum-queue
       cancel-in-progress: false
@@ -74,7 +75,8 @@ jobs:
           curl https://rclone.org/install.sh | sudo bash
           OBSCURED=$(rclone obscure "$MEGA_PASSWORD")
           rclone config create mega-remote mega user "$MEGA_EMAIL" pass "$OBSCURED"
-          rclone lsd mega-remote:SSDB
+          rclone mkdir mega-remote:SSDB || true
+          rclone lsd mega-remote:SSDB || echo "SSDB listing check failed, continuing - upload will create the folder"
         env:
           MEGA_EMAIL: ${{ secrets.MEGA_EMAIL }}
           MEGA_PASSWORD: ${{ secrets.MEGA_PASSWORD }}
@@ -92,6 +94,7 @@ jobs:
 
   drip:
     runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
     strategy:
       max-parallel: 20
       matrix:
@@ -114,7 +117,8 @@ jobs:
           curl https://rclone.org/install.sh | sudo bash
           OBSCURED=$(rclone obscure "$MEGA_PASSWORD")
           rclone config create mega-remote mega user "$MEGA_EMAIL" pass "$OBSCURED"
-          rclone lsd mega-remote:SSDB
+          rclone mkdir mega-remote:SSDB || true
+          rclone lsd mega-remote:SSDB || echo "SSDB listing check failed, continuing - upload will create the folder"
         env:
           MEGA_EMAIL: ${{ secrets.MEGA_EMAIL }}
           MEGA_PASSWORD: ${{ secrets.MEGA_PASSWORD }}
@@ -164,7 +168,8 @@ jobs:
           curl https://rclone.org/install.sh | sudo bash
           OBSCURED=$(rclone obscure "$MEGA_PASSWORD")
           rclone config create mega-remote mega user "$MEGA_EMAIL" pass "$OBSCURED"
-          rclone lsd mega-remote:SSDB
+          rclone mkdir mega-remote:SSDB || true
+          rclone lsd mega-remote:SSDB || echo "SSDB listing check failed, continuing - upload will create the folder"
         env:
           MEGA_EMAIL: ${{ secrets.MEGA_EMAIL }}
           MEGA_PASSWORD: ${{ secrets.MEGA_PASSWORD }}

@@ -31,6 +31,18 @@
 //                    -> 1-hour signed URL for a DATUM track_audio row in
 //                      the private central-memory-bank bucket, for
 //                      Splotify Import from UTAG.
+//   datum_queue      { artist, title, album?, release_year?, source_url? }
+//                    -> queues one DATUM job (status pending).
+//   datum_list       {}
+//                    -> pending/running/done/failed jobs, newest first,
+//                      enriched with the linked track's release and
+//                      artist ids and its track_audio id, when known.
+//   datum_retry      { job_id }
+//                    -> a failed job back to pending, ready for a rerun.
+//   datum_run        {}
+//                    -> repository_dispatch to GitHub, which starts the
+//                      DATUM GitHub Actions workflow (the cloud worker).
+//                      Needs GITHUB_REPO_TOKEN with repo scope.
 // Response: JSON { ok: true, ... } or { ok: false, error }
 
 import { createClient } from "jsr:@supabase/supabase-js@2";
@@ -875,6 +887,92 @@ Deno.serve(async (req) => {
         message: paused ? "You paused Hermes's queue" : "You resumed Hermes's queue", details: {},
       });
       return json({ ok: true, action, paused });
+    }
+
+    if (action === "datum_queue") {
+      const artist = String(body.artist || "").trim();
+      const title = String(body.title || "").trim();
+      if (!artist || !title) return json({ ok: false, error: "artist and title required" }, 400);
+      const year = body.release_year ? parseInt(String(body.release_year), 10) : null;
+      const { data, error } = await supabase.from("datum_jobs").insert({
+        artist,
+        title,
+        album: String(body.album || "").trim() || null,
+        release_year: Number.isNaN(year) ? null : year,
+        source_url: String(body.source_url || "").trim() || null,
+        status: "pending",
+      }).select("id").single();
+      if (error) {
+        if ((error as { code?: string }).code === "42P01") {
+          return json({ ok: false, error: "datum_jobs table not found. Run the 20261029_datum_jobs.sql migration in the Supabase dashboard SQL editor first." }, 400);
+        }
+        throw error;
+      }
+      return json({ ok: true, action, job_id: (data as { id: string }).id });
+    }
+
+    if (action === "datum_list") {
+      const { data, error } = await supabase.from("datum_jobs")
+        .select("*").order("created_at", { ascending: false }).limit(100);
+      if (error) {
+        if ((error as { code?: string }).code === "42P01") {
+          return json({ ok: false, error: "datum_jobs table not found. Run the 20261029_datum_jobs.sql migration in the Supabase dashboard SQL editor first." }, 400);
+        }
+        throw error;
+      }
+      const jobs = (data || []) as Record<string, unknown>[];
+      const trackIds = [...new Set(jobs.map((j) => String(j.utag_track_id || "")).filter(Boolean))];
+      if (trackIds.length) {
+        const { data: tracks } = await supabase.from("tracks")
+          .select("id, release_id, artist_id").in("id", trackIds);
+        const byTrack = new Map((tracks || []).map((t: Record<string, unknown>) => [String(t.id), t]));
+        const { data: audio } = await supabase.from("track_audio")
+          .select("id, track_id, storage_path, status").in("track_id", trackIds);
+        const audioByTrack = new Map((audio || []).map((a: Record<string, unknown>) => [String(a.track_id), a]));
+        for (const job of jobs) {
+          const t = byTrack.get(String(job.utag_track_id || ""));
+          if (t) {
+            job.release_id = t.release_id;
+            job.artist_id = t.artist_id;
+          }
+          const a = audioByTrack.get(String(job.utag_track_id || ""));
+          if (a) {
+            job.audio_id = a.id;
+            job.audio_status = a.status;
+          }
+        }
+      }
+      return json({ ok: true, action, jobs });
+    }
+
+    if (action === "datum_retry") {
+      const jobId = String(body.job_id || "");
+      if (!jobId) return json({ ok: false, error: "Missing job_id" }, 400);
+      const { data, error } = await supabase.from("datum_jobs")
+        .update({ status: "pending", error: null, error_kind: null, updated_at: new Date().toISOString() })
+        .eq("id", jobId).eq("status", "failed").select("id").maybeSingle();
+      if (error) throw error;
+      if (!data) return json({ ok: false, error: "Job not found, or it is not failed" }, 404);
+      return json({ ok: true, action, job_id: jobId });
+    }
+
+    if (action === "datum_run") {
+      const token = Deno.env.get("GITHUB_REPO_TOKEN") || "";
+      if (!token) return json({ ok: false, error: "GITHUB_REPO_TOKEN is not set on utag-control, so it cannot trigger the cloud run. Run the DATUM workflow from the GitHub Actions tab instead." }, 400);
+      const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/dispatches`, {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: "application/vnd.github+json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ event_type: "datum-run" }),
+      });
+      if (res.status !== 204) {
+        const text = await res.text().catch(() => "");
+        return json({ ok: false, error: `GitHub refused the dispatch (${res.status}). The token may not have repo scope. ${text.slice(0, 200)}` }, 400);
+      }
+      return json({ ok: true, action, dispatched: true });
     }
 
     if (action === "audio_url") {

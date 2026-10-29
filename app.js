@@ -2668,6 +2668,139 @@ function attachSuggest(input) {
   input.addEventListener("blur", () => setTimeout(close, 150));
 }
 
+/* ----------------------------------------------------------------- DATUM */
+/* DATUM tab: queue songs for the cloud worker, and see what it pulled.
+   Queueing, listing, retrying, and triggering a run all go through
+   utag-control, which is admin-gated, so this tab is owner-only:
+   sign in on the Hermes tab first. The worker itself runs in GitHub
+   Actions (see .github/workflows/datum.yml). It looks the song up in
+   UTAG first; if it is there, the rip links to that track, and if it
+   is not, the worker creates it as needs_review and links to the new
+   track. A failed job stays on the list with its error, never deleted. */
+
+async function vDatum() {
+  setNav("datum");
+  view.innerHTML = `
+    <h1>DATUM</h1>
+    <p class="empty-note" id="datum-status"></p>
+    <form id="datum-form" class="ref">
+      <div class="ef-grid">
+        <label class="ef-field"><span>Artist</span><input id="datum-artist" type="text" required placeholder="Artist"></label>
+        <label class="ef-field"><span>Title</span><input id="datum-title" type="text" required placeholder="Song title"></label>
+        <label class="ef-field"><span>Album</span><input id="datum-album" type="text" placeholder="Album, if known"></label>
+        <label class="ef-field"><span>Year</span><input id="datum-year" type="number" inputmode="numeric" placeholder="Year, if known"></label>
+        <label class="ef-field ef-wide"><span>YouTube URL</span><input id="datum-url" type="url" placeholder="https://www.youtube.com/watch?v=… (blank means search)"></label>
+      </div>
+      <div class="ef-actions">
+        <button class="btn" type="submit">Queue song</button>
+        <button class="mini-btn" type="button" id="datum-run">Run in cloud</button>
+        <button class="mini-btn" type="button" id="datum-refresh">Refresh</button>
+      </div>
+    </form>
+    <h2>Queue</h2>
+    <div id="datum-list">${skelRows(5)}</div>
+    ${footer()}`;
+
+  const statusEl = document.getElementById("datum-status");
+  const setStatus = t => { statusEl.textContent = t || ""; };
+  const statusClass = s => s === "done" ? "verified" : s === "running" ? "high_confidence" : s === "failed" ? "conflicting" : "needs_review";
+
+  async function refresh() {
+    const listEl = document.getElementById("datum-list");
+    if (!listEl) return;
+    if (!isAuthed()) {
+      listEl.innerHTML = `<p class="empty-note">Sign in on the Hermes tab first, then come back to queue songs.</p>`;
+      return;
+    }
+    try {
+      const data = await fnCall({ action: "datum_list" });
+      const jobs = data.jobs || [];
+      if (!jobs.length) {
+        listEl.innerHTML = `<p class="empty-note">No DATUM jobs yet. Queue a song above, then run it in the cloud.</p>`;
+        return;
+      }
+      listEl.innerHTML = `<div class="rows">${jobs.map(j => `
+        <div class="drow">
+          <span class="grow">
+            <span class="t">${esc(j.artist)} — ${esc(j.title)}</span>
+            <span class="s">
+              <span class="st st-${statusClass(j.status)}"><i></i>${esc(j.status)}</span>
+              ${j.album ? ` · ${esc(j.album)}` : ""}${j.release_year ? ` · ${esc(j.release_year)}` : ""}
+              ${j.error ? ` · ${esc(j.error)}` : ""}
+              ${j.created_at ? ` · ${fmtDate(j.created_at)}` : ""}
+            </span>
+            <span class="s">
+              ${j.release_id ? `<a href="#/release/${esc(j.release_id)}">Release</a>` : ""}
+              ${j.artist_id ? ` · <a href="#/artist/${esc(j.artist_id)}">Artist</a>` : ""}
+              ${j.source_url ? ` · <a href="${esc(j.source_url)}" target="_blank" rel="noopener">Source</a>` : ""}
+              ${j.audio_id ? ` · <button class="mini-btn" type="button" data-audio="${esc(j.audio_id)}">Audio</button>` : ""}
+              ${j.status === "failed" ? ` · <button class="mini-btn" type="button" data-retry="${esc(j.id)}">Retry</button>` : ""}
+            </span>
+          </span>
+        </div>`).join("")}</div>`;
+      listEl.querySelectorAll("[data-retry]").forEach(b => {
+        b.onclick = async () => {
+          b.disabled = true;
+          try {
+            await fnCall({ action: "datum_retry", job_id: b.dataset.retry });
+            setStatus("Queued again. Run it in the cloud to process it.");
+            await refresh();
+          } catch (e) { setStatus(`Retry failed: ${e.message}`); b.disabled = false; }
+        };
+      });
+      listEl.querySelectorAll("[data-audio]").forEach(b => {
+        b.onclick = async () => {
+          b.disabled = true;
+          try {
+            const d = await fnCall({ action: "audio_url", audio_id: b.dataset.audio });
+            if (d.signed_url) window.open(d.signed_url, "_blank", "noopener");
+          } catch (e) { setStatus(`Audio failed: ${e.message}`); }
+          b.disabled = false;
+        };
+      });
+    } catch (e) {
+      listEl.innerHTML = `<p class="error-note">${esc(e.message)}</p>`;
+    }
+  }
+
+  document.getElementById("datum-form").addEventListener("submit", async e => {
+    e.preventDefault();
+    if (!isAuthed()) { setStatus("Sign in on the Hermes tab first, then queue a song."); return; }
+    const btn = e.target.querySelector("[type=submit]");
+    btn.disabled = true;
+    setStatus("Queueing…");
+    try {
+      await fnCall({
+        action: "datum_queue",
+        artist: document.getElementById("datum-artist").value.trim(),
+        title: document.getElementById("datum-title").value.trim(),
+        album: document.getElementById("datum-album").value.trim(),
+        release_year: document.getElementById("datum-year").value.trim(),
+        source_url: document.getElementById("datum-url").value.trim(),
+      });
+      e.target.reset();
+      setStatus("Queued. Run it in the cloud to pull it.");
+      await refresh();
+    } catch (err) { setStatus(`Queue failed: ${err.message}`); }
+    btn.disabled = false;
+  });
+
+  document.getElementById("datum-run").onclick = async e => {
+    if (!isAuthed()) { setStatus("Sign in on the Hermes tab first, then run it."); return; }
+    e.target.disabled = true;
+    setStatus("Triggering the cloud run…");
+    try {
+      await fnCall({ action: "datum_run" });
+      setStatus("Cloud run triggered. It works the queue in order; refresh in a few minutes to see progress.");
+      await refresh();
+    } catch (err) { setStatus(`Run failed: ${err.message}`); }
+    e.target.disabled = false;
+  };
+
+  document.getElementById("datum-refresh").onclick = refresh;
+  await refresh();
+}
+
 /* ----------------------------------------------------------------- router */
 
 function parseHash() {
@@ -2696,6 +2829,7 @@ async function route() {
     else if (parts[0] === "release" && parts[1]) await vRelease(parts[1]);
     else if (parts[0] === "review") await vReview();
     else if (parts[0] === "activity") await vActivity();
+    else if (parts[0] === "datum") await vDatum();
     else if (parts[0] === "search") await vSearch(params.get("q") || "");
     else if (parts[0] === "hermes") await vHermesDirect();
     else view.innerHTML = `<h1>Not found</h1><p class="empty-note">That page is not in UTAG.</p>${footer()}`;

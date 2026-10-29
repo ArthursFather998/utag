@@ -19,6 +19,7 @@ Data reads go straight to Supabase with the public read key (row-level security 
 
 - `index.html`, `app.js`, `styles.css`, `config.js`: the site itself (no build step; GitHub Pages serves the repo root).
 - `backend/`: the Supabase backend: schema migrations, the `utag-control` Edge Function, the knowledge import script, and `backend/datum/`: DATUM, the UTAG-aware song ripper, with its 404 recovery script.
+- The site has a DATUM tab: queue a song, trigger the GitHub Actions cloud worker (`.github/workflows/datum.yml`), and see the queue. The worker links a rip to the existing UTAG track, or creates it as `needs_review` when it is not in the library.
 - `legacy/`: the original UTAG Fixer matching engine (Apple/Deezer/MusicBrainz/fanart searchers). Kept for reference; Splotify no longer ships it and calls this database instead.
 
 ## Confidence states

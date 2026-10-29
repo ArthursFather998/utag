@@ -66,6 +66,34 @@ or endorsed here.
 2. utag-control already has the `audio_url` action (signed URLs,
    site-password gated) for Splotify Import from UTAG.
 
+## The DATUM tab and the cloud worker
+
+The UTAG site has a DATUM tab (owner-only, admin sign-in). It
+queues songs into `datum_jobs` (migration
+`20261029_datum_jobs.sql`, run in the dashboard) through
+utag-control actions `datum_queue`, `datum_list`, `datum_retry`,
+and `datum_run`. `datum_run` sends a repository dispatch that
+starts `.github/workflows/datum.yml`, the GitHub Actions worker.
+
+The worker runs this script with `--queue`:
+
+```bash
+python datum.py --queue
+```
+
+It works pending jobs oldest first. For each job it looks the
+song up in UTAG; if it is there, the rip links to that track;
+if it is not, it creates the entry as `needs_review` through
+utag-control `fixer_save` (needs `UTAG_SITE_PASSWORD`) and links
+to the new track. A failure marks the job failed with its error
+and error_kind, and the link stays in `failed_links/failed.jsonl`
+for recovery. A job is never deleted.
+
+GitHub Actions secrets (repo Settings > Secrets and variables >
+Actions, never in code): `UTAG_SUPABASE_URL`,
+`UTAG_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_KEY`,
+`UTAG_SITE_PASSWORD`.
+
 ## Files
 
 - `datum.py` - fixed ripper + UTAG adapter

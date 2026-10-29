@@ -28,6 +28,9 @@ Secrets: read only from the environment.
   UTAG_SUPABASE_ANON_KEY   public anon key, for UTAG lookups
   SUPABASE_SERVICE_KEY     service role key, only for bucket upload +
                            track_audio inserts. Keep it out of git.
+  UTAG_SITE_PASSWORD       site password, only for --queue creation of
+                           library entries through utag-control
+                           fixer_save. Keep it out of git.
   DATUM_BUCKET             bucket id, default central-memory-bank
 
 Run: python datum.py --help
@@ -454,6 +457,137 @@ def upload_to_central_memory(
     return storage_path
 
 
+# ------------------------------------------------------------------ queue --
+def _service_headers() -> dict[str, str] | None:
+    service = os.environ.get("SUPABASE_SERVICE_KEY", "").strip()
+    if not service:
+        return None
+    return {"apikey": service, "Authorization": f"Bearer {service}"}
+
+
+def fetch_pending_jobs(limit: int = 50) -> list[dict[str, Any]]:
+    """Pending datum_jobs rows, oldest first. Service key only: the
+    table has no anon policy, so this is the worker's private read."""
+    headers = _service_headers()
+    if not headers:
+        return []
+    r = requests.get(
+        f"{supabase_base()}/rest/v1/datum_jobs",
+        params={"select": "*", "status": "eq.pending", "order": "created_at.asc", "limit": limit},
+        headers=headers, timeout=30,
+    )
+    r.raise_for_status()
+    return r.json()
+
+
+def update_job(job_id: str, patch: dict[str, Any]) -> None:
+    headers = _service_headers()
+    if not headers:
+        return
+    r = requests.patch(
+        f"{supabase_base()}/rest/v1/datum_jobs",
+        params={"id": f"eq.{job_id}"},
+        headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
+        json={**patch, "updated_at": _now()}, timeout=30,
+    )
+    r.raise_for_status()
+
+
+def ensure_utag_track_via_fixer(job: dict[str, Any]) -> str | None:
+    """Create the library entry for a song that is not in UTAG yet.
+
+    This goes through utag-control fixer_save, the same admin-gated
+    save the UTAG fixer uses, with no verified flag, so the new
+    artist/release/track land as needs_review with only the fields
+    the job supplied. Nothing is invented: no album, year, or
+    artwork is guessed from a YouTube title. The site password comes
+    from UTAG_SITE_PASSWORD in the environment, never from code.
+    Returns the track id, or None when creation is not possible."""
+    password = os.environ.get("UTAG_SITE_PASSWORD", "").strip()
+    anon = os.environ.get("UTAG_SUPABASE_ANON_KEY", "").strip()
+    if not password or not anon:
+        logger.warning("UTAG_SITE_PASSWORD or UTAG_SUPABASE_ANON_KEY not set, cannot create a UTAG entry for %s - %s",
+                       job.get("artist"), job.get("title"))
+        return None
+    try:
+        r = requests.post(
+            f"{supabase_base()}/functions/v1/utag-control",
+            headers={"apikey": anon, "Authorization": f"Bearer {anon}", "Content-Type": "application/json"},
+            json={"password": password, "action": "fixer_save",
+                  "artist": job.get("artist"), "title": job.get("title"),
+                  "album": job.get("album") or "", "year": job.get("release_year") or ""},
+            timeout=60,
+        )
+        data = r.json()
+        if r.ok and data.get("ok") and data.get("track_id"):
+            return str(data["track_id"])
+        logger.error("fixer_save failed for %s - %s: %s", job.get("artist"), job.get("title"), data)
+    except Exception as e:
+        logger.error("fixer_save failed for %s - %s: %s", job.get("artist"), job.get("title"), e)
+    return None
+
+
+def run_queue(base_dir: Path, upload: bool, force: bool = False) -> int:
+    """Work the datum_jobs queue, oldest first, one job at a time.
+
+    For each job: look the song up in UTAG; if it is there, link the
+    rip to that track; if it is not, create it as needs_review via
+    fixer_save and link to the new track. A 404 or any other failure
+    marks the job failed with its error and error_kind, and the link
+    is already in failed_links/failed.jsonl for recovery.py. A job is
+    never deleted, and a failed job is only retried when the owner
+    retries it from the DATUM tab."""
+    if not _service_headers():
+        logger.error("SUPABASE_SERVICE_KEY not set, cannot read or update datum_jobs")
+        return 1
+    try:
+        jobs = fetch_pending_jobs()
+    except Exception as e:
+        logger.error("Could not fetch pending DATUM jobs: %s", e)
+        return 1
+    if not jobs:
+        logger.info("No pending DATUM jobs.")
+        return 0
+    for job in jobs:
+        job_id = str(job["id"])
+        artist, title = str(job["artist"]), str(job["title"])
+        logger.info("DATUM job %s: %s - %s", job_id, artist, title)
+        try:
+            update_job(job_id, {"status": "running", "attempts": int(job.get("attempts") or 0) + 1})
+        except Exception as e:
+            logger.error("Could not mark job %s running: %s", job_id, e)
+            continue
+        track_id = str(job.get("utag_track_id") or "") or lookup_utag_track(artist, title)
+        if not track_id:
+            track_id = ensure_utag_track_via_fixer(job)
+        if not track_id:
+            update_job(job_id, {"status": "failed",
+                                "error": "Song is not in UTAG and no library entry could be created (check UTAG_SITE_PASSWORD)",
+                                "error_kind": "other"})
+            continue
+        url = str(job.get("source_url") or "").strip()
+        if not url:
+            try:
+                found = search_youtube_tracks(f"{artist} {title}", 5)
+            except Exception as exc:
+                found = []
+                logger.error("Search failed for %s - %s: %s", artist, title, exc)
+            if not found:
+                update_job(job_id, {"status": "failed", "error": "search returned no tracks", "error_kind": "search"})
+                continue
+            url = found[0]["url"]
+        res = process_track(artist, title, url, base_dir, track_id, upload, source="datum", force=force)
+        if res["status"] == "ok":
+            update_job(job_id, {"status": "done", "utag_track_id": track_id,
+                                "storage_path": res.get("storage_path"), "error": None, "error_kind": None})
+        elif res["status"] == "skipped_already_done":
+            update_job(job_id, {"status": "done", "utag_track_id": track_id, "error": None, "error_kind": None})
+        else:
+            update_job(job_id, {"status": "failed", "utag_track_id": track_id,
+                                "error": res.get("error", ""), "error_kind": res.get("error_kind", "other")})
+    return 0
+
+
 # -------------------------------------------------------------- google docs --
 # Kept for compatibility. No longer called by default: a Google Doc is
 # not machine-readable, so it cannot feed a recovery script, and it
@@ -607,6 +741,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--title", help="Rip one specific title (with --artist)")
     p.add_argument("--url", help="Rip one specific YouTube URL (with --artist/--title for naming)")
     p.add_argument("--utag-list", help="JSON file: [{artist, title, utag_track_id?}] to rip in order")
+    p.add_argument("--queue", action="store_true", help="Work pending datum_jobs from Supabase, oldest first (the GitHub Actions cloud worker mode)")
     p.add_argument("--base-dir", default=BASE_DOWNLOAD_DIR)
     p.add_argument("--format", default=AUDIO_FORMAT)
     p.add_argument("--no-upload", action="store_true", help="Keep files local, do not upload to the bucket")
@@ -621,6 +756,8 @@ def main(argv: list[str] | None = None) -> int:
         return 1
     base_dir = Path(args.base_dir)
     upload = not args.no_upload
+    if args.queue:
+        return run_queue(base_dir, upload, force=args.force)
     if args.discover:
         run_discover(args.num_artists, args.tracks_per_artist, base_dir, upload, args.google_doc, args.force)
     elif args.utag_list:

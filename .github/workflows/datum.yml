@@ -6,7 +6,7 @@
 #   can be started by hand. It works the pending datum_jobs queue,
 #   oldest first, then the runner is thrown away.
 # - drip: the fast cycling pipeline. 20 runners, 50 tracks per
-#   runner, every hour, plus manual runs from the GitHub Actions
+#   runner, manual runs only while Mega storage is being wired up, schedule to be restored after the Mega test, from the GitHub Actions
 #   tab. Each runner works a different artist shard, lowest-filled
 #   artists first. Fast mode only picks tracks with no audio and
 #   no datum_job at all; a track that fails is saved for last,
@@ -32,8 +32,6 @@ name: DATUM
 on:
   repository_dispatch:
     types: [datum-run]
-  schedule:
-    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       drip_batch:

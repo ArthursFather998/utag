@@ -30,24 +30,24 @@ jobs:
         run: |
           OBSCURED=$(rclone obscure "$MEGA_PASSWORD")
           rclone config create mega-remote mega user "$MEGA_EMAIL" pass "$OBSCURED"
-          rclone mkdir mega-remote:SSDB || true
-          rclone lsd mega-remote:SSDB || echo "SSDB listing check failed, continuing..."
+          rclone mkdir mega-remote:DATUM/SSDB || true
+          rclone lsd mega-remote:DATUM/SSDB || echo "SSDB listing check failed, continuing..."
       - name: List Mega root and SSDB (diagnostic, read-only)
         env:
           MEGA_REMOTE: mega-remote
-          MEGA_ROOT: SSDB
+          MEGA_ROOT: DATUM/SSDB
           UTAG_SUPABASE_URL: ${{ secrets.UTAG_SUPABASE_URL }}
           UTAG_SUPABASE_ANON_KEY: ${{ secrets.UTAG_SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
           echo "=== root ==="; rclone lsd mega-remote: || true
-          echo "=== SSDB top level ==="; rclone lsd mega-remote:SSDB || true
-          echo "=== SSDB recursive file list, first 200 lines ==="; rclone ls mega-remote:SSDB || true
-          echo "=== SSDB counts by extension ==="; rclone ls mega-remote:SSDB | awk '{print $NF}' | sed 's/.*\.//' | sort | uniq -c | sort -nr || true
+          echo "=== SSDB top level ==="; rclone lsd mega-remote:DATUM/SSDB || true
+          echo "=== SSDB recursive file list, first 200 lines ==="; rclone ls mega-remote:DATUM/SSDB || true
+          echo "=== SSDB counts by extension ==="; rclone ls mega-remote:DATUM/SSDB | awk '{print $NF}' | sed 's/.*\.//' | sort | uniq -c | sort -nr || true
       - name: Organize Mega backup
         env:
           MEGA_REMOTE: mega-remote
-          MEGA_ROOT: SSDB
+          MEGA_ROOT: DATUM/SSDB
           UTAG_SUPABASE_URL: ${{ secrets.UTAG_SUPABASE_URL }}
           UTAG_SUPABASE_ANON_KEY: ${{ secrets.UTAG_SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}

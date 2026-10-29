@@ -32,6 +32,19 @@ Secrets: read only from the environment.
                            library entries through utag-control
                            fixer_save. Keep it out of git.
   DATUM_BUCKET             bucket id, default central-memory-bank
+  --drip mode: the UTAG artists table replaces the original Google
+  Sheet. Each run picks artists by lowest percentage filled first,
+  then a random unfilled track per artist, one per artist per cycle,
+  until the batch is full. Runners are sharded by artist index, so
+  parallel runners never pick the same artist in the same run.
+  Mindful controls: a circuit breaker stops a runner after 3
+  consecutive failures (bot check, rate limit, or otherwise) instead
+  of hammering YouTube, and tracks with a datum_job in the last
+  7 days are not re-picked, so a failed track gets a cooldown
+  instead of a retry storm. If cookies.txt exists in the working
+  directory (the GitHub workflow writes it from the
+  YOUTUBE_COOKIES secret when present), yt-dlp uses it; without
+  it, downloads run unauthenticated and may be bot-checked.
 
 Run: python datum.py --help
 """
@@ -40,6 +53,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import random
 import logging
 import os
 import re
@@ -292,6 +306,8 @@ def search_youtube_tracks(search_term: str, num_results: int = 5) -> list[dict[s
         "no_warnings": True,
         "ignoreerrors": True,
     }
+    if Path("cookies.txt").is_file():
+        options["cookiefile"] = "cookies.txt"
     with yt_dlp.YoutubeDL(options) as ydl:
         info = ydl.extract_info(query, download=False)
     tracks: list[dict[str, str]] = []
@@ -339,6 +355,8 @@ def download_track(
             {"key": "FFmpegExtractAudio", "preferredcodec": audio_format, "preferredquality": "192"}
         ],
     }
+    if Path("cookies.txt").is_file():
+        options["cookiefile"] = "cookies.txt"
     with yt_dlp.YoutubeDL(options) as ydl:
         ydl.download([url])
     after = [p for p in download_dir.iterdir() if p.is_file() and p.name not in before]
@@ -588,6 +606,191 @@ def run_queue(base_dir: Path, upload: bool, force: bool = False) -> int:
     return 0
 
 
+# ------------------------------------------------------------------- drip --
+def _paginated_get(path: str, params: dict[str, Any], headers: dict[str, str]) -> list[dict[str, Any]]:
+    """Fetch every page of a PostgREST table (limit 1000 per page)."""
+    rows: list[dict[str, Any]] = []
+    offset = 0
+    while True:
+        r = requests.get(
+            f"{supabase_base()}/rest/v1/{path}",
+            params={**params, "limit": 1000, "offset": offset},
+            headers=headers, timeout=60,
+        )
+        r.raise_for_status()
+        page = r.json()
+        if not page:
+            break
+        rows.extend(page)
+        if len(page) < 1000:
+            break
+        offset += 1000
+    return rows
+
+
+def _create_datum_job(artist: str, title: str, track_id: str) -> dict[str, Any] | None:
+    """Insert one pending datum_job row via the service key."""
+    headers = _service_headers()
+    if not headers:
+        return None
+    r = requests.post(
+        f"{supabase_base()}/rest/v1/datum_jobs",
+        headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
+        json={"artist": artist, "title": title, "utag_track_id": track_id, "status": "pending"},
+        timeout=30,
+    )
+    if r.status_code not in (200, 201):
+        logger.error("Could not create datum_job for %s - %s (%s): %s", artist, title, r.status_code, r.text[:200])
+        return None
+    rows = r.json()
+    return rows[0] if rows else None
+
+
+def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool) -> int:
+    """Cycling drip: fill UTAG artists with audio, lowest-filled first.
+
+    Selection, in order, so parallel runners stay disjoint:
+      1. Every artist, with total tracks and already-linked audio count.
+      2. Sort by filled ratio ascending, then audio count, then name.
+         Lowest-filled artists go first, so small artists finish early
+         and no artist is starved by a big discography.
+      3. Shard by artist position: runner `shard` takes positions
+         shard, shard+shards, shard+2*shards, and so on. Two runners
+         in the same workflow run can never pick the same artist.
+      4. Cycle the shard's artists, one random unfilled track per
+         artist per cycle, until the batch is full. The random pick
+         is seeded per artist per hour, so runners agree on the pick
+         for an artist and the pick changes on the next run.
+    Excluded from picking: tracks already linked in track_audio, and
+    tracks with any datum_job in the last 7 days (cooldown, so a
+    bot-blocked track is not retried every run). Each picked track
+    is created as a datum_job, processed immediately, and marked
+    done or failed, so the DATUM tab shows the whole drip.
+    Circuit breaker: 3 consecutive failures stop this runner's
+    batch (exit 0, partial progress kept). Remaining tracks are
+    simply not picked this run; nothing is retried in a loop.
+    """
+    if batch <= 0:
+        logger.error("--drip needs a positive batch size")
+        return 1
+    if not (0 <= shard < shards):
+        logger.error("--shard must be between 0 and --shards-1")
+        return 1
+    headers = _service_headers()
+    if not headers:
+        logger.error("SUPABASE_SERVICE_KEY not set, cannot run --drip")
+        return 1
+    anon = os.environ.get("UTAG_SUPABASE_ANON_KEY", "").strip()
+    read_headers = {"apikey": anon, "Authorization": f"Bearer {anon}"} if anon else headers
+    try:
+        artists = _paginated_get("artists", {"select": "id,canonical_name"}, read_headers)
+        tracks = _paginated_get("tracks", {"select": "id,artist_id,title"}, read_headers)
+        audio_rows = _paginated_get("track_audio", {"select": "track_id"}, read_headers)
+        cutoff = (datetime.now(timezone.utc).timestamp() - 7 * 86400)
+        recent_jobs = _paginated_get(
+            "datum_jobs",
+            {"select": "utag_track_id,created_at",
+             "created_at": f"gte.{datetime.fromtimestamp(cutoff, tz=timezone.utc).isoformat()}"},
+            headers,
+        )
+    except Exception as e:
+        logger.error("Could not fetch UTAG library for --drip: %s", e)
+        return 1
+    audio_ids = {str(r.get("track_id")) for r in audio_rows if r.get("track_id")}
+    recent_ids = {str(r.get("utag_track_id")) for r in recent_jobs if r.get("utag_track_id")}
+    by_artist: dict[str, list[dict[str, Any]]] = {}
+    for tr in tracks:
+        if tr.get("title"):
+            by_artist.setdefault(str(tr.get("artist_id")), []).append(tr)
+    artist_stats = []
+    for a in artists:
+        aid = str(a["id"])
+        mine = by_artist.get(aid, [])
+        if not mine:
+            continue
+        audio_count = sum(1 for tr in mine if str(tr["id"]) in audio_ids)
+        unfilled = [tr for tr in mine
+                    if str(tr["id"]) not in audio_ids and str(tr["id"]) not in recent_ids]
+        if not unfilled:
+            continue
+        artist_stats.append({
+            "id": aid, "name": str(a.get("canonical_name") or ""),
+            "total": len(mine), "audio": audio_count,
+            "ratio": audio_count / len(mine), "unfilled": unfilled,
+        })
+    artist_stats.sort(key=lambda s: (s["ratio"], s["audio"], s["name"].lower()))
+    shard_artists = [s for i, s in enumerate(artist_stats) if i % shards == shard]
+    logger.info("DRIP shard %s/%s: %s artists with unfilled tracks, batch %s",
+                shard, shards, len(shard_artists), batch)
+    if not shard_artists:
+        logger.info("No unfilled tracks for this shard.")
+        return 0
+    hour = int(time.time() // 3600)
+    done = failed = consecutive = 0
+    attempted = 0
+    while attempted < batch:
+        progress_this_cycle = False
+        for stat in shard_artists:
+            if attempted >= batch:
+                break
+            if not stat["unfilled"]:
+                continue
+            rng = random.Random(f"{stat['id']}-{hour}")
+            track = rng.choice(stat["unfilled"])
+            stat["unfilled"].remove(track)
+            artist, title, track_id = stat["name"], str(track["title"]), str(track["id"])
+            job = _create_datum_job(artist, title, track_id)
+            if not job:
+                continue
+            job_id = str(job["id"])
+            try:
+                update_job(job_id, {"status": "running", "attempts": 1})
+            except Exception as e:
+                logger.error("Could not mark job %s running: %s", job_id, e)
+                continue
+            logger.info("DRIP %s/%s: %s - %s", attempted + 1, batch, artist, title)
+            try:
+                found = search_youtube_tracks(f"{artist} {title}", 5)
+            except Exception as exc:
+                found = []
+                logger.error("Search failed for %s - %s: %s", artist, title, exc)
+            if not found:
+                update_job(job_id, {"status": "failed", "error": "search returned no tracks", "error_kind": "search"})
+                failed += 1
+                consecutive += 1
+                attempted += 1
+                progress_this_cycle = True
+            else:
+                res = process_track(artist, title, found[0]["url"], base_dir, track_id, upload, source="datum")
+                attempted += 1
+                progress_this_cycle = True
+                if res["status"] == "ok":
+                    update_job(job_id, {"status": "done", "utag_track_id": track_id,
+                                        "storage_path": res.get("storage_path"), "error": None, "error_kind": None})
+                    done += 1
+                    consecutive = 0
+                elif res["status"] == "skipped_already_done" and track_id in audio_ids:
+                    update_job(job_id, {"status": "done", "utag_track_id": track_id, "error": None, "error_kind": None})
+                    done += 1
+                    consecutive = 0
+                else:
+                    update_job(job_id, {"status": "failed", "utag_track_id": track_id,
+                                        "error": res.get("error", "already in manifest without audio"),
+                                        "error_kind": res.get("error_kind", "other")})
+                    failed += 1
+                    consecutive += 1
+            if consecutive >= 3:
+                logger.warning("DRIP circuit breaker: 3 consecutive failures, stopping this runner's batch "
+                               "after %s done / %s failed (mindful stop, not an error)", done, failed)
+                logger.info("DRIP shard %s done: %s done, %s failed", shard, done, failed)
+                return 0
+            time.sleep(random.uniform(0, 2))
+        if not progress_this_cycle:
+            break
+    logger.info("DRIP shard %s done: %s done, %s failed", shard, done, failed)
+    return 0
+
+
 # -------------------------------------------------------------- google docs --
 # Kept for compatibility. No longer called by default: a Google Doc is
 # not machine-readable, so it cannot feed a recovery script, and it
@@ -742,6 +945,9 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--url", help="Rip one specific YouTube URL (with --artist/--title for naming)")
     p.add_argument("--utag-list", help="JSON file: [{artist, title, utag_track_id?}] to rip in order")
     p.add_argument("--queue", action="store_true", help="Work pending datum_jobs from Supabase, oldest first (the GitHub Actions cloud worker mode)")
+    p.add_argument("--drip", type=int, default=None, help="Cycling drip mode: pick and rip N unfilled UTAG tracks, lowest-filled artists first (see docstring)")
+    p.add_argument("--shard", type=int, default=0, help="This runner's shard index for --drip (default 0)")
+    p.add_argument("--shards", type=int, default=1, help="Total runner shards for --drip (default 1, single runner)")
     p.add_argument("--base-dir", default=BASE_DOWNLOAD_DIR)
     p.add_argument("--format", default=AUDIO_FORMAT)
     p.add_argument("--no-upload", action="store_true", help="Keep files local, do not upload to the bucket")
@@ -756,6 +962,8 @@ def main(argv: list[str] | None = None) -> int:
         return 1
     base_dir = Path(args.base_dir)
     upload = not args.no_upload
+    if args.drip is not None:
+        return run_drip(args.drip, args.shard, args.shards, base_dir, upload)
     if args.queue:
         return run_queue(base_dir, upload, force=args.force)
     if args.discover:

@@ -92,7 +92,59 @@ for recovery. A job is never deleted.
 GitHub Actions secrets (repo Settings > Secrets and variables >
 Actions, never in code): `UTAG_SUPABASE_URL`,
 `UTAG_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_KEY`,
-`UTAG_SITE_PASSWORD`.
+`UTAG_SITE_PASSWORD`, plus `YOUTUBE_COOKIES` for the drip worker
+below (cookies.txt content, pasted as the secret value, never in
+chat or code).
+
+## The cycling drip pipeline (every artist, every song)
+
+`--drip` replaces the original Google Sheet with the UTAG artists
+table. It is not a manual queue and it does not invent artists.
+
+```bash
+# one runner, 50 tracks
+python datum.py --drip 50
+# runner 1 of 3 in the GitHub matrix
+python datum.py --drip 50 --shard 1 --shards 3
+```
+
+Selection: artists are sorted by lowest percentage filled first
+(audio count / total tracks), then by name. Runner `shard` takes
+artist positions shard, shard+shards, shard+2*shards, so parallel
+runners never pick the same artist in the same run. Each runner
+cycles its artists, one random unfilled track per artist per
+cycle, until its batch is full. Excluded: tracks already in
+`track_audio`, and tracks with any `datum_job` in the last 7 days
+(cooldown, not a retry storm).
+
+Mindful controls, built into the runner, not into a person
+watching it:
+- Max 3 concurrent runners in the GitHub matrix, staggered by
+  90 seconds per shard, so YouTube does not get 3 search bursts
+  at the same instant.
+- A small random delay between tracks in a runner.
+- Circuit breaker: 3 consecutive failures stop that runner's
+  batch, with partial progress kept. It exits clean, it does not
+  keep hammering YouTube or burn through cookies.
+- Cookies: if `cookies.txt` exists in the working directory,
+  yt-dlp uses it for search and download. The GitHub workflow
+  writes it from the `YOUTUBE_COOKIES` secret when present and
+  the runner is wiped after the run. Without cookies, GitHub
+  runners get bot-checked (proven 2026-10-29); the sandbox does
+  not, which is why the first drip test ran there.
+
+The schedule is deliberately NOT turned on yet. The workflow
+has the drip job on `workflow_dispatch` only, so it can be tested
+manually with cookies first. Only after a manual drip run lands
+jobs done from GitHub should a schedule be added, otherwise the
+pipeline would just fail on a timer.
+
+Storage note: at about 6 MB per track, the full library
+(28,560 tracks) is roughly 170 GB. The current Supabase Free
+bucket quota is 1 GB, so it fills after roughly 170 songs.
+See the storage comparison in chat before turning the drip
+loose; the pipeline code is storage-agnostic, but the bucket
+is not.
 
 ## Files
 

@@ -27,6 +27,10 @@
 //   delete_upload    { upload_id }
 //                    -> deletes an uploaded audio file (storage + row).
 //                      Refused while Hermes is processing it.
+//   audio_url        { audio_id }
+//                    -> 1-hour signed URL for a DATUM track_audio row in
+//                      the private central-memory-bank bucket, for
+//                      Splotify Import from UTAG.
 // Response: JSON { ok: true, ... } or { ok: false, error }
 
 import { createClient } from "jsr:@supabase/supabase-js@2";
@@ -871,6 +875,24 @@ Deno.serve(async (req) => {
         message: paused ? "You paused Hermes's queue" : "You resumed Hermes's queue", details: {},
       });
       return json({ ok: true, action, paused });
+    }
+
+    if (action === "audio_url") {
+      // DATUM / SDB: signed download URL for one track_audio row.
+      // The bucket is private, so this is the only way Splotify gets
+      // audio bytes: admin-gated here, then a 1-hour signed URL.
+      // The anon key alone can never call this, because checkAdmin
+      // above already required the site password or an admin JWT.
+      const audioId = String(body.audio_id || "");
+      if (!audioId) return json({ ok: false, error: "Missing audio_id" }, 400);
+      const { data: row, error: readErr } = await supabase
+        .from("track_audio").select("id, storage_path, status").eq("id", audioId).single();
+      if (readErr || !row) return json({ ok: false, error: "Audio not found" }, 404);
+      if (row.status !== "available") return json({ ok: false, error: "Audio is not available" }, 409);
+      const { data: signed, error: signErr } = await supabase.storage
+        .from("central-memory-bank").createSignedUrl(row.storage_path, 3600);
+      if (signErr || !signed?.signedUrl) throw signErr || new Error("Could not sign URL");
+      return json({ ok: true, action, audio_id: row.id, signed_url: signed.signedUrl });
     }
 
     if (action === "delete_upload") {

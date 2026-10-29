@@ -1,17 +1,25 @@
 # DATUM cloud worker.
 #
-# Trigger: the UTAG site DATUM tab calls utag-control datum_run, which
-# sends a repository_dispatch with event_type datum-run, or a run can
-# be started by hand from the GitHub Actions tab (workflow_dispatch).
-# There is deliberately no schedule and no always-on server: one run
-# works the pending datum_jobs queue, oldest first, then the runner
-# is thrown away. Audio is uploaded to the private Supabase bucket
-# and linked in UTAG; nothing audio is kept on the runner or pushed
-# to the repo.
+# Two jobs, kept separate on purpose:
+# - run: the UTAG site DATUM tab calls utag-control datum_run, which
+#   sends a repository_dispatch with event_type datum-run, or a run
+#   can be started by hand. It works the pending datum_jobs queue,
+#   oldest first, then the runner is thrown away.
+# - drip: the cycling pipeline. Started by hand from the GitHub
+#   Actions tab (workflow_dispatch) only. It runs 3 runners in
+#   parallel, each on a different artist shard, each ripping a
+#   batch of unfilled UTAG tracks, lowest-filled artists first.
+#   There is deliberately NO schedule yet: test drip manually with
+#   YOUTUBE_COOKIES first, then add a schedule. A schedule that
+#   runs without working cookies would just fail on a timer.
 #
-# Secrets (repo Settings > Secrets and variables > Actions, never in
-# code): UTAG_SUPABASE_URL, UTAG_SUPABASE_ANON_KEY,
-# SUPABASE_SERVICE_KEY, UTAG_SITE_PASSWORD.
+# Audio is uploaded to the private Supabase bucket and linked in
+# UTAG; nothing audio is kept on the runner or pushed to the repo.
+#
+# Secrets (repo Settings > Secrets and variables > Actions, never
+# in code): UTAG_SUPABASE_URL, UTAG_SUPABASE_ANON_KEY,
+# SUPABASE_SERVICE_KEY, UTAG_SITE_PASSWORD, YOUTUBE_COOKIES
+# (cookies.txt content, for the drip job only).
 
 name: DATUM
 
@@ -19,14 +27,18 @@ on:
   repository_dispatch:
     types: [datum-run]
   workflow_dispatch:
-
-concurrency:
-  group: datum
-  cancel-in-progress: false
+    inputs:
+      drip_batch:
+        description: "Tracks per drip runner"
+        required: false
+        default: "50"
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    concurrency:
+      group: datum-queue
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
 
@@ -47,3 +59,43 @@ jobs:
           UTAG_SUPABASE_ANON_KEY: ${{ secrets.UTAG_SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           UTAG_SITE_PASSWORD: ${{ secrets.UTAG_SITE_PASSWORD }}
+
+  drip:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 3
+      matrix:
+        shard: [0, 1, 2]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and yt-dlp
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install yt-dlp requests
+
+      - name: Write YouTube cookies if secret is present
+        run: |
+          if [ -n "$YOUTUBE_COOKIES" ]; then
+            printf '%s\n' "$YOUTUBE_COOKIES" > cookies.txt
+            echo "cookies written"
+          else
+            echo "no YOUTUBE_COOKIES secret, running without cookies"
+          fi
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+
+      - name: Stagger runners
+        run: sleep $(( ${{ matrix.shard }} * 90 ))
+
+      - name: Run DATUM drip shard
+        run: python3 backend/datum/datum.py --drip ${{ inputs.drip_batch || '50' }} --shard ${{ matrix.shard }} --shards 3 --base-dir datum-downloads
+        env:
+          UTAG_SUPABASE_URL: ${{ secrets.UTAG_SUPABASE_URL }}
+          UTAG_SUPABASE_ANON_KEY: ${{ secrets.UTAG_SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}

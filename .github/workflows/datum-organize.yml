@@ -44,6 +44,9 @@ jobs:
           echo "=== SSDB top level ==="; rclone lsd mega-remote:DATUM/SSDB || true
           echo "=== SSDB recursive file list, first 200 lines ==="; rclone ls mega-remote:DATUM/SSDB || true
           echo "=== SSDB counts by extension ==="; rclone ls mega-remote:DATUM/SSDB | awk '{print $NF}' | sed 's/.*\.//' | sort | uniq -c | sort -nr || true
+          echo "=== DATUM recursive, first 200 lines ==="; rclone ls mega-remote:DATUM || true
+          echo "=== Imported folder top level ==="; rclone lsd "mega-remote:Imported October 29, 2026 at 18:26" || true
+          echo "=== Imported folder recursive, first 200 lines ==="; rclone ls "mega-remote:Imported October 29, 2026 at 18:26" || true
       - name: Organize Mega backup
         env:
           MEGA_REMOTE: mega-remote

@@ -1,0 +1,42 @@
+name: DATUM Organize Mega
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "dry-run prints moves only, apply moves and links"
+        type: choice
+        options: [dry-run, apply]
+        default: dry-run
+      limit:
+        description: "Only process first N files, 0 means all"
+        type: string
+        default: "0"
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install rclone and requests
+        run: |
+          pip install requests
+          curl https://rclone.org/install.sh | sudo bash
+      - name: Configure Mega remote
+        env:
+          MEGA_EMAIL: ${{ secrets.MEGA_EMAIL }}
+          MEGA_PASSWORD: ${{ secrets.MEGA_PASSWORD }}
+        run: |
+          OBSCURED=$(rclone obscure "$MEGA_PASSWORD")
+          rclone config create mega-remote mega user "$MEGA_EMAIL" pass "$OBSCURED"
+          rclone mkdir mega-remote:SSDB || true
+          rclone lsd mega-remote:SSDB || echo "SSDB listing check failed, continuing..."
+      - name: Organize Mega backup
+        env:
+          MEGA_REMOTE: mega-remote
+          MEGA_ROOT: SSDB
+          UTAG_SUPABASE_URL: ${{ secrets.UTAG_SUPABASE_URL }}
+          UTAG_SUPABASE_ANON_KEY: ${{ secrets.UTAG_SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python backend/datum/mega_organize.py --${{ inputs.mode }} --limit ${{ inputs.limit }}

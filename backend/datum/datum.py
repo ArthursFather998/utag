@@ -467,14 +467,99 @@ def lookup_utag_track(artist: str, title: str) -> str | None:
     return None
 
 
-def _mega_upload(local_path, track_id):
+def _mega_clean_part(s):
+    return re.sub(r"[/\\]+", "-", (s or "").strip()).strip(" .") or "Unknown"
+
+
+def mega_path_for(artist, album, title):
+    root = os.environ.get("MEGA_ROOT", "SSDB").strip() or "SSDB"
+    parts = [root, _mega_clean_part(artist)]
+    if (album or "").strip():
+        parts.append(_mega_clean_part(album))
+    parts.append(_mega_clean_part(title) + ".mp3")
+    return "/".join(parts)
+
+
+def find_mega_file(artist, album, title):
+    """Return an existing Mega path for this song, or None.
+
+    Checks, in order: SSDB/Artist/Album/Song.mp3 (the approved
+    layout), SSDB/Album/Song.mp3 (the backup's current album-only
+    layout), then a normalized-title match inside the album folder
+    (handles punctuation / feat. differences). Never downloads.
+    """
+    if shutil.which("rclone") is None:
+        return None
     remote = os.environ.get("MEGA_REMOTE", "mega-remote").strip() or "mega-remote"
-    root = os.environ.get("MEGA_ROOT", "DATUM").strip() or "DATUM"
+    root = os.environ.get("MEGA_ROOT", "SSDB").strip() or "SSDB"
+    exact = mega_path_for(artist, album, title)
+    for cand in [exact] + ([f"{root}/{_mega_clean_part(album)}/{_mega_clean_part(title)}.mp3"] if album else []):
+        cp = subprocess.run(["rclone", "ls", f"{remote}:{cand}"], capture_output=True, text=True, timeout=60)
+        if cp.returncode == 0 and (cp.stdout or "").strip():
+            return cand
+    for folder in ([f"{root}/{_mega_clean_part(artist)}/{_mega_clean_part(album)}"] if album else []) + ([f"{root}/{_mega_clean_part(album)}"] if album else []):
+        cp = subprocess.run(["rclone", "lsjson", f"{remote}:{folder}"], capture_output=True, text=True, timeout=60)
+        if cp.returncode != 0:
+            continue
+        try:
+            entries = json.loads(cp.stdout or "[]")
+        except Exception:
+            continue
+        want = norm_text(title)
+        for e in entries:
+            name = str(e.get("Name", ""))
+            if name.lower().endswith(".mp3") and norm_text(name[:-4]) == want:
+                return f"{folder}/{name}"
+    return None
+
+
+def link_mega_existing(mega_path, track_id, source_url, source="backup"):
+    service = os.environ.get("SUPABASE_SERVICE_KEY", "").strip()
+    if not service:
+        return None
+    remote = os.environ.get("MEGA_REMOTE", "mega-remote").strip() or "mega-remote"
+    lk = subprocess.run(["rclone", "link", f"{remote}:{mega_path}"], capture_output=True, text=True, timeout=120)
+    link = (lk.stdout or "").strip().splitlines()[-1].strip() if lk.stdout else ""
+    host = "mega" + "." + "nz"
+    if lk.returncode != 0 or host not in link:
+        logger.error("rclone link failed for existing Mega file")
+        return None
+    if not track_id:
+        return f"mega:{mega_path}"
+    headers = {"apikey": service, "Authorization": f"Bearer {service}"}
+    row = {
+        "track_id": track_id,
+        "storage_path": f"mega:{mega_path}",
+        "mega_url": link,
+        "source_url": source_url,
+        "source": source,
+        "file_name": mega_path.rsplit("/", 1)[-1],
+        "file_size": 0,
+        "content_type": "audio/mpeg",
+        "status": "available",
+    }
+    r = requests.post(
+        f"{supabase_base()}/rest/v1/track_audio",
+        headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
+        json=row, timeout=30,
+    )
+    if r.status_code in (200, 201, 409):
+        return f"mega:{mega_path}"
+    logger.error("track_audio insert failed for existing Mega file")
+    return None
+
+
+def _mega_upload(local_path, track_id, artist="", album="", title=""):
+    remote = os.environ.get("MEGA_REMOTE", "mega-remote").strip() or "mega-remote"
+    root = os.environ.get("MEGA_ROOT", "SSDB").strip() or "SSDB"
     if shutil.which("rclone") is None:
         logger.error("rclone not found on PATH, cannot upload to Mega")
         return None, None
-    safe_name = re.sub(r"[^A-Za-z0-9._-]+", "_", local_path.name)
-    mega_path = f"{root}/{track_id or 'unlinked'}/{safe_name}"
+    if artist and title:
+        mega_path = mega_path_for(artist, album, title)
+    else:
+        safe_name = re.sub(r"[^A-Za-z0-9._-]+", "_", local_path.name)
+        mega_path = f"{root}/{track_id or 'unlinked'}/{safe_name}"
     dest = f"{remote}:{mega_path}"
     cp = subprocess.run(["rclone", "copyto", str(local_path), dest],
                         capture_output=True, text=True, timeout=600)
@@ -490,11 +575,11 @@ def _mega_upload(local_path, track_id):
     return mega_path, link
 
 
-def upload_to_mega(local_path, track_id, source_url, source="datum"):
+def upload_to_mega(local_path, track_id, source_url, source="datum", artist="", album="", title=""):
     service = os.environ.get("SUPABASE_SERVICE_KEY", "").strip()
     if not service:
         return None
-    mega_path, mega_link = _mega_upload(local_path, track_id)
+    mega_path, mega_link = _mega_upload(local_path, track_id, artist, album, title)
     if not mega_path or not mega_link:
         return None
     storage_path = f"mega:{mega_path}"
@@ -715,7 +800,7 @@ def run_queue(base_dir: Path, upload: bool, force: bool = False) -> int:
                 update_job(job_id, {"status": "failed", "error": "search returned no tracks", "error_kind": "search"})
                 continue
             url = found[0]["url"]
-        res = process_track(artist, title, url, base_dir, track_id, upload, source="datum", force=force)
+        res = process_track(artist, title, url, base_dir, track_id, upload, source="datum", force=force, album=str(job.get("album") or ""))
         if res["status"] == "ok":
             update_job(job_id, {"status": "done", "utag_track_id": track_id,
                                 "storage_path": res.get("storage_path"), "error": None, "error_kind": None})
@@ -749,7 +834,7 @@ def _paginated_get(path: str, params: dict[str, Any], headers: dict[str, str]) -
     return rows
 
 
-def _create_datum_job(artist: str, title: str, track_id: str) -> dict[str, Any] | None:
+def _create_datum_job(artist: str, title: str, track_id: str, album: str = "") -> dict[str, Any] | None:
     """Insert one pending datum_job row via the service key."""
     headers = _service_headers()
     if not headers:
@@ -757,7 +842,7 @@ def _create_datum_job(artist: str, title: str, track_id: str) -> dict[str, Any] 
     r = requests.post(
         f"{supabase_base()}/rest/v1/datum_jobs",
         headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
-        json={"artist": artist, "title": title, "utag_track_id": track_id, "status": "pending"},
+        json={"artist": artist, "title": title, "album": album, "utag_track_id": track_id, "status": "pending"},
         timeout=30,
     )
     if r.status_code not in (200, 201):
@@ -815,7 +900,8 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, 
     read_headers = {"apikey": anon, "Authorization": f"Bearer {anon}"} if anon else headers
     try:
         artists = _paginated_get("artists", {"select": "id,canonical_name"}, read_headers)
-        tracks = _paginated_get("tracks", {"select": "id,artist_id,title"}, read_headers)
+        tracks = _paginated_get("tracks", {"select": "id,artist_id,title,release_id"}, read_headers)
+        releases = {str(r["id"]): str(r.get("title") or "") for r in _paginated_get("releases", {"select": "id,title"}, read_headers)}
         audio_rows = _paginated_get("track_audio", {"select": "track_id"}, read_headers)
         all_jobs = _paginated_get(
             "datum_jobs",
@@ -850,6 +936,7 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, 
     by_artist: dict[str, list[dict[str, Any]]] = {}
     for tr in tracks:
         if tr.get("title"):
+            tr["_album"] = releases.get(str(tr.get("release_id") or ""), "")
             by_artist.setdefault(str(tr.get("artist_id")), []).append(tr)
     artist_stats = []
     for a in artists:
@@ -897,7 +984,7 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, 
             track = rng.choice(stat["unfilled"])
             stat["unfilled"].remove(track)
             artist, title, track_id = stat["name"], str(track["title"]), str(track["id"])
-            job = _create_datum_job(artist, title, track_id)
+            job = _create_datum_job(artist, title, track_id, album=str(track.get("_album") or ""))
             if not job:
                 continue
             job_id = str(job["id"])
@@ -919,7 +1006,7 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, 
                 attempted += 1
                 progress_this_cycle = True
             else:
-                res = process_track(artist, title, found[0]["url"], base_dir, track_id, upload, source="datum")
+                res = process_track(artist, title, found[0]["url"], base_dir, track_id, upload, source="datum", album=str(track.get("_album") or ""))
                 attempted += 1
                 progress_this_cycle = True
                 if res["status"] == "ok":
@@ -1032,11 +1119,17 @@ def write_failures_local(failed: list[dict[str, Any]], path: str | Path = FAILED
 
 # --------------------------------------------------------------------- flows --
 def process_track(artist: str, title: str, url: str, base_dir: Path, track_id: str | None,
-                  upload: bool, source: str = "datum", force: bool = False) -> dict[str, Any]:
+                  upload: bool, source: str = "datum", force: bool = False, album: str = "") -> dict[str, Any]:
     """Rip one URL, record success or a recoverable failure. Never raises
     for a single-track failure; the caller decides whether to continue."""
     if not force and url in manifest_urls():
         return {"status": "skipped_already_done", "url": url}
+    if upload and not force and os.environ.get("DATUM_STORAGE", "supabase").strip().lower() == "mega":
+        existing = find_mega_file(artist, album, title)
+        if existing:
+            linked = link_mega_existing(existing, track_id, url, source="backup")
+            if linked:
+                return {"status": "ok", "url": url, "storage_path": linked, "from_mega_existing": True}
     safe_artist = "".join(c if c.isalnum() or c in " -_" else "_" for c in artist)
     try:
         made = download_track({"title": title, "url": url}, base_dir / safe_artist)
@@ -1046,7 +1139,7 @@ def process_track(artist: str, title: str, url: str, base_dir: Path, track_id: s
                        "utag_track_id": track_id, "source": source})
         return {"status": "failed", "url": url, "error": err, "error_kind": classify_error(err)}
     if upload:
-        storage_path = (upload_to_mega(made, track_id, url, source) if os.environ.get("DATUM_STORAGE", "supabase").strip().lower() == "mega" else upload_to_central_memory(made, track_id, url, source))
+        storage_path = (upload_to_mega(made, track_id, url, source, artist, album, title) if os.environ.get("DATUM_STORAGE", "supabase").strip().lower() == "mega" else upload_to_central_memory(made, track_id, url, source))
         if storage_path is None:
             # Bucket upload or track_audio link failed: this is a
             # failed rip, not a done one. Do not append it to the

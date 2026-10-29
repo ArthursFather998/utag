@@ -345,6 +345,43 @@ def search_youtube_tracks(search_term: str, num_results: int = 5) -> list[dict[s
     return tracks
 
 
+def _try_download_once(track, download_dir, audio_format, format_str, player_clients):
+    """One yt-dlp attempt with a given format string and clients."""
+    url = track.get("url")
+    if not url:
+        raise ValueError("Track does not contain a URL")
+    download_dir.mkdir(parents=True, exist_ok=True)
+    before = {x.name for x in download_dir.iterdir() if x.is_file()}
+    outtmpl = str(download_dir / "%(title)s [%(id)s].%(ext)s")
+    options = {
+        "format": format_str,
+        "outtmpl": outtmpl,
+        "restrictfilenames": True,
+        "noplaylist": True,
+        "quiet": True,
+        "no_warnings": True,
+        "sleep_interval": 1,
+        "max_sleep_interval": 3,
+        "postprocessors": [
+            {"key": "FFmpegExtractAudio", "preferredcodec": audio_format, "preferredquality": "192"}
+        ],
+    }
+    if player_clients:
+        options["extractor_args"] = {"youtube": {"player_client": player_clients}}
+    if Path("cookies.txt").is_file():
+        options["cookiefile"] = "cookies.txt"
+    with yt_dlp.YoutubeDL(options) as ydl:
+        ydl.download([url])
+    after = [x for x in download_dir.iterdir() if x.is_file() and x.name not in before]
+    candidates = [x for x in after if x.suffix.lower() == f".{audio_format.lower()}"]
+    if not candidates:
+        raise RuntimeError(f"yt-dlp finished but produced no .{audio_format} file for {url}")
+    made = max(candidates, key=lambda x: x.stat().st_mtime)
+    if made.stat().st_size == 0:
+        raise RuntimeError(f"Download produced an empty file for {url}")
+    return made
+
+
 def download_track(
     track: dict[str, str],
     download_dir: Path,
@@ -355,39 +392,35 @@ def download_track(
     Old behaviour returned None, so the caller could never know what
     was made. This snapshots the folder before and after, and raises
     if yt-dlp exits cleanly but leaves no new audio file behind.
+    Format fallback, added 2026-10-29: the GitHub runner failed
+    twice on the same video with "Requested format is not available"
+    for bestaudio/best with android+web clients, while the sandbox
+    downloaded that exact video cleanly with the same first
+    attempt. The runner's format list differs (cookies and/or
+    datacenter IP), so on that specific error only, retry with
+    looser formats: best with web client only, then best with
+    yt-dlp's default clients. Any other error (bot check, private,
+    unavailable, network) is raised immediately, not retried, so
+    a real failure does not burn three downloads.
     """
-    url = track.get("url")
-    if not url:
-        raise ValueError("Track does not contain a URL")
-    download_dir.mkdir(parents=True, exist_ok=True)
-    before = {p.name for p in download_dir.iterdir() if p.is_file()}
-    outtmpl = str(download_dir / "%(title)s [%(id)s].%(ext)s")
-    options = {
-        "format": "bestaudio/best",
-        "outtmpl": outtmpl,
-        "restrictfilenames": True,
-        "noplaylist": True,
-        "quiet": True,
-        "no_warnings": True,
-        "extractor_args": {"youtube": {"player_client": ["android", "web"]}},
-        "sleep_interval": 1,
-        "max_sleep_interval": 3,
-        "postprocessors": [
-            {"key": "FFmpegExtractAudio", "preferredcodec": audio_format, "preferredquality": "192"}
-        ],
-    }
-    if Path("cookies.txt").is_file():
-        options["cookiefile"] = "cookies.txt"
-    with yt_dlp.YoutubeDL(options) as ydl:
-        ydl.download([url])
-    after = [p for p in download_dir.iterdir() if p.is_file() and p.name not in before]
-    candidates = [p for p in after if p.suffix.lower() == f".{audio_format.lower()}"]
-    if not candidates:
-        raise RuntimeError(f"yt-dlp finished but produced no .{audio_format} file for {url}")
-    made = max(candidates, key=lambda p: p.stat().st_mtime)
-    if made.stat().st_size == 0:
-        raise RuntimeError(f"Download produced an empty file for {url}")
-    return made
+    attempts = [
+        ("bestaudio/best", ["android", "web"]),
+        ("best", ["web"]),
+        ("best", None),
+    ]
+    last_err = None
+    for format_str, clients in attempts:
+        try:
+            return _try_download_once(track, download_dir, audio_format, format_str, clients)
+        except Exception as exc:
+            last_err = exc
+            msg = str(exc)
+            if "Requested format is not available" not in msg:
+                raise
+            logger.warning("Format %s not available for %s, trying fallback %s",
+                           format_str, track.get("url"), "next format")
+            continue
+    raise RuntimeError(str(last_err)) from last_err
 
 
 # --------------------------------------------------------------------- UTAG --

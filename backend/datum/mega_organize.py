@@ -244,8 +244,15 @@ def main():
         parts = src_rel.split("/")
         stem = parts[-1][:-4]
         album_folder = parts[-2] if len(parts) >= 2 else ""
+        # Verified backup format: "Artist - Title.mp3", NOT title alone.
+        # Split on the FIRST " - " only, so "Song - Live" keeps its suffix.
+        # No separator -> title is the stem, artist is never invented.
+        if " - " in stem:
+            _parsed_artist, title = stem.split(" - ", 1)
+        else:
+            title = stem
         try:
-            found = utag_lookup(stem, album_folder)
+            found = utag_lookup(title, album_folder)
         except Exception as exc:
             print(f"SKIP {src}: lookup error {exc}")
             failed += 1

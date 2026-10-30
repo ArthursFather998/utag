@@ -51,10 +51,10 @@ function unreleasedTag(r) {
   return releaseStatus(r) === "unreleased" ? `<span class="st st-unreleased"><i></i>Unreleased</span>` : "";
 }
 
-/* EPs are filed as release_type='album' (the DB check only allows
-   album/single/soundtrack). data/ep_releases.json lists the known EPs as
-   "artist_id|normalized_title" keys so the discography tabs can split them
-   out into "Singles and EP's". */
+/* EPs come in two shapes: the native release_type='ep', and legacy rows
+   filed as release_type='album' that data/ep_releases.json lists as
+   "artist_id|normalized_title" keys. The discography tabs treat both as
+   EPs under "Singles and EP's". */
 let EP_KEYS = null;
 async function epKeys() {
   if (!EP_KEYS) {
@@ -562,6 +562,284 @@ function efSave(extra) {
   return `<div class="ef-actions"><button class="btn" type="button" data-save>Save changes</button>${extra || ""}<p class="empty-note" data-status></p></div>`;
 }
 
+/* ------------------------------------------------------------- creating */
+/* Manual creates: metadata only, no audio upload and no fixer run. Every
+   create goes through the admin-gated utag-control actions, which return
+   an existing row instead of duplicating it. New rows only appear in the
+   file library once the export rebuilds, so navigation to a brand-new
+   artist or release waits for the new export stamp instead of landing on
+   a "not found" page. */
+
+function collectCreate(panel) {
+  const out = {};
+  panel.querySelectorAll("[data-f]").forEach(el => {
+    const kind = el.dataset.kind || "text";
+    let value;
+    if (kind === "num") value = numOrNull(el.value);
+    else if (kind === "ms") value = durToMs(el.value);
+    else if (kind === "array") value = el.value.split(",").map(s => s.trim()).filter(Boolean);
+    else if (kind === "nulltext") value = el.value.trim() ? el.value.trim() : null;
+    else value = el.value;
+    out[el.dataset.f] = value;
+  });
+  const confEl = panel.querySelector("[data-conf]");
+  if (confEl) out.confidence = confEl.value;
+  return out;
+}
+
+/* Poll data/index.json until the export stamp moves, then go. Returns
+   false on timeout, leaving the caller to show a "try again in a minute"
+   note instead of a dead link. */
+async function goWhenExported(preStamp, hash, statusEl) {
+  let baseline = preStamp;
+  for (let i = 0; i < 18; i++) {
+    await new Promise(r => setTimeout(r, 10000));
+    try {
+      const r = await fetch(libURL("data/index.json") + "?t=" + Date.now());
+      if (!r.ok) continue;
+      const idx = await r.json();
+      if (!idx.exported_at) continue;
+      if (!baseline) { baseline = idx.exported_at; continue; }
+      if (idx.exported_at !== baseline) {
+        for (const k of Object.keys(libCache)) delete libCache[k];
+        for (const k of Object.keys(libData)) delete libData[k];
+        libStamp = idx.exported_at;
+        closeFixerModal();
+        location.hash = hash;
+        return true;
+      }
+    } catch { /* keep polling */ }
+  }
+  if (statusEl) statusEl.textContent = "Saved to the database. It will appear once the library export rebuilds — try again in a minute.";
+  return false;
+}
+
+function createSignInHTML() {
+  return `<h2>Create</h2><p class="lede">Sign in as admin first, on the Hermes tab, then come back to create entries.</p><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`;
+}
+
+function openCreateChooser() {
+  if (!isAuthed()) {
+    const m = fixerModal(createSignInHTML());
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  const m = fixerModal(`<h2>Create</h2><div class="btn-row">
+    <button class="btn" type="button" data-create="artist">Add new artist</button>
+    <button class="btn" type="button" data-create="album">Add new Album</button>
+    <button class="btn" type="button" data-create="single">Add new Single</button>
+    <button class="btn" type="button" data-create="ep">Add new EP</button>
+  </div><div class="btn-row"><button class="mini-btn" type="button" data-fx="close">Close</button></div>`);
+  m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+  m.querySelectorAll("[data-create]").forEach(b => b.addEventListener("click", () => {
+    if (b.dataset.create === "artist") openCreateArtist();
+    else openCreateRelease(b.dataset.create, null);
+  }));
+}
+
+function createArtistFormHTML() {
+  return `<div class="ef-grid">
+    ${efInput("Name", "canonical_name", "", "text", true)}
+    ${efInput("Aliases (comma separated)", "aliases", [], "array")}
+    ${efInput("Genres (comma separated)", "genres", [], "array")}
+    ${efInput("Image URL", "image_url", "", "nulltext")}
+    ${efInput("Spotify ID", "spotify_id", "", "nulltext")}
+    ${efInput("Apple ID", "apple_id", "", "nulltext")}
+    ${efInput("Deezer ID", "deezer_id", "", "nulltext")}
+    ${efInput("Discogs ID", "discogs_id", "", "nulltext")}
+    ${efInput("MusicBrainz ID", "mbid", "", "nulltext")}
+    ${efConf("verified")}
+  </div>`;
+}
+
+async function openCreateArtist() {
+  if (!isAuthed()) {
+    const m = fixerModal(createSignInHTML());
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  const preStamp = libStamp;
+  const m = fixerModal(`<h2>Add new artist</h2>${createArtistFormHTML()}<div class="ef-actions"><button class="btn" type="button" data-create-save>Create artist</button><button class="mini-btn" type="button" data-fx="close">Cancel</button><p class="empty-note" data-status></p></div>`);
+  m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+  m.querySelector("[data-create-save]").addEventListener("click", async (ev) => {
+    const btn = ev.currentTarget, status = m.querySelector("[data-status]");
+    const payload = collectCreate(m);
+    if (!String(payload.canonical_name || "").trim()) { status.textContent = "Give the artist a name first."; return; }
+    btn.disabled = true; status.textContent = "Creating…";
+    try {
+      const res = await fnCall({ action: "create_artist", ...payload });
+      if (res.existed) { closeFixerModal(); location.hash = `#/artist/${res.artist_id}`; return; }
+      status.textContent = "Artist created. Waiting for the library export…";
+      await goWhenExported(preStamp, `#/artist/${res.artist_id}`, status);
+    } catch (e) {
+      status.textContent = `Create failed: ${e.message}`;
+      btn.disabled = false;
+    }
+  });
+}
+
+function createReleaseFormHTML(presetType, artists, presetArtistId) {
+  const opts = [`<option value="">Choose an existing artist</option>`]
+    .concat((artists || []).map(a => `<option value="${esc(a.id)}"${a.id === presetArtistId ? " selected" : ""}>${esc(a.canonical_name)}</option>`)).join("");
+  return `<div class="ef-grid">
+    <label class="ef-field ef-wide"><span>Artist</span><select data-f="artist_id">${opts}</select></label>
+    ${efInput("Or new artist name", "artist_name", "", "text", true)}
+    ${efInput("Title", "title", "", "text", true)}
+    ${efSelect("Type", "release_type", presetType, ["album", "ep", "single", "compilation", "soundtrack", "other"])}
+    ${efSelect("Edition", "edition", "original", ["original", "remaster", "deluxe", "reissue", "regional", "anniversary", "other"])}
+    ${efSelect("Release status", "release_status", "auto", ["auto", "released", "unreleased"])}
+    ${efInput("Release date (YYYY-MM-DD)", "release_date", "", "nulltext")}
+    ${efInput("Release year", "release_year", "", "num")}
+    ${efInput("Label", "label", "", "nulltext")}
+    ${efInput("Catalog no.", "catalog_number", "", "nulltext")}
+    ${efInput("Barcode", "barcode", "", "nulltext")}
+    ${efInput("Country", "country", "", "nulltext")}
+    ${efInput("Spotify ID", "spotify_id", "", "nulltext")}
+    ${efInput("Apple ID", "apple_id", "", "nulltext")}
+    ${efInput("Deezer ID", "deezer_id", "", "nulltext")}
+    ${efInput("Discogs ID", "discogs_id", "", "nulltext")}
+    ${efInput("MusicBrainz ID", "mbid", "", "nulltext")}
+    ${efInput("Cover art URL", "art_url", "", "nulltext")}
+    ${efConf("verified")}
+  </div>`;
+}
+
+async function openCreateRelease(presetType, presetArtist) {
+  if (!isAuthed()) {
+    const m = fixerModal(createSignInHTML());
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  const artists = presetArtist ? [presetArtist] : ((await libCatalog()).artists || []);
+  const preStamp = libStamp;
+  const m = fixerModal(`<h2>Add new ${presetType === "ep" ? "EP" : presetType === "single" ? "Single" : presetType === "album" ? "Album" : "release"}</h2>${createReleaseFormHTML(presetType, artists, presetArtist ? presetArtist.id : null)}<div class="ef-actions"><button class="btn" type="button" data-create-save>Create release</button><button class="mini-btn" type="button" data-fx="close">Cancel</button><p class="empty-note" data-status></p></div>`);
+  m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+  m.querySelector("[data-create-save]").addEventListener("click", async (ev) => {
+    const btn = ev.currentTarget, status = m.querySelector("[data-status]");
+    const payload = collectCreate(m);
+    if (String(payload.artist_name || "").trim()) payload.artist_id = "";
+    if (!String(payload.title || "").trim()) { status.textContent = "Give the release a title first."; return; }
+    if (!payload.artist_id && !String(payload.artist_name || "").trim()) { status.textContent = "Choose an artist or type a new artist name."; return; }
+    btn.disabled = true; status.textContent = "Creating…";
+    try {
+      const res = await fnCall({ action: "create_release", ...payload });
+      if (res.existed) { closeFixerModal(); location.hash = `#/release/${res.release_id}`; return; }
+      status.textContent = "Release created. Waiting for the library export…";
+      await goWhenExported(preStamp, `#/release/${res.release_id}`, status);
+    } catch (e) {
+      status.textContent = `Create failed: ${e.message}`;
+      btn.disabled = false;
+    }
+  });
+}
+
+function createTrackFormHTML() {
+  return `<div class="ef-grid">
+    ${efInput("Title", "title", "", "text", true)}
+    ${efInput("Track no. (blank for next)", "track_number", "", "num")}
+    ${efInput("Disc no.", "disc_number", 1, "num")}
+    ${efInput("Length (m:ss)", "duration_ms", "", "ms")}
+    ${efInput("ISRC", "isrc", "", "nulltext")}
+    ${efInput("Spotify ID", "spotify_id", "", "nulltext")}
+    ${efInput("Apple ID", "apple_id", "", "nulltext")}
+    ${efInput("Deezer ID", "deezer_id", "", "nulltext")}
+    ${efInput("MusicBrainz ID", "mbid", "", "nulltext")}
+    ${efConf("verified")}
+  </div>
+  <div class="ef-grid">
+    <label class="ef-field ef-wide"><span>Lyrics (plain)</span><textarea data-lyrics-plain rows="6"></textarea></label>
+    <label class="ef-field ef-wide"><span>Lyrics (synced LRC)</span><textarea data-lyrics-synced rows="6"></textarea></label>
+  </div>`;
+}
+
+/* Add a track to a release you are already looking at: the new row appears
+   in the tracklist immediately (optimistic), then the export refreshes it. */
+async function openCreateTrackForRelease(releaseId) {
+  if (!isAuthed()) {
+    const m = fixerModal(createSignInHTML());
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  const m = fixerModal(`<h2>Add song</h2>${createTrackFormHTML()}<div class="ef-actions"><button class="btn" type="button" data-create-save>Add song</button><button class="mini-btn" type="button" data-fx="close">Cancel</button><p class="empty-note" data-status></p></div>`);
+  m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+  m.querySelector("[data-create-save]").addEventListener("click", async (ev) => {
+    const btn = ev.currentTarget, status = m.querySelector("[data-status]");
+    const payload = collectCreate(m);
+    payload.lyrics_plain = (m.querySelector("[data-lyrics-plain]") || {}).value || "";
+    payload.lyrics_synced = (m.querySelector("[data-lyrics-synced]") || {}).value || "";
+    if (!String(payload.title || "").trim()) { status.textContent = "Give the song a title first."; return; }
+    btn.disabled = true; status.textContent = "Adding…";
+    try {
+      const res = await fnCall({ action: "create_track", release_id: releaseId, ...payload });
+      if (res.existed) { status.textContent = "That song is already on this release."; btn.disabled = false; return; }
+      const rv = libData[`data/views/release/${releaseId}.json`];
+      if (rv && Array.isArray(rv.tracks)) {
+        rv.tracks.push({ id: res.track_id, title: payload.title, track_number: res.track_number, disc_number: res.disc_number, duration_ms: payload.duration_ms || null, isrc: payload.isrc || null, spotify_id: payload.spotify_id || null, apple_id: payload.apple_id || null, deezer_id: payload.deezer_id || null, mbid: payload.mbid || null, confidence: payload.confidence || "verified" });
+        rv.tracks.sort((a, b) => (a.disc_number || 1) - (b.disc_number || 1) || (a.track_number || 0) - (b.track_number || 0));
+      }
+      closeFixerModal();
+      awaitLibraryUpdate();
+      vRelease(releaseId);
+    } catch (e) {
+      status.textContent = `Add failed: ${e.message}`;
+      btn.disabled = false;
+    }
+  });
+}
+
+/* Add a song from an artist page: pick an existing release, or "New release"
+   to create the release first and then the song on it. */
+async function openCreateTrackForArtist(artist, releases) {
+  if (!isAuthed()) {
+    const m = fixerModal(createSignInHTML());
+    m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+    return;
+  }
+  const relOpts = [`<option value="">Choose a release</option>`]
+    .concat((releases || []).map(r => `<option value="${esc(r.id)}">${esc(r.title)}${r.release_year ? ` (${esc(r.release_year)})` : ""}</option>`))
+    .concat([`<option value="__new__">New release…</option>`]).join("");
+  const preStamp = libStamp;
+  const m = fixerModal(`<h2>Add song</h2><div class="ef-grid">
+    <label class="ef-field ef-wide"><span>Release</span><select id="create-track-release">${relOpts}</select></label>
+  </div>
+  <div class="ef-grid" id="create-track-new-release" hidden>
+    ${efInput("New release title", "new_release_title", "", "text", true)}
+    ${efSelect("New release type", "new_release_type", "single", ["album", "ep", "single", "compilation", "soundtrack", "other"])}
+    ${efInput("New release year", "new_release_year", "", "num")}
+  </div>
+  ${createTrackFormHTML()}<div class="ef-actions"><button class="btn" type="button" data-create-save>Add song</button><button class="mini-btn" type="button" data-fx="close">Cancel</button><p class="empty-note" data-status></p></div>`);
+  m.querySelector('[data-fx="close"]').onclick = closeFixerModal;
+  const relSel = m.querySelector("#create-track-release");
+  relSel.addEventListener("change", () => {
+    m.querySelector("#create-track-new-release").hidden = relSel.value !== "__new__";
+  });
+  m.querySelector("[data-create-save]").addEventListener("click", async (ev) => {
+    const btn = ev.currentTarget, status = m.querySelector("[data-status]");
+    const payload = collectCreate(m);
+    payload.lyrics_plain = (m.querySelector("[data-lyrics-plain]") || {}).value || "";
+    payload.lyrics_synced = (m.querySelector("[data-lyrics-synced]") || {}).value || "";
+    if (!String(payload.title || "").trim()) { status.textContent = "Give the song a title first."; return; }
+    let releaseId = relSel.value;
+    if (!releaseId) { status.textContent = "Choose a release first."; return; }
+    btn.disabled = true; status.textContent = "Adding…";
+    try {
+      if (releaseId === "__new__") {
+        const newTitle = m.querySelector('[data-f="new_release_title"]').value.trim();
+        if (!newTitle) { status.textContent = "Give the new release a title first."; btn.disabled = false; return; }
+        const relRes = await fnCall({ action: "create_release", artist_id: artist.id, title: newTitle, release_type: m.querySelector('[data-f="new_release_type"]').value, release_year: numOrNull(m.querySelector('[data-f="new_release_year"]').value), confidence: "verified" });
+        releaseId = relRes.release_id;
+      }
+      const res = await fnCall({ action: "create_track", release_id: releaseId, ...payload });
+      if (res.existed) { status.textContent = "That song is already on this release."; btn.disabled = false; return; }
+      status.textContent = "Song added. Waiting for the library export…";
+      await goWhenExported(preStamp, `#/release/${releaseId}`, status);
+    } catch (e) {
+      status.textContent = `Add failed: ${e.message}`;
+      btn.disabled = false;
+    }
+  });
+}
+
 /* Remove a track id from every cached "tracks" array so a deleted track
    vanishes from the re-rendered page instead of looking restored. */
 function removeTrackFromCache(trackId) {
@@ -686,8 +964,10 @@ async function vCatalog() {
   const rows = (await libCatalog()).releases.slice(0, 300);
   view.innerHTML = `
     <h1>Catalog</h1>
-    <p><button class="mini-btn" type="button" id="cat-upload-audio">Upload audio</button></p>
+    <p>${isAuthed() ? `<button class="mini-btn" type="button" id="cat-create">Create</button> ` : ""}<button class="mini-btn" type="button" id="cat-upload-audio">Upload audio</button></p>
     <div class="rows">${(rows || []).map(r => releaseRow(r)).join("")}</div>${footer()}`;
+  const catCreate = document.getElementById("cat-create");
+  if (catCreate) catCreate.onclick = () => openCreateChooser();
   document.getElementById("cat-upload-audio").onclick = () => fixerPick();
   wireFixerModal();
 }
@@ -1366,7 +1646,10 @@ async function vArtists() {
     </a>`).join("");
   view.innerHTML = `
     <h1>Artists</h1>
+    ${isAuthed() ? `<p><button class="mini-btn" type="button" id="artists-create">Create</button></p>` : ""}
     <div class="rows">${rowsHtml}</div>${footer()}`;
+  const artistsCreate = document.getElementById("artists-create");
+  if (artistsCreate) artistsCreate.onclick = () => openCreateChooser();
 }
 
 /* ---------------------------------------------------------------- artist */
@@ -1388,9 +1671,9 @@ async function vArtist(id) {
   const released = r => releaseStatus(r) === "released";
   const byNew = (a, b) => (b.release_year || 0) - (a.release_year || 0) || String(a.title).localeCompare(String(b.title));
   const albums = (releases || []).filter(r => (r.release_type === "album" || r.release_type === "soundtrack") && !isEP(r) && released(r)).sort(byNew);
-  const singlesEPs = (releases || []).filter(r => (r.release_type === "single" || isEP(r)) && released(r)).sort(byNew);
+  const singlesEPs = (releases || []).filter(r => (r.release_type === "single" || r.release_type === "ep" || isEP(r)) && released(r)).sort(byNew);
   const unrel = (releases || []).filter(r => releaseStatus(r) === "unreleased").sort(byNew);
-  const typeLabel = r => isEP(r) ? "EP" : r.release_type === "single" ? "Single" : r.release_type === "soundtrack" ? "Soundtrack" : "Album";
+  const typeLabel = r => (isEP(r) || r.release_type === "ep") ? "EP" : r.release_type === "single" ? "Single" : r.release_type === "soundtrack" ? "Soundtrack" : "Album";
   const panelFor = list => list.length
     ? `<div class="disc-grid">${list.map(r => discCard(r, typeLabel(r))).join("")}</div>`
     : `<p class="empty-note">Nothing here yet.</p>`;
@@ -1431,6 +1714,7 @@ async function vArtist(id) {
             ${efSave(`<button class="mini-btn danger" type="button" data-remove-artist="${esc(a.id)}" data-artist-name="${esc(a.canonical_name)}">Remove artist</button>`)}
           </div>
         </div>
+        ${isAuthed() ? `<div class="edit-zone"><button class="mini-btn" type="button" data-add-release="album">Add Album</button> <button class="mini-btn" type="button" data-add-release="single">Add Single</button> <button class="mini-btn" type="button" data-add-release="ep">Add EP</button> <button class="mini-btn" type="button" data-add-song>Add song</button></div>` : ""}
         ${discography || `<p class="empty-note">No releases on record yet.</p>`}
         <h2>Verification history</h2>
         ${refList(verifs)}
@@ -1447,6 +1731,11 @@ async function vArtist(id) {
 
   wireToggles();
   wireEditor(document.getElementById("artist-editor"), "artist", a.id, () => vArtist(id));
+
+  document.querySelectorAll("[data-add-release]").forEach(b => b.addEventListener("click", () =>
+    openCreateRelease(b.dataset.addRelease, { id: a.id, canonical_name: a.canonical_name })));
+  document.querySelectorAll("[data-add-song]").forEach(b => b.addEventListener("click", () =>
+    openCreateTrackForArtist({ id: a.id, canonical_name: a.canonical_name }, releases || [])));
 
   /* Discography tabs: Albums | Singles and EP's | Unreleased. */
   const dtabBtns = [...document.querySelectorAll("[data-dtab]")];
@@ -1494,10 +1783,16 @@ async function vRelease(id) {
     ["Spotify", r.spotify_id], ["Apple", r.apple_id], ["Deezer", r.deezer_id],
     ["Discogs", r.discogs_id], ["MusicBrainz", r.mbid]
   ].filter(([, v]) => v !== null && v !== undefined && v !== "");
-  const trackRows = (tracks || []).map(t => `
+  const trackRows = (tracks || []).map(t => {
+    const disc = (tracks || []).filter(x => (x.disc_number || 1) === (t.disc_number || 1));
+    const pos = disc.findIndex(x => x.id === t.id);
+    const moveBtns = isAuthed()
+      ? `${pos > 0 ? `<button class="mini-btn" type="button" data-move-track="${esc(t.id)}" data-move-dir="up" title="Move up">↑</button> ` : ""}${pos < disc.length - 1 ? `<button class="mini-btn" type="button" data-move-track="${esc(t.id)}" data-move-dir="down" title="Move down">↓</button> ` : ""}`
+      : "";
+    return `
     <tr><td class="num">${t.disc_number > 1 ? `${t.disc_number}.` : ""}${esc(t.track_number || "")}</td>
     <td>${esc(t.title)}</td><td class="num">${fmtDur(t.duration_ms)}</td>
-    <td class="num"><button class="mini-btn" type="button" data-toggle="te-${esc(t.id)}">Edit</button></td></tr>
+    <td class="num">${moveBtns}<button class="mini-btn" type="button" data-toggle="te-${esc(t.id)}">Edit</button></td></tr>
     <tr class="tedit-row" id="te-${esc(t.id)}" hidden><td colspan="4">
       <div class="ef-grid" data-track-panel="${esc(t.id)}">
         ${efInput("Title", "title", t.title)}
@@ -1517,8 +1812,9 @@ async function vRelease(id) {
         <label class="ef-field ef-wide"><span>Lyrics (synced LRC)</span><textarea data-lyrics-synced rows="6">${esc((t.lyrics && t.lyrics.synced_text) || "")}</textarea></label>
       </div>
       <div class="ef-actions"><button class="mini-btn" type="button" data-save-lyrics="${esc(t.id)}">Save lyrics</button><p class="empty-note" data-lyrics-status></p></div>
-      ${efSave(`<button class="mini-btn danger" type="button" data-remove-track="${esc(t.id)}" data-track-title="${esc(t.title)}">Remove track</button>`)}
-    </td></tr>`).join("");
+      ${efSave(`<button class="mini-btn danger" type="button" data-remove-track="${esc(t.id)}" data-track-title="${esc(t.title)}">Remove track</button> <button class="mini-btn" type="button" data-add-track="${esc(id)}">Add another track</button>`)}
+    </td></tr>`;
+  }).join("");
   const gallery = (others || []).map(x => {
     const u = artUrl(x);
     return `<div class="gitem">
@@ -1577,6 +1873,7 @@ async function vRelease(id) {
     </div>
 
     <h2>Tracklist</h2>
+    ${isAuthed() ? `<p><button class="mini-btn" type="button" data-add-track-release>Add song</button></p><p class="empty-note" id="tracklist-status"></p>` : ""}
     ${tracks && tracks.length ? `<table class="tracks"><thead><tr><th>No.</th><th>Title</th><th>Length</th><th></th></tr></thead><tbody>${trackRows}</tbody></table>` : `<p class="empty-note">No tracks recorded for this release yet.</p>`}
 
     <h2>Cover art</h2>
@@ -1618,6 +1915,35 @@ async function vRelease(id) {
   wireEditor(document.getElementById("rel-editor"), "release", r.id, () => vRelease(id));
   document.querySelectorAll("[data-track-panel]").forEach(p =>
     wireEditor(p.closest("td"), "track", p.dataset.trackPanel, () => vRelease(id)));
+  document.querySelectorAll("[data-add-track], [data-add-track-release]").forEach(b => b.addEventListener("click", () =>
+    openCreateTrackForRelease(b.dataset.addTrack || id)));
+  document.querySelectorAll("[data-move-track]").forEach(b => b.addEventListener("click", async () => {
+    const status = document.getElementById("tracklist-status");
+    const tid = b.dataset.moveTrack, dir = b.dataset.moveDir;
+    const cur = (tracks || []).find(x => x.id === tid);
+    if (!cur) return;
+    const discTracks = (tracks || []).filter(x => (x.disc_number || 1) === (cur.disc_number || 1));
+    const order = discTracks.map(x => x.id);
+    const idx = order.indexOf(tid);
+    const swapWith = dir === "up" ? idx - 1 : idx + 1;
+    if (idx < 0 || swapWith < 0 || swapWith >= order.length) return;
+    [order[idx], order[swapWith]] = [order[swapWith], order[idx]];
+    b.disabled = true;
+    if (status) status.textContent = "Moving…";
+    try {
+      await fnCall({ action: "reorder_tracks", release_id: id, track_ids: order });
+      const rv2 = libData[`data/views/release/${id}.json`];
+      if (rv2 && Array.isArray(rv2.tracks)) {
+        order.forEach((tid2, i) => { const t2 = rv2.tracks.find(x => x.id === tid2); if (t2) t2.track_number = i + 1; });
+        rv2.tracks.sort((a, b) => (a.disc_number || 1) - (b.disc_number || 1) || (a.track_number || 0) - (b.track_number || 0));
+      }
+      awaitLibraryUpdate();
+      vRelease(id);
+    } catch (e) {
+      if (status) status.textContent = `Move failed: ${e.message}`;
+      b.disabled = false;
+    }
+  }));
   document.querySelectorAll("[data-remove-track]").forEach(b => b.addEventListener("click", async () => {
     const tid = b.dataset.removeTrack, title = b.dataset.trackTitle || "this track";
     if (!confirm(`Remove "${title}" from this release? This can't be undone.`)) return;

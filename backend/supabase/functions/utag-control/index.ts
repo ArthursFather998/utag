@@ -24,6 +24,30 @@
 //                       token from the hermes_bridge table).
 //   proposal_approve / proposal_reject / job_retry / job_cancel / queue_set_paused
 //                    -> Activity tab controls.
+//   create_artist    { canonical_name, aliases?, genres?, image_url?,
+//                      mbid?, spotify_id?, apple_id?, deezer_id?,
+//                      discogs_id?, confidence? }
+//                    -> inserts an artist manually. An existing artist with
+//                       the same name is returned, never duplicated.
+//   create_release   { artist_id? | artist_name?, title, release_type?,
+//                      edition?, release_date?, release_year?, label?,
+//                      catalog_number?, barcode?, country?, mbid?,
+//                      spotify_id?, apple_id?, deezer_id?, discogs_id?,
+//                      confidence?, release_status?, art_url? }
+//                    -> inserts a release manually (creating the artist
+//                       from artist_name when no artist_id is given).
+//                       An existing release for that artist with the same
+//                       title, edition and year is returned, never duplicated.
+//   create_track     { release_id, title, track_number?, disc_number?,
+//                      duration_ms?, isrc?, mbid?, spotify_id?, apple_id?,
+//                      deezer_id?, confidence?, lyrics_plain?, lyrics_synced? }
+//                    -> inserts a track manually. A blank track_number takes
+//                       the next number on that disc. An existing track with
+//                       the same title on that release is returned, never
+//                       duplicated.
+//   reorder_tracks   { release_id, track_ids[] }
+//                    -> renumbers the given tracks 1..n in the given order.
+//                       All tracks must belong to the release and share a disc.
 //   delete_upload    { upload_id }
 //                    -> deletes an uploaded audio file (storage + row).
 //                      Refused while Hermes is processing it.
@@ -652,6 +676,191 @@ Deno.serve(async (req) => {
         return json({ ok: true, action });
       }
       return json({ ok: false, error: "Unknown fixer_log op" }, 400);
+    }
+
+    /* Manual creates (Catalogue Create button). Admin-gated by the global
+       checkAdmin above. Duplicates never create a second row: an existing
+       match is returned with existed:true and the site opens that row. */
+    if (action === "create_artist") {
+      const name = String(body.canonical_name || "").trim();
+      if (!name) return json({ ok: false, error: "Artist name required" }, 400);
+      const conf = CONFIDENCE.includes(String(body.confidence || "")) ? String(body.confidence) : "verified";
+      const escLike = (s: string) => s.replace(/[%_\\]/g, "\\$&");
+      const { data: existing } = await supabase.from("artists").select("id")
+        .ilike("canonical_name", escLike(name)).limit(1).maybeSingle();
+      if (existing) return json({ ok: true, action, existed: true, artist_id: (existing as { id: string }).id });
+      const arr = (v: unknown): string[] => Array.isArray(v)
+        ? v.map((x) => String(x).trim()).filter(Boolean)
+        : String(v || "").split(",").map((s) => s.trim()).filter(Boolean);
+      const txt = (v: unknown): string | null => { const s = String(v || "").trim(); return s ? s : null; };
+      const { data: ins, error } = await supabase.from("artists").insert({
+        canonical_name: name, aliases: arr(body.aliases), genres: arr(body.genres),
+        image_url: txt(body.image_url), mbid: txt(body.mbid), spotify_id: txt(body.spotify_id),
+        apple_id: txt(body.apple_id), deezer_id: txt(body.deezer_id), discogs_id: txt(body.discogs_id),
+        confidence: conf, status: conf,
+      }).select("id").single();
+      if (error) throw error;
+      const artistId = (ins as { id: string }).id;
+      const repoSync = await syncRowToRepo("artists", artistId);
+      await logActivity("edit", `Created artist "${name}" manually`);
+      return json({ ok: true, action, existed: false, artist_id: artistId, repo_sync: repoSync });
+    }
+
+    if (action === "create_release") {
+      const title = String(body.title || "").trim();
+      if (!title) return json({ ok: false, error: "Release title required" }, 400);
+      const escLike = (s: string) => s.replace(/[%_\\]/g, "\\$&");
+      const txt = (v: unknown): string | null => { const s = String(v || "").trim(); return s ? s : null; };
+      let artistId = String(body.artist_id || "").trim();
+      const artistName = String(body.artist_name || "").trim();
+      if (!artistId && artistName) {
+        const { data: found } = await supabase.from("artists").select("id")
+          .ilike("canonical_name", escLike(artistName)).limit(1).maybeSingle();
+        if (found) artistId = (found as { id: string }).id;
+        else {
+          const { data: ins, error: aErr } = await supabase.from("artists")
+            .insert({ canonical_name: artistName, confidence: "verified", status: "verified" }).select("id").single();
+          if (aErr) throw aErr;
+          artistId = (ins as { id: string }).id;
+          await syncRowToRepo("artists", artistId);
+        }
+      }
+      if (!artistId) return json({ ok: false, error: "Choose an artist or type a new artist name" }, 400);
+      const { data: artistRow, error: artistErr } = await supabase.from("artists")
+        .select("id").eq("id", artistId).single();
+      if (artistErr || !artistRow) return json({ ok: false, error: "Artist not found" }, 404);
+      const releaseType = ["album", "ep", "single", "compilation", "soundtrack", "other"].includes(String(body.release_type || ""))
+        ? String(body.release_type) : "album";
+      const edition = ["original", "remaster", "deluxe", "reissue", "regional", "anniversary", "other"].includes(String(body.edition || ""))
+        ? String(body.edition) : "original";
+      const releaseDate = txt(body.release_date);
+      if (releaseDate && !/^\d{4}-\d{2}-\d{2}$/.test(releaseDate)) {
+        return json({ ok: false, error: "Release date must be YYYY-MM-DD" }, 400);
+      }
+      const releaseYear = body.release_year === null || body.release_year === undefined || String(body.release_year).trim() === ""
+        ? null : parseInt(String(body.release_year), 10);
+      if (releaseYear !== null && Number.isNaN(releaseYear)) {
+        return json({ ok: false, error: "Release year must be a number" }, 400);
+      }
+      const conf = CONFIDENCE.includes(String(body.confidence || "")) ? String(body.confidence) : "verified";
+      const statusRaw = String(body.release_status || "");
+      const releaseStatus = statusRaw === "released" || statusRaw === "unreleased" ? statusRaw : null;
+      let dupQ = supabase.from("releases").select("id").eq("artist_id", artistId)
+        .ilike("title", escLike(title)).eq("edition", edition);
+      dupQ = releaseYear !== null ? dupQ.eq("release_year", releaseYear) : dupQ.is("release_year", null);
+      const { data: dup } = await dupQ.limit(1).maybeSingle();
+      if (dup) return json({ ok: true, action, existed: true, release_id: (dup as { id: string }).id });
+      const { data: ins, error } = await supabase.from("releases").insert({
+        artist_id: artistId, title, release_type: releaseType, edition,
+        release_date: releaseDate, release_year: releaseYear,
+        label: txt(body.label), catalog_number: txt(body.catalog_number),
+        barcode: txt(body.barcode), country: txt(body.country),
+        mbid: txt(body.mbid), spotify_id: txt(body.spotify_id),
+        apple_id: txt(body.apple_id), deezer_id: txt(body.deezer_id), discogs_id: txt(body.discogs_id),
+        confidence: conf, status: conf, release_status: releaseStatus,
+      }).select("id").single();
+      if (error) throw error;
+      const releaseId = (ins as { id: string }).id;
+      let artworkId: string | null = null;
+      const artUrl = txt(body.art_url);
+      if (artUrl) {
+        const { data: art, error: artErr } = await supabase.from("artwork").insert({
+          release_id: releaseId, source_url: artUrl, role: "canonical",
+          source: "user", confidence: "verified", status: "verified",
+        }).select("id").single();
+        if (!artErr && art) {
+          artworkId = (art as { id: string }).id;
+          await syncRowToRepo("artwork", artworkId);
+        }
+      }
+      const repoSync = await syncRowToRepo("releases", releaseId);
+      await logActivity("edit", `Created ${releaseType} "${title}" manually`);
+      return json({ ok: true, action, existed: false, release_id: releaseId, artist_id: artistId, artwork_id: artworkId, repo_sync: repoSync });
+    }
+
+    if (action === "create_track") {
+      const releaseId = String(body.release_id || "").trim();
+      const title = String(body.title || "").trim();
+      if (!releaseId || !title) return json({ ok: false, error: "Release and track title required" }, 400);
+      const escLike = (s: string) => s.replace(/[%_\\]/g, "\\$&");
+      const txt = (v: unknown): string | null => { const s = String(v || "").trim(); return s ? s : null; };
+      const { data: rel, error: relErr } = await supabase.from("releases")
+        .select("id,artist_id").eq("id", releaseId).single();
+      if (relErr || !rel) return json({ ok: false, error: "Release not found" }, 404);
+      const { data: dup } = await supabase.from("tracks").select("id")
+        .eq("release_id", releaseId).ilike("title", escLike(title)).limit(1).maybeSingle();
+      if (dup) return json({ ok: true, action, existed: true, track_id: (dup as { id: string }).id, release_id: releaseId });
+      const discNoRaw = body.disc_number === null || body.disc_number === undefined || String(body.disc_number).trim() === ""
+        ? 1 : parseInt(String(body.disc_number), 10);
+      const discNo = Number.isNaN(discNoRaw) || discNoRaw < 1 ? 1 : discNoRaw;
+      let trackNo: number | null = body.track_number === null || body.track_number === undefined || String(body.track_number).trim() === ""
+        ? null : parseInt(String(body.track_number), 10);
+      if (trackNo !== null && (Number.isNaN(trackNo) || trackNo < 1)) {
+        return json({ ok: false, error: "Track number must be 1 or higher" }, 400);
+      }
+      if (trackNo === null) {
+        const { data: last } = await supabase.from("tracks").select("track_number")
+          .eq("release_id", releaseId).eq("disc_number", discNo)
+          .order("track_number", { ascending: false }).limit(1).maybeSingle();
+        trackNo = ((last as { track_number?: number | null } | null)?.track_number || 0) + 1;
+      } else {
+        const { data: clash } = await supabase.from("tracks").select("id")
+          .eq("release_id", releaseId).eq("disc_number", discNo).eq("track_number", trackNo).limit(1).maybeSingle();
+        if (clash) return json({ ok: false, error: `Track number ${trackNo} is already used on disc ${discNo}` }, 400);
+      }
+      const durationMs = body.duration_ms === null || body.duration_ms === undefined || String(body.duration_ms).trim() === ""
+        ? null : Math.round(Number(body.duration_ms));
+      const conf = CONFIDENCE.includes(String(body.confidence || "")) ? String(body.confidence) : "verified";
+      const { data: ins, error } = await supabase.from("tracks").insert({
+        release_id: releaseId, artist_id: (rel as { artist_id: string | null }).artist_id,
+        title, track_number: trackNo, disc_number: discNo,
+        duration_ms: Number.isNaN(durationMs) ? null : durationMs,
+        isrc: txt(body.isrc), mbid: txt(body.mbid), spotify_id: txt(body.spotify_id),
+        apple_id: txt(body.apple_id), deezer_id: txt(body.deezer_id),
+        confidence: conf, status: conf,
+      }).select("id").single();
+      if (error) throw error;
+      const trackId = (ins as { id: string }).id;
+      let lyricsId: string | null = null;
+      const plain = String(body.lyrics_plain || "");
+      const synced = String(body.lyrics_synced || "");
+      if (plain.trim() || synced.trim()) {
+        try {
+          const { data: saved } = await supabase.from("track_lyrics").upsert({
+            track_id: trackId, plain_text: plain || null, synced_text: synced || null,
+            source: "manual", status: "found",
+          }, { onConflict: "track_id" }).select("id").single();
+          if (saved) {
+            lyricsId = (saved as { id: string }).id;
+            await syncRowToRepo("track_lyrics", lyricsId);
+          }
+        } catch { /* a missing track_lyrics table never fails the track create */ }
+      }
+      const repoSync = await syncRowToRepo("tracks", trackId);
+      await logActivity("edit", `Created track "${title}" manually`);
+      return json({ ok: true, action, existed: false, track_id: trackId, release_id: releaseId, track_number: trackNo, disc_number: discNo, lyrics_id: lyricsId, repo_sync: repoSync });
+    }
+
+    if (action === "reorder_tracks") {
+      const releaseId = String(body.release_id || "").trim();
+      const trackIds = Array.isArray(body.track_ids) ? body.track_ids.map((x) => String(x)).filter(Boolean) : [];
+      if (!releaseId || !trackIds.length) return json({ ok: false, error: "Release and track order required" }, 400);
+      const { data: rows, error: rowsErr } = await supabase.from("tracks")
+        .select("id,disc_number").eq("release_id", releaseId).in("id", trackIds);
+      if (rowsErr) throw rowsErr;
+      if ((rows || []).length !== trackIds.length) {
+        return json({ ok: false, error: "Every track in the new order must belong to this release" }, 400);
+      }
+      const discs = new Set((rows || []).map((r) => (r as { disc_number: number }).disc_number));
+      if (discs.size !== 1) return json({ ok: false, error: "Reordering stays within one disc" }, 400);
+      for (let i = 0; i < trackIds.length; i++) {
+        const { error: updErr } = await supabase.from("tracks")
+          .update({ track_number: i + 1, updated_at: new Date().toISOString() }).eq("id", trackIds[i]);
+        if (updErr) throw updErr;
+      }
+      const repoSync = await syncRowsToRepo("tracks", trackIds);
+      await logActivity("edit", `Reordered ${trackIds.length} tracks`);
+      return json({ ok: true, action, release_id: releaseId, track_ids: trackIds, repo_sync: repoSync });
     }
 
     if (action === "delete_track") {

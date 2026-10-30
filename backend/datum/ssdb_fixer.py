@@ -215,8 +215,17 @@ def read_tags(path, album_folder=""):
     return info
 
 
+_UTAG_TRACK_CACHE = {}
+
+
 def fetch_utag_track(track_id):
-    """Return {track, release, artist} for a UTAG track id, or None."""
+    """Return {track, release, artist} for a UTAG track id, or None.
+
+    Cached per track id, and reuses mega_organize's artist/release
+    caches when available, so a 416-file pass does not re-fetch the
+    same artist/release for every song by that artist."""
+    if track_id in _UTAG_TRACK_CACHE:
+        return _UTAG_TRACK_CACHE[track_id]
     h = _headers()
     tr = requests.get(f"{SUPABASE_URL}/rest/v1/tracks",
                       params={"select": "id,title,artist_id,release_id,confidence,track_number,disc_number",
@@ -225,19 +234,39 @@ def fetch_utag_track(track_id):
         return None
     track = tr.json()[0]
     release, artist = {}, {}
+    try:
+        import mega_organize as _mo
+        _ac, _rc = _mo._ARTIST_CACHE, _mo._RELEASE_CACHE
+    except Exception:
+        _ac, _rc = {}, {}
     if track.get("release_id"):
-        rr = requests.get(f"{SUPABASE_URL}/rest/v1/releases",
-                          params={"select": "id,title,release_year", "id": f"eq.{track['release_id']}"},
-                          headers=h, timeout=30)
-        if rr.ok and rr.json():
-            release = rr.json()[0]
+        rid = track["release_id"]
+        if rid in _rc:
+            release = {"id": rid, "title": _rc[rid], "release_year": None}
+            # release_year is not in mega_organize's cache; fetch it once
+            # only if we need it for a year proposal, which utag-only
+            # never does (year is unknown there), so keep it blank.
+        else:
+            rr = requests.get(f"{SUPABASE_URL}/rest/v1/releases",
+                              params={"select": "id,title,release_year", "id": f"eq.{rid}"},
+                              headers=h, timeout=30)
+            if rr.ok and rr.json():
+                release = rr.json()[0]
+                _rc[rid] = release.get("title", "")
     if track.get("artist_id"):
-        ar = requests.get(f"{SUPABASE_URL}/rest/v1/artists",
-                          params={"select": "id,canonical_name", "id": f"eq.{track['artist_id']}"},
-                          headers=h, timeout=30)
-        if ar.ok and ar.json():
-            artist = ar.json()[0]
-    return {"track": track, "release": release, "artist": artist}
+        aid = track["artist_id"]
+        if aid in _ac:
+            artist = {"id": aid, "canonical_name": _ac[aid]}
+        else:
+            ar = requests.get(f"{SUPABASE_URL}/rest/v1/artists",
+                              params={"select": "id,canonical_name", "id": f"eq.{aid}"},
+                              headers=h, timeout=30)
+            if ar.ok and ar.json():
+                artist = ar.json()[0]
+                _ac[aid] = artist.get("canonical_name", "")
+    result = {"track": track, "release": release, "artist": artist}
+    _UTAG_TRACK_CACHE[track_id] = result
+    return result
 
 
 def utag_proposals(embedded, utag):
@@ -260,8 +289,18 @@ def utag_proposals(embedded, utag):
     have = {"title": embedded.get("title", ""), "artist": embedded.get("artist", ""),
             "album": embedded.get("album", ""), "year": embedded.get("year", "")}
     for field, to in want:
-        if to and str(have.get(field) or "") != str(to):
-            out.append({"field": field, "from": have.get(field) or "", "to": str(to),
+        # Unknown is not empty: in utag-only mode the file was never
+        # downloaded, so year (and a missing parsed artist) are unknown,
+        # not "". Proposing UTAG's year to replace an unknown value
+        # inflated every utag-only file to "fixed" in the first dry-run.
+        # Only propose when we actually know the file-side value and it
+        # differs from UTAG after normalization (case/punctuation alone
+        # is not a correction).
+        have_val = have.get(field)
+        if have_val is None:
+            continue
+        if to and norm(str(have_val)) != norm(str(to)):
+            out.append({"field": field, "from": have_val, "to": str(to),
                         "confidence": 1.0 if conf == "verified" else 0.95, "source": "UTAG"})
     return out, True
 
@@ -380,8 +419,10 @@ def decide(proposals, verified):
         if cur is None or p["confidence"] > cur["confidence"]:
             by_field[p["field"]] = p
     chosen = list(by_field.values())
-    if verified:
+    if verified and chosen:
         return chosen, "fixed"
+    if verified and not chosen:
+        return [], "no_change"
     if chosen and all(p["confidence"] >= AUTO_CONFIDENCE for p in chosen):
         return chosen, "fixed"
     if chosen:
@@ -549,8 +590,12 @@ def main():
                 continue
             track_id, artist, album_title, title = found
             artist_mismatch = bool(parsed["artist"] and norm(parsed["artist"]) != norm(artist))
-            embedded = {"title": title, "artist": artist, "album": album_title,
-                        "genre": "", "year": "", "track_no": 0, "disc_no": 0}
+            # Utag-only audit: compare what the filename/folder actually
+            # say (parsed title/artist, album folder) against UTAG.
+            # Year is unknown here (file never downloaded), so it must
+            # be None, not "", or utag_proposals will invent a year fix.
+            embedded = {"title": parsed["title"], "artist": parsed["artist"], "album": album_folder,
+                        "genre": "", "year": None, "track_no": 0, "disc_no": 0}
             # utag-only mode needs no download: filename/folder + UTAG DB.
             result = audit_file(embedded, track_id=track_id, mode=args.mode)
             counts[result["status"]] = counts.get(result["status"], 0) + 1

@@ -58,6 +58,14 @@ class TestHelpers(unittest.TestCase):
 
 
 class TestUtagPass(unittest.TestCase):
+    def setUp(self):
+        fx._UTAG_TRACK_CACHE.clear()
+        try:
+            import mega_organize as _mo
+            _mo._ARTIST_CACHE.clear()
+            _mo._RELEASE_CACHE.clear()
+        except Exception:
+            pass
     def _fake_get(self, url, params=None, **kw):
         if "/tracks" in url:
             return FakeResp([{"id": "t1", "title": "Light Switch", "artist_id": "a1",

@@ -161,6 +161,108 @@ const libReview = () => libFile("data/views/review.json");
 const libArtist = id => libFile(`data/views/artist/${encodeURIComponent(id)}.json`);
 const libRelease = id => libFile(`data/views/release/${encodeURIComponent(id)}.json`);
 
+/* ------------------------------------------------- live database merge */
+/* The file library only refreshes when the export rebuilds, minutes after
+   a write, and a reload before then loses the optimistic row. These
+   helpers read the same rows straight from PostgREST (public read, the
+   same api() the rest of the site uses), so a just-added song, a new
+   release, or a reorder shows on the next page load. A failed live read
+   leaves the file view untouched, so the site still works when the
+   database is unreachable. Live data never deletes a file row on its
+   own: a file-only row is kept, so a partial live read can never make
+   songs vanish. Deletions still catch up through the export, and through
+   the optimistic removal in the same session. */
+
+const LIVE_TRACK_FIELDS = "id,release_id,artist_id,title,track_number,disc_number,duration_ms,isrc,spotify_id,apple_id,deezer_id,mbid,confidence";
+const LIVE_RELEASE_FIELDS = "id,artist_id,title,release_type,edition,release_date,release_year,release_status,label,catalog_number,barcode,country,spotify_id,apple_id,deezer_id,discogs_id,mbid,confidence";
+const LIVE_ARTIST_FIELDS = "id,canonical_name,aliases,genres,image_url,spotify_id,apple_id,deezer_id,discogs_id,mbid,confidence";
+
+async function liveTracksForRelease(releaseId) {
+  const rows = await api(`tracks?select=${LIVE_TRACK_FIELDS}&release_id=eq.${encodeURIComponent(releaseId)}&order=disc_number.asc,track_number.asc&limit=500`);
+  try {
+    const ids = (rows || []).map(r => r.id).filter(Boolean);
+    if (ids.length) {
+      const inParam = ids.map(id => `"${id}"`).join(",");
+      const lys = await api(`track_lyrics?select=track_id,plain_text,synced_text,source,status&track_id=in.(${encodeURIComponent(inParam)})&limit=500`);
+      const byId = {};
+      (lys || []).forEach(l => { byId[l.track_id] = l; });
+      (rows || []).forEach(t => { if (byId[t.id]) t.lyrics = byId[t.id]; });
+    }
+  } catch { /* lyrics are best effort; the tracklist still loads */ }
+  return rows || [];
+}
+
+function sortTracks(rows) {
+  return (rows || []).slice().sort((a, b) =>
+    (a.disc_number || 1) - (b.disc_number || 1) ||
+    ((a.track_number == null ? 1e9 : a.track_number) - (b.track_number == null ? 1e9 : b.track_number)));
+}
+
+/* Database rows win for shared ids, database-only rows are added, and
+   file-only rows are kept (see the note above). */
+function mergeLiveTracks(rv, liveRows) {
+  if (!rv || !Array.isArray(liveRows)) return;
+  const byId = new Map((rv.tracks || []).map(t => [t.id, t]));
+  liveRows.forEach(lt => {
+    const ft = byId.get(lt.id);
+    const out = { ...(ft || {}), ...lt };
+    if (!lt.lyrics && ft && ft.lyrics) out.lyrics = ft.lyrics;
+    byId.set(lt.id, out);
+  });
+  rv.tracks = sortTracks([...byId.values()]);
+}
+
+async function liveCanonicalArtwork(releaseIds) {
+  if (!releaseIds.length) return {};
+  const inParam = releaseIds.map(id => `"${id}"`).join(",");
+  const arts = await api(`artwork?select=id,release_id,source_url,stored_path,role&release_id=in.(${encodeURIComponent(inParam)})&role=eq.canonical&limit=500`);
+  const byRelease = {};
+  (arts || []).forEach(a => { if (!byRelease[a.release_id]) byRelease[a.release_id] = a; });
+  return byRelease;
+}
+
+function catalogShapeRelease(r, artistName, canonicalArt) {
+  return { ...r, artists: { id: r.artist_id, canonical_name: artistName || "" }, artwork: canonicalArt ? [canonicalArt] : [] };
+}
+
+async function liveReleasesForArtist(artistId, artistName) {
+  const rels = await api(`releases?select=${LIVE_RELEASE_FIELDS}&artist_id=eq.${encodeURIComponent(artistId)}&order=release_year.desc&limit=200`);
+  const canon = await liveCanonicalArtwork((rels || []).map(r => r.id)).catch(() => ({}));
+  return (rels || []).map(r => catalogShapeRelease(r, artistName, canon[r.id]));
+}
+
+function mergeLiveReleases(av, liveRows) {
+  if (!av || !Array.isArray(liveRows)) return;
+  const byId = new Map((av.releases || []).map(r => [r.id, r]));
+  liveRows.forEach(lr => { byId.set(lr.id, { ...(byId.get(lr.id) || {}), ...lr }); });
+  av.releases = [...byId.values()];
+}
+
+async function liveReleaseView(releaseId) {
+  const rels = await api(`releases?select=${LIVE_RELEASE_FIELDS}&id=eq.${encodeURIComponent(releaseId)}&limit=1`);
+  if (!rels || !rels.length) return null;
+  const rel = rels[0];
+  const artists = await api(`artists?select=${LIVE_ARTIST_FIELDS}&id=eq.${encodeURIComponent(rel.artist_id)}&limit=1`).catch(() => []);
+  const artist = (artists || [])[0] || { id: rel.artist_id, canonical_name: "" };
+  const tracks = await liveTracksForRelease(releaseId).catch(() => []);
+  const arts = await api(`artwork?select=id,release_id,source_url,stored_path,role,edition_label,source,confidence&release_id=eq.${encodeURIComponent(releaseId)}&order=created_at.asc&limit=50`).catch(() => []);
+  const more = await api(`releases?select=${LIVE_RELEASE_FIELDS}&artist_id=eq.${encodeURIComponent(rel.artist_id)}&id=neq.${encodeURIComponent(releaseId)}&order=release_year.desc&limit=100`).catch(() => []);
+  const canon = await liveCanonicalArtwork((more || []).map(r => r.id)).catch(() => ({}));
+  return {
+    release: rel, artists: artist, tracks: sortTracks(tracks), artwork: arts || [],
+    verifications: [], corrections: [],
+    more_from_artist: (more || []).map(r => catalogShapeRelease(r, artist.canonical_name, canon[r.id])),
+  };
+}
+
+async function liveArtistView(artistId) {
+  const artists = await api(`artists?select=${LIVE_ARTIST_FIELDS}&id=eq.${encodeURIComponent(artistId)}&limit=1`);
+  if (!artists || !artists.length) return null;
+  const artist = artists[0];
+  const releases = await liveReleasesForArtist(artistId, artist.canonical_name).catch(() => []);
+  return { artist, releases, verifications: [], corrections: [] };
+}
+
 /* ------------------------------------------------- library auto-updater */
 /* The library files are regenerated whenever the data changes. This watcher
    polls data/index.json once a minute and refreshes the page data the moment
@@ -1656,10 +1758,16 @@ async function vArtists() {
 
 async function vArtist(id) {
   setNav("artists");
-  let av = null;
+  let av = null, fromLive = false;
   try { av = await libArtist(id); } catch { av = null; }
+  if (!av || !av.artist) {
+    try { av = await liveArtistView(id); fromLive = !!av; } catch { av = null; }
+  }
   const a = av && av.artist;
   if (!a) { view.innerHTML = `<h1>Artist not found</h1>${footer()}`; return; }
+  if (!fromLive) {
+    try { mergeLiveReleases(av, await liveReleasesForArtist(id, a.canonical_name)); } catch { /* file view stands */ }
+  }
   const { releases, verifications: verifs, corrections } = av;
   const facts = [
     ["Aliases", (a.aliases || []).join(", ")], ["Genres", (a.genres || []).join(", ")],
@@ -1766,10 +1874,16 @@ async function vArtist(id) {
 
 async function vRelease(id) {
   setNav("catalog");
-  let rv = null;
+  let rv = null, fromLive = false;
   try { rv = await libRelease(id); } catch { rv = null; }
+  if (!rv || !rv.release) {
+    try { rv = await liveReleaseView(id); fromLive = !!rv; } catch { rv = null; }
+  }
   const r = rv && rv.release;
   if (!r) { view.innerHTML = `<h1>Release not found</h1>${footer()}`; return; }
+  if (!fromLive) {
+    try { mergeLiveTracks(rv, await liveTracksForRelease(id)); } catch { /* file view stands */ }
+  }
   r.artists = rv.artists;
   const { artwork: art, tracks, verifications: verifs, corrections, more_from_artist: editions } = rv;
   const canonical = (art || []).find(x => x.role === "canonical");

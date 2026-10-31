@@ -425,6 +425,30 @@
         "canonical_name": "d4vd",
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
+      "artwork": [
+        {
+          "id": "cdcc7bf3-1967-4565-aac9-b38d504ab903",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/2f27e004-e197-48c0-aac4-3c3743fd97b6/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:45:01.820456+00:00",
+      "edition": "original",
+      "id": "32301572-f7a6-4b02-b350-17cc8fb7b366",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Lost Petals"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
       "artwork": [],
       "confidence": "needs_review",
       "created_at": "2026-10-16T04:35:34.479804+00:00",
@@ -1740,6 +1764,12 @@
       "duration_ms": null,
       "id": "46461f68-9e6a-4e2a-af30-c6009174e17a",
       "isrc": null,
+      "lyrics": {
+        "plain_text": "Do you get scared or do you feel lost?\nI can smell fear, I've been there before (Uh)\nBut you made it through the storm again, uh\nYou did it on your own again (Uh)\nGoosebumps on your skin, uh\nDo you feel what I feel? Uh\nI'm waiting on you to notice, uh\nThat you got what you wanted, uh\nWe don't got time to cry right now\nOnly got time to focus, uh\n\nTwo hits on a waitlist, uh\nI was armed and dangerous, uh\nTake a shot, leave 'em faceless, uh\nI was armed and dangerous, uh\nOn a whole different level, uh\nI can see why they hatin', uh\nI was armed and dangerous, uh\nI was armed and dangerous, uh\n\nYou should have noticed I've been focused\nYou should have known I'm locked and loaded\nYou should have noticed I've been focused\nYou should have known I'm locked and loaded\n\nYou better watch your back 'cause we aimin' at your head (head)\nI don't need a pick me up and I don't need a res'\nKnock down, top down, hit him in his legs (in his legs)\nPull up with the trio and my eyes all red (all red)\nOne, two, three of us, can't compete with us\nEverybody screamin' like they didn't believe in us (didn't believe in us)\nBelieve in us, believe in us, believe in us\n\nTwo hits on a waitlist, uh\nI was armed and dangerous, uh\nTake a shot, leave 'em faceless, uh\nI was armed and dangerous, uh\nOn a whole different level, uh\nI can see why they hatin', uh\nI was armed and dangerous, uh\nI was armed and dangerous, uh\n\nYou should have noticed I've been focused\nYou should have known I'm locked and loaded\nYou should have noticed I've been focused\nYou should have known I'm locked and loaded",
+        "source": "LRCLIB",
+        "status": "found",
+        "synced_text": "[00:09.23] Do you get scared or do you feel lost?\n[00:14.24] I can smell fear, I've been there before (Uh)\n[00:18.48] But you made it through the storm again, uh\n[00:20.86] You did it on your own again (Uh)\n[00:23.23] Goosebumps on your skin, uh\n[00:25.47] Do you feel what I feel? Uh\n[00:27.83] I'm waiting on you to notice, uh\n[00:30.56] That you got what you wanted, uh\n[00:32.81] We don't got time to cry right now\n[00:35.17] Only got time to focus, uh\n[00:39.13] Two hits on a waitlist, uh\n[00:41.67] I was armed and dangerous, uh\n[00:44.37] Take a shot, leave 'em faceless, uh\n[00:46.71] I was armed and dangerous, uh\n[00:49.29] On a whole different level, uh\n[00:51.54] I can see why they hatin', uh\n[00:53.83] I was armed and dangerous, uh\n[00:56.27] I was armed and dangerous, uh\n[00:58.03] You should have noticed I've been focused\n[01:02.14] You should have known I'm locked and loaded\n[01:06.95] You should have noticed I've been focused\n[01:11.84] You should have known I'm locked and loaded\n[01:16.70] You better watch your back 'cause we aimin' at your head (head)\n[01:18.70] I don't need a pick me up and I don't need a res'\n[01:21.30] Knock down, top down, hit him in his legs (in his legs)\n[01:23.77] Pull up with the trio and my eyes all red (all red)\n[01:26.06] One, two, three of us, can't compete with us\n[01:28.53] Everybody screamin' like they didn't believe in us (didn't believe in us)\n[01:31.25] Believe in us, believe in us, believe in us\n[01:36.85] Two hits on a waitlist, uh\n[01:39.43] I was armed and dangerous, uh\n[01:41.67] Take a shot, leave 'em faceless, uh\n[01:43.88] I was armed and dangerous, uh\n[01:46.40] On a whole different level, uh\n[01:49.05] I can see why they hatin', uh\n[01:51.40] I was armed and dangerous, uh\n[01:54.07] I was armed and dangerous, uh\n[01:55.77] You should have noticed I've been focused\n[02:00.47] You should have known I'm locked and loaded\n[02:05.08] You should have noticed I've been focused\n[02:09.74] You should have known I'm locked and loaded\n[02:14.60] "
+      },
       "mbid": null,
       "release_id": "05a2278f-fbf0-40e9-9061-acc7d7b490a2",
       "spotify_id": null,

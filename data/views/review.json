@@ -139,6 +139,64 @@
   "releases": [
     {
       "artists": {
+        "canonical_name": "Damiano David, d4vd",
+        "id": "11622230-3fb7-498c-a1ac-15700d796cf7"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:45:34.364636+00:00",
+      "edition": "original",
+      "id": "53656d5b-2a8c-4ef1-a706-0ad8b4b3d9c1",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    },
+    {
+      "artists": {
+        "canonical_name": "The Kid LAROI, d4vd",
+        "id": "fc81a79f-638a-49b2-a910-28ae5370b609"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:45:20.395623+00:00",
+      "edition": "original",
+      "id": "aa28b135-30c1-4d13-88ae-a31027c54ac8",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "THE FIRST TIME"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
+          "id": "cdcc7bf3-1967-4565-aac9-b38d504ab903",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/2f27e004-e197-48c0-aac4-3c3743fd97b6/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:45:01.820456+00:00",
+      "edition": "original",
+      "id": "32301572-f7a6-4b02-b350-17cc8fb7b366",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Lost Petals"
+    },
+    {
+      "artists": {
         "canonical_name": "d4vd, COLORS",
         "id": "cd50f013-f41c-4011-b3c1-8cd8ecddd224"
       },

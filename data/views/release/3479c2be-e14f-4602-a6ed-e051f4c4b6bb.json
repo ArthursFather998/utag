@@ -398,6 +398,30 @@
       },
       "artwork": [
         {
+          "id": "cdcc7bf3-1967-4565-aac9-b38d504ab903",
+          "role": "canonical",
+          "source_url": "https://coverartarchive.org/release/2f27e004-e197-48c0-aac4-3c3743fd97b6/front",
+          "stored_path": null
+        }
+      ],
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:45:01.820456+00:00",
+      "edition": "original",
+      "id": "32301572-f7a6-4b02-b350-17cc8fb7b366",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Lost Petals"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [
+        {
           "id": "c89f091c-69c3-4317-8876-92ad1b269475",
           "role": "canonical",
           "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/69/d0/1d69d050-7f60-69c3-5407-28ee6618942b/22UM1IM08611.rgb.jpg/1200x1200bb.jpg",

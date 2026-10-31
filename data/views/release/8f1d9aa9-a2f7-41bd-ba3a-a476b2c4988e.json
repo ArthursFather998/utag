@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "SWV",
+    "id": "de600efc-3f26-4167-b0f2-2aa5a7abcd82"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "de600efc-3f26-4167-b0f2-2aa5a7abcd82",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "8f1d9aa9-a2f7-41bd-ba3a-a476b2c4988e",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Release Some Tension",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "de600efc-3f26-4167-b0f2-2aa5a7abcd82",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "03839e35-0dc4-4c37-a0bd-7363b51763e3",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "8f1d9aa9-a2f7-41bd-ba3a-a476b2c4988e",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Rain",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    }
+  ],
+  "verifications": []
+}

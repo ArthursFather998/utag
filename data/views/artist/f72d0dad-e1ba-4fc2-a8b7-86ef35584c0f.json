@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "21 Savage, d4vd",
+    "confidence": "unknown",
+    "created_at": "2026-10-31T02:17:13.085525+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "f72d0dad-e1ba-4fc2-a8b7-86ef35584c0f",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-31T02:17:13.085525+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "21 Savage, d4vd",
+        "id": "f72d0dad-e1ba-4fc2-a8b7-86ef35584c0f"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:17:13.189429+00:00",
+      "edition": "original",
+      "id": "24f2d10d-51da-48ce-9d4a-009950028d57",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    }
+  ],
+  "verifications": []
+}

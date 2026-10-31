@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "aeter",
+    "confidence": "needs_review",
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "8a849ace-b066-4422-80aa-de8416e248dd",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "aeter",
+        "id": "8a849ace-b066-4422-80aa-de8416e248dd"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "3f312283-ec57-4df4-bb66-20bb9749f853",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "coward"
+    }
+  ],
+  "verifications": []
+}

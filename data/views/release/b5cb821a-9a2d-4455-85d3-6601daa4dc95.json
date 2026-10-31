@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Gracie Abrams",
+    "id": "ae16cdfd-b906-419e-8379-879a0dacdc90"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "ae16cdfd-b906-419e-8379-879a0dacdc90",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "b5cb821a-9a2d-4455-85d3-6601daa4dc95",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "minor",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "ae16cdfd-b906-419e-8379-879a0dacdc90",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "430ccd94-7d62-4e7f-980e-afd3716cc0f4",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b5cb821a-9a2d-4455-85d3-6601daa4dc95",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "I miss you, I’m sorry",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    }
+  ],
+  "verifications": []
+}

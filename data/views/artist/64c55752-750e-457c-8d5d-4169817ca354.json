@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Pop Smoke",
+    "confidence": "needs_review",
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "64c55752-750e-457c-8d5d-4169817ca354",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Pop Smoke",
+        "id": "64c55752-750e-457c-8d5d-4169817ca354"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "ba19029a-b7d1-489e-a884-bf17d12de920",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "LOVE"
+    }
+  ],
+  "verifications": []
+}

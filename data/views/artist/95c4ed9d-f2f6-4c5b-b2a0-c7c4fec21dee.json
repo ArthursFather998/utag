@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "d4vd, Kali Uchis",
+    "confidence": "unknown",
+    "created_at": "2026-10-31T02:17:20.689124+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "95c4ed9d-f2f6-4c5b-b2a0-c7c4fec21dee",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-31T02:17:20.689124+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "d4vd, Kali Uchis",
+        "id": "95c4ed9d-f2f6-4c5b-b2a0-c7c4fec21dee"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:17:20.799467+00:00",
+      "edition": "original",
+      "id": "43dacc96-fd25-49ac-bf93-9d91ae64bfc4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    }
+  ],
+  "verifications": []
+}

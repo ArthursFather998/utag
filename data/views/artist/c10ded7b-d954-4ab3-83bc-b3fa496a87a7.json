@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Hozier",
+    "confidence": "needs_review",
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "c10ded7b-d954-4ab3-83bc-b3fa496a87a7",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Hozier",
+        "id": "c10ded7b-d954-4ab3-83bc-b3fa496a87a7"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "4ba7a448-b38f-4d9e-b626-8b8cb82818b4",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Hozier (Expanded Edition)"
+    }
+  ],
+  "verifications": []
+}

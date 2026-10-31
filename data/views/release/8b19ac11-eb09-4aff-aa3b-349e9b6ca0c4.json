@@ -38,6 +38,7 @@
   "corrections": [
     {
       "created_at": "2026-10-14T02:16:06.764929+00:00",
+      "created_by": null,
       "entity_id": "8b19ac11-eb09-4aff-aa3b-349e9b6ca0c4",
       "entity_type": "release",
       "field": "release_status",
@@ -49,6 +50,7 @@
     },
     {
       "created_at": "2026-10-14T02:16:04.551015+00:00",
+      "created_by": null,
       "entity_id": "8b19ac11-eb09-4aff-aa3b-349e9b6ca0c4",
       "entity_type": "release",
       "field": "release_type",
@@ -60,6 +62,7 @@
     },
     {
       "created_at": "2026-10-14T02:16:02.662075+00:00",
+      "created_by": null,
       "entity_id": "8b19ac11-eb09-4aff-aa3b-349e9b6ca0c4",
       "entity_type": "release",
       "field": "title",
@@ -71,6 +74,7 @@
     },
     {
       "created_at": "2026-10-14T02:08:28.226537+00:00",
+      "created_by": null,
       "entity_id": "8b19ac11-eb09-4aff-aa3b-349e9b6ca0c4",
       "entity_type": "release",
       "field": "title",
@@ -1226,6 +1230,23 @@
         "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
       },
       "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "a7d23a6e-2e7c-4c2f-8106-82f729df0001",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "dont follow me"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:30:49.859384+00:00",
       "edition": "original",
@@ -1693,6 +1714,23 @@
       "release_type": "single",
       "release_year": 2022,
       "title": "Decide"
+    },
+    {
+      "artists": {
+        "canonical_name": "d4vd",
+        "id": "12856560-3db2-4c3e-b0a4-e68a3f7de462"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "fcc041b4-975b-4c4a-b467-0400a46c4033",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": null,
+      "title": "time waits for no man"
     }
   ],
   "release": {

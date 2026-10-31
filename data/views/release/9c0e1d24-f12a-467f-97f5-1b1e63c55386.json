@@ -1,0 +1,84 @@
+{
+  "artists": {
+    "canonical_name": "d4vd, HYUNJIN",
+    "id": "d6630309-60b3-4bdc-b61c-88d45857118c"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "d4vd, HYUNJIN",
+        "id": "d6630309-60b3-4bdc-b61c-88d45857118c"
+      },
+      "artwork": [
+        {
+          "id": "37f7544d-904c-426e-99d2-980ba74c2cb9",
+          "role": "canonical",
+          "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/e9/08/10e908b0-f831-7c76-e521-711c78283e78/25UMGIM83721.rgb.jpg/1200x630bf-60.jpg",
+          "stored_path": null
+        }
+      ],
+      "confidence": "high_confidence",
+      "created_at": "2026-10-14T01:01:13.860311+00:00",
+      "edition": "original",
+      "id": "56412f0a-c8b1-4066-868e-32f14e14cbda",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "single",
+      "release_year": 2025,
+      "title": "Always Love"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "d6630309-60b3-4bdc-b61c-88d45857118c",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-31T02:17:08.56377+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "9c0e1d24-f12a-467f-97f5-1b1e63c55386",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Unknown Album",
+    "updated_at": "2026-10-31T02:17:08.56377+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "d6630309-60b3-4bdc-b61c-88d45857118c",
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:17:08.638388+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "d43e7a3e-f596-4fde-b44a-bc619b74a6e1",
+      "isrc": null,
+      "lyrics": {
+        "plain_text": "Suddenly, I've become\nJust a memory of someone\nHear the melodies from my voice\nThey'll call you back to me\nBut it's your choice, oh\n\nYou don't have to make me cry\nYou don't have to say goodbye\nI know we were meant to be\n\nDo you, do you feel what I feel?\nDo you love like I love?\nWould you hold my hand?\nWould you let me go?\n\nWould you stand by my side?\nAre you down for the ride?\nI don't need nobody else but you\nBut you\n\nAll my life, I tried to find\nSomeone that won't make me lose my mind\nSo tell me if it's now or never\n'Cause with you, I see forever\nI think you could make me better, better\n\nYou don't have to make me cry\nYou don't have to say goodbye\nI know we were meant to be\n\nDo you, do you feel what I feel?\nDo you love like I love?\nWould you hold my hand?\nWould you let me go?\n\nWould you stand by my side?\nAre you down for the ride?\nI don't need nobody else but you\n\nBut you\nBut you\n\nDo you, do you feel what I feel?\nDo you love like I love?\nWould you hold my hand?\nWould you let me go?\n\nWould you stand by my side?\nAre you down for the ride?\nI don't need nobody else but you\nBut you",
+        "source": "LRCLIB",
+        "status": "found",
+        "synced_text": "[00:20.33] Suddenly, I've become\n[00:26.26] Just a memory of someone\n[00:33.15] Hear the melodies from my voice\n[00:39.35] They'll call you back to me\n[00:42.80] But it's your choice, oh\n[00:47.26] You don't have to make me cry\n[00:50.70] You don't have to say goodbye\n[00:54.19] I know we were meant to be\n[00:59.16] Do you, do you feel what I feel?\n[01:03.38] Do you love like I love?\n[01:06.67] Would you hold my hand?\n[01:09.92] Would you let me go?\n[01:13.32] Would you stand by my side?\n[01:16.87] Are you down for the ride?\n[01:20.36] I don't need nobody else but you\n[01:26.74] But you\n[01:29.36] All my life, I tried to find\n[01:36.01] Someone that won't make me lose my mind\n[01:40.56] So tell me if it's now or never\n[01:44.78] 'Cause with you, I see forever\n[01:48.06] I think you could make me better, better\n[01:54.75] You don't have to make me cry\n[01:58.03] You don't have to say goodbye\n[02:01.44] I know we were meant to be\n[02:06.30] Do you, do you feel what I feel?\n[02:10.69] Do you love like I love?\n[02:13.94] Would you hold my hand?\n[02:17.39] Would you let me go?\n[02:20.64] Would you stand by my side?\n[02:24.08] Are you down for the ride?\n[02:27.41] I don't need nobody else but you\n[02:34.26] But you\n[02:38.57] \n[02:40.95] But you\n[02:46.86] Do you, do you feel what I feel?\n[02:51.12] Do you love like I love?\n[02:54.25] Would you hold my hand?\n[02:57.53] Would you let me go?\n[03:00.92] Would you stand by my side?\n[03:04.64] Are you down for the ride?\n[03:08.10] I don't need nobody else but you\n[03:14.50] But you\n[03:15.35] "
+      },
+      "mbid": null,
+      "release_id": "9c0e1d24-f12a-467f-97f5-1b1e63c55386",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Always Love featuring Hyunjin (Stray Kids)",
+      "track_number": null,
+      "updated_at": "2026-10-31T02:17:08.638388+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Shawn Mendes",
+    "id": "b66ea3d4-c4d0-4fca-94dc-16539aede625"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "b66ea3d4-c4d0-4fca-94dc-16539aede625",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "9882b0af-17c0-4852-b969-64957fc01d5b",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Shawn Mendes (Deluxe)",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "b66ea3d4-c4d0-4fca-94dc-16539aede625",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "4ff2da7b-e980-4730-94fc-89b893ab873e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "9882b0af-17c0-4852-b969-64957fc01d5b",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Señorita",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    }
+  ],
+  "verifications": []
+}

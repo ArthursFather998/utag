@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Lil Yachty",
+    "id": "320516c9-749a-4a74-b3ef-4f15e0ce04d3"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "320516c9-749a-4a74-b3ef-4f15e0ce04d3",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "163e0601-2ac4-42cd-934b-542c1cde94d6",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "Let’s Start Here",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "320516c9-749a-4a74-b3ef-4f15e0ce04d3",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "e8a7bfd6-9b5e-4df1-afe6-d2c6431e34ce",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "163e0601-2ac4-42cd-934b-542c1cde94d6",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "drive ME crazy!",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    }
+  ],
+  "verifications": []
+}

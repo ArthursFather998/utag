@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Bryant Barnes, d4vd",
+    "confidence": "unknown",
+    "created_at": "2026-10-31T02:17:36.652194+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "31706dae-bbf4-439a-ad62-c40a5b41cef9",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "unknown",
+    "updated_at": "2026-10-31T02:17:36.652194+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Bryant Barnes, d4vd",
+        "id": "31706dae-bbf4-439a-ad62-c40a5b41cef9"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-31T02:17:36.756389+00:00",
+      "edition": "original",
+      "id": "4e62a65f-6159-4859-8814-a47cc1889b48",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Unknown Album"
+    }
+  ],
+  "verifications": []
+}

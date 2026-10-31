@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Patience & Prudence",
+    "confidence": "needs_review",
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "723f861f-67d8-455a-8d02-2787131009e9",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Patience & Prudence",
+        "id": "723f861f-67d8-455a-8d02-2787131009e9"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "697d9e62-aab4-4fcd-b30e-a0e1209d5628",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "The Best Of Patience & Prudence"
+    }
+  ],
+  "verifications": []
+}

@@ -1,0 +1,39 @@
+{
+  "artist": {
+    "aliases": [],
+    "apple_id": null,
+    "canonical_name": "Céline Dion",
+    "confidence": "needs_review",
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "genres": [],
+    "id": "4b0fb224-931c-4d5f-88fa-c9dcfdb96428",
+    "image_url": null,
+    "mbid": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "corrections": [],
+  "releases": [
+    {
+      "artists": {
+        "canonical_name": "Céline Dion",
+        "id": "4b0fb224-931c-4d5f-88fa-c9dcfdb96428"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "7f040a65-f57a-45ce-8b6b-d5c0f848f157",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Falling into You"
+    }
+  ],
+  "verifications": []
+}

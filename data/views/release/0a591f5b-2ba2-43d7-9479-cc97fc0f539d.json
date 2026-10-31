@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Joey Naz",
+    "id": "3745ae59-63fd-4fdb-94e1-097c3ddc5f71"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "3745ae59-63fd-4fdb-94e1-097c3ddc5f71",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "0a591f5b-2ba2-43d7-9479-cc97fc0f539d",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "That's All That Matters",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "3745ae59-63fd-4fdb-94e1-097c3ddc5f71",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "a9dd1f9f-27bd-411c-b0af-b9b14f699b33",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "0a591f5b-2ba2-43d7-9479-cc97fc0f539d",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "That's All That Matters",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    }
+  ],
+  "verifications": []
+}

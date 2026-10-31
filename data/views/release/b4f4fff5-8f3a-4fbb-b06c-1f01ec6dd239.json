@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "PinkPantheress",
+    "id": "a4eb372d-b968-4ecb-85ca-1671e3183d9c"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "a4eb372d-b968-4ecb-85ca-1671e3183d9c",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "b4f4fff5-8f3a-4fbb-b06c-1f01ec6dd239",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "to hell with it",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "a4eb372d-b968-4ecb-85ca-1671e3183d9c",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "9352eabd-bec3-4e75-bb95-200a43c9983d",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "b4f4fff5-8f3a-4fbb-b06c-1f01ec6dd239",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "I Must Apologise",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    }
+  ],
+  "verifications": []
+}

@@ -964,6 +964,23 @@
         "id": "ce736950-b03b-4374-99a4-28d48942462d"
       },
       "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "b69bc824-75a4-4b1d-b7bb-5422ac3fdd92",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "I'm Not Human (feat. Lil Uzi Vert)"
+    },
+    {
+      "artists": {
+        "canonical_name": "XXXTENTACION",
+        "id": "ce736950-b03b-4374-99a4-28d48942462d"
+      },
+      "artwork": [],
       "confidence": "high_confidence",
       "created_at": "2026-10-16T04:28:23.488179+00:00",
       "edition": "reissue",
@@ -1400,6 +1417,42 @@
       "title": "numb the pain",
       "track_number": null,
       "updated_at": "2026-10-16T08:03:27.287396+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "ce736950-b03b-4374-99a4-28d48942462d",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "79fe9577-880d-403c-ab47-416bc6b106f9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "fc852547-b359-488a-b23a-7143d9de70c4",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "School Shooters (feat. Lil Wayne)",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    },
+    {
+      "apple_id": null,
+      "artist_id": "ce736950-b03b-4374-99a4-28d48942462d",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "adef48b0-c6f9-465e-88ed-9c5305f73e65",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "fc852547-b359-488a-b23a-7143d9de70c4",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "UGLY",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
     },
     {
       "apple_id": null,

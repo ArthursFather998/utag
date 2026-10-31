@@ -1,0 +1,53 @@
+{
+  "artists": {
+    "canonical_name": "Ariana Grande",
+    "id": "77b766c6-dadf-4ff9-baff-7ea2fe92ceb9"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [],
+  "release": {
+    "apple_id": null,
+    "artist_id": "77b766c6-dadf-4ff9-baff-7ea2fe92ceb9",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "db98f582-0873-4e36-9287-633c8bc20ed7",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "eternal sunshine",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "77b766c6-dadf-4ff9-baff-7ea2fe92ceb9",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "fc08663a-dd36-4ebf-a794-b191a97a1c7e",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "db98f582-0873-4e36-9287-633c8bc20ed7",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "the boy is mine",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    }
+  ],
+  "verifications": []
+}

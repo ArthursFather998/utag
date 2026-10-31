@@ -53,6 +53,7 @@
   "corrections": [
     {
       "created_at": "2026-10-13T20:48:25.873303+00:00",
+      "created_by": null,
       "entity_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
       "entity_type": "release",
       "field": "title",
@@ -64,6 +65,7 @@
     },
     {
       "created_at": "2026-10-13T20:46:15.320107+00:00",
+      "created_by": null,
       "entity_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
       "entity_type": "release",
       "field": "release_year",
@@ -75,6 +77,7 @@
     },
     {
       "created_at": "2026-10-13T20:46:14.615364+00:00",
+      "created_by": null,
       "entity_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
       "entity_type": "release",
       "field": "release_date",
@@ -86,6 +89,7 @@
     },
     {
       "created_at": "2026-10-13T20:46:13.79874+00:00",
+      "created_by": null,
       "entity_id": "733d532b-3dd0-45bb-8bd0-ec61ae3f8f1e",
       "entity_type": "release",
       "field": "title",

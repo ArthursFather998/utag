@@ -1,0 +1,71 @@
+{
+  "artists": {
+    "canonical_name": "GIVĒON",
+    "id": "bbc04154-1fd4-4e3f-a527-34884b07deb3"
+  },
+  "artwork": [],
+  "corrections": [],
+  "more_from_artist": [
+    {
+      "artists": {
+        "canonical_name": "GIVĒON",
+        "id": "bbc04154-1fd4-4e3f-a527-34884b07deb3"
+      },
+      "artwork": [],
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "edition": "original",
+      "id": "c6e6d2c5-4470-47fb-a7c7-beb5e27fe0f3",
+      "label": null,
+      "release_date": null,
+      "release_status": null,
+      "release_type": "album",
+      "release_year": null,
+      "title": "Heartbreak Anniversary"
+    }
+  ],
+  "release": {
+    "apple_id": null,
+    "artist_id": "bbc04154-1fd4-4e3f-a527-34884b07deb3",
+    "barcode": null,
+    "catalog_number": null,
+    "confidence": "needs_review",
+    "country": null,
+    "created_at": "2026-10-30T21:26:00.19732+00:00",
+    "deezer_id": null,
+    "discogs_id": null,
+    "edition": "original",
+    "id": "36456a57-1b8a-4344-8923-6f7fefddf55c",
+    "label": null,
+    "mbid": null,
+    "release_date": null,
+    "release_status": null,
+    "release_type": "album",
+    "release_year": null,
+    "spotify_id": null,
+    "status": "needs_review",
+    "title": "TAKE TIME",
+    "updated_at": "2026-10-30T21:26:00.19732+00:00"
+  },
+  "tracks": [
+    {
+      "apple_id": null,
+      "artist_id": "bbc04154-1fd4-4e3f-a527-34884b07deb3",
+      "confidence": "needs_review",
+      "created_at": "2026-10-30T21:26:00.19732+00:00",
+      "deezer_id": null,
+      "disc_number": 1,
+      "duration_ms": null,
+      "id": "6a9bb011-2356-4176-a963-2dc1d3953aa9",
+      "isrc": null,
+      "mbid": null,
+      "release_id": "36456a57-1b8a-4344-8923-6f7fefddf55c",
+      "spotify_id": null,
+      "status": "needs_review",
+      "title": "Heartbreak Anniversary",
+      "track_number": null,
+      "updated_at": "2026-10-30T21:26:00.19732+00:00"
+    }
+  ],
+  "verifications": []
+}

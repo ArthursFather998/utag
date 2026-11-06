@@ -94,7 +94,7 @@ def _load_tracks():
     offset = 0
     while True:
         r = requests.get(
-            f"{SUPABASE_URL}/rest/v1/tracks",
+            f"{SUPABASE_URL}/rest/v1/splotify_tracks",
             params={"select": "id,title,artist_id,release_id", "limit": 1000, "offset": offset},
             headers=headers, timeout=60,
         )
@@ -115,7 +115,7 @@ def _artist_name(artist_id, headers):
         return _ARTIST_CACHE[artist_id]
     name = ""
     ar = requests.get(
-        f"{SUPABASE_URL}/rest/v1/artists",
+        f"{SUPABASE_URL}/rest/v1/splotify_artists",
         params={"select": "canonical_name", "id": f"eq.{artist_id}"},
         headers=headers, timeout=30,
     )
@@ -130,7 +130,7 @@ def _release_title(release_id, headers):
         return _RELEASE_CACHE[release_id]
     title = ""
     rr = requests.get(
-        f"{SUPABASE_URL}/rest/v1/releases",
+        f"{SUPABASE_URL}/rest/v1/splotify_releases",
         params={"select": "title", "id": f"eq.{release_id}"},
         headers=headers, timeout=30,
     )
@@ -147,13 +147,21 @@ def _headers():
     return {"apikey": anon, "Authorization": f"Bearer {anon}"}
 
 
+def _audio_headers():
+    """Service key when available: splotify_track_audio has no anon read."""
+    service = os.environ.get("SUPABASE_SERVICE_KEY", "").strip()
+    if service:
+        return {"apikey": service, "Authorization": f"Bearer {service}"}
+    return _headers()
+
+
 def has_audio(track_id):
-    """True if UTAG already has any track_audio row for this track (anon read)."""
+    """True if UTAG already has any track_audio row for this track."""
     try:
         r = requests.get(
-            f"{SUPABASE_URL}/rest/v1/track_audio",
+            f"{SUPABASE_URL}/rest/v1/splotify_track_audio",
             params={"select": "id", "track_id": f"eq.{track_id}", "limit": 1},
-            headers=_headers(), timeout=30,
+            headers=_audio_headers(), timeout=30,
         )
         return r.ok and bool(r.json())
     except Exception:
@@ -214,7 +222,7 @@ def link_and_insert(mega_path, track_id, file_size, dry_run):
         "status": "available",
     }
     r = requests.post(
-        f"{SUPABASE_URL}/rest/v1/track_audio",
+        f"{SUPABASE_URL}/rest/v1/splotify_track_audio",
         headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
         json=row, timeout=30,
     )

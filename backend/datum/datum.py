@@ -443,7 +443,7 @@ def lookup_utag_track(artist: str, title: str) -> str | None:
     headers = {"apikey": anon, "Authorization": f"Bearer {anon}"}
     try:
         r = requests.get(
-            f"{supabase_base()}/rest/v1/artists",
+            f"{supabase_base()}/rest/v1/splotify_artists",
             params={"select": "id,canonical_name", "canonical_name": f"ilike.{artist}"},
             headers=headers, timeout=15,
         )
@@ -453,7 +453,7 @@ def lookup_utag_track(artist: str, title: str) -> str | None:
             return None
         aid = artists[0]["id"]
         r = requests.get(
-            f"{supabase_base()}/rest/v1/tracks",
+            f"{supabase_base()}/rest/v1/splotify_tracks",
             params={"select": "id,title", "artist_id": f"eq.{aid}", "limit": 500},
             headers=headers, timeout=15,
         )
@@ -539,7 +539,7 @@ def link_mega_existing(mega_path, track_id, source_url, source="backup"):
         "status": "available",
     }
     r = requests.post(
-        f"{supabase_base()}/rest/v1/track_audio",
+        f"{supabase_base()}/rest/v1/splotify_track_audio",
         headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
         json=row, timeout=30,
     )
@@ -598,7 +598,7 @@ def upload_to_mega(local_path, track_id, source_url, source="datum", artist="", 
         "status": "available",
     }
     r = requests.post(
-        f"{supabase_base()}/rest/v1/track_audio",
+        f"{supabase_base()}/rest/v1/splotify_track_audio",
         headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
         json=row, timeout=30,
     )
@@ -606,7 +606,7 @@ def upload_to_mega(local_path, track_id, source_url, source="datum", artist="", 
         return storage_path
     if r.status_code in (409,):
         got = requests.get(
-            f"{supabase_base()}/rest/v1/track_audio",
+            f"{supabase_base()}/rest/v1/splotify_track_audio",
             params={"select": "storage_path", "storage_path": f"eq.{storage_path}"},
             headers=headers, timeout=15,
         )
@@ -658,7 +658,7 @@ def upload_to_central_memory(
         "status": "available",
     }
     r = requests.post(
-        f"{supabase_base()}/rest/v1/track_audio",
+        f"{supabase_base()}/rest/v1/splotify_track_audio",
         headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
         json=row, timeout=30,
     )
@@ -667,7 +667,7 @@ def upload_to_central_memory(
     # 23505 / 409: this exact link already exists. Fetch it and move on.
     if r.status_code in (409,):
         got = requests.get(
-            f"{supabase_base()}/rest/v1/track_audio",
+            f"{supabase_base()}/rest/v1/splotify_track_audio",
             params={"select": "storage_path", "storage_path": f"eq.{storage_path}"},
             headers=headers, timeout=15,
         )
@@ -696,7 +696,7 @@ def fetch_pending_jobs(limit: int = 50) -> list[dict[str, Any]]:
     if not headers:
         return []
     r = requests.get(
-        f"{supabase_base()}/rest/v1/datum_jobs",
+        f"{supabase_base()}/rest/v1/splotify_datum_jobs",
         params={"select": "*", "status": "eq.pending", "order": "created_at.asc", "limit": limit},
         headers=headers, timeout=30,
     )
@@ -709,7 +709,7 @@ def update_job(job_id: str, patch: dict[str, Any]) -> None:
     if not headers:
         return
     r = requests.patch(
-        f"{supabase_base()}/rest/v1/datum_jobs",
+        f"{supabase_base()}/rest/v1/splotify_datum_jobs",
         params={"id": f"eq.{job_id}"},
         headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
         json={**patch, "updated_at": _now()}, timeout=30,
@@ -840,7 +840,7 @@ def _create_datum_job(artist: str, title: str, track_id: str, album: str = "") -
     if not headers:
         return None
     r = requests.post(
-        f"{supabase_base()}/rest/v1/datum_jobs",
+        f"{supabase_base()}/rest/v1/splotify_datum_jobs",
         headers={**headers, "Content-Type": "application/json", "Prefer": "return=representation"},
         json={"artist": artist, "title": title, "album": album, "utag_track_id": track_id, "status": "pending"},
         timeout=30,
@@ -899,12 +899,13 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, 
     anon = os.environ.get("UTAG_SUPABASE_ANON_KEY", "").strip()
     read_headers = {"apikey": anon, "Authorization": f"Bearer {anon}"} if anon else headers
     try:
-        artists = _paginated_get("artists", {"select": "id,canonical_name"}, read_headers)
-        tracks = _paginated_get("tracks", {"select": "id,artist_id,title,release_id"}, read_headers)
-        releases = {str(r["id"]): str(r.get("title") or "") for r in _paginated_get("releases", {"select": "id,title"}, read_headers)}
-        audio_rows = _paginated_get("track_audio", {"select": "track_id"}, read_headers)
+        artists = _paginated_get("splotify_artists", {"select": "id,canonical_name"}, read_headers)
+        tracks = _paginated_get("splotify_tracks", {"select": "id,artist_id,title,release_id"}, read_headers)
+        releases = {str(r["id"]): str(r.get("title") or "") for r in _paginated_get("splotify_releases", {"select": "id,title"}, read_headers)}
+        # track_audio has no anon read (revoked Oct 31); service key only.
+        audio_rows = _paginated_get("splotify_track_audio", {"select": "track_id"}, headers)
         all_jobs = _paginated_get(
-            "datum_jobs",
+            "splotify_datum_jobs",
             {"select": "id,utag_track_id,status,updated_at"},
             headers,
         )

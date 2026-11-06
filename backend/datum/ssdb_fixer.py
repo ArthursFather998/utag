@@ -227,7 +227,7 @@ def fetch_utag_track(track_id):
     if track_id in _UTAG_TRACK_CACHE:
         return _UTAG_TRACK_CACHE[track_id]
     h = _headers()
-    tr = requests.get(f"{SUPABASE_URL}/rest/v1/tracks",
+    tr = requests.get(f"{SUPABASE_URL}/rest/v1/splotify_tracks",
                       params={"select": "id,title,artist_id,release_id,confidence,track_number,disc_number",
                               "id": f"eq.{track_id}"}, headers=h, timeout=30)
     if not tr.ok or not tr.json():
@@ -247,7 +247,7 @@ def fetch_utag_track(track_id):
             # only if we need it for a year proposal, which utag-only
             # never does (year is unknown there), so keep it blank.
         else:
-            rr = requests.get(f"{SUPABASE_URL}/rest/v1/releases",
+            rr = requests.get(f"{SUPABASE_URL}/rest/v1/splotify_releases",
                               params={"select": "id,title,release_year", "id": f"eq.{rid}"},
                               headers=h, timeout=30)
             if rr.ok and rr.json():
@@ -258,7 +258,7 @@ def fetch_utag_track(track_id):
         if aid in _ac:
             artist = {"id": aid, "canonical_name": _ac[aid]}
         else:
-            ar = requests.get(f"{SUPABASE_URL}/rest/v1/artists",
+            ar = requests.get(f"{SUPABASE_URL}/rest/v1/splotify_artists",
                               params={"select": "id,canonical_name", "id": f"eq.{aid}"},
                               headers=h, timeout=30)
             if ar.ok and ar.json():

@@ -67,13 +67,13 @@ class TestUtagPass(unittest.TestCase):
         except Exception:
             pass
     def _fake_get(self, url, params=None, **kw):
-        if "/tracks" in url:
+        if "splotify_tracks" in url:
             return FakeResp([{"id": "t1", "title": "Light Switch", "artist_id": "a1",
                               "release_id": "r1", "confidence": "verified",
                               "track_number": 1, "disc_number": 1}])
-        if "/releases" in url:
+        if "splotify_releases" in url:
             return FakeResp([{"id": "r1", "title": "Light Switch", "release_year": 2022}])
-        if "/artists" in url:
+        if "splotify_artists" in url:
             return FakeResp([{"id": "a1", "canonical_name": "Charlie Puth"}])
         return FakeResp([])
 
@@ -92,12 +92,12 @@ class TestUtagPass(unittest.TestCase):
     @mock.patch("ssdb_fixer.requests.get")
     def test_needs_review_utag_proposes_nothing(self, mock_get):
         def fake(url, params=None, **kw):
-            if "/tracks" in url:
+            if "splotify_tracks" in url:
                 return FakeResp([{"id": "t1", "title": "Song", "artist_id": "a1",
                                   "release_id": "r1", "confidence": "needs_review"}])
-            if "/releases" in url:
+            if "splotify_releases" in url:
                 return FakeResp([{"id": "r1", "title": "Album", "release_year": 2020}])
-            if "/artists" in url:
+            if "splotify_artists" in url:
                 return FakeResp([{"id": "a1", "canonical_name": "Artist"}])
             return FakeResp([])
         mock_get.side_effect = fake

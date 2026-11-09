@@ -522,7 +522,7 @@ def link_mega_existing(mega_path, track_id, source_url, source="backup"):
     link = (lk.stdout or "").strip().splitlines()[-1].strip() if lk.stdout else ""
     host = "mega" + "." + "nz"
     if lk.returncode != 0 or host not in link:
-        logger.error("rclone link failed for existing Mega file")
+        logger.error("rclone link failed for existing Mega file (%s): stdout=%s stderr=%s", lk.returncode, (lk.stdout or "")[-200:], (lk.stderr or "")[-300:])
         return None
     if not track_id:
         return f"mega:{mega_path}"
@@ -564,13 +564,13 @@ def _mega_upload(local_path, track_id, artist="", album="", title=""):
     cp = subprocess.run(["rclone", "copyto", str(local_path), dest],
                         capture_output=True, text=True, timeout=600)
     if cp.returncode != 0:
-        logger.error("rclone copyto to Mega failed")
+        logger.error("rclone copyto to Mega failed (%s): %s", cp.returncode, (cp.stderr or "")[-300:])
         return None, None
     lk = subprocess.run(["rclone", "link", dest], capture_output=True, text=True, timeout=120)
     link = (lk.stdout or "").strip().splitlines()[-1].strip() if lk.stdout else ""
     host = "mega" + "." + "nz"
     if lk.returncode != 0 or host not in link:
-        logger.error("rclone link failed")
+        logger.error("rclone link failed (%s): stdout=%s stderr=%s", lk.returncode, (lk.stdout or "")[-200:], (lk.stderr or "")[-300:])
         return None, None
     return mega_path, link
 

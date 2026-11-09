@@ -72,6 +72,7 @@ Run: python datum.py --help
 from __future__ import annotations
 
 import argparse
+import base64
 import hashlib
 import json
 import random
@@ -751,7 +752,7 @@ def ensure_utag_track_via_fixer(job: dict[str, Any]) -> str | None:
     return None
 
 
-def run_queue(base_dir: Path, upload: bool, force: bool = False) -> int:
+def run_queue(base_dir: Path, upload: bool, force: bool = False, fix: bool = True) -> int:
     """Work the datum_jobs queue, oldest first, one job at a time.
 
     For each job: look the song up in UTAG; if it is there, link the
@@ -786,7 +787,7 @@ def run_queue(base_dir: Path, upload: bool, force: bool = False) -> int:
             track_id = ensure_utag_track_via_fixer(job)
         if not track_id:
             update_job(job_id, {"status": "failed",
-                                "error": "Song is not in UTAG and no library entry could be created (check UTAG_SITE_PASSWORD)",
+                                "error": "Song is not in UTAG and the runner cannot create catalog entries (add the song to the catalog first)",
                                 "error_kind": "other"})
             continue
         url = str(job.get("source_url") or "").strip()
@@ -800,7 +801,7 @@ def run_queue(base_dir: Path, upload: bool, force: bool = False) -> int:
                 update_job(job_id, {"status": "failed", "error": "search returned no tracks", "error_kind": "search"})
                 continue
             url = found[0]["url"]
-        res = process_track(artist, title, url, base_dir, track_id, upload, source="datum", force=force, album=str(job.get("album") or ""))
+        res = process_track(artist, title, url, base_dir, track_id, upload, source="datum", force=force, album=str(job.get("album") or ""), fix=fix)
         if res["status"] == "ok":
             update_job(job_id, {"status": "done", "utag_track_id": track_id,
                                 "storage_path": res.get("storage_path"), "error": None, "error_kind": None})
@@ -852,7 +853,7 @@ def _create_datum_job(artist: str, title: str, track_id: str, album: str = "") -
     return rows[0] if rows else None
 
 
-def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, slow: bool = False) -> int:
+def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, slow: bool = False, fix: bool = True) -> int:
     """Cycling drip: fill UTAG artists with audio, lowest-filled first.
 
     Fast mode (the pipeline's default, 20 runners, 50 tracks each,
@@ -1007,7 +1008,7 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, 
                 attempted += 1
                 progress_this_cycle = True
             else:
-                res = process_track(artist, title, found[0]["url"], base_dir, track_id, upload, source="datum", album=str(track.get("_album") or ""))
+                res = process_track(artist, title, found[0]["url"], base_dir, track_id, upload, source="datum", album=str(track.get("_album") or ""), fix=fix)
                 attempted += 1
                 progress_this_cycle = True
                 if res["status"] == "ok":
@@ -1119,8 +1120,444 @@ def write_failures_local(failed: list[dict[str, Any]], path: str | Path = FAILED
 
 
 # --------------------------------------------------------------------- flows --
+# -------------------------------------------- fixer-before-upload (SSDB rule) --
+# Skyler's rule: anything uploaded into SSDB goes through the UTAG fixer,
+# and the metadata is fixed BEFORE the file enters Mega. The fixer
+# engine is the UTAG-backend Python port in ssdb_fixer.py (same chain,
+# order, and confidence caps as the browser fixer): library roster ->
+# UTAG DB -> Apple Music -> Deezer -> MusicBrainz. Corrected tags are
+# written into the file itself, and the DB row gets the same correction
+# (via utag-control `correct`, update by id), so Splotify and the file
+# agree. A fixer failure never blocks the upload/link: on any error
+# the file proceeds with the job's metadata and the failure is logged.
+
+_FIXER_ROSTER_CACHE = None
+
+
+def _fixer_roster():
+    """UTAG artist names for the fixer's roster pass, cached per run.
+    None when the roster cannot be fetched (the pass is skipped)."""
+    global _FIXER_ROSTER_CACHE
+    if _FIXER_ROSTER_CACHE is not None:
+        return _FIXER_ROSTER_CACHE
+    anon = os.environ.get("UTAG_SUPABASE_ANON_KEY", "").strip()
+    if not anon:
+        return None
+    try:
+        headers = {"apikey": anon, "Authorization": f"Bearer {anon}"}
+        names = _paginated_get("splotify_artists", {"select": "canonical_name"}, headers)
+        _FIXER_ROSTER_CACHE = [str(r.get("canonical_name") or "") for r in names if r.get("canonical_name")]
+    except Exception as e:
+        logger.warning("Could not fetch artist roster for fixer: %s", e)
+        return None
+    return _FIXER_ROSTER_CACHE
+
+
+def _sync_row_to_repo(table, entity_id):
+    """Best-effort mirror of utag-control's repo sync: commit the
+    changed row's JSON to data/<table>/<id>.json so the file library
+    tracks Supabase. Uses the workflow's GITHUB_TOKEN. A failed sync
+    never fails the correction itself (the export Action re-syncs
+    on the next push). Returns "ok" / "skipped" / "failed"."""
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    headers = _service_headers()
+    if not token or not headers:
+        return "skipped"
+    try:
+        r = requests.get(f"{supabase_base()}/rest/v1/{table}",
+                         params={"select": "*", "id": f"eq.{entity_id}"},
+                         headers=headers, timeout=30)
+        if not r.ok or not r.json():
+            return "failed"
+        row = r.json()[0]
+        content = base64.b64encode(
+            (json.dumps(row, indent=2, ensure_ascii=False) + "\n").encode()).decode()
+        api = f"https://api.github.com/repos/ArthursFather998/utag/contents/data/{table}/{entity_id}.json"
+        gh = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json",
+              "Content-Type": "application/json"}
+        sha = None
+        cur = requests.get(api, headers=gh, timeout=30)
+        if cur.ok:
+            sha = cur.json().get("sha")
+        elif cur.status_code != 404:
+            return "failed"
+        body = {"message": f"Sync {table}/{entity_id} via DATUM fixer", "content": content}
+        if sha:
+            body["sha"] = sha
+        res = requests.put(api, headers=gh, json=body, timeout=30)
+        return "ok" if res.ok else "failed"
+    except Exception as e:
+        logger.warning("Repo sync failed for %s/%s: %s", table, entity_id, e)
+        return "failed"
+
+
+def _utag_correct_field(entity_type, entity_id, field, new_value, note):
+    """Apply one field correction the way utag-control `correct` does
+    (update first, then the corrections row, then a best-effort repo
+    sync), but with the service key instead of the function: the
+    runner holds no admin JWT, and the deployed function no longer
+    accepts the site password (Phase 5, 2026-10-30). Returns True
+    on success."""
+    headers = _service_headers()
+    if not headers:
+        logger.warning("SUPABASE_SERVICE_KEY not set, cannot correct %s %s.%s",
+                       entity_type, entity_id, field)
+        return False
+    table = {"artist": "splotify_artists", "release": "splotify_releases",
+             "track": "splotify_tracks", "artwork": "splotify_artwork"}.get(entity_type)
+    if not table:
+        logger.error("Unknown entity_type for correction: %s", entity_type)
+        return False
+    try:
+        cur = requests.get(f"{supabase_base()}/rest/v1/{table}",
+                           params={"select": field, "id": f"eq.{entity_id}"},
+                           headers=headers, timeout=30)
+        old_value = ""
+        if cur.ok and cur.json():
+            v = cur.json()[0].get(field)
+            old_value = "" if v is None else str(v)
+        stored = new_value
+        if entity_type == "release" and field == "release_status" and new_value == "auto":
+            stored = None
+        patch = {field: stored, "updated_at": _now()}
+        upd = requests.patch(f"{supabase_base()}/rest/v1/{table}",
+                             params={"id": f"eq.{entity_id}"},
+                             headers={**headers, "Content-Type": "application/json",
+                                      "Prefer": "return=representation"},
+                             json=patch, timeout=30)
+        if not upd.ok:
+            logger.error("Correction update failed for %s %s.%s: %s %s",
+                         entity_type, entity_id, field, upd.status_code, upd.text[:200])
+            return False
+        corr = {"entity_type": entity_type, "entity_id": str(entity_id), "field": field,
+                "old_value": old_value,
+                "new_value": json.dumps(stored) if isinstance(stored, list) else str(stored if stored is not None else ""),
+                "source": "manual", "note": note}
+        ins = requests.post(f"{supabase_base()}/rest/v1/splotify_corrections",
+                            headers={**headers, "Content-Type": "application/json",
+                                     "Prefer": "return=representation"},
+                            json=corr, timeout=30)
+        if not ins.ok:
+            logger.error("Corrections row insert failed for %s %s.%s: %s %s",
+                         entity_type, entity_id, field, ins.status_code, ins.text[:200])
+            return False
+        _sync_row_to_repo(table, str(entity_id))
+        return True
+    except Exception as e:
+        logger.error("Correction failed for %s %s.%s: %s", entity_type, entity_id, field, e)
+        return False
+
+
+def _artist_name_taken(name, exclude_id):
+    """True when another artist already has this canonical name
+    (case-insensitive). A rename onto an existing artist is a merge,
+    which only the server `correct` action does — the runner must
+    not auto-apply it."""
+    headers = _service_headers()
+    if not headers:
+        return False
+    try:
+        esc = str(name).replace("\\", "\\\\").replace("%", "\\%").replace("_", "\\_")
+        r = requests.get(f"{supabase_base()}/rest/v1/splotify_artists",
+                         params={"select": "id", "canonical_name": f"ilike.{esc}",
+                                 "id": f"neq.{exclude_id}", "limit": 1},
+                         headers=headers, timeout=30)
+        return bool(r.ok and r.json())
+    except Exception:
+        return False
+
+
+def apply_fixer_corrections(track_id, final, proposals):
+    """Apply the fixer's chosen corrections to the DB row, one
+    `correct` call per changed field. Only fields that differ from
+    the stored row are sent. Returns the list of fields that failed
+    to apply (empty when all succeeded)."""
+    try:
+        import ssdb_fixer as fx
+        utag = fx.fetch_utag_track(track_id)
+    except Exception as e:
+        logger.error("Could not fetch UTAG row for fixer corrections [%s]: %s", track_id, e)
+        return ["fetch"]
+    if not utag:
+        logger.error("No UTAG row for fixer corrections [%s]", track_id)
+        return ["fetch"]
+    db = {
+        "title": str((utag.get("track") or {}).get("title") or ""),
+        "artist": str((utag.get("artist") or {}).get("canonical_name") or ""),
+        "album": str((utag.get("release") or {}).get("title") or ""),
+        "year": str((utag.get("release") or {}).get("release_year") or ""),
+        "track_no": int(((utag.get("track") or {}).get("track_number") or 0) or 0),
+    }
+    conf_by_field = {p.get("field"): p for p in proposals}
+    targets = []
+    if final.get("title") and final["title"] != db["title"]:
+        targets.append(("track", track_id, "title", final["title"], "title"))
+    if final.get("artist") and final["artist"] != db["artist"]:
+        aid = (utag.get("artist") or {}).get("id")
+        if aid:
+            targets.append(("artist", aid, "canonical_name", final["artist"], "artist"))
+    if final.get("album") and final["album"] != db["album"]:
+        rid = (utag.get("release") or {}).get("id")
+        if rid:
+            targets.append(("release", rid, "title", final["album"], "album"))
+    if final.get("year") and str(final["year"]) != db["year"]:
+        rid = (utag.get("release") or {}).get("id")
+        if rid:
+            targets.append(("release", rid, "release_year", str(final["year"]), "year"))
+    if final.get("track_no") and int(final["track_no"]) != db["track_no"]:
+        targets.append(("track", track_id, "track_number", int(final["track_no"]), "trackNo"))
+    # Artist renames are all-or-nothing per track: if the corrected
+    # name already belongs to another artist, that is a merge (only
+    # the server `correct` action does merges). Nothing is applied;
+    # the caller routes the whole item to Review instead.
+    for entity_type, entity_id, field, new_value, key in targets:
+        if entity_type == "artist" and field == "canonical_name":
+            if _artist_name_taken(new_value, entity_id):
+                logger.warning("Artist rename %r collides with an existing artist, not auto-applying [%s]",
+                               new_value, track_id)
+                return ["artist_collision"]
+    failed = []
+    for entity_type, entity_id, field, new_value, key in targets:
+        p = conf_by_field.get(key) or {}
+        note = "DATUM fixer: %s confidence %s" % (p.get("source") or "UTAG", p.get("confidence") or "")
+        if not _utag_correct_field(entity_type, entity_id, field, new_value, note):
+            failed.append(key)
+    return failed
+
+
+_ADMIN_ID_CACHE = None
+
+
+def _admin_user_id():
+    """One admin user's auth id, for proposer_id on Review proposals
+    (NOT NULL + FK to auth.users). The runner acts for the admin's
+    own automation; the proposal reason names the DATUM fixer."""
+    global _ADMIN_ID_CACHE
+    if _ADMIN_ID_CACHE:
+        return _ADMIN_ID_CACHE
+    headers = _service_headers()
+    if not headers:
+        return None
+    try:
+        r = requests.get(f"{supabase_base()}/rest/v1/splotify_profiles",
+                         params={"select": "id", "role": "eq.admin",
+                                 "order": "created_at.asc", "limit": 1},
+                         headers=headers, timeout=30)
+        if r.ok and r.json():
+            _ADMIN_ID_CACHE = str(r.json()[0]["id"])
+            return _ADMIN_ID_CACHE
+    except Exception as e:
+        logger.warning("Could not fetch admin user id for Review proposals: %s", e)
+    return None
+
+
+def _log_activity(event, message, level="info"):
+    """Best-effort Activity row (mirrors utag-control logActivity).
+    Never blocks the work it describes."""
+    headers = _service_headers()
+    if not headers:
+        return
+    try:
+        requests.post(f"{supabase_base()}/rest/v1/splotify_activity_events",
+                      headers={**headers, "Content-Type": "application/json"},
+                      json={"user_id": None, "level": level, "event": event,
+                            "message": str(message)[:500], "details": {}},
+                      timeout=15)
+    except Exception:
+        pass
+
+
+def queue_fixer_review(track_id, before, final, proposals):
+    """Send the fixer's uncertain proposals to the Review queue
+    (splotify_metadata_proposals, status pending), one proposal per
+    entity with EDITABLE field names, so the app's approve flow can
+    apply them. The file keeps the job's metadata; nothing here is
+    applied. Returns True when at least one proposal was queued."""
+    headers = _service_headers()
+    admin_id = _admin_user_id()
+    if not headers or not admin_id:
+        logger.error("Cannot queue fixer Review for [%s]: no service key or admin user", track_id)
+        return False
+    # Group proposals by entity, translating fixer field names to the
+    # EDITABLE names the approve flow understands.
+    groups = {}
+    for p in proposals or []:
+        f, to = p.get("field"), p.get("to")
+        if to is None:
+            continue
+        if f == "title":
+            groups.setdefault(("track", track_id), {})["title"] = to
+        elif f == "trackNo":
+            try:
+                groups.setdefault(("track", track_id), {})["track_number"] = int(str(to).split("/")[0])
+            except ValueError:
+                continue
+        elif f == "artist":
+            utag = None
+            try:
+                import ssdb_fixer as fx
+                utag = fx.fetch_utag_track(track_id)
+            except Exception:
+                pass
+            aid = (utag or {}).get("artist", {}).get("id") if utag else None
+            if aid:
+                groups.setdefault(("artist", str(aid)), {})["canonical_name"] = to
+        elif f == "album":
+            utag = None
+            try:
+                import ssdb_fixer as fx
+                utag = fx.fetch_utag_track(track_id)
+            except Exception:
+                pass
+            rid = (utag or {}).get("release", {}).get("id") if utag else None
+            if rid:
+                groups.setdefault(("release", str(rid)), {})["title"] = to
+        elif f == "year":
+            utag = None
+            try:
+                import ssdb_fixer as fx
+                utag = fx.fetch_utag_track(track_id)
+            except Exception:
+                pass
+            rid = (utag or {}).get("release", {}).get("id") if utag else None
+            if rid:
+                groups.setdefault(("release", str(rid)), {})["release_year"] = str(to)
+    if not groups:
+        return False
+    queued = 0
+    for (entity_type, entity_id), fields in groups.items():
+        # Drop fields whose proposed value already matches the job's
+        # metadata (nothing to review).
+        before_map = {"title": before.get("title"), "track_number": before.get("track_no"),
+                      "canonical_name": before.get("artist"), "release_year": before.get("year")}
+        if entity_type == "release" and "title" in fields:
+            before_map["title"] = before.get("album")
+        fields = {k: v for k, v in fields.items()
+                  if str(v) != str(before_map.get(k) or "")}
+        if not fields:
+            continue
+        conf = ""
+        for p in proposals or []:
+            if p.get("to") in fields.values():
+                conf = " (%s confidence %s)" % (p.get("source") or "", p.get("confidence") or "")
+                break
+        row = {"entity_type": entity_type, "entity_id": entity_id,
+               "proposer_id": admin_id, "fields": fields,
+               "reason": "DATUM fixer%s: %s" % (conf, ", ".join(
+                   "%s -> %s" % (k, v) for k, v in fields.items())),
+               "status": "pending"}
+        try:
+            r = requests.post(f"{supabase_base()}/rest/v1/splotify_metadata_proposals",
+                              headers={**headers, "Content-Type": "application/json",
+                                       "Prefer": "return=representation"},
+                              json=row, timeout=30)
+            if r.ok:
+                queued += 1
+            else:
+                logger.error("Review proposal insert failed for %s %s: %s %s",
+                             entity_type, entity_id, r.status_code, r.text[:200])
+        except Exception as e:
+            logger.error("Review proposal insert failed for %s %s: %s", entity_type, entity_id, e)
+    if queued:
+        _log_activity("proposal_created",
+                      "DATUM fixer: %d proposal(s) for %s - %s need review"
+                      % (queued, before.get("artist"), before.get("title")))
+    return queued > 0
+
+
+def fix_metadata_before_upload(local_path, track_id, artist, album, title):
+    """Run the UTAG fixer audit on a freshly downloaded file and apply
+    the result before it enters Mega. Returns (artist, album, title)
+    to use for the Mega path (corrected when the fixer fixed them).
+
+    - Audit: ssdb_fixer in catalog mode, seeded with the job's known
+      metadata (never the raw YouTube title), roster pass when the
+      roster is available.
+    - status fixed: DB corrections via `correct` per changed field;
+      corrected tags written into the file.
+    - status review: proposals queued to Review; the file still gets
+      the DB's canonical tags written.
+    - status no_change: DB already right; the file still gets the
+      canonical tags (a fresh rip carries YouTube's tags).
+    - Any fixer error: logged, file proceeds with job metadata."""
+    try:
+        import ssdb_fixer as fx
+    except Exception as e:
+        logger.warning("ssdb_fixer unavailable, skipping fixer pass: %s", e)
+        return artist, album, title
+    try:
+        embedded = {"title": title, "artist": artist, "album": album or "",
+                    "genre": "", "year": "", "track_no": 0, "disc_no": 0}
+        # Fill gaps from the file's own tags (year / track number /
+        # genre only). The job's title/artist/album are the authority
+        # and are never overwritten by YouTube's tags.
+        try:
+            tags = fx.read_tags(local_path, album_folder=album or "")
+            for k in ("year", "track_no", "genre"):
+                if not embedded.get(k) and tags.get(k):
+                    embedded[k] = tags[k]
+        except Exception:
+            pass
+        result = fx.audit_file(embedded, track_id=track_id, roster=_fixer_roster(), mode="catalog")
+    except Exception as e:
+        logger.error("Fixer audit failed for %s - %s, uploading with job metadata: %s", artist, title, e)
+        return artist, album, title
+    proposals = result.get("proposals") or []
+    status = result.get("status") or "no_change"
+    final = {"title": title, "artist": artist, "album": album or "",
+             "year": embedded.get("year") or "", "track_no": embedded.get("track_no") or 0,
+             "disc_no": 1, "genre": embedded.get("genre") or ""}
+    # Only "fixed" proposals are applied. Uncertain ("review")
+    # proposals are never written into the file or the DB; they go
+    # to the Review queue and the file keeps the job's metadata.
+    if status == "fixed":
+        for p in proposals:
+            f = p.get("field")
+            if f in ("title", "artist", "album", "year"):
+                final[f] = p.get("to") or final[f]
+            elif f == "trackNo":
+                try:
+                    final["track_no"] = int(str(p.get("to") or 0).split("/")[0])
+                except ValueError:
+                    pass
+    if status == "fixed" and track_id:
+        failed = apply_fixer_corrections(track_id, final, proposals)
+        if failed:
+            if "artist_collision" in failed:
+                # Rename onto an existing artist is a merge: nothing
+                # was applied, the whole item goes to Review as-is.
+                queue_fixer_review(track_id, embedded, final, proposals)
+            else:
+                queue_fixer_review(track_id, embedded, final,
+                                   [{"field": k, "to": final.get(k), "confidence": 0,
+                                     "source": "DATUM fixer (DB correction failed)"} for k in failed])
+            # Any field the DB did not take keeps the job's value in
+            # the file too, so the file and the DB never diverge. An
+            # artist collision means nothing was applied at all.
+            job_values = {"title": title, "artist": artist, "album": album or "",
+                          "year": embedded.get("year") or "",
+                          "trackNo": embedded.get("track_no") or 0}
+            reset = list(job_values) if "artist_collision" in failed else failed
+            for k in reset:
+                if k == "trackNo":
+                    final["track_no"] = job_values["trackNo"]
+                elif k in job_values:
+                    final[k] = job_values[k]
+    elif status == "review" and track_id:
+        queue_fixer_review(track_id, embedded, final, proposals)
+    # The file always leaves with the final tags, even when the DB
+    # needed no correction: a fresh rip carries YouTube's tags.
+    try:
+        fx.write_tags(local_path, final)
+    except Exception as e:
+        logger.error("Could not write corrected tags for %s - %s: %s", artist, title, e)
+    logger.info("Fixer %s for %s - %s: %s", status, artist, title, proposals)
+    return final["artist"], final["album"], final["title"]
+
+
 def process_track(artist: str, title: str, url: str, base_dir: Path, track_id: str | None,
-                  upload: bool, source: str = "datum", force: bool = False, album: str = "") -> dict[str, Any]:
+                  upload: bool, source: str = "datum", force: bool = False, album: str = "",
+                  fix: bool = True) -> dict[str, Any]:
     """Rip one URL, record success or a recoverable failure. Never raises
     for a single-track failure; the caller decides whether to continue."""
     if not force and url in manifest_urls():
@@ -1139,6 +1576,9 @@ def process_track(artist: str, title: str, url: str, base_dir: Path, track_id: s
         record_failed({"artist": artist, "title": title, "url": url, "error": err,
                        "utag_track_id": track_id, "source": source})
         return {"status": "failed", "url": url, "error": err, "error_kind": classify_error(err)}
+    if fix and upload and os.environ.get("DATUM_STORAGE", "supabase").strip().lower() == "mega":
+        # SSDB rule: metadata is fixed before the file enters Mega.
+        artist, album, title = fix_metadata_before_upload(made, track_id, artist, album, title)
     if upload:
         storage_path = (upload_to_mega(made, track_id, url, source, artist, album, title) if os.environ.get("DATUM_STORAGE", "supabase").strip().lower() == "mega" else upload_to_central_memory(made, track_id, url, source))
         if storage_path is None:
@@ -1218,6 +1658,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--format", default=AUDIO_FORMAT)
     p.add_argument("--no-upload", action="store_true", help="Keep files local, do not upload to the bucket")
     p.add_argument("--force", action="store_true", help="Re-rip URLs already in the manifest")
+    p.add_argument("--no-fixer", action="store_true", help="Skip the fixer pass before upload (escape hatch; default is fixer on)")
     p.add_argument("--google-doc", action="store_true", help="Also write failures to a Google Doc (opt-in only)")
     p.add_argument("--recover", action="store_true", help="After ripping, run recovery.py on pending failures")
     args = p.parse_args(argv)
@@ -1228,10 +1669,11 @@ def main(argv: list[str] | None = None) -> int:
         return 1
     base_dir = Path(args.base_dir)
     upload = not args.no_upload
+    fix = not args.no_fixer
     if args.drip is not None:
-        return run_drip(args.drip, args.shard, args.shards, base_dir, upload, slow=args.slow)
+        return run_drip(args.drip, args.shard, args.shards, base_dir, upload, slow=args.slow, fix=fix)
     if args.queue:
-        return run_queue(base_dir, upload, force=args.force)
+        return run_queue(base_dir, upload, force=args.force, fix=fix)
     if args.discover:
         run_discover(args.num_artists, args.tracks_per_artist, base_dir, upload, args.google_doc, args.force)
     elif args.utag_list:

@@ -6,12 +6,12 @@
 #   can be started by hand. It works the pending datum_jobs queue,
 #   oldest first, then the runner is thrown away.
 # - drip: the fast cycling pipeline. 20 runners, 50 tracks per
-#   runner, manual runs only while Mega storage is being wired up, schedule to be restored after the Mega test, from the GitHub Actions
-#   tab. Each runner works a different artist shard, lowest-filled
+#   runner, runs hourly on schedule.
+#   Each runner works a different artist shard, lowest-filled
 #   artists first. Fast mode only picks tracks with no audio and
 #   no datum_job at all; a track that fails is saved for last,
 #   not retried next hour.
-# - drip-slow: the slow retry pass, manual runs only. One runner,
+# - drip-slow: the slow retry pass, runs every 6 hours on schedule. One runner,
 #   failed tracks only, with a much longer delay between tracks.
 #   If fast mode fails at scale, slow mode is how it retries.
 #
@@ -30,6 +30,9 @@
 name: DATUM
 
 on:
+  schedule:
+      - cron: "0 * * * *"
+          - cron: "0 */6 * * *"
   repository_dispatch:
     types: [datum-run]
   workflow_dispatch:
@@ -62,7 +65,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
-          pip install "yt-dlp[default]" requests
+          pip install "yt-dlp[default]" requests mutagen
 
       - name: Write YouTube cookies if secret is present
         run: |
@@ -99,7 +102,7 @@ jobs:
 
   drip:
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch'
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 * * * *')
     strategy:
       max-parallel: 20
       matrix:
@@ -120,7 +123,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
-          pip install "yt-dlp[default]" requests
+          pip install "yt-dlp[default]" requests mutagen
 
       - name: Install rclone and configure Mega remote
         run: |
@@ -159,7 +162,7 @@ jobs:
 
   drip-slow:
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch'
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 */6 * * *')
     steps:
       - uses: actions/checkout@v4
 
@@ -176,7 +179,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
-          pip install "yt-dlp[default]" requests
+          pip install "yt-dlp[default]" requests mutagen
 
       - name: Install rclone and configure Mega remote
         run: |

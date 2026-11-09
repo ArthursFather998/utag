@@ -32,7 +32,7 @@ name: DATUM
 on:
   schedule:
       - cron: "0 * * * *"
-          - cron: "0 */6 * * *"
+      - cron: "0 */6 * * *"
   repository_dispatch:
     types: [datum-run]
   workflow_dispatch:

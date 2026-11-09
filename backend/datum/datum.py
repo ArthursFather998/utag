@@ -486,8 +486,10 @@ def find_mega_file(artist, album, title):
 
     Checks, in order: SSDB/Artist/Album/Song.mp3 (the approved
     layout), SSDB/Album/Song.mp3 (the backup's current album-only
-    layout), then a normalized-title match inside the album folder
-    (handles punctuation / feat. differences). Never downloads.
+    layout), then a normalized-title match inside the album folder,
+    the artist folder (rips whose job had no album land directly
+    under the artist), and the album-only folder (handles
+    punctuation / feat. differences). Never downloads.
     """
     if shutil.which("rclone") is None:
         return None
@@ -498,7 +500,11 @@ def find_mega_file(artist, album, title):
         cp = subprocess.run(["rclone", "ls", f"{remote}:{cand}"], capture_output=True, text=True, timeout=60)
         if cp.returncode == 0 and (cp.stdout or "").strip():
             return cand
-    for folder in ([f"{root}/{_mega_clean_part(artist)}/{_mega_clean_part(album)}"] if album else []) + ([f"{root}/{_mega_clean_part(album)}"] if album else []):
+    folders = [f"{root}/{_mega_clean_part(artist)}"]
+    if album:
+        folders = [f"{root}/{_mega_clean_part(artist)}/{_mega_clean_part(album)}",
+                   f"{root}/{_mega_clean_part(album)}"] + folders
+    for folder in folders:
         cp = subprocess.run(["rclone", "lsjson", f"{remote}:{folder}"], capture_output=True, text=True, timeout=60)
         if cp.returncode != 0:
             continue
@@ -798,6 +804,7 @@ def run_queue(base_dir: Path, upload: bool, force: bool = False, fix: bool = Tru
                 found = []
                 logger.error("Search failed for %s - %s: %s", artist, title, exc)
             if not found:
+                logger.error("Search returned no tracks for %s - %s", artist, title)
                 update_job(job_id, {"status": "failed", "error": "search returned no tracks", "error_kind": "search"})
                 continue
             url = found[0]["url"]
@@ -1002,6 +1009,7 @@ def run_drip(batch: int, shard: int, shards: int, base_dir: Path, upload: bool, 
                 found = []
                 logger.error("Search failed for %s - %s: %s", artist, title, exc)
             if not found:
+                logger.error("Search returned no tracks for %s - %s", artist, title)
                 update_job(job_id, {"status": "failed", "error": "search returned no tracks", "error_kind": "search"})
                 failed += 1
                 consecutive += 1

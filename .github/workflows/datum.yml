@@ -83,7 +83,7 @@ jobs:
         run: |
           curl https://rclone.org/install.sh | sudo bash
           OBSCURED=$(rclone obscure "$MEGA_PASSWORD")
-          rclone config create mega-remote mega user "$MEGA_EMAIL" pass "$OBSCURED"
+          rclone config create mega-remote mega -- user "$MEGA_EMAIL" pass "$OBSCURED"
           rclone mkdir mega-remote:DATUM/SSDB || true
           rclone lsd mega-remote:DATUM/SSDB || echo "SSDB listing check failed, continuing - upload will create the folder"
         env:
@@ -130,7 +130,7 @@ jobs:
         run: |
           curl https://rclone.org/install.sh | sudo bash
           OBSCURED=$(rclone obscure "$MEGA_PASSWORD")
-          rclone config create mega-remote mega user "$MEGA_EMAIL" pass "$OBSCURED"
+          rclone config create mega-remote mega -- user "$MEGA_EMAIL" pass "$OBSCURED"
           rclone mkdir mega-remote:DATUM/SSDB || true
           rclone lsd mega-remote:DATUM/SSDB || echo "SSDB listing check failed, continuing - upload will create the folder"
         env:
@@ -186,7 +186,7 @@ jobs:
         run: |
           curl https://rclone.org/install.sh | sudo bash
           OBSCURED=$(rclone obscure "$MEGA_PASSWORD")
-          rclone config create mega-remote mega user "$MEGA_EMAIL" pass "$OBSCURED"
+          rclone config create mega-remote mega -- user "$MEGA_EMAIL" pass "$OBSCURED"
           rclone mkdir mega-remote:DATUM/SSDB || true
           rclone lsd mega-remote:DATUM/SSDB || echo "SSDB listing check failed, continuing - upload will create the folder"
         env:

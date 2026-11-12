@@ -424,11 +424,26 @@ def download_track(
     song; the cookie attempt still runs first, so fresh cookies keep
     giving full quality. Other errors (private, unavailable,
     network) still raise immediately.
+
+    Alternate-clients attempt, added 2026-11-11: the POT provider
+    server (bgutil-ytdlp-pot-provider 2.0.2, started in every job
+    since ebb7ce542) did NOT fix the runner — the token flow never
+    triggers with the default clients, because the bot check fires
+    on the initial page/player request before any token is needed.
+    The provider's own docs say to try different player clients
+    when the token flow never triggers, and in the sandbox the
+    mweb/tv/web_safari clients were the only ones that made yt-dlp
+    actually request a PO token from the server (the web client
+    alone did not). So after the web-only attempt, one more try
+    with those clients, no cookies; the plugin picks the running
+    token server up automatically. Still a guess — the docs say a
+    token does not always beat the block on datacenter IPs.
     """
     attempts = [
         ("bestaudio/best", ["android", "web"], True),
         ("bestaudio/best", ["android", "web"], False),
         ("best", ["web"], False),
+        ("best", ["mweb", "tv", "web_safari"], False),
         ("best", None, False),
     ]
     last_err = None

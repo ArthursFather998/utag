@@ -41,6 +41,24 @@ class TestDownloadTrackFallback(unittest.TestCase):
                 datum.download_track(TRACK, datum.Path("/tmp/dl"))
         self.assertIn("Sign in to confirm you", str(ctx.exception))
 
+    def test_bot_check_reaches_mweb_tv_web_safari_attempt(self):
+        """After the android+web and web-only attempts bot-check, the
+        alternate-clients attempt (mweb, tv, web_safari) runs next."""
+        calls = []
+
+        def fake_try(track, download_dir, audio_format, format_str, player_clients, use_cookies=True):
+            calls.append((format_str, tuple(player_clients) if player_clients else None, use_cookies))
+            if len(calls) < 4:
+                raise RuntimeError(BOT_CHECK)
+            return download_dir / "song.mp3"
+
+        with mock.patch("datum._try_download_once", side_effect=fake_try):
+            out = datum.download_track(TRACK, datum.Path("/tmp/dl"))
+        self.assertEqual(str(out), "/tmp/dl/song.mp3")
+        self.assertEqual(calls[2], ("best", ("web",), False))
+        self.assertEqual(calls[3], ("best", ("mweb", "tv", "web_safari"), False))
+        self.assertEqual(len(calls), 4)
+
     def test_format_fallback_still_works(self):
         """'Requested format is not available' still falls through to the next format."""
         calls = []

@@ -346,8 +346,14 @@ def search_youtube_tracks(search_term: str, num_results: int = 5) -> list[dict[s
     return tracks
 
 
-def _try_download_once(track, download_dir, audio_format, format_str, player_clients):
-    """One yt-dlp attempt with a given format string and clients."""
+def _try_download_once(track, download_dir, audio_format, format_str, player_clients, use_cookies=True):
+    """One yt-dlp attempt with a given format string and clients.
+
+    use_cookies=False skips cookies.txt even when it exists: a stale
+    YouTube session cookie makes YouTube answer the player request
+    with the "Sign in to confirm you're not a bot" page even for the
+    android client, which works fine without cookies.
+    """
     url = track.get("url")
     if not url:
         raise ValueError("Track does not contain a URL")
@@ -369,7 +375,7 @@ def _try_download_once(track, download_dir, audio_format, format_str, player_cli
     }
     if player_clients:
         options["extractor_args"] = {"youtube": {"player_client": player_clients}}
-    if Path("cookies.txt").is_file():
+    if use_cookies and Path("cookies.txt").is_file():
         options["cookiefile"] = "cookies.txt"
     with yt_dlp.YoutubeDL(options) as ydl:
         ydl.download([url])
@@ -403,24 +409,40 @@ def download_track(
     yt-dlp's default clients. Any other error (bot check, private,
     unavailable, network) is raised immediately, not retried, so
     a real failure does not burn three downloads.
+
+    Bot-check fallback, added 2026-11-11: from ~08:47Z Nov 11 every
+    runner download failed with "Sign in to confirm you're not a
+    bot" even though the same videos downloaded fine hours earlier
+    (drip-slow ripped 46 at 05:33Z) and search still works. The
+    android client downloads the same video cleanly WITHOUT cookies
+    (verified in the sandbox: default clients fail the same way, the
+    android client succeeds), so a stale YOUTUBE_COOKIES session is
+    poisoning the player request. On a bot-check error the download
+    is retried without cookies, android+web first, then web only,
+    then yt-dlp's defaults. The no-cookie android path only yields
+    format 18 (lower quality) but a song at that quality beats no
+    song; the cookie attempt still runs first, so fresh cookies keep
+    giving full quality. Other errors (private, unavailable,
+    network) still raise immediately.
     """
     attempts = [
-        ("bestaudio/best", ["android", "web"]),
-        ("best", ["web"]),
-        ("best", None),
+        ("bestaudio/best", ["android", "web"], True),
+        ("bestaudio/best", ["android", "web"], False),
+        ("best", ["web"], False),
+        ("best", None, False),
     ]
     last_err = None
-    for format_str, clients in attempts:
+    for format_str, clients, use_cookies in attempts:
         try:
-            return _try_download_once(track, download_dir, audio_format, format_str, clients)
+            return _try_download_once(track, download_dir, audio_format, format_str, clients, use_cookies)
         except Exception as exc:
             last_err = exc
             msg = str(exc)
-            if "Requested format is not available" not in msg:
-                raise
-            logger.warning("Format %s not available for %s, trying fallback %s",
-                           format_str, track.get("url"), "next format")
-            continue
+            if "Requested format is not available" in msg or "Sign in to confirm you" in msg:
+                logger.warning("Download attempt %s %s (cookies=%s) failed: %s; trying next fallback",
+                               format_str, clients, use_cookies, msg.splitlines()[0] if msg else exc)
+                continue
+            raise
     raise RuntimeError(str(last_err)) from last_err
 
 

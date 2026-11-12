@@ -18,10 +18,11 @@
 #
 # Audio is uploaded to the private Supabase bucket and linked in
 # UTAG; nothing audio is kept on the runner or pushed to the repo.
-# The schedule only does useful work once YOUTUBE_COOKIES is set
-# and the audio bucket has room for the full library; until then,
-# hourly runs will fail tracks into the slow pool instead of
-# linking them.
+# YouTube downloads need either fresh YOUTUBE_COOKIES or the POT
+# provider server started in each job below (bgutil-ytdlp-pot-provider
+# 2.0.2): the server mints proof-of-origin tokens so YouTube accepts
+# the runner's requests. If the server is down and the cookies are
+# stale, every download fails the bot check and shards rip 0.
 #
 # Secrets (repo Settings > Secrets and variables > Actions, never
 # in code): UTAG_SUPABASE_URL, UTAG_SUPABASE_ANON_KEY,
@@ -67,6 +68,32 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           pip install "yt-dlp[default]" requests mutagen
+
+      - name: Start POT provider server (YouTube bot-check tokens)
+        run: |
+          # BgUtils POT provider 2.0.2: a local token server that makes
+          # YouTube treat runner downloads as legitimate. Without it,
+          # every download fails with "Sign in to confirm you're not
+          # a bot" (stale YOUTUBE_COOKIES, flagged runner IPs).
+          # The yt-dlp plugin picks the server up automatically on
+          # 127.0.0.1:4416; no datum.py change needed.
+          pip install "bgutil-ytdlp-pot-provider==2.0.2"
+          git clone --single-branch --branch 2.0.2 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git pot-provider
+          cd pot-provider/server
+          deno install --allow-scripts=npm:canvas --frozen
+          cd node_modules
+          nohup deno run --allow-env --allow-net --allow-ffi=. --allow-read=. ../src/main.ts > ../../pot-server.log 2>&1 &
+          cd ../..
+          # Fail fast if the server is not listening: without it the
+          # downloads fail exactly like they do now, so a dead server
+          # must be visible instead of a quiet 0-track run.
+          for i in $(seq 1 30); do
+            code=$(curl -s -m 2 -o /dev/null -w "%{http_code}" http://127.0.0.1:4416/ || true)
+            if [ -n "$code" ] && [ "$code" != "000" ]; then echo "POT server up (HTTP $code)"; break; fi
+            sleep 1
+          done
+          code=$(curl -s -m 2 -o /dev/null -w "%{http_code}" http://127.0.0.1:4416/ || true)
+          if [ -z "$code" ] || [ "$code" = "000" ]; then echo "POT server did not start"; tail -30 pot-server.log; exit 1; fi
 
       - name: Write YouTube cookies if secret is present
         run: |
@@ -126,6 +153,32 @@ jobs:
           sudo apt-get install -y ffmpeg
           pip install "yt-dlp[default]" requests mutagen
 
+      - name: Start POT provider server (YouTube bot-check tokens)
+        run: |
+          # BgUtils POT provider 2.0.2: a local token server that makes
+          # YouTube treat runner downloads as legitimate. Without it,
+          # every download fails with "Sign in to confirm you're not
+          # a bot" (stale YOUTUBE_COOKIES, flagged runner IPs).
+          # The yt-dlp plugin picks the server up automatically on
+          # 127.0.0.1:4416; no datum.py change needed.
+          pip install "bgutil-ytdlp-pot-provider==2.0.2"
+          git clone --single-branch --branch 2.0.2 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git pot-provider
+          cd pot-provider/server
+          deno install --allow-scripts=npm:canvas --frozen
+          cd node_modules
+          nohup deno run --allow-env --allow-net --allow-ffi=. --allow-read=. ../src/main.ts > ../../pot-server.log 2>&1 &
+          cd ../..
+          # Fail fast if the server is not listening: without it the
+          # downloads fail exactly like they do now, so a dead server
+          # must be visible instead of a quiet 0-track run.
+          for i in $(seq 1 30); do
+            code=$(curl -s -m 2 -o /dev/null -w "%{http_code}" http://127.0.0.1:4416/ || true)
+            if [ -n "$code" ] && [ "$code" != "000" ]; then echo "POT server up (HTTP $code)"; break; fi
+            sleep 1
+          done
+          code=$(curl -s -m 2 -o /dev/null -w "%{http_code}" http://127.0.0.1:4416/ || true)
+          if [ -z "$code" ] || [ "$code" = "000" ]; then echo "POT server did not start"; tail -30 pot-server.log; exit 1; fi
+
       - name: Install rclone and configure Mega remote
         run: |
           curl https://rclone.org/install.sh | sudo bash
@@ -181,6 +234,32 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           pip install "yt-dlp[default]" requests mutagen
+
+      - name: Start POT provider server (YouTube bot-check tokens)
+        run: |
+          # BgUtils POT provider 2.0.2: a local token server that makes
+          # YouTube treat runner downloads as legitimate. Without it,
+          # every download fails with "Sign in to confirm you're not
+          # a bot" (stale YOUTUBE_COOKIES, flagged runner IPs).
+          # The yt-dlp plugin picks the server up automatically on
+          # 127.0.0.1:4416; no datum.py change needed.
+          pip install "bgutil-ytdlp-pot-provider==2.0.2"
+          git clone --single-branch --branch 2.0.2 https://github.com/Brainicism/bgutil-ytdlp-pot-provider.git pot-provider
+          cd pot-provider/server
+          deno install --allow-scripts=npm:canvas --frozen
+          cd node_modules
+          nohup deno run --allow-env --allow-net --allow-ffi=. --allow-read=. ../src/main.ts > ../../pot-server.log 2>&1 &
+          cd ../..
+          # Fail fast if the server is not listening: without it the
+          # downloads fail exactly like they do now, so a dead server
+          # must be visible instead of a quiet 0-track run.
+          for i in $(seq 1 30); do
+            code=$(curl -s -m 2 -o /dev/null -w "%{http_code}" http://127.0.0.1:4416/ || true)
+            if [ -n "$code" ] && [ "$code" != "000" ]; then echo "POT server up (HTTP $code)"; break; fi
+            sleep 1
+          done
+          code=$(curl -s -m 2 -o /dev/null -w "%{http_code}" http://127.0.0.1:4416/ || true)
+          if [ -z "$code" ] || [ "$code" = "000" ]; then echo "POT server did not start"; tail -30 pot-server.log; exit 1; fi
 
       - name: Install rclone and configure Mega remote
         run: |

@@ -1,0 +1,61 @@
+# Artwork sweep: no release without a cover, always running.
+#
+# Hourly, takes the next batch of releases with no artwork rows and
+# tries Apple Music, Deezer, Cover Art Archive, then Wikipedia, in
+# that order. A verified cover is written as the release's canonical
+# artwork row, plus its data/splotify_artwork/<id>.json file so the
+# library views rebuild from it. A release nothing finds is recorded
+# in backend/artwork-sweep-state.json and left alone for a week, so
+# the sweep never hammers the same dead ends every hour. When the
+# backlog hits zero, runs keep firing hourly and exit at once, which
+# is how new releases get covered as they arrive.
+#
+# Secrets (repo Settings > Secrets and variables > Actions, never
+# in code): UTAG_SUPABASE_URL, SUPABASE_SERVICE_KEY.
+name: Artwork sweep
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: "Releases to work per run"
+        required: false
+        default: "100"
+
+concurrency:
+  group: artwork-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Sweep the next batch
+        run: node backend/artwork-sweep.mjs --batch "${{ inputs.batch || '100' }}"
+        env:
+          SUPABASE_URL: ${{ secrets.UTAG_SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+
+      - name: Commit state and new artwork files
+        run: |
+          git config user.name "artwork-sweep"
+          git config user.email "artwork-sweep@users.noreply.github.com"
+          git add backend/artwork-sweep-state.json data/splotify_artwork/
+          if ! git diff --cached --quiet; then
+            git commit -m "Artwork sweep: $(node -e "const s=require('./backend/artwork-sweep-state.json'); console.log(s.stats.found+' covers, '+Object.keys(s.failed).length+' still missing')")"
+            git pull --rebase
+            git push
+          else
+            echo "No sweep changes to commit."
+          fi

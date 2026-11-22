@@ -22,7 +22,7 @@ on:
       batch:
         description: "Releases to work per run"
         required: false
-        default: "100"
+        default: "500"
 
 concurrency:
   group: artwork-sweep
@@ -42,7 +42,7 @@ jobs:
           node-version: "22"
 
       - name: Sweep the next batch
-        run: node backend/artwork-sweep.mjs --batch "${{ inputs.batch || '100' }}"
+        run: node backend/artwork-sweep.mjs --batch "${{ inputs.batch || '500' }}"
         env:
           SUPABASE_URL: ${{ secrets.UTAG_SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}

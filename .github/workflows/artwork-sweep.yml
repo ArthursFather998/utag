@@ -51,7 +51,7 @@ jobs:
         run: |
           git config user.name "artwork-sweep"
           git config user.email "artwork-sweep@users.noreply.github.com"
-          git add backend/artwork-sweep-state.json data/splotify_artwork/
+          git add backend/artwork-sweep-state.json data/splotify_artwork/ data/artists/
           if ! git diff --cached --quiet; then
             git commit -m "Artwork sweep: $(node -e "const s=require('./backend/artwork-sweep-state.json'); console.log(s.stats.found+' covers, '+Object.keys(s.failed).length+' still missing')")"
             git pull --rebase

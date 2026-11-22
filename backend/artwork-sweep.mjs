@@ -8,6 +8,11 @@
 // finds is recorded and left alone for a week before it is retried,
 // so the sweep never hammers the same dead ends every hour.
 //
+// Each run also fills artist photos for artists missing one (Deezer,
+// then Wikipedia), written to splotify_artists.image_url. The app
+// shows the artist's photo when a release has no cover, so those
+// photos are what keep unfindable releases from showing blank.
+//
 // Runs on GitHub Actions, hourly. State lives in
 // backend/artwork-sweep-state.json in this repo, committed by the
 // workflow after each run. New rows also get their
@@ -257,6 +262,102 @@ async function wikiArt(title, artist) {
   }
   return null;
 }
+/* ---------------- artist photos ----------------
+   The app falls back to the artist's photo when a release has no
+   cover, so artists need photos too. Deezer first (exact name match,
+   picture_xl), Wikipedia second (page title must equal the artist
+   name, thumbnail from the summary). Photos land on
+   splotify_artists.image_url, never as fake album art. */
+async function deezerArtistPhoto(name) {
+  const d = await fetchJSON("https://api.deezer.com/search/artist?q=" + encodeURIComponent(name) + "&limit=5", 12000);
+  for (const hit of (d && d.data) || []) {
+    if (norm(hit.name || "") !== norm(name)) continue;
+    const url = hit.picture_xl || hit.picture_big || hit.picture;
+    if (!url) continue;
+    // Deezer returns a placeholder URL with an empty picture id
+    // (images/artist//1000x1000...) for artists with no photo.
+    if (/\/artist\/\//.test(url)) continue;
+    if (await fetchImageOk(url)) return { url, source: "Deezer" };
+  }
+  return null;
+}
+async function wikiArtistPhoto(name) {
+  const s = await fetchJSON(
+    "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=" +
+      encodeURIComponent(name) +
+      "&srnamespace=0&srlimit=3&format=json&origin=*",
+    8000,
+  );
+  const hits = (s && s.query && s.query.search) || [];
+  for (const h of hits) {
+    if (norm(h.title) !== norm(name)) continue;
+    const sum = await fetchJSON(
+      "https://en.wikipedia.org/api/rest_v1/page/summary/" +
+        encodeURIComponent(h.title.replace(/ /g, "_")),
+      6000,
+    );
+    if (!sum || !sum.thumbnail || !sum.thumbnail.source) continue;
+    if (sum.type === "disambiguation") continue;
+    const url = sum.thumbnail.source.split("?")[0];
+    if (await fetchImageOk(url)) return { url, source: "Wikipedia" };
+  }
+  return null;
+}
+async function findArtistPhoto(name) {
+  for (const step of [deezerArtistPhoto, wikiArtistPhoto]) {
+    try {
+      const hit = await step(name);
+      if (hit) return hit;
+    } catch {
+      // one source failing never stops the chain
+    }
+  }
+  // Combined credits ("Ed Sheeran & Justin Bieber", "Holly
+  // Humberstone, d4vd") match no single artist page. Fall back to the
+  // first-named artist: a real photo of the lead artist beats blank.
+  const first = String(name || "").split(/,|&|\s+feat\.?\s+|\s+with\s+/i)[0].trim();
+  if (first && norm(first) !== norm(name)) {
+    for (const step of [deezerArtistPhoto, wikiArtistPhoto]) {
+      try {
+        const hit = await step(first);
+        if (hit) return hit;
+      } catch {}
+    }
+  }
+  return null;
+}
+async function patchArtistImage(artistId, url) {
+  const c = new AbortController();
+  const t = setTimeout(() => c.abort(), 15000);
+  try {
+    const r = await fetch(SUPABASE_URL + "/rest/v1/splotify_artists?id=eq." + encodeURIComponent(artistId), {
+      method: "PATCH",
+      signal: c.signal,
+      headers: { ...restHeaders(SERVICE_KEY), Prefer: "return=representation" },
+      body: JSON.stringify({ image_url: url }),
+    });
+    clearTimeout(t);
+    if (!r.ok) return { error: "HTTP " + r.status };
+    const rows = await r.json();
+    return { row: rows && rows[0] };
+  } catch (e) {
+    clearTimeout(t);
+    return { error: String(e && e.message ? e.message : e) };
+  }
+}
+function writeArtistFile(row) {
+  const dir = resolve(ROOT, "data", "artists");
+  mkdirSync(dir, { recursive: true });
+  const p = resolve(dir, row.id + ".json");
+  let cur = {};
+  try {
+    if (existsSync(p)) cur = JSON.parse(readFileSync(p, "utf8"));
+  } catch {}
+  const merged = { ...cur, ...row };
+  const sorted = {};
+  for (const k of Object.keys(merged).sort()) sorted[k] = merged[k];
+  writeFileSync(p, JSON.stringify(sorted, null, 2) + "\n");
+}
 async function findCover(title, artist) {
   for (const step of [appleArt, deezerArt, caaArt, wikiArt]) {
     try {
@@ -345,7 +446,54 @@ async function main() {
     console.log("OK " + title + " | " + artist + " | " + hit.source);
     await sleep(200);
   }
-  console.log(JSON.stringify({ run: counts, artless_remaining: candidates.length - batch.length, state_stats: state.stats }));
+  /* Artist photos: the app shows the artist's photo when a release
+     has no cover, so fill image_url for artists missing one. */
+  const artistCounts = { found: 0, missed: 0 };
+  try {
+    const artists = await restGet("splotify_artists?select=id,canonical_name&image_url=is.null&order=canonical_name");
+    const missing = artists.filter((a) => {
+      const n = (a.canonical_name || "").trim();
+      if (!n || /^unknown artist$/i.test(n) || /^various artists$/i.test(n)) return false;
+      const f = state.artist_failed && state.artist_failed[a.id];
+      if (f && now - new Date(f.at).getTime() < RETRY_AFTER_MS) return false;
+      return true;
+    }).slice(0, 100);
+    console.log("Artists missing a photo: " + missing.length + " (of " + artists.length + " without one)");
+    for (const a of missing) {
+      const name = a.canonical_name.trim();
+      const hit = await findArtistPhoto(name);
+      if (!hit) {
+        artistCounts.missed++;
+        if (!state.artist_failed) state.artist_failed = {};
+        state.artist_failed[a.id] = { name, at: new Date().toISOString(), attempts: (state.artist_failed[a.id]?.attempts || 0) + 1 };
+        console.log("ARTIST-MISS " + name);
+        continue;
+      }
+      if (DRY_RUN) {
+        artistCounts.found++;
+        console.log("ARTIST-WOULD " + name + " | " + hit.source + " | " + hit.url);
+        continue;
+      }
+      if (!SERVICE_KEY) {
+        console.error("No service key, cannot write.");
+        process.exit(1);
+      }
+      const res = await patchArtistImage(a.id, hit.url);
+      if (res.error) {
+        console.log("ARTIST-WRITE-FAIL " + name + " | " + res.error);
+        continue;
+      }
+      artistCounts.found++;
+      state.artists_found = (state.artists_found || 0) + 1;
+      if (state.artist_failed) delete state.artist_failed[a.id];
+      if (res.row) writeArtistFile(res.row);
+      console.log("ARTIST-OK " + name + " | " + hit.source);
+      await sleep(200);
+    }
+  } catch (e) {
+    console.log("Artist photo step skipped: " + (e && e.message ? e.message : e));
+  }
+  console.log(JSON.stringify({ run: counts, artists: artistCounts, artless_remaining: candidates.length - batch.length, state_stats: state.stats }));
   if (!DRY_RUN) saveState(state);
 }
 if (process.argv[1] && fileURLToPath(import.meta.url) === resolve(process.argv[1])) {
@@ -354,4 +502,4 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === resolve(process.argv[1
     process.exit(1);
   });
 }
-export { findCover, appleArt, deezerArt, caaArt, wikiArt, titleMatches, artistMatches, norm };
+export { findCover, appleArt, deezerArt, caaArt, wikiArt, findArtistPhoto, deezerArtistPhoto, wikiArtistPhoto, titleMatches, artistMatches, norm };
